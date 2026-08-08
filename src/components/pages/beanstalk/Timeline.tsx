@@ -175,6 +175,7 @@ export default function Timeline({
                       bean={bean}
                       flavourId={season.flavourId}
                       formId={season.formId}
+                      animateGlow={false}
                     />
                   </LazyMount>
                 </div>
@@ -290,9 +291,9 @@ export default function Timeline({
                           </p>
                         )}
                         <div className="hidden sm:block">
-                          {node.text ? (
+                          {node.fortuneText ? (
                             <p className="italic text-zinc-300 text-sm mb-2">
-                              "{node.text}"
+                              "{node.fortuneText}"
                             </p>
                           ) : (
                             <p className="italic text-zinc-500 text-xs mb-2">
@@ -300,12 +301,7 @@ export default function Timeline({
                             </p>
                           )}
                           <hr className="border-t border-zinc-800 mt-1 mb-2" />
-                          {node.variant === "question" && node.question ? (
-                            <p className="italic text-zinc-500 text-xs mb-2">
-                              {node.question}
-                            </p>
-                          ) : node.variant === "rorschach" &&
-                            node.rorschachImage ? (
+                          {node.rorschachImage ? (
                             <div
                               aria-hidden
                               className="w-14 h-14 bg-zinc-200 mb-2"
@@ -321,27 +317,21 @@ export default function Timeline({
                               }}
                             />
                           ) : (
-                            node.facetText && (
+                            node.ritualPrompt && (
                               <p className="italic text-zinc-500 text-xs mb-2">
-                                {node.facetTitle && (
+                                {node.ritualTitle && (
                                   <span className="not-italic font-semibold text-zinc-400">
-                                    {node.facetTitle}:{" "}
+                                    {node.ritualTitle}:{" "}
                                   </span>
                                 )}
-                                {node.facetText}
+                                {node.ritualPrompt}
                               </p>
                             )
                           )}
                           <div className="flex flex-wrap items-center gap-2">
-                            {node.variant === "question" && node.answerText ? (
+                            {node.ritualResponse ? (
                               <FortuneAnswerBadge
-                                answerText={node.answerText}
-                                size="sm"
-                              />
-                            ) : node.variant === "rorschach" &&
-                              node.rorschachText ? (
-                              <FortuneAnswerBadge
-                                answerText={node.rorschachText}
+                                answerText={node.ritualResponse}
                                 size="sm"
                               />
                             ) : (
@@ -365,14 +355,15 @@ export default function Timeline({
                               flavourId={fId}
                               formId={frId}
                               qualityId={node.qualityId}
+                              animateGlow={false}
                             />
                           </LazyMount>
                         </div>
                       )}
                       <div className="order-3 w-full flex flex-col items-center sm:hidden">
-                        {node.text ? (
+                        {node.fortuneText ? (
                           <p className="italic text-zinc-300 text-sm mb-2">
-                            "{node.text}"
+                            "{node.fortuneText}"
                           </p>
                         ) : (
                           <p className="italic text-zinc-500 text-xs mb-2">
@@ -380,12 +371,7 @@ export default function Timeline({
                           </p>
                         )}
                         <hr className="border-t border-zinc-800 mt-1 mb-2 w-full" />
-                        {node.variant === "question" && node.question ? (
-                          <p className="italic text-zinc-500 text-xs mb-2">
-                            {node.question}
-                          </p>
-                        ) : node.variant === "rorschach" &&
-                          node.rorschachImage ? (
+                        {node.rorschachImage ? (
                           <div
                             aria-hidden
                             className="w-14 h-14 bg-zinc-200 mb-2"
@@ -401,27 +387,21 @@ export default function Timeline({
                             }}
                           />
                         ) : (
-                          node.facetText && (
+                          node.ritualPrompt && (
                             <p className="italic text-zinc-500 text-xs mb-2">
-                              {node.facetTitle && (
+                              {node.ritualTitle && (
                                 <span className="not-italic font-semibold text-zinc-400">
-                                  {node.facetTitle}:{" "}
+                                  {node.ritualTitle}:{" "}
                                 </span>
                               )}
-                              {node.facetText}
+                              {node.ritualPrompt}
                             </p>
                           )
                         )}
                         <div className="flex flex-wrap items-center justify-center gap-2">
-                          {node.variant === "question" && node.answerText ? (
+                          {node.ritualResponse ? (
                             <FortuneAnswerBadge
-                              answerText={node.answerText}
-                              size="sm"
-                            />
-                          ) : node.variant === "rorschach" &&
-                            node.rorschachText ? (
-                            <FortuneAnswerBadge
-                              answerText={node.rorschachText}
+                              answerText={node.ritualResponse}
                               size="sm"
                             />
                           ) : (
@@ -514,6 +494,7 @@ export default function Timeline({
                             bean={claimedBean}
                             flavourId={claimedFlavourId}
                             formId={claimedFormId}
+                            animateGlow={false}
                           />
                         </LazyMount>
                       </div>

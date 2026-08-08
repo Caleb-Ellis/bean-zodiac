@@ -11,7 +11,6 @@ import {
   type FlavourId,
   type FormId,
   type QualityId,
-  type SpiritTags,
   type Zodiac,
   type ZodiacId,
   type ZodiacMetadata,
@@ -247,18 +246,6 @@ export const getFortuneText = (
   if (qualityId === QualityIds.Rotten) return zodiac.facetLeast;
   return zodiac.facetMid;
 };
-
-// A zodiac's spirit tags, snapshotted onto the fortune entry so spiritBean can
-// replay the soft scoring pass without async zodiac access. These are
-// per-zodiac (trait-based), not per-tier: the tier decides at score time which
-// set (friendly vs anti) is active. See lib/spiritBean and SPIRIT_TAGS.md.
-export const getSpiritTags = (zodiac: Zodiac): SpiritTags => ({
-  friendlyBeans: zodiac.friendlyBeans,
-  antiBeans: zodiac.antiBeans,
-  antiTriple: zodiac.antiTriple,
-  friendlyForm: zodiac.friendlyForm,
-  antiForm: zodiac.antiForm,
-});
 
 export const getDailyText = (
   zodiac: Zodiac,

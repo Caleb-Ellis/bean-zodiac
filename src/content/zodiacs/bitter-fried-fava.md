@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# should be ambitious / grasping / content
 slug: bitter-fried-fava
 lastUpdated: 
 bean: fava

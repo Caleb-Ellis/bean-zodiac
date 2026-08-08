@@ -5,7 +5,7 @@ lastUpdated:
 bean: fava
 flavour: spicy
 form: smoked
-trait: unbridled
+trait: wild
 excess: riotous
 inverse: checked
 quote: Born free, as bean as the wind blows.
@@ -45,4 +45,4 @@ rorschachLow: a brick in a wall
 rorschachLeast: a millstone at rest
 ---
 
-Chipotle Fava Beans are the Bean Zodiac's most unbridled. When they are in, they are all the way in, and the night goes somewhere nobody planned for. Sometimes it goes further than anybody could hold. Keeping something within sensible limits is not how they participate.
+Chipotle Fava Beans are the Bean Zodiac's wildest. When they are in, they are all the way in, and the night goes somewhere nobody planned for. Sometimes it goes further than anybody could hold. Keeping something within sensible limits is not how they participate.

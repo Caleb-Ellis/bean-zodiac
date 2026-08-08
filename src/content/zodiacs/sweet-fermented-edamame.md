@@ -5,7 +5,7 @@ lastUpdated:
 bean: edamame
 flavour: sweet
 form: fermented
-trait: practiced
+trait: practised
 excess: rote
 inverse: unrehearsed
 quote: Practice makes bean.
@@ -45,4 +45,4 @@ rorschachLow: a cracked mould
 rorschachLeast: a splash nobody planned
 ---
 
-Funky Edamame are the Bean Zodiac's most practiced. The speech, the difficult call, the recipe — all done so many times that it looks like ease. Sometimes it runs on rails long after the situation changed. Improvising from nothing makes them uncomfortable.
+Funky Edamame are the Bean Zodiac's most practised. The speech, the difficult call, the recipe — all done so many times that it looks like ease. Sometimes it runs on rails long after the situation changed. Improvising from nothing makes them uncomfortable.

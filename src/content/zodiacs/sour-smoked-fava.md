@@ -5,7 +5,7 @@ lastUpdated:
 bean: fava
 flavour: sour
 form: smoked
-trait: unblinking
+trait: clear-eyed
 excess: merciless
 inverse: squeamish
 quote: If you gaze long into a bean, the bean gazes also into you.
@@ -45,4 +45,4 @@ rorschachLow: spectacles set down
 rorschachLeast: a hand over the eyes
 ---
 
-Cured Fava Beans are the Bean Zodiac's most unblinking. They look at the scan, the numbers, the state of the marriage, and describe them without flinching. Sometimes there is no mercy left in the description. Looking away from a bad thing they do not allow themselves.
+Cured Fava Beans are the Bean Zodiac's most clear-eyed. They look at the scan, the numbers, the state of the marriage, and describe them without flinching. Sometimes there is no mercy left in the description. Looking away from a bad thing they do not allow themselves.

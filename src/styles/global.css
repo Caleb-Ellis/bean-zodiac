@@ -231,6 +231,18 @@ html {
   border-color: var(--form-smoked);
 }
 
+/*
+ * Grid cells holding Beans. LazyMount only defers the first mount — once a bean
+ * scrolls into view it stays mounted, so a long scroll accumulates live filter
+ * chains. content-visibility lets the browser skip rendering them again while
+ * they're off screen. --cell-height keeps scrollbar geometry stable before a
+ * cell has ever been laid out.
+ */
+.bean-cell {
+  content-visibility: auto;
+  contain-intrinsic-size: auto var(--cell-height, 10rem);
+}
+
 .flavour-filter-sweet {
   --flavour-filter: sepia(0.5) hue-rotate(300deg) saturate(1.75);
 }

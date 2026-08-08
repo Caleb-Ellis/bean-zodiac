@@ -5,7 +5,7 @@ lastUpdated:
 bean: fava
 flavour: bitter
 form: roasted
-trait: unabashed
+trait: shameless
 excess: brazen
 inverse: sheepish
 quote: I don't care what you think unless it's about my bean.
@@ -45,4 +45,4 @@ rorschachLow: a bell muffled in cloth
 rorschachLeast: a blush spreading outward
 ---
 
-Wood-Fired Fava Beans are the Bean Zodiac's most unabashed. They ask the waiter to redo it, sing at the table, wear the coat, and none of it is done for effect. Occasionally the room did mind. Shame at having taken up space is a feeling they don't get.
+Wood-Fired Fava Beans are the Bean Zodiac's most shameless. They ask the waiter to redo it, sing at the table, wear the coat, and none of it is done for effect. Occasionally the room did mind. Shame at having taken up space is a feeling they don't get.

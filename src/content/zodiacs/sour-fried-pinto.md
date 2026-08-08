@@ -5,7 +5,7 @@ lastUpdated:
 bean: pinto
 flavour: sour
 form: fried
-trait: unguarded
+trait: open
 excess: artless
 inverse: guarded
 quote: Speak what we bean, not what we ought to say.
@@ -45,4 +45,4 @@ rorschachLow: a hand half closed
 rorschachLeast: a shutter across a window
 ---
 
-Agrodolce Pinto Beans are the Bean Zodiac's most unguarded. Half an hour in and a stranger knows the real reason they left the last job. Sometimes the room wasn't safe for it. Holding something back for later is a manoeuvre they can't seem to execute.
+Agrodolce Pinto Beans are the Bean Zodiac's most open. Half an hour in and a stranger knows the real reason they left the last job. Sometimes the room wasn't safe for it. Holding something back for later is a manoeuvre they can't seem to execute.

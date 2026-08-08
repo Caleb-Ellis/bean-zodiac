@@ -19,7 +19,19 @@ export default function MePage() {
   const fileInput = useRef<HTMLInputElement>(null);
   const [error, setError] = useState<string | null>(null);
 
-  if (!claimedSlug) return null;
+  if (!claimedSlug) {
+    return (
+      <div className="flex flex-col items-center gap-4 mt-28 text-center animate-fade-up">
+        <p className="text-zinc-400">You haven't claimed a Bean yet.</p>
+        <a
+          href="/wheel"
+          className="bg-zinc-900/80 border-2 border-zinc-500/60 text-white rounded-xl px-8 py-4 font-bold backdrop-blur-sm transition-[border-color,background-color,color] duration-200 hover:border-zinc-400 hover:text-white hover:bg-zinc-800/80"
+        >
+          Consult the wheel to find yours&nbsp;→
+        </a>
+      </div>
+    );
+  }
 
   const handleImportFile = async (e: React.ChangeEvent<HTMLInputElement>) => {
     const file = e.target.files?.[0];
@@ -57,20 +69,25 @@ export default function MePage() {
 
   return (
     <ZodiacDetail id={claimedSlug}>
-      <div className="mt-2 flex flex-col items-center gap-3 border-t border-zinc-800 pt-5">
-        <div className="flex flex-wrap gap-4">
-          <button onClick={exportData} className={pillClass}>
-            Export Data <span className="text-xs">↓</span>
-          </button>
-          <button
-            onClick={() => fileInput.current?.click()}
-            className={pillClass}
-          >
-            Import Data <span className="text-xs">↑</span>
-          </button>
-          <button onClick={handleRelinquish} className={dangerPillClass}>
-            Relinquish Bean <span className="text-xs">✕</span>
-          </button>
+      <div className="mt-2 flex flex-col gap-3 border-t border-zinc-800 pt-5">
+        <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+          <div className="flex justify-between gap-4 sm:justify-start">
+            <button onClick={exportData} className={pillClass}>
+              Export Data <span className="text-xs">↓</span>
+            </button>
+            <button
+              onClick={() => fileInput.current?.click()}
+              className={pillClass}
+            >
+              Import Data <span className="text-xs">↑</span>
+            </button>
+          </div>
+          <hr className="border-zinc-800 sm:hidden" />
+          <div className="flex justify-end">
+            <button onClick={handleRelinquish} className={dangerPillClass}>
+              Relinquish Bean <span className="text-xs">✕</span>
+            </button>
+          </div>
         </div>
         <input
           ref={fileInput}
@@ -79,7 +96,7 @@ export default function MePage() {
           onChange={handleImportFile}
           className="hidden"
         />
-        {error && <p className="text-sm text-zinc-400">{error}</p>}
+        {error && <p className="text-center text-sm text-zinc-400">{error}</p>}
       </div>
     </ZodiacDetail>
   );

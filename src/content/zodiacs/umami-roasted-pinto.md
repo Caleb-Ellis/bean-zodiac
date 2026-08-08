@@ -31,12 +31,12 @@ facetLowTitle: My Lips Are Beaned
 facetLow: When asked what you do, you reply with just the job title and then immediately ask them the same.
 facetLeastTitle: Don't Bean a Word
 facetLeast: Your mother wants to know what your new partner's like. You say they're nice.
-question: A friend you were never super close with, and haven't spoken to in months, texts "how are you?". What do they get back?
+question: A friend you were a bit close with, and haven't spoken to in months, texts "how are you?". What do they get back?
 answerMost: an eleven-minute voice note
 answerHigh: three paragraphs with most of the year in them
 answerMid: a few lines, and the same question back
-answerLow: "good thanks, you?"
-answerLeast: a thumbs up
+answerLow: "I'm good, you?"
+answerLeast: nothing
 rorschachMost: a map of an empire
 rorschachHigh: a river delta
 rorschachMid: frost on a window

@@ -5,7 +5,7 @@ lastUpdated:
 bean: cannellini
 flavour: spicy
 form: dried
-trait: unerring
+trait: sure
 excess: infallible
 inverse: erratic
 quote: I came, I saw, I beaned.
@@ -45,4 +45,4 @@ rorschachLow: a cracked plate
 rorschachLeast: a shattered windscreen
 ---
 
-Sichuan Cannellini Beans are the Bean Zodiac's most unerring. They pick the right supplier, the right week, the right wording, and afterwards it all looks obvious. Being right that often makes correction hard to hear. Guessing and adjusting as they go isn't how they operate.
+Sichuan Cannellini Beans are the Bean Zodiac's surest. They pick the right supplier, the right week, the right wording, and afterwards it all looks obvious. Being right that often makes correction hard to hear. Guessing and adjusting as they go isn't how they operate.

@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import { getBeanYear, type ZodiacId } from "../../../lib/zodiac";
 import { type AllZodiacData } from "../../../lib/data";
 import { useStore } from "../../../store";
+import { useUiStore } from "../../../store/ui";
 import {
   computeSpiritBeanScores,
   SPIRIT_BEAN_RING,
@@ -110,8 +111,8 @@ export default function Beanstalk({ nodes, currentScores, data, claimedSlug }: P
   const bornIdx = fortuneNodesInYear.length;
 
   const [activeIdx, setActiveIdx] = useState<number | null>(null);
-  const radarExpanded = useStore((s) => s.radarExpanded);
-  const setRadarExpanded = useStore((s) => s.setRadarExpanded);
+  const radarExpanded = useUiStore((s) => s.radarExpanded);
+  const setRadarExpanded = useUiStore((s) => s.setRadarExpanded);
 
   const [display, setDisplay] = useState<DisplayValues>(currentDisplay);
 

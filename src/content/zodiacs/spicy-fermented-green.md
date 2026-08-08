@@ -5,7 +5,7 @@ lastUpdated:
 bean: green
 flavour: spicy
 form: fermented
-trait: unconventional
+trait: maverick
 excess: anarchic
 inverse: conforming
 quote: Here's to the crazy beans, the misfits, the rebels, the troublemakers.
@@ -45,4 +45,4 @@ rorschachLow: two rocks, one chipped
 rorschachLeast: two tiles, identically cut
 ---
 
-Kimchi Green Beans are the Bean Zodiac's most unconventional. No wedding, no car, a job title nobody has heard of, and a life that visibly works. Occasionally the refusing becomes the whole personality. Choosing something ordinary because it suits them is oddly hard.
+Kimchi Green Beans are the Bean Zodiac's most maverick. No wedding, no car, a job title nobody has heard of, and a life that visibly works. Occasionally the refusing becomes the whole personality. Choosing something ordinary because it suits them is oddly hard.

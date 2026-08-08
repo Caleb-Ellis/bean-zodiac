@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo rorschachs
+# should be indignant / incandescent / inured
 slug: sour-roasted-navy
 lastUpdated: 
 bean: navy

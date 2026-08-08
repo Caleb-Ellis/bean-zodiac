@@ -1,5 +1,5 @@
 import { Link, useLocation } from "@tanstack/react-router";
-import { useEffect, useRef, useState } from "react";
+import { useHideOnScrollDown } from "../../lib/useHideOnScrollDown";
 
 const tabs = [
   {
@@ -15,51 +15,22 @@ const tabs = [
     match: (p: string) => p.startsWith("/beanstalk"),
   },
   {
-    href: "/compatibility",
-    label: "Match",
-    emoji: "❤️",
-    match: (p: string) => p.startsWith("/compatibility"),
-  },
-  {
     href: "/wheel",
     label: "Wheel",
     emoji: "🛞",
     match: (p: string) => p === "/wheel",
   },
+  {
+    href: "/me",
+    label: "My Bean",
+    emoji: "👤",
+    match: (p: string) => p.startsWith("/me"),
+  },
 ];
 
 export function BottomTabBar() {
   const { pathname } = useLocation();
-  const [hidden, setHidden] = useState(false);
-  const lastY = useRef(0);
-
-  useEffect(() => {
-    lastY.current = window.scrollY;
-    let frame = 0;
-
-    const onScroll = () => {
-      if (frame) return;
-      frame = requestAnimationFrame(() => {
-        frame = 0;
-        const y = window.scrollY;
-        const delta = y - lastY.current;
-        if (y < 16) {
-          setHidden(false);
-        } else if (delta > 4) {
-          setHidden(true);
-        } else if (delta < -4) {
-          setHidden(false);
-        }
-        lastY.current = y;
-      });
-    };
-
-    window.addEventListener("scroll", onScroll, { passive: true });
-    return () => {
-      window.removeEventListener("scroll", onScroll);
-      if (frame) cancelAnimationFrame(frame);
-    };
-  }, []);
+  const hidden = useHideOnScrollDown();
 
   return (
     <nav

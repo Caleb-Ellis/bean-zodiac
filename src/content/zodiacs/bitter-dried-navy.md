@@ -5,7 +5,7 @@ lastUpdated:
 bean: navy
 flavour: bitter
 form: dried
-trait: unwavering
+trait: steady
 excess: inflexible
 inverse: vacillating
 quote: I am constant as the northern bean.
@@ -45,4 +45,4 @@ rorschachLow: a needle drifting slightly
 rorschachLeast: a weathercock in gusts
 ---
 
-Desiccated Navy Beans are the Bean Zodiac's most unwavering. What they said in January they will say in November, and people arrange their lives around it. When the facts change the position sometimes doesn't. Someone who reverses twice in a week gives them vertigo.
+Desiccated Navy Beans are the Bean Zodiac's most steady. What they said in January they will say in November, and people arrange their lives around it. When the facts change the position sometimes doesn't. Someone who reverses twice in a week gives them vertigo.

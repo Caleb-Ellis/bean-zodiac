@@ -47,13 +47,14 @@ export default function BeanstalkPage({ data }: Props) {
 
   if (claimedSlug === null) {
     return (
-      <div className="flex flex-col items-center gap-4 py-16 text-center animate-fade-up">
-        <p className="text-zinc-400">
-          You haven't claimed a Bean yet.{" "}
-          <a href="/wheel" className="link">
-            Consult the wheel to find yours.
-          </a>
-        </p>
+      <div className="flex flex-col items-center gap-4 mt-16 text-center animate-fade-up">
+        <p className="text-zinc-400">You haven't claimed a Bean yet.</p>
+        <a
+          href="/wheel"
+          className="bg-zinc-900/80 border-2 border-zinc-500/60 text-white rounded-xl px-8 py-4 font-bold backdrop-blur-sm transition-[border-color,background-color,color] duration-200 hover:border-zinc-400 hover:text-white hover:bg-zinc-800/80"
+        >
+          Consult the wheel to find yours&nbsp;→
+        </a>
       </div>
     );
   }

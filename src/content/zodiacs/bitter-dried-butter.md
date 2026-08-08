@@ -1,12 +1,12 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: bitter-dried-butter
-lastUpdated: 
+lastUpdated:
 bean: butter
 flavour: bitter
 form: dried
-trait: unperturbed
-excess: unmoved
+trait: tranquil
+excess: sedate
 inverse: rattled
 quote: Let not your bean be troubled.
 creature: basking shark
@@ -45,4 +45,4 @@ rorschachLow: the block shifting slightly
 rorschachLeast: a tin roof in hail
 ---
 
-Desiccated Butter Beans are the Bean Zodiac's most unperturbed. Flight cancelled, hotel gone, and they're reading the board for the next one while the queue comes apart. Nothing at all gets a rise — the people who love them have never once seen them thrown.
+Desiccated Butter Beans are the Bean Zodiac's most tranquil. Flight cancelled, hotel gone, and they're reading the board for the next one while the queue comes apart. Nothing at all gets a rise — the people who love them have never once seen them thrown.

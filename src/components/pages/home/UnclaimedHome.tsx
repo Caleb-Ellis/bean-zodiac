@@ -41,9 +41,13 @@ export default function UnclaimedHome({ data, date, showQuote }: Props) {
       <section className="flex flex-col items-center gap-2">
         <h2 className="mb-2 flex flex-col items-center font-bold">
           <span className="block text-md sm:text-xl mb-2 sm:mb-4">
-            {zodiac
-              ? `We are in the ${zodiac.trait} season of the`
-              : "We are in the season of the"}
+            {zodiac ? (
+              <>
+                We are in the <strong>{zodiac.trait}</strong> season of the
+              </>
+            ) : (
+              "We are in the season of the"
+            )}
           </span>
           <span className="block text-4xl sm:text-7xl mb-3 sm:mb-7">
             <ZodiacName

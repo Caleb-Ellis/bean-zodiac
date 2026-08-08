@@ -1,7 +1,6 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-fried-adzuki
-lastUpdated:
+lastUpdated: 2026-08-09
 bean: adzuki
 flavour: spicy
 form: fried
@@ -23,7 +22,7 @@ fortuneMid: One must work hard to tire a jack russell.
 fortuneLow: Save some energy for later.
 fortuneLeast: It needs nothing added, but something removed.
 facetMostTitle: Can't Bean Us
-facetMost: Six weeks off after your operation — avoid walking if you can, no lifting, nothing strenuous. Those were the doctor's orders. You're back out in the garden inside a fortnight, because sitting still was doing you more harm than the surgery.
+facetMost: Six weeks off after your operation — avoid walking if you can, no lifting, nothing strenuous. Those were the doctor's orders. You're out and about within a fortnight, because sitting still was doing you more harm than the surgery.
 facetHighTitle: Beanstoppable
 facetHigh: Fourth day of rain on the construction site and everybody's looking grim, not a word all morning. You can't leave a mood like that alone — so the radio goes up on the scaffold and you start singing.
 facetMidTitle: Beanogo
@@ -32,12 +31,12 @@ facetLowTitle: Put Out, Bean
 facetLow: It's your cousin's wedding, the band's playing, and you're up dancing. Someone signals you to say they think we're supposed to wait for one more speech before dancing, a little unsure, but you sit back down regardless.
 facetLeastTitle: A Bean Squib
 facetLeast: You drive an ice cream van with a pretty great jingle, not too loud but loud enough for people in their homes to hear. A woman comes out to ask you to "stop that racket", no reason given. You switch it off and work the street quiet.
-question: The job you'd stopped hoping for rings to offer it to you, and you're in a meeting that has an hour left to run. You...
-answerMost: tell them anyway, all of it, immediately
-answerHigh: get somebody outside on the phone inside a minute
-answerMid: send one message and sit on the rest
-answerLow: hold onto it until you are home
-answerLeast: find that by evening the fizz has gone out of it
+question: Camping with friends, it's past eleven, all of you round the fire laughing. Someone from the next pitch comes over and asks you to keep it down. You...
+answerMost: get louder, and get them to join you
+answerHigh: give it ten minutes, then you're going again
+answerMid: carry on, just quieter
+answerLow: keep it low and let it fizzle out
+answerLeast: call it a night
 rorschachMost: bucking horses
 rorschachHigh: firecrackers
 rorschachMid: a performer on stilts

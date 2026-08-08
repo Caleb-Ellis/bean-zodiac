@@ -6,8 +6,8 @@ export const Route = createFileRoute("/wheel")({
   component: () => (
     <div className="animate-fade-up">
       <section className="text-center py-8">
-        <h1 className="text-5xl sm:text-7xl font-bold tracking-tight">
-          Consult the Wheel
+        <h1 className="text-5xl sm:text-7xl font-bold tracking-tight text-balance">
+          The Wheel of Beans
         </h1>
       </section>
       <section className="border-zinc-800 flex flex-col items-center">

@@ -17,7 +17,8 @@ export const Route = createFileRoute("/beaniary/beans/")({
           {beans.map(([id, bean]) => (
             <li
               key={id}
-              className="rounded-2xl border-2 border-zinc-800 bg-zinc-900 overflow-hidden hover:border-zinc-600 transition-colors"
+              className="bean-cell rounded-2xl border-2 border-zinc-800 bg-zinc-900 overflow-hidden hover:border-zinc-600 transition-colors"
+              style={{ "--cell-height": "24rem" } as React.CSSProperties}
             >
               <Link
                 to="/beaniary/beans/$id"

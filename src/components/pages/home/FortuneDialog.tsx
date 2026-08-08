@@ -66,6 +66,7 @@ export default function FortuneDialog({ data, fortune }: Props) {
                   zodiacId={fortuneZodiacId}
                   qualityId={qualityId}
                   asLink={false}
+                  showPoles={false}
                 />
               </p>
               <Bean

@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# should be contrite / self-flagellating / impenitent
 slug: bitter-fermented-cannellini
 lastUpdated: 
 bean: cannellini

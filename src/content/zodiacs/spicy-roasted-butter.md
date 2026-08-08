@@ -5,7 +5,7 @@ lastUpdated:
 bean: butter
 flavour: spicy
 form: roasted
-trait: hedonistic
+trait: indulgent
 excess: dissolute
 inverse: puritanical
 quote: Eat, bean, and be merry, for tomorrow we diet.

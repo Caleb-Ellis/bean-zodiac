@@ -5,7 +5,7 @@ lastUpdated:
 bean: adzuki
 flavour: spicy
 form: dried
-trait: unquenched
+trait: avid
 excess: insatiable
 inverse: sated
 quote: Set the world on bean.
@@ -45,4 +45,4 @@ rorschachLow: a beak half closed
 rorschachLeast: a full crop, head down
 ---
 
-Sichuan Adzuki Beans are the Bean Zodiac's most unquenched. The thing they wanted arrived, and they were delighted, and by the weekend they were after the next one. Nothing quite fills it. Sitting back, satisfied, with no further appetite is a rest they never reach.
+Sichuan Adzuki Beans are the Bean Zodiac's most avid. The thing they wanted arrived, and they were delighted, and by the weekend they were after the next one. Nothing quite fills it. Sitting back, satisfied, with no further appetite is a rest they never reach.

@@ -16,6 +16,12 @@ import {
   type Zodiac,
   type ZodiacId,
 } from "../../lib/zodiac";
+import { useStore } from "../../store";
+
+/** Placeholder for a trait the user hasn't cooked this bean to yet. */
+function Unknown() {
+  return <span className="text-zinc-600 tracking-widest">???</span>;
+}
 
 interface Props {
   id: ZodiacId;
@@ -39,12 +45,20 @@ export default function ZodiacDetail({ id, children }: Props) {
     fetchZodiac(id).then(setZodiac);
   }, [id]);
 
+  // Meeting the bean at any quality opens the whole page; never meeting it
+  // leaves everything hidden.
+  const metTiers = useStore((s) => s.metBeans[id]);
+  const everMet = !!metTiers && Object.keys(metTiers).length > 0;
+
   if (!bean || !flavour || !form) return null;
 
   const preparation = getPreparationName(flavourId, formId);
 
   return (
-    <div className="animate-fade-up relative rounded-2xl p-[1.5px] overflow-hidden shadow-2xl shadow-black/90">
+    <div
+      className="animate-fade-up relative rounded-2xl p-[1.5px] overflow-hidden shadow-2xl shadow-black/90"
+      style={{ animationDelay: "50ms" }}
+    >
       <div
         className="absolute"
         style={{
@@ -75,29 +89,36 @@ export default function ZodiacDetail({ id, children }: Props) {
               <span className="text-zinc-600">×</span>
               <BeanBadge id={beanId} name={bean.name} />
             </div>
-            {zodiac && <p className="text-zinc-300 italic">"{zodiac.quote}"</p>}
-            {zodiac && (
-              <div className="markdown-content mb-2">
-                <ReactMarkdown>{zodiac.content}</ReactMarkdown>
-              </div>
+            {zodiac && everMet && (
+              <p className="text-zinc-300 italic">"{zodiac.quote}"</p>
             )}
+            {zodiac &&
+              (everMet ? (
+                <div className="markdown-content mb-2">
+                  <ReactMarkdown>{zodiac.content}</ReactMarkdown>
+                </div>
+              ) : (
+                <p className="text-zinc-500 italic mb-2">
+                  You've never met this bean...
+                </p>
+              ))}
             {zodiac && (
               <div className="flex flex-col sm:flex-row gap-4">
                 <dl className="flex-1 sm:self-start grid grid-cols-[auto_1fr] rounded-xl border border-zinc-700/60 bg-zinc-900/80 divide-y divide-zinc-800 overflow-hidden">
                   <div className="col-span-2 grid grid-cols-subgrid items-center gap-x-3 px-4 py-2.5">
                     <dt className="text-xs uppercase tracking-widest text-zinc-500">
-                      Undercooked
+                      Raw
                     </dt>
                     <dd className="text-sm text-zinc-400 text-right">
-                      {zodiac.inverse}
+                      {everMet ? zodiac.inverse : <Unknown />}
                     </dd>
                   </div>
                   <div className="col-span-2 grid grid-cols-subgrid items-center gap-x-3 px-4 py-2.5 bg-zinc-800/40">
                     <dt className="text-xs uppercase tracking-widest text-zinc-400">
-                      Well-Cooked
+                      Cooked
                     </dt>
                     <dd className="text-effect-silver text-sm font-semibold text-right">
-                      {zodiac.trait}
+                      {everMet ? zodiac.trait : <Unknown />}
                     </dd>
                   </div>
                   <div className="col-span-2 grid grid-cols-subgrid items-center gap-x-3 px-4 py-2.5">
@@ -105,7 +126,7 @@ export default function ZodiacDetail({ id, children }: Props) {
                       Overcooked
                     </dt>
                     <dd className="text-sm text-zinc-400 text-right">
-                      {zodiac.excess}
+                      {everMet ? zodiac.excess : <Unknown />}
                     </dd>
                   </div>
                 </dl>

@@ -2,9 +2,6 @@ import { useEffect, useRef, useState } from "react";
 import DateInput from "../ui/DateInput";
 import {
   getZodiacMetadataForDate,
-  type BeanId,
-  type FlavourId,
-  type FormId,
   type Zodiac,
   type ZodiacId,
 } from "../../lib/zodiac";
@@ -12,15 +9,6 @@ import { fetchZodiac, type AllZodiacData } from "../../lib/data";
 import { useStore } from "../../store";
 import ZodiacWheel, { BEANS_LETTERS } from "./wheel/ZodiacWheel";
 import ZodiacIdentity from "../zodiac/ZodiacIdentity";
-import {
-  CompatibilityResult,
-  CALCULATING_TEXTS,
-  CALC_CYCLE_MS,
-  CALC_FADE_MS,
-  CALC_NUM_TEXTS,
-  REVEAL_STEP_MS,
-  type MetaSlice,
-} from "./compatibility/CompatibilityResult";
 
 type Props = {
   data: AllZodiacData;
@@ -45,11 +33,6 @@ const MORE_BEANS_LABELS = [
   "I Am Still Hungry for Beans",
   "I Have a Need. A Need for Beans",
 ];
-
-function parseClaimedSlug(slug: ZodiacId): MetaSlice {
-  const [flavourId, formId, beanId] = slug.split("-") as [FlavourId, FormId, BeanId];
-  return { flavourId, formId, beanId };
-}
 
 export default function WheelPage({ data }: Props) {
   const [inputDate, setInputDate] = useState<string>(() => {
@@ -80,17 +63,6 @@ export default function WheelPage({ data }: Props) {
   const [beansVisible, setBeansVisible] = useState(false);
   const [beansLetterCount, setBeansLetterCount] = useState(0);
 
-  // Compatibility state
-  const compatGenerationRef = useRef(0);
-  const [compatMounted, setCompatMounted] = useState(false);
-  const [compatVisible, setCompatVisible] = useState(false);
-  const [compatKey, setCompatKey] = useState(0);
-  const [compatMetaA, setCompatMetaA] = useState<MetaSlice | null>(null);
-  const [compatMetaB, setCompatMetaB] = useState<MetaSlice | null>(null);
-  const [compatRevealedCount, setCompatRevealedCount] = useState(0);
-  const [compatCalculatingText, setCompatCalculatingText] = useState<string | null>(null);
-  const [compatCalculatingVisible, setCompatCalculatingVisible] = useState(false);
-
   useEffect(() => {
     if (selectedDate && !zodiac) {
       const zodiacId = getZodiacMetadataForDate(selectedDate).zodiacId;
@@ -99,14 +71,6 @@ export default function WheelPage({ data }: Props) {
   }, []);
 
   const controlsHidden = spinning || resultMounted;
-
-  // Whether to show the compat button: claimed bean exists and result is for a different zodiac
-  const showCompatButton =
-    claimedSlug &&
-    selectedDate &&
-    resultVisible &&
-    !compatMounted &&
-    getZodiacMetadataForDate(selectedDate).zodiacId !== claimedSlug;
 
   function handleReveal() {
     if (!inputDate) return;
@@ -121,10 +85,6 @@ export default function WheelPage({ data }: Props) {
       setResultMounted(false);
       setResultVisible(false);
       setSelectedDate(parsed);
-      // Reset compat when spinning to a new date
-      setCompatMounted(false);
-      setCompatVisible(false);
-      compatGenerationRef.current++;
       const url = new URL(window.location.href);
       url.searchParams.set("date", inputDate);
       window.history.pushState({}, "", url);
@@ -166,9 +126,6 @@ export default function WheelPage({ data }: Props) {
     setJustClaimed(false);
     setSpinning(true);
     setResultVisible(false);
-    setCompatMounted(false);
-    setCompatVisible(false);
-    compatGenerationRef.current++;
     setTimeout(() => {
       setResultMounted(false);
       setSpinning(false);
@@ -178,65 +135,6 @@ export default function WheelPage({ data }: Props) {
       window.history.pushState({}, "", url);
       topRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
     }, FADE_MS);
-  }
-
-  function handleCheckCompatibility() {
-    if (!claimedSlug || !selectedDate) return;
-
-    const generation = ++compatGenerationRef.current;
-    const guard = (fn: () => void) => () => {
-      if (compatGenerationRef.current === generation) fn();
-    };
-
-    const resolvedMetaA = parseClaimedSlug(claimedSlug);
-    const resolvedMetaB: MetaSlice = getZodiacMetadataForDate(selectedDate);
-
-    setCompatRevealedCount(0);
-    setCompatCalculatingVisible(false);
-
-    setCompatMetaA(resolvedMetaA);
-    setCompatMetaB(resolvedMetaB);
-    setCompatKey((k) => k + 1);
-    setCompatMounted(true);
-    setCompatVisible(true);
-
-    const shuffled = [...CALCULATING_TEXTS].sort(() => Math.random() - 0.5);
-    const texts = shuffled.slice(0, CALC_NUM_TEXTS);
-
-    setCompatCalculatingText(texts[0]);
-    requestAnimationFrame(guard(() => setCompatCalculatingVisible(true)));
-
-    for (let i = 1; i < CALC_NUM_TEXTS; i++) {
-      setTimeout(
-        guard(() => setCompatCalculatingVisible(false)),
-        i * CALC_CYCLE_MS - CALC_FADE_MS,
-      );
-      setTimeout(
-        guard(() => {
-          setCompatCalculatingText(texts[i]);
-          requestAnimationFrame(guard(() => setCompatCalculatingVisible(true)));
-        }),
-        i * CALC_CYCLE_MS,
-      );
-    }
-
-    const revealAt = CALC_NUM_TEXTS * CALC_CYCLE_MS;
-    setTimeout(
-      guard(() => setCompatCalculatingVisible(false)),
-      revealAt - CALC_FADE_MS,
-    );
-    setTimeout(
-      guard(() => {
-        setCompatCalculatingText(null);
-        for (let i = 1; i <= 4; i++) {
-          setTimeout(
-            guard(() => setCompatRevealedCount(i)),
-            i * REVEAL_STEP_MS,
-          );
-        }
-      }),
-      revealAt,
-    );
   }
 
   return (
@@ -304,35 +202,6 @@ export default function WheelPage({ data }: Props) {
             claimed={justClaimed}
             hasClaimed={!!claimedSlug && !justClaimed}
           />
-
-          {showCompatButton && (
-            <div className="mt-8 animate-fade-up">
-              <button
-                onClick={handleCheckCompatibility}
-                className="link text-base text-zinc-300 hover:text-white transition-colors cursor-pointer bg-transparent border-none p-0"
-              >
-                Check Compatibility →
-              </button>
-            </div>
-          )}
-
-          {compatMounted && compatMetaA && compatMetaB && (
-            <div
-              className={`mt-10 px-4 py-6 w-full flex flex-col items-center gap-8 transition-opacity duration-300 ${
-                compatVisible ? "opacity-100" : "opacity-0"
-              }`}
-            >
-              <CompatibilityResult
-                key={compatKey}
-                data={data}
-                metaA={compatMetaA}
-                metaB={compatMetaB}
-                revealedCount={compatRevealedCount}
-                calculatingText={compatCalculatingText}
-                calculatingVisible={compatCalculatingVisible}
-              />
-            </div>
-          )}
 
           <div className="mt-8 flex flex-col items-center gap-6">
             <button

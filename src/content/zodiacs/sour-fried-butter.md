@@ -1,14 +1,13 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-fried-butter
-lastUpdated: 
+lastUpdated: 2026-08-10
 bean: butter
 flavour: sour
 form: fried
-trait: unflappable
+trait: composed
 excess: phlegmatic
 inverse: jumpy
-quote: I have known a great many troubles, but most of them never bean.
+quote: I have known a great many troubles, but most of them have never beaned.
 creature: pelican
 dish: Butter beans fried agrodolce with raisin and red wine vinegar.
 friendlyBeans: [adzuki, navy]
@@ -17,32 +16,32 @@ antiTriple: bitter-smoked-mung
 antiBeans: [black, cannellini]
 antiForm: fermented
 seasonalFortune: "A season of raisin and red wine vinegar. The pan spits; nothing at the stove moves."
-fortuneMost: Everything goes in the pouch and gets sorted later, and some of it does not keep.
-fortuneHigh: A small thing handled the minute it lands never grows into a chore.
-fortuneMid: A step you keep calling required is habit wearing a uniform.
-fortuneLow: Your friend is not a counter to be cleared.
-fortuneLeast: Let an empty hour stay empty.
-facetMostTitle: Mr. Beanrogers
-facetMost: The tide has turned and two swimmers are further out than they should be, and the other lifeguard is already on the radio. You finish the sentence you were saying, then go for the board, and neither your walk nor your voice picks up any speed at all.
-facetHighTitle: Beansully
-facetHigh: A slate comes off in the gale and goes through the greenhouse, so you go back inside for a bucket.
-facetMidTitle: The Beanartian
-facetMid: Lights fail in the aquarium tunnel. A child you have never met grabs your hand in the dark. You tell them the sharks cannot see either, and hold on.
-facetLowTitle: Beanjaws
-facetLow: Four minutes left in the escape room and the padlock is not opening. You read the clues out at speed and talk over the one person who is close to it.
-facetLeastTitle: Beanjitterbug
-facetLeast: That compactor bangs on the back of the refuse lorry and you are off the step before you know you have moved. It does that every round, and it gets you every time.
-question: A shelf comes down in the next room while you're mid-sentence. You...
-answerMost: Finish the sentence, then go and look
-answerHigh: Get up and deal with it without much fuss
-answerMid: Pause, listen, and carry on if it stays quiet
-answerLow: Lose the thread of what I was saying
-answerLeast: Jump out of my skin and have to sit down
-rorschachMost: a ball that rights itself
-rorschachHigh: a pebble, nothing chips it
-rorschachMid: a stone worn smooth
-rorschachLow: a pebble rocked once
-rorschachLeast: a bead skittering off
+fortuneMost: A stony face brings little comfort to those in crisis.
+fortuneHigh: The pelican takes a whole wave to the face and carries on.
+fortuneMid: Slow to react isn't slow to notice.
+fortuneLow: A flinch tells someone you heard them.
+fortuneLeast: Oil jumps in the pan; that's how you know it's hot.
+facetMostTitle: Bean Rogers
+facetMost: The doctor gives you the result you'd been hoping not to get, and asks if you need some time to process. You take a deep breath, say you're fine, ask what happens next, and go into work.
+facetHighTitle: Beanully
+facetHigh: Deep-frying doughnuts for the school fair, two trays done and a third in, when the oil goes up and flame licks the extractor hood. You turn the gas off, drop the lid on the pan to starve it of oxygen, and carry on with a barely elevated heartrate.
+facetMidTitle: The Beanian
+facetMid: A spider the size of a coaster scuttles out from under the sofa, and the room empties, shrieking. You get a wide glass and a bit of card and put it out the back door.
+facetLowTitle: Bean Jaws
+facetLow: You're about to head up to bed after watching a particularly scary horror movie when your partner, having just come out of the bathroom, unexpectedly touches you on the shoulder. You jump out of your skin.
+facetLeastTitle: Jitterbean
+facetLeast: You're at a kid's birthday party, and some unruly children are going around popping every balloon they can get their hands on. Every loud pop makes you jump out of your seat.
+question: You're mid-sentence when you think you hear glass shattering upstairs. You...
+answerMost: leave it till you're going up anyway
+answerHigh: finish what you were saying, then go up
+answerMid: go straight up to see what's broken
+answerLow: ask if anyone else heard that sound
+answerLeast: shout up to ask who's there
+rorschachMost: an island
+rorschachHigh: a lion's mane
+rorschachMid: a tuft of wool
+rorschachLow: a single popcorn
+rorschachLeast: smoke from a fire
 ---
 
-Agrodolce Butter Beans are the Bean Zodiac's most unflappable. The kitchen catches fire and they're already carrying the pan outside, saying nothing much. Nothing gets a reaction, including things that warranted one. Jumping at a sudden noise is a reflex they seem not to have.
+Agrodolce Butter Beans are the Bean Zodiac's most composed. The kitchen catches fire and they're already carrying the pan outside, saying nothing much. Nothing gets a reaction, including things that warranted one. Jumping at a sudden noise is a reflex they seem not to have.

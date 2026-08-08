@@ -23,11 +23,7 @@ interface Props {
   claimedSlug: ZodiacId;
 }
 
-export default function ClaimedHomeContent({
-  data,
-  date,
-  claimedSlug,
-}: Props) {
+export default function ClaimedHomeContent({ data, date, claimedSlug }: Props) {
   const [flavourId, formId, beanId] = claimedSlug.split("-") as [
     FlavourId,
     FormId,
@@ -77,7 +73,7 @@ export default function ClaimedHomeContent({
       ? getPreparationName(fortuneFlavourId, fortuneFormId)
       : "";
   const qualityId = todayEntry?.qualityId;
-  const text = todayEntry?.text ?? null;
+  const text = todayEntry?.fortuneText ?? null;
 
   return (
     <div className="flex flex-col items-center text-center gap-6 animate-fade-up">
@@ -167,26 +163,29 @@ export default function ClaimedHomeContent({
             href="/beaniary"
             className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline text-zinc-300"
           >
-            🫘&nbsp; The Beaniary
+            🫘&nbsp; Beaniary
           </a>
           <a
             href="/beanstalk"
             className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline text-zinc-300"
           >
-            🪴&nbsp; The Beanstalk
+            🪴&nbsp; Beanstalk
           </a>
           <a
             href="/me"
             className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-zinc-900 border-2 border-zinc-700 hover:border-zinc-500 transition-colors no-underline text-zinc-300"
           >
-            👤&nbsp; About Me
+            👤&nbsp; My Bean
           </a>
         </div>
         <section className="mt-6 sm:mt-8 max-w-3xl w-full flex flex-col items-center gap-4">
           <Divider />
           <p className="text-xs uppercase tracking-widest text-zinc-200">
             {seasonalZodiac ? (
-              `We are in the ${seasonalZodiac.trait} season of the`
+              <>
+                We are in the <strong>{seasonalZodiac.trait}</strong> season of
+                the
+              </>
             ) : (
               <span className="inline-block h-4 w-48 bg-zinc-800 rounded-full animate-pulse" />
             )}

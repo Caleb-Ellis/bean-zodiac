@@ -4,7 +4,7 @@ lastUpdated: 2026-08-05
 bean: green
 flavour: bitter
 form: smoked
-trait: uncanny
+trait: eerie
 excess: unnerving
 inverse: mundane
 quote: Something is rotten in the bean of Denmark.
@@ -44,4 +44,4 @@ rorschachLow: a pile of coats
 rorschachLeast: a tied bin bag
 ---
 
-Charcoal Green Beans are the Bean Zodiac's most uncanny. They text you the same minute you were about to text them, and it happens too often to keep counting. Occasionally the effect unsettles a stranger. Being ordinary company for an evening is beyond them.
+Charcoal Green Beans are the Bean Zodiac's most eerie. They text you the same minute you were about to text them, and it happens too often to keep counting. Occasionally the effect unsettles a stranger. Being ordinary company for an evening is beyond them.

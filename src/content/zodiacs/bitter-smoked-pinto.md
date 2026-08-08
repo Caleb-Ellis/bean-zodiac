@@ -6,7 +6,7 @@ flavour: bitter
 form: smoked
 trait: intricate
 excess: labyrinthine
-inverse: simplistic
+inverse: rudimentary
 quote: The bean is in the details.
 creature: nautilus
 dish: Pinto beans smoked over pecan with charred serrano.

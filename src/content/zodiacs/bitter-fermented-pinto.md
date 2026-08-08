@@ -1,7 +1,6 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: bitter-fermented-pinto
-lastUpdated: 
+lastUpdated: 2026-08-12
 bean: pinto
 flavour: bitter
 form: fermented
@@ -17,32 +16,32 @@ antiTriple: umami-dried-mung
 antiBeans: [navy, edamame]
 antiForm: boiled
 seasonalFortune: "A season of hoja santa and private colour — the mash makes something the kitchen cannot name."
-fortuneMost: Chainsaws and car alarms sung back whole, and nobody asked the lyrebird for a note.
-fortuneHigh: It's two passes from finished.
-fortuneMid: Let one trusted person see the rough version. Their flinch is the note worth having.
-fortuneLow: Reach for the plain template here.
-fortuneLeast: Plain, working, done.
-facetMostTitle: Portrait of the Artist as a Young Bean
-facetMost: The invitations are hand-set and the plates are mismatched on purpose and the running order of the music has taken you a fortnight of evenings. Two people have now asked what time it starts, and the time is not on the invitation anywhere.
+fortuneMost: The last coat of paint will take the longest if you let it.
+fortuneHigh: You can find beauty wherever your eye settles.
+fortuneMid: The lyrebird is an expert imitator, but it copies nothing exactly.
+fortuneLow: An empty wall can be restful for the mind.
+fortuneLeast: Decoration can be an obstacle.
+facetMostTitle: Portrait of a Bean
+facetMost: You've been doing watercolours for years. A friend has asked you to paint one for them, for their wall. There will be at least ten versions crumpled up and in the bin before you deem one good enough to hand over.
 facetHighTitle: Beanida
-facetHigh: Every label in that garden is in a language nobody reads. You walk it twice. You are the one who works out they are sorted by scent.
-facetMidTitle: Loving Beancent
-facetMid: You are doing the flowers for the hall out of a bucket of whatever was cheap. An hour later it looks like it fell that way.
+facetHigh: A couple you know are moving into their first place and they've sent round a list of things they'd like. You give them something you made instead.
+facetMidTitle: Beaning Vincent
+facetMid: You're wrapping a present on the way out the door. The paper is fine, just plain. You dig out some string, and pull a sprig off a hedge on the walk over to tuck underneath it.
 facetLowTitle: Two and a Half Beans
-facetLow: Somebody has said the room looks fine as it is and there is a way you could hang the two prints that would make it, and the prints stay in the bag under the stairs.
+facetLow: A friend has been agonising for weeks over two shades for their kitchen tiles, and they hold both samples up for your honest opinion. They look pretty similar, hard to tell them apart. You say so, and tell them to get whichever is cheaper.
 facetLeastTitle: Wrecking Bean
-facetLeast: A table needs covering and there is a plastic cloth in the drawer with a pattern of lemons on it, and you put that on and set out the mugs everybody uses. It is a good afternoon and nobody thinks about the table.
-question: You're setting a table for people you like. You...
-answerMost: the plates are sequenced and the invitation was hand-set
-answerHigh: make it look like it fell that way
-answerMid: get one thing on there that's yours
-answerLow: use what's in the cupboard
-answerLeast: plastic cloth, and nobody notices
-rorschachMost: a palette, wells all empty
-rorschachHigh: a mask, two eyeholes
-rorschachMid: a stone and two hollows
-rorschachLow: a pot without decoration
-rorschachLeast: a bucket in a yard
+facetLeast: Everyone has been raving about a fine art exhibition and you've agreed to come along. You do a lap in about twenty minutes, have a cursory read of a few plaques, then sit in the café waiting for the others to come out.
+question: Your six-year-old needs a shark costume for the school play, and they've asked you to make it. You...
+answerMost: spend weeks making the costume as well as a few props
+answerHigh: spend a few days making the costume mostly by hand
+answerMid: make it mostly out of a grey hoodie, with fins and teeth attached
+answerLow: order one off the internet
+answerLeast: send them in a grey jumper and tell them they're a shark
+rorschachMost: a Venetian mask
+rorschachHigh: a lump of wet clay
+rorschachMid: a pet rock
+rorschachLow: an onion
+rorschachLeast: chewing gum
 ---
 
 Cultured Pinto Beans are the Bean Zodiac's most artistic. The invitation is hand-set, the playlist is sequenced, the mismatched plates were mismatched on purpose. Occasionally the effect outranks the occasion. Being told a thing looks fine as it is, they hear as a small insult.

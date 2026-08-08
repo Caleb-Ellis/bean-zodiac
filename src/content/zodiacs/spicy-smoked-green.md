@@ -5,7 +5,7 @@ lastUpdated:
 bean: green
 flavour: spicy
 form: smoked
-trait: untethered
+trait: footloose
 excess: adrift
 inverse: anchored
 quote: A great bean follows a little spark.
@@ -45,4 +45,4 @@ rorschachLow: a boat on a rope
 rorschachLeast: an anchor in the mud
 ---
 
-Chipotle Green Beans are the Bean Zodiac's most untethered. No lease, no fixed plan, three countries in two years, and it genuinely suits them. Sometimes there is nothing holding them anywhere at all. Being reliably in one place for someone is hard to promise.
+Chipotle Green Beans are the Bean Zodiac's most footloose. No lease, no fixed plan, three countries in two years, and it genuinely suits them. Sometimes there is nothing holding them anywhere at all. Being reliably in one place for someone is hard to promise.

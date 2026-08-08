@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo rorschachs
+# should be grateful / indebted / entitled
 slug: sour-roasted-adzuki
 lastUpdated: 
 bean: adzuki

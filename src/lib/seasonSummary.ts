@@ -13,7 +13,7 @@ import type { RitualVariant } from "./fortune";
 import { useStore } from "../store";
 import zodiacTraits from "../data/generated/zodiac-traits.json";
 
-const TRAITS = zodiacTraits as Record<string, string>;
+const TRAITS = zodiacTraits as Record<string, { trait: string }>;
 
 // A season = the Form period (2 months, 6 per bean-year). Once one closes, an
 // engaged user gets a one-time recap; this is the persisted record of it. The
@@ -21,10 +21,7 @@ const TRAITS = zodiacTraits as Record<string, string>;
 // what the user was told, even if the generators change later.
 export type SeasonSummary = {
   seasonKey: string; // closing season startDate "YYYY-MM-DD" — the store key
-  prevZodiacId: ZodiacId; // season summarised
-  nextZodiacId: ZodiacId; // incoming season
   observations: string[]; // ranked lines, already rendered
-  generatedAt: string; // ISO
 };
 
 // Entry-count thresholds that decide how rich the recap is. Below LOW it's a
@@ -41,6 +38,24 @@ function dayBefore(dateStr: string): string {
   const [y, m, d] = dateStr.split("-").map(Number);
   const date = new Date(y!, m! - 1, d! - 1);
   return formatDate(date);
+}
+
+/**
+ * The bean whose season a stored summary covers, and the one that followed it.
+ * Both fall out of the calendar, so only the seasonKey needs persisting.
+ */
+export function seasonZodiacsForKey(seasonKey: string): {
+  prevZodiacId: ZodiacId;
+  nextZodiacId: ZodiacId;
+} {
+  const [y, m, d] = seasonKey.split("-").map(Number);
+  const prevMeta = getZodiacMetadataForDate(new Date(y!, m! - 1, d!));
+  const next = new Date(prevMeta.endDate);
+  next.setDate(next.getDate() + 1);
+  return {
+    prevZodiacId: prevMeta.zodiacId,
+    nextZodiacId: getZodiacMetadataForDate(next).zodiacId,
+  };
 }
 
 // Copy and trait choices are seeded from the season start date so a given season
@@ -99,12 +114,12 @@ const DRIFT_TOWARD_BY_ID: Record<string, readonly string[]> = {
   sour: [
     "A sharp clarity took you; you cut to the honest truth of things.",
     "You grew precise and unsparing, unwilling to sweeten what needed saying.",
-    "Everything came into focus, edged and exact, and you said what you meant.",
+    "Everything came into focus, edged and lively, and you said what you meant.",
   ],
   spicy: [
-    "A restless heat moved through you, quick to remake whatever it touched.",
-    "You lived at full intensity, bold and immediate and hard to ignore.",
-    "Change came fast in you; you burned through the old and reached for the new.",
+    "A heat rose in you that no room could politely overlook.",
+    "You lived at full pitch, vivid and immediate and impossible to half-attend.",
+    "The heat burned the hesitation out of you, and you moved while it was still hot.",
   ],
   sweet: [
     "An easy joy settled over you, generous and unhurried.",
@@ -118,9 +133,9 @@ const DRIFT_TOWARD_BY_ID: Record<string, readonly string[]> = {
   ],
   // Forms
   boiled: [
-    "You grew patient and steady, a quiet source of care for those around you.",
-    "A composed calm held you, nourishing and slow, if touched with melancholy.",
-    "You settled into steadiness, tending things gently and asking little.",
+    "You grew patient and steady, a sustaining presence for those around you.",
+    "A composed calm held you, receptive and slow, if a little heavy to move.",
+    "You softened and gave yourself over, tending things gently and asking little.",
   ],
   dried: [
     "You drew inward, austere and self-contained, needing no one.",
@@ -128,9 +143,9 @@ const DRIFT_TOWARD_BY_ID: Record<string, readonly string[]> = {
     "You pared life down to essentials and bore it alone, without complaint.",
   ],
   fermented: [
-    "You turned inward and strange, perceptive in unconventional ways.",
-    "A complex, introspective mood took you, at ease with the weird and unresolved.",
-    "You saw sideways, finding truth in the odd and the overlooked.",
+    "You turned inward and worked in the dark, arriving somewhere entirely your own.",
+    "A slow, unwitnessed change took you, and you were in no hurry to explain it.",
+    "You reached conclusions by your own route, singular enough that few could follow.",
   ],
   fried: [
     "You moved decisively, passionate and quick, easily lit.",
@@ -138,25 +153,25 @@ const DRIFT_TOWARD_BY_ID: Record<string, readonly string[]> = {
     "You ran hot and certain, throwing yourself at things with full force.",
   ],
   roasted: [
-    "A radiant warmth drew people to you, generous and glad.",
-    "You lived convivially and well, giving freely and savouring the pleasure of it.",
-    "You glowed outward, warm company and unashamed of your appetites.",
+    "You expanded into the open, becoming more plainly what you already were.",
+    "A radiant confidence settled over you; you registered before you spoke.",
+    "You flourished outward, drawing people in without trying to.",
   ],
   smoked: [
-    "You grew harder to read, elusive and oblique, keeping your depths.",
-    "An enigmatic quiet settled over you, present but never quite pinned down.",
-    "You moved at a slant, inscrutable, leaving others guessing.",
+    "You worked indirectly, and rooms changed without anyone naming the cause.",
+    "A lingering quality settled over you; what you said surfaced in others hours later.",
+    "You moved at a slant, suggesting rather than stating, and it carried further that way.",
   ],
   // Beans
   adzuki: [
     "A celebratory joy carried you, generous and light on your feet.",
     "You felt lucky and glad, giving freely and sidestepping whatever weighed things down.",
-    "You leaned toward festivity, warm and open, quick to smile.",
+    "You gathered people and marked the occasions others let pass unnoticed.",
   ],
   black: [
-    "You grew watchful and resilient, determined and slow to trust.",
-    "A guarded, perceptive strength settled in you, seeing much and saying little.",
-    "You endured quietly, inward and unbroken, keeping your own counsel.",
+    "You grew watchful and discreet, trusting only what you had tested yourself.",
+    "A penetrating quiet settled in you; you saw much and gave away little.",
+    "You held your own shape, resolute and unhurried, keeping your counsel.",
   ],
   butter: [
     "A deep ease took you, peaceful and content, indulging small pleasures.",
@@ -196,7 +211,7 @@ const DRIFT_TOWARD_BY_ID: Record<string, readonly string[]> = {
   mung: [
     "A gentle, healing impulse grew in you, tender toward yourself and others.",
     "You turned nurturing and soft, mending quietly, if unsure of your own worth.",
-    "You leaned toward care, kind and regenerative, slow to trust your footing.",
+    "You gave care freely and asked nothing back, whoever happened to be taking.",
   ],
   navy: [
     "You grew principled and steadfast, loyal and immovable once set.",
@@ -206,7 +221,7 @@ const DRIFT_TOWARD_BY_ID: Record<string, readonly string[]> = {
   pinto: [
     "A creative, spontaneous surge took you, expressive and quick to feel.",
     "You lived imaginatively and openly, wearing every feeling where it could be seen.",
-    "You followed inspiration where it led — vivid, unguarded, easily moved.",
+    "You followed invention where it led — vivid, unguarded, unmistakably your own.",
   ],
 };
 
@@ -223,9 +238,9 @@ const DRIFT_AWAY_BY_ID: Record<string, readonly string[]> = {
     "You traded precision for gentleness, and stopped cutting so close to the bone.",
   ],
   spicy: [
-    "The heat in you banked low; you let things keep their shape.",
-    "You cooled from the intense to the calm, in no hurry to transform anything.",
-    "The urge to remake everything left you, and you sat easier with what was.",
+    "The heat in you banked low; you stopped needing to be noticed.",
+    "You cooled from the vivid to the calm, easier to overlook and glad of it.",
+    "The urgency left you, and hesitation stopped feeling like something to burn off.",
   ],
   sweet: [
     "The easy sweetness left you; you took things more seriously.",
@@ -240,8 +255,8 @@ const DRIFT_AWAY_BY_ID: Record<string, readonly string[]> = {
   // Forms
   boiled: [
     "The patient calm in you gave way to something quicker and less settled.",
-    "You grew restless with steadiness, less content to simply tend and wait.",
-    "The quiet, nourishing composure loosened; you wanted motion, not stillness.",
+    "You grew restless with steadiness, less content to yield and sustain.",
+    "The quiet, composed heaviness lifted; you wanted motion, not the still pot.",
   ],
   dried: [
     "The austere solitude in you softened; you opened back toward company.",
@@ -249,9 +264,9 @@ const DRIFT_AWAY_BY_ID: Record<string, readonly string[]> = {
     "The spare, self-contained hardness thawed into something warmer.",
   ],
   fermented: [
-    "The strange introspection lifted; you rejoined the ordinary and plain.",
-    "You grew less inward and less peculiar, content with the straightforward.",
-    "The taste for the unconventional faded, and you sought simpler ground.",
+    "The private work in you surfaced; you rejoined the ordinary and plain.",
+    "You grew less inward and less singular, content to arrive where others already were.",
+    "The slow self-made transformation stalled, and you took the well-trodden route instead.",
   ],
   fried: [
     "The restless fire in you settled; you grew slower to act and quicker to weigh.",
@@ -259,14 +274,14 @@ const DRIFT_AWAY_BY_ID: Record<string, readonly string[]> = {
     "The urgent energy banked, and you stopped rushing headlong at everything.",
   ],
   roasted: [
-    "The radiant warmth in you dimmed; you turned quieter and more inward.",
-    "You grew less convivial, less hungry for pleasure, content with less.",
-    "The generous glow banked low, and you kept more of yourself to yourself.",
+    "The radiance in you dimmed; you took up less room and preferred it.",
+    "You grew less expansive, less magnetic, no longer developing where it showed.",
+    "The outward glow banked low, and you kept more of yourself to yourself.",
   ],
   smoked: [
-    "The enigmatic haze around you cleared; you became easier to read.",
-    "You grew less elusive and more direct, no longer keeping to the shadows.",
-    "The oblique mystery in you faded into something plain and open.",
+    "The haze around you cleared; you said things outright and they landed at once.",
+    "You grew less indirect, working in plain sight rather than at one remove.",
+    "The lingering suggestion in you faded into something stated and finished.",
   ],
   // Beans
   adzuki: [
@@ -276,8 +291,8 @@ const DRIFT_AWAY_BY_ID: Record<string, readonly string[]> = {
   ],
   black: [
     "The guarded watchfulness in you eased; you let others closer.",
-    "You grew less braced and more open, no longer keeping so much to yourself.",
-    "The wary resilience softened into something more trusting.",
+    "You grew less discreet and more open, no longer keeping so much to yourself.",
+    "The habit of testing everything yourself softened into something more trusting.",
   ],
   butter: [
     "The easy stillness in you stirred; you grew restless for something to do.",
@@ -405,7 +420,7 @@ const BRIDGE_SAME: readonly string[] = [
 const BRIDGE_NEAR: readonly string[] = [
   "You leave the season a little more {drift} than before.",
   "The season lent you a {drift} streak.",
-  "You became more {drift} this season.",
+  "You became more {drift} this past season.",
 ];
 
 // A strong drift: you became something the claimed self would barely recognise.
@@ -547,13 +562,7 @@ export function getSeasonSummary(
     windowEntries,
   );
 
-  return {
-    seasonKey: prevStart,
-    prevZodiacId: prevMeta.zodiacId,
-    nextZodiacId: meta.zodiacId,
-    observations,
-    generatedAt: new Date().toISOString(),
-  };
+  return { seasonKey: prevStart, observations };
 }
 
 type WindowEntry = {
@@ -687,14 +696,16 @@ function buildObservations(
 
   // Keep the three most salient signals, then randomise their order so
   // successive seasons don't share a fixed silhouette.
-  const top3 = [...candidates].sort((a, b) => b.salience - a.salience).slice(0, 3);
+  const top3 = [...candidates]
+    .sort((a, b) => b.salience - a.salience)
+    .slice(0, 3);
   const observations = shuffle(rng, top3).map((c) => c.text);
 
   // --- Season bridge (pinned last): how far the season carried you from your
   // claimed self ---
   const drift = seasonalDriftZodiac(before, after);
-  const claimedTrait = TRAITS[claimedSlug];
-  const driftTrait = TRAITS[drift.id];
+  const claimedTrait = TRAITS[claimedSlug]?.trait;
+  const driftTrait = TRAITS[drift.id]?.trait;
   if (claimedTrait && driftTrait) {
     // Three framings: the drift landed on your own zodiac (same), pulled you a
     // little (near), or carried you into a plainly different self (far).

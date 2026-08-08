@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# should be sensuous / voluptuary / numb
 slug: spicy-smoked-butter
 lastUpdated: 
 bean: butter

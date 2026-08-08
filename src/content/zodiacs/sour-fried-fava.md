@@ -5,7 +5,7 @@ lastUpdated:
 bean: fava
 flavour: sour
 form: fried
-trait: unhesitating
+trait: swift
 excess: impetuous
 inverse: irresolute
 quote: Fortune favours the bean.
@@ -45,4 +45,4 @@ rorschachLow: a spinning coin
 rorschachLeast: a foot at the edge
 ---
 
-Agrodolce Fava Beans are the Bean Zodiac's most unhesitating. The offer arrives and they say yes in the same minute, and the yes usually turns out well. Sometimes the yes precedes the reading of it. Sleeping on a decision has never once made theirs better.
+Agrodolce Fava Beans are the Bean Zodiac's swiftest. The offer arrives and they say yes in the same minute, and the yes usually turns out well. Sometimes the yes precedes the reading of it. Sleeping on a decision has never once made theirs better.

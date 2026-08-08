@@ -148,14 +148,29 @@ All lookups sort IDs alphabetically before joining as key (e.g. `"adzuki-sweet"`
 
 ### State & localStorage
 
-All persistent state lives in a single Zustand store (`src/store/index.ts`) under the `bean-zodiac` localStorage key.
+All persistent bean data lives in a single Zustand store (`src/store/index.ts`) under the `bean-zodiac` localStorage key.
 
 - **claimed** (`ClaimedBean | null`, shape `{ id: ZodiacId, on: YYYY-MM-DD }`) — the user's claimed zodiac. Set via `setClaimed(id)`.
-- **fortuneHistory** (`FortuneEntry[]`) — daily fortune entries `{ date, zodiacId, qualityId, facetTitle, facetText, spiritTags, score, text, seenAt }` (`spiritTags` is the zodiac's friendly/anti tag snapshot for soft scoring, facet entries only; absent on legacy entries) plus optional question-variant fields `{ variant, question, answeredQuality, answerText }`, newest first. `score`: 0 = no vote, +1 = accepted, -1 = resisted. On question entries `qualityId` reflects the answered tier and `score` is always +1. `seenAt` is the ISO timestamp the user dismissed the fortune dialog (drives whether it auto-opens on `/`).
-- **metBeans** (`MetBean[]`, shape `{ id: ZodiacId, on: YYYY-MM-DD }`) — encountered zodiacs, newest first.
-- **radarExpanded** (`boolean`) — Beanstalk mobile radar-panel expansion preference.
+- **fortuneHistory** (`FortuneEntry[]`) — daily entries `{ date, zodiacId, qualityId, score, ritualType, ritualTitle, ritualPrompt, ritualResponse, fortuneText }`, newest first. `score`: 0 = no vote, +1 = accepted, -1 = resisted. `qualityId` is the resolved tier: the rolled one for facet entries, the answered one for question/rorschach entries (where `score` is always +1). All three ritual types share one shape — what the ritual put to the user is `ritualPrompt`, what they gave back is `ritualResponse`:
 
-`relinquish()` clears claimed, fortuneHistory, and metBeans at once.
+  | ritualType | ritualTitle | ritualPrompt | ritualResponse      |
+  | ---------- | ----------- | ------------ | ------------------- |
+  | facet      | facet title | the facet    | — (the score is it) |
+  | question   | —           | the question | the chosen answer   |
+  | rorschach  | —           | — (the blot) | the chosen reading  |
+
+- **metBeans** (`MetBeans`, shape `{ [ZodiacId]: { [QualityId]: true } }`) — which zodiacs have been encountered, and at which tiers. A scored fortune records the tier it resolved to (`persistFortune`, the only writer for the fortune bean); every other encounter — claimed, seasonal, revealed on the wheel, the spirit bean — records the neutral Garden tier. This drives the reveal gating on a zodiac's page (see below).
+- **lastSeasonSeen** (`string | null`) — season key last acknowledged; **seasonSummaries** (`SeasonSummary[]`) — persisted recaps `{ seasonKey, observations }`, newest first.
+
+`relinquish()` resets the whole persisted state at once.
+
+The store keeps only what is user-generated or a deliberate snapshot of what the user was shown. Anything that is a pure function of the surviving fields is derived at the read site instead of stored: the rorschach mask path (`/images/rorschach/{zodiacId}.png`, in `buildBeanstalkNodes`), and a summary's closing/incoming bean ids (`seasonZodiacsForKey`, from the calendar). The zodiac copy fields are the exception — they are only recoverable via the async per-slug `fetchZodiac`, and the Beanstalk renders history synchronously.
+
+UI preferences live separately in `src/store/ui.ts` under `bean-zodiac-ui` (currently just **radarExpanded**, the Beanstalk mobile radar-panel expansion), so exports and `relinquish()` cover bean data only.
+
+**Backup** (`src/lib/backup.ts`, surfaced on `/me`) — `exportData()` downloads the `bean-zodiac` blob verbatim; `importData(text)` validates it (top-level `version` not newer than `STORE_VERSION`, plus a shape check on `claimed`, `fortuneHistory`, `metBeans` and `seasonSummaries`) and writes it back verbatim, so the `persist` migrate chain runs on the next rehydration.
+
+**Reveal gating** (`ZodiacDetail.tsx`) — how much of a zodiac's page is legible depends on the tiers in `metBeans[id]`. Meeting it **well-cooked** (garden/market) opens everything. Otherwise the quote, body copy and dish are withheld and replaced by a single line — _"You've never met the …"_ if there are no tiers at all, _"You don't know the … very well"_ if it has been met at some other tier — while the trait table always shows, each row revealed only by the tiers at its own end of the spectrum: Undercooked by rotten/stale, Well-Cooked by garden/market, Overcooked by heirloom. Unrevealed rows read `???`.
 
 ### Spirit Bean & Beanstalk (`/beanstalk`)
 
@@ -177,7 +192,7 @@ All persistent state lives in a single Zustand store (`src/store/index.ts`) unde
 
   Because `antiTriple` carries a flavour, bad tiers move the flavour ring too — the friendly and anti poles are fully equivalent. Magnitudes are full (un-halved) across beans, flavour, and form.
 - Question/rorschach answers always count as Accept; the picked tier becomes the day's `qualityId`. Rorschach answers count at half — both triple and soft deltas are halved, rounded toward the choice's sign so a non-zero rule always keeps a minimal nudge.
-- Tags are **looked up by `zodiacId`** from `src/data/generated/spirit-tags.json` (imported synchronously), never read from the `spiritTags` snapshot persisted on history entries. Since the tags are a pure function of the zodiac, the stored snapshot would only ever be a stale copy — this way the tag model can change shape without migrating stored history. Trade-off: regenerating tags retroactively re-scores past entries.
+- Tags are **looked up by `zodiacId`** from `src/data/generated/spirit-tags.json` (imported synchronously). History entries used to carry a `spiritTags` snapshot; nothing ever read it (the tags are a pure function of the zodiac, so a snapshot could only ever be a stale copy) and it is gone as of store v7 — this way the tag model can change shape without migrating stored history. Trade-off: regenerating tags retroactively re-scores past entries.
 - There is no longer any neighbour bleed — the `SPIRIT_*_RING` arrays are purely radar-chart point ordering now, not scoring adjacency. Charts auto-scale to max value (floor 16).
 
 **Beanstalk** — scrollable vertical timeline of fortune history. Left panel: sticky, shows spirit zodiac + radar charts that lerp to cumulative scores at the active node. Right panel: scrollable timeline with a scroll-tracked fill bar. Year filter defaults to current bean year.

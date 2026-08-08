@@ -39,7 +39,7 @@ function BeaniaryEntry({
 
   return (
     <LazyMount placeholder={placeholder}>
-      <li className="rounded-2xl border-2 border-zinc-800 bg-zinc-900 min-h-40">
+      <li className="bean-cell rounded-2xl border-2 border-zinc-800 bg-zinc-900 min-h-40">
         <a
           href={`/zodiacs/${zodiacId}`}
           className="no-underline p-4 flex flex-col items-center justify-center gap-3 h-full w-full"
@@ -48,7 +48,7 @@ function BeaniaryEntry({
             className="flex items-center justify-center"
             style={{ width: "3.5rem", height: "5rem" }}
           >
-            <Bean bean={bean} flavourId={flavourId} formId={formId} />
+            <Bean bean={bean} flavourId={flavourId} formId={formId} animateGlow={false} />
           </div>
           <p className="text-xs font-bold uppercase tracking-wide text-zinc-200 leading-tight text-center">
             <ZodiacName
@@ -71,16 +71,9 @@ export default function BeaniaryPage({ data }: Props) {
   const [metBeanIds, setMetBeanIds] = useState<ZodiacId[]>([]);
 
   useEffect(() => {
-    const { metBeans, fortuneHistory, claimed } = useStore.getState();
-    if (metBeans.length === 0) {
-      const seen = new Map<ZodiacId, string>();
-      for (const e of fortuneHistory)
-        if (!seen.has(e.zodiacId)) seen.set(e.zodiacId, e.date);
-      if (claimed && !seen.has(claimed.id)) seen.set(claimed.id, claimed.on);
-      const backfilled = Array.from(seen, ([id, on]) => ({ id, on })).reverse();
-      useStore.setState({ metBeans: backfilled });
-    }
-    setMetBeanIds(useStore.getState().metBeans.map((m) => m.id));
+    // Store v8 seeds metBeans from history and the claimed bean, so there is no
+    // backfill to do here — just read the ids.
+    setMetBeanIds(Object.keys(useStore.getState().metBeans) as ZodiacId[]);
     setMounted(true);
   }, []);
 

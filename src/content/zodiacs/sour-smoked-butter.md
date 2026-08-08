@@ -17,10 +17,10 @@ antiBeans: [chickpea, adzuki]
 antiForm: roasted
 seasonalFortune: "A season of lemon and low smoke. Everything shifts and no one hears it happen."
 fortuneMost: "..."
-fortuneHigh: Just listen.
-fortuneMid: The dormouse stays silent.
-fortuneLow: Don't leave them guessing.
-fortuneLeast: A lively room forgives a loud voice.
+fortuneHigh: Some things are better left unsaid.
+fortuneMid: The dormouse lives in the shadows, neither seen nor heard.
+fortuneLow: A sudden noise does not break the silence; it only reveals how thin it was.
+fortuneLeast: Songs cannot be sung from a closed mouth.
 facetMostTitle: Bean Records
 facetMost: Someone's been explaining your own field to you for ten minutes. You nod along, and they go away thinking they taught you something.
 facetHighTitle: The Bean American

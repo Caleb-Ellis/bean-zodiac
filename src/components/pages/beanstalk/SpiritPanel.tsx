@@ -1,8 +1,9 @@
-import { useRef, useState } from "react";
+import { useRef } from "react";
 import type { BeanId, FlavourId, FormId, ZodiacId } from "../../../lib/zodiac";
 import { getPreparationName } from "../../../lib/zodiac";
 import type { AllZodiacData } from "../../../lib/data";
 import MorphingRadar from "../../zodiac/MorphingRadar";
+import { useUiStore } from "../../../store/ui";
 import ZodiacName from "../../zodiac/ZodiacName";
 import { zodiacParts } from "./helpers";
 
@@ -36,9 +37,8 @@ export default function SpiritPanel({
   radarExpanded,
   onToggleRadar,
 }: Props) {
-  const [activeRadarTab, setActiveRadarTab] = useState<
-    "flavour" | "form" | "bean"
-  >("bean");
+  const activeRadarTab = useUiStore((s) => s.radarTab);
+  const setActiveRadarTab = useUiStore((s) => s.setRadarTab);
   const radarKeys = ["bean", "flavour", "form"] as const;
   const touchStartXRef = useRef(0);
 
@@ -92,7 +92,7 @@ export default function SpiritPanel({
   };
 
   return (
-    <div className="max-lg:-mx-4 max-lg:w-screen lg:w-80 shrink-0 sticky top-0 z-20 lg:h-svh flex flex-col lg:justify-center lg:bg-transparent lg:border-none max-lg:pt-2 lg:py-6">
+    <div className="max-lg:-mx-4 max-lg:w-screen lg:w-80 shrink-0 sticky top-0 transition-[top] duration-300 lg:transition-none z-20 lg:h-svh flex flex-col lg:justify-center lg:bg-transparent lg:border-none max-lg:pt-2 lg:py-6">
       <div className="max-lg:relative max-lg:mx-auto max-lg:w-[95%] max-lg:bg-zinc-900 max-lg:border max-lg:border-zinc-700 max-lg:rounded-xl max-lg:shadow-[0_0_24px_rgba(0,0,0,0.6)] max-lg:px-4 max-lg:pt-3 max-lg:pb-4 lg:contents">
         {spiritBean && (
           <div className="text-center shrink-0">
@@ -147,7 +147,7 @@ export default function SpiritPanel({
             ))}
           </div>
           <div
-            className="w-[75%] mx-auto aspect-square"
+            className="w-[65%] max-h-72 mx-auto aspect-square"
             onTouchStart={handleTouchStart}
             onTouchEnd={handleTouchEnd}
           >

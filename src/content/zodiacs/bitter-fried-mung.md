@@ -5,7 +5,7 @@ lastUpdated:
 bean: mung
 flavour: bitter
 form: fried
-trait: unsentimental
+trait: austere
 excess: callous
 inverse: saccharine
 quote: A bean who expects nothing is never disappointed.
@@ -45,4 +45,4 @@ rorschachLow: a shell beginning to gape
 rorschachLeast: a cake under thick icing
 ---
 
-Scorched Mung Beans are the Bean Zodiac's most unsentimental. They'll say what the relationship is actually doing to you while everyone else says something soothing. The truth occasionally lands harder than the situation needed. Comfort with nothing true in it, they cannot bring themselves to offer.
+Scorched Mung Beans are the Bean Zodiac's most austere. They'll say what the relationship is actually doing to you while everyone else says something soothing. The truth occasionally lands harder than the situation needed. Comfort with nothing true in it, they cannot bring themselves to offer.

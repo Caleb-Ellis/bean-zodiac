@@ -131,7 +131,7 @@ for (const { id, data, content } of zodiacs) {
   const payload = JSON.stringify({ ...data, content });
   writeFileSync(resolve(zodiacDir, `${id}.json`), payload);
   writeFileSync(resolve(publicDir, `${id}.json`), payload);
-  zodiacTraits[id] = data.trait;
+  zodiacTraits[id] = { trait: data.trait, excess: data.excess, inverse: data.inverse };
   spiritTags[id] = {
     friendlyBeans: data.friendlyBeans,
     antiBeans: data.antiBeans,
@@ -148,8 +148,9 @@ for (const { id, data, content } of zodiacs) {
 // Trade-off: regenerating tags retroactively re-scores past entries.
 writeJson(resolve(root, "src/data/generated/spirit-tags.json"), spiritTags);
 
-// Flat id → trait index for synchronous lookups (the season-summary bridge line);
-// avoids fetching a full zodiac JSON just to read one word.
+// Flat id → trait poles for synchronous lookups (the season-summary bridge line,
+// the quality label on a zodiac name); avoids fetching a full zodiac JSON just to
+// read a word or three.
 writeJson(resolve(root, "src/data/generated/zodiac-traits.json"), zodiacTraits);
 
 console.log(

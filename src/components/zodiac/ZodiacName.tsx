@@ -7,19 +7,33 @@ import {
   type QualityId,
   type ZodiacId,
 } from "../../lib/zodiac";
+import zodiacTraits from "../../data/generated/zodiac-traits.json";
 
-const getQualityLabel = (qualityId: QualityId): string => {
+const TRAITS = zodiacTraits as Record<
+  string,
+  { trait: string; excess: string; inverse: string }
+>;
+
+// The quality tier names how far the day's pick sat from the zodiac's own trait,
+// so the label carries the matching pole: excess at the top, inverse at the
+// bottom. Without a zodiac to look up, it falls back to the bare tier name.
+const getQualityLabel = (
+  qualityId: QualityId,
+  zodiacId?: ZodiacId,
+  showPoles?: boolean,
+): string => {
+  const poles = showPoles && zodiacId ? TRAITS[zodiacId] : undefined;
   switch (qualityId) {
     case QualityIds.Heirloom:
-      return "Overcooked";
+      return poles ? `Overcooked — ${poles.excess}` : "Overcooked";
     case QualityIds.Market:
-      return "Perfectly-Cooked";
+      return poles ? `Well-Cooked — Very ${poles.trait}` : "Well-Cooked";
     case QualityIds.Stale:
-      return "Undercooked";
+      return poles ? `Underdone — slightly ${poles.inverse}` : "Underdone";
     case QualityIds.Rotten:
-      return "Raw";
+      return poles ? `Raw — ${poles.inverse}` : "Raw";
     default:
-      return "Well-Cooked";
+      return poles ? `Cooked — ${poles.trait}` : "Cooked";
   }
 };
 
@@ -33,6 +47,7 @@ interface Props {
   qualityId?: QualityId;
   asLink?: boolean;
   alignLeft?: boolean;
+  showPoles?: boolean;
 }
 
 export default function ZodiacName({
@@ -45,8 +60,11 @@ export default function ZodiacName({
   qualityId,
   asLink = true,
   alignLeft = false,
+  showPoles = true,
 }: Props) {
-  const qualityLabel = qualityId ? getQualityLabel(qualityId) : undefined;
+  const qualityLabel = qualityId
+    ? getQualityLabel(qualityId, zodiacId, showPoles)
+    : undefined;
   const qualitySpan = qualityLabel ? (
     <span className="text-zinc-400 text-[0.625em]">{`${qualityLabel}`}</span>
   ) : null;

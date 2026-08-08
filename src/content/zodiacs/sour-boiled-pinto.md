@@ -5,7 +5,7 @@ lastUpdated:
 bean: pinto
 flavour: sour
 form: boiled
-trait: unvarnished
+trait: candid
 excess: raw
 inverse: embellished
 quote: The truth will set you bean.
@@ -45,4 +45,4 @@ rorschachLow: a board lightly sanded
 rorschachLeast: a panel under varnish
 ---
 
-Brined Pinto Beans are the Bean Zodiac's most unvarnished. They'll tell you the whole story with the ugly middle still in it, including their own part in it. Sometimes it's more than the table ordered. Polishing an anecdote into a better version is a skill they refuse to learn.
+Brined Pinto Beans are the Bean Zodiac's most candid. They'll tell you the whole story with the ugly middle still in it, including their own part in it. Sometimes it's more than the table ordered. Polishing an anecdote into a better version is a skill they refuse to learn.

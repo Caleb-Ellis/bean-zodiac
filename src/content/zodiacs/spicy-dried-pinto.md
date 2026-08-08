@@ -5,7 +5,7 @@ lastUpdated:
 bean: pinto
 flavour: spicy
 form: dried
-trait: untempered
+trait: hot-blooded
 excess: unhinged
 inverse: tempered
 quote: It's better to burn out than to bean away.
@@ -45,4 +45,4 @@ rorschachLow: a hinge working loose
 rorschachLeast: a door shut and bolted
 ---
 
-Sichuan Pinto Beans are the Bean Zodiac's most untempered. What they feel arrives at full strength and unedited, and in the right week it's the best company there is. Occasionally it takes the evening down with it. Feeling something moderately isn't on the menu.
+Sichuan Pinto Beans are the Bean Zodiac's most hot-blooded. What they feel arrives at full strength and unedited, and in the right week it's the best company there is. Occasionally it takes the evening down with it. Feeling something moderately isn't on the menu.

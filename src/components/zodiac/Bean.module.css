@@ -6,12 +6,51 @@
   height: 100%;
 
   .glowWrapper {
+    position: relative;
     width: 100%;
     max-width: 10rem;
-    will-change: filter;
-    filter: var(--form-filter, brightness(1)) var(--flavour-filter, brightness(1))
-      drop-shadow(0 0 0.3rem var(--glow-center-color, transparent))
-      drop-shadow(0 0 0.5rem var(--glow-color, transparent));
+  }
+
+  /*
+   * The halo, as a solid colour masked by a pre-blurred silhouette baked by
+   * scripts/bake-bean-glow.mjs. It replaces two chained drop-shadow() passes,
+   * which resampled the bean's alpha on every paint — ruinous in the grids,
+   * where hundreds of beans stay mounted at once.
+   *
+   * -18% matches the transparent margin the masks are baked with (PAD in that
+   * script — the two have to move together). Percentages resolve against the
+   * containing block, so the horizontal inset is 18% of the bean's width and
+   * the vertical 18% of its height — exactly the bake's geometry, with no
+   * per-bean numbers needed here.
+   *
+   * These sit outside .beanImage on purpose: nested inside it they would be
+   * dragged through the form filter's turbulence and join its filter region.
+   */
+  .glowLayer {
+    position: absolute;
+    inset: -18%;
+    pointer-events: none;
+    -webkit-mask: var(--glow-src) no-repeat center / contain;
+    mask: var(--glow-src) no-repeat center / contain;
+  }
+
+  .glowOuter {
+    background: var(--glow-color, transparent);
+  }
+
+  .glowInner {
+    background: var(--glow-center-color, transparent);
+  }
+
+  /*
+   * Form and flavour sit on their own layer so the quality filter below can keep
+   * a clean, interpolable transition — a list containing url() would make that
+   * transition discrete. Order matches the old nesting: quality, then form,
+   * then flavour.
+   */
+  .beanImage {
+    position: relative;
+    filter: var(--form-filter, brightness(1)) var(--flavour-filter, brightness(1));
 
     img {
       display: block;
@@ -20,5 +59,250 @@
       filter: var(--quality-filter, saturate(1) brightness(1) contrast(1));
       transition: filter 1.4s cubic-bezier(0.16, 1, 0.3, 1);
     }
+  }
+}
+
+/*
+ * Default drift, opted out of in the dense views. The two layers run on
+ * coprime-ish periods (11s and 7s) along opposed paths, so the flavour and form
+ * halos slide against each other and the cycle never visibly repeats.
+ *
+ * Only worth doing now that the glow is a plain masked div: translate/scale on
+ * a composited layer is nearly free, where animating a drop-shadow would have
+ * re-blurred the silhouette every frame. Drift stays under 1% of the bean so it
+ * reads as the light breathing, not the halo sliding off.
+ */
+.animated {
+  /*
+   * Inner-layer knobs. The keyframes below are written in terms of these, so a
+   * flavour changes its character by overriding four numbers rather than by
+   * carrying its own copy of the stops. --glow-mid is derived, not set: it is
+   * the halfway dim, used by the flicker sets so their intermediate stops track
+   * whatever floor the flavour picked.
+   */
+  --glow-period: 7s;
+  --glow-ease: ease-in-out;
+  --glow-amp: 1;
+  --glow-swell: 0.025;
+  --glow-floor: 0.88;
+  --glow-mid: calc(var(--glow-floor) + (1 - var(--glow-floor)) * 0.5);
+
+  .glowOuter {
+    animation: glow-drift-outer 11s ease-in-out infinite;
+  }
+
+  .glowInner {
+    animation: glow-drift-inner var(--glow-period) var(--glow-ease) infinite;
+  }
+}
+
+/*
+ * Flavour character. Sweet and umami swell slowly and travel almost not at all;
+ * bitter is colder and barely breathes, dimming further than the rest; spicy
+ * and sour are quick, and need stops the knobs can't reach — a flicker and a
+ * tremor respectively — so they swap in their own keyframes.
+ *
+ * These stay inside translate/scale/opacity like the base drift: the whole
+ * point of the baked masks is that the halo is a plain composited div, and
+ * animating filter or mask here would give that back.
+ */
+.animated:global(.flavour-sweet) {
+  --glow-period: 13s;
+  --glow-amp: 0.5;
+  --glow-swell: 0.035;
+  --glow-floor: 0.94;
+}
+
+.animated:global(.flavour-umami) {
+  --glow-period: 16s;
+  --glow-ease: cubic-bezier(0.4, 0, 0.2, 1);
+  --glow-amp: 0.7;
+  --glow-swell: 0.03;
+  --glow-floor: 0.9;
+}
+
+.animated:global(.flavour-bitter) {
+  --glow-period: 19s;
+  --glow-ease: linear;
+  --glow-amp: 1.2;
+  --glow-swell: 0.012;
+  --glow-floor: 0.8;
+}
+
+.animated:global(.flavour-spicy) {
+  --glow-period: 6s;
+  --glow-amp: 1.1;
+  --glow-swell: 0.04;
+  --glow-floor: 0.85;
+
+  .glowInner {
+    animation-name: glow-flicker-spicy;
+  }
+}
+
+.animated:global(.flavour-sour) {
+  --glow-period: 4.8s;
+  --glow-ease: linear;
+  --glow-amp: 1.4;
+  --glow-swell: 0.015;
+  --glow-floor: 0.9;
+
+  .glowInner {
+    animation-name: glow-tremor-sour;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animated {
+    .glowOuter,
+    .glowInner {
+      animation: none;
+    }
+  }
+}
+
+@keyframes glow-drift-outer {
+  0%,
+  100% {
+    translate: -1% 0.5%;
+    scale: 1.01;
+    opacity: 0.85;
+  }
+  33% {
+    translate: 1% -0.6%;
+    scale: 1.04;
+    opacity: 1;
+  }
+  66% {
+    translate: 0.3% 1%;
+    scale: 1.025;
+    opacity: 0.92;
+  }
+}
+
+/*
+ * The inner path, with the fixed percentages of the original replaced by the
+ * knobs above. --glow-amp scales the travel, --glow-swell the peak, and
+ * --glow-floor the dimmest point; the defaults reproduce the previous values.
+ */
+@keyframes glow-drift-inner {
+  0%,
+  100% {
+    translate: calc(0.6% * var(--glow-amp)) calc(-0.4% * var(--glow-amp));
+    scale: calc(1 + var(--glow-swell));
+    opacity: 1;
+  }
+  40% {
+    translate: calc(-0.8% * var(--glow-amp)) calc(0.6% * var(--glow-amp));
+    scale: 1;
+    opacity: var(--glow-floor);
+  }
+  70% {
+    translate: calc(-0.2% * var(--glow-amp)) calc(-0.8% * var(--glow-amp));
+    scale: calc(1 + var(--glow-swell) * 0.8);
+    opacity: var(--glow-mid);
+  }
+}
+
+/*
+ * Spicy: heat rather than breath. The swell runs the length of the cycle while
+ * the opacity stops break unevenly against it, so the halo reads as guttering
+ * rather than pulsing — the irregularity is the whole effect, and evenly spaced
+ * dips would just look like a faster drift.
+ */
+@keyframes glow-flicker-spicy {
+  0%,
+  100% {
+    translate: calc(0.4% * var(--glow-amp)) calc(-0.5% * var(--glow-amp));
+    scale: calc(1 + var(--glow-swell));
+    opacity: 1;
+  }
+  9% {
+    opacity: var(--glow-mid);
+  }
+  15% {
+    translate: calc(-0.3% * var(--glow-amp)) calc(0.2% * var(--glow-amp));
+    opacity: 0.99;
+  }
+  23% {
+    opacity: var(--glow-floor);
+  }
+  31% {
+    opacity: var(--glow-mid);
+  }
+  38% {
+    translate: calc(-0.6% * var(--glow-amp)) calc(0.7% * var(--glow-amp));
+    scale: 1;
+    opacity: 1;
+  }
+  46% {
+    opacity: var(--glow-floor);
+  }
+  57% {
+    opacity: var(--glow-mid);
+  }
+  64% {
+    translate: calc(0.2% * var(--glow-amp)) calc(0.4% * var(--glow-amp));
+    scale: calc(1 + var(--glow-swell) * 0.6);
+    opacity: 0.97;
+  }
+  72% {
+    opacity: var(--glow-floor);
+  }
+  81% {
+    opacity: 1;
+  }
+  90% {
+    translate: calc(-0.1% * var(--glow-amp)) calc(-0.3% * var(--glow-amp));
+    opacity: var(--glow-mid);
+  }
+}
+
+/*
+ * Sour: a tremor. The travel is deliberately a fraction of the other flavours'
+ * — at this frequency the usual amplitude would read as the halo shaking loose
+ * — and the swell and dim run slowly underneath so it still breathes.
+ */
+@keyframes glow-tremor-sour {
+  0%,
+  100% {
+    translate: calc(0.25% * var(--glow-amp)) calc(-0.2% * var(--glow-amp));
+    scale: calc(1 + var(--glow-swell));
+    opacity: 1;
+  }
+  10% {
+    translate: calc(-0.2% * var(--glow-amp)) calc(0.25% * var(--glow-amp));
+  }
+  20% {
+    translate: calc(0.3% * var(--glow-amp)) calc(0.1% * var(--glow-amp));
+    scale: calc(1 + var(--glow-swell) * 0.5);
+    opacity: var(--glow-mid);
+  }
+  30% {
+    translate: calc(-0.15% * var(--glow-amp)) calc(-0.25% * var(--glow-amp));
+  }
+  40% {
+    translate: calc(0.2% * var(--glow-amp)) calc(0.3% * var(--glow-amp));
+    scale: 1;
+    opacity: var(--glow-floor);
+  }
+  50% {
+    translate: calc(-0.3% * var(--glow-amp)) calc(-0.1% * var(--glow-amp));
+  }
+  60% {
+    translate: calc(0.15% * var(--glow-amp)) calc(0.25% * var(--glow-amp));
+    scale: calc(1 + var(--glow-swell) * 0.5);
+    opacity: var(--glow-mid);
+  }
+  70% {
+    translate: calc(-0.25% * var(--glow-amp)) calc(0.15% * var(--glow-amp));
+  }
+  80% {
+    translate: calc(0.1% * var(--glow-amp)) calc(-0.3% * var(--glow-amp));
+    scale: calc(1 + var(--glow-swell) * 0.8);
+    opacity: 0.98;
+  }
+  90% {
+    translate: calc(-0.2% * var(--glow-amp)) calc(0.2% * var(--glow-amp));
   }
 }

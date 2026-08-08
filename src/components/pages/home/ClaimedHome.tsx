@@ -52,8 +52,9 @@ export default function ClaimedHome({ data, date, claimedSlug }: Props) {
     const { addMetBean } = useStore.getState();
     addMetBean(claimedSlug);
     addMetBean(seasonalZodiacId);
-    addMetBean(fortune.fortuneZodiacId);
-  }, [claimedSlug, seasonalZodiacId, fortune.fortuneZodiacId]);
+    // The day's fortune bean is not recorded here: it is met at whatever tier
+    // the ritual resolves to, which persistFortune writes once the user acts.
+  }, [claimedSlug, seasonalZodiacId]);
 
   const handleSummaryClose = () => {
     useStore.getState().setLastSeasonSeen(currentSeasonKey);

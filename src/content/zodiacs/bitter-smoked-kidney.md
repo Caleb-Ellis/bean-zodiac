@@ -22,7 +22,7 @@ fortuneMid: What people keep of you is rarely what you meant them to.
 fortuneLow: Not everything needs to leave a mark.
 fortuneLeast: To be forgotten is to be free.
 facetMostTitle: Requiem for a Bean
-facetMost: Thirty years teaching and they have given you five minutes at the leavers' assembly, a hall full of parents and a run of warm jokes expected. You spend them on what the place was like for the ones who hated it, year by year, naming nobody and describing it exactly.
+facetMost: Thirty years teaching and they have given you five minutes at the leavers' assembly, a hall full of parents and a run of warm jokes expected. You spend them on what the place was like for the ones who hated it.
 facetHighTitle: The Beaning of Hill House
 facetHigh: You are painting a mural on a gable end at the top of the estate, and the brief says bright, welcoming, something for the kids. The one you did eleven years ago is still up the road, never painted over, never tagged, because of the face in the corner of it that people stop at. You put a face in this one too.
 facetMidTitle: Rebeanca

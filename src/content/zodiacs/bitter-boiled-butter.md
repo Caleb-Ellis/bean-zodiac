@@ -4,7 +4,7 @@ lastUpdated: 2026-08-05
 bean: butter
 flavour: bitter
 form: boiled
-trait: unruffled
+trait: placid
 excess: impassive
 inverse: agitated
 quote: Keep calm and carry beans.
@@ -44,4 +44,4 @@ rorschachLow: an ominous cloud
 rorschachLeast: an upset toddler
 ---
 
-Infused Butter Beans are the Bean Zodiac's most unruffled. When the news lands badly they are the one still sitting down, and the room takes the cue. The pulse doesn't spike for good news either, and the friend who wanted panicked company goes away unmet.
+Infused Butter Beans are the Bean Zodiac's most placid. When the news lands badly they are the one still sitting down, and the room takes the cue. The pulse doesn't spike for good news either, and the friend who wanted panicked company goes away unmet.

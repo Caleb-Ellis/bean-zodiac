@@ -1,12 +1,12 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-dried-navy
-lastUpdated: 
+lastUpdated:
 bean: navy
 flavour: sour
 form: dried
-trait: unbending
-excess: rigid
+trait: firm
+excess: immovable
 inverse: pliable
 quote: Rules are for the guidance of wise beans and the obedience of fools.
 creature: rhinoceros
@@ -45,4 +45,4 @@ rorschachLow: a rod warming slightly
 rorschachLeast: a willow wand
 ---
 
-Dehydrated Navy Beans are the Bean Zodiac's most unbending. The rule is the rule at eleven at night for a friend, exactly as it is for a stranger. Sometimes the friend needed it not to be. Making a quiet exception isn't something they know how to do.
+Dehydrated Navy Beans are the Bean Zodiac's firmest. The rule is the rule at eleven at night for a friend, exactly as it is for a stranger. Sometimes the friend needed it not to be. Making a quiet exception isn't something they know how to do.

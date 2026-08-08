@@ -1,11 +1,10 @@
 ---
-# TODO: tidy facets, redo rorschachs
 slug: spicy-boiled-navy
-lastUpdated: 
+lastUpdated: 2026-08-12
 bean: navy
 flavour: spicy
 form: boiled
-trait: immovable
+trait: rigid
 excess: obstinate
 inverse: yielding
 quote: An immovable bean meets an unstoppable force.
@@ -18,31 +17,31 @@ antiBeans: [fava, pinto]
 antiForm: smoked
 seasonalFortune: "A season of ham hock and settled weight — the pot stays where it is through everything."
 fortuneMost: The gate has rusted shut.
-fortuneHigh: Patience wears thin.
+fortuneHigh: The hippopotamus always gets its way.
 fortuneMid: A closed shell is not an empty one.
 fortuneLow: Unlatch the door and let the cold come in with the light.
-fortuneLeast: Say the thing you've never said.
-facetMostTitle: The Beanmule
-facetMost: Your boundary wall goes where the deeds say and you have told them so, and there is an offer on the table now, and a surveyor's letter, and a neighbour who has stopped saying hello over it. The wall goes where the deeds say.
-facetHighTitle: The Great Beanwall
-facetHigh: Four of them have been at you all evening about the price. It is a fair price. You are on the same number at eleven.
-facetMidTitle: Hold Your Beanground
-facetMid: A landlord wants the rent review backdated and there is a paragraph in the agreement that says he cannot. You write back with the paragraph, and the paragraph number, and nothing else.
-facetLowTitle: The Beanreed and the Oak
-facetLow: The holiday was going to be the same fortnight in the same place and everybody else fancies somewhere new, and you have a look at what they have found and say all right.
-facetLeastTitle: Beanpushover
-facetLeast: You had said no to the loan and you meant it and there were reasons, and he has now been round twice. By the second visit you have written the cheque, and you cannot say what changed.
-question: Four people have spent an evening trying to talk you round. You...
-answerMost: hold, and you'd hold if it were forty
-answerHigh: hold, and tell them why once more
-answerMid: hold tonight and think about it tomorrow
-answerLow: move a bit to end the evening
-answerLeast: give in, and can't say what changed
-rorschachMost: a boulder in the road
-rorschachHigh: two rocks, no way past
-rorschachMid: a gap between two stones
-rorschachLow: a stone rolled a foot
-rorschachLeast: a gate swung wide
+fortuneLeast: It's not a failure to be influenced by others.
+facetMostTitle: The Beanule
+facetMost: You got a parking ticket you're certain is wrong. You've appealed and lost already, and between the fees and the time off it has now cost you more than the fine. You appeal it again.
+facetHighTitle: The Great Bean of China
+facetHigh: You get to your row at the cinema and there's a couple already sitting in your seats, who say it hardly matters as the place is half empty. You show them the tickets and wait while they move.
+facetMidTitle: Hold Your Bean
+facetMid: A relative asks to borrow a not-insignificant amount of money off you, to which you have said no. They pick their moment and ask again, at a family do, in front of everybody. You say no again.
+facetLowTitle: The Bean and the Oak
+facetLow: You're driving and the person next to you is adamant there's a quicker way than the one you always take. You're almost certain there isn't. You go their way.
+facetLeastTitle: Beanover
+facetLeast: Someone is at the door soliciting charity donations, and you've said no twice now. They're friendly, they keep going, and it's cold on the step. Before they leave you'll have signed up for something.
+question: The place you've booked in Portugal strictly sleeps eight, and you said from the start it's the eight of you, no partners. Your brother rings to ask if his girlfriend can come. You...
+answerMost: say no, and tell him not to bring it up again
+answerHigh: say no, and leave it at that
+answerMid: say maybe, give the illusion of deliberation, then say it can't be done
+answerLow: say yes, just this once
+answerLeast: say yes, and admit the rule was unnecessary
+rorschachMost: a boulder in front of a cave
+rorschachHigh: a couple of clams
+rorschachMid: rocks jutting out of sand
+rorschachLow: an open locket
+rorschachLeast: a cracked egg
 ---
 
-Braised Navy Beans are the Bean Zodiac's most immovable. The whole family reorganises around the position they took, because it is not going to move. Sometimes it doesn't move when it should. Being talked into something over one long dinner has never happened to them.
+Braised Navy Beans are the Bean Zodiac's most rigid. The whole family reorganises around the position they took, because it is not going to move. Sometimes it doesn't move when it should. Being talked into something over one long dinner has never happened to them.

@@ -22,7 +22,7 @@ fortuneMid: A firefly is easier to follow than to catch.
 fortuneLow: There's nothing to unpack here.
 fortuneLeast: Do not hide behind metaphors and allusions — tell it like it is.
 facetMostTitle: Riddle Me Bean
-facetMost: You've had a big fight with your sister, and the flowers are your way back in. The florist holds the little card and asks what to write on it. You give her something from a holiday the two of you had as kids, and your initial.
+facetMost: You've had a big fight with your sister, and the flowers are your way back in. The florist holds the little card and asks what to write on it. You describe a shared, happy memory.
 facetHighTitle: Bean the Lines
 facetHigh: A friend has been seeing somebody a couple of months, and while the two of you sit waiting on her machine at the laundrette she asks what you honestly made of him. You have real doubts. You bring up the last one she went out with, and how the first year of that went.
 facetMidTitle: What Lies Bebean

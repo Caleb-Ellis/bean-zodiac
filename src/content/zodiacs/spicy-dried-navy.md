@@ -1,12 +1,11 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-dried-navy
-lastUpdated: 
+lastUpdated: 2026-08-11
 bean: navy
 flavour: spicy
 form: dried
-trait: unflinching
-excess: granitic
+trait: tough
+excess: closed-off
 inverse: skittish
 quote: In matters of principle, stand like a bean.
 creature: grey wolf
@@ -17,32 +16,32 @@ antiTriple: bitter-fried-chickpea
 antiBeans: [green, kidney]
 antiForm: smoked
 seasonalFortune: "A season of cayenne and dried thyme — the store meets the cold without changing expression."
-fortuneMost: Never breaking the stare, the grey wolf does not always win by it.
-fortuneHigh: State the reasoning more plainly and stay where you are.
-fortuneMid: You don't have to argue it.
-fortuneLow: Listen to the part that's genuinely new.
-fortuneLeast: A flinch is only a body telling the truth first.
-facetMostTitle: Granite Beanstate
-facetMost: Nine thousand over what the room wants, and that is what you have costed. The chair asks you to look again. You say the number is the number.
-facetHighTitle: Unbeanroken
-facetHigh: You have to tell eleven people their jobs have gone and there is nobody to do it but you. You do it in the room, in person, and you stay behind afterwards for anybody who wants you.
-facetMidTitle: Hold the Beanline
-facetMid: A price was quoted and the price is the price, and the man across the table has gone quiet in the way people do when they expect movement, and you let the quiet sit.
-facetLowTitle: Beanspooked
-facetLow: There is a meeting you have been dreading for a week and the agenda has just landed on your phone in the car park with two names on it you did not expect. You read it twice on the way in, and your hands are not right.
-facetLeastTitle: Jumping at Beanshadows
-facetLeast: Somebody raises their voice about the delivery. It is not even at you. You are out of the room before he finishes.
-question: You have to say a hard number to a room that doesn't want it. You...
-answerMost: say it flat and don't soften it
-answerHigh: say it plainly and stand behind it
-answerMid: say it, and set out how you got there
-answerLow: say it, and hear yourself go quieter
-answerLeast: put it in an email afterwards
-rorschachMost: a face refusing to blink
-rorschachHigh: brows raised, quite still
-rorschachMid: two peaks and a base
-rorschachLow: a brow twitching once
-rorschachLeast: a deer already gone
+fortuneMost: A bean dried hard enough will never soften.
+fortuneHigh: Say it once, make it known.
+fortuneMid: A wolf that leaves is not a wolf that ran.
+fortuneLow: Cayenne can sting the chef too.
+fortuneLeast: The nervous deer is the deer that lives.
+facetMostTitle: Beanite State
+facetMost: Something has gone badly wrong in your life and one friend has pieced it together. They ask you straight out how you actually are — then ask again when you skate over it. You know they'd drop anything to help, but you tell them you're fine.
+facetHighTitle: Unbroken Bean
+facetHigh: Your dad isn't safe behind the wheel any more. Everyone in the family has been saying it to each other for months, but nobody will say it to him — and then have to deal with the fallout. You tell him, regardless.
+facetMidTitle: Hold the Bean
+facetMid: You are at the dentist for what was booked as a quick filling, and it has turned into something a lot bigger. There's more drilling, more scraping, and a whole lot more pain. He stops and asks if you'd rather leave the rest for another appointment. You tell him no.
+facetLowTitle: Spooked Bean
+facetLow: A big dog comes at you fast on a footpath, on its lead, the owner shouting that he's friendly. He probably is friendly. You give them a wide berth anyway.
+facetLeastTitle: Beaning at Shadows
+facetLeast: You're alone in the house and the security light in the garden keeps clicking on. Something knocks a bin over outside. It's probably an animal? You lock every door and window, and devise an escape plan.
+question: Sparring night at the gym is the part of the week you look forward to. Second round, you take one flush on the nose — eyes streaming, a bit of blood. The coach asks if you want to sit the rest out. You...
+answerMost: shake your head, get back into it
+answerHigh: say you're fine, tap your gloves, box the round out
+answerMid: take a minute in the corner before going back in
+answerLow: box on, but a little jumpier
+answerLeast: sit the rest out and hold some ice on it
+rorschachMost: a bull's skull
+rorschachHigh: a sunk anchor
+rorschachMid: a pair of pliers
+rorschachLow: a butterfly
+rorschachLeast: a long-eared hare
 ---
 
-Sichuan Navy Beans are the Bean Zodiac's most unflinching. They say the number to the room that doesn't want it, and don't move when the room turns. Sometimes nothing gets in at all. Being visibly rattled by pressure is a thing nobody has seen.
+Sichuan Navy Beans are the Bean Zodiac's toughest. They say the number to the room that doesn't want it, and don't move when the room turns. Sometimes nothing gets in at all. Being visibly rattled by pressure is a thing nobody has seen.

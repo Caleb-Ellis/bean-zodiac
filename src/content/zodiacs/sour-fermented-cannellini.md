@@ -1,13 +1,12 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-fermented-cannellini
-lastUpdated: 
+lastUpdated: 2026-08-10
 bean: cannellini
 flavour: sour
 form: fermented
-trait: discriminating
+trait: discerning
 excess: snobbish
-inverse: omnivorous
+inverse: easy-to-please
 quote: The bean you refuse is as important as the bean you accept.
 creature: oystercatcher
 dish: Cannellini in giardiniera with celery and hot vinegar.
@@ -17,32 +16,32 @@ antiTriple: umami-roasted-adzuki
 antiBeans: [chickpea, butter]
 antiForm: boiled
 seasonalFortune: "A season of giardiniera and narrow taste: the brine takes some vegetables and refuses the rest."
-fortuneMost: Prising open the good ones all day, the oystercatcher walks past a whole beach.
-fortuneHigh: Say which one is better and say why, once.
-fortuneMid: You knew at the first mouthful and said nothing until asked.
-fortuneLow: Eat the ordinary thing gratefully and do not grade it.
-fortuneLeast: The typo will live.
-facetMostTitle: Beanfrasier
-facetMost: The coffee at the party is instant and there is a jar of it out on the side. You ask whether there is anything else at all. There is not, you go without, and you mention it twice more before you leave.
+fortuneMost: To be too hard to please is to be too easy to disappoint.
+fortuneHigh: Pay more for the good one.
+fortuneMid: The oystercatcher taps every shell before it opens one.
+fortuneLow: Sometimes it's better just to pick whatever's closest.
+fortuneLeast: Everything in the jar tastes of everything that was in it before.
+facetMostTitle: Beansier
+facetMost: The only coffee at your aunt's is a jar of instant, so you've started taking your own beans and a grinder over with you. You make yours separately at the end of the meal.
 facetHighTitle: Ratatoubean
-facetHigh: Forty records in the crate at the back of the shop and thirty-eight of them are nothing. You pull the two out and put the rest back in order.
-facetMidTitle: Beansideways
-facetMid: Given an hour in the gallery, you spend fifty minutes of it in front of one painting and walk past everything else without stopping once.
-facetLowTitle: The Beanomnivore's Dilemma
-facetLow: There is a whole wall of it at the buffet and none of it is any good. You go round twice, and then you go round again for the sausage rolls.
+facetHigh: Three months in the flat and there's still no sofa in it, because nothing in your price range has been completely "right". You watch TV from a dining chair until you find the right one.
+facetMidTitle: Beanways
+facetMid: There's a pub two minutes from you and one twenty minutes away that keeps its beer properly, and has a better vibe. You almost always end up at the further pub.
+facetLowTitle: The Beanivore's Dilemma
+facetLow: You need a bottle of wine to take to dinner and you're running a tiny bit late. You grab whatever has a nice-looking label.
 facetLeastTitle: Bean v. Food
-facetLeast: The film on the coach is one you would never have chosen and it is objectively terrible. You watch the whole thing, and you would watch the sequel if they put that on too.
-question: What's your taste like?
-answerMost: Narrow, and I won't apologise for it
-answerHigh: Particular — I know what's good
-answerMid: Fairly settled, with room to move
-answerLow: Broad. I'll try most things
-answerLeast: I'll eat, watch or listen to anything
-rorschachMost: a velvet cushion, one crumb
-rorschachHigh: a wax seal
-rorschachMid: a dark felt hat
-rorschachLow: a split plum
-rorschachLeast: a stew pot boiling over
+facetLeast: On the long-haul flight they're serving some sort of jiggly meatloaf. Could be beef, or pork, or chicken, or all three? You honestly don't mind, fine to eat whatever.
+question: You desperately need a pair of jeans, and the charity shop is full of them. You...
+answerMost: would never actually set foot in a charity shop
+answerHigh: pull one out, check the lining and the label, and buy only that
+answerMid: try a bunch on and only take the best-looking one
+answerLow: take the first one that looks alright on you
+answerLeast: take three without trying any on, since they're so cheap
+rorschachMost: a black truffle
+rorschachHigh: a work of art
+rorschachMid: a wax seal
+rorschachLow: a hay pile
+rorschachLeast: a small mess
 ---
 
-Pickled Cannellini Beans are the Bean Zodiac's most discriminating. Three sips and they can tell you which one is worth the money and why, and they are right. The taste sometimes shades into a verdict on whoever bought the other. Enjoying something bad and cheerful is beyond them.
+Pickled Cannellini Beans are the Bean Zodiac's most discerning. Three sips and they can tell you which one is worth the money and why, and they are right. The taste sometimes shades into a verdict on whoever bought the other. Enjoying something cheap and cheerful is a struggle for them.

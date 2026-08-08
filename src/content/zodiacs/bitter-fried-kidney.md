@@ -5,7 +5,7 @@ lastUpdated:
 bean: kidney
 flavour: bitter
 form: fried
-trait: uncompromising
+trait: hard-line
 excess: implacable
 inverse: accommodating
 quote: Give me liberty, or give me bean!
@@ -45,4 +45,4 @@ rorschachLow: a gate on a hinge
 rorschachLeast: a curtain drawn aside
 ---
 
-Scorched Kidney Beans are the Bean Zodiac's most uncompromising. They will not sign the thing they don't believe, whatever it costs, and the refusal holds under pressure. There's no version of them that meets you halfway to keep an evening pleasant. Sometimes halfway was right.
+Scorched Kidney Beans are the Bean Zodiac's most hard-line. They will not sign the thing they don't believe, whatever it costs, and the refusal holds under pressure. There's no version of them that meets you halfway to keep an evening pleasant. Sometimes halfway was right.

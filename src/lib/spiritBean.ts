@@ -125,11 +125,10 @@ export function computeSpiritBeanScores(
     if (s === 0) continue;
     const accepted = s > 0;
 
-    // Tags are looked up by zodiacId, never read from entry.spiritTags: they're
-    // a pure function of the zodiac, so the persisted snapshot on old entries
-    // would just be a stale copy in an outdated shape. Legacy entries therefore
-    // score correctly without migration. (Trade-off: regenerating tags
-    // retroactively re-scores history.)
+    // Tags are looked up by zodiacId, never persisted on the entry: they're a
+    // pure function of the zodiac, so a stored snapshot would just be a stale
+    // copy in an outdated shape. History therefore scores correctly however the
+    // tag model changes. (Trade-off: regenerating tags re-scores history.)
     const tags = SPIRIT_TAGS[entry.zodiacId];
     if (!tags) continue;
 
@@ -138,7 +137,7 @@ export function computeSpiritBeanScores(
     // Rorschach answers count half — 50% of a normal score, rounded toward the
     // choice's direction, so a non-zero rule always keeps at least a minimal
     // nudge in its own sign. Applied identically to the triple and soft deltas.
-    const half = entry.variant === "rorschach";
+    const half = entry.ritualType === "rorschach";
     const scale = (n: number) =>
       half ? Math.sign(n) * Math.ceil(Math.abs(n) / 2) : n;
 
@@ -254,16 +253,13 @@ export type BeanstalkNode = {
   spiritZodiacId: ZodiacId;
   fortuneZodiacId: ZodiacId;
   qualityId: QualityId;
-  facetTitle: string;
-  facetText: string;
   score: number;
-  text: string | null;
-  variant: RitualVariant;
-  question: string | null;
-  answeredQuality: QualityId | null;
-  answerText: string | null;
-  rorschachImage: string | null;
-  rorschachText: string | null;
+  ritualType: RitualVariant;
+  ritualTitle: string | null;
+  ritualPrompt: string | null;
+  ritualResponse: string | null;
+  rorschachImage: string | null; // derived from the slug, rorschach only
+  fortuneText: string | null;
 };
 
 export function buildBeanstalkNodes(claimedSlug: ZodiacId): BeanstalkNode[] {
@@ -283,16 +279,16 @@ export function buildBeanstalkNodes(claimedSlug: ZodiacId): BeanstalkNode[] {
       spiritZodiacId,
       fortuneZodiacId: entry.zodiacId,
       qualityId: entry.qualityId,
-      facetTitle: entry.facetTitle,
-      facetText: entry.facetText,
       score: entry.score || 0,
-      text: entry.text ?? null,
-      variant: entry.variant ?? "facet",
-      question: entry.question ?? null,
-      answeredQuality: entry.answeredQuality ?? null,
-      answerText: entry.answerText ?? null,
-      rorschachImage: entry.rorschachImage ?? null,
-      rorschachText: entry.rorschachText ?? null,
+      ritualType: entry.ritualType,
+      ritualTitle: entry.ritualTitle,
+      ritualPrompt: entry.ritualPrompt,
+      ritualResponse: entry.ritualResponse,
+      rorschachImage:
+        entry.ritualType === "rorschach"
+          ? `/images/rorschach/${entry.zodiacId}.png`
+          : null,
+      fortuneText: entry.fortuneText,
     };
   });
 

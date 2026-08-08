@@ -1,7 +1,6 @@
 ---
-# TODO: tidy facets, redo rorschachs
 slug: umami-fermented-navy
-lastUpdated: 
+lastUpdated: 2026-08-11
 bean: navy
 flavour: umami
 form: fermented
@@ -16,33 +15,33 @@ friendlyForm: dried
 antiTriple: spicy-fried-adzuki
 antiBeans: [green, chickpea]
 antiForm: roasted
-seasonalFortune: "A season of barley and kombu — the crock moves at the speed it chose."
-fortuneMost: The loose favour becomes a hard leash.
-fortuneHigh: Look at the whole web before you cut a thread.
-fortuneMid: Take the second-best option — the best assumed inputs you can't control.
-fortuneLow: Round it up and move on.
-fortuneLeast: Luck rides with the unplanned.
-facetMostTitle: Slow Boat to Beanchina
-facetMost: A wall goes up a course a day and each has to go off before the next. It is the fourth year. Somebody says a firm would have had it up in three weeks.
-facetHighTitle: The Long Beangame
-facetHigh: The cheese is turned every day for eight months before you know anything. You turn it, and you do not cut one early to see.
-facetMidTitle: One Step at a Beantime
-facetMid: There is a decision to be made about the roof and you have a week to make it in, and you spend four days of that getting three quotes, reading about the felt, and ringing a man who did his own.
+seasonalFortune: "A season of barley and kombu — the days pass slowly."
+fortuneMost: The stork stands over the water so long the fish learn to swim past it.
+fortuneHigh: Do it in order, and do it once.
+fortuneMid: A thing left to work is not a thing neglected.
+fortuneLow: Some dishes are done before the recipe says.
+fortuneLeast: Quick pickles keep their crunch.
+facetMostTitle: Slow Bean to China
+facetMost: You are having a headstone made for your father, and you're still figuring out the wording even though it's been many months. The stonemason rings to ask if he can cut it, otherwise he'll charge for holding materials. You tell him not yet.
+facetHighTitle: The Long Bean
+facetHigh: You are buying a second-hand car off a man selling it from his driveway. He mentions another buyer is coming at five. Regardless, before you consider taking it you'll have gotten under it with a torch.
+facetMidTitle: One Bean at a Time
+facetMid: You meet the cutest ever dog at the rescue shelter — big eyes, very happy, it takes a liking to you instantly. You could probably take it home today. The woman there says another family is coming to see the same dog. You leave without saying yes, and spend the evening reading up on the breed and everything that dog ownership entails.
 facetLowTitle: Free Bean
-facetLow: Millimetres either way is all the measurement is out by and the cut is not a critical one, and there is a man waiting in the van outside for the piece to go in. You take the average and get on with it.
-facetLeastTitle: Jumping the Beangun
-facetLeast: The house has been on four days and you saw it once, in the rain. You put the asking price in that afternoon. No survey is booked.
-question: How long does a decision take you?
-answerMost: longer than the window allows, and then you ask for more
-answerHigh: as long as the homework honestly takes
-answerMid: a few days, and then it's settled
-answerLow: until the first sensible option turns up
-answerLeast: about ten minutes
-rorschachMost: a glacier's snout, barely moving
-rorschachHigh: a boulder taking a century
-rorschachMid: a slow river's bend
-rorschachLow: a stone gathering pace
-rorschachLeast: a rockfall already down
+facetLow: It's a scorching hot weekend, and you are walking by a river. People are swimming in it. You weren't planning to, but you leave your clothes on a rock and get in too.
+facetLeastTitle: Jumping the Bean
+facetLeast: A friend is getting a tattoo and you have gone along to watch. The tattoo artist says there's a chair free for the next hour if you want to get anything. You take them up on the offer.
+question: You're interested in joining a band. Your mate happens to have got one together and has kept the bass spot open for you. They ask if you want to join. You...
+answerMost: say you'll think about it
+answerHigh: say you'll tell them soon, once you know where you stand with exams
+answerMid: ask how many practices there'll be first
+answerLow: ask what the songs are, hear one you like, then say yes
+answerLeast: say yes immediately
+rorschachMost: coral
+rorschachHigh: a stumpy bonsai
+rorschachMid: a hornet's nest
+rorschachLow: a dropped mug
+rorschachLeast: a speaker system
 ---
 
 Miso Navy Beans are the Bean Zodiac's most deliberate. Every step is taken on purpose, in order, and the finished thing has no accidents in it. Sometimes it takes a year longer than anyone had. Moving suddenly on something isn't a gear they own.

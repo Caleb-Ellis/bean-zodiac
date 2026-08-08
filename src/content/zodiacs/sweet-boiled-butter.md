@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo rorschachs
+# should be forgiving / excusing / unappeasable
 slug: sweet-boiled-butter
 lastUpdated: 
 bean: butter

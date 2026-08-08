@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# should be humble / self-erasing / swaggering
 slug: umami-smoked-chickpea
 lastUpdated:
 bean: chickpea

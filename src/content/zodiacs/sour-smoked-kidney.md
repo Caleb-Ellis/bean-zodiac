@@ -5,7 +5,7 @@ lastUpdated:
 bean: kidney
 flavour: sour
 form: smoked
-trait: unsparing
+trait: searing
 excess: withering
 inverse: coddling
 quote: Some like it bean.
@@ -45,4 +45,4 @@ rorschachLow: shears set aside
 rorschachLeast: a blanket wrapped close
 ---
 
-Cured Kidney Beans are the Bean Zodiac's most unsparing. They tell you the business isn't working while there is still time to do something about it. Occasionally the telling leaves nothing standing. Letting somebody enjoy a comfortable illusion another month is not a kindness they extend.
+Cured Kidney Beans are the Bean Zodiac's most searing. They tell you the business isn't working while there is still time to do something about it. Occasionally the telling leaves nothing standing. Letting somebody enjoy a comfortable illusion another month is not a kindness they extend.

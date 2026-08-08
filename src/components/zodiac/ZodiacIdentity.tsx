@@ -96,7 +96,7 @@ export default function ZodiacIdentity({
         <div className="relative h-16 w-full max-w-sm flex items-center justify-center mt-1">
           <button
             onClick={onClaim}
-            className={`absolute inset-0 flex flex-col items-center justify-center gap-0.5 bg-zinc-900/80 border-2 border-zinc-500/60 text-white rounded-xl px-8 font-bold backdrop-blur-sm transition-[opacity,transform,border-color,background-color] duration-300 hover:border-zinc-400 hover:bg-zinc-800/80 cursor-pointer ${claimed || hasClaimed ? "opacity-0 translate-y-2 pointer-events-none" : "opacity-100 translate-y-0"}`}
+            className={`absolute inset-0 flex flex-col items-center justify-center gap-0.5 bg-zinc-900/80 border-2 border-zinc-500/60 text-white rounded-xl px-8 font-bold backdrop-blur-sm transition-[opacity,transform,border-color,background-color] duration-300 hover:border-zinc-400 hover:bg-zinc-800/80 cursor-pointer ${claimed || hasClaimed ? "opacity-0 pointer-events-none" : "opacity-100 translate-y-0"}`}
           >
             <span>
               Claim the{" "}

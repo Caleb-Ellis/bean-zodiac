@@ -1,25 +1,40 @@
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
-import type { QualityId, SpiritTags, ZodiacId } from "../lib/zodiac";
+import { QualityIds, type QualityId, type ZodiacId } from "../lib/zodiac";
 import type { RitualVariant } from "../lib/fortune";
 import type { SeasonSummary } from "../lib/seasonSummary";
+import { useUiStore } from "./ui";
 
+/** localStorage key for the persisted bean data. Also used by lib/backup. */
+export const STORE_NAME = "bean-zodiac";
+
+export const STORE_VERSION = 7;
+
+/**
+ * A day's ritual, stored in one shape for all three ritual types rather than a
+ * set of per-type keys. What the ritual put to the user goes in `ritualPrompt`,
+ * what they gave back in `ritualResponse`:
+ *
+ * | ritualType | ritualTitle | ritualPrompt  | ritualResponse       |
+ * | ---------- | ----------- | ------------- | -------------------- |
+ * | facet      | facet title | the facet     | — (the score is it)  |
+ * | question   | —           | the question  | the chosen answer    |
+ * | rorschach  | —           | — (the blot)  | the chosen reading   |
+ *
+ * The blot itself needs no field: it is `/images/rorschach/{zodiacId}.png`.
+ */
 export type FortuneEntry = {
   date: string;
   zodiacId: ZodiacId;
+  // The tier the ritual resolved to: the rolled one for facet entries, the one
+  // the user picked for question/rorschach entries.
   qualityId: QualityId;
-  facetTitle: string;
-  facetText: string;
-  spiritTags?: SpiritTags | null; // snapshot of the zodiac's spirit tags; legacy entries omit it
+  ritualType: RitualVariant;
+  ritualTitle: string | null; // facet only, for now
+  ritualPrompt: string | null;
+  ritualResponse: string | null;
   score: number; // 0 = no vote, +1 = accepted, -1 = resisted
-  text: string | null;
-  seenAt: string | null; // ISO timestamp the user dismissed the fortune dialog
-  variant?: RitualVariant; // undefined ↔ legacy facet entry
-  question?: string | null; // snapshot, question variant only
-  answeredQuality?: QualityId | null; // tier the user picked, question/rorschach variants
-  answerText?: string | null; // snapshot, question variant only
-  rorschachImage?: string | null; // /images/rorschach/{slug}.png, rorschach variant only
-  rorschachText?: string | null; // chosen interpretation, rorschach variant only
+  fortuneText: string | null;
 };
 
 export type ClaimedBean = {
@@ -27,30 +42,38 @@ export type ClaimedBean = {
   on: string; // YYYY-MM-DD
 };
 
-export type MetBean = {
-  id: ZodiacId;
-  on: string; // YYYY-MM-DD
-};
+/**
+ * Which zodiacs the user has encountered, and at which tiers. A bean met by any
+ * means other than a scored fortune (claimed, seasonal, browsed on the wheel,
+ * the spirit bean) records the neutral Garden tier; a fortune records the tier
+ * it resolved to, so the tiers accumulate as the user keeps meeting a bean.
+ */
+export type MetBeans = Partial<Record<ZodiacId, Partial<Record<QualityId, true>>>>;
 
-type State = {
+type PersistedState = {
   claimed: ClaimedBean | null;
   fortuneHistory: FortuneEntry[];
-  metBeans: MetBean[];
-  radarExpanded: boolean;
+  metBeans: MetBeans;
   lastSeasonSeen: string | null; // season key (startDate YYYY-MM-DD) last acknowledged
   seasonSummaries: SeasonSummary[]; // persisted season recaps, newest first
+};
 
+type State = PersistedState & {
   setClaimed: (id: ZodiacId | null) => void;
-  addFortuneEntry: (
-    entry: Omit<FortuneEntry, "seenAt"> & { seenAt?: string | null },
-  ) => void;
+  addFortuneEntry: (entry: FortuneEntry) => void;
   updateFortuneEntry: (date: string, patch: Partial<FortuneEntry>) => void;
-  markFortuneSeen: (date: string) => void;
-  addMetBean: (id: ZodiacId) => void;
-  setRadarExpanded: (expanded: boolean) => void;
+  addMetBean: (id: ZodiacId, qualityId?: QualityId) => void;
   setLastSeasonSeen: (key: string) => void;
   addSeasonSummary: (summary: SeasonSummary) => void;
   relinquish: () => void;
+};
+
+const INITIAL_STATE: PersistedState = {
+  claimed: null,
+  fortuneHistory: [],
+  metBeans: {},
+  lastSeasonSeen: null,
+  seasonSummaries: [],
 };
 
 function todayLocal(): string {
@@ -61,12 +84,7 @@ function todayLocal(): string {
 export const useStore = create<State>()(
   persist(
     (set, get) => ({
-      claimed: null,
-      fortuneHistory: [],
-      metBeans: [],
-      radarExpanded: true,
-      lastSeasonSeen: null,
-      seasonSummaries: [],
+      ...INITIAL_STATE,
 
       setClaimed: (id) =>
         set({ claimed: id ? { id, on: todayLocal() } : null }),
@@ -74,9 +92,7 @@ export const useStore = create<State>()(
       addFortuneEntry: (entry) => {
         const { fortuneHistory } = get();
         if (fortuneHistory.some((e) => e.date === entry.date)) return;
-        set({
-          fortuneHistory: [{ seenAt: null, ...entry }, ...fortuneHistory],
-        });
+        set({ fortuneHistory: [entry, ...fortuneHistory] });
       },
 
       updateFortuneEntry: (date, patch) =>
@@ -86,22 +102,13 @@ export const useStore = create<State>()(
           ),
         })),
 
-      markFortuneSeen: (date) =>
-        set((s) => ({
-          fortuneHistory: s.fortuneHistory.map((e) =>
-            e.date === date && e.seenAt === null
-              ? { ...e, seenAt: new Date().toISOString() }
-              : e,
-          ),
-        })),
-
-      addMetBean: (id) => {
+      addMetBean: (id, qualityId = QualityIds.Garden) => {
         const { metBeans } = get();
-        if (metBeans.some((m) => m.id === id)) return;
-        set({ metBeans: [{ id, on: todayLocal() }, ...metBeans] });
+        if (metBeans[id]?.[qualityId]) return;
+        set({
+          metBeans: { ...metBeans, [id]: { ...metBeans[id], [qualityId]: true } },
+        });
       },
-
-      setRadarExpanded: (expanded) => set({ radarExpanded: expanded }),
 
       setLastSeasonSeen: (key) => set({ lastSeasonSeen: key }),
 
@@ -112,18 +119,11 @@ export const useStore = create<State>()(
         set({ seasonSummaries: [summary, ...seasonSummaries] });
       },
 
-      relinquish: () =>
-        set({
-          claimed: null,
-          fortuneHistory: [],
-          metBeans: [],
-          lastSeasonSeen: null,
-          seasonSummaries: [],
-        }),
+      relinquish: () => set({ ...INITIAL_STATE }),
     }),
     {
-      name: "bean-zodiac",
-      version: 6,
+      name: STORE_NAME,
+      version: STORE_VERSION,
       migrate: (state: any, version: number) => {
         if (version < 2) {
           state.fortuneHistory = (state.fortuneHistory ?? []).map((e: any) => ({
@@ -140,26 +140,6 @@ export const useStore = create<State>()(
             text: e.text || "",
           }));
         }
-        if (version < 4) {
-          // Spirit tags moved from per-tier bean lists (facetTags) to a
-          // per-zodiac friendly/anti snapshot. Old entries can't be rebuilt
-          // (the old tags don't carry the new structure), so drop them — those
-          // entries simply forgo the soft pass on replay.
-          state.fortuneHistory = (state.fortuneHistory ?? []).map((e: any) => {
-            const { facetTags: _drop, ...rest } = e;
-            return rest;
-          });
-        }
-        if (version < 5) {
-          // Rorschach masks moved from live-filter SVGs to high-res baked PNGs
-          // (the SVG filter collapsed to a blob at mobile mask sizes). Rewrite
-          // the extension on persisted snapshots so old entries don't 404.
-          state.fortuneHistory = (state.fortuneHistory ?? []).map((e: any) =>
-            typeof e.rorschachImage === "string"
-              ? { ...e, rorschachImage: e.rorschachImage.replace(/\.svg$/, ".png") }
-              : e,
-          );
-        }
         if (version < 6) {
           // Season summaries are new. Leave lastSeasonSeen null so an
           // already-engaged user gets one recap on their next post-tick visit;
@@ -168,13 +148,84 @@ export const useStore = create<State>()(
           state.lastSeasonSeen = state.lastSeasonSeen ?? null;
           state.seasonSummaries = state.seasonSummaries ?? [];
         }
+        if (version < 7) {
+          // Entries are rebuilt into one shape for all three ritual types,
+          // replacing the per-type keys (facetTitle/facetText/question/
+          // answerText/rorschachText/text). Rebuilding rather than patching also
+          // drops everything that was snapshotted but never read (spiritTags,
+          // seenAt, and the facet copy that question/rorschach entries carried
+          // for their rolled tier) or that merely restates another field
+          // (rorschachImage, answeredQuality) — all now derived at the read
+          // sites. It subsumes the old v4 (drop facetTags) and v5 (.svg → .png)
+          // rewrites too, since both only touched keys this discards.
+          state.fortuneHistory = (state.fortuneHistory ?? []).map((e: any) => {
+            const ritualType = e.variant ?? "facet";
+            const isFacet = ritualType === "facet";
+            return {
+              date: e.date,
+              zodiacId: e.zodiacId,
+              qualityId: e.qualityId,
+              ritualType,
+              ritualTitle: isFacet ? (e.facetTitle ?? null) : null,
+              ritualPrompt: isFacet
+                ? (e.facetText ?? null)
+                : ritualType === "question"
+                  ? (e.question ?? null)
+                  : null,
+              ritualResponse:
+                ritualType === "question"
+                  ? (e.answerText ?? null)
+                  : ritualType === "rorschach"
+                    ? (e.rorschachText ?? null)
+                    : null,
+              score: e.score ?? 0,
+              fortuneText: e.text ?? null,
+            };
+          });
+
+          // Summaries keep only the season key; the closing/incoming bean ids
+          // fall out of the calendar (seasonZodiacsForKey).
+          state.seasonSummaries = (state.seasonSummaries ?? []).map(
+            (s: any) => ({
+              seasonKey: s.seasonKey,
+              observations: s.observations ?? [],
+            }),
+          );
+
+          // metBeans went from a flat `{id, on}[]` to id → tier → true. The old
+          // list recorded no tier, so every entry in it becomes a plain Garden
+          // encounter; fortuneHistory then supplies the tiers actually drawn.
+          // The `on` dates are dropped — nothing ever read them.
+          const met: Record<string, Record<string, true>> = {};
+          const mark = (id: string, qualityId: string) => {
+            met[id] = { ...met[id], [qualityId]: true };
+          };
+          for (const m of state.metBeans ?? []) {
+            if (m?.id) mark(m.id, QualityIds.Garden);
+          }
+          // Parity with the old BeaniaryPage backfill, which seeded the list
+          // from history + the claimed bean whenever metBeans was empty.
+          if (state.claimed?.id) mark(state.claimed.id, QualityIds.Garden);
+          for (const e of state.fortuneHistory) {
+            if (e.zodiacId && e.qualityId) mark(e.zodiacId, e.qualityId);
+          }
+          state.metBeans = met;
+
+          // radarExpanded is a UI preference, not bean data — it now lives in
+          // its own key so exports carry only the latter. Set it through the UI
+          // store rather than writing that key directly: useUiStore has already
+          // hydrated (it is imported above) and would otherwise keep its default.
+          if (typeof state.radarExpanded === "boolean") {
+            useUiStore.getState().setRadarExpanded(state.radarExpanded);
+          }
+          delete state.radarExpanded;
+        }
         return state;
       },
       partialize: (s) => ({
         claimed: s.claimed,
         fortuneHistory: s.fortuneHistory,
         metBeans: s.metBeans,
-        radarExpanded: s.radarExpanded,
         lastSeasonSeen: s.lastSeasonSeen,
         seasonSummaries: s.seasonSummaries,
       }),

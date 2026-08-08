@@ -28,10 +28,10 @@ facetHigh: Every other boat on the pontoon is named after somebody's wife or mot
 facetMidTitle: Out of Left Bean
 facetMid: Every front door on the street is white or light oak. At the hardware store you pick a bright yellow, and order two tins so the back gate can match.
 facetLowTitle: Buttoned-Up Bean
-facetLow: Come as your hero, the invitation said, and everyone at the door is in full rig — somebody has gone to the trouble of hiring a horse costume. The host holds out a costume for you to wear, looks like it's a monkey of some sort. You politely decline.
+facetLow: Come as your hero, the invitation said. You'd forgotten, and everyone else is geared up. The host holds out a costume for you to wear, looks like it's a horse, or something? You politely decline.
 facetLeastTitle: A Safe Pair of Beans
 facetLeast: You run a charity quiz in the same hall every year, same rounds, same order, and it always sells out the evening the tickets go up. Somebody wants it reinvented this time as a murder mystery, with actors. You print the sheets as they are and put the raffle back in at the interval.
-question: Where do you like to go when you go on holidau?
+question: Where do you like to go when you go on holiday?
 answerMost: places people have never even heard of
 answerHigh: places that require a lot of work to get to
 answerMid: slightly off the beaten path, the less tourists the better

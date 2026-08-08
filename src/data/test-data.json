@@ -1,0 +1,581 @@
+{
+  "state": {
+    "claimed": {
+      "id": "spicy-fried-chickpea",
+      "on": "2026-06-02"
+    },
+    "fortuneHistory": [
+      {
+        "date": "2026-06-02",
+        "zodiacId": "sweet-fried-fava",
+        "qualityId": "rotten",
+        "ritualType": "question",
+        "ritualTitle": null,
+        "ritualPrompt": "Betting at the family card table has grown from bottlecaps to real money. The pot in the middle is now a week's wage, and you've been dealt an average hand. You...",
+        "ritualResponse": "would never have sat down for real money",
+        "score": 1,
+        "fortuneText": "The panther that waits often doesn't eat."
+      },
+      {
+        "date": "2026-06-03",
+        "zodiacId": "sweet-dried-pinto",
+        "qualityId": "market",
+        "ritualType": "question",
+        "ritualTitle": null,
+        "ritualPrompt": "How much of the house you grew up in is still in your head?",
+        "ritualResponse": "most of it — the colour of the walls, the smell of the kitchen, the way the light fell",
+        "score": 1,
+        "fortuneText": "Tell it while the people in it are still here."
+      },
+      {
+        "date": "2026-06-04",
+        "zodiacId": "bitter-dried-edamame",
+        "qualityId": "stale",
+        "ritualType": "facet",
+        "ritualTitle": "Gilmore Beans",
+        "ritualPrompt": "A stranger stops you for directions to the station. A pointed finger would do, but you walk them all the way there in words, doubling back to be sure it landed.",
+        "ritualResponse": null,
+        "score": 1,
+        "fortuneText": "The rook enjoys the company of others."
+      },
+      {
+        "date": "2026-06-05",
+        "zodiacId": "sweet-roasted-edamame",
+        "qualityId": "garden",
+        "ritualType": "question",
+        "ritualTitle": null,
+        "ritualPrompt": "After much planning, you finally calculate that a week's skiing for the four of you is eleven hundred each, deposits due soon. Two in the group say yes within the hour; the fourth hasn't said a word in days. You...",
+        "ritualResponse": "ask them privately if eleven hundred works",
+        "score": 1,
+        "fortuneText": "A manatee moves slow and sure, disturbing only what it means to."
+      },
+      {
+        "date": "2026-06-06",
+        "zodiacId": "sweet-fried-adzuki",
+        "qualityId": "garden",
+        "ritualType": "question",
+        "ritualTitle": null,
+        "ritualPrompt": "Last night of the week away with the whole family, everyone driving home in the morning, and somebody puts a song you all love on. You...",
+        "ritualResponse": "sing along with everyone",
+        "score": 1,
+        "fortuneText": "Let's get this party started!"
+      },
+      {
+        "date": "2026-06-07",
+        "zodiacId": "bitter-boiled-green",
+        "qualityId": "market",
+        "ritualType": "facet",
+        "ritualTitle": "The Bean Who Knew Too Much",
+        "ritualPrompt": "A coworker mentions they used to fly, offhand. Before the day is up you know the aircraft, the years, how it felt, and the reason they stopped.",
+        "ritualResponse": null,
+        "score": 1,
+        "fortuneText": "Go to the source, not the summary of it."
+      },
+      {
+        "date": "2026-06-08",
+        "zodiacId": "bitter-smoked-green",
+        "qualityId": "stale",
+        "ritualType": "question",
+        "ritualTitle": null,
+        "ritualPrompt": "Second viewing of the house you're about to put an offer on. The back bedroom is many degrees colder than the rest of it and the door won't stay open. You...",
+        "ritualResponse": "ask the agent what's causing the cold",
+        "score": 1,
+        "fortuneText": "Most of it is just the house settling."
+      },
+      {
+        "date": "2026-06-09",
+        "zodiacId": "bitter-smoked-kidney",
+        "ritualType": "facet",
+        "ritualTitle": "Requiem for a Bean",
+        "ritualPrompt": "Thirty years teaching and they have given you five minutes at the leavers' assembly, a hall full of parents and a run of warm jokes expected. You spend them on what the place was like for the ones who hated it, year by year, naming nobody and describing it exactly.",
+        "qualityId": "heirloom",
+        "score": -1,
+        "fortuneText": "You never hear the ghost bat arrive, only that it's gone.",
+        "ritualResponse": null
+      },
+      {
+        "date": "2026-06-10",
+        "zodiacId": "sour-fermented-fava",
+        "qualityId": "heirloom",
+        "ritualType": "question",
+        "ritualTitle": null,
+        "ritualPrompt": "A room agrees on something inside four minutes. What do you do?",
+        "ritualResponse": "Argue against it, whatever it is",
+        "score": 1,
+        "fortuneText": "Everyone is sprinting past the thing only you caught, and you will say so alone."
+      },
+      {
+        "date": "2026-06-11",
+        "zodiacId": "umami-boiled-green",
+        "qualityId": "rotten",
+        "ritualType": "facet",
+        "ritualTitle": "Silent Beanspring",
+        "ritualPrompt": "There is a whole free week, the workshop, and everything you need in it. Nothing gets made. You tidy the bench twice, and at the end of the week the bench is tidy.",
+        "ritualResponse": null,
+        "score": 1,
+        "fortuneText": "No new pots."
+      },
+      {
+        "date": "2026-06-12",
+        "zodiacId": "spicy-fermented-pinto",
+        "qualityId": "heirloom",
+        "ritualType": "facet",
+        "ritualTitle": "Beancaprice",
+        "ritualPrompt": "The plan made at the start of the week is gone by the middle of it and the new one is genuinely better, and so is the one that replaces that by the weekend.",
+        "ritualResponse": null,
+        "score": 1,
+        "fortuneText": "The anole is green on the branch and brown on the fence and means both."
+      },
+      {
+        "date": "2026-06-13",
+        "zodiacId": "bitter-boiled-pinto",
+        "qualityId": "garden",
+        "ritualType": "facet",
+        "ritualTitle": "Beanditations",
+        "ritualPrompt": "Ten minutes are left on the pool and everybody else has got out. You are on your back in the deep end still working out what he actually meant by it.",
+        "ritualResponse": null,
+        "score": -1,
+        "fortuneText": "Don't count every petal."
+      },
+      {
+        "date": "2026-06-14",
+        "zodiacId": "bitter-fermented-cannellini",
+        "qualityId": "rotten",
+        "ritualType": "facet",
+        "ritualTitle": "Forrest Beanp",
+        "ritualPrompt": "Nobody at the table can remember which war the poem was written in and somebody looks at you. You say you have no idea, and you reach for the wine and change the subject.",
+        "ritualResponse": null,
+        "score": 1,
+        "fortuneText": "Take the first plausible option and act."
+      },
+      {
+        "date": "2026-06-15",
+        "zodiacId": "bitter-fried-navy",
+        "qualityId": "heirloom",
+        "ritualType": "facet",
+        "ritualTitle": "Kill Bean",
+        "ritualPrompt": "Forty minutes of costing and everybody has talked around the same number. You say the job loses money at that rate. The man who set the rate is in the room.",
+        "ritualResponse": null,
+        "score": 1,
+        "fortuneText": "The goshawk sees the mouse the grass is hiding."
+      },
+      {
+        "date": "2026-06-16",
+        "zodiacId": "sweet-smoked-chickpea",
+        "qualityId": "garden",
+        "ritualType": "facet",
+        "ritualTitle": "Beancharmed, I'm Sure",
+        "ritualPrompt": "Given two minutes with the panel before it starts, you spend both of them on the one who looks least pleased to be there.",
+        "ritualResponse": null,
+        "score": 1,
+        "fortuneText": "A red panda does nothing all day and is forgiven for it."
+      },
+      {
+        "date": "2026-06-17",
+        "zodiacId": "sweet-boiled-kidney",
+        "qualityId": "stale",
+        "ritualType": "question",
+        "ritualTitle": null,
+        "ritualPrompt": "The man who does your garden turns up an hour late and tells you his father's just died. You...",
+        "ritualResponse": "say you're sorry, and let him get on with the hedge",
+        "score": 1,
+        "fortuneText": "Let someone else be the strong one for once."
+      },
+      {
+        "date": "2026-06-18",
+        "zodiacId": "bitter-dried-black",
+        "qualityId": "garden",
+        "ritualType": "facet",
+        "ritualTitle": "The Quiet Bean",
+        "ritualPrompt": "Asked at the bank how the fishing went, when you were gone four days for it, you hold up two fingers and carry on loading the car.",
+        "ritualResponse": null,
+        "score": 1,
+        "fortuneText": "Give them the why, not just the verdict."
+      },
+      {
+        "date": "2026-06-19",
+        "zodiacId": "sour-boiled-butter",
+        "qualityId": "market",
+        "ritualType": "facet",
+        "ritualTitle": "To Tell the Bean",
+        "ritualPrompt": "The man on the next allotment asks what you make of his onions, which are poor, and he knows they are poor. You tell him what went wrong and what to do about it.",
+        "ritualResponse": null,
+        "score": 1,
+        "fortuneText": "Say it plainly, say it kindly."
+      },
+      {
+        "date": "2026-06-20",
+        "zodiacId": "bitter-dried-adzuki",
+        "qualityId": "garden",
+        "ritualType": "question",
+        "ritualTitle": null,
+        "ritualPrompt": "You have one spare ticket for the thing you love, and four people who would want it. You...",
+        "ritualResponse": "offer it to two of them and let them sort it out",
+        "score": 1,
+        "fortuneText": "The good thing you've been saving for an occasion grand enough - none ever quite is."
+      },
+      {
+        "date": "2026-06-21",
+        "zodiacId": "sour-fermented-edamame",
+        "qualityId": "market",
+        "ritualType": "rorschach",
+        "ritualTitle": null,
+        "ritualPrompt": null,
+        "ritualResponse": "a lip curled up",
+        "score": 1,
+        "fortuneText": "Ask who benefits, then wait for the whole answer."
+      },
+      {
+        "date": "2026-06-22",
+        "zodiacId": "umami-dried-kidney",
+        "qualityId": "heirloom",
+        "ritualType": "question",
+        "ritualTitle": null,
+        "ritualPrompt": "A friend of twenty years has been accused of something serious and the details are unclear. You...",
+        "ritualResponse": "stand by him whatever comes out, and say so publicly",
+        "score": 1,
+        "fortuneText": "Stay with it a month past where a sensible person would have quit."
+      },
+      {
+        "date": "2026-06-23",
+        "zodiacId": "umami-dried-chickpea",
+        "qualityId": "garden",
+        "ritualType": "question",
+        "ritualTitle": null,
+        "ritualPrompt": "Somebody asks what you've been up to. What do they get?",
+        "ritualResponse": "A proper answer, not a long one",
+        "score": 1,
+        "fortuneText": "Mend the coat instead of replacing it."
+      },
+      {
+        "date": "2026-06-24",
+        "zodiacId": "spicy-smoked-cannellini",
+        "qualityId": "garden",
+        "ritualType": "facet",
+        "ritualTitle": "The Beandouble Take",
+        "ritualPrompt": "One chair, one lemon, and nothing else at all in that window. People stop dead on the pavement outside it, and then come back later for a second look.",
+        "ritualResponse": null,
+        "score": 1,
+        "fortuneText": "Heat the dish; don't scorch it."
+      },
+      {
+        "date": "2026-06-25",
+        "zodiacId": "sour-dried-pinto",
+        "qualityId": "market",
+        "ritualType": "facet",
+        "ritualTitle": "The Picture of Dorian Bean",
+        "ritualPrompt": "Somebody has told you to keep the toast short. You say one sentence about him. You sit down, and it is the thing people go home repeating to each other.",
+        "ritualResponse": null,
+        "score": 1,
+        "fortuneText": "Say it once, at a length no longer than the thought."
+      },
+      {
+        "date": "2026-06-26",
+        "zodiacId": "sour-smoked-cannellini",
+        "qualityId": "garden",
+        "ritualType": "question",
+        "ritualTitle": null,
+        "ritualPrompt": "You're in a conversation where everyone is talking around the real issue. You...",
+        "ritualResponse": "Steer it closer without forcing it",
+        "score": 1,
+        "fortuneText": "Name the bad number where it sits, not in the car afterward."
+      },
+      {
+        "date": "2026-06-27",
+        "zodiacId": "sweet-dried-chickpea",
+        "qualityId": "market",
+        "ritualType": "facet",
+        "ritualTitle": "The Beanwaltons",
+        "ritualPrompt": "The village show wants its big tent up before nine, and you are down on the field at eight helping.",
+        "ritualResponse": null,
+        "score": 1,
+        "fortuneText": "You will be asked to say the words, because you will keep them clean."
+      },
+      {
+        "date": "2026-06-28",
+        "zodiacId": "sweet-dried-black",
+        "qualityId": "garden",
+        "ritualType": "facet",
+        "ritualTitle": "Here to Bean",
+        "ritualPrompt": "Flowers on the same grave, same time of year, and you still take the long way round the lanes to get there rather than the road everybody else uses.",
+        "ritualResponse": null,
+        "score": 1,
+        "fortuneText": "Quiet faithfulness sinks into the furniture until nobody sees it holding the house up."
+      },
+      {
+        "date": "2026-06-29",
+        "zodiacId": "spicy-fried-pinto",
+        "qualityId": "garden",
+        "ritualType": "question",
+        "ritualTitle": null,
+        "ritualPrompt": "There's a long slow afternoon and nothing that has to be done. You...",
+        "ritualResponse": "potter, and sit down now and then",
+        "score": 1,
+        "fortuneText": "Six things half-done is not the same as nothing done."
+      },
+      {
+        "date": "2026-06-30",
+        "zodiacId": "spicy-fried-adzuki",
+        "qualityId": "market",
+        "ritualType": "facet",
+        "ritualTitle": "Beanstoppable",
+        "ritualPrompt": "Fourth day of rain on the construction site and everybody's looking grim, not a word all morning. You can't leave a mood like that alone — so the radio goes up on the scaffold and you start singing.",
+        "ritualResponse": null,
+        "score": -1,
+        "fortuneText": "Ask for neither permission nor forgiveness."
+      },
+      {
+        "date": "2026-07-01",
+        "zodiacId": "umami-boiled-cannellini",
+        "qualityId": "stale",
+        "ritualType": "rorschach",
+        "ritualTitle": null,
+        "ritualPrompt": null,
+        "ritualResponse": "a dropped glove",
+        "score": 1,
+        "fortuneText": "The favour will be bigger than it sounds."
+      },
+      {
+        "date": "2026-07-02",
+        "zodiacId": "bitter-dried-navy",
+        "qualityId": "stale",
+        "ritualType": "facet",
+        "ritualTitle": "Beanlet",
+        "ritualPrompt": "New drawings have come and they answer the two things you objected to. You send a line saying you are content.",
+        "ritualResponse": null,
+        "score": -1,
+        "fortuneText": "Change your mind where somebody can see you do it."
+      },
+      {
+        "date": "2026-07-03",
+        "zodiacId": "umami-smoked-kidney",
+        "qualityId": "stale",
+        "ritualType": "question",
+        "ritualTitle": null,
+        "ritualPrompt": "It's the anniversary of losing someone and nobody else has mentioned it. You...",
+        "ritualResponse": "notice it, and get on with the day",
+        "score": 1,
+        "fortuneText": "Grief thins out if you let a day get in front of it."
+      },
+      {
+        "date": "2026-07-04",
+        "zodiacId": "sour-dried-cannellini",
+        "qualityId": "garden",
+        "ritualType": "facet",
+        "ritualTitle": "The Beanrules of the Game",
+        "ritualPrompt": "Two of the under-twelves turned up without shin pads. Neither of them plays, and you say so to both fathers, in front of the rest of the team and both sets of parents.",
+        "ritualResponse": null,
+        "score": -1,
+        "fortuneText": "There is only time to perfect one thing."
+      },
+      {
+        "date": "2026-07-05",
+        "zodiacId": "umami-fried-cannellini",
+        "qualityId": "garden",
+        "ritualType": "facet",
+        "ritualTitle": "A Line in the Beansand",
+        "ritualPrompt": "The supplier is cheap because of where he gets the stuff. You find out where, you stop using him, and it costs you the contract.",
+        "ritualResponse": null,
+        "score": -1,
+        "fortuneText": "Pay the small debt back exact, in cash, even after they've waved it off twice."
+      },
+      {
+        "date": "2026-07-06",
+        "zodiacId": "sweet-fried-edamame",
+        "qualityId": "market",
+        "ritualType": "rorschach",
+        "ritualTitle": null,
+        "ritualPrompt": null,
+        "ritualResponse": "a sail full of wind",
+        "score": 1,
+        "fortuneText": "Run the racehorse's way - one length at a time, and pull up sound."
+      },
+      {
+        "date": "2026-07-07",
+        "zodiacId": "sweet-fermented-butter",
+        "qualityId": "garden",
+        "ritualType": "facet",
+        "ritualTitle": "The Ministry of Silly Beans",
+        "ritualPrompt": "There is a tandem in the shed and nobody to ride it with. You go out on the front on your own, and wave at people from it.",
+        "ritualResponse": null,
+        "score": 1,
+        "fortuneText": "Don't worry about making a mess if it wins a smile."
+      },
+      {
+        "date": "2026-07-08",
+        "zodiacId": "sour-fermented-adzuki",
+        "qualityId": "market",
+        "ritualType": "rorschach",
+        "ritualTitle": null,
+        "ritualPrompt": null,
+        "ritualResponse": "an elaborate machine",
+        "score": 1,
+        "fortuneText": "Stare too long in the pond and you might forget to drink."
+      },
+      {
+        "date": "2026-07-09",
+        "zodiacId": "spicy-boiled-navy",
+        "qualityId": "heirloom",
+        "ritualType": "facet",
+        "ritualTitle": "The Beanmule",
+        "ritualPrompt": "Your boundary wall goes where the deeds say and you have told them so, and there is an offer on the table now, and a surveyor's letter, and a neighbour who has stopped saying hello over it. The wall goes where the deeds say.",
+        "ritualResponse": null,
+        "score": 1,
+        "fortuneText": "The gate has rusted shut."
+      },
+      {
+        "date": "2026-07-10",
+        "zodiacId": "bitter-fried-green",
+        "qualityId": "garden",
+        "ritualType": "facet",
+        "ritualTitle": "Waiting Is the Hardest Bean",
+        "ritualPrompt": "That email has gone unanswered two days. The follow-up is out already, politely worded, sent at seven in the morning.",
+        "ritualResponse": null,
+        "score": 1,
+        "fortuneText": "Finish the old thing before you start the new one."
+      },
+      {
+        "date": "2026-07-11",
+        "zodiacId": "sweet-fermented-green",
+        "qualityId": "rotten",
+        "ritualType": "facet",
+        "ritualTitle": "Same Old Beanstory",
+        "ritualPrompt": "An invitation has to go out and it wants a date, a place and a time, and that is what goes on it. Somebody asks whether you might add a little drawing to the card, and you say people only need the details.",
+        "ritualResponse": null,
+        "score": 1,
+        "fortuneText": "Give the plain sentence, maybe a smiley after."
+      }
+    ],
+    "metBeans": {
+      "bitter-boiled-green": {
+        "market": true
+      },
+      "bitter-boiled-pinto": {
+        "garden": true
+      },
+      "bitter-dried-adzuki": {
+        "garden": true
+      },
+      "bitter-dried-black": {
+        "garden": true
+      },
+      "bitter-dried-edamame": {
+        "stale": true
+      },
+      "bitter-dried-navy": {
+        "stale": true
+      },
+      "bitter-fermented-cannellini": {
+        "rotten": true
+      },
+      "bitter-fried-green": {
+        "garden": true
+      },
+      "bitter-fried-navy": {
+        "heirloom": true
+      },
+      "bitter-roasted-butter": {
+        "garden": true
+      },
+      "bitter-smoked-green": {
+        "stale": true
+      },
+      "bitter-smoked-kidney": {
+        "heirloom": true
+      },
+      "sour-boiled-butter": {
+        "market": true
+      },
+      "sour-dried-cannellini": {
+        "garden": true
+      },
+      "sour-dried-pinto": {
+        "market": true
+      },
+      "sour-fermented-adzuki": {
+        "market": true
+      },
+      "sour-fermented-edamame": {
+        "market": true
+      },
+      "sour-fermented-fava": {
+        "heirloom": true
+      },
+      "sour-smoked-cannellini": {
+        "garden": true
+      },
+      "spicy-boiled-navy": {
+        "heirloom": true
+      },
+      "spicy-fermented-pinto": {
+        "heirloom": true
+      },
+      "spicy-fried-adzuki": {
+        "market": true
+      },
+      "spicy-fried-chickpea": {
+        "garden": true
+      },
+      "spicy-fried-pinto": {
+        "garden": true
+      },
+      "spicy-smoked-cannellini": {
+        "garden": true
+      },
+      "sweet-boiled-kidney": {
+        "stale": true
+      },
+      "sweet-dried-black": {
+        "garden": true
+      },
+      "sweet-dried-chickpea": {
+        "market": true
+      },
+      "sweet-dried-pinto": {
+        "market": true
+      },
+      "sweet-fermented-butter": {
+        "garden": true
+      },
+      "sweet-fermented-green": {
+        "rotten": true
+      },
+      "sweet-fried-adzuki": {
+        "garden": true
+      },
+      "sweet-fried-edamame": {
+        "market": true
+      },
+      "sweet-fried-fava": {
+        "rotten": true
+      },
+      "sweet-roasted-edamame": {
+        "garden": true
+      },
+      "sweet-smoked-chickpea": {
+        "garden": true
+      },
+      "umami-boiled-cannellini": {
+        "stale": true
+      },
+      "umami-boiled-green": {
+        "rotten": true
+      },
+      "umami-dried-chickpea": {
+        "garden": true
+      },
+      "umami-dried-kidney": {
+        "heirloom": true
+      },
+      "umami-fried-cannellini": {
+        "garden": true
+      },
+      "umami-smoked-kidney": {
+        "stale": true
+      }
+    },
+    "lastSeasonSeen": "2026-05-12",
+    "seasonSummaries": []
+  },
+  "version": 7
+}
