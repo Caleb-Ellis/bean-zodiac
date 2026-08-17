@@ -17,32 +17,37 @@ antiTriple: bitter-dried-cannellini
 antiBeans: [navy, edamame]
 antiForm: boiled
 seasonalFortune: "A season of epazote salt and unthought hands — the batter knows without being told."
-fortuneMost: Never taught the way, the swallow has never been asked to explain it.
-fortuneHigh: The yes came out with both hands, and the body knew otherwise.
-fortuneMid: Hold the yes one breath before it escapes.
-fortuneLow: Write it down before you leave.
-fortuneLeast: Promise the dinner and have the pot on by six.
-facetMostTitle: Jekyll and Beanhyde
-facetMost: You knew about the house inside a minute and you were right, and the job, and the person, and somebody has now asked how you knew. You tell them you just knew.
-facetHighTitle: Basic Beaninstinct
-facetHigh: In that drawer a compass points at whatever you actually want rather than at north, and it has never once been wrong about you. You take the thing out on the hill and follow it without once looking at the map at all.
-facetMidTitle: Spidey Beansense
-facetMid: The candidate is the third of four and you knew in the handshake. You sit through the rest and hire her.
-facetLowTitle: By the Beannumbers
-facetLow: Two flats are much of a muchness and there is a feeling about one of them. You put the numbers in a column. You go with what the column says at the bottom of it.
-facetLeastTitle: Ex Beanachina
-facetLeast: A decision has to be made and you have had a strong sense from the start. You do the spreadsheet anyway. It comes out the other way and you follow the spreadsheet.
-question: You've got a decision to make and a strong feeling about it. You...
-answerMost: go with the feeling and don't look at the sums
-answerHigh: go with it, and check the sums after
-answerMid: do the sums, and let the feeling break the tie
-answerLow: do the sums and follow them
-answerLeast: do the sums twice and ignore the feeling
-rorschachMost: a gut, no head
-rorschachHigh: a fist that just moved
-rorschachMid: a dark heart
-rorschachLow: a hand opening slowly
-rorschachLeast: a sum worked on paper
+fortuneMost: Go on instinct every time and the misses never get explained.
+fortuneHigh: A swallow catches insects at speed without appearing to aim.
+fortuneMid: The first instinct is usually sound.
+fortuneLow: Work it out on paper.
+fortuneLeast: Calculation catches what instinct fumbles.
+facetMostTitle: Beanyll and Hyde
+facetMost: Nine of you are camping for the week and a friend's cousin is holding everyone's eight hundred in cash, because his is the only card that works out here, he has been helpful all week and nobody else minds. You say in front of the other eight that somebody else should hold it.
+facetMostAction: You say in front of the other eight that somebody else should hold it.
+facetHighTitle: Basic Beanstinct
+facetHigh: You have met your friend's boyfriend twice and liked him both times, and when you ask whether she is really giving her flat up to move in with him he answers for her. You tell her not to give it up.
+facetHighAction: You tell her not to give it up.
+facetMidTitle: Beaney Sense
+facetMid: Third day of the trial, four of the twelve want the exhibit bundle gone through before anything else, and the foreman asks for a show of hands. You put your hand up and say your mind has not changed since the first morning.
+facetMidAction: You put your hand up and say your mind has not changed since the first morning.
+facetLowTitle: Bean the Numbers
+facetLow: Two men have quoted for the damp in your mum's back room, the prices are a hundred apart, and each has left three previous jobs with a number to ring. You took to the first the moment he came through the door, and on the step she asks you which. You tell her to ring all six first.
+facetLowAction: You tell her to ring all six first.
+facetLeastTitle: Bean Machina
+facetLeast: Five of you in the pub picking somewhere for the spring, and you knew which place straight away, but one cannot fly, one has three hundred pounds and one has four days. You book the only place left that gets past all three.
+facetLeastAction: You book the only place left that gets past all three.
+question: You've been in the flat ninety seconds and you know it's the one. The agent is waiting with two more to see. You...
+answerMost: offer on it from the hallway and call the agent's other viewings off
+answerHigh: call it, and know you're right
+answerMid: call it, and view the remaining two to be sure
+answerLow: view all three and sleep on it
+answerLeast: score all three on paper before you say anything
+rorschachMost: a swatted wasp
+rorschachHigh: a ducked head
+rorschachMid: a caught cup
+rorschachLow: a measured cut
+rorschachLeast: a chessboard
 ---
 
 Tempura Pinto Beans are the Bean Zodiac's most instinctive. They knew about the house, the job and the person within a minute, and were right all three times. Sometimes there's no reasoning to check it against. Working something out slowly on paper is torture.

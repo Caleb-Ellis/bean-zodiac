@@ -1,6 +1,7 @@
 interface Props {
   fortuneTitle: string | null;
   fortuneText: string | null;
+  fortuneAction: string | null;
   landed: boolean;
   handleScore: (v: number) => void;
 }
@@ -8,9 +9,16 @@ interface Props {
 export default function FacetVariant({
   fortuneTitle,
   fortuneText,
+  fortuneAction,
   landed,
   handleScore,
 }: Props) {
+  // The action is the closing sentence of the facet text; when an entry
+  // supplies one, show it on its own below instead of twice.
+  const body =
+    fortuneText && fortuneAction
+      ? fortuneText.replace(fortuneAction, "").trim()
+      : fortuneText;
   return (
     <>
       {fortuneTitle ? (
@@ -29,17 +37,29 @@ export default function FacetVariant({
       )}
       {fortuneText ? (
         <p
-          className={`text-zinc-200 text-center sm:text-base mb-2 ${landed ? "animate-fade-up" : "opacity-0"}`}
+          className={`text-zinc-200 text-center sm:text-base ${fortuneAction ? "" : "mb-2"} ${landed ? "animate-fade-up" : "opacity-0"}`}
           style={
             landed
               ? { animationDelay: "400ms", animationDuration: "500ms" }
               : undefined
           }
         >
-          {fortuneText}
+          {body}
         </p>
       ) : (
         <div className="h-5 w-56 bg-zinc-800 rounded-full animate-pulse" />
+      )}
+      {fortuneText && fortuneAction && (
+        <p
+          className={`italic text-zinc-200 text-center sm:text-base ${landed ? "animate-fade-up" : "opacity-0"}`}
+          style={
+            landed
+              ? { animationDelay: "550ms", animationDuration: "500ms" }
+              : undefined
+          }
+        >
+          {fortuneAction}
+        </p>
       )}
       <div
         className={`flex flex-wrap justify-center gap-4 text-sm ${landed ? "animate-fade-up" : "opacity-0"}`}

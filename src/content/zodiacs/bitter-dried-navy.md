@@ -17,32 +17,37 @@ antiTriple: spicy-smoked-pinto
 antiBeans: [mung, green]
 antiForm: fermented
 seasonalFortune: "A season of counted sacks and fixed rations. The store does not change its mind about winter."
-fortuneMost: Two bighorn rams butting the same rock for hours, and neither one has moved.
-fortuneHigh: Pin it down in writing.
-fortuneMid: You said the same thing in the same words and it held.
-fortuneLow: Change your mind where somebody can see you do it.
-fortuneLeast: A position held long enough stops being a position.
+fortuneMost: The immovable get planned around instead of planned with.
+fortuneHigh: A bighorn sheep stands on a ledge the width of a hand.
+fortuneMid: Reliability is worth more than brilliance.
+fortuneLow: Shift a little.
+fortuneLeast: Changing tack is not the same as caving.
 facetMostTitle: The Bridge on the River Bean
-facetMost: You gave the surveyor's figure for the hull months back and two people have found rot in it since, and you give the same figure now, in the same words, to the same room.
+facetMost: A year ago you said you wouldn't go to your cousin's wedding, after he told your sister she'd only come for the free bar. She's on the train next to you, made it up with him and asking you to come. You say what you said a year ago.
+facetMostAction: You say what you said a year ago.
 facetHighTitle: Stand By Bean
-facetHigh: Four of you were going to lodge the claim for the unpaid hours and three have now gone quiet. You lodge it with your name on alone, and you put the figures in unchanged.
+facetHigh: This is the second hearing about the hours you were never paid for, and the first went against you. The panel asks if you want to change anything in your statement now you've heard their side. You read it word for word as you wrote it.
+facetHighAction: You read it word for word as you wrote it.
 facetMidTitle: The Beanshank Redemption
-facetMid: Your objection to the barn conversion went in with reasons attached. The reasons have not changed. Somebody asks whether you might soften it now the applicant has been round, and the objection stands as written, down to the paragraph about the lane.
+facetMid: Your mum asks on the video call whether you've thought any more about moving nearer. She asks about twice a year. You give her the same no you gave at Christmas.
+facetMidAction: You give her the same no you gave at Christmas.
 facetLowTitle: Beanlet
-facetLow: New drawings have come and they answer the two things you objected to. You send a line saying you are content.
+facetLow: You said at the start of the night you were going at ten, because you're up early. It's ten, and one of your friends has put a pint down in front of you. You pick it up.
+facetLowAction: You pick it up.
 facetLeastTitle: Sliding Beans
-facetLeast: You booked the hall, then moved it, then moved it back, and eleven people have each been told a different date, and the answer you give now is a fourth one.
-question: You've argued a position for months and somebody produces evidence against it. You...
-answerMost: hold the position and question the evidence
-answerHigh: hold it until the evidence is properly checked
-answerMid: say you'll look at it and mean it
-answerLow: shift, and say so out loud
-answerLeast: drop it entirely and take up theirs
-rorschachMost: a needle refusing to swing
-rorschachHigh: a compass holding north
-rorschachMid: two wings on a pivot
-rorschachLow: a needle drifting slightly
-rorschachLeast: a weathercock in gusts
+facetLeast: There's a man on a platform above the maze who calls people out when they've had enough, and they shut it at dusk. The four with you have followed you round for twenty minutes while you've changed your mind at every junction. You take them back to the last turn.
+facetLeastAction: You take them back to the last turn.
+question: In January you told the team the shop shuts at six. It's November, trade is up, and they're asking again. What do they get?
+answerMost: six o'clock, takings or no takings
+answerHigh: the same six they got in January
+answerMid: six for now
+answerLow: half seven on Fridays, since trade is up
+answerLeast: a new time tonight, and a different one next month
+rorschachMost: an anvil
+rorschachHigh: an ox at plough
+rorschachMid: a worn path
+rorschachLow: a coin on its edge
+rorschachLeast: a weathercock
 ---
 
 Desiccated Navy Beans are the Bean Zodiac's most steady. What they said in January they will say in November, and people arrange their lives around it. When the facts change the position sometimes doesn't. Someone who reverses twice in a week gives them vertigo.

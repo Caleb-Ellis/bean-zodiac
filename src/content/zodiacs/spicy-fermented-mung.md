@@ -1,14 +1,13 @@
 ---
-# TODO: tidy facets, redo rorschachs
 slug: spicy-fermented-mung
-lastUpdated: 
+lastUpdated: 2026-08-26
 bean: mung
 flavour: spicy
 form: fermented
 trait: absorbed
 excess: engulfed
 inverse: distracted
-quote: The chains of bean are too light to be felt until they are too heavy to be broken.
+quote: The chains of beans are too light to be felt until they are too heavy to be broken.
 creature: caddisfly
 dish: Bindaetteok - mung bean pancake with kimchi and gochugaru.
 friendlyBeans: [kidney, butter]
@@ -17,32 +16,37 @@ antiTriple: sour-fried-edamame
 antiBeans: [fava, green]
 antiForm: dried
 seasonalFortune: "A season of bindaetteok and closed doors: the batter forgets there is a kitchen around it."
-fortuneMost: Lost within loops within loops within loops.
-fortuneHigh: Double, triple, maybe even quadruple-check it.
-fortuneMid: A smaller hunger waits beneath the loud one.
-fortuneLow: An old habit has gone quiet.
-fortuneLeast: A craving rises, breaks, leaves no groove.
-facetMostTitle: Beanswallowed Whole
-facetMost: You went into the darkroom after breakfast. There was a knock at some point and you did not answer it. When you come out it is dark outside and there are forty prints pegged up.
-facetHighTitle: Lost in the Beanwork
-facetHigh: The lino block has an hour's work left in it and the light in the shed is good and your hand knows exactly what it is doing. There is a meal going on a table indoors, and you stay with the block until the whole thing is cut.
-facetMidTitle: The Beandeep Dive
-facetMid: Ten lines of the translation have gone right and you can feel the rest coming. You shut the door on the phone.
-facetLowTitle: Beansquirrel!
-facetLow: The chair has three legs re-glued and one to go. The clamp is right there. You go and see who is at the door.
-facetLeastTitle: Beangoldfish Memory
-facetLeast: A table is meant to be getting sanded and the radio is on and somebody is in and out with the washing. You do a bit, and two hours of work takes four days.
-question: You've got a clear afternoon and a job you actually like. You...
-answerMost: look up and it's dark and you've not eaten
-answerHigh: put your phone in another room and stay with it
-answerMid: work at it, with breaks when you notice them
-answerLow: do a bit, then get up for something
-answerLeast: have the radio on and get about an hour done
-rorschachMost: a stone gone under water
-rorschachHigh: a seed sunk in soil
-rorschachMid: a pebble in a puddle
-rorschachLow: a rock half submerged
-rorschachLeast: a leaf blown past
+fortuneMost: Passion is the fire that drives us. Obsession is the fire that consumes us.
+fortuneHigh: The caddisfly larva encases itself in silk and pebble cocoons. Busy. Safe.
+fortuneMid: To be engrossed in something is to want to experience all of it.
+fortuneLow: You probably don't need to pay that much attention.
+fortuneLeast: What's going on?
+facetMostTitle: Beaned Whole
+facetMost: You are in the workshop under the stage, painting the backdrop for a play that opens on Friday. Everyone else went to the pub at seven for the director's birthday. It's past eleven now and you haven't eaten all day. You keep painting, because you have to keep painting.
+facetMostAction: You keep painting, because you have to keep painting.
+facetHighTitle: Lost in the Bean
+facetHigh: You've taken an old camera in to be fixed; the man behind the counter has it open and is showing you the mechanics and wiring. You're meeting a friend soon, but it's fascinating to see how everything fits together. There's a second camera on the shelf behind him. You ask him to open that one up too.
+facetHighAction: You ask him to open that one up too.
+facetMidTitle: The Deep Bean
+facetMid: You're scrolling in bed and a video says cuttlefish change colour to match whatever you put them on. Forty minutes later you've read the Wikipedia page, watched four more videos and have just found an article on how they do it without seeing colour. It's half past one. You open the article.
+facetMidAction: You open the article.
+facetLowTitle: Beanirrel!
+facetLow: At an evening drawing class the tutor has set forty minutes to capture a still model. You've been drawing for twenty minutes now, and are fairly happy with how it's shaping up, but could definitely still make improvements. You get up and start looking at others' drawings instead.
+facetLowAction: You get up and start looking at others' drawings instead.
+facetLeastTitle: Beanfish Memory
+facetLeast: A friend has taken you to see a medium work a crowd, twenty people with the lights dim. It's kinda boring at first, a lot of hand-waving and muted speech. But when she says a name, somebody two seats along starts crying. Then she turns to you and asks whether the name means anything. You ask her to say the name again.
+facetLeastAction: You ask her to say the name again.
+question: Eight boxes of flat-pack came this morning - a wardrobe, a bed, shelves, drawers. It'll take many, many hours to build them all. You have the whole day free – how do you tackle it?
+answerMost: box after box, as long as it takes to do them all
+answerHigh: one at a time until it gets late
+answerMid: one at a time until you get tired or bored
+answerLow: just do the bed now, figure out the rest later
+answerLeast: half-build a bunch of them, get stuck, call for help
+rorschachMost: a cyclone from above
+rorschachHigh: a curled hedgehog
+rorschachMid: a bird's nest
+rorschachLow: a tumbleweed
+rorschachLeast: can't tell
 ---
 
 Kimchi Mung Beans are the Bean Zodiac's most absorbed. They go into the work and the afternoon disappears, and what comes out has real attention in it. Sometimes the door stays shut for days. Half-doing a thing with the radio on isn't possible for them.

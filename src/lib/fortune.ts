@@ -247,6 +247,17 @@ export const getFortuneText = (
   return zodiac.facetMid;
 };
 
+export const getFacetAction = (
+  zodiac: Zodiac,
+  qualityId: QualityId,
+): string | null => {
+  if (qualityId === QualityIds.Heirloom) return zodiac.facetMostAction ?? null;
+  if (qualityId === QualityIds.Market) return zodiac.facetHighAction ?? null;
+  if (qualityId === QualityIds.Stale) return zodiac.facetLowAction ?? null;
+  if (qualityId === QualityIds.Rotten) return zodiac.facetLeastAction ?? null;
+  return zodiac.facetMidAction ?? null;
+};
+
 export const getDailyText = (
   zodiac: Zodiac,
   qualityId: QualityId,

@@ -22,15 +22,20 @@ fortuneMid: The day's small alarms reach you muffled, as through cloth.
 fortuneLow: Sit with it a little longer before you try to fix it.
 fortuneLeast: The kettle's started to rattle in you, heat meeting heat.
 facetMostTitle: Sleeping Beanty
-facetMost: The plane drops hard and the cabin gasps as one. You glance up from the window, then back down at the clouds, your pulse never finding the alarm.
+facetMost: Turbulence causes the plane to drop down hard, and you hear gasps in the cabin. You glance out the window, at the clouds, your pulse unchanged.
+facetMostAction: You glance out the window, at the clouds, your pulse unchanged.
 facetHighTitle: The Beanity Prayer
-facetHigh: Unhurried as ever, you go on stirring your cup while two strangers at the next table square up for a fight — and the heat goes out of the air near you.
+facetHigh: Late night at a fast food joint, halfway through your meal. Two strangers at the table next to you are getting louder, and increasingly irate. Maybe squaring up for a fight? People are hailing staff and some are starting to leave. You stay seated and continue eating.
+facetHighAction: You stay seated and continue eating.
 facetMidTitle: Sail Abean
 facetMid: A wasp drops onto the picnic blanket and the others scatter shrieking. You watch it cross the cloth and wait for it to wander off on its own.
+facetMidAction: You watch it cross the cloth and wait for it to wander off on its own.
 facetLowTitle: The Perfect Bean Storm
 facetLow: The referee blows a call against your side and the stands erupt. You're up off the bench yelling with the rest.
+facetLowAction: You're up off the bench yelling with the rest.
 facetLeastTitle: Beany Weather
-facetLeast: Horn blaring, a driver clips past you and guns it down the road — and you're leaning out the window shouting before the dust has even settled.
+facetLeast: The red light at the intersection turns green while you're daydreaming, and you take a few seconds to start moving. The car behind leans on their horn then guns it around you. You lean on the horn back at them, and shout out the window.
+facetLeastAction: You lean on the horn back at them, and shout out the window.
 question: A car drifts into your lane on the motorway, you brake, it corrects, and the near-miss is already behind you. You...
 answerMost: settle your hands, breathe out once, keep driving at the same speed
 answerHigh: let the jolt pass through and ease back to steady

@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: bitter-dried-chickpea
-lastUpdated: 
+lastUpdated:
 bean: chickpea
 flavour: bitter
 form: dried
@@ -17,32 +17,37 @@ antiTriple: sweet-fermented-fava
 antiBeans: [butter, pinto]
 antiForm: fried
 seasonalFortune: "A season of sealed sacks and watchful doors — the store travels well because it trusts slowly."
-fortuneMost: You checked everything, and the thing was gone by the time you were sure.
-fortuneHigh: Hold the answer.
-fortuneMid: The paperwork you asked for is the reason this one goes smoothly.
-fortuneLow: Even a pangolin has to unroll to eat.
-fortuneLeast: Choose the thing you keep circling.
+fortuneMost: A pangolin rolls up and is carried away whole.
+fortuneHigh: Wait for the paperwork.
+fortuneMid: The question asked early saves the argument later.
+fortuneLow: Go without checking twice.
+fortuneLeast: Say yes and sort it out after.
 facetMostTitle: The Beanversation
-facetMost: The van is exactly what you wanted and the price is exactly what you wanted. You want the logbook, the service history, the previous owner's name, and then a mechanic you know to look at it. The seller has started to look tired.
+facetMost: Three of you are crossing to France on a boat a friend bought last month, and he says it's all been checked over. You won't let him cast off until you've had the life raft out of its bag and counted the flares yourself.
+facetMostAction: You won't let him cast off until you've had the life raft out of its bag and counted the flares yourself.
 facetHighTitle: The Spy Who Came in from the Bean
-facetHigh: A dog you have never met comes across the yard at you at speed. You stop dead where you are and let the animal work out for itself what happens next.
+facetHigh: At a party in a flat you've never been to, twelve people are standing out on the flat roof. A guest says everyone stands on it, and asking will clear it. You go and find whoever lives there and ask if the roof takes twelve.
+facetHighAction: You go and find whoever lives there and ask if the roof takes twelve.
 facetMidTitle: Slow Beans
-facetMid: Given the flat keys before the deposit is agreed, you get the whole arrangement in writing and photograph every room in the place.
+facetMid: You've met your housemate's friend twice, and you're sharing the six-hour drive to a wedding with him. Waiting on the step you read back through every message he's ever sent you, which takes about a minute. You get in when he pulls up.
+facetMidAction: You get in when he pulls up.
 facetLowTitle: Leeroy Beankins
-facetLow: The stepping stones are under an inch of water and the far bank looks fine from where you stand. You go across without putting a foot on the first one to test it.
-facetLeastTitle: Fear and Beaning in Las Vegas
-facetLeast: Your friend offers you the job on the phone and you say yes on the phone. What it actually pays you find out about a fortnight later.
-question: A friend you trust asks you to put four thousand pounds into their new business. You...
-answerMost: Ask for accounts nobody's written yet
-answerHigh: Say yes once I've seen the numbers
-answerMid: Put in half and see how it goes
-answerLow: Say yes and sort the details later
-answerLeast: Transfer it before the call ends
-rorschachMost: a cat, fur all up
-rorschachHigh: a watchtower over a thicket
-rorschachMid: a thistle above a bush
-rorschachLow: a loose bundle of twigs
-rorschachLeast: a spilled basket
+facetLow: You're at the bowling alley with three people from work when one of them says a friend of theirs is having people over, everyone's welcome and it's fifteen minutes away — and nobody knows whose flat. You put your coat on and go.
+facetLowAction: You put your coat on and go.
+facetLeastTitle: Fear and Loathing in Las Beanas
+facetLeast: You're two days into a wedding out in the desert when a man at the next table says he's driving to the coast tonight and there's a spare seat. You don't ask how far. You take it.
+facetLeastAction: You take it.
+question: You want the solo in the spring concert. It's your first week in the choir, and at the break one of the altos asks what you make of the conductor. You...
+answerMost: treat the question as a test and give away nothing at all
+answerHigh: ask what she makes of him before you answer
+answerMid: say his beat is clear, and stop there
+answerLow: give her your view of him, mildly put
+answerLeast: tell her the tempo's wrong, first week or not
+rorschachMost: a bristling porcupine
+rorschachHigh: a sentry in a thicket
+rorschachMid: a bramble over a burrow
+rorschachLow: a gate left open
+rorschachLeast: a hand in nettles
 ---
 
 Desiccated Chickpeas are the Bean Zodiac's most circumspect. They read a room before entering it and hold the strong opinion until they know what it costs. Held long enough, it goes stale unsaid. Saying a thing simply because it's true isn't in the repertoire.

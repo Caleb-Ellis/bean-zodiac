@@ -12,6 +12,7 @@
     "blots:bake": "node scripts/bake-rorschach.mjs",
     "blots": "node scripts/build-rorschach.mjs && node scripts/bake-rorschach.mjs",
     "glows": "node scripts/bake-bean-glow.mjs",
+    "lint:rorschachs": "node scripts/lint-rorschachs.mjs",
     "fmt": "oxfmt",
     "fmt:check": "oxfmt --check",
     "lint": "oxlint",

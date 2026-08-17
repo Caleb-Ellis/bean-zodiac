@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-smoked-green
-lastUpdated: 
+lastUpdated:
 bean: green
 flavour: umami
 form: smoked
@@ -17,32 +17,37 @@ antiTriple: sour-boiled-butter
 antiBeans: [navy, cannellini]
 antiForm: roasted
 seasonalFortune: "A season of bacon and onion; something is starting here that has not finished starting."
-fortuneMost: Folded in the grass because it is not finished yet - the fawn.
-fortuneHigh: Pay for the class before you feel ready.
-fortuneMid: Answer when you know what you mean, not before.
-fortuneLow: Play the unfinished thing for one person, standing, no preamble.
-fortuneLeast: The slow ripening you've guarded has quietly turned into an alibi.
-facetMostTitle: Nipped in the Beanbud
-facetMost: The work is eleven months old and you have already told people what you are going to be. It is not there yet, and you know that in the mornings and forget by the evening. Somebody good offered to look at it, and you sent nothing.
-facetHighTitle: Spring Beanawakening
-facetHigh: There is a first proper piece of work and it is nearly right and you can see what the next one needs to be. You put it away, and you start the next one.
-facetMidTitle: Nothing Beangold Can Stay
-facetMid: The thing you have been growing has come to about half of what it will be, and you can already see the shape of the rest.
-facetLowTitle: Autumn Beanleaves
-facetLow: The skill has come along and you are decent at it now and there is a way further on, and you look at what that would take. You have not decided against it, and you have not started either.
+fortuneMost: Wait to be ready and the season passes.
+fortuneHigh: A fawn stands within the hour and follows.
+fortuneMid: Half-formed is still worth showing.
+fortuneLow: Another season won't hurt.
+fortuneLeast: Ripeness comes when it comes.
+facetMostTitle: Nipped in the Bean
+facetMost: One season carrying the balls for the juniors, and you have never run a session on your own. The coach is leaving, the only other offer is a woman who coached at a club for years and can only do alternate weeks, and the parents are on the court deciding it tonight. You tell them you will take the juniors for the season.
+facetMostAction: You tell them you will take the juniors for the season.
+facetHighTitle: Spring Beanwakening
+facetHigh: The drivetime presenter has not turned up, and the manager is in the studio door with the running order. You have had the two-in-the-morning slot on the community station for four months and nobody is awake for it; this one goes out across the county in ten minutes. You take the chair and open the mic.
+facetHighAction: You take the chair and open the mic.
+facetMidTitle: Nothing Bean Can Stay
+facetMid: Your partner's mum does not speak much English, and you have spent a year on her language so you could talk to her without help. You have one sentence ready — that the house always smells of her cooking — and at the barbecue your partner is stood next to you offering to say it for you. You say it to her mum yourself, and get it wrong twice.
+facetMidAction: You say it to her mum yourself, and get it wrong twice.
+facetLowTitle: Autumn Beans
+facetLow: You have been at the astronomy class two years and have never once had the chair at the big telescope; tonight is the open night, forty people are queuing up the steps for Saturn, and the man who runs it stands up and tells you to take it and bring them up one at a time. You give him the chair back.
+facetLowAction: You give him the chair back.
 facetLeastTitle: The Last Beanleaf
-facetLeast: The talent was there at twenty and everybody said so, and you have not touched it in nine years. Somebody asks whether you still do it, and you say that you used to.
-question: Think of the thing you're best at. Where are you with it?
-answerMost: Just started, and telling everyone about it
-answerHigh: Coming along — the next step's clear
-answerMid: Steady, and still improving
-answerLow: About where I was a few years ago
-answerLeast: I used to do that
-rorschachMost: a bud swollen, not open
-rorschachHigh: a green fig
-rorschachMid: a small hard pear
-rorschachLow: a fruit gone soft
-rorschachLeast: a husk, seed gone
+facetLeast: Your friend's daughter has started a sewing course and has asked what to buy, and your machine and the box of thread have been in the loft six years while you have gone on telling people you will get back to it. You give her the machine and the thread and tell her to keep them.
+facetLeastAction: You give her the machine and the thread and tell her to keep them.
+question: The song is half written — one verse, no second — and the open mic is on Thursday. You...
+answerMost: play it Thursday with the second verse still missing
+answerHigh: play the verse you have, and say the rest is coming
+answerMid: finish it first, and play it next month
+answerLow: keep it back until it's right
+answerLeast: leave it unfinished and play the covers you know
+rorschachMost: a hard apple
+rorschachHigh: a seed pod
+rorschachMid: a potted cutting
+rorschachLow: a wrinkled plum
+rorschachLeast: a pressed flower
 ---
 
 Hickory Green Beans are the Bean Zodiac's most budding. At any age there is something just beginning in them, and it's usually worth watching. Sometimes it gets picked before it is ready. Being finished, arrived, complete is not a state they'll reach.

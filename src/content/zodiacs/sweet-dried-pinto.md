@@ -23,14 +23,19 @@ fortuneLow: Put the camera down and be in it.
 fortuneLeast: The sweet gets eaten; nobody keeps the wrapper.
 facetMostTitle: The Bean Who Shot Liberty Valance
 facetMost: The near-miss on the mountain road has been retold a hundred times, and by now the cliff face is twice as high, and the oncoming car is twice as wide. Your cousin, who was actually driving, is at the table. You tell it the grander way.
+facetMostAction: You tell it the grander way.
 facetHighTitle: The Beanyteller
 facetHigh: Your friend loves your jacket and asks where you got it. It came from a shop in a town you visited years ago, that's now a high end restaurant, the weather was grim, the shopkeeper threw in a scarf as well. You tell them all of it.
+facetHighAction: You tell them all of it.
 facetMidTitle: Bean Tales
-facetMid: A guest drifts over to the painting above the sofa, the one you picked up from a seafront stall, made by a local artist, the title is "Distance". They haven't asked about it, but you tell them everything anyway.
+facetMid: A guest drifts over to the painting above the sofa, the one you picked up from a seafront stall, made by a local artist, the title is "Distance". They haven't asked about it. You tell them everything anyway.
+facetMidAction: You tell them everything anyway.
 facetLowTitle: Gone and Beangotten
 facetLow: The good dinner set has been boxed up since your grandmother died, out twice in ten years. It gets put on the table for a weeknight dinner and a plate is chipped. You aren't too fussed — plates are made to be used.
+facetLowAction: You aren't too fussed — plates are made to be used.
 facetLeastTitle: The Beangotten
 facetLeast: The hall is being repainted and the doorframe with everyone's heights pencilled up it is in the way. You take a quick photo, and run the roller over it.
+facetLeastAction: You take a quick photo, and run the roller over it.
 question: How much of the house you grew up in is still in your head?
 answerMost: everything, at the size it was when you were small
 answerHigh: most of it — the colour of the walls, the smell of the kitchen, the way the light fell

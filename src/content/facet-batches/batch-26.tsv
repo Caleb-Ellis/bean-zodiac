@@ -1,0 +1,374 @@
+# BATCH 26 — pitch layout most=G high=E mid=G low=E least=G
+# Elevated slots are HIGH and LOW. HIGH takes LANE A in all four entries; LOW takes
+# LANE B in all four — low is a withdrawal in every one of them and jeopardy deflates it.
+#
+# *** FOUR ENTRIES, NOT FIVE. *** The plan file lists spicy-smoked-pinto (spellbinding)
+# in this batch. It carries `lastUpdated: 2026-08-24` — it is APPROVED, its facets are
+# written, and it has zero rows in the ledger. It is not touched. Note also that
+# trait-neighbours.tsv gives its inverse as "pedestrian" and the entry says
+# "unvarnished"; the entry is right.
+#
+# STALE `~` MARKS in trait-neighbours.tsv, checked against facet-plan.md's ticked list:
+#   ~abiding(sweet-dried-black)     WRITTEN batch 21 — live neighbour of faithful
+#   ~dependable(sweet-boiled-edamame) WRITTEN batch 23 — live neighbour of faithful
+#   ~motivated, ~candid, ~declarative, ~devoted, ~gracious are genuinely unwritten.
+#
+# VOICE: the approved corpus. Contracted, spoken, two or three sentences, ONE situation.
+# Drafted at length rather than trimmed into it.
+#
+# NEIGHBOURS — all fourteen written neighbours read in full.
+#
+#   keen (umami-fried-edamame) vs avid (spicy-dried-adzuki), curious (umami-roasted-green),
+#     inquisitive (bitter-boiled-green), purposeful (umami-fried-mung).
+#     Purposeful shares the FLAVOUR AND THE FORM and is the dangerous one: it is aimed at
+#     an end, and everything in the scene serves that end — the locks wound for six hours
+#     because the friend needs them wound. Keen has no end in view; the appetite is the
+#     point, and it would still be there if nobody needed anything.
+#     Curious and inquisitive both want AN ANSWER and are satisfied by getting one — the
+#     next question, the ward asked about, the aircraft and the years. KEEN WANTS THE
+#     DOING, not the knowing, so no facet in this entry closes on a question.
+#     Avid is the QUANTITY and endurance of appetite — lot ninety, the second turn, put
+#     me down again. Keen is the depth of one thing taken up on the spot.
+#     So: every facet here has something offered that the reader can go INTO, now, and
+#     the act is entering it or declining to.
+#
+#   faithful (umami-dried-kidney) vs stalwart (umami-fried-kidney), constant
+#     (sweet-boiled-black), dutiful (sweet-dried-navy), trustworthy (sour-boiled-kidney),
+#     abiding (sweet-dried-black), dependable (sweet-boiled-edamame).
+#     STALWART SHARES THE BEAN AND THE FLAVOUR and has already taken everything the hand
+#     reaches for first: the inquest sat through beside her, the front left corner of the
+#     coffin, the candles put back on the parapet. PRESENCE UNDER WEIGHT IS SPENT. No
+#     facet here is the reader standing beside somebody through a hard thing.
+#     Constant is CADENCE — the same day at your mum's, the book token again. Dependable
+#     is AN UNDERTAKING honoured — you said you would and you do. Abiding is a bond that
+#     OUTLASTS ABSENCE — eleven years of not speaking and the song still known.
+#     Trustworthy is WHAT YOU CAN BE TRUSTED WITH — the confidence, the promise; and its
+#     least is four people in a pub being told why a friend split up, so NO FACET HERE
+#     TURNS ON A SECRET.
+#     Faithful is ALLEGIANCE UNDER DEFECTION. Every facet has a named person or side, and
+#     other people visibly leaving it, and the reader's position is seen. Blind is staying
+#     when the page shows the evidence against them; disloyal is going over when going
+#     over pays.
+#
+#   outspoken (sour-boiled-green) vs blunt (sour-fried-edamame), emphatic
+#     (spicy-fried-edamame), forthright (sour-roasted-edamame), frank
+#     (sour-roasted-cannellini).
+#     Forthright and frank and blunt ALL ANSWER — she turns round and asks you straight
+#     out, he asks what you make of the big one, the consultant asks your mum. Blunt is
+#     the MANNER of the answer, no cushioning, and works fine one to one. Frank is about
+#     the person in front of you. Emphatic is FORCE — the bid called across the room.
+#     OUTSPOKEN IS UNBIDDEN AND PUBLIC. Nobody asks. There is a room, the room is not
+#     saying it, and the reader raises it. Boiled keeps it composed rather than hot, and
+#     green raises it early rather than after thinking. So no facet here has the reader
+#     answering a question put to them, and every one has more than two people present.
+#     Indiscreet is true and not the reader's to say; silent is holding it in the room.
+#
+#   welcoming (sweet-roasted-cannellini) vs agreeable (sweet-boiled-chickpea), convivial
+#     (sweet-roasted-adzuki), neighbourly (sweet-roasted-navy), warm (umami-roasted-adzuki).
+#     Convivial, neighbourly and warm all SHARE THE FORM or the flavour and between them
+#     own most of the obvious ground. Warm owns the new people next door with the van
+#     half-unloaded and the one sitting alone at the edge of the barbecue. Neighbourly
+#     owns the street — the parcel, the standpipe, the door propped open downstairs.
+#     Convivial owns pulling separate groups into ONE TABLE, everybody a peer. Agreeable
+#     is going along with what the group already wants.
+#     SO: NO NEW NEIGHBOUR, NO PARCEL, NO DOORSTEP, NO ONE-ALONE-AT-THE-PARTY.
+#     Welcoming is a BOUNDED THING WITH AN INSIDE, one person outside it, and the reader
+#     giving them standing in it — done well and where it can be seen, which is the
+#     cannellini and the roasting. Insistent is the welcome overriding what the person has
+#     said they want; forbidding is the inside kept closed.
+#
+# POLE-TO-TRAIT, which the neighbours file cannot see: faithful's INVERSE "disloyal" sits
+#   next to trustworthy's inverse "faithless" and to dependable's "unreliable". Kept apart
+#   by content — disloyal here is always CHANGING SIDES, never a promise dropped and never
+#   a confidence sold. And outspoken's inverse "silent" sits next to frank's "coy": coy is
+#   a false answer given when asked, so the silent facets here are never answers.
+#
+# === umami-fried-edamame — keen / voracious / uninterested
+# AXIS: something opens in front of you and you go into it on the spot, all the way down,
+#   for no reason beyond wanting to.
+# TITLES: The Very Beany Caterpillar is the excess — eating through everything without
+#   stopping. Eager Beanver and Bright Bean Eyes are the trait. The Big Bean Yawn and Wake
+#   Me Up When September Beans are the inverse: present for it and untouched by it.
+# OFF-LIMITS: a merlin picking one bird and flying it flat out; "every door opens on
+#   another, and the first room goes unlived-in"; "curiosity is cheap"; "let one go by
+#   unread"; "be the last to know something, on purpose"; tentsuyu and tempura wanting the
+#   next one already.
+#   OLD FACETS: nine books about canals and the 1847 dispute; the six-week evening class
+#     read to the end by session two; the hour in a museum and the single case; the free
+#     talk that nothing comes of; the borrowed book on the shelf for a year. So no
+#     bookshop, no evening class, no museum, no free talk, no gifted book, and no canals.
+#   QUESTION owns: a book about beekeeping from a friend, and never having kept bees.
+umami-fried-edamame	most	professional kitchen	prove-requested	stranger	grounded
+# STAKES: your sister's van at eleven, and a man who has twice told you you can go
+umami-fried-edamame	high	mine tour	descent-extended	official	elevated
+# LANE A — the long tour comes up after the last train, and the last train is the last one until tomorrow.
+# STAKES: the last train home, and a bed you have not booked
+umami-fried-edamame	mid	swimming pool	stroke-corrected	stranger	grounded
+# STAKES: an hour of work you will have to make up, for a stranger's ten minutes
+umami-fried-edamame	low	animal sanctuary	barn-declined	friend	elevated
+# LANE B — how the sanctuary runs: the intake board, the quarantine barn, which animals came in from where.
+# STAKES: a day of your friend's leave, taken to show you round
+umami-fried-edamame	least	bus	place-refused	friend	grounded
+# STAKES: the one place on the trip, held back for you rather than advertised
+#
+# === umami-dried-kidney — faithful / blind / disloyal
+# AXIS: you stay on somebody's side while the others come off it, and you let it be seen
+#   that you have.
+# TITLES: Hachi is the excess — waiting past the point there is anything to wait for.
+#   Marley & Bean and Stand By Your Bean are the trait. The Judas Bean and Et Tu, Bean?
+#   are the inverse, and both of them are about going over rather than falling away.
+# OFF-LIMITS: a collie waiting at the same gate every evening; "stay loyal past the
+#   evidence and the loyalty does the damage"; "faithfulness is rarer than people admit";
+#   "ask the awkward question about them"; "walking away is sometimes the loyal act"; aged
+#   ham hock and a store still where you left it.
+#   OLD FACETS: thirty-one years at the ground and speaking for the board at the fans'
+#     meeting; the letter to the panel about a friend accused at work; the saw that has
+#     gone up a third; the man who taught you the trade and the adhesives; the group down
+#     to four and your name off the list. So no supporters' club, no workplace panel, no
+#     trade mentor, no drifting away from a club.
+#   QUESTION owns: a promise made thirty years ago to a friend's mother, and a man who has
+#     not spoken to you since March.
+umami-dried-kidney	most	police station	vouch-given	official	grounded
+# STAKES: your own word, put behind two withdrawals you have seen with your own eyes
+umami-dried-kidney	high	loading bay	gate-held	group	elevated
+# LANE A — the letter says anyone not back through the gate by noon does not come back at all.
+# STAKES: your job, gone at noon, for a man nine others have already left out there
+umami-dried-kidney	mid	pub	absent-defended	friend	grounded
+# STAKES: contradicting four people who are all telling the truth about him
+umami-dried-kidney	low	ghost walk	trick-disclosed	stranger	elevated
+# LANE B — how the walk is worked: the two doorways she is allowed to use, the invented bit now printed in the local paper as fact.
+# STAKES: how your friend earns, given away to a man who paid to be there
+umami-dried-kidney	least	wedding	partnership-dropped	stranger	grounded
+# STAKES: six years of splitting everything down the middle, ended with your friend twenty feet away
+#
+# === sour-boiled-green — outspoken / indiscreet / silent
+# AXIS: the room is not saying it, nobody has asked you, and you say it out loud anyway.
+# TITLES: Big Beanth is the excess — the mouth ahead of the judgement. Beantwork and
+#   Beanspeak are the trait: the thing named in front of everybody. The Sound of Beanence
+#   and A Quiet Bean are the inverse, and both are about a thing held rather than softened.
+# OFF-LIMITS: a jay shouting through the wood when anything moves; "tell it all and
+#   somebody learns what shouldn't have been said"; "the unsaid thing gets said
+#   eventually"; "keep this one back"; "silence keeps more friends than candour"; hot
+#   vinegar and beans dressed while still loud.
+#   OLD FACETS: the redundancy figures given to the room; the meeting where the problem is
+#     the man chairing it; the family table and what you make of the new one; the thought
+#     of months given with the edges off; the false premise and the hand that does not go
+#     up. So no meeting, no redundancy figure, no family table verdict on a partner, and
+#     the least may not be a decision let through in silence.
+#   QUESTION owns: the office, the new hours, and a manager asking whether anybody has
+#     concerns.
+sour-boiled-green	most	restaurant	closure-announced	group	grounded
+# STAKES: her first night out on the new job, and a figure told to you over a pint
+sour-boiled-green	high	church	eulogy-corrected	family	elevated
+# LANE A — it is said at his funeral, in front of his widow, and a funeral does not happen twice.
+# STAKES: forty people, his widow, and the only version of him that will be said out loud
+sour-boiled-green	mid	building site	crack-raised	stranger	grounded
+# STAKES: your friend's back wall, and a foreman who has been fine with you until now
+sour-boiled-green	low	taxidermist	licence-withheld	group	elevated
+# LANE B — how the workshop runs: the freezer, the order book, which birds came in as roadkill, the licence framed by the door.
+# STAKES: a woman being got at in her own workshop, and the one fact that would stop it
+sour-boiled-green	least	train	journey-unspoken	friend	grounded
+# STAKES: the last four hours alone with him before he marries her
+#
+# === sweet-roasted-cannellini — welcoming / insistent / forbidding
+# AXIS: there is an inside and somebody is not in it, and you put them in it properly and
+#   where everyone can see.
+# TITLES: Won't Take Bean for an Answer is the excess — the welcome that has stopped
+#   asking. Welcome Bean and Open Beanhouse are the trait. Forbidden Beanet and Keep Out,
+#   Bean are the inverse: a room kept shut and a gap three inches wide.
+# OFF-LIMITS: a hornbill calling the whole flock down to one tree; "a welcome pressed hard
+#   enough becomes an obligation"; "somebody new turns up because the door's open"; "an
+#   early exit is no insult"; "a closed door on a bad day is fair"; honey and thyme and a
+#   tray that keeps coming.
+#   OLD FACETS: the coats on and the second helping and the bed being made upstairs; the
+#     new one at the club stood by the coats; the nod in the pub and the seat nearest the
+#     fire; the good front room kept for best; the chain on and the three-inch gap. So no
+#     guests being kept from leaving, no newcomer by the coats, no front room, no chain.
+#   ALSO SPENT BY NEIGHBOURS: the new people next door, the parcel, the doorstep, the one
+#     sitting alone at the edge of a party.
+#   QUESTION owns: somebody from down the road knocking at six with a parcel.
+sweet-roasted-cannellini	most	airbnb	place-laid	stranger	grounded
+# STAKES: a man who has said plainly he wants to eat alone, and a table you have already told he is coming down to
+sweet-roasted-cannellini	high	ferry	crossing-adopted	group	elevated
+# LANE A — once the ramp is up, whoever is aboard is who is on the island until Tuesday.
+# STAKES: four days in one house with a man from the queue, and seven other people's week
+sweet-roasted-cannellini	mid	warehouse	custom-explained	colleague	grounded
+# STAKES: three Saturdays he has put his coat on at one and gone home on his own
+sweet-roasted-cannellini	low	care home	chair-avoided	stranger	elevated
+# LANE B — how the home runs: the trolley at three, the lounge nobody sits in, whose family come and when.
+# STAKES: your hour with your grandmother, against a woman whose family come at Christmas
+sweet-roasted-cannellini	least	intercom	buzzer-refused	friend	grounded
+# STAKES: three friends stood in the street with the coffees, and the first weekend alone in months
+#
+# ============================== STEP 9 — COLD READ ==============================
+# Written last, on the text as it stands in the entry files. SIX FAULTS FOUND AND FIXED
+# by this read, all of them the act pointing at something the page never put there:
+#   edamame most  — "the second prove" is bakery jargon and nothing on the page explains
+#     it. Now to the end of the bake.
+#   edamame low   — "wait in the yard" and the sanctuary had no yard, only the intake
+#     board, the feed room and the barn. Now wait outside.
+#   edamame least — "the Tuesday class" was never a class in anything. Now drawing.
+#   kidney high   — "take your name off it" and the list had no stated purpose, so it
+#     could as easily have been the list of those staying out. Now a list of who's
+#     returning.
+#   green low     — the act looked at a fox that appeared nowhere in the line. The fox is
+#     now on the bench in the Lane B list.
+#   cannellini mid— the warehouse was in the ledger row and not in the prose; the line
+#     said only "finish at one". Now finish at the warehouse at one.
+#
+# --- umami-fried-edamame ---
+# MOST  PAGE: you asked the man who does the bread at the cafe to watch a morning; he said
+#   be there for five; it's half nine; he's twice said you're welcome to go; your sister's
+#   van comes at eleven. ACT NEEDS: him · the bake (stated). POLE: voracious — the exit is
+#   offered twice ON THE PAGE and a commitment at eleven is named, so staying is appetite
+#   overriding both. Without those two facts it is just enthusiasm. RESIST: you thank him
+#   and go.
+# HIGH  PAGE: the hour tour has finished; the four-hour goes down to the level they
+#   flooded in the sixties; today is the last of the season; it comes up at seven; the
+#   last train home is quarter past six. ACT NEEDS: the four-hour tour (stated).
+#   POLE: keen — something opens and the reader goes into it on the spot, for no reason
+#   beyond wanting to, which is what keeps it off purposeful. RESIST: you get the train.
+#   LANE A: the tour comes up after the last train has gone.
+# MID   PAGE: your lengths before work; the club that trains after you have started at the
+#   far end; one of them says your breathing is why you're slow and offers ten minutes;
+#   you'd be an hour late in and have been spoken to about it. ACT NEEDS: her lane (the
+#   pool and the club are stated). POLE: low pitch — a small taking-up, with the cost
+#   named. RESIST: you finish your lengths and go to work.
+# LOW   PAGE: your friend has used a day of her leave; the intake board saying what came
+#   in from where; the feed room; the barn where new ones spend a fortnight; she offers to
+#   take you in with her or put you down for Saturdays. ACT NEEDS: outside (the yard is
+#   gone; outside needs nothing). POLE: uninterested-lite, and it needs the offer to be
+#   specific and available — two named ways in, both declined. RESIST: you go in with her.
+#   LANE B: the board, the feed room and the fortnight are how the sanctuary runs.
+# LEAST PAGE: the friend who runs the Tuesday drawing class; the bus; one place left on
+#   the trip in April; four of them going; she'd rather you had it than put it on the
+#   board. ACT NEEDS: her · the place (stated). POLE: the inverse fully — the thing is
+#   real, held back for the reader, and refused outright. RESIST: you take it.
+#
+# --- umami-dried-kidney ---
+# MOST  PAGE: your friend has been taken in over money missing from the swimming club she
+#   is treasurer of; she showed you her own statement in the spring; two withdrawals on it
+#   you couldn't make sense of; the officer asks whether anybody else had access.
+#   ACT NEEDS: him · her (stated). POLE: blind — the evidence is on the page and it came
+#   from her own hand, and the reader's answer does not engage with it at all. RESIST: you
+#   tell him about the two withdrawals. No secret is involved, which is the separation
+#   from trustworthy.
+# HIGH  PAGE: twelve walked out when they sacked the man on the forklift; nine went back
+#   in this morning; the letter on the shutter says anybody not through the gate by noon
+#   doesn't come back; half eleven; the supervisor comes out to the two of you with a list
+#   of who's returning. ACT NEEDS: him · the list · your name (stated).
+#   POLE: faithful — DEFECTION IS ON THE PAGE (nine of twelve) and the allegiance is to a
+#   named man, and it is done where the supervisor sees it. The reader is not standing
+#   beside somebody through a hard thing, which is what keeps it off stalwart.
+#   RESIST: you go back through the gate. LANE A: after noon there is no job to go back to.
+# MID   PAGE: five in the pub; the talk has gone onto a friend who isn't there; the money
+#   he owes two of them; the state he got into at your birthday; none of it untrue.
+#   ACT NEEDS: them · him · the hospital, the six weeks, the year your dad was ill (the
+#   reader produces these, which is allowed — an observation of their own, not a history
+#   they are supposed to already share with anyone in the scene).
+#   POLE: low pitch — his side has emptied out and the reader puts one thing back on it.
+#   RESIST: you let it run.
+# LOW   PAGE: your friend runs the ghost walk; the two doorways the owners let her use;
+#   the drowned girl she invented, now in the local paper as fact; a man off the walk asks
+#   you, not her, whether any of it's true. ACT NEEDS: him · that she makes it up (stated).
+#   POLE: disloyal-lite — a small going-over, and both halves are on the page: the freedom
+#   is that it's all true, the price is that this is how she earns. RESIST: you tell him
+#   to ask her. LANE B: the doorways and the invented bit in the paper are how the walk works.
+# LEAST PAGE: six years doing wedding sound with a friend, split down the middle; the
+#   groom's brother books about forty a year; he'd put all forty your way if you were on
+#   your own; your friend is twenty feet off at the bar. ACT NEEDS: him · yes, meaning the
+#   offer (stated). POLE: the inverse fully — sides changed for gain, with the other party
+#   in the room, which is going over rather than a promise dropped. RESIST: you tell him
+#   you work with him.
+#
+# --- sour-boiled-green ---
+# MOST  PAGE: nine of you out for a friend's new job; the table is asking her what it's
+#   like; you drink with the man who signs off that department's budget; he told you in
+#   September it closes in April; nobody has asked you anything. ACT NEEDS: the table ·
+#   the department · April (stated). POLE: indiscreet — it is TRUE, it is NOT YOURS, and
+#   NOBODY ASKED, and that last fact is stated outright because it is what separates the
+#   whole entry from forthright. RESIST: you tell her on her own another time.
+# HIGH  PAGE: you're reading at your uncle's funeral; the church is full; his widow put
+#   the day together; all morning people have said what a father he was to you and your
+#   brother; he left when you were nine and came back twice. ACT NEEDS: getting up (you're
+#   reading) · the two visits (stated). POLE: outspoken — the room's version is unanimous
+#   and on the page, nobody has asked, and it is raised in front of everybody.
+#   RESIST: you read what you were given. LANE A: it is said at his funeral, and a funeral
+#   does not happen twice.
+# MID   PAGE: a firm in on the back of your friend's house; they're pouring; the foreman
+#   says the crack up the back wall was there before and they'll skim it; you've watched
+#   them dig within a foot of that wall for three days. ACT NEEDS: her · him · the crack
+#   (stated). POLE: low pitch — unbidden and in front of the man it contradicts, which is
+#   the whole axis at a small size. RESIST: you say it to her afterwards.
+# LOW   PAGE: six of you shown round the taxidermist's workshop; the freezer; the order
+#   book; the half-finished fox on the bench; the licence framed by the door covering
+#   exactly what she does; one of the group won't leave off about whether it's legal;
+#   she's gone quiet. ACT NEEDS: the fox (now stated). POLE: silent-lite, and the test is
+#   the setup rather than the verb — the available act, saying what the licence covers, is
+#   named on the page, so declining it is a real vote. RESIST: you point at the licence.
+#   LANE B: the freezer, the order book and the framed licence are how the workshop runs.
+# LEAST PAGE: four hours on the train with the friend whose wedding is next month; just
+#   the two of you; he's on about the wedding the whole way; since February she has twice
+#   made him cancel on you at an hour's notice; he hasn't seen his brother since the
+#   spring; there won't be another four hours before the day. ACT NEEDS: the seating plan
+#   (he is on about the wedding throughout). POLE: the inverse fully — the thing to be
+#   said is specific and stated, the window is stated and closing, and the reader spends
+#   it on the seating plan. It is not an answer to anything, which keeps it off coy.
+#   RESIST: you tell him about his brother.
+#
+# --- sweet-roasted-cannellini ---
+# MOST  PAGE: a man has the back room three nights; he said when he booked that he's here
+#   to work and would rather eat upstairs; you've laid him a place at the table with the
+#   other four; you've told them he's coming down. ACT NEEDS: him · going up · the door
+#   (he is upstairs, stated). POLE: insistent — his stated wish is ON THE PAGE and the
+#   welcome overrides it, and the reader has already committed him publicly.
+#   RESIST: you take a plate up to him.
+# HIGH  PAGE: the ferry goes at ten to and there isn't another for four days; the eight of
+#   you have the cottage; a man in the queue has come over for the same walking and
+#   doesn't know anybody; whoever's on this boat is who's on the island all week.
+#   ACT NEEDS: him · the sofa (introduced by the act as an offer the reader produces,
+#   which is allowed — it is not a history he is supposed to share).
+#   POLE: welcoming — a bounded thing with an inside (the cottage, the week), one person
+#   outside it, standing given plainly. Nobody has moved house and nobody is alone at a
+#   party, which is what keeps it off neighbourly and warm. RESIST: you wish him luck.
+#   LANE A: once the ramp is up, that is the island's population for the week.
+# MID   PAGE: every Saturday the six of you finish at the warehouse at one and go to the
+#   same place for a fry-up; it has never been said out loud to the new starter; three
+#   weeks he has put his coat on at one and gone home on his own. ACT NEEDS: him · where
+#   you all go (stated). POLE: low pitch — the custom is bounded and unspoken, and the act
+#   simply puts him inside it. RESIST: you let him go as usual.
+# LOW   PAGE: the trolley at three; the lounge nobody sits in; whose family come and when;
+#   the woman in the next chair to your grandmother talks to you every visit; hers come at
+#   Christmas; today she pulls her chair round as you sit down. ACT NEEDS: your grandmother
+#   (stated) · the garden (the reader's own move). POLE: forbidding-lite — the available
+#   act, letting her in, is on the page, and the price of closing it is stated in the same
+#   breath. RESIST: you pull a third chair round. LANE B: the trolley, the empty lounge
+#   and the visiting patterns are how the home runs.
+# LEAST PAGE: half nine on the first Saturday you've had the flat to yourself in months;
+#   the intercom goes; three of your friends back from the market with coffees; they say
+#   they'll only stop an hour. ACT NEEDS: them · the intercom (stated). POLE: the inverse
+#   fully — the freedom is named (the first weekend in months) and so is the price (three
+#   friends in the street with the coffees already bought). RESIST: you buzz them up.
+#~ ============ COLD READ STAMPS — regenerate with `node scripts/cold-read.mjs stamp <file>` ====
+#~ Each line is the facet text as it stood when it was cold-read. `commit` refuses
+#~ the batch if any of them has changed since. Edit a facet, read it again, restamp.
+#@ umami-fried-edamame most 07a49b3e62
+#@ umami-fried-edamame high 6ce2b8aa7d
+#@ umami-fried-edamame mid bbabecbe50
+#@ umami-fried-edamame low 6f4c32dc14
+#@ umami-fried-edamame least f5381e883e
+#@ umami-dried-kidney most 7fd6f9317a
+#@ umami-dried-kidney high 6826812e07
+#@ umami-dried-kidney mid 3eb197c411
+#@ umami-dried-kidney low a10b545c20
+#@ umami-dried-kidney least 5aed38be8f
+#@ sour-boiled-green most aab55018fc
+#@ sour-boiled-green high 512d66e38c
+#@ sour-boiled-green mid de7866bf0b
+#@ sour-boiled-green low 9120b10669
+#@ sour-boiled-green least 274244700c
+#@ sweet-roasted-cannellini most e3ce726fe4
+#@ sweet-roasted-cannellini high f5572df20f
+#@ sweet-roasted-cannellini mid d8f5063f61
+#@ sweet-roasted-cannellini low fc27f363a6
+#@ sweet-roasted-cannellini least fb3a571269

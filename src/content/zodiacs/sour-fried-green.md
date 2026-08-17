@@ -17,32 +17,37 @@ antiTriple: umami-dried-cannellini
 antiBeans: [black, navy]
 antiForm: boiled
 seasonalFortune: "A season of pine nuts and sudden vinegar — the pan acts, then discovers why."
-fortuneMost: A jackrabbit leaps first and looks after.
-fortuneHigh: A yes will emerge before you've weighed it.
-fortuneMid: The choice your hand makes first is often the right one.
-fortuneLow: A night's wait shows what the rush would have hidden.
-fortuneLeast: The fully-planned road is safe, and quieter than you'd like.
-facetMostTitle: The Beanhulk
-facetMost: He said the thing about your marriage and your chair has gone over backwards. You are across the table. Four people have hold of you, the pub has gone quiet, and you could not tell anybody what you intended to do.
+fortuneMost: Act first every time and half of it needs undoing.
+fortuneHigh: A jackrabbit breaks before it knows what moved.
+fortuneMid: Instinct is quicker than the argument.
+fortuneLow: Count to ten first.
+fortuneLeast: Thinking it through takes an afternoon and saves a year.
+facetMostTitle: The Beanulk
+facetMost: You came for one lot, a box of Northern Soul singles, and a man next to you took it off you at eighty pounds and grinned about it. The next lot is a pair of speakers you have nowhere to put, and he's in at forty. There's no cooling off on a lot, and you have about ninety pounds. You bid three hundred.
+facetMostAction: You bid three hundred.
 facetHighTitle: Leap Before You Bean
-facetHigh: A house comes up at eleven in the morning and by two you have seen it and offered on it. Nobody has been consulted. The person you live with finds out from the agent.
-facetMidTitle: Spur of the Beanoment
-facetMid: Somebody at the next table has said something about the child and you are already standing, and you have not worked out what you are going to say, and you are going to say it anyway, and the whole room can see you coming.
+facetHigh: You've come in for the ends taking off, because you're a bridesmaid at your friend's wedding at the weekend and your hair is meant to go up. The woman cutting holds the length out and says you'd look years younger short. There's no growing hair back in four days. You tell her to take it all off.
+facetHighAction: You tell her to take it all off.
+facetMidTitle: Bean of the Moment
+facetMid: The balloon's down in a field and you're helping the four crew squeeze the air out of the envelope while the chase van pulls in at the gate; the pilot says they're a pair of hands short for the evening flight and meet at the yard at six, and you're due at your sister's for her tea at seven. You tell him you'll be there.
+facetMidAction: You tell him you'll be there.
 facetLowTitle: Thinking, Fast and Bean
-facetLow: An email has arrived and it is rude and you have a reply half written, and you leave it in drafts and go to bed.
+facetLow: Your housemate went in the night owing two months, and her room is still full — the clothes, the boxes, the plants — and your landlord says you can put her things out and get somebody else in, and you have a friend who'd take the room. You message her which weekend you're putting them out.
+facetLowAction: You message her which weekend you're putting them out.
 facetLeastTitle: Sleep on Bean
-facetLeast: A choice is between two of them and you have four weeks. You make a list, and you speak to three people about it, decide in the last week, and you are still not certain.
-question: An email arrives that's plainly rude and you've a reply half written. You...
-answerMost: Send it, and a second one after
-answerHigh: Send it before I reread it
-answerMid: Trim the worst of it and send
-answerLow: Leave it in drafts overnight
-answerLeast: Still be redrafting a week later
-rorschachMost: a cannonball already fired
-rorschachHigh: a fist closed tight
-rorschachMid: a dark plum
-rorschachLow: a weight on a string
-rorschachLeast: a stone held, not thrown
+facetLeast: The unit on the row has come empty and the landlord wants an answer by the end of the month; your friend has the name picked and wants to shake on it across this table today. It would be everything the pair of you have got. You tell her you're not answering until you've costed the first year out.
+facetLeastAction: You tell her you're not answering until you've costed the first year out.
+question: It's Wednesday afternoon and the ferry to Belfast has a fare on at eleven pounds. You...
+answerMost: book four seats, and tell three people they're coming
+answerHigh: book two for Friday, and tell your partner once it's done
+answerMid: check the Friday shift first, then book
+answerLow: put the eleven pounds to the others before booking anything
+answerLeast: write down what the weekend would cost and decide on Sunday
+rorschachMost: a bull at a gate
+rorschachHigh: a stone in a sling
+rorschachMid: a heart
+rorschachLow: a chess clock
+rorschachLeast: a slow cooker
 ---
 
 Agrodolce Green Beans are the Bean Zodiac's most impulsive. They buy the tickets on a Wednesday afternoon and the weekend becomes something everyone remembers. Some Wednesdays it's the argument that gets bought instead. A pros-and-cons list is a document they have never finished.

@@ -22,15 +22,20 @@ fortuneMid: There's a difference between fussy and particular.
 fortuneLow: Nobody will notice its flaws.
 fortuneLeast: Some nights call for paper plates.
 facetMostTitle: Beanefied Air
-facetMost: You spent the whole weekend painting the bedroom and it looks beautiful — in the morning. In the afternoon light it looks a bit darker, not as "glowy" as you'd imagined. It's only going to bother you more as time goes on, so you reach for the colour swatch again.
+facetMost: You spent the whole weekend painting the bedroom and it looks beautiful — in the morning. In the afternoon light it looks a bit darker, not as "glowy" as you'd imagined. It bothers you more the longer you think about it. You reach for the colour swatch again.
+facetMostAction: You reach for the colour swatch again.
 facetHighTitle: Mabeanialists
-facetHigh: There's still an empty wall in your living room. You could fill it with prints tomorrow, but you leave it bare and wait, hoping to find a piece so magnificent you light it by itself.
+facetHigh: There's an empty wall in your living room, been that way for a while. You could fill it with prints tomorrow if you wanted. You leave it bare and wait, hoping to find something magnificent.
+facetHighAction: You leave it bare and wait, hoping to find something magnificent.
 facetMidTitle: The High Bean
-facetMid: It's only shop-bought hummus, but you spoon it into a bowl, swirl the top, and pool a little bit of fancy olive oil before it goes on the table.
+facetMid: It's only store-bought hummus, you could serve it straight out of the tub. You spoon it into a bowl, swirl the top, and pool a little bit of fancy olive oil before it goes on the table.
+facetMidAction: You spoon it into a bowl, swirl the top, and pool a little bit of fancy olive oil before it goes on the table.
 facetLowTitle: Common Beanple
 facetLow: At the photobooth, it takes an amazing shot of the two of you, you both have never looked better. Then it suddenly takes two more, capturing a big thumb and then a blurry one of you two laughing. The blurry one is the one you keep.
+facetLowAction: The blurry one is the one you keep.
 facetLeastTitle: Bean as Muck
-facetLeast: Dressing for a party, you go with the rainbow sequins, the clashing colours and the biggest jewellery in the drawer, and walk out feeling like a million bucks.
+facetLeast: Dressing for a house party, you could go with with a cool look, muted tones, very chic. Or you can go rainbow sequins with the biggest jewellery in the drawer. You go with the sequins.
+facetLeastAction: You go with the sequins.
 question: How do you make your coffee at home?
 answerMost: single origin beans, precisely weighed, filtered water
 answerHigh: fresh beans, in the good cup

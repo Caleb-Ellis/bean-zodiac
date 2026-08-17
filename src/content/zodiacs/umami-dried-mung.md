@@ -17,32 +17,37 @@ antiTriple: sour-roasted-pinto
 antiBeans: [edamame, fava]
 antiForm: fried
 seasonalFortune: "A season of dried shrimp and curry leaf: the pantry mends what the year wore through."
-fortuneMost: Broth for every bowl but your own.
-fortuneHigh: The crane feeds the marsh and forgets its own hunger.
-fortuneMid: Turmeric steeped since dawn, soft and gold.
-fortuneLow: Comfort and cure are not the same.
-fortuneLeast: An empty bucket cannot pour.
-facetMostTitle: Beanmisery
-facetMost: It is the fourth time you have got him back on his feet after the same thing, and the bed is made up again.
-facetHighTitle: Patch Beanadams
-facetHigh: Two of them arrive barely speaking to each other. There has been a long walk and a proper meal by the second evening. Something has come unstuck by the time they go.
-facetMidTitle: Doctor Beandolittle
-facetMid: A chair has been wobbling in their kitchen a year and they have stopped noticing it. You take it out to the yard while the kettle is on and glue the joint.
-facetLowTitle: The Beansqueeze
-facetLow: Somebody has come for the weekend to be looked after and what they actually need is telling. You give them the weekend they came for, feed them well, and nothing gets said.
+fortuneMost: Restore somebody often enough and they stop restoring themselves.
+fortuneHigh: The crane bird stands all night in cold water and flies at dawn.
+fortuneMid: Rest given at the right moment does years of work.
+fortuneLow: Going without teaches them.
+fortuneLeast: Depletion is what makes people move.
+facetMostTitle: Beansery
+facetMost: It's the fourth time your brother's been up, and this time there's a bail address to give or he doesn't go home. You've picked him up off that flat floor twice, and your sister won't do it again. You stand up and tell the bench he'll be living at yours.
+facetMostAction: You stand up and tell the bench he'll be living at yours.
+facetHighTitle: Patch Beanams
+facetHigh: Her marriage ended in the spring and she's done nothing but work since. You've two days of her and she's waiting for you to ask about it. The orchard's picking is eight hours on your feet. You hand her a bag and start her at the far row.
+facetHighAction: You hand her a bag and start her at the far row.
+facetMidTitle: Doctor Beanlittle
+facetMid: The woman with the fish stall's had the cold going round for four days and hasn't sat down since seven. You're only here to buy fish. You take the stall off her for twenty minutes.
+facetMidAction: You take the stall off her for twenty minutes.
+facetLowTitle: The Bean Squeeze
+facetLow: You're the last of the day and twelve minutes over. She runs the place on her own, the salt and the hour and the tank turned round between bookings, and she's been in since six. She says you're welcome to the twenty minutes left. You get back in.
+facetLowAction: You get back in.
 facetLeastTitle: Blood, Sweat and Beans
-facetLeast: A friend has driven two hours to see you and there is nothing in the house and no plan and a mood on you. You do not lift it. She leaves earlier than she said she would, and she is quieter on the phone for a while after that.
-question: Somebody's come to you in a bad way for the fourth time with the same problem. You...
-answerMost: clear the week and get them through it again
-answerHigh: look after them, and say what you can see
-answerMid: help, and ask what they'll do differently
-answerLow: tell them you can't keep doing this
-answerLeast: have nothing left, and they can tell
-rorschachMost: a compress never lifted
-rorschachHigh: a poultice on a graze
-rorschachMid: a cloth warm from water
-rorschachLow: a cloth cooling
-rorschachLeast: a dressing taken away
+facetLeast: Her dad's been in and out of hospital three weeks and she's done the appointments, the discharge calls and the nights. Tonight's the first evening she's had, and you've picked her up. You've had the worst week you can remember. You start telling her about yours.
+facetLeastAction: You start telling her about yours.
+question: Your friend arrives for the weekend with the shoulder that's been wrong since spring and a job she won't talk about. What does the weekend do?
+answerMost: the shoulder gets seen to and the job gets sorted before she goes home
+answerHigh: the shoulder quietly gets better
+answerMid: she's fed and walked, and the job is left alone
+answerLow: she sleeps and reads
+answerLeast: it runs as it was planned, and she manages
+rorschachMost: a propped-up drunk
+rorschachHigh: a broth bowl
+rorschachMid: a spare bed
+rorschachLow: a scraped jar
+rorschachLeast: a picked bone
 ---
 
 Aged Mung Beans are the Bean Zodiac's most restorative. A weekend at theirs and something that had been wrong for months is quietly better. Sometimes the mending keeps somebody from mending themselves. Leaving a person worse than they arrived is impossible.

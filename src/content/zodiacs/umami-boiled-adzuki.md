@@ -17,32 +17,37 @@ antiTriple: sweet-fried-green
 antiBeans: [edamame, fava]
 antiForm: roasted
 seasonalFortune: "A season of kombu dashi and close company — the broth wants somebody in the room."
-fortuneMost: Otters sleep holding hands so the current cannot take the other one off.
-fortuneHigh: When they say they're fine, ask again, gently.
-fortuneMid: That card you bought ages ago and never sent.
-fortuneLow: Someone close is rationing themselves thin.
-fortuneLeast: A step back can clear the steam off the window.
+fortuneMost: Ask often enough whether they still care and they'll wonder.
+fortuneHigh: Say it before they leave.
+fortuneMid: Otters hold hands asleep so they don't drift apart.
+fortuneLow: Let a few days go by.
+fortuneLeast: Distance keeps some friendships alive.
 facetMostTitle: The Bean Who Came to Dinner
-facetMost: The dog is in overnight, sedated, and the vet has promised faithfully to ring the moment anything at all changes. You ring them twice before morning.
+facetMost: You and your oldest friend have walked to the end of the pier and back twice. Twice tonight you have told her she is the most important person in your life, and twice she has laughed and started on something else. You ask her to say what you are to her.
+facetMostAction: You ask her to say what you are to her.
 facetHighTitle: Bean Actually
-facetHigh: Your daughter gets the pony over her first proper jump and comes round the corner looking straight at the gate for you, and you are already there with both arms out before she has pulled up in front of you.
+facetHigh: Your grandmother goes into the home this week and the family have spent the whole day in her front room labelling boxes and talking about the boxes. She is in the chair with her coat already on. You tell her she was the best part of your childhood.
+facetHighAction: You tell her she was the best part of your childhood.
 facetMidTitle: Beauty and the Bean
-facetMid: Folding at the laundrette beside somebody who has plainly had a rotten day of it. You say something kind and pass them the basket.
-facetLowTitle: The Ice Beanstorm
-facetLow: The woman in the next chair is frightened of needles and gripping the arm rest with both hands. You give her a nod and go back to your book.
-facetLeastTitle: The Big Beanchill
-facetLeast: Everyone is out on the ice holding on to one another and falling over in threes. You skate the far side on your own and come in when your hands get cold.
-question: Somebody you love has gone quiet for a fortnight. You...
-answerMost: turn up at their door with food and stay
-answerHigh: ring, and keep ringing until they pick up
-answerMid: send one message saying you have noticed
-answerLow: leave them to it and wait
-answerLeast: assume they will be in touch when they want to be
-rorschachMost: ivy pulling a wall down
-rorschachHigh: ivy right up a trunk
-rorschachMid: a post under creeper
-rorschachLow: a tendril let go
-rorschachLeast: a bare wall, hooks left
+facetMid: Your friend has an hour on the community station every week and has got you on with her — the faders, the clock on the wall, the two songs she keeps ready in case a caller drops out. With a minute left she asks you live why you moved to this city. You say on air that it was her.
+facetMidAction: You say on air that it was her.
+facetLowTitle: The Ice Bean Storm
+facetLow: The man you have trained beside for eight years finishes this week and is going four hundred miles to his sister's. He has said twice tonight that he will miss this. On the way out he stops in front of you with his arms out. You put your hand out.
+facetLowAction: You put your hand out.
+facetLeastTitle: The Big Bean Chill
+facetLeast: The astronomer has had the six of you up in the dome all evening — the shutter cranked open by hand, the drive that holds the tube on one star while the sky turns under it. Your partner has wanted this since the spring. At the eyepiece she takes your hand and says she is happy. You tell her the name of the star.
+facetLeastAction: You tell her the name of the star.
+question: Your closest friend has been away three weeks and you've had barely a word out of them. You...
+answerMost: ring and ask straight out whether you've done something wrong
+answerHigh: message them to say you miss them
+answerMid: post them something you know they'd like
+answerLow: drop them one line and leave it
+answerLeast: wait for them to get in touch first
+rorschachMost: a climbing puppy
+rorschachHigh: a linked arm
+rorschachMid: a lapcat
+rorschachLow: a stiff nod
+rorschachLeast: an empty grate
 ---
 
 Dashi Adzuki Beans are the Bean Zodiac's most affectionate. The arm goes round the shoulder, the message arrives on the day it matters, and none of it is calculated. Sometimes it needs answering more often than anyone can. Being cool for a week they can't do.

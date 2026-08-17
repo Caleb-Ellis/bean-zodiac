@@ -1,12 +1,11 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-boiled-black
-lastUpdated: 
+lastUpdated: 2026-08-22
 bean: black
 flavour: spicy
 form: boiled
 trait: gritty
-excess: grinding
+excess: self-punishing
 inverse: fragile
 quote: It does not matter how slowly you go as long as you do not bean.
 creature: warthog
@@ -17,32 +16,37 @@ antiTriple: sour-roasted-pinto
 antiBeans: [cannellini, green]
 antiForm: smoked
 seasonalFortune: "A season of chipotle and slow grinding: the pot outlasts the fuel it was given."
-fortuneMost: Backwards into the burrow, tusks out, and the warthog will do it all again.
-fortuneHigh: The slow problem gives because you were still there when it ran out.
-fortuneMid: Finish on the same legs that started it.
-fortuneLow: Hand off the thing you've been white-knuckling. It survives without you.
-fortuneLeast: Lift the pot off and start something with no scars on it.
-facetMostTitle: Beanmetropolis
-facetMost: Fourteen months of the same treatment and the same two-hour round trip to get it, and somewhere along the way it stopped being difficult and started being simply what happens. You book the next block of appointments without mentioning any of it to anybody.
+fortuneMost: A bean can get used to anything, even things that do it harm.
+fortuneHigh: The warthog will eventually run toward what chases it.
+fortuneMid: It being difficult shouldn't stop you doing it.
+fortuneLow: There's no medal for carrying it alone.
+fortuneLeast: Giving up can set you free.
+facetMostTitle: Beanopolis
+facetMost: Your back has been in a bit of pain for a couple of months, and the warehouse you work at is putting on extra shifts all month. You could do with the extra cash, but the physio has told you to avoid any strenuous activity. You push through, and take an extra shift.
+facetMostAction: You push through, and take an extra shift.
 facetHighTitle: Million Dollar Beanby
-facetHigh: The dig has been rained off three times and half the volunteers have stopped coming. You are there on the fourth attempt with the wheelbarrow and the flask.
-facetMidTitle: It's the Hard-Beanknock Life
-facetMid: Your knee has been bad since March and the walk is eleven miles over rough ground. You do it slower than the rest and you finish it.
-facetLowTitle: Beanfragile
-facetLow: Two hours into the drive with the traffic solid, and there is a hotel at the next junction. You take it and start again in the morning.
-facetLeastTitle: Beanporcelain
-facetLeast: One bad week at the new job and you are already looking at the adverts again, and you have told three people you are not sure it is for you.
-question: You said you'd redo the bathroom in a fortnight and you're five weeks in with no working sink. You...
-answerMost: carry on with it long past the point where anyone would blame you for stopping
-answerHigh: keep at it, and adjust how you are going about it
-answerMid: keep going, and say out loud that it is hard
-answerLow: step back from it and see how you feel in a week
-answerLeast: hand it back before it gets any worse
-rorschachMost: a millstone never lifted
-rorschachHigh: two stones and grain
-rorschachMid: a hub and its handle
-rorschachLow: a mill turned by hand
-rorschachLeast: a rock gone to sand
+facetHigh: The flood inundated everything in your house below waist height. Tradesmen are flat out with other houses, so you and your partner have been stripping back walls and floors yourselves. Two weeks in it's freezing, there's no floor, and another wall needs to be taken down. You show up again tomorrow with the sledgehammer, no fuss.
+facetHighAction: You show up again tomorrow with the sledgehammer, no fuss.
+facetMidTitle: It's the Hard-Bean Life
+facetMid: You're helping clear out an aunt's flat. The worst job is getting the standalone freezer out – it hasn't been turned on for months and is full of long-expired, room temperature meat. Your other relatives scurry off and find some easy jobs. You put gloves and a mask on, and start on the freezer.
+facetMidAction: You put gloves and a mask on, and start on the freezer.
+facetLowTitle: Beanelain
+facetLow: You're moving flat with two friends, doing it yourselves with a hired van. You've all miscalculated just how large and heavy the furniture is, and after the first of likely five or six van-loads, everyone is in pain and a bit grumpy. There's a removals firm who'll charge an arm and a leg for a same-day job. You give them a call.
+facetLowAction: You give them a call.
+facetLeastTitle: Precious Bean
+facetLeast: You're three days into a twelve-day trek with two friends, booked and paid for months ago. It has rained non-stop since you started. You're cold, your feet are raw, and everything is wet. A couple hours off track is a village, which services a bus back to the city. You get on that bus.
+facetLeastAction: You get on that bus.
+question: Semester four of night classes, and you've just failed a module. You...
+answerMost: take the module again, and take next semester's alongside it
+answerHigh: start the module again, as many times as it takes
+answerMid: sit it again, but only one more time
+answerLow: take a semester off to recalibrate
+answerLeast: withdraw from the course
+rorschachMost: a siamese fighting fish
+rorschachHigh: a serpent's head
+rorschachMid: a spaceship
+rorschachLow: a sponge and teatowel
+rorschachLeast: dried leaves
 ---
 
-Braised Black Beans are the Bean Zodiac's most gritty. Year four of the hard thing and they are still at it, unglamorously, on the days it isn't working. It sometimes continues past the point of return. Admitting they are worn through is a sentence they won't say.
+Braised Black Beans are the Bean Zodiac's grittiest. Year four of the hard thing and they are still at it, unglamorously, on the days it isn't working. It sometimes continues past the point of return. Admitting they are worn through is a sentence they won't say.

@@ -17,11 +17,11 @@ antiTriple: spicy-dried-kidney
 antiBeans: [navy, chickpea]
 antiForm: boiled
 seasonalFortune: "A season of piloncillo and orange — the oven has done something and won't say what."
-fortuneMost: Never cruel, the imp still leaves something broken everywhere it has been.
-fortuneHigh: Slip the surprise into a bag, no note, and let them find it alone.
-fortuneMid: Tell the long version, embarrassing bit kept in. That bit is the love.
-fortuneLow: Pull the bit and own it a beat later with a real hug.
-fortuneLeast: A sincere thank-you, zero jokes, just thank-you.
+fortuneMost: Stir enough of it and somebody eventually gets hurt.
+fortuneHigh: An imp unties one shoelace and waits.
+fortuneMid: A bit of trouble wakes a dull room.
+fortuneLow: Behave for an hour.
+fortuneLeast: Straitlaced people are why things work.
 facetMostTitle: Beanlemaker
 facetMost: A fake item has been on the agenda eleven minutes and two people are taking notes. The chair has asked who is leading on it.
 facetHighTitle: Beannis the Menace
@@ -32,17 +32,17 @@ facetLowTitle: Strait-Laced Bean
 facetLow: The occasion is a solemn one and there is a gap in it where something could go, and you can see exactly where the gap is and what would fit it. You let the occasion stay solemn.
 facetLeastTitle: Butter Wouldn't Bean
 facetLeast: The rule about the hall is a daft one and everybody knows that and there is nobody to enforce anything. You keep to the rule. You put the chairs where it says the chairs go, and doing otherwise does not occur to you.
-question: There's a gap in a solemn occasion where something could go. You...
-answerMost: put something in it, and it gets discussed for eleven minutes
-answerHigh: put something in it that only some of them will get
-answerMid: think of it, and enjoy having thought of it
-answerLow: leave the gap alone
-answerLeast: wouldn't have seen a gap
-rorschachMost: an imp, tail curling
-rorschachHigh: a hook curled behind
-rorschachMid: a comma, drawn large
-rorschachLow: a tail tucked in
-rorschachLeast: a hem pinned straight
+question: The agenda for tomorrow's team day is being printed, and you've got five minutes with the file. You...
+answerMost: put a fake item in about the boss's parking space, and read it out yourself
+answerHigh: put a fake item in and wait for who spots it
+answerMid: leave the agenda alone and save it for the drinks after
+answerLow: print it as it stands
+answerLeast: check the numbering and staple them
+rorschachMost: a knotted sheet
+rorschachHigh: two little horns
+rorschachMid: a raided tin
+rorschachLow: a hymn book
+rorschachLeast: a pressed uniform
 ---
 
 Glazed Pinto Beans are the Bean Zodiac's most mischievous. There is a prank at the wedding, a fake item on the agenda, and everyone laughs, including the target. Sometimes the target doesn't. Letting a solemn occasion stay solemn is a discipline they lack.

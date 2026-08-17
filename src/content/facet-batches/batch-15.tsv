@@ -1,0 +1,403 @@
+# BATCH 15 — pitch layout most=E high=G mid=E low=G least=G
+# Elevated slots are most and mid. MOST takes LANE A (most is the excess in all five —
+# a full-pitch act, which is what jeopardy suits). MID takes LANE B, because mid is the
+# trait at low pitch and a small move sits better inside an interesting place than
+# inside a crisis.
+#
+# THE OBJECT IS NAMED IN THE ROW. Every scenario below says WHICH thing — the letter
+# about the swimming lessons, the logbook since 1928, the four hundred pounds on the
+# box of records. Vagueness is born here, not at the writing.
+#
+# THIN-BUCKET ALLOCATION, decided before any scenario. Only strange and care are thin,
+# and almost everything in them is inside the ten-entry window. Available: food bank,
+# care home, hospice, animal shelter, hot air balloon, observatory. Six settings, five
+# entries, one each — black=observatory, kidney=care home, green=hot air balloon,
+# chickpea=hospice, adzuki=food bank. animal shelter left for batch 16.
+#
+# === umami-smoked-black — solemn / sepulchral / jocular
+# AXIS: you give the thing in front of you the weight it actually has, and you will not
+#   lighten it to make the room comfortable. Black weighs before it speaks; umami is
+#   depth held over time; smoked means the weight arrives without you announcing it.
+# NOT: mournful (umami-smoked-kidney, batch 01 — same flavour AND form, so this is the
+#   batch's sharpest trap). Mournful is CARRYING A LOSS. Solemn needs no loss anywhere
+#   in it — it lands on a handover, a first day, a logbook. Nobody in this entry is
+#   grieving. Also NOT reverential (umami-dried-adzuki, batch 18 — reverence points at
+#   something above you; solemn is about the occasion's own weight), and NOT humourless
+#   — the inverse is jocular, which is deflection, not cheerfulness.
+# TITLES: Tales from the Crypt (the thing said that cannot be taken back), Laughter in
+#   the Dark, A Funny Thing Happened on the Way to the Forum.
+# OFF-LIMITS: a horned owl and the wood going quiet; "everything treated as grave stops
+#   being grave"; "say it like it matters"; "crack the joke instead"; "a funeral can
+#   stand a laugh"; the kitchen going quiet without being asked; cumin, hickory.
+#   OLD FACETS: a memorial the family wanted light; the last post and the two minutes;
+#   a hat off going into church; a vigil breaking up in a car park; a comedy ringtone in
+#   a eulogy. QUESTION owns a speech at your dad's seventieth. So the whole ceremony
+#   bucket is burned for this entry — NO funerals, memorials, vigils, churches,
+#   eulogies, remembrance parades, or speeches at family birthdays. Nobody dies here.
+umami-smoked-black	most	prison	visit-weighted	family	elevated
+# LANE A — the visiting order is one hour a month; what you spend it on is gone and he sits with it for four weeks.
+umami-smoked-black	high	factory	switch-conferred	colleague	grounded
+umami-smoked-black	mid	observatory	logbook-entered	stranger	elevated
+# LANE B — inside the dome: the shutter wound open by hand, the pencil logbook running back to 1928, whose turn it is at the eyepiece.
+umami-smoked-black	low	dojo	nerves-lightened	friend	grounded
+umami-smoked-black	least	lecture hall	resus-clowned	group	grounded
+#
+# === umami-fermented-kidney — rooted / stuck / uprooted
+# AXIS: your worth is bound up in one patch of ground and in knowledge that only exists
+#   because you stayed in it; leaving means being worth nothing on arrival.
+# NOT: settled (umami-fried-butter, batch 04 — contentment with the SHAPE of a life, the
+#   same order every Friday; rooted is about the GROUND and the accumulated knowledge of
+#   it). NOT anchored (the inverse of spicy-smoked-green, batch 12 — anchored is taking
+#   on a tie you could have refused; rooted means you already ARE the tie and the
+#   question never gets asked). NOT loyal — no person is owed anything here.
+# TITLES: A Tree Grows in Brooklyn, The Grapes of Wrath, Exodus — all about ground, and
+#   what it costs to be taken off it.
+# OFF-LIMITS: a burrowing owl in a hole another animal dug; "roots go deep enough and
+#   moving becomes unthinkable"; "knowing the ground is worth years"; "there's other
+#   ground out there"; "being uprooted teaches quickly"; red miso.
+#   OLD FACETS: a job abroad turned down twice; a new neighbour told the bin day and the
+#   drain; a village pub bought by the regulars; a family farm's top forty acres; the
+#   childhood house sold with one box of photographs. QUESTION owns the firm moving to
+#   Leeds. So NO job-relocation offers, NO farms, NO village pubs, NO selling up.
+umami-fermented-kidney	most	street	buyout-refused	official	elevated
+# LANE A — the other five houses sign, the row comes down, and the offer is made once.
+umami-fermented-kidney	high	care home	kin-signed	neighbour	grounded
+umami-fermented-kidney	mid	museum	map-corrected	official	elevated
+# LANE B — the back room: the boxes of loose photographs, the display being built, which names get printed on the panel.
+umami-fermented-kidney	low	restaurant	move-encouraged	partner	grounded
+umami-fermented-kidney	least	hostel	tenancy-ended	stranger	grounded
+#
+# === sour-fried-green — impulsive / hotheaded / deliberative
+# AXIS: the body is already doing it and no thought has formed. There is no gap between
+#   knowing and doing because there is no knowing.
+# NOT: swift (sour-fried-fava, batch 01 — SAME FLAVOUR AND FORM, the batch's other hard
+#   trap). Swift is tempo: you know the answer and the gap to acting is zero. Impulsive
+#   has no knowing in it at all — the reader could not say afterwards what they intended.
+#   TEST APPLIED TO ALL FIVE: no facet may contain a good reason available in advance. If
+#   the act would still be right on reflection, it is swift and it is wrong.
+#   Also NOT emphatic, NOT spontaneous (which is a pleasure, not a reflex).
+# TITLES: The Hulk, Leap Before You Look, Thinking Fast and Slow, Sleep On It.
+# OFF-LIMITS: a jackrabbit breaking before it knows what moved; "act first every time and
+#   half of it needs undoing"; "instinct is quicker than the argument"; "count to ten
+#   first"; "thinking it through takes an afternoon and saves a year"; pine nuts, currants.
+#   OLD FACETS: a chair going over backwards in a pub over a remark about your marriage;
+#   a house seen and offered on inside three hours; standing up at the next table over a
+#   remark about the child; a rude email left in drafts; a four-week choice with a list
+#   and three people consulted. QUESTION owns the eleven-pound ferry to Belfast. So NO
+#   pub confrontations, NO house buying, NO drafts folder, NO cheap-fare bookings.
+sour-fried-green	most	auction house	bid-chased	stranger	elevated
+# LANE A — the hammer goes down and it is yours; there is no cooling-off on a lot.
+sour-fried-green	high	hairdresser	length-scrapped	stranger	grounded
+sour-fried-green	mid	hot air balloon	chase-joined	group	elevated
+# LANE B — how a flight actually runs: the five o'clock inflation, the chase van following it across the lanes, the farmers whose fields it may land in.
+sour-fried-green	low	kitchen	binning-dated	housemate	grounded
+sour-fried-green	least	cafe	costing-demanded	friend	grounded
+#
+# === spicy-dried-chickpea — conductive / incendiary / insulating
+# AXIS: whatever charge arrives in you leaves you at full strength and reaches people it
+#   would never have reached. Chickpea connects, spicy galvanises, dried adds nothing and
+#   loses nothing — the thing passes through undamped and comes out live.
+#   DERIVED, NOT DICTIONARY: this is not "talkative" and not "a gossip". The content can
+#   be good news, a verdict, a prognosis, a panic. What is being probed is whether the
+#   reader passes it on at the voltage it arrived at.
+# NOT: gregarious (spicy-roasted-chickpea, batch 10 — gathering people), charismatic
+#   (spicy-roasted-cannellini — charm exerted). Both are about company; this is about the
+#   CHARGE. THE DESIGN RULE, applied to all five: the reader never originates the thing.
+#   It is always handed to them first, and the act is only what leaves them.
+# TITLES: Firestarter, Lightning, Bubble, Rubber — conduction and its absence.
+# OFF-LIMITS: an electric eel stunning the pool it feeds in; "passing the charge along
+#   starts fires nobody sees"; "pass the good news on"; "let the hot thing stop with
+#   you"; "a spark going nowhere does no harm"; the heat moving between rooms without
+#   touching them; Kashmiri chilli, hing.
+#   OLD FACETS: one sentence repeated to the two who would carry it furthest, three
+#   departments in a fortnight; half a sentence left on the table; news before anybody
+#   in the building; gossip handed over with heat in it and stopped; a family thread of
+#   ninety messages. QUESTION owns the sacked sister and the parents' lunch. So NO
+#   workplace gossip, NO departments, NO group threads, NO sibling-in-crisis calls.
+spicy-dried-chickpea	most	radio	letter-broadcast	neighbour	elevated
+# LANE A — it goes out live on the phone-in, with her son's name in it, and it cannot be taken back off the air.
+spicy-dried-chickpea	high	barbecue	verdict-relayed	group	grounded
+spicy-dried-chickpea	mid	hospice	prognosis-relayed	family	elevated
+# LANE B — how a hospice actually works: no visiting hours, the day room kettle anyone can use, the nurse who will tell you plainly what the next few days are.
+spicy-dried-chickpea	low	car	panic-stripped	family	grounded
+spicy-dried-chickpea	least	laundrette	photograph-blocked	housemate	grounded
+#
+# === sweet-roasted-adzuki — convivial / bacchanalian / antisocial
+# AXIS: the company itself is the pleasure. You want the table to go on because being
+#   among these people is the good thing — not what it achieves, not how many there are.
+# NOT, and this is a four-way separation because the cluster is crowded:
+#   gregarious (spicy-roasted-chickpea, batch 10) is the COUNT — gathering more people in.
+#   ebullient (sour-roasted-green, batch 07) is VOLUME with no object — the noise itself.
+#   exultant (spicy-roasted-adzuki, batch 11) is a RESULT aimed at a room — you have won
+#     something and the room is where it goes.
+#   What is left once those three are excluded: DURATION and TOGETHERNESS. Convivial does
+#   not recruit, does not raise its voice, and has nothing to announce. It keeps the
+#   people who are already here together, and it is the sitting-with that is wanted.
+# TITLES: The Bacchae, Babette's Feast, Come On-a My House, Party of One.
+# OFF-LIMITS: a macaw that won't eat unless the flock eats; "the party ends when one
+#   person decides to leave"; "a kitchen with something on fills up"; "stay in and see
+#   nobody"; "an empty house is a treat"; the oven throwing something; miso glaze, mirin.
+#   OLD FACETS: a taproom at last orders, twenty of you, four crates moved to your
+#   kitchen; a village hall, forty people and the table plan; a bird hide and a shared
+#   flask; a cave passage and the entrance chamber; a lighthouse cottage alone for a
+#   week. QUESTION owns how your evenings out end. So NO after-hours pubs, NO village
+#   halls, NO hides, NO caving, NO solitary cottages.
+sweet-roasted-adzuki	most	karaoke bar	hour-extended	group	elevated
+# LANE A — her flight is at seven from two hours away and her bags are behind the bar; an extra hour is the flight.
+sweet-roasted-adzuki	high	campsite	shelter-shared	stranger	grounded
+sweet-roasted-adzuki	mid	food bank	parcel-waited	stranger	elevated
+# LANE B — how a parcel is actually made up: the referral voucher, the three days it is meant to cover, the list on the wall of what they cannot give out.
+sweet-roasted-adzuki	low	taxi	ride-shortened	friend	grounded
+sweet-roasted-adzuki	least	phone	invite-ended	friend	grounded
+#
+# ============ COLD READ (on the final text, after all editing) ============
+# Fixed at the clarity pass and the lint: five facets ran past 70 words and every entry
+# was 4-or-5 sentences all the way down, which is one shape asked five times. Two
+# facets per entry were brought to two sentences and the setups cut. Four faults were
+# found by the read itself and fixed after it; all four are RE-READ below on the new
+# text and marked.
+#
+# umami-smoked-black
+#  most  ON THE PAGE: your brother; one visit a month and this is it; the locker, the
+#        tabard, forty minutes at a fixed table; your mum has told all of you to keep it
+#        light; it is his little boy's birthday this week; since he went in she has been
+#        to the doctor twice about her chest and stopped using the stairs.
+#        ACT NEEDS: him = your brother; the stairs — both stated.
+#        POLE NEEDS: sepulchral, and the clause that makes it the excess rather than the
+#        trait is "keep it light", which is an explicit request from the family, on the
+#        page, refused. The one-hour-in-four-weeks is what makes it cost.
+#        RESIST: keep it light, it is the boy's birthday.
+#  high  RE-READ. "You ask him to throw the switch" needed a switch the page had never
+#        put there. The act is now "be the one who switches it off", which points at
+#        "goes off for good at two o'clock".
+#        ON THE PAGE: the press has stamped brake discs since 1971; it goes off for good
+#        at two o'clock; party hats brought in for a photograph in front of it; the man
+#        who has run it since he was seventeen is at the back with his coat on.
+#        ACT NEEDS: him; it = the press; the switching-off — all three stated.
+#        POLE NEEDS: solemn — the room's register is stated (hats, a photograph) and the
+#        act makes the moment a conferral instead. Not mournful — nobody has died and
+#        nothing is being grieved; a thing is being handed to somebody.
+#        RESIST: get in the photograph.
+#  mid   ON THE PAGE: open night at the observatory; a volunteer has wound the dome round
+#        by hand; eight of you; the logbook has a line in pencil for every night since
+#        1928; the columns are date, seeing, who was at the eyepiece; he says one of you
+#        can write tonight's; the others are laughing about it.
+#        ACT NEEDS: every column; the old pages = the lines back to 1928.
+#        POLE NEEDS: solemn at low pitch, and it needs BOTH the 1928 run (the weight) and
+#        the others laughing (the room's opposite register). Delete either and the act is
+#        just filling a form in. RESIST: scrawl your name and hand the pen on.
+#  low   ON THE PAGE: your friend goes up for her black belt in ten minutes; her sixth
+#        year of trying; she is in the changing room being told to breathe by everybody
+#        who comes past; two years ago she caught the man who runs the class across the
+#        nose and he had to stop the session.
+#        ACT NEEDS: her; his nose — the history is put on the page first, deliberately,
+#        because a callback to something the reader was never given cannot be Accepted.
+#        POLE NEEDS: jocular at low pitch — everybody else is being solemn at her, which
+#        is stated, so the lightness is against the grain rather than the default.
+#        RESIST: tell her she is ready.
+#  least ON THE PAGE: the man taking the compulsory first-aid session; the year group; out
+#        of hospital about one in ten come back; he has shown you how to keep the rhythm
+#        by doing the compressions to Stayin' Alive; now he is calling you down.
+#        ACT NEEDS: him; the same job = keeping the rhythm. The second song is something
+#        the reader produces, not shared history.
+#        POLE NEEDS: the inverse fully — the weight is at its maximum and freshly stated
+#        (one in ten) and it gets taken out in front of the whole year.
+#        RESIST: go down and do it straight.
+#
+# umami-fermented-kidney
+#  most  RE-READ. The first clause said "the six houses on the low side" and never put the
+#        reader in one of them, so "you're not selling" was selling nothing. Now "your
+#        house and the five others".
+#        ON THE PAGE: the beck has been through your house and the five others on the low
+#        side twice in nine years; the council has offered to buy all six at pre-flood
+#        value; the other five have signed; once they go the row comes down and the
+#        ground goes back to the water; the offer is not made twice.
+#        ACT NEEDS: the man from the council; selling your house — both stated.
+#        POLE NEEDS: stuck rather than rooted, and the three clauses that do it are the
+#        demolition, the one-time offer, and the fact that nothing on the page gives a
+#        reason to stay except that it is yours. RESIST: sign.
+#  high  ON THE PAGE: the woman who lived next door for twenty years; she is in the home
+#        at the end of the road; no visitors in six weeks; the only family is a nephew who
+#        has not answered two letters; the form wants a name and a number for whoever they
+#        ring when something happens.
+#        ACT NEEDS: yours = your name and number; the form.
+#        POLE NEEDS: rooted — the obligation is open-ended and falls to you only because
+#        you are the one still on the road. RESIST: give them the nephew's address.
+#  mid   ON THE PAGE: a curator at the museum has taken you through the back; the estate
+#        photographs are in shoeboxes by decade; the panel is already printed; the pub is
+#        on the wrong corner; the row you grew up on is under the wrong name; she is
+#        asking if any of it looks right.
+#        ACT NEEDS: her; which corner the pub was on.
+#        POLE NEEDS: rooted at low pitch — the knowledge exists only because you grew up
+#        there, which is stated, and "already printed" is what makes speaking cost them
+#        something. RESIST: say it all looks right.
+#  low   ON THE PAGE: your partner's contract finishes in the spring; the only thing she
+#        has been offered since is four hours away; twice over this dinner she has said
+#        she will turn it down and stay; she means it; you have never lived anywhere but
+#        here. ACT NEEDS: her; moving.
+#        POLE NEEDS: uprooted at LOW pitch, not the inverse — leaving is volunteered but
+#        for a stated reason outside yourself, which is what holds it at the low pole.
+#        RESIST: let her turn it down.
+#  least ON THE PAGE: you went away for three weeks and you are five weeks in; the woman
+#        on the hostel desk has stopped asking how long you are staying; your room at home
+#        is still yours; the rent is still going out every month.
+#        ACT NEEDS: your landlord; the tenancy.
+#        POLE NEEDS: the inverse fully — the ground is cut with nothing arranged on the
+#        other side. Freedom (you stay) and price (nothing to go back to), both stated.
+#        RESIST: book the flight home.
+#
+# sour-fried-green
+#  THE SWIFT TEST, run on all five: no facet contains a good reason available in advance.
+#  Not one of these acts would survive reflection, which is what separates the entry from
+#  sour-fried-fava.
+#  most  ON THE PAGE: you came for one lot, a box of Northern Soul singles; a man next to
+#        you took it at eighty pounds and grinned about it; the next lot is a pair of
+#        speakers you have nowhere to put; he is in at forty; no cooling off on a lot;
+#        you have about ninety pounds. ACT NEEDS: three hundred; the lot.
+#        POLE NEEDS: hotheaded — you do not want the thing (stated), cannot pay for it
+#        (stated), and the only cause on the page is him grinning. RESIST: let him have
+#        them.
+#  high  ON THE PAGE: you came in for the ends taking off; you are a bridesmaid at your
+#        friend's wedding at the weekend; your hair is meant to go up; the woman cutting
+#        holds the length out and says you would look years younger short; there is no
+#        growing hair back in four days. ACT NEEDS: her; it all = the length.
+#        POLE NEEDS: impulsive — the plan is stated first and reversed inside one
+#        sentence on one remark from a stranger. RESIST: have the ends off as booked.
+#  mid   ON THE PAGE: the balloon is down in a field; you are helping the four crew
+#        squeeze the air out of the envelope; the chase van pulls in at the gate; the
+#        pilot says they are a pair of hands short for the evening flight and meet at the
+#        yard at six; you are due at your sister's for her tea at seven.
+#        ACT NEEDS: him = the pilot; there = the yard at six.
+#        POLE NEEDS: impulsive at low pitch — the clash is on the page and unresolved at
+#        the moment of saying yes. RESIST: say you cannot, you are at your sister's.
+#  low   ON THE PAGE: your housemate went in the night owing two months; her room is still
+#        full — the clothes, the boxes, the plants; your landlord says you can put her
+#        things out and get somebody else in; you have a friend who would take the room.
+#        ACT NEEDS: her; them = her things; the weekend.
+#        POLE NEEDS: deliberative at low pitch. NOT-DOING CHECK: the declined act (putting
+#        her things out today, which the landlord has authorised) is named on the page,
+#        and what is taken is a doing. RESIST: put it out today.
+#  least ON THE PAGE: the unit on the row has come empty; the landlord wants an answer by
+#        the end of the month; your friend has the name picked and wants to shake on it
+#        across this table today; it would be everything the pair of you have got.
+#        ACT NEEDS: her; the first year.
+#        POLE NEEDS: the inverse fully — the whole month is taken with a person in front
+#        of you asking now. Freedom (you do not lose everything on a handshake) and price
+#        (she is sat there and the landlord is not waiting). RESIST: shake on it.
+#
+# spicy-dried-chickpea
+#  THE DESIGN CHECK, run on all five: the reader never originates the charge. In every
+#  facet it is handed to them first and the act is only what leaves them.
+#  most  ON THE PAGE: your neighbour wrote a letter about her son's swimming lessons; his
+#        name, his asthma, the two years of getting him in the water; she asked you to
+#        hand it in at the consultation; the council leader is on the local station taking
+#        live calls about closing the baths; you are through and on hold with the letter.
+#        ACT NEEDS: the letter; on air = the live calls.
+#        POLE NEEDS: incendiary rather than conductive, and two stated facts do it — the
+#        letter was entrusted for a different destination, and it has a child's name and
+#        his asthma in it. Delete either and this is just passing something on.
+#        RESIST: say your own piece and hand the letter in as she asked.
+#  high  RE-READ. The act said "in from the garden" and the page had only said barbecue.
+#        Now "in from the barbecue".
+#        ON THE PAGE: your friend came in the side gate and told you the tribunal has
+#        found for her and the eighteen months is being paid back; she has not said to
+#        keep it quiet; she has gone to the loo; fifteen people are out at the barbecue
+#        who have listened to her about this since last summer.
+#        ACT NEEDS: fifteen; the barbecue — both stated.
+#        POLE NEEDS: conductive and NOT incendiary, and "she hasn't said to keep it quiet"
+#        is the whole of that distinction. Without it this is the most pole.
+#        RESIST: wait and let her tell them herself.
+#  mid   ON THE PAGE: your grandad is in the hospice; no visiting hours; the day room is
+#        never locked; a nurse has told you straight what the next few days look like; the
+#        driver in his arm; how the breathing goes at the end; your mum and your two
+#        cousins wait in the corridor, told nothing.
+#        ACT NEEDS: the three of them; she = the nurse; what she said.
+#        POLE NEEDS: conductive at low pitch — undamped, in her words, to the three who
+#        need it, and "told nothing" is what makes it a transmission rather than a chat.
+#        RESIST: give them a softer version.
+#  low   ON THE PAGE: your dad has been on the phone ten minutes shouting about your
+#        brother putting the van through a wall; the only clear thing in it was that
+#        nobody is hurt; your mum is in the passenger seat asking what he said; she had a
+#        stent put in at Easter. ACT NEEDS: her; he = your brother; the van.
+#        POLE NEEDS: insulating at low pitch — the heat is stripped and the fact passes,
+#        and the reason for damping (the stent) is on the page, which is what keeps this
+#        the low pole rather than indifference. RESIST: give her it the way it came.
+#  least ON THE PAGE: the laundrette; waiting on the dryers with your housemate; she is
+#        four feet away reading the notices; she has been better for about a month; her ex
+#        has messaged you a photograph of himself with somebody else and asked you to show
+#        it to her. ACT NEEDS: him = the ex; it = the photograph; her.
+#        POLE NEEDS: the inverse fully — the charge stops dead at you. Freedom (she keeps
+#        her month) and price (you have decided what she gets to know), both stated.
+#        RESIST: turn the phone round.
+#
+# sweet-roasted-adzuki
+#  THE FOUR-WAY CHECK, run on all five: nobody is recruited (that is gregarious), nothing
+#  is announced (exultant), and no facet turns on volume (ebullient). Every act is about
+#  the people already here staying together.
+#  most  ON THE PAGE: nine of you have had the room since ten; it is half two; your friend
+#        flies at seven from an airport two hours off; her bags are behind the bar; nobody
+#        has moved and nobody wants to; the bar will let you have one more hour.
+#        ACT NEEDS: it = the hour.
+#        POLE NEEDS: bacchanalian — the page does the arithmetic itself (half two, seven,
+#        two hours off), so the extra hour IS the flight and the cost is not implied but
+#        countable. RESIST: get her in a taxi.
+#  high  RE-READ. The act said "the other two vans" and the page had only given porches
+#        and groups. Now "the other two", which points at the three groups.
+#        ON THE PAGE: it has rained two days; three groups on the field have each stayed
+#        in their own porch; the site's one shelter has a long table nobody has been near;
+#        you have food for six; there are eleven people on the field; everybody goes home
+#        in the morning. ACT NEEDS: the other two = the other two groups; the table.
+#        POLE NEEDS: convivial — three separate parties become one table on the last
+#        night, and the cost is stated (food for six, eleven people). RESIST: eat in your
+#        own porch.
+#  mid   ON THE PAGE: the food bank makes the parcels up while you wait; a voucher from
+#        the referral; three days' worth; a list on the wall of what they cannot give out
+#        because there is nowhere to cook it; you are on the volunteer rota; one woman is
+#        waiting on the plastic chairs with her coat still on; twenty minutes to go.
+#        ACT NEEDS: her; two teas — a food bank supplying tea is ordinary and accepted.
+#        POLE NEEDS: convivial at low pitch — the sitting-with is the whole of it, and the
+#        declined alternative (making the parcel up) is on the page.
+#        RESIST: get on with the parcel.
+#  low   ON THE PAGE: the six of you are in the taxi going on to the place that does food
+#        until four; your name is on the only table they had left; it is the first time
+#        you have all been out together since two of them had the baby; you have been up
+#        since five. ACT NEEDS: the driver; first = before the others.
+#        POLE NEEDS: antisocial at LOW pitch — the price is stated twice (your name is on
+#        the table, the first time in months) and the reason is stated once (up since
+#        five), which is what holds it short of the inverse. RESIST: go on with them.
+#  least ON THE PAGE: your friend has had the same New Year at hers for nine years; the
+#        twelve of you have gone to every one; she rings in December the way she always
+#        does to ask what you are bringing; there is nothing wrong and nobody has fallen
+#        out. ACT NEEDS: her; this year.
+#        POLE NEEDS: the inverse fully, and "nothing wrong and nobody has fallen out" is
+#        the clause that does it — the standing thing is ended for preference alone.
+#        Freedom (the night to yourself) and price (nine years, twelve people, and she is
+#        on the phone). RESIST: tell her what you are bringing.
+#~ ============ COLD READ STAMPS — regenerate with `node scripts/cold-read.mjs stamp <file>` ====
+#~ Each line is the facet text as it stood when it was cold-read. `commit` refuses
+#~ the batch if any of them has changed since. Edit a facet, read it again, restamp.
+#@ umami-smoked-black most 9bcb6154a0
+#@ umami-smoked-black high 89451beda4
+#@ umami-smoked-black mid 0b978ca55c
+#@ umami-smoked-black low d34770d1dd
+#@ umami-smoked-black least 12c4c05257
+#@ umami-fermented-kidney most 01ab94df9b
+#@ umami-fermented-kidney high 229fa0683a
+#@ umami-fermented-kidney mid 6e3d7dfd25
+#@ umami-fermented-kidney low dd7c84cd11
+#@ umami-fermented-kidney least 36d98cd307
+#@ sour-fried-green most af2d5f5b44
+#@ sour-fried-green high 17dadf6ee8
+#@ sour-fried-green mid c27f54d208
+#@ sour-fried-green low f36ea943b6
+#@ sour-fried-green least a2f6a47e09
+#@ spicy-dried-chickpea most e2d08a2155
+#@ spicy-dried-chickpea high d566ebd8d9
+#@ spicy-dried-chickpea mid e87ad01677
+#@ spicy-dried-chickpea low 70d3adf4ca
+#@ spicy-dried-chickpea least 498bde40b9
+#@ sweet-roasted-adzuki most a94f27243a
+#@ sweet-roasted-adzuki high fdf4f7c8d9
+#@ sweet-roasted-adzuki mid cd0c0e35ee
+#@ sweet-roasted-adzuki low c3b947ca00
+#@ sweet-roasted-adzuki least 4e42039808

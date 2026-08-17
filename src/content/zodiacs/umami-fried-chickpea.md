@@ -22,15 +22,20 @@ fortuneMid: Make the appointment now — not the day it's due, not the day after
 fortuneLow: Hold your answer one beat.
 fortuneLeast: Ask before you fix it.
 facetMostTitle: Beana
-facetMost: Storm warnings are still vague on the radio and you've already topped the tank, filled the jugs, and brought the chairs in off the lawn.
+facetMost: Storm warnings are still vague on the radio. You've already topped the tank, filled the jugs, and brought the chairs in off the lawn.
+facetMostAction: You've already topped the tank, filled the jugs, and brought the chairs in off the lawn.
 facetHighTitle: Seize the Bean
-facetHigh: A friend keeps circling a hard talk without starting it, and you'd rather open the subject yourself than let it hang.
+facetHigh: A friend keeps circling a hard talk without starting it. You'd rather open the subject yourself than let it hang.
+facetHighAction: You'd rather open the subject yourself than let it hang.
 facetMidTitle: The Early Bean
-facetMid: A pot's about to boil over while you're still chopping; you nudge the heat down before the lid starts rattling rather than wait for the hiss.
+facetMid: A pot's about to boil over while you're still chopping. You nudge the heat down before the lid starts rattling rather than wait for the hiss.
+facetMidAction: You nudge the heat down before the lid starts rattling rather than wait for the hiss.
 facetLowTitle: Beandraft
-facetLow: A puzzle stumps the table and your hand twitches to solve it — but you sit back and let someone else find their own way to the answer.
+facetLow: A puzzle stumps the table and your hand twitches to solve it. You sit back and let someone else find their own way to the answer.
+facetLowAction: You sit back and let someone else find their own way to the answer.
 facetLeastTitle: Whack-a-Bean
-facetLeast: A neighbor's garden runs wild in a shape you'd never plant, and you leave it be — it isn't yours to tidy.
+facetLeast: A neighbour's garden runs wild in a shape you'd never plant. You leave it be — it isn't yours to tidy.
+facetLeastAction: You leave it be — it isn't yours to tidy.
 question: A faint damp patch looks to be spreading on the ceiling. You...
 answerMost: immediately go up in the attic to trace a potential leak
 answerHigh: call someone to come take a look today

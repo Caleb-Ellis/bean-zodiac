@@ -23,14 +23,19 @@ fortuneLow: A sudden noise does not break the silence; it only reveals how thin 
 fortuneLeast: Songs cannot be sung from a closed mouth.
 facetMostTitle: Bean Records
 facetMost: Someone's been explaining your own field to you for ten minutes. You nod along, and they go away thinking they taught you something.
+facetMostAction: You nod along, and they go away thinking they taught you something.
 facetHighTitle: The Bean American
 facetHigh: Your mother has stopped talking much and the visits to the care home are mostly just sitting. You find the silence comforting.
+facetHighAction: You find the silence comforting.
 facetMidTitle: The Sound of Bean
 facetMid: A family lunch, twelve round the table, three conversations going at once. You take the plates through and start the washing-up, glad of the calm in the kitchen.
+facetMidAction: You take the plates through and start the washing-up, glad of the calm in the kitchen.
 facetLowTitle: Beans Off
 facetLow: Your nephew's two rounds down at the boxing club and the other corner won't shut up. You're on your feet shouting for him and you don't much care who hears.
+facetLowAction: You're on your feet shouting for him and you don't much care who hears.
 facetLeastTitle: Bean Up The Volume
-facetLeast: A table of eight and you're doing most of the talking. It's never struck you as a problem — a silence is just a gap somebody has to fill.
+facetLeast: A table of eight and you're doing most of the talking. It's never struck you as a problem — a silence is a gap somebody has to fill.
+facetLeastAction: It's never struck you as a problem — a silence is a gap somebody has to fill.
 question: How do people know you've arrived at a party?
 answerMost: they don't — they spot you later, settled in a corner somewhere
 answerHigh: you slink over to a group you recognise — only they'll know

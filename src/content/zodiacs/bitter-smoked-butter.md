@@ -17,12 +17,12 @@ antiTriple: spicy-fried-green
 antiBeans: [fava, pinto]
 antiForm: roasted
 seasonalFortune: "A season of cold smoke and unmoving air. Nothing here is in a hurry to arrive."
-fortuneMost: Hold perfectly still long enough and, like the stick insect, you stop being looked for.
-fortuneHigh: Out walking, you'll see the long view nobody else slowed down enough to catch.
-fortuneMid: A thing left alone for a while sorts more of itself than expected.
-fortuneLow: The thing in your hands has been asking for you while your head wandered off with it.
-fortuneLeast: Get up and go somewhere for no reason at all.
-facetMostTitle: The Big Beansleep
+fortuneMost: Anything that stays put long enough gets built around.
+fortuneHigh: Don't move. It'll come to you.
+fortuneMid: A stick insect stays put until the bird gives up.
+fortuneLow: A short walk would do you good.
+fortuneLeast: Book something mad and go.
+facetMostTitle: The Bean Sleep
 facetMost: Six hours on the canal bank and the float has not moved once. Neither have you. A man walking the towpath asks whether you have caught anything, and it takes you a moment to work out how to answer him at all.
 facetHighTitle: Still Bean
 facetHigh: A deer comes out of the bracken thirty feet off across the moor and has not seen you yet. You stay exactly as you are. You will stay that way until it wanders back into the bracken, however long that takes.
@@ -32,17 +32,17 @@ facetLowTitle: Beansomnia
 facetLow: Nothing to do but watch the sky until the birds come back, and you have swept the loft out twice already.
 facetLeastTitle: Born to Bean
 facetLeast: Two hours into a five-hour drive and everybody else wants a proper stop at the services. You are back at the car with the engine running before the coffees have cooled.
-question: You've driven two hours for a hospital appointment and you're an hour early. You...
-answerMost: Sit in the car and let the hour go
-answerHigh: Find a bench and watch what's going on
-answerMid: Read something I've been meaning to read
-answerLow: Walk the block a few times to use it up
-answerLeast: Find an errand, any errand, to fill it
-rorschachMost: dust settled for years
-rorschachHigh: a room nobody enters
-rorschachMid: a plain dark slab
-rorschachLow: dust lifting a little
-rorschachLeast: a curtain never still
+question: There's a room in your house where time doesn't pass — you can sit in it as long as you like and lose none of the day. You...
+answerMost: sit in it most of the day and let everything else wait
+answerHigh: sit in it an hour, then come out
+answerMid: go in when you need a minute to yourself
+answerLow: look in now and again
+answerLeast: never use it — you'd rather be getting on
+rorschachMost: a boulder in a field
+rorschachHigh: a heron on a bank
+rorschachMid: a sleeping dog
+rorschachLow: a rumpled bed
+rorschachLeast: a wasp at a window
 ---
 
 Charcoal Butter Beans are the Bean Zodiac's most still. They can sit an hour without reaching for anything, and being near them slows your breathing without your consent. Sometimes the stillness lasts past when something needed doing. Fidgeting, pacing, needing to move — none of it visits them.

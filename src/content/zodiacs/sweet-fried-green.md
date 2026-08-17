@@ -1,13 +1,12 @@
 ---
-# TODO: tidy facets, redo rorschachs
 slug: sweet-fried-green
-lastUpdated: 
+lastUpdated: 2026-08-23
 bean: green
 flavour: sweet
 form: fried
 trait: giddy
 excess: hysterical
-inverse: sober
+inverse: sensible
 quote: I'm beaning in the rain!
 creature: otter pup
 dish: Green bean tempura with maple glaze.
@@ -16,33 +15,38 @@ friendlyForm: smoked
 antiTriple: umami-boiled-butter
 antiBeans: [black, kidney]
 antiForm: dried
-seasonalFortune: "A season of maple glaze and rising fizz; the tempura cannot stop laughing."
-fortuneMost: A chipmunk with ten burrows fills none of them.
-fortuneHigh: Restless feet cover the most ground.
-fortuneMid: Don't bounce the knee incessantly — channel the restless energy somewhere.
-fortuneLow: Stay still long enough and the birds will come back.
-fortuneLeast: Beans fry better when you stop fiddling with them.
-facetMostTitle: Beanhysteria
-facetMost: The giggles have got you at the reading and it is not a funny reading. Every time it nearly passes, somebody catches your eye. Your shoulders are going and the woman in front has turned round twice.
+seasonalFortune: "A season of maple glaze and rising fizz; the tempura cannot stop popping."
+fortuneMost: There are genuine laughs and there are nervous laughs – people can easily spot the difference.
+fortuneHigh: An otter pup plays until it falls asleep. What a life!
+fortuneMid: Silliness gets a tired group through a long day.
+fortuneLow: Steady up a moment.
+fortuneLeast: A sober head is welcome in a crisis.
+facetMostTitle: Beansteria
+facetMost: You're at a friend's wedding and the registrar has mispronounced the groom's surname for the third time. For some reason it tickles your funny bone, and you're shaking with suppressed laughter. People are turning around and giving you stern looks. You cannot help but burst out laughing.
+facetMostAction: You cannot help but burst out laughing.
 facetHighTitle: Beans Just Want to Have Fun
-facetHigh: The news comes through and you make a noise you have not made since you were about nine, and you are up, and you have rung four people before reading the rest of the message.
-facetMidTitle: Head Beanrush
-facetMid: There is a thing to be pleased about and you are pleased about it in a way people can see across a room. By the end of the morning you have told the postman, the woman in the shop, and somebody you had never met.
-facetLowTitle: Stone-Cold Beansober
-facetLow: A good thing has happened and everybody is making a fuss of you. You say thank you and get on with the afternoon.
-facetLeastTitle: The Beanmorning After
-facetLeast: The whole table is helpless about something and has been for five minutes. You can see exactly why the thing is funny. You wait for it to finish so the conversation can resume.
-question: You've just found out you got the thing you'd applied for. You...
-answerMost: Make a noise and ring four people
-answerHigh: Tell whoever's nearest, loudly
-answerMid: Grin, and tell one person
-answerLow: Feel pleased and carry on
-answerLeast: Note it and get back to work
-rorschachMost: a soufflé over the tin
-rorschachHigh: a bubble about to go
-rorschachMid: two stacked scones
-rorschachLow: a risen loaf, settling
-rorschachLeast: a brick in the hand
+facetHigh: You get the news that your friend got the job they wanted. The next time you see them, you squeal with joy, and do a little dance.
+facetHighAction: The next time you see them, you squeal with joy, and do a little dance.
+facetMidTitle: Bean Rush
+facetMid: It's the first properly warm summer weekend, and you've just bought an ice cream. You didn't ask for it, but they gave you a cone dipped in chocolate. You'll be bouncing with joy for at least a few hours.
+facetMidAction: You'll be bouncing with joy for at least a few hours.
+facetLowTitle: Stone-Bean Sober
+facetLow: You're on a pub quiz team with four friends and the last answer has won it by a point. Everyone's up out of their seats, cheering and drinking. You sit and add the scores up again to check.
+facetLowAction: You sit and add the scores up again to check.
+facetLeastTitle: The Beaning After
+facetLeast: It's Christmas morning and everyone is tearing through their gifts, wrapping paper and presents all over the place. You make sure to frequently collect the wrapping paper into a bin bag and put the receipts to one side.
+facetLeastAction: You make sure to frequently collect the wrapping paper into a bin bag and put the receipts to one side.
+question: Congratulations, you've just passed your driving test! You can drive yourself home if you want. What do you do next?
+answerMost: sit in the car for a bit, too shaky from excitement
+answerHigh: ring your household to share the good news
+answerMid: send a photo of the certificate to people
+answerLow: drive home and mention it when you see people
+answerLeast: sort insurance and registration out before you tell anyone
+rorschachMost: escaping balloons
+rorschachHigh: icecream
+rorschachMid: fungi
+rorschachLow: a lantern
+rorschachLeast: a padlock
 ---
 
 Caramelised Green Beans are the Bean Zodiac's most giddy. Twenty minutes before the trip they are unbearable in the best way, and nobody sleeps on the train. Sometimes it tips into a wobble. Being calmly pleased about something isn't a gear they have.

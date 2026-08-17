@@ -17,32 +17,37 @@ antiTriple: sweet-smoked-black
 antiBeans: [kidney, mung]
 antiForm: dried
 seasonalFortune: "A season of ponzu and coriander: the pod states its position where the whole table hears."
-fortuneMost: You will say the true thing in the open, and the room will remember who said it.
-fortuneHigh: The position you took out loud is the one people actually plan around.
-fortuneMid: A mastiff at the gate does not pretend to be a hedge.
-fortuneLow: They will find it themselves if the ground is left clear.
-fortuneLeast: Let the other one have the last word and mean it.
+fortuneMost: Say it in the open often enough and the crowd thins.
+fortuneHigh: A mastiff at the gate doesn't pretend to be a hedge.
+fortuneMid: The position said out loud is the one people plan around.
+fortuneLow: Leave the ground clear and they'll find it themselves.
+fortuneLeast: Let the other one have the last word.
 facetMostTitle: The Beanpprentice
-facetMost: You get up at the meeting and say the proposal is dishonest, and that the man who wrote it knows as much. He is sitting four seats along from you. You do not soften that, you do not qualify it, and you sit down.
+facetMost: Your sister asks you to be a witness twenty minutes before the ceremony, and now she and her fiancé and his brother are at the desk with you and the registrar. For a year you have been saying she is rushing it. You say so again, and then you sign.
+facetMostAction: You say so again, and then you sign.
 facetHighTitle: Straight Outta Beanton
-facetHigh: Parents' evening, and a boy in your class is coasting and everybody has been kind about it all year. You tell them what he is capable of and what he does instead.
+facetHigh: Three years in the same five-a-side team, and for most of this season you have been the one sitting out the first half while the others play. The game has just finished and the whole team is still on the pitch. You tell them you want to start every week, or you are gone.
+facetHighAction: You tell them you want to start every week, or you are gone.
 facetMidTitle: On the Beancord
-facetMid: Asked at the surgery whether you have been taking them, you say no, and why not, and you let the doctor deal with that.
+facetMid: The director has moved the whole second act to the front, so your two scenes now happen before anyone in the audience knows who you are, and when he asks the thirty of you what you think everybody says it is fine, and after tonight the running order is printed. You say what it has done to your part.
+facetMidAction: You say what it has done to your part.
 facetLowTitle: It Beanpends
-facetLow: That fence is his and it is falling into your garden, and you mention only that it has been windy lately.
+facetLow: Your friend has been waiting three weeks for an answer about the weekend away for her thirtieth, and when you run into her at the market she says the place needs the final numbers now. You say you will have to see how work goes.
+facetLowAction: You say you will have to see how work goes.
 facetLeastTitle: Yes and Bean
-facetLeast: The scheme needs an answer and both of them are watching to see which way you go. You say you can see arguments on both sides and that it rather depends on the timing, and neither is any the wiser.
-question: In a meeting, somebody presents figures you're sure have been massaged. You...
-answerMost: Say so, and say who put them together
-answerHigh: Say plainly what's wrong with them
-answerMid: Ask the question that exposes it
-answerLow: Raise a small concern and leave it
-answerLeast: Say there are arguments both ways
-rorschachMost: sandpaper, grit side up
-rorschachHigh: a face above thorns
-rorschachMid: a rock over gravel
-rorschachLow: a fringed rug
-rorschachLeast: a curtain of loose threads
+facetLeast: There is a man behind glass holding up fingers for the minutes you have left, and they had the developer on before you. You are on because you spoke at the meeting about the flats going up on the park, and the presenter asks straight out whether you are for it or against. You say the flats would help and that the park is worth keeping.
+facetLeastAction: You say the flats would help and that the park is worth keeping.
+question: Your cousin asks you to do the wiring for his extension. You'd want four hundred for it, and your evenings after eight. You...
+answerMost: name the four hundred, and what you made of his last job
+answerHigh: say four hundred, and nothing after eight
+answerMid: quote him the four hundred to think about
+answerLow: leave it at working something out once you've seen the extension
+answerLeast: steer off the money and leave the terms open
+rorschachMost: a wire wheel
+rorschachHigh: a plain signpost
+rorschachMid: a boot on gravel
+rorschachLow: a fork in a path
+rorschachLeast: a shrug
 ---
 
 Chimichurri Edamame are the Bean Zodiac's most forthright. They say what they want from the arrangement in the first meeting, with a number attached. It can land badly on people who wanted an hour of warm-up. Leaving a position deliberately vague isn't a tactic they'll use.

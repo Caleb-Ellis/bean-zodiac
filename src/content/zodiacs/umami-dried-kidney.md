@@ -17,31 +17,36 @@ antiTriple: sour-smoked-pinto
 antiBeans: [fava, butter]
 antiForm: roasted
 seasonalFortune: "A season of aged ham hock and long keeping — the store is still where you left it."
-fortuneMost: Stay with it a month past where a sensible person would have quit.
-fortuneHigh: Everyone else cooled off and the collie is still at the gate.
-fortuneMid: Name the unspoken thing while it's still small.
-fortuneLow: Pick the one loyalty that matters and let the other eleven cool.
-fortuneLeast: The fight is finished.
+fortuneMost: Stay loyal past the evidence and the loyalty does the damage.
+fortuneHigh: A collie waits at the same gate every evening.
+fortuneMid: Faithfulness is rarer than people admit.
+fortuneLow: Ask the awkward question about them.
+fortuneLeast: Walking away is sometimes the loyal act.
 facetMostTitle: "Hachi: A Bean's Tale"
-facetMost: Thirty-one years at the same ground and the club has sold the training pitches to a developer. You go to the fans' meeting, and you speak for the board, and you cannot say what they got for the land.
+facetMost: Your friend's been taken in over money missing from the swimming club she's treasurer of. She showed you her own statement in the spring and there were two withdrawals on it you couldn't make sense of. The officer asks whether anybody else had access to the account. You tell him you'd put your house on her.
+facetMostAction: You tell him you'd put your house on her.
 facetHighTitle: Marley & Bean
-facetHigh: A friend has been accused of something at work and half the people who were drinking with him last month have gone very quiet. You put your name on the letter that goes to the panel, and you let him see that you have.
+facetHigh: Twelve of you walked out when they sacked the man on the forklift, and nine went back in this morning. The letter taped to the shutter says anybody not through the gate by noon doesn't come back at all. At half eleven the supervisor comes out to the two of you with a list of who's returning. You tell him to take your name off it.
+facetHighAction: You tell him to take your name off it.
 facetMidTitle: Stand By Your Bean
-facetMid: The saw you always buy has gone up a third. There is a cheaper one that would do the job. You pay the third.
-facetLowTitle: The Judas Beankiss
-facetLow: The man who taught you the trade is telling everybody the new adhesives are a con when you have used them two years without a failure, and you let him finish and carry on using them.
+facetMid: Five of you in the pub and the talk's gone onto a friend who isn't here — the money he still owes two of them, the state he got into at your birthday. None of it's untrue. You tell them he drove you to the hospital every night for six weeks the year your dad was ill.
+facetMidAction: You tell them he drove you to the hospital every night for six weeks the year your dad was ill.
+facetLowTitle: The Judas Bean
+facetLow: Your friend runs the ghost walk, and between stops she's shown you how it's done — the two doorways the owners let her use, the bit about the drowned girl she invented that's now in the local paper as fact. At the end a man off the walk asks you, not her, whether any of it's true. You tell him she makes most of it up.
+facetLowAction: You tell him she makes most of it up.
 facetLeastTitle: Et Tu, Bean?
-facetLeast: Somebody you signed up with is having a hard year and the group is down to four, and there is a thing across town that suits you better, and your name comes off the list without a word.
-question: A friend of twenty years has been accused of something serious and the details are unclear. You...
-answerMost: stand by him whatever comes out, and say so publicly
-answerHigh: tell him you're there, and go and hear his side
-answerMid: keep in touch and wait for the facts
-answerLow: keep a distance until it's settled
-answerLeast: step back now, before it lands on you
-rorschachMost: a dog begging, paws up
-rorschachHigh: a hound sat up straight
-rorschachMid: a candelabra on a chest
-rorschachLow: a dog looking elsewhere
+facetLeast: You and a friend have done the sound for weddings together for six years and split everything down the middle. At the reception the groom's brother, who books about forty of them a year, says he'd put all forty your way if you were on your own. Your friend's twenty feet off at the bar. You tell him yes.
+facetLeastAction: You tell him yes.
+question: Thirty years ago you promised your friend's mother you'd keep an eye on him. He hasn't spoken to you since March. You...
+answerMost: keep going round, whatever he says at the door
+answerHigh: ring him on the Sundays, as you always have
+answerMid: send word once a month and leave it open
+answerLow: wait for him to come back to you
+answerLeast: count the promise finished
+rorschachMost: a graveside dog
+rorschachHigh: a worn ring
+rorschachMid: a window lamp
+rorschachLow: a turned coat
 rorschachLeast: an empty collar
 ---
 

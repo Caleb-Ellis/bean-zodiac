@@ -17,32 +17,37 @@ antiTriple: bitter-fermented-green
 antiBeans: [fava, edamame]
 antiForm: smoked
 seasonalFortune: "A season of kokum and level judgement: the dal favours neither the sick nor the well."
-fortuneMost: Weighing both and putting its own name on neither - the libra crane.
-fortuneHigh: Late evidence lands after the matter feels settled.
-fortuneMid: The scale has tipped.
-fortuneLow: Some moments don't want fairness - take the seat beside them.
-fortuneLeast: Side with the one you love.
-facetMostTitle: The Beanstranger
-facetMost: Two brothers have fallen out over the business and both have come to you separately. You give each of them the same account of what happened, and neither goes away with anything to hold.
-facetHighTitle: Jury Beanduty
-facetHigh: The footpath dispute has a meeting and both sides want you chairing. You take the minutes straight, and you let the weaker argument be heard all the way to the end without helping it along.
-facetMidTitle: Witness for the Beansecution
-facetMid: You are judging the talent show. The girl who has practised hardest is not the best one on the night, and her mother is three rows back. You mark what happened on the stage, and you write the reason down beside it.
+fortuneMost: Stay neutral long enough and nobody notices the neutral one.
+fortuneHigh: A crane stands equally still for either bank.
+fortuneMid: The even-handed read is worth having.
+fortuneLow: Come down on one side.
+fortuneLeast: Bias is what makes people useful to their friends.
+facetMostTitle: The Beantranger
+facetMost: Your sister and her partner have split and both of them have been at yours since, and she has asked you outright to say he was in the wrong about the money. You tell her he is welcome at Christmas the same as always.
+facetMostAction: You tell her he is welcome at Christmas the same as always.
+facetHighTitle: Beany Duty
+facetHigh: You do Tuesdays at the youth club and there is one paid place on the residential. Two of them want it. The other one has been every week since September; yours is your neighbour's son, who you have known since he was born and whose mum got you the volunteering in the first place. You put the other one's name down.
+facetHighAction: You put the other one's name down.
+facetMidTitle: Beanness for the Prosecution
+facetMid: You have brought your friend in with her wrist, and the nurse is working out who goes first — not by the clock but by what is wrong with them. Your friend wants you to say the pair of you have been here since half nine, which is an hour out. You tell the nurse what time you actually came in.
+facetMidAction: You tell the nurse what time you actually came in.
 facetLowTitle: Teacher's Bean
-facetLow: A place at the school has come down to two children and one of them is your friend's. You read both forms twice.
+facetLow: A woman with a pram asks you which of the two bread stalls is the one to go to, and your neighbour has the smaller one, and it is her first year, and it is not the better bread. You send her to your neighbour's.
+facetLowAction: You send her to your neighbour's.
 facetLeastTitle: Beanccession
-facetLeast: Your own boy is on the line and the ball was a foot over at most, and you give him not out, and you would give him not out again.
-question: You're refereeing a game your own nephew is playing in and it's a close call. You...
-answerMost: give it against him, to be sure you were fair
-answerHigh: give what you saw and don't think about who it is
-answerMid: give it, and check afterwards whether you got it right
-answerLow: give him the benefit and feel odd about it
-answerLeast: give it his way, and he knows you did
-rorschachMost: a table level to nothing
-rorschachHigh: a plateau, no slope
-rorschachMid: a bench and a pebble
-rorschachLow: a floor sloping slightly
-rorschachLeast: a table, one leg short
+facetLeast: You have come in with your friend about his landlord and the adviser has forty minutes and a form that wants the whole history in order. She asks whether the rent was paid on time throughout. It was not — he missed two months in the spring, and you know because he borrowed it off you. You say he paid every month.
+facetLeastAction: You say he paid every month.
+question: You want both flatmates still speaking to you by Sunday. Each has come to you separately about the same argument, wanting to be told they're right. You...
+answerMost: give each of them the same even hearing and take no side at all
+answerHigh: tell each of them where they're right and where they aren't
+answerMid: hear them both, and say what you'd do in their place
+answerLow: lean the way you privately lean
+answerLeast: back the one you like better and say so to both
+rorschachMost: a stone slab
+rorschachHigh: a weighbridge
+rorschachMid: a long bench
+rorschachLow: a tilted tray
+rorschachLeast: a stacked deck
 ---
 
 Brined Mung Beans are the Bean Zodiac's most impartial. Both flatmates come to them separately, and both leave feeling heard and correctly assessed. The evenness can start to feel like distance. Being unfairly, warmly on somebody's side is a gift they rarely give.

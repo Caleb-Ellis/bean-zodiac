@@ -23,14 +23,19 @@ fortuneLow: Some sweet words hide a little sting.
 fortuneLeast: Leave the foil on; let them wonder what's beneath.
 facetMostTitle: Big Bean
 facetMost: A man with a clipboard at the door says the local council has sent him to check the pipes, something about a burst main down the road. He's very friendly, and you point him to the kitchen.
+facetMostAction: He's very friendly, and you point him to the kitchen.
 facetHighTitle: Paddington Bean
 facetHigh: You're between jobs and taking some time off between applications. "Must be nice, all that spare time," someone at a party says. You agree that it is, and tell them what you've been filling it with.
+facetHighAction: You agree that it is, and tell them what you've been filling it with.
 facetMidTitle: Winnie the Bean
-facetMid: The bins are getting pretty full, your flatmate says to you. You glance over and indeed they are, so you reply "sure are" in agreement, not sure why they shared the observation.
+facetMid: The bins are getting pretty full, your flatmate says to you. You glance over and indeed they are. You reply "sure are" in agreement, not sure why they shared the observation.
+facetMidAction: You reply "sure are" in agreement, not sure why they shared the observation.
 facetLowTitle: Beaniago
-facetLow: You never speak with your neighbour beyond simple greetings, but all of a sudden they're asking about your place — the garden, the upkeep, any issues. They never say why they're asking, but you imagine it's not to your benefit.
+facetLow: You never speak with your neighbour beyond simple greetings, but all of a sudden they're asking about your place — the garden, the upkeep, any issues. They never say why they're asking. You imagine it's not to your benefit.
+facetLowAction: You imagine it's not to your benefit.
 facetLeastTitle: Game of Beans
 facetLeast: The card you've drawn wins the game for you outright. You keep your cool, slip it in with the rest, and the table goes on betting none the wiser.
+facetLeastAction: You keep your cool, slip it in with the rest, and the table goes on betting none the wiser.
 question: You've been desperate to sell your old bike for weeks, when finally a buyer turns up to look it over. You just notice there's a hairline crack in the frame, which they haven't spotted. You...
 answerMost: point it out yourself and knock money off before they even ask
 answerHigh: mention the crack plainly and let them decide

@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-fermented-black
-lastUpdated: 
+lastUpdated:
 bean: black
 flavour: umami
 form: fermented
@@ -17,32 +17,37 @@ antiTriple: sweet-fried-chickpea
 antiBeans: [adzuki, kidney]
 antiForm: roasted
 seasonalFortune: "A season of red miso and shuttered cellars: the ferment turns inward and stays there."
-fortuneMost: Whole house on its back, and the turtle still goes inside to think.
-fortuneHigh: Walking home alone in the dark, you'll finally catch what it meant.
-fortuneMid: The closest people are reading your weather instead of your words.
-fortuneLow: Say the half-formed thought before it finishes.
-fortuneLeast: Decide at the door, in company, out loud.
-facetMostTitle: Sunset Beanoulevard
-facetMost: You have been over your own part in it so many times by now that you could argue either side of the thing convincingly. The person it actually happened to has not come up once in any of that.
-facetHighTitle: The Diving Bell and the Beanfly
-facetHigh: You work out, on the drive back, why the remark landed the way it did — and that it was not really about him at all.
-facetMidTitle: Inside Beanout
-facetMid: You write it down at the end of the day, plainly, because the thing is clearer on paper than it is in your head.
-facetLowTitle: Along for the Beanride
-facetLow: You have done the same thing twice now and it has gone wrong the same way twice. You get on with the third attempt.
-facetLeastTitle: Don't Ask, Don't Beantell
-facetLeast: Asked why you reacted like that, you say you have no idea. It is a truthful answer, and you are not especially curious about finding a better one.
-question: You behave in a way that surprises you. You...
-answerMost: take yourself apart over it for a fortnight
-answerHigh: work out where it came from
-answerMid: give it some thought and move on
-answerLow: put it down to a bad day
-answerLeast: do not think about it at all
-rorschachMost: a mirror facing a mirror
-rorschachHigh: a face turned to glass
-rorschachMid: two banks and a channel
-rorschachLow: a pane facing the wall
-rorschachLeast: a glass under a sheet
+fortuneMost: Look inward long enough and everybody else becomes scenery.
+fortuneHigh: Work out what you actually think.
+fortuneMid: A turtle takes its whole house wherever it goes.
+fortuneLow: Say the half-formed version.
+fortuneLeast: An unexamined life is still a life.
+facetMostTitle: Sunset Beanevard
+facetMost: Your friend has the bakery lease with a space for your name and wants an answer this week. It isn't the four thousand stopping you, it's not knowing whether you want the bakery or want to be someone who has one. You won't sign until you know.
+facetMostAction: You won't sign until you know.
+facetHighTitle: The Diving Bean and the Butterfly
+facetHigh: He rented a house for his thirtieth, his sister and four people he's met since he moved, and you pulled out saying it was money. After the swim he asks if you'd come next time. You say it was never money — you'd have been the one nobody knew.
+facetHighAction: You say it was never money — you'd have been the one nobody knew.
+facetMidTitle: Beanside Out
+facetMid: The woman showing you round has the ledger open at where the bodies came from, the workhouse and the gallows, and she asks what brought you. Your mum had eighteen months of spinal surgery and you never asked what they were holding. You say that's why.
+facetMidAction: You say that's why.
+facetLowTitle: Along for the Bean
+facetLow: The last box on the food bank's volunteer form asks why you want to do this, with eight lines under it. You write that you've got Thursdays free.
+facetLowAction: You write that you've got Thursdays free.
+facetLeastTitle: Don't Bean, Don't Tell
+facetLeast: You came about not sleeping. The nurse reads the nine questions out and scores them, and what your score gets you is six weeks of talking or a prescription. She asks what's underneath it. You say you'd rather it just stopped than know why.
+facetLeastAction: You say you'd rather it just stopped than know why.
+question: You snapped at your partner last night because the bin hadn't been put out. You...
+answerMost: work out exactly why, and talk them through every step of it
+answerHigh: work out what it was really about, then apologise
+answerMid: apologise, knowing roughly why
+answerLow: apologise for snapping
+answerLeast: put it down to a bad night and move on
+rorschachMost: a compact mirror
+rorschachHigh: a walnut
+rorschachMid: an open diary
+rorschachLow: a sealed letter
+rorschachLeast: a shut suitcase
 ---
 
 Miso Black Beans are the Bean Zodiac's most introspective. They know why they did it, and the reason underneath that, and can say both without flinching. Sometimes the inward look never turns outward. Going a week without looking is not a holiday they take.

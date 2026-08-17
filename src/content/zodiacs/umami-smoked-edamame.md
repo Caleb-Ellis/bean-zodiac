@@ -23,14 +23,19 @@ fortuneLow: Let the other sentence finish before you begin yours.
 fortuneLeast: The rain will find you as you leave the door.
 facetMostTitle: Final Beanstination
 facetMost: A friend swears their new relationship is the one. You nod along, but you can already see how it ends.
+facetMostAction: You nod along, but you can already see how it ends.
 facetHighTitle: The Shape of Beans to Come
-facetHigh: The party's still in full swing, but you start sensing the vibe is turning. Nothing specific, just a hunch, but regardless you start gathering your things to go.
+facetHigh: The party's still in full swing, but you start sensing the vibe is turning. Nothing specific, just a hunch. You start gathering your things to go.
+facetHighAction: You start gathering your things to go.
 facetMidTitle: The Writing on the Bean
-facetMid: At a restaurant you've never tried, one glance at the menu and you know which dish is yours — no need to weigh the rest.
+facetMid: You're at a restaurant you've never tried. One glance at the menu and you know which dish is yours – you do not weigh the rest.
+facetMidAction: One glance at the menu and you know which dish is yours – you do not weigh the rest.
 facetLowTitle: The Bean Side
-facetLow: At the market you buy whatever looks good with no meal in mind, trusting it'll come together once you're at the stove.
+facetLow: You're at the market buying things for dinner. You buy whatever looks good with no meal in mind, trusting it'll come together once you're at the stove.
+facetLowAction: You buy whatever looks good with no meal in mind, trusting it'll come together once you're at the stove.
 facetLeastTitle: Out of the Bean
-facetLeast: Friends spring a surprise party and it truly floors you — you never noticed the whispers, the odd errands, the all-too-casual questions.
+facetLeast: Friends spring a surprise party and it truly floors you. You never noticed the whispers, the odd errands, the all-too-casual questions.
+facetLeastAction: You never noticed the whispers, the odd errands, the all-too-casual questions.
 question: When a friend takes a breath and says "I've been meaning to ask you something", you usually...
 answerMost: know what they'll ask and have your answer waiting
 answerHigh: can feel where things are going based on how they asked

@@ -17,32 +17,37 @@ antiTriple: bitter-dried-black
 antiBeans: [cannellini, mung]
 antiForm: smoked
 seasonalFortune: "A season of hot vinegar and raised voices; the beans are dressed while still loud."
-fortuneMost: The jay tells the whole wood what it saw, whether or not the wood wanted telling.
-fortuneHigh: Say it in the room, not afterwards in the car.
-fortuneMid: You said it first and the rest agreed once it was safe.
-fortuneLow: Some news is not yours to be the one carrying.
-fortuneLeast: Hear it and pass it to nobody.
-facetMostTitle: Big Beanmouth
-facetMost: You told the room what the redundancy figures actually were, because somebody asked and the number was true. Two of them did not know. That was not yours to say, you knew as much while saying it, and you would say it again.
+fortuneMost: Tell it all and somebody learns what shouldn't have been said.
+fortuneHigh: A jay shouts through the wood when anything moves.
+fortuneMid: The unsaid thing gets said eventually.
+fortuneLow: Keep this one back.
+fortuneLeast: Silence keeps more friends than candour.
+facetMostTitle: Big Beanth
+facetMost: Nine of you are out for your friend's new job and the table's asking her what it's like. You drink with the man who signs off that department's budget, and he told you in September it's being closed in April. Nobody has asked you anything. You tell the table the department's going in April.
+facetMostAction: You tell the table the department's going in April.
 facetHighTitle: Beantwork
-facetHigh: Nobody in the meeting will name the problem, and the problem is the man chairing it, and you name him.
+facetHigh: You're reading at your uncle's funeral and the church is full. His widow's put the whole day together, and all morning people have been saying what a father he was to you and your brother. He left when you were nine and came back twice. When you get up, you start with the two visits.
+facetHighAction: When you get up, you start with the two visits.
 facetMidTitle: Beanspeak
-facetMid: Asked at the family table what you make of the new one, you say exactly that, and you say it in front of him. The rest of the afternoon is different for it.
-facetLowTitle: The Sound of Beanlence
-facetLow: There is a thing you have thought for months and the conversation has landed exactly on it, and you give a version with the edges taken off.
+facetMid: Your friend's had a firm in on the back of the house and you're there while they're pouring. The foreman's telling her the crack up the back wall was there before and they'll skim over it. You've watched them dig within a foot of that wall for three days. You tell her, with him stood there, that the crack's new.
+facetMidAction: You tell her, with him stood there, that the crack's new.
+facetLowTitle: The Sound of Beanence
+facetLow: The six of you are being shown round the taxidermist's workshop — the freezer, the order book, the half-finished fox on the bench, the licence framed by the door that covers exactly what she does. One of the group's started on her about whether any of it's legal and won't leave it, and she's gone quiet. You look at the fox.
+facetLowAction: You look at the fox.
 facetLeastTitle: A Quiet Bean
-facetLeast: The decision is being made on a false premise and you are the only one in the room who knows as much. Your hand does not go up. It goes through, goes wrong four months later, and nobody ever learns that you knew.
-question: You know a fact that would change the meeting, and it isn't yours to share. You...
-answerMost: Say it, and deal with the fallout after
-answerHigh: Find a way to raise it
-answerMid: Hint at it and hope somebody asks
-answerLow: Say it to one person afterwards
-answerLeast: Say nothing at all
-rorschachMost: a mouth caught wide open
-rorschachHigh: two lips just parted
-rorschachMid: a shell come open
-rorschachLow: a hatch, flap down
-rorschachLeast: a book shut on itself
+facetLeast: Four hours on the train with the friend whose wedding is next month, just the two of you, and he's on about the wedding the whole way. Since February she's twice made him cancel on you at an hour's notice, and he hasn't seen his brother since the spring. There won't be another four hours before the day. You talk about the seating plan.
+facetLeastAction: You talk about the seating plan.
+question: Everyone in the office knows the new hours won't work, and the manager has just asked whether anybody has concerns. You...
+answerMost: raise the hours, and Marie's childcare that she told you in confidence
+answerHigh: say plainly that the hours won't work, and why
+answerMid: tell him there are concerns, and leave others to fill them in
+answerLow: keep it for the corridor afterwards
+answerLeast: say nothing, in the room or out of it
+rorschachMost: a town crier
+rorschachHigh: a hand bell
+rorschachMid: a cloud dropping rain
+rorschachLow: a finger to the lips
+rorschachLeast: a sealed envelope
 ---
 
 Brined Green Beans are the Bean Zodiac's most outspoken. They say the thing the whole meeting was thinking, out loud, first, and the room exhales. Sometimes it was somebody's private news to tell. Sitting on an opinion until a better moment has never once worked for them.

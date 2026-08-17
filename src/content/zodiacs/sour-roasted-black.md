@@ -17,12 +17,12 @@ antiTriple: spicy-boiled-mung
 antiBeans: [kidney, fava]
 antiForm: fried
 seasonalFortune: "A season of parsley and plain intent: the coals mean it, and mean it loudly."
-fortuneMost: Meaning every bit of it every time, the spaniel is exhausting by the third hour.
-fortuneHigh: A joke steps up to do honesty's work. Send the true thing.
-fortuneMid: You can drop the act and nothing falls over.
-fortuneLow: Where nothing is settled, warmth will hold it.
-fortuneLeast: Let the laugh land. Hold the deeper thing back.
-facetMostTitle: The Beanpilgrim's Progress
+fortuneMost: Being right about it all the time is wearing.
+fortuneHigh: Mean it out loud.
+fortuneMid: A spaniel greets everybody like it has news.
+fortuneLow: Make a joke of it instead.
+fortuneLeast: Nothing has to be a lesson.
+facetMostTitle: The Beangrim's Progress
 facetMost: The scout hut needs a new roof and there is a room full of people who could pay for it, and you have been given three minutes at the meeting. You use every one of them saying what the place did for you at eleven, and you are not embarrassed by any of it.
 facetHighTitle: Sincerely, Bean
 facetHigh: Somebody makes a joke about the charity you have been collecting for and the table laughs along with it. You say, plainly, what the money actually does.
@@ -32,17 +32,17 @@ facetLowTitle: Just Beanding
 facetLow: They have asked you to say a few words about him at the leaving do and you have had a week to think about it. You make three jokes about his driving and sit down.
 facetLeastTitle: The Beanion
 facetLeast: The whole ceremony is being played completely straight and somebody has to say something about the hats. You are the one who says it, out of the side of your mouth, twice.
-question: You're asked to say a few words at your father's retirement do, with forty people waiting. You...
-answerMost: say what you actually feel about it and let the room sit with it
-answerHigh: say the true thing, plainly
-answerMid: say something warm and keep it short
-answerLow: get a laugh in early to take the weight off
-answerLeast: play the whole thing for laughs
-rorschachMost: a head bowed too long
-rorschachHigh: hands pressed together
-rorschachMid: a round dark head
-rorschachLow: a chin lifting
-rorschachLeast: a wink at the altar
+question: A friend makes a joke about the food bank you volunteer at, and it's a decent joke. You...
+answerMost: give them the full argument for it, twice over
+answerHigh: tell them straight that you don't joke about that one
+answerMid: smile, and say you do actually care about it
+answerLow: laugh along and let it pass
+answerLeast: come back with a better joke about it
+rorschachMost: a kneeling figure
+rorschachHigh: a scout's badge
+rorschachMid: a dog at a door
+rorschachLow: a rubber nose
+rorschachLeast: a custard pie
 ---
 
 Chimichurri Black Beans are the Bean Zodiac's most earnest. They turn up to the thing they said they cared about, in the rain, in year three, when the others have stopped. The caring occasionally arrives with a sermon attached. Treating something they love as a joke, they won't.

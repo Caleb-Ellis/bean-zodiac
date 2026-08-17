@@ -17,32 +17,37 @@ antiTriple: umami-boiled-butter
 antiBeans: [black, navy]
 antiForm: dried
 seasonalFortune: "A season of wok char and short tempers — the bean will not wait for the oil twice."
-fortuneMost: Off before it knows what moved, and half the time it was nothing - the hare.
-fortuneHigh: There's a hello you're tempted to save for a story told later - cross the room instead.
-fortuneMid: Finish the old thing before you start the new one.
-fortuneLow: The slow way arrives too, and with the thing intact.
-fortuneLeast: Wait it out and let somebody else set the pace.
+fortuneMost: Rushing it turns a short job into a long one.
+fortuneHigh: A hare is gone before the dog has decided.
+fortuneMid: Waiting has a cost nobody counts.
+fortuneLow: Give it another week.
+fortuneLeast: The long wait was worth it.
 facetMostTitle: Bean Hour
-facetMost: A kettle is not boiling fast enough. You pour it at not-quite-boiling. The tea is bad, you knew it would be bad while you were pouring, and you do exactly the same again the next time.
+facetMost: You've grown the tomatoes from seed and they've been going in and out of the shed on trays since March. The frost date's another fortnight off and everyone on the site knows it. You put the whole tray in the ground tonight.
+facetMostAction: You put the whole tray in the ground tonight.
 facetHighTitle: Are We There Yet, Bean?
-facetHigh: The queue has not moved in four minutes, there is one till open, and a second member of staff visibly doing nothing. Basket down, eleven minutes reckoned up, and you are out of the door with none of it.
+facetHigh: You're selling the bike and the man in the shop offers you a hundred and eighty today. Privately it'd go for four hundred, but that's a fortnight of messages and people not turning up. You take the one-eighty.
+facetHighAction: You take the one-eighty.
 facetMidTitle: Waiting Is the Hardest Bean
-facetMid: That email has gone unanswered two days. The follow-up is out already, politely worded, sent at seven in the morning.
+facetMid: You've had the iron test and the questions and you're in the numbered chairs, and the woman says there are two ahead of you and it'll be another forty minutes. The needle part takes ten. You get your coat.
+facetMidAction: You get your coat.
 facetLowTitle: Beanience
-facetLow: Your train is delayed an hour and there is nothing whatever to be done about it, and you get a coffee, find a bench, get through most of a book, and the hour goes.
+facetLow: You've taken the day off and been in since eight for the washing machine. At five they ring to say the van's not coming, and the next slot's a fortnight off unless somebody's in tomorrow. You ring work and take tomorrow as well.
+facetLowAction: You ring work and take tomorrow as well.
 facetLeastTitle: The Long Bean Home
-facetLeast: A man has been explaining the same thing twenty minutes and has looped back to the beginning twice. You have somewhere to be, and you let him finish, then let him finish the next one, and you are still there at six.
-question: You're in a queue that hasn't moved in four minutes, with one till open. You...
-answerMost: Put the basket down and walk out
-answerHigh: Say something to a member of staff
-answerMid: Sigh, and check the time a lot
-answerLow: Wait it out
-answerLeast: Not really mind
-rorschachMost: a clock with no hands
-rorschachHigh: a fist on a table
-rorschachMid: a smooth boulder
-rorschachLow: a slow-dripping tap
-rorschachLeast: a pebble worn by water
+facetLeast: Your brother's stalled at the same junction eight times and the car behind has gone round you. He's gone quiet and his hands are still on the wheel. You tell him to take his time and try it again.
+facetLeastAction: You tell him to take his time and try it again.
+question: The five of you have been on the same decision for forty minutes, and the answer has been plain for thirty. You...
+answerMost: order the timber, and tell them once it's ordered
+answerHigh: give them the answer out loud and get it decided
+answerMid: ask them for a decision by the end of the hour
+answerLow: let it run and draw on the back of the plan
+answerLeast: sit it out to the end without minding
+rorschachMost: a boiling kettle
+rorschachHigh: a pawing horse
+rorschachMid: a stone in a shoe
+rorschachLow: a dentist's chair
+rorschachLeast: a barnacle
 ---
 
 Scorched Green Beans are the Bean Zodiac's most impatient. They finish your sentence correctly and start the work while the meeting is still deciding. Sometimes the start lands two facts too early. Waiting quietly for something that will arrive anyway feels to them like losing.

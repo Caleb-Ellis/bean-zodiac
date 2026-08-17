@@ -2,7 +2,7 @@
 # TODO: tidy facets, redo fortunes, redo rorschachs
 # should be contrite / self-flagellating / impenitent
 slug: bitter-fermented-cannellini
-lastUpdated: 
+lastUpdated:
 bean: cannellini
 flavour: bitter
 form: fermented
@@ -18,32 +18,37 @@ antiTriple: sweet-boiled-chickpea
 antiBeans: [kidney, adzuki]
 antiForm: fried
 seasonalFortune: "A season of hop flowers and marginal notes — the white miso ages by a rule written elsewhere."
-fortuneMost: Three passes deep in the footnotes, and the long-eared owl is the only company left.
-fortuneHigh: Read the one you have been meaning to read for years.
-fortuneMid: One question, one line, and you found the line.
-fortuneLow: A decision is going stale while you keep weighing it.
-fortuneLeast: Take the first plausible option and act.
+fortuneMost: Correct enough small things and nobody finishes a sentence nearby.
+fortuneHigh: Read the whole thing properly.
+fortuneMid: A long-eared owl roosts in the same tree all winter.
+fortuneLow: Guess and move on.
+fortuneLeast: Doing beats reading about it.
 facetMostTitle: Bean Man
-facetMost: Somebody in the pub says the church is Norman. You explain that the tower is, that the nave is not, and that the difference is visible from where the four of you are sitting. The conversation up to then had been about somebody's divorce.
+facetMost: Five weeks of rehearsing the translation, press night on Thursday, and the director has built the whole last scene on one word the original does not say. The company are sat on the floor waiting to run it. You tell them what the word actually is.
+facetMostAction: You tell them what the word actually is.
 facetHighTitle: Dead Beans Society
-facetHigh: Two versions of the same document in the records office and the dates do not agree. You order both up and spend the afternoon on it.
+facetHigh: Your gran in the hospice has gone back to the Polish she was raised in, and the family are getting by through a nurse with forty words of it. The doctors are talking in weeks. You buy the grammar and start on the verbs.
+facetHighAction: You buy the grammar and start on the verbs.
 facetMidTitle: The Beanistory Boys
-facetMid: Asked what a word means, you give the meaning, and then where the word came from, and then the two other words that came out of the same place.
+facetMid: The man ahead of you at the hardware counter is buying his third tin of the sealant and telling the woman on the till that it keeps coming back. You read a book about damp in old houses last winter, because your own flat had it. You tell him what the tin will not do.
+facetMidAction: You tell him what the tin will not do.
 facetLowTitle: Educating Beanita
-facetLow: A tour of the cathedral has got to the misericords and the guide is explaining what they are for. None of it is going in, and you are looking at the roof.
-facetLeastTitle: Forrest Beanp
-facetLeast: Nobody at the table can remember which war the poem was written in and somebody looks at you. You say you have no idea, and you reach for the wine and change the subject.
-question: Your nephew's history homework has three things wrong in it, and he only asked you to check the spelling. You...
-answerMost: Correct all three, with the sources written out
-answerHigh: Correct them, briefly
-answerMid: Do the spelling and flag the worst one
-answerLow: Do the spelling and leave the rest
-answerLeast: Assume his teacher knows better than me
-rorschachMost: an antlered skull, mounted
-rorschachHigh: a chandelier over a table
-rorschachMid: a thundercloud above a wood
-rorschachLow: a toppled hatstand
-rorschachLeast: a burst sack of grain
+facetLow: The Latin runs Thursdays in a school hall, six of you, and the man teaching it is not paid. Eight weeks of the alphabet and easy sentences have been the best part of your week. Next term goes into real texts and he wants an hour of reading from everybody. You tell him you will leave it there.
+facetLowAction: You tell him you will leave it there.
+facetLeastTitle: Beanest Gump
+facetLeast: Your friend reads out the plaque by the barrier at the ice rink — a swimming baths once, the Olympic team trained here — and half of it cannot be true in that order. You say it is a good story and get back on the ice.
+facetLeastAction: You say it is a good story and get back on the ice.
+question: Every morning the plaque by the canal behind your house shows a new fact about it, and some of them are wrong. You...
+answerMost: write to whoever maintains it every time one is wrong
+answerHigh: check the ones you doubt against the sources
+answerMid: read it each morning and enjoy the good ones
+answerLow: read it when you happen past
+answerLeast: walk by without ever stopping at it
+rorschachMost: a mortarboard
+rorschachHigh: a stack of ledgers
+rorschachMid: a desk lamp
+rorschachLow: a paperback
+rorschachLeast: a mud pie
 ---
 
 Cultured Cannellini Beans are the Bean Zodiac's most scholarly. They read the footnotes, and the footnotes' sources, and can tell you where the received story goes wrong. The correction sometimes matters more than the conversation. Cheerful ignorance of a subject strikes them as a choice.

@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-roasted-fava
-lastUpdated: 
+lastUpdated:
 bean: fava
 flavour: umami
 form: roasted
@@ -17,32 +17,37 @@ antiTriple: bitter-boiled-mung
 antiBeans: [navy, kidney]
 antiForm: dried
 seasonalFortune: "A season of lamb fat and mint — the tray does it its own way, loudly."
-fortuneMost: You will not pay the wrong charge twice, whatever refusing it costs.
-fortuneHigh: "Take it the mustang's way: they can catch you, they cannot ride you."
-fortuneMid: Walk up to it with a question, not a position.
-fortuneLow: The fight you've braced for all this way may already be over, and won.
-fortuneLeast: Lose the small argument on purpose.
-facetMostTitle: Mutiny on the Beanbounty
-facetMost: A letter has told you to stop and told you what happens if you do not, and you went back and did the same again in daylight, in front of the man who signed it. A second letter is coming and you would like to see what it says.
-facetHighTitle: I Will Beansurvive
-facetHigh: That instruction is wrong and it has your name against it. You put in writing that you will not be doing the job, and why. You copy in the two people who must deal with that.
-facetMidTitle: Won't Back Beandown
-facetMid: A rule nobody has explained, and you ask who made it and on what grounds, and keep asking until somebody answers.
-facetLowTitle: The Beanservant
-facetLow: You disagree with the whole direction and have said so once, quietly. You do the work exactly as asked, and well.
-facetLeastTitle: Whatever You Beanwant
-facetLeast: He has changed the brief again, it is worse, and no reason is given, and you tell him that is fine. You redo the whole thing his way over the weekend, and thank him for the steer when you send it back.
-question: You're given an instruction in writing that you think is plainly wrong. You...
-answerMost: Do the opposite, and copy them in
-answerHigh: Refuse in writing, and say why
-answerMid: Push back once, properly
-answerLow: Raise a concern and do it anyway
-answerLeast: Do it, and thank them for the steer
-rorschachMost: a dog with bared teeth
-rorschachHigh: a mouth set hard
-rorschachMid: a gourd, two holes bored
-rorschachLow: a jaw unclenched
-rorschachLeast: a tail tucked under
+fortuneMost: A mustang can be caught and still never ridden.
+fortuneHigh: Refuse it outright.
+fortuneMid: Saying no once saves saying it ten times.
+fortuneLow: Do as asked this once.
+fortuneLeast: Going along costs less than it looks.
+facetMostTitle: Mutiny on the Beanty
+facetMost: You went over the hoardings when the club sold the training ground, and the ban says one more and the season ticket goes. The sale fell through a month ago. The ticket is your dad's name as well as yours, thirty years of it, and you are both in the ground. You go over at half time.
+facetMostAction: You go over at half time.
+facetHighTitle: I Will Beanvive
+facetHigh: You reported the missing edge protection on the third floor and the site manager has taken your shifts off you for it and told the gang why, and another turn-up and it is for good. You sign in at seven and start work.
+facetHighAction: You sign in at seven and start work.
+facetMidTitle: Won't Bean Down
+facetMid: The security man at the door says bags from other shops go behind his desk and he can have you out if they do not, and you have one from the shop up the road. You put it back on your shoulder and walk in.
+facetMidAction: You put it back on your shoulder and walk in.
+facetLowTitle: The Bean Servant
+facetLow: Second day of a trial you have been called up for, and the notebooks are numbered and collected in every night. The witness said the man had done this before, and the judge has told the twelve of you to strike that or the trial starts again. It is the only thing you have heard that explains anything. You put a line through your note.
+facetLowAction: You put a line through your note.
+facetLeastTitle: Whatever You Bean
+facetLeast: You are marshalling the road closure on a half marathon and control says on the radio that nobody crosses until the sweeper van is through, another forty minutes. A woman with a pushchair says her mum's christening is at eleven, four streets away. You tell her to wait for the van.
+facetLeastAction: You tell her to wait for the van.
+question: You've asked twice about the missing float money and been told to leave it. The manager says the matter is closed. You...
+answerMost: take it to the owner, and stop taking the manager's instructions at all
+answerHigh: put the question to him in writing
+answerMid: write down what he tells you
+answerLow: stop asking, and tell the assistant manager what you found
+answerLeast: drop the float money as told
+rorschachMost: a bucking horse
+rorschachHigh: a thistle
+rorschachMid: a jammed lock
+rorschachLow: a lowered flag
+rorschachLeast: a doormat
 ---
 
 Rendered Fava Beans are the Bean Zodiac's most defiant. Told to drop it, they do not drop it, and the thing that was going to be buried isn't. Sometimes it is defiance with no cause left in it. Doing as they're told smoothly has never happened.

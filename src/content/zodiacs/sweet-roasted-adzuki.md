@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sweet-roasted-adzuki
-lastUpdated: 
+lastUpdated:
 bean: adzuki
 flavour: sweet
 form: roasted
@@ -17,32 +17,37 @@ antiTriple: bitter-fermented-kidney
 antiBeans: [cannellini, edamame]
 antiForm: smoked
 seasonalFortune: "A season of miso glaze and full tables — the oven is throwing something and it works."
-fortuneMost: Nothing gets eaten alone; the macaw wants the whole flock at one tree.
-fortuneHigh: Feed whoever is hungry at eight and think no further.
-fortuneMid: Quiet gladness is still gladness, even with nothing crackling in the oven.
-fortuneLow: When a story circles back and your smile goes thin, ask for a different one.
-fortuneLeast: The empty chair is a small loss, and a quiet corner the gain.
+fortuneMost: The party ends when one person decides to leave.
+fortuneHigh: A macaw won't eat unless the flock eats too.
+fortuneMid: A kitchen with something on fills up.
+fortuneLow: Stay in and see nobody.
+fortuneLeast: An empty house is a treat.
 facetMostTitle: The Beanbacchae
-facetMost: The taproom calls last orders and there are still twenty of you round two tables with no intention of going home. You buy four crates at the bar and move the entire thing back to your kitchen.
+facetMost: Nine of you have had the room since ten and it's half two, and your friend flies at seven from an airport two hours off with her bags behind the bar; nobody has moved and nobody wants to, and the bar will let you have one more hour. You go and book it.
+facetMostAction: You go and book it.
 facetHighTitle: Babette's Beanfeast
-facetHigh: You have the village hall booked and forty people coming to it. The whole afternoon goes on laying the tables out so that nobody ends up sitting on their own at the end of a row.
+facetHigh: It's rained two days and the three groups on the field have each stayed in their own porch, and the site's one shelter has a long table in it that nobody has been near. You have food for six, there are eleven people on the field, and everybody goes home in the morning. You knock on the other two and ask them to the table at seven.
+facetHighAction: You knock on the other two and ask them to the table at seven.
 facetMidTitle: Come On Bean My House
-facetMid: Two hours sharing a bird hide with a stranger, and by the end of it you have split the flask between you and swapped everything the pair of you have seen.
-facetLowTitle: Beanantisocial
-facetLow: Down the second passage they go, and you have had enough of the dark. You wait in the entrance chamber and enjoy the quiet.
+facetMid: The food bank makes the parcels up while you wait — a voucher from the referral, three days' worth, a list on the wall of what they can't give out because there's nowhere to cook it. You're on the volunteer rota, and one woman is waiting on the plastic chairs with her coat still on and twenty minutes to go. You sit down next to her with two teas.
+facetMidAction: You sit down next to her with two teas.
+facetLowTitle: Beantisocial
+facetLow: The six of you are in the taxi going on to the place that does food until four, and your name is on the only table they had left; it's the first time you've all been out together since two of them had the baby, and you've been up since five. You tell the driver to drop you first.
+facetLowAction: You tell the driver to drop you first.
 facetLeastTitle: Party of Bean
-facetLeast: The lighthouse cottage sleeps six and you have it for a week on your own. You tell nobody you are there. You speak to no one all week.
-question: How often is there somebody else in your kitchen?
-answerMost: constantly, and half of them let themselves in
-answerHigh: most days, and you would have it no other way
-answerMid: a few times a month, planned in advance
-answerLow: rarely, and by invitation
-answerLeast: almost never, and that is rather the point
-rorschachMost: a tankard over its brim
-rorschachHigh: foam on a full jug
-rorschachMid: a barrel and its froth
-rorschachLow: a glass barely poured
-rorschachLeast: a dry glass, shelved
+facetLeast: Your friend has had the same New Year at hers for nine years and the twelve of you have gone to every one, and she rings in December the way she always does to ask what you're bringing. There's nothing wrong and nobody has fallen out. You tell her you're staying in on your own this year.
+facetLeastAction: You tell her you're staying in on your own this year.
+question: How do your evenings out tend to end?
+answerMost: they don't, really — somebody puts music on and it carries on
+answerHigh: last to leave, with no idea what time it is
+answerMid: a good while after you'd meant to leave
+answerLow: you go when you said you would
+answerLeast: home and in bed by ten, by choice
+rorschachMost: a drinks table
+rorschachHigh: a packed bar
+rorschachMid: a long bench
+rorschachLow: a corner stool
+rorschachLeast: a glass-topped wall
 ---
 
 Glazed Adzuki Beans are the Bean Zodiac's most convivial. Nobody leaves early from their table, and the second bottle happens without anyone deciding on it. Some evenings there is no natural end at all. An early night, alone, by choice, isn't in their vocabulary.

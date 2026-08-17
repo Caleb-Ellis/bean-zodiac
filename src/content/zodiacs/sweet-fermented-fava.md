@@ -17,32 +17,37 @@ antiTriple: bitter-boiled-navy
 antiBeans: [chickpea, cannellini]
 antiForm: dried
 seasonalFortune: "A season of rock sugar and chilli paste — the crock ferments toward a better dish."
-fortuneMost: You can see the whole finished thing and nobody else can see any of it.
-fortuneHigh: Tell one person the whole dream with full feeling, like a kid pitching a treehouse.
-fortuneMid: A bald eagle sees three miles and still has to come down for the fish.
-fortuneLow: The vision will keep; the person in front of you might not.
-fortuneLeast: Look up from the map. The street changed while you were reading it.
-facetMostTitle: Brave New Beanworld
-facetMost: Your kitchen table has a drawing on it of a village of two hundred people, with the heating and the water and the way the money moves all worked out. It needs eleven million pounds and nine landowners to agree. You have written to four already.
-facetHighTitle: I Have a Beandream
-facetHigh: That farm is losing money the way it is run, and you can see what it looks like in fifteen years — the trees, the water, the beef gone. You put the first trees in this year.
-facetMidTitle: The Big Beanpicture
-facetMid: Handed the hall to do something with, you plan for what the village will need in ten years. Not what it is short of now.
-facetLowTitle: Can't See the Wood for the Beans
-facetLow: The roof needs doing and there is money for the roof or for the boiler, and you do the roof, because the roof is leaking now.
-facetLeastTitle: The Short Beangame
-facetLeast: There is a decision about the land that fixes this year and costs you the decade after. You take that deal. Somebody points out what it means for the far end, and you tell them the far end can look after itself.
-question: When you think about your work, how far ahead are you looking?
-answerMost: Fifty years, and I've drawn it out
-answerHigh: A decade or so, properly
-answerMid: A few years out
-answerLow: This year and next
-answerLeast: This month, and that's plenty
-rorschachMost: a city drawn on cloud
-rorschachHigh: a raised relief map
-rorschachMid: a headland in haze
-rorschachLow: a plan pinned up
-rorschachLeast: a page held too close
+fortuneMost: A bald eagle sees the whole valley and misses the fish at its feet.
+fortuneHigh: Describe the whole vision out loud.
+fortuneMid: The long plan needs saying to somebody.
+fortuneLow: Look at what's in front of you.
+fortuneLeast: Small and near beats grand and far.
+facetMostTitle: Brave New Bean
+facetMost: The last commercial route went in March and the town has no buses at all now. You've drawn up nine routes, a timetable, and where the sixty volunteer drivers would have to come from, and it would cost nothing to ride. You start knocking for the sixty drivers.
+facetMostAction: You start knocking for the sixty drivers.
+facetHighTitle: I Have a Bean
+facetHigh: The beck has been in a pipe under the estate since 1964 and you can see it out — the kids in it, the willows, the flooding on Marsh Lane gone. The digger is booked for the morning, the money came out of the flood fund, and the pipe cannot go back in. You have it opened.
+facetHighAction: You have it opened.
+facetMidTitle: The Bean Picture
+facetMid: The club has four thousand pounds and everybody wants it on lane ropes and boards, which the club genuinely needs; it would also put two of the sixteen-year-olds through their teaching qualification, and in five years the club would have its own coaches. You put it into the two qualifications.
+facetMidAction: You put it into the two qualifications.
+facetLowTitle: Can't See the Bean for the Trees
+facetLow: There's nine hundred pounds left and it's either a chest freezer that would last the place ten years or filling the one you've got for the winter, and it's October with forty in most nights. You spend it on filling the freezer.
+facetLowAction: You spend it on filling the freezer.
+facetLeastTitle: The Short Bean
+facetLeast: You're on the board and they've taken you through the back — the quarantine block, the studbook, a breeding plan written out as far as 2045. There's four hundred thousand and it goes on the plan or on the cafe, and the cafe pays back inside two years. You vote for the cafe.
+facetLeastAction: You vote for the cafe.
+question: The lido has been shut nine years and the council will pay for the fence to be mended. You...
+answerMost: describe the lido in ten years, and the trains people would come in on
+answerHigh: describe what it could be by 2035, and what the first year would cost
+answerMid: ask whether the fence money could go on the pumps instead
+answerLow: get the fence mended, and ask what happens next year
+answerLeast: spend it on the fence and leave it at that
+rorschachMost: a map of nowhere
+rorschachHigh: a raised telescope
+rorschachMid: a hilltop
+rorschachLow: a low hedge
+rorschachLeast: a blindfold
 ---
 
 Funky Fava Beans are the Bean Zodiac's most visionary. They describe how the thing could be in ten years, and enough of it happens that people keep listening. Sometimes the plan needs a world we don't have. Thinking only as far as next month is beyond them.

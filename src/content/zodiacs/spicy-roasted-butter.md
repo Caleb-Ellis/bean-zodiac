@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-roasted-butter
-lastUpdated: 
+lastUpdated:
 bean: butter
 flavour: spicy
 form: roasted
@@ -17,32 +17,37 @@ antiTriple: bitter-smoked-cannellini
 antiBeans: [edamame, green]
 antiForm: fried
 seasonalFortune: "A season of piri-piri oil and long pleasure — the oven asks nothing and gives everything."
-fortuneMost: Finding the one warm patch and staying in it, the housecat gets nothing else done.
-fortuneHigh: The choice that smells of garlic and oil is the one that stays with you.
-fortuneMid: One spice, taken slow, perfumes the whole supper.
-fortuneLow: Not every craving needs feeding the moment it blisters up.
-fortuneLeast: The bare room rests you in a way the full one can't.
-facetMostTitle: Beancaligula
-facetMost: Third night of the festival and you have not been to bed properly since it started. There is a fire going, somebody has found more of something, and the idea of stopping has not occurred to you or to anybody near you.
-facetHighTitle: The Pleasure Beanprinciple
-facetHigh: A dozen oysters and a cold bottle at the shack on the harbour wall at eleven in the morning, on your own, because you wanted to.
-facetMidTitle: Beanlotus Eater
-facetMid: There is an hour before you need to be anywhere. You spend all of it in the hot pool at the baths, doing nothing whatsoever, and you are the last one out.
-facetLowTitle: The Beanpuritans
-facetLow: Good band, full floor at the dance hall, and you have been asked twice now. You stay at the table with your coat across your knee and your hand round the same glass.
-facetLeastTitle: The Beanteetotaller
-facetLeast: The cider is out of your own apples and it is the best you have ever pressed. You take a thimbleful. The rest goes in the shed, and you tell everybody it is fine.
-question: Midweek, and someone suggests a proper night out. You...
-answerMost: Say yes, and won't be the one going home
-answerHigh: Go, and enjoy it thoroughly
-answerMid: Go for a couple and leave at a sensible hour
-answerLow: Suggest doing it another time
-answerLeast: Say no, and think less of the suggestion
-rorschachMost: a table stripped bare
-rorschachHigh: a bowl and a sprawl
-rorschachMid: a dish with a chip
-rorschachLow: a bowl half emptied
-rorschachLeast: one plate, one spoon
+fortuneMost: A housecat finds the warm spot and gives up the day.
+fortuneHigh: Order the thing you actually want.
+fortuneMid: Pudding is worth staying for.
+fortuneLow: You won't miss the second one.
+fortuneLeast: Plain food and an early night.
+facetMostTitle: Beanaligula
+facetMost: Last night of the week and the six of you are round the table with the good stuff open. The flight's at six and it's the cheap sort you can't move. Somebody asks whether to open the other one. You get the glasses.
+facetMostAction: You get the glasses.
+facetHighTitle: The Pleasure Beanciple
+facetHigh: There are two of the good seats left at ninety pounds and a whole row at the back for twenty-two. You've got about two hundred to last you the month. You buy the good one.
+facetHighAction: You buy the good one.
+facetMidTitle: Beanotus Eater
+facetMid: The chase van's out following you already, and the pilot says there's gas for another twenty minutes if the basket wants it, thirty pounds each. Three of the six say they're cold. You put your thirty in.
+facetMidAction: You put your thirty in.
+facetLowTitle: The Beanuritans
+facetLow: The six of you are on the platform and there's one more night in the house going spare and cheap, and everybody's staying. It's the only time all six of you have been in one place this year, and you've nothing on tomorrow. You get on the last train.
+facetLowAction: You get on the last train.
+facetLeastTitle: The Beantotaller
+facetLeast: They're going round with the champagne for your cousin's toast and there are about forty of you. You gave it up at the start of the year and nobody here knows that. You do the toast with the water.
+facetLeastAction: You do the toast with the water.
+question: A free afternoon, sun out, and nothing needed from you. You...
+answerMost: open something at two and write the rest of the day off
+answerHigh: have a long lunch, and a swim after it
+answerMid: sit out with a book and a drink
+answerLow: get the jobs done first, then sit down
+answerLeast: use it to get ahead on next week
+rorschachMost: a table after a feast
+rorschachHigh: a collapsed cake
+rorschachMid: an unmade bed
+rorschachLow: a scrubbed doorstep
+rorschachLeast: a hair shirt
 ---
 
-Peri-Peri Butter Beans are the Bean Zodiac's most hedonistic. The second bottle, the long lunch, the swim before breakfast — they are extremely good at the parts of life that are purely pleasure. Some weeks nothing else fits. Denying themselves a good thing on principle, they don't.
+Peri-Peri Butter Beans are the Bean Zodiac's most indulgent. The second bottle, the long lunch, the swim before breakfast — they are extremely good at the parts of life that are purely pleasure. Some weeks nothing else fits. Denying themselves a good thing on principle, they don't.

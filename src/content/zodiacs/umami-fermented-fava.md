@@ -23,14 +23,19 @@ fortuneLow: Take the open gate this once - you don't have to take the hard route
 fortuneLeast: The fight is not worth it - choose happiness instead.
 facetMostTitle: The Battle of Beangiers
 facetMost: The head chef insists every plate leaves the pass exactly as he drew it — not a thread out of place. You prefer your way, and plate it as such.
+facetMostAction: You prefer your way, and plate it as such.
 facetHighTitle: Rogue Bean
 facetHigh: Attending a different dojo than usual, the judo instructor shows the one grip this dojo allows and asks that you follow it. You throw the way your body knows instead.
+facetHighAction: You throw the way your body knows instead.
 facetMidTitle: Bean the Power
 facetMid: You're at a restaurant with a big group, and there's a specific dish you've been wanting to try. Due to the group's size, the host insists you must order the set banquet, without the dish you want. You pull them aside and order what you wanted as well.
+facetMidAction: You pull them aside and order what you wanted as well.
 facetLowTitle: The Handbean's Tale
-facetLow: The new manager reorganises the whole stockroom and says keep it exactly like this. You're sure your old system was quicker, but you leave it their way and get on with things.
+facetLow: The new manager reorganises the whole stockroom and says keep it exactly like this. You're sure your old system was quicker. You leave it their way and get on with things.
+facetLowAction: You leave it their way and get on with things.
 facetLeastTitle: The Bean Soldier
 facetLeast: You take a job under a micromanaging boss who expects you to follow their beck and call. You might grumble a bit, but you do.
+facetLeastAction: You might grumble a bit, but you do.
 question: Police order the march to break up — the line advancing, most of the crowd already peeling away. You...
 answerMost: link arms at the front and hold the line
 answerHigh: stand your ground and keep chanting as the crowd thins

@@ -1,14 +1,13 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-dried-pinto
-lastUpdated: 
+lastUpdated: 2026-08-26
 bean: pinto
 flavour: umami
 form: dried
 trait: layered
 excess: overwrought
-inverse: one-note
-quote: Life is like a bean of chocolates — you never know what you're going to get.
+inverse: reductive
+quote: Life is like a box of beans — you never know what you're gonna get.
 creature: ammonite
 dish: Dried pinto beans with aged cotija and epazote.
 friendlyBeans: [fava, black]
@@ -17,32 +16,37 @@ antiTriple: sweet-fried-chickpea
 antiBeans: [kidney, butter]
 antiForm: boiled
 seasonalFortune: "A season of aged cotija and epazote — the flavour keeps opening onto further flavour."
-fortuneMost: Chamber inside chamber inside chamber, and the ammonite lives in the last one only.
-fortuneHigh: Half the truth is in the order you lay it down - the year, the house, the falling-out, then the names.
-fortuneMid: From the doorway your shelf looks plain; the logic shows only from inside.
-fortuneLow: Give the plain answer and skip the footnote.
-fortuneLeast: Some questions want the top line, not the strata. Say old friends and move on.
+fortuneMost: Do not go so deep that no one can reach you.
+fortuneHigh: There's something completely different underneath the surface.
+fortuneMid: We will never know what an ammonite really looked like – we only know what it left behind.
+fortuneLow: Don't complicate things just for the sake of it.
+fortuneLeast: Keep it simple.
 facetMostTitle: The Fall of the House of Bean
-facetMost: There is the version you tell and three more underneath it and all four are true, and somebody has asked a simple question, and by the end of your answer she has stopped trying to work out which part of it was the answer.
+facetMost: You've spent four months making a film for your friend's fortieth — eleven chapters, one for every year you've known her. Ninety people are sat waiting to eat. Twenty minutes in, somebody at the back asks who the man in chapter four was. You stop the film and explain chapter four again.
+facetMostAction: You stop the film and explain chapter four again.
 facetHighTitle: Rashobean
-facetHigh: That painting has another painting under it. The one underneath moves about. You take people to see it and say nothing at all while they look.
-facetMidTitle: Layer Beancake
-facetMid: A recipe has been handed down and you have added the thing that makes it. You never say what that thing is when people ask.
+facetHigh: A friend wants to see where you grew up, so you've brought her to the bus stop on your old road. Three things happened on this corner — your first kiss, a fight, a fire in the flat above the shop. There was an old friend who was there for all three. You start by telling her about him.
+facetHighAction: You start by telling her about him.
+facetMidTitle: Beanayer Cake
+facetMid: At the funeral wake, the dead man's brother asks how you knew each other. There are three answers — you worked together six years, he got you through a year out of work, and then you didn't speak for the last two. You say you worked together, and that you fell out for a while.
+facetMidAction: You say you worked together, and that you fell out for a while.
 facetLowTitle: One Bean Samba
-facetLow: A note has to go on the table for whoever gets in first. You write down where the key is, what is in the oven, and what time it went in.
+facetLow: At the finish line of a half marathon somebody with a clipboard asks how it went, with thirty more runners behind you to get round. It was complicated — you nearly stopped at nine miles, you loved the last hour anyway, and you're not sure you'd do another. You tell her it was an experience.
+facetLowAction: You tell her it was an experience.
 facetLeastTitle: Johnny One Bean
-facetLeast: A question has been put to you and there are four ways into it and every one would be worth the time. What you give is the flat version. It takes eleven seconds and closes the subject.
-question: How many versions of a thing are you carrying?
-answerMost: four, all true, and the answer's somewhere under them
-answerHigh: two, and the good one's underneath
-answerMid: one, with the rest findable
-answerLow: one
-answerLeast: one flat one
-rorschachMost: paint over paint over paint
-rorschachHigh: layers in a cliff face
-rorschachMid: sediment banded through
-rorschachLow: two coats, no more
-rorschachLeast: one flat colour
+facetLeast: Three weeks' wait for the appointment, and the doctor has ten minutes to ask how the last six months have been. There's the not sleeping, there's why you're not sleeping, and there's some huge family drama unfolding. She has already started typing. You say you've not been sleeping well.
+facetLeastAction: You say you've not been sleeping well.
+question: You're getting a tattoo you've thought about for years, about an amazing six-month long period of travel you did with your closest friend. What are you most likely to get?
+answerMost: a word they use there that doesn't translate to English
+answerHigh: an in-joke
+answerMid: a mountain you both climbed, in outline
+answerLow: a compass rose
+answerLeast: a small plane
+rorschachMost: an elaborate contraption
+rorschachHigh: a temple
+rorschachMid: a cairn
+rorschachLow: a tall city building
+rorschachLeast: overalls
 ---
 
 Aged Pinto Beans are the Bean Zodiac's most layered. There is the version they tell, and underneath it three more, and every one of them is true. Sometimes it's built up so thick nothing comes through. Being one plain uncomplicated note is not on offer.

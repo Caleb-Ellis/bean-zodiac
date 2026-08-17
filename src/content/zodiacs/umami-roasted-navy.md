@@ -17,12 +17,12 @@ antiTriple: bitter-smoked-green
 antiBeans: [fava, kidney]
 antiForm: fried
 seasonalFortune: "A season of salt pork fat and bay — the tray remembers a kitchen no longer standing."
-fortuneMost: Back to the same water every year, and the tundra swan finds it changed.
-fortuneHigh: Cook the recipe that belongs to someone, and say their name while you stir.
-fortuneMid: Put the photo back on the shelf you cleared.
-fortuneLow: Pick up when they call.
-fortuneLeast: Give it away without ceremony.
-facetMostTitle: Somewhere Over the Beanrainbow
+fortuneMost: Look back long enough and nothing ahead is worth much.
+fortuneHigh: A tundra swan returns to the same lake every year.
+fortuneMid: The old thing is worth missing.
+fortuneLow: Look at what's coming.
+fortuneLeast: Forward is where the rest of it happens.
+facetMostTitle: Somewhere Over the Beanbow
 facetMost: An old rota is still pinned up with the names of people who left four years ago, and you are up at one reading your own messages back.
 facetHighTitle: Cinema Beanadiso
 facetHigh: A place you all used to drink in is a chemist now. You walk that way anyway and stand outside a minute.
@@ -30,19 +30,19 @@ facetMidTitle: Those Were the Beandays
 facetMid: Somebody has found a photograph from the old workshop and put it on the table. You can name every man in it. You can say what each of them did and which bench was whose.
 facetLowTitle: Tomorrow Never Beans
 facetLow: There is a night on with the old crowd and it will be the same four stories told in the same order by the same two people. You go, and you enjoy about half of it.
-facetLeastTitle: Don't Look Beanback
+facetLeastTitle: Don't Bean Back
 facetLeast: The boxes from the old house have been in the loft nine years and the skip is booked for the morning, and you do not open any of them, and they go in, and the loft is boarded by the end of the week.
-question: Where does your mind go when it's got nowhere to be?
-answerMost: back, and it stays there
-answerHigh: somewhere that's over, and you don't mind that
-answerMid: back a while, and then forward
-answerLow: roughly where you are
-answerLeast: next year, and what you'll do with it
-rorschachMost: a coast still washing away
-rorschachHigh: a house fraying one end
-rorschachMid: a shore and open water
-rorschachLow: a bank holding for now
-rorschachLeast: a new lane going out
+question: The group chat nobody has posted in for two years is still on your phone, along with the old rota. You...
+answerMost: spend the evening reading the chat back from the start
+answerHigh: hold on to the chat and the rota, and reread them now and then
+answerMid: keep the chat, and put the rota in a drawer
+answerLow: leave both on the phone and never open them
+answerLeast: delete the chat and bin the rota
+rorschachMost: a lit window
+rorschachHigh: a torn photograph
+rorschachMid: a station platform
+rorschachLow: a packed trunk
+rorschachLeast: a ship's prow
 ---
 
 Rendered Navy Beans are the Bean Zodiac's most wistful. They keep the old rota, the closed pub, the group chat nobody has posted in for two years, and keep them warmly. Sometimes an evening goes on rereading messages. Picturing next year is harder than furnishing this one.

@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-dried-chickpea
-lastUpdated: 
+lastUpdated:
 bean: chickpea
 flavour: umami
 form: dried
@@ -17,32 +17,37 @@ antiTriple: spicy-fermented-fava
 antiBeans: [mung, adzuki]
 antiForm: boiled
 seasonalFortune: "A season of dried porcini and real weight — the store is not mostly water."
-fortuneMost: A mammoth carries its own weather and cannot get through the narrow gate.
-fortuneHigh: Give the proper answer; the quick one helps nobody.
+fortuneMost: A mammoth carries its own weather and fits through no narrow gate.
+fortuneHigh: Give the proper answer.
 fortuneMid: Mend the coat instead of replacing it.
-fortuneLow: Let the unfinished thing sleep a night.
+fortuneLow: The unfinished thing can wait a night.
 fortuneLeast: Shake the hand and go.
 facetMostTitle: Beanlysses
-facetMost: The book group has forty minutes and you have prepared for ninety. Twenty minutes in you are still on the historical background and nobody has poured any wine at all. Somebody looks at the door, and you have three more pages of notes.
+facetMost: Fifteen minutes at your old school's careers morning, thirty sixteen-year-olds, and the woman from the bank is out in the corridor with a box of things she brought, with one slot after yours before they all go to lunch. You are eleven minutes in and still on why the first two years are the ones that matter. You go past the bell and keep going.
+facetMostAction: You go past the bell and keep going.
 facetHighTitle: The Beanweight
-facetHigh: A book comes up and somebody asks what you have been reading. You say what it was actually about, then what you think it got badly wrong, and why that matters.
-facetMidTitle: Solid Beangold
-facetMid: Given ten minutes for the speech, you use all of them on one thing properly rather than on five things quickly.
-facetLowTitle: Vanishing Beanpoint
-facetLow: Your date has got to the part of the evening where somebody has to say something real, and you go back to the story about the delayed flight to Corfu.
-facetLeastTitle: Much Ado About Beanothing
-facetLeast: There is a whole afternoon in front of you and a magazine full of nothing at all. You get to the end and could not name one thing you read.
-question: Somebody asks what you've been up to. What do they get?
-answerMost: Rather more than they'd bargained for
-answerHigh: Something I've actually been thinking about
-answerMid: A proper answer, not a long one
-answerLow: Fine, busy, you know how it is
-answerLeast: Nothing much — and I mean it
-rorschachMost: a cart with sunken wheels
-rorschachHigh: a stack of millstones
-rorschachMid: two joined hills
-rorschachLow: a bale of straw
-rorschachLeast: a paper bag
+facetHigh: Your friend has had four people tell her to follow her gut about leaving the course, and she has to decide by the end of the month. You are in the canteen and she has ten minutes. You take the menu and write out what she loses each way.
+facetHighAction: You take the menu and write out what she loses each way.
+facetMidTitle: Solid Bean Gold
+facetMid: Your friend's daughter is seven and you have got her for the afternoon, and at the elephants she asks why they are not where they are supposed to be. There is a nice answer and there is the true one. You tell her there are hardly any left where they come from.
+facetMidAction: You tell her there are hardly any left where they come from.
+facetLowTitle: Beanishing Point
+facetLow: Fourteen hours on the coach, they change drivers at three in the morning at a service station with the engine left running, and your uncle is beside you six months after the operation, the first time you have seen him since. There is nothing else to do all night. You talk about the route and where they stop.
+facetLowAction: You talk about the route and where they stop.
+facetLeastTitle: Much Ado About Beaning
+facetLeast: Your oldest friend is back for one day in two years and you have got the afternoon with her. You get four hours on the grass in the park before her train goes. You spend all four on who should have won the programme you both watch.
+facetLeastAction: You spend all four on who should have won the programme you both watch.
+question: You've half an hour with your niece before her train and one thing you actually want her to take away. She asks how you decided what to do with your life. What does she get?
+answerMost: every job since school, in order
+answerHigh: that you never planned it, and what you'd watch for instead
+answerMid: how you decided, without a lesson made of it
+answerLow: a couple of facts about jobs you've had
+answerLeast: the train, and how her mum is
+rorschachMost: a textbook stack
+rorschachHigh: a coal sack
+rorschachMid: a doorstop sandwich
+rorschachLow: a crisp packet
+rorschachLeast: a paper napkin
 ---
 
 Aged Chickpeas are the Bean Zodiac's most substantive. Twenty minutes with them and you leave with something to actually use, not just a pleasant hour. Sometimes there's more weight than the occasion could carry. Making light conversation is a real effort.

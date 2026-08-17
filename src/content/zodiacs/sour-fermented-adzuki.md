@@ -23,14 +23,19 @@ fortuneLow: Let the want come before the reason for it.
 fortuneLeast: You can actually do whatever you want, whenever you want.
 facetMostTitle: Bean Show
 facetMost: Before sending an eight-second voice note to a friend, you play it back at least three times, listening for how you come across.
+facetMostAction: Before sending an eight-second voice note to a friend, you play it back at least three times, listening for how you come across.
 facetHighTitle: Fleabean
 facetHigh: It's been a long day and you are beyond exhausted, but you have dinner plans with your partner. When you get home they comment that you look awful. Before blaming them for ruining the evening, you let it go — you understand it was a joke, and you're just tired.
+facetHighAction: Before blaming them for ruining the evening, you let it go — you understand it was a joke, and you're just tired.
 facetMidTitle: Know Thy Bean
 facetMid: Early in your workday you've already gone to the kitchen three times to make a coffee, even though you're not tired at all. You know you're avoiding something.
+facetMidAction: You know you're avoiding something.
 facetLowTitle: Mr. Beangoo
-facetLow: You surface from the book and it's two hours later than you thought it was, tea stone cold beside you and the light gone from the room.
+facetLow: You're hooked on a good book. You surface from it two hours later than you thought it was, tea stone cold beside you and the light gone from the room.
+facetLowAction: You surface from it two hours later than you thought it was, tea stone cold beside you and the light gone from the room.
 facetLeastTitle: Inspector Jacques Beanseau
-facetLeast: The dinner you've hosted was delicious, games were fun, and now you're all sitting around the table chatting. You hear a few loud yawns, but keep refilling glasses and start telling another story.
+facetLeast: The dinner you've hosted was delicious, games were fun, and now you're all sitting around the table chatting. There's a couple of quick yawns. You keep refilling glasses and start telling another story.
+facetLeastAction: You keep refilling glasses and start telling another story.
 question: You don't usually mind a bit of lateness, but when your friend showed up a few minutes late you snapped at them. Alone later, you...
 answerMost: analyse the chain of events that turned you into the person who snapped
 answerHigh: uncover the real reason you snapped, which wasn't the lateness

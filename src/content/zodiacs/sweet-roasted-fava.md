@@ -17,32 +17,37 @@ antiTriple: bitter-boiled-navy
 antiBeans: [black, edamame]
 antiForm: dried
 seasonalFortune: "A season of date syrup and warm nerve — the tray talks the timid into trying."
-fortuneMost: The jay lets the whole wood know where the hawk sleeps.
-fortuneHigh: Better said than glazed over.
-fortuneMid: Don't be afraid to hand out compliments.
-fortuneLow: Just let it go.
-fortuneLeast: Listen a long while — do not interrupt.
-facetMostTitle: Beanrabble-Rouser
-facetMost: Eleven of them were going to write a letter and now they are going to walk out. You did that. You said the thing that turned them, and you meant it at the time, and you are not the one whose job goes if this fails.
+fortuneMost: Talk people into enough of it and somebody gets hurt trying.
+fortuneHigh: A lioness hunts and the whole pride moves with her.
+fortuneMid: Belief handed over is rarely wasted.
+fortuneLow: Let somebody stay where they are.
+fortuneLeast: A quiet word cools a hot head.
+facetMostTitle: Beanble-Rouser
+facetMost: Six of you have paid for a night dive and the instructor has just called it off because of the swell. You spend ten minutes working on the other five, until four of them have their wetsuits back on and he's outvoted.
+facetMostAction: You spend ten minutes working on the other five, until four of them have their wetsuits back on and he's outvoted.
 facetHighTitle: You've Got a Friend in Bean
-facetHigh: She has been sitting on the idea a year and is one push away from doing it. You give her the push, in front of two people who will hold her to it, and she goes.
+facetHigh: Your partner has cancelled two appointments about the lump on their neck. Now they're up out of the chair in the waiting room, coat in hand, saying they'll rebook. You take the coat off them and sit back down with it on your lap.
+facetHighAction: You take the coat off them and sit back down with it on your lap.
 facetMidTitle: Go On, Bean
-facetMid: A boy in your class thinks he is no good at any of it, so you find something he does better than anybody and make sure the room hears about it.
-facetLowTitle: Beankilljoy
-facetLow: He is nearly ready to ask her and wants to know what you think. You tell him these things are hard to call, and leave it.
-facetLeastTitle: The Beanspoilsport
-facetLeast: Four of them have got themselves worked up about the plan, and it is a decent plan. You bring up the money, and the timescale, and the last time somebody tried it. By the end of the meeting nobody is doing anything.
-question: A friend is one push away from doing something they've wanted for a year. You...
-answerMost: Push, and tell everyone they're doing it
-answerHigh: Give them the push they need
-answerMid: Tell them I think they should
-answerLow: Say it's hard to call
-answerLeast: Lay out everything that could go wrong
-rorschachMost: a flint throwing sparks
-rorschachHigh: a match to dry straw
-rorschachMid: a hammer and hot iron
-rorschachLow: an ember under ash
-rorschachLeast: a wet log, smoking
+facetMid: Someone from your work came to the running club taster and is already looking for a way out. Running her pace for five miles means not doing the session you came for. You tell her you'll stay with her, and walk her over to the group.
+facetMidAction: You tell her you'll stay with her, and walk her over to the group.
+facetLowTitle: Killbean
+facetLow: Over dinner your friend tells you they're going to move to a city where they don't know anybody, and asks what you think. You tell them there's no rush, and to give it a month.
+facetLowAction: You tell them there's no rush, and to give it a month.
+facetLeastTitle: The Spoilsbean
+facetLeast: Nine of you are outside the hut at four in the morning with head torches on, about to go up. You go round them with the forecast, how long the last party took, and what happened to the two who went in October.
+facetLeastAction: You go round them with the forecast, how long the last party took, and what happened to the two who went in October.
+question: Your friend has said for two years she'd go for the head of department job. The closing date is Friday, and she's asking what you think. You...
+answerMost: fill the form in with her, and put her up for the deputy job as well
+answerHigh: tell her she's ready, and what she'd be good at in it
+answerMid: back her going for it, and leave the form with her
+answerLow: say it's her call
+answerLeast: be honest, and tell her she isn't ready for it
+rorschachMost: flying sparks
+rorschachHigh: a burning torch
+rorschachMid: a raised fist
+rorschachLow: a damp squib
+rorschachLeast: a water bucket
 ---
 
 Glazed Fava Beans are the Bean Zodiac's most emboldening. Fifteen minutes with them and the application goes in, and it is the right application. Sometimes people get talked into things that weren't theirs. Telling somebody honestly not to try is a sentence they can't form.

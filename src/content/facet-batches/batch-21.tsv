@@ -1,0 +1,462 @@
+# BATCH 21 — pitch layout most=G high=E mid=G low=E least=G
+# Elevated slots are HIGH and LOW. High takes LANE A in all five (it is the trait at
+# full pitch and can carry jeopardy). Low takes LANE B in all five — low is a
+# withdrawal or a slackening in every entry here, and jeopardy deflates it.
+#
+# THE OBJECT IS NAMED IN THE ROW. Not "a decision about staying" but the residency form
+# that cannot be posted and flown on in the same week; not "a hardship fund" but the
+# eviction date against the run-out meter; not "a big outfit" but the thing that will
+# be in every photograph on every wall.
+#
+# NEIGHBOURS — taken from src/content/trait-neighbours.tsv, entries read, separations
+# written here. No `!` same-batch flags in this batch, but see the note at the end.
+#   liminal (bitter-smoked-chickpea) vs footloose (spicy-smoked-green), otherworldly
+#     (bitter-smoked-fava), eerie (bitter-smoked-green), hazy (sweet-smoked-butter).
+#     Footloose is MOVEMENT — going, the next town by morning, and what it refuses is a
+#     commitment to stay. Otherworldly ACTS AGAINST MATERIAL INTEREST on something
+#     wordless. Eerie is a signal from somewhere else. Hazy does not know where it is.
+#     Liminal is none of those: it knows exactly where it is, which is BETWEEN TWO
+#     DEFINED STATES, and it stays there on purpose. It can be entirely stationary and
+#     nothing about it is supernatural. So every facet here puts two named states on
+#     the page with the reader in the gap.
+#   judicious (bitter-boiled-cannellini) vs measured (bitter-boiled-black), careful
+#     (bitter-boiled-mung), circumspect (bitter-dried-chickpea), discerning
+#     (sour-fermented-cannellini). Careful is about HARM — the third opinion, the
+#     cracked seal. Circumspect is wariness of PEOPLE you cannot vouch for. Discerning
+#     is TASTE: which is better. Measured is the close one and it is about PACE —
+#     refusing to be hurried, "I'll text you in the morning"; it resists pressure.
+#     Judicious is the WEIGHING ITSELF: two real options, reasons on both sides, and a
+#     verdict produced. So nothing here is unsafe, nobody here is hurrying the reader,
+#     and every facet ends in a verdict rather than a delay.
+#   challenging (sour-fried-kidney) vs forthright (sour-roasted-edamame), fierce
+#     (sour-dried-kidney), inquisitive (bitter-boiled-green), defiant
+#     (umami-roasted-fava). Forthright says YOUR OWN thing plainly. Fierce is
+#     protective and needs somebody being wronged. Inquisitive asks for the ANSWER'S
+#     sake. Defiant goes at an order. Challenging goes at a CLAIM somebody has made and
+#     not earned, and the question is a TEST, not a request — the reader may already
+#     know the answer. So every facet has a specific claim on the page, no victim, and
+#     no authority being disobeyed.
+#   flamboyant (spicy-roasted-pinto) vs expansive (umami-roasted-pinto), demonstrative
+#     (spicy-roasted-mung), regal (umami-smoked-cannellini), shameless
+#     (bitter-roasted-fava). Expansive is ABUNDANCE — the full tour, the itinerary.
+#     Demonstrative is FEELING declared. Regal does not perform at all; it holds still
+#     and lets them come. Shameless merely does not mind being looked at. Flamboyant
+#     GOES OUT AND IS LOOKED AT on purpose, and the display is the gift. So every facet
+#     has a chosen visible spectacle in front of named people, and none of them is a
+#     declaration of feeling or a rescue.
+#   abiding (sweet-dried-black) vs constant (sweet-boiled-black), enduring
+#     (umami-dried-navy), lingering (sweet-smoked-navy), steadfast (spicy-smoked-navy).
+#     Constant shares the bean AND the flavour and is the dangerous one: it is a
+#     REPEATED ACT in ordinary weather — the Saturday doors, the book token — and the
+#     cadence is the content. Enduring is the reader's own persistence at a task.
+#     Lingering stays attached to what it has LEFT. Steadfast needs the others to have
+#     dropped off. Abiding is dried: it needs NO UPKEEP and survives GAPS, and the
+#     content is that the bond is intact after a long silence. So no facet here has a
+#     cadence, a streak or a comparison with people who stopped.
+#
+# WHAT THE NEIGHBOURS FILE DID NOT CATCH — worth recording, because the gap is real.
+#   It maps trait to trait. It does not map POLE to trait, and in this batch the
+#   collision is exactly there: liminal's LEAST is "planted", which sits on top of
+#   abiding's TRAIT, in the same batch. Separated by content, not by axis — planted is
+#   ONE ACT OF SETTLING, on a place, choosing a side; abiding is a BOND held across
+#   time with a person on the other end. So the chickpea least fixes the reader to a
+#   place and has nobody in it to be loyal to, and no black facet is about choosing
+#   between two options.
+#
+# === bitter-smoked-chickpea — liminal / unmoored / planted
+# AXIS: you are between two defined states and comfortable there, and you decline to
+#   resolve into either one.
+# TITLES: Bean Drift, The Twilight Bean, Beanimbo — all the same idea, the state with
+#   no name. The Secret Beanden and There's No Place Like Bean are the inverse: a place
+#   that is yours and stays yours.
+# OFF-LIMITS: a will-o'-the-wisp that lands nobody ashore; "say how long you're
+#   staying"; "one unpacked box is enough to live out of"; "sign something with a date
+#   on it"; "a name on a deed carries well"; aubergine ash and half-places.
+#   OLD FACETS: six months as a night porter with no daylight; the empty house and the
+#     hour on the front-room floor; the level crossing with nothing coming; the border
+#     town and "a while yet"; the smallholding with forty years of your father in it.
+#     So no night shift, no moving-out floor, no level crossing, no border town, no
+#     family land.
+#   QUESTION owns: the barbecue where the old players and this year's team have split,
+#     and standing between the two of them. No facet is the reader between two GROUPS.
+bitter-smoked-chickpea	most	caravan	caravan-kept	family	grounded
+bitter-smoked-chickpea	high	airport	application-unposted	alone	elevated
+# LANE A — the residency form and the flight cannot both happen; get on the plane and the four-month window shuts behind you.
+bitter-smoked-chickpea	mid	evening class	class-repeated	official	grounded
+bitter-smoked-chickpea	low	animal sanctuary	morning-taken	official	elevated
+# LANE B — how the sanctuary actually runs: who holds keys, which animals are on what, the rota with three names on it.
+bitter-smoked-chickpea	least	kitchen	room-surrendered	partner	grounded
+#
+# === bitter-boiled-cannellini — judicious / overcautious / rash
+# AXIS: two real options with reasons on both sides, and you weigh them properly before
+#   you say which — the weighing takes the time it takes and it ends in a verdict.
+# TITLES: Waiting for Beandot is the excess, weighing with nothing arriving. 12 Angry
+#   Beans is one holdout taking the room through it properly. Rebel Without a Bean and
+#   Thelma & Beanise are the inverse — the move made before any of it is thought about.
+# OFF-LIMITS: an eagle owl waiting all night for one kill; "decide it properly and
+#   once"; "most decisions keep a day"; "decide the small ones on the spot"; "first to
+#   move often takes it"; clear broth and careful salt, a pot that decides late.
+#   OLD FACETS: the bridge measured a third time from the other bank; the basket with
+#     one mushroom that might be a blusher; the house auction going past the number;
+#     the chip pan and the tea towel; the slip road and the lorry on the inside. So no
+#     surveying, no foraging, no auction bidding, no kitchen fire, no motorway.
+#   QUESTION owns: whether a friend should put an offer in on a house she has seen once.
+bitter-boiled-cannellini	most	bike shop	deliberation-prolonged	stranger	grounded
+bitter-boiled-cannellini	high	citizens advice	fund-allocated	group	elevated
+# LANE A — there is enough for one of the two applications, the money goes today, and the other person gets told no.
+bitter-boiled-cannellini	mid	dentist	treatment-weighed	official	grounded
+bitter-boiled-cannellini	low	nuclear bunker	volunteering-snap	group	elevated
+# LANE B — how the bunker works: the dormitories, the filtration plant, the room where the list of names was kept.
+bitter-boiled-cannellini	least	betting shop	bet-placed	friend	grounded
+#
+# === sour-fried-kidney — challenging / belligerent / acquiescent
+# AXIS: somebody states a thing they have not earned, and you make them back it up,
+#   there and then.
+# TITLES: Roadbean and The Beantlet are both a claim taken apart in front of people.
+#   The Beanenger is the small version — whose rule is that? As You Bean and Whatever
+#   You Say, Bean are the inverse: it goes through unchallenged.
+# OFF-LIMITS: a magpie mobbing a hawk twice its size; "argue with everything and the
+#   good argument gets missed"; "the challenge is worth making once"; "let it stand
+#   this time"; "agreement gets more done than combat"; tamarind chutney and raised
+#   stakes.
+#   OLD FACETS: the honey trader and which valley; the book group and the page where it
+#     cheats; the driving instructor and whose rule that is; the pub quiz answer wrong
+#     on the board; the man with a theory about the buses. So no market stall, no book
+#     group, no driving lesson, no pub quiz, and the half-invented-theory shape is spent.
+#   QUESTION owns: the work lunch and the trains being better before they were sold off.
+sour-fried-kidney	most	waiting room	claim-pressed	stranger	grounded
+sour-fried-kidney	high	council offices	paragraph-demanded	official	elevated
+# LANE A — the vote is taken tonight and a permission, once it is granted, is granted.
+sour-fried-kidney	mid	canteen	rumour-tested	colleague	grounded
+sour-fried-kidney	low	museum	date-unquestioned	official	elevated
+# LANE B — behind the gallery: the trays, the accession numbers, the things that are not on show.
+sour-fried-kidney	least	party	story-unchallenged	friend	grounded
+#
+# === spicy-roasted-pinto — flamboyant / garish / muted
+# AXIS: you turn up as a spectacle on purpose, where people will see it, and the
+#   display is the thing you are giving them.
+# TITLES: Glitter and Be Bean, Peabean, Bean That Jazz — the turn taken in public.
+#   Beanet Please and Shades of Bean are the inverse, and both are about being
+#   deliberately unseen.
+# OFF-LIMITS: a mandarin duck painted like nothing else on the water; "bright enough
+#   and nobody sees what's underneath"; "colour lifts an ordinary day"; "tone it down
+#   tonight"; "muted things last longer in the eye"; guajillo and a tray dressing for
+#   an audience.
+#   OLD FACETS: the coat and the sound effects at somebody else's wedding; the bird of
+#     paradise in the bus shelter; the acted-out quiz round; the grey coat on a
+#     midweek occasion; going in quietly and leaving before the speeches. THE COAT IS
+#     SPENT — no facet in this entry uses one.
+#   QUESTION owns: film night on a Tuesday, eight people, and the good coat.
+spicy-roasted-pinto	most	street	bucket-upstaged	friend	grounded
+spicy-roasted-pinto	high	wedding	outfit-worn	friend	elevated
+# LANE A — it is in every photograph, on every wall, for the rest of all their lives.
+spicy-roasted-pinto	mid	holiday let	costumes-laid	group	grounded
+spicy-roasted-pinto	low	magic show	volunteer-declined	stranger	elevated
+# LANE B — you have been shown the gimmick, the table and how the trick is actually done.
+spicy-roasted-pinto	least	cinema	birthday-unmarked	alone	grounded
+#
+# === sweet-dried-black — abiding / immutable / fleeting
+# AXIS: what you have with somebody does not weaken with time or silence, and it needs
+#   no keeping up — after years of nothing it is exactly where it was.
+# TITLES: Beans Are Forever and Abide With Bean are the thing intact across the gap.
+#   Beans in the Wind and Bean Too Soon are the inverse — something allowed to be
+#   short, and finished.
+# OFF-LIMITS: a tortoise outliving everybody who fed it; "a view that never changes
+#   stops being a view"; "old friendships need less upkeep than people think"; "let one
+#   thing end properly"; "short things can be complete"; brittle and brown sugar, what
+#   sets here not unsetting.
+#   OLD FACETS: twenty-two years of letters answered about a third; the decade with no
+#     contact and the ring out of nowhere; flowers on the same grave by the long way
+#     round; the group going quiet over a year; somebody in town you tell you are not
+#     free. So no letter streak, no call from nowhere, no grave, no group going quiet.
+#   QUESTION owns: somebody from fifteen years ago getting in touch out of nowhere —
+#     so no facet here is the reader receiving contact after a long silence.
+sweet-dried-black	most	living room	rota-refused	friend	grounded
+sweet-dried-black	high	church	song-remembered	family	elevated
+# LANE A — the order of service goes to the printer tonight and that room never assembles again.
+sweet-dried-black	mid	bus	detail-retained	friend	grounded
+sweet-dried-black	low	catacombs	acquaintance-closed	stranger	elevated
+# LANE B — the part of the catacombs off the public route, how the bones were stacked and which families paid for it.
+sweet-dried-black	least	loft	box-discarded	alone	grounded
+#
+# ============================== STEP 9 — COLD READ ==============================
+# Written last, on the text in the entry files, after the linter and after the six
+# fixes below. Nothing has been touched since.
+#
+# SIX FAULTS FOUND BY THIS READ. Three were referent breaks and three were POLE NEEDS
+# — the line parsed perfectly and had stopped proving its own pole. All re-read below
+# on the new text.
+#   chickpea high — POLE NEEDS. Nothing on the page said the residency was UNRESOLVED
+#     rather than merely deprioritised, so "you get on the plane" read as choosing a
+#     wedding over paperwork, which is not liminal at all. Added "on the wrong sort of
+#     visa": nine years, still not settled either way.
+#   chickpea low — ACT NEEDS. "You take the Tuesday" and no Tuesday anywhere on the
+#     page. The rota now has nobody at all on Tuesdays, and the offer is "a morning of
+#     your own" so the reader is the one who names the day.
+#   cannellini low — POLE NEEDS. Nothing said the commitment was unknown, so signing
+#     read as keen rather than unweighed, and the entry's whole axis is the weighing.
+#     The form now does not say what it involves.
+#   kidney least — "the thing you did" is a placeholder standing in for the content,
+#     which is the fault the vagueness rule exists for. Now: he got underneath and
+#     found the split hose.
+#   pinto high — "the brightest thing in that room" and the page never named a room.
+#     The friend is now getting married in the first clause.
+#   pinto least — "one ticket for the four o'clock" never says what of. Now a showing.
+#
+# LINTER FLAGS LEFT STANDING — the rule, not the prose. Same three as batch 20.
+#   "median N, outside 24-48" on all five (54-63). 61 of 190 written entries trip this,
+#     batch 19 and 20 included; the band was calibrated on 64 early entries and the
+#     house style has moved longer since.
+#   BATCH "You tell" 9% and shape D-beats 38%. Corpus-wide totals, both already over
+#     before this batch. Five of the 25 acts here use "You tell"; the rest were drafted
+#     onto other verbs (make him read, put your name on, wear it, take the Tuesday,
+#     laugh in the right place, buy one ticket, put the box in the car).
+#
+# --- bitter-smoked-chickpea ---
+# MOST
+#  ON THE PAGE: you have been in your parents' caravan on the drive since the flat fell
+#    through in the spring; you have not given anybody a new address since; your mum
+#    says the caravan is promised to your uncle at the end of the month; there is the
+#    back room inside if you want it.
+#  THE ACT NEEDS: your mum (stated) · your uncle (stated) · holding off, meaning the
+#    promise on the caravan (stated).
+#  THE POLE NEEDS: excess, because a real room is on the page and refused in favour of
+#    the drive, and the no-new-address line says the in-between has become the state
+#    rather than a stage. RESIST: you take the back room.
+# HIGH
+#  ON THE PAGE: nine years in the same country on the wrong sort of visa; the residency
+#    form has to go in the post today with your passport inside; that means not flying
+#    for four months; your brother is getting married at the weekend; you are at the gate.
+#  THE ACT NEEDS: the plane (the gate, stated) · the form (stated).
+#  THE POLE NEEDS: the wrong sort of visa across nine years is what makes this the
+#    unresolved state rather than a preference — without it the facet was choosing a
+#    wedding, and it was the third list that caught that. RESIST: you post the form and
+#    miss the wedding. LANE A holds: the four-month window shuts behind the plane.
+# MID
+#  ON THE PAGE: you have done the beginners' pottery course twice; the beginners' room
+#    is where you like being; nobody in it expects anything of you; the tutor has put
+#    you on the intermediate list for the autumn.
+#  THE ACT NEEDS: the tutor (stated) · the beginners' course (stated).
+#  THE POLE NEEDS: low expression — one small refusal to graduate out of the
+#    in-between, with the reason ("nobody expects anything of you") stated rather than
+#    implied. RESIST: you go up to intermediate.
+# LOW
+#  ON THE PAGE: you turn up at the sanctuary when you feel like it; the woman who runs
+#    it has taken you through the back; which dogs are on what; who holds keys; a rota
+#    with three names on it and nobody at all on Tuesdays; she asks whether you would
+#    take a set of keys and a morning of your own.
+#  THE ACT NEEDS: the Tuesday (now stated) · the morning being taken (stated).
+#  THE POLE NEEDS: planted-lite — the reader fixes themselves to one slot on a rota
+#    that had a hole in it. RESIST: you carry on turning up when you feel like it.
+#    LANE B holds: keys, medication and a three-name rota are how the place runs.
+# LEAST
+#  ON THE PAGE: two years with her; you have lived out of a bag between her place and
+#    your room in the shared house; neither of you has ever said which one you actually
+#    live in; she has cleared out two drawers and told you they are yours.
+#  THE ACT NEEDS: the room at the other place (the shared house, stated).
+#  THE POLE NEEDS: the inverse fully taken — the in-between is named outright on the
+#    page, so giving the room up is the vote and not just a tidy-up. RESIST: you keep
+#    the room.
+#
+# --- bitter-boiled-cannellini ---
+# MOST
+#  ON THE PAGE: two bikes; one is two hundred more with the better frame; you have been
+#    saving for this since the spring; the man says there is one left of each and he
+#    will hold either of them until closing.
+#  THE ACT NEEDS: the shop (stated) · the two bikes (stated).
+#  THE POLE NEEDS: excess, and the evidence is that nobody is hurrying — he has offered
+#    to hold them, which keeps it off measured — and the reader still cannot land it
+#    while one of each is left. RESIST: you buy one of them.
+# HIGH
+#  ON THE PAGE: you are one of three on the hardship panel; enough left for one of two
+#    applications; a woman three weeks behind with an eviction date; a man whose meter
+#    has run out with two children; the other two have split; it comes down to you; the
+#    money goes today.
+#  THE ACT NEEDS: the woman (stated) · the eviction date (stated).
+#  THE POLE NEEDS: the trait rather than the excess, because a verdict is actually
+#    produced — two options, reasons on both sides, and a decision. RESIST: you give it
+#    to the meter. LANE A holds: the money goes once and the other one gets told no.
+# MID
+#  ON THE PAGE: the dentist says the tooth can have a filling today for eighty pounds
+#    or a crown in three weeks for four hundred; either is perfectly defensible; he has
+#    the drill in his hand; there are people after you.
+#  THE ACT NEEDS: the dentist (stated) · the tooth (stated).
+#  THE POLE NEEDS: "either is perfectly defensible" is doing the separation work — with
+#    nothing unsafe on the page this is judgement, not care. RESIST: you tell him to do
+#    the filling.
+# LOW
+#  ON THE PAGE: the bunker tour takes the nine of you through the dormitories, the
+#    filtration plant and the room where the list of names was kept; the guide says
+#    they are short of volunteer guides; there is a form on the table that does not say
+#    what it involves.
+#  THE ACT NEEDS: the form (stated).
+#  THE POLE NEEDS: rash-lite, and it needs the form to be uninformative — otherwise
+#    signing is enthusiasm rather than the absence of weighing, which is the pole.
+#    RESIST: you ask what it involves first. LANE B holds: the filtration plant and the
+#    list of names are how the place worked.
+# LEAST
+#  ON THE PAGE: your friend has gone in to put five pounds on; you came in with her;
+#    the man ahead of you is telling the counter about a horse in the four o'clock.
+#  THE ACT NEEDS: the horse (stated) · its name (the horse is stated; the reader
+#    supplies liking it).
+#  THE POLE NEEDS: the inverse fully — fifty against her five, on an overheard tip, for
+#    a reason that is not a reason. RESIST: you put a fiver on, or nothing.
+#
+# --- sour-fried-kidney ---
+# MOST
+#  ON THE PAGE: a woman two chairs along says her cousin was seen in twenty minutes at
+#    the walk-in centre across town and this place is a disgrace; she is waiting to be
+#    called for a scan; her hands have not been still since you sat down.
+#  THE ACT NEEDS: her (stated) · her cousin (stated).
+#  THE POLE NEEDS: belligerent, and the evidence is the scan and the hands — she is
+#    frightened, she is not anybody's opponent, the claim costs nothing, and the reader
+#    goes at it anyway. RESIST: you let her have it.
+# HIGH
+#  ON THE PAGE: the developer's man tells the meeting the ecology survey found no bats
+#    in the barn; you have the survey open in front of you at the line saying the roof
+#    was never accessed; they vote at the end of the night; a permission once granted
+#    is granted.
+#  THE ACT NEEDS: him (stated) · the paragraph, meaning the line in the survey (stated).
+#  THE POLE NEEDS: a specific claim, unearned, tested on the spot, with the reader
+#    holding the evidence — and no authority being disobeyed, which keeps it off
+#    defiant. RESIST: you let it go to the vote. LANE A holds: a permission does not
+#    come back.
+# MID
+#  ON THE PAGE: somebody at your table says the recycling all goes in the same lorry as
+#    everything else; the four of them nod along at it.
+#  THE ACT NEEDS: him (stated).
+#  THE POLE NEEDS: low expression — one challenge, made once, on a claim of no
+#    consequence, and it is a test rather than a question. RESIST: you nod along too.
+# LOW
+#  ON THE PAGE: a friend has got you into the store rooms behind the gallery; the
+#    trays, the accession numbers, the things that never go on show; the curator pulls
+#    out a drawer and says the brooch in it came off a wreck; you know that was
+#    disproved years ago.
+#  THE ACT NEEDS: the curator (stated) · the brooch (stated) · the drawer (stated).
+#  THE POLE NEEDS: acquiescent-lite, and it needs the reader to have both the claim and
+#    the knowledge on the page so the declining is legible as a choice. RESIST: you
+#    tell her it was disproved. LANE B holds: the trays and the accession numbers are
+#    the inside of the place.
+# LEAST
+#  ON THE PAGE: your friend is telling the six of them about the night the van broke
+#    down; you were there; in his version it is him who got underneath and found the
+#    split hose.
+#  THE ACT NEEDS: him (stated) · the story (stated) · the right place in it (stated).
+#  THE POLE NEEDS: the inverse fully — first-hand standing to knock it down, and the
+#    reader not only lets it through but helps it along. RESIST: you say it was you
+#    under the van.
+#
+# --- spicy-roasted-pinto ---
+# MOST
+#  ON THE PAGE: your friend is collecting on the pavement outside the shops for the
+#    hospice her mum was in; she has a bucket and a laminated sign; you have come with
+#    a costume, a speaker and twenty minutes of material; she has asked you twice to
+#    just rattle the bucket today.
+#  THE ACT NEEDS: the speaker (stated).
+#  THE POLE NEEDS: garish, and all three pieces of evidence are on the page — the
+#    occasion is her mother's hospice, she has asked twice, and the display takes her
+#    day off her. RESIST: you rattle the bucket.
+# HIGH
+#  ON THE PAGE: your oldest friend is getting married; she said wear what you like;
+#    what you have had made will be the brightest thing in that room by a distance; she
+#    saw it on the hanger and said, carefully, that this was a lot; every photograph on
+#    every wall in her family will have it in, for good.
+#  THE ACT NEEDS: it, meaning what you had made (stated) · the room (now stated as the
+#    wedding).
+#  THE POLE NEEDS: the trait not the excess, because permission was actually given —
+#    "wear what you like" — and the price is permanence rather than offence. RESIST:
+#    you wear something else. LANE A holds: the photographs do not come down.
+# MID
+#  ON THE PAGE: six of you have a cottage for the weekend; it is nobody's birthday; the
+#    plan for tonight is a takeaway and cards; you have a case of costumes in the boot
+#    that nobody asked for.
+#  THE ACT NEEDS: the costumes (stated) · the sofa (a cottage, stated).
+#  THE POLE NEEDS: low expression — the occasion is deliberately nothing, so putting
+#    them out is the whole of the display. RESIST: they stay in the boot.
+# LOW
+#  ON THE PAGE: your friend knows the magician; he has taken you round the back before
+#    the second half; the table, the gimmick, the whole of how the trick is done; he
+#    says he needs somebody up out of the seats and would rather it were you than a
+#    stranger.
+#  THE ACT NEEDS: the magician (stated) · somebody else, meaning the seats (stated).
+#  THE POLE NEEDS: muted-lite, and it needs the role to be offered on a plate and named
+#    so that declining is a vote and not a blank. RESIST: you go up. LANE B holds: you
+#    have been shown how the trick works.
+# LEAST
+#  ON THE PAGE: every year you have booked a room and asked thirty people; every year
+#    they have come; this one you have booked nothing and told nobody.
+#  THE ACT NEEDS: the ticket (stated) · the showing (now stated).
+#  THE POLE NEEDS: the room and the thirty people are what make one ticket a choice
+#    rather than a quiet life. RESIST: you book the room again.
+#
+# --- sweet-dried-black ---
+# MOST
+#  ON THE PAGE: since school the four of you have had it that whoever is nearest goes,
+#    whatever has happened and whatever time of night; he has three under five now; he
+#    has asked to be taken off.
+#  THE ACT NEEDS: him (stated) · it, meaning the arrangement (stated).
+#  THE POLE NEEDS: immutable — he has asked, with a reason on the page, and the thing
+#    is still not allowed to change. There is no cadence and no repeated act in it,
+#    which is what keeps it off constant. RESIST: you take him off.
+# HIGH
+#  ON THE PAGE: his sister is going round the room asking what he would have wanted
+#    played; nobody can agree; you and he were inseparable until you were twenty-two
+#    and then did not speak for eleven years; the order of service goes to the printer
+#    tonight.
+#  THE ACT NEEDS: the sister (stated) · the song (stated) · him telling you at twenty
+#    (the friendship at that age is stated).
+#  THE POLE NEEDS: the eleven years of nothing is the evidence — the bond needed no
+#    upkeep and the thing he said survived it intact. RESIST: you say you would not
+#    know any more. LANE A holds: it prints tonight and that room never assembles again.
+# MID
+#  ON THE PAGE: you shared a flat with her for two years; you have not seen her since;
+#    she is three seats up on the same bus with four stops to go; her brother lost two
+#    fingers in a machine that winter.
+#  THE ACT NEEDS: her (stated) · her brother (stated) · his hand (stated).
+#  THE POLE NEEDS: low expression — the detail survived years of nothing, and going
+#    straight to it rather than to pleasantries is the whole of the vote. RESIST: you
+#    do the four stops on how work is going.
+# LOW
+#  ON THE PAGE: the guide takes the ten of you off the public route; how the bones were
+#    stacked; which families paid for the privilege; you spend the whole two hours
+#    talking to the woman next to you; at the top she gets her phone out to swap numbers.
+#  THE ACT NEEDS: her (stated) · the two hours (stated).
+#  THE POLE NEEDS: fleeting-lite, and the declined act is on the page as her phone
+#    coming out, so letting it be complete is a real vote. RESIST: you get your phone
+#    out too. LANE B holds: the route off the public route is the inside of the place.
+# LEAST
+#  ON THE PAGE: the box in the loft is ten years of one friendship — the photographs,
+#    the birthday cards, the programme from the play you were both in; it ended without
+#    a row; you have not thought about her in a long time.
+#  THE ACT NEEDS: the box (stated) · the tip (the reader's own errand).
+#  THE POLE NEEDS: the inverse fully — ten years and no falling-out are both on the
+#    page, so this is something real being allowed to be finished rather than something
+#    bad being got rid of. RESIST: it goes back in the loft.
+#~ ============ COLD READ STAMPS — regenerate with `node scripts/cold-read.mjs stamp <file>` ====
+#~ Each line is the facet text as it stood when it was cold-read. `commit` refuses
+#~ the batch if any of them has changed since. Edit a facet, read it again, restamp.
+#@ bitter-smoked-chickpea most 623b241e88
+#@ bitter-smoked-chickpea high ef2c062149
+#@ bitter-smoked-chickpea mid edcb96dae7
+#@ bitter-smoked-chickpea low 1b72d1f583
+#@ bitter-smoked-chickpea least 22b43ba43b
+#@ bitter-boiled-cannellini most 5853723e7c
+#@ bitter-boiled-cannellini high c6d5101e1c
+#@ bitter-boiled-cannellini mid 22986429d2
+#@ bitter-boiled-cannellini low baac1704eb
+#@ bitter-boiled-cannellini least d4a714bba3
+#@ sour-fried-kidney most 3cd34997f6
+#@ sour-fried-kidney high aab85b01ee
+#@ sour-fried-kidney mid 53c7523b92
+#@ sour-fried-kidney low 7dba49ee2e
+#@ sour-fried-kidney least 396f44b3a5
+#@ spicy-roasted-pinto most ec43a9fa44
+#@ spicy-roasted-pinto high 88dc6bc56e
+#@ spicy-roasted-pinto mid 8a0d02e596
+#@ spicy-roasted-pinto low 99439809de
+#@ spicy-roasted-pinto least 704290ecc0
+#@ sweet-dried-black most 5587879da2
+#@ sweet-dried-black high 1409de2ce6
+#@ sweet-dried-black mid f37c56067d
+#@ sweet-dried-black low 141523dd8a
+#@ sweet-dried-black least 95111cb6f8

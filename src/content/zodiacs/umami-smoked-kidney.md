@@ -17,32 +17,37 @@ antiTriple: sour-fried-edamame
 antiBeans: [adzuki, pinto]
 antiForm: roasted
 seasonalFortune: "A season of brisket and long smoke — the house smells of something that has left."
-fortuneMost: That cry across the lake at night is the loon, and it is not asking for help.
-fortuneHigh: Say the name out loud to the empty room.
-fortuneMid: You have been carrying it and nobody has asked.
-fortuneLow: Grief thins out if you let a day get in front of it.
-fortuneLeast: Go where nobody knew them and enjoy the evening.
+fortuneMost: Grieve loud enough and nobody knows how to sit nearby.
+fortuneHigh: A loon calls across the lake all night.
+fortuneMid: Sadness said out loud gets lighter.
+fortuneLow: Talk about something ordinary.
+fortuneLeast: Not feeling it is allowed too.
 facetMostTitle: Bean Me a River
-facetMost: The factory came down eleven years ago and there are flats on it now, and you still walk that way and can say where the gate was and where the canteen was.
+facetMost: Your dad's room is as he left it eighteen months ago, down to the paper folded on the arm of the chair and his watch on the sill, and the rent on the flat comes out of your wages. Your sister has asked twice about clearing it. You wind the watch again and shut the door.
+facetMostAction: You wind the watch again and shut the door.
 facetHighTitle: Bean Memoriam
-facetHigh: It is a year to the day. You cook what he cooked, badly, the way he did it. You put the plate on the table and you eat the whole thing.
+facetHigh: You're on your feet at your brother's wedding with a hundred and forty people waiting for the funny bit. Your dad has been dead two years and he is the reason the two of you are like this. You spend most of the two minutes on him.
+facetHighAction: You spend most of the two minutes on him.
 facetMidTitle: Beans in Heaven
-facetMid: The dog's lead has been on the hook by the door eight months and there are two other people in the house who have stopped mentioning it. You leave the lead where it is.
+facetMid: Your gran has been gone a year, and you're in the supermarket with your partner when you pass the custard creams she kept in the tin by the kettle. You put a packet in the trolley.
+facetMidAction: You put a packet in the trolley.
 facetLowTitle: No Tearbeans
-facetLow: Somebody has put on the song that was played at the funeral and half the room does not know that is what it is, and you get up and take the glasses through to the kitchen and run the tap for a while.
+facetLow: Eleven of you are out on the water to scatter your uncle's ashes and the boat is rolling. Your cousins are in bits. You find you're thinking about the drive back, and you take the urn when it comes round and pass it on.
+facetLowAction: You find you're thinking about the drive back, and you take the urn when it comes round and pass it on.
 facetLeastTitle: The Unbeaned Mover
-facetLeast: The allotment your father kept thirty years is up for reletting. A letter asks whether anybody in the family wants it. You write back saying no.
-question: It's the anniversary of losing someone and nobody else has mentioned it. You...
-answerMost: take the day off and go through everything of theirs
-answerHigh: say the date out loud to somebody and mark it properly
-answerMid: do the one small thing you always do
-answerLow: notice it, and get on with the day
-answerLeast: realise at nine at night what the date was
-rorschachMost: a face with hollows in
-rorschachHigh: a curtain heavy with rain
-rorschachMid: a cloth eaten by moths
-rorschachLow: a window streaked once
-rorschachLeast: a dry cloth, folded
+facetLeast: Your friend rings to say her mum died in the night, and you're on the phone to her for half an hour. When you put it down you finish making your dinner and eat it in front of the telly.
+facetLeastAction: When you put it down you finish making your dinner and eat it in front of the telly.
+question: One hour a year, on the day they died, you can hear the voice of somebody you've lost. Everybody can. You...
+answerMost: take the hour, and keep the whole week round it clear
+answerHigh: take the hour, and tell people afterwards whose voice it was
+answerMid: use it some years and not others
+answerLow: let the hour go by and think of them on your own
+answerLeast: let the day pass like any other
+rorschachMost: a veiled figure
+rorschachHigh: a streaked window
+rorschachMid: a wilted wreath
+rorschachLow: a folded flag
+rorschachLeast: a stone face
 ---
 
 Hickory Kidney Beans are the Bean Zodiac's most mournful. They carry the people they have lost properly, out loud, on the dates that matter. Sometimes it never lightens at all. Being unmarked by a loss is not something they would want anyway.

@@ -17,32 +17,37 @@ antiTriple: spicy-roasted-chickpea
 antiBeans: [fava, green]
 antiForm: smoked
 seasonalFortune: "A season of three-year miso and closed doors. The barley koji keeps its own quiet library."
-fortuneMost: The silverfish lives its whole life in books and learns nothing.
-fortuneHigh: The answer is written down somewhere.
-fortuneMid: Read it before you need it.
-fortuneLow: Ask someone who's actually done it.
-fortuneLeast: Some things cannot be learned from a book.
+fortuneMost: Read enough about it and the doing never starts.
+fortuneHigh: A silverfish eats the paste out of old book spines.
+fortuneMid: The book had the answer after all.
+fortuneLow: Ask somebody who's done it.
+fortuneLeast: Practice teaches what reading cannot.
 facetMostTitle: The Name of the Bean
-facetMost: Three benches in the bindery, and you have been at the back one since it opened, and there is a wedding you said you would go to with the invitation in your coat. You are still at the sewing frame at six.
+facetMost: The whole family are down in the bar and it is the first time in four years they have all been in one place — your uncle has come from Canada for it — and you are up in the room, three hundred pages into something you started on the train. You put the do-not-disturb on the door.
+facetMostAction: You put the do-not-disturb on the door.
 facetHighTitle: The Bean Thief
-facetHigh: Nobody in the shed can get the old mower going. There is a manual for it in the house. You go in and find the manual.
+facetHigh: The new rota would get you off at four instead of six, which everybody else has been after for a year. What it takes away is the two hours in the canteen before you start, which is where you have got through most of what you have read in three years. The man doing the swaps has the sheet out. You ask to stay on the late one.
+facetHighAction: You ask to stay on the late one.
 facetMidTitle: Beanilda
-facetMid: A seed catalogue has come and there is an order to get in by the end of the week. You sit down with a pencil and go through the whole thing first.
-facetLowTitle: Beanhrenheit 451
-facetLow: There is a course on hedge-laying and you have read a good deal about hedge-laying, and you put your name down and turn up on the day with your hands empty.
+facetMid: The tour has fifteen minutes left and the specimens are what everybody has come for — the jars, the wax models, the skeleton of a man who sold it himself. Off the gallery there is a reading room where the surgeons' casebooks are kept, and a woman on the desk who will get one down if you ask. You spend the fifteen minutes in there.
+facetMidAction: You spend the fifteen minutes in there.
+facetLowTitle: Fahrenbean 451
+facetLow: You cannot swim properly and the adult lessons are Wednesdays at seven, which is the hour you read in and the only one you get; there are six weeks of them and no other time that runs. You put your name down.
+facetLowAction: You put your name down.
 facetLeastTitle: Cliff's Beans
-facetLeast: The man who taught himself the whole trade is explaining how he judges when the glue has gone off, and there is no book anywhere that says it that way. You listen, and you could not repeat a word of it tomorrow.
-question: How do you go about learning something new?
-answerMost: four books before you touch it
-answerHigh: one good book, and then you start
-answerMid: enough of it not to do it wrong
-answerLow: have a go, and look things up as you hit them
-answerLeast: get shown once, and never open a book
-rorschachMost: two books nobody has opened
-rorschachHigh: a shelf of shut volumes
-rorschachMid: two blocks side by side
-rorschachLow: a book left face-down
-rorschachLeast: a shelf of ornaments
+facetLeast: Your friend has taken you into the store where the pictures that are not up live on racks you pull out, and told you how a wall gets chosen and what the conservator does to a frame first. At the end she gives you the catalogue she wrote the essay in. You ask her to tell you the rest on the way out.
+facetLeastAction: You ask her to tell you the rest on the way out.
+question: Your niece has failed the exam and asks you how a person gets over that. You...
+answerMost: read her the passage, then two more from the same shelf
+answerHigh: find the passage that fits it exactly and read it out
+answerMid: lend her the book with the page marked
+answerLow: tell her what you did about it yourself
+answerLeast: say books won't help, and take her out
+rorschachMost: a walled library
+rorschachHigh: two thick volumes
+rorschachMid: a reading chair
+rorschachLow: a pint glass
+rorschachLeast: a remote control
 ---
 
 Cultured Navy Beans are the Bean Zodiac's most bookish. The right passage gets found and read aloud, and it does fit the situation exactly. Whole seasons pass indoors that way. Someone who hasn't finished a book since school baffles them more than they let on.

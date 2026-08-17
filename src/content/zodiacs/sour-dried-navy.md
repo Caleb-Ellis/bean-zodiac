@@ -17,32 +17,37 @@ antiTriple: bitter-fried-pinto
 antiBeans: [fava, green]
 antiForm: smoked
 seasonalFortune: "A season of dried apple and fixed rations — the store keeps its shape through every thaw."
-fortuneMost: Charging whatever is in the way, including a train - the rhinoceros.
-fortuneHigh: Vinegar without apology.
-fortuneMid: Over dinner someone will ask you to walk the position back.
-fortuneLow: Bend on the small one and lose nothing at all.
-fortuneLeast: The line you'd hold here is one you never actually drew.
-facetMostTitle: The Iron Beancurtain
-facetMost: Ten past six, and a man is at the door of the tool library with a broken thing under his arm. He has come a long way. You have the key in your hand, and you tell him the hours are on the door, and you lock up.
+fortuneMost: Immovable enough and the argument stops being about the thing.
+fortuneHigh: A rhinoceros charges what it cannot properly see.
+fortuneMid: Firmness ends more arguments than logic.
+fortuneLow: Give a little.
+fortuneLeast: Bending is how things survive weather.
+facetMostTitle: The Iron Beanain
+facetMost: Your gran's house has an offer on it and the four of you have to sign for it to go through. It is eleven thousand under, and your two cousins have spent the afternoon in this room working on you. The buyer walks at five. You say no again.
+facetMostAction: You say no again.
 facetHighTitle: The Beanstand
-facetHigh: There is a rule about deposits because of what happened last year, and it is your own brother asking. The deposit is taken.
+facetHigh: Your brother is at the door at eleven and it is the same amount as last time, which you said out loud was the last time. He has not come round in four months and he is not going to make this easy. You tell him no.
+facetHighAction: You tell him no.
 facetMidTitle: Bedrock Beans
-facetMid: There is a ticket system at the counter and somebody has come in and started talking without one, and you ask him to go back and take a number.
-facetLowTitle: Bend Me, Shape Bean
-facetLow: A woman has missed the cut-off by a day and there is a reason behind it and you have heard a good deal worse. You put her on the list and say nothing to anybody about it.
-facetLeastTitle: The Beanshape of Water
-facetLeast: Everybody agreed the cleaning rota for the hall and three of them have now asked to swap out. Each has a reason. You say yes to all three, and what is left has your name against four of the six weeks.
-question: A friend asks you to bend a rule you've enforced on strangers. You...
-answerMost: hold the rule and explain why it exists
-answerHigh: hold it, and say you're sorry it's them
-answerMid: hold it, but help them another way
-answerLow: bend it once and say nothing
-answerLeast: bend it, and the rule is gone after that
-rorschachMost: an iron bar, no bend
-rorschachHigh: a set square, true
-rorschachMid: a straight edge
-rorschachLow: a rod warming slightly
-rorschachLeast: a willow wand
+facetMid: The flight is oversold and the woman at the desk wants three of your six to go tomorrow instead. The wedding you are all going to is at two tomorrow and the next flight lands at four. She has offered four hundred pounds each. You tell her you are not splitting up.
+facetMidAction: You tell her you are not splitting up.
+facetLowTitle: Bean Me, Shape Me
+facetLow: You were the one who said no partners this year because of what last year turned into, everybody agreed, and one of them has now arrived with hers, the two of them standing in the hall with their bags. You tell them there is room.
+facetLowAction: You tell them there is room.
+facetLeastTitle: The Shape of Bean
+facetLeast: You are booking the meal for twelve and four of them have now asked for something different — earlier, later, somewhere cheaper, somewhere with a garden — and the place you actually wanted has gone. You say yes to the fourth one as well.
+facetLeastAction: You say yes to the fourth one as well.
+question: "You run the lending library at work: two books, two weeks, no exceptions. It's eleven at night and a friend messages asking for a third. You..."
+answerMost: hold to two, and point at the rule on the shelf
+answerHigh: give her the two a stranger would get
+answerMid: hold to two, and put the third aside for Monday
+answerLow: let her have the third and log it as two
+answerLeast: hand over whatever she asks for
+rorschachMost: a mooring post
+rorschachHigh: a set jaw
+rorschachMid: a stone step
+rorschachLow: a rubber mat
+rorschachLeast: a wet cloth
 ---
 
 Dehydrated Navy Beans are the Bean Zodiac's firmest. The rule is the rule at eleven at night for a friend, exactly as it is for a stranger. Sometimes the friend needed it not to be. Making a quiet exception isn't something they know how to do.

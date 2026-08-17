@@ -17,32 +17,37 @@ antiTriple: spicy-roasted-green
 antiBeans: [pinto, fava]
 antiForm: fried
 seasonalFortune: "A season of molasses and long baking — the pot puts away enough for later."
-fortuneMost: Cheeks full and nine caches dug, and the chipmunk will forget where six of them are.
-fortuneHigh: Take stock before you buy and come home with half the bags.
-fortuneMid: Pay full price for the one good thing and don't flinch at the receipt.
-fortuneLow: The no has tightened into a flinch.
-fortuneLeast: Round up.
-facetMostTitle: Silas Beanmarner
-facetMost: There are four spare kettles in the loft and a freezer nobody has been to the bottom of in three years, and somebody wants the loft for a bedroom. You go up and come down with nothing.
+fortuneMost: Store enough of it and the storing becomes the point.
+fortuneHigh: A chipmunk fills its cheeks past any sensible amount.
+fortuneMid: Having some put by is its own comfort.
+fortuneLow: Use it up.
+fortuneLeast: Spending it now is also a plan.
+facetMostTitle: Silas Marbean
+facetMost: You run the shelves at the food bank and there are ninety bags in the store room, more than there have been in a year. The family at the desk have three children, the woman asks whether there is any chance of a second bag, and she has used her last referral and cannot come back until the middle of next month. You give her the one.
+facetMostAction: You give her the one.
 facetHighTitle: Save It for a Rainy Bean
-facetHigh: Next year's seed is in the tin and the year after, labelled, and when the shop runs out in a bad year you are the one with enough for the street.
-facetMidTitle: Beanthrift Shop
-facetMid: There is one washer left in the drawer and you have just used it on a tap that will not need doing again for years. You put four more on the list before you have finished the job.
-facetLowTitle: Easy Come, Easy Bean
-facetLow: Good cheese has been in the fridge a fortnight waiting for an occasion. No occasion is coming that you can see. You have it on toast on a quiet evening, standing up, with the radio on and nobody else in the house.
-facetLeastTitle: Money for Beanothing
-facetLeast: Your buffer has gone on a good few weeks and the car needs an MOT. You put it on the card and do no sums.
-question: What's in your cupboards?
-answerMost: three spares of everything and a freezer nobody's seen the bottom of
-answerHigh: next year's in as well as this year's
-answerMid: enough, and a list of what's getting low
-answerLow: what you need for this week
-answerLeast: you find out at teatime
-rorschachMost: a granary packed to roof
-rorschachHigh: a larder stacked high
-rorschachMid: a tower of stored sacks
-rorschachLow: a shelf half cleared
-rorschachLeast: a bare pantry, door open
+facetHigh: The power has been off in the whole block since four and it is dark on the stairs by five. In your cupboard is a box of forty candles you bought two winters ago and have never needed. You go up all four floors knocking, with the box under your arm.
+facetHighAction: You go up all four floors knocking, with the box under your arm.
+facetMidTitle: Beanift Shop
+facetMid: You went in for one bulb because the one in the hall has gone, and the four-packs are eighty pence more than the single. You come out with two four-packs and put seven of them in the drawer.
+facetMidAction: You come out with two four-packs and put seven of them in the drawer.
+facetLowTitle: Easy Bean, Easy Go
+facetLow: There are no clocks anywhere in the casino, and the man at the window has changed up for the same four people all night without once looking at their faces. Your forty pounds for the night went in an hour, and the twenty-five left is the taxi home. You put twenty of it across the window.
+facetLowAction: You put twenty of it across the window.
+facetLeastTitle: Money for Beans
+facetLeast: It is your friend's birthday, there are eleven of you, the bill comes to four hundred and something which is what you have left for the rest of the month, and nobody has asked you to do anything about it. You put the whole bill on your card.
+facetLeastAction: You put the whole bill on your card.
+question: The freezer is full, there are two spares of everything in the cupboard, and the shop is a five-minute walk. What happens on the shop?
+answerMost: a third spare of everything comes back with you
+answerHigh: whatever has gone down to one spare gets replaced
+answerMid: the week's food, and one thing for the cupboard
+answerLow: just what's needed for the week
+answerLeast: the last of the flour gets used and nothing gets bought
+rorschachMost: a piled-high trolley
+rorschachHigh: a stack of firewood
+rorschachMid: a laden apple tree
+rorschachLow: a spilled purse
+rorschachLeast: an upturned pocket
 ---
 
 Candied Navy Beans are the Bean Zodiac's most provident. There is a spare of everything, a full freezer, and nobody in that house has ever been caught short. Sometimes the storing goes well past any use. Spending the last of something confidently is a feeling they distrust.

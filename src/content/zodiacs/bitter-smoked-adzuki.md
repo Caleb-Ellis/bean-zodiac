@@ -17,32 +17,37 @@ antiTriple: spicy-fried-edamame
 antiBeans: [kidney, pinto]
 antiForm: roasted
 seasonalFortune: "A season of black garlic and charred citrus — the smoke says something understood only later."
-fortuneMost: Knowing the shape of the whole meal, the python says nothing for a month.
-fortuneHigh: A stranger will tell you something and you'll know the truth of it three words in.
-fortuneMid: You have a read you'd put money on. Hand it over the first time it matters.
-fortuneLow: A flicker comes in ahead of the proof. Let the rest catch up.
-fortuneLeast: The thing you stood guard against all night drifted past in the dark and kept going.
-facetMostTitle: Beanpocalypse Now
-facetMost: Somebody at the observatory asks you what it is they are actually looking at up there, and there is a straightforward answer available. You tell them instead that the light set off before there was anybody here to see it, and you let the pause do the rest of the work.
+fortuneMost: Said gravely enough, everything sounds like a warning.
+fortuneHigh: Tell them what's coming.
+fortuneMid: A python feels the ground long before anything arrives.
+fortuneLow: Plain words would serve here.
+fortuneLeast: Plain words travel further.
+facetMostTitle: Beanocalypse Now
+facetMost: Your housemate has had the message open for an hour and cannot decide whether to answer it, and it is a man she went out with twice and likes. You tell her that some doors only open the once.
+facetMostAction: You tell her that some doors only open the once.
 facetHighTitle: The Beanracle
-facetHigh: The forecast is settled, the skipper is going out regardless, and the harbour is emptying. You tell him what the swell will be doing by dark.
-facetMidTitle: Minority Beanport
-facetMid: Two hours in the hide and nothing at all has come down to the water, so you say the one you are waiting on will show at dusk and go back to the flask.
+facetHigh: Three in the morning on the pier and your friend has had the worst year of her life and is asking what she is supposed to do now. She has had the practical advice from four people already. You tell her the year took away everything she was going to have to put down anyway.
+facetHighAction: You tell her the year took away everything she was going to have to put down anyway.
+facetMidTitle: Minority Beanort
+facetMid: Your neighbour mentions at the bus stop that her son has moved out and the room is still exactly how he left it. There is a normal thing to say back to that. You say that houses take a while to find out somebody has gone.
+facetMidAction: You say that houses take a while to find out somebody has gone.
 facetLowTitle: Straight Beans
-facetLow: The phone-in host wants to know what you reckon happens next. You say you do not know, in one sentence, and hand it back to him.
+facetLow: Your sister has been out driving with you six times now and on the way home she asks whether you think she will pass. You tell her she will pass if she stops rolling back on hills.
+facetLowAction: You tell her she will pass if she stops rolling back on hills.
 facetLeastTitle: Just the Facts, Bean
-facetLeast: Asked how long the limp has been there, you give the vet the number of days and nothing else at all.
-question: A friend asks whether you think their new business will work, and you're fairly sure it won't. How does the answer come out?
-answerMost: as something larger than the situation, and it lands that way
-answerHigh: as a read you would put money on
-answerMid: as a guess, with the reasons attached
-answerLow: as a plain maybe
-answerLeast: you do not say — you wait and see with everyone else
-rorschachMost: thunderhead over a low field
-rorschachHigh: smoke off a tripod
-rorschachMid: a cloud and a hill
-rorschachLow: a thin trail left
-rorschachLeast: a clear noon sky
+facetLeast: You were ten feet away on the pavement when the car came off the road, and now the barrister is inviting you to say what sort of state the driver seemed to be in. You have a view about that and it is a strong one. You give him the time, the distance and what the car did, and nothing else.
+facetLeastAction: You give him the time, the distance and what the car did, and nothing else.
+question: The school is burying a time capsule to be opened in fifty years, and they've asked you for one line to go in it. You...
+answerMost: give them four sentences on what the century is doing to people
+answerHigh: hand them one line that will mean more then than it does now
+answerMid: send something about this year, with a bit of weight on it
+answerLow: put down the weather and what a loaf costs
+answerLeast: tell them to put hello from us, hope you're all well
+rorschachMost: a storm bank
+rorschachHigh: a stone tablet
+rorschachMid: a cave wall
+rorschachLow: a doormat
+rorschachLeast: a price ticket
 ---
 
 Charcoal Adzuki Beans are the Bean Zodiac's most oracular. What they say about your situation is slightly too large for it, and eighteen months later it's the line you remember. The register can get heavy for a Tuesday. Plain advice, plainly given, isn't how they help.

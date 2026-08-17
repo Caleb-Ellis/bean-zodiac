@@ -17,32 +17,37 @@ antiTriple: sour-dried-edamame
 antiBeans: [cannellini, navy]
 antiForm: boiled
 seasonalFortune: "A season of amazake and cinnamon — the crock takes on whatever the kitchen was feeling."
-fortuneMost: The beluga hears the whole pod through the ice and cannot stop hearing it.
-fortuneHigh: The second cup, carried to the hands you somehow knew had needed it.
-fortuneMid: You knew before she said it, which is not always a gift.
-fortuneLow: Not every feeling in the room is yours to hold.
-fortuneLeast: Go when you said, with a hug and no apology.
-facetMostTitle: Single White Beanfemale
-facetMost: Her marriage has been coming apart for a year and you have taken every bit of it on board. You are not sleeping either now. Somebody points out that it is not your marriage, and you find you cannot really see the difference.
+fortuneMost: A beluga hears the whole pod through the ice and can't stop.
+fortuneHigh: Carry the second cup over.
+fortuneMid: Feeling it too is most of the help.
+fortuneLow: Put some of it down.
+fortuneLeast: Leave when you said you would.
+facetMostTitle: Single White Beanale
+facetMost: Your friend fell out with her sister in the spring over their mum's house, and you've heard every week of it from her side. The sister's coming the other way up the high street now, and she's never said a word out of turn to you. You cross over.
+facetMostAction: You cross over.
 facetHighTitle: Walk a Mile in My Beans
-facetHigh: He was not picked for the team and has come to tell you so. You feel the whole of it in your own chest before the boy has got to the end of it.
+facetHigh: Your friend's dog is on the table and the vet's asking her whether she wants to go ahead now. She's opened her mouth twice and nothing's come out. You can feel it going on in your own chest. You say yes for her.
+facetHighAction: You say yes for her.
 facetMidTitle: I Feel Bean
-facetMid: Asked how the neighbour is coping since the funeral, you already know the answer, because you have been round there twice.
-facetLowTitle: Cold Beanhearted
-facetLow: Somebody at the next desk has started crying and the whole room has gone careful about it. You get on with what you were doing and finish the page.
+facetMid: You're four rows back at your friend's daughter's assembly and she's stopped in the middle of the reading you heard her practise all week and gone red. You find you're mouthing the next line at her from where you're sat.
+facetMidAction: You find you're mouthing the next line at her from where you're sat.
+facetLowTitle: Cold Beaned
+facetLow: The two of you have walked round the park and your housemate's telling you about the break-up again, which is the fourth evening of it. You say you'll head back on your own.
+facetLowAction: You say you'll head back on your own.
 facetLeastTitle: The Tin Bean
-facetLeast: A family in a place you will never go to, and it is a bad report on a long night of them. You watch the whole thing through and think about the tea.
-question: A colleague you don't know well starts crying at their desk. You...
-answerMost: Feel it for the rest of the week
-answerHigh: Go over and ask what's happened
-answerMid: Give them a minute, then check in
-answerLow: Leave them to it, politely
-answerLeast: Carry on with what I was doing
-rorschachMost: a soaked cloth, still dripping
-rorschachHigh: a rain cloud, streaks below
-rorschachMid: a mop head
-rorschachLow: a wrung-out towel
-rorschachLeast: a slab of ice
+facetLeast: You do the tea round, which is fourteen beds, a trolley, and the family room at the far end. The woman in the third bed starts telling you about her husband and how it was at the end. You put her tea on the table and move on to the fourth bed.
+facetLeastAction: You put her tea on the table and move on to the fourth bed.
+question: There's a bench in the park where, if you sit beside somebody, you feel exactly what they feel for as long as you stay. Your neighbour is on it, in a bad way. You...
+answerMost: stay until you can't tell which of it is yours
+answerHigh: sit as long as she needs and take it as it comes
+answerMid: sit ten minutes, then move to the next bench and talk from there
+answerLow: talk to her standing up, off the bench
+answerLeast: walk past and leave her to it
+rorschachMost: a knot of roots
+rorschachHigh: a jellyfish
+rorschachMid: a sponge
+rorschachLow: a coat buttoned up
+rorschachLeast: a sealed tin
 ---
 
 Funky Chickpeas are the Bean Zodiac's most empathetic. They feel the other person's bad week in their own chest, which is why the advice fits so well. Sometimes they are so far inside it they can't get out. Staying unaffected isn't a defence they've built.

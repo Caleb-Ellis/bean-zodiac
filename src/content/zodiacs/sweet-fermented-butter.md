@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sweet-fermented-butter
-lastUpdated: 
+lastUpdated:
 bean: butter
 flavour: sweet
 form: fermented
@@ -17,32 +17,37 @@ antiTriple: spicy-dried-cannellini
 antiBeans: [navy, chickpea]
 antiForm: fried
 seasonalFortune: "A season of sweet doenjang and small nonsense — the glaze is not a serious glaze."
-fortuneMost: Everything a goose chick does is funny, and none of it is meant to be.
-fortuneHigh: Put googly eyes on something load-bearing.
-fortuneMid: Don't worry about making a mess if it wins a smile.
-fortuneLow: Not every silence is yours to break.
-fortuneLeast: When it has to be believed, say it plain.
+fortuneMost: Nobody takes a goose chick seriously, however hard it tries.
+fortuneHigh: Do the daft version.
+fortuneMid: The daft nickname is the one that sticks.
+fortuneLow: Be serious when it counts.
+fortuneLeast: Sometimes the joke can wait.
 facetMostTitle: The Naked Bean
-facetMost: The parents' race at sports day is fifty metres and you have turned up in a full gorilla suit. You lose badly. You stay in the suit for the rest of the afternoon, including the presentations and the drive home.
-facetHighTitle: Silly Beansymphony
-facetHigh: A whole rack of them in the hardware shop, and you have found the one shaped like a duck, and it is going on the shed.
-facetMidTitle: The Ministry of Silly Beans
-facetMid: There is a tandem in the shed and nobody to ride it with. You go out on the front on your own, and wave at people from it.
-facetLowTitle: The Beantrunchbull
-facetLow: A monkey is on the roof of your car at the wildlife park doing something to the aerial, and the whole queue behind is laughing. You get out and go and find the warden.
-facetLeastTitle: No Beannonsense
-facetLeast: The vegetable class at the village show has a joke entry, a parsnip somebody has dressed as a bishop. The judging is yours. You disqualify the parsnip, explain why to the hall, and take a good while over the explaining, in front of the boy who entered it.
-question: Somebody hands you a paper hat at the office Christmas lunch. You...
-answerMost: Put it on and find hats for everyone else
-answerHigh: Wear it happily all evening
-answerMid: Wear it for a bit
-answerLow: Hold it, then put it down somewhere
-answerLeast: Hand it straight back
-rorschachMost: a pratfall mid-air
-rorschachHigh: arms out, legs anywhere
-rorschachMid: a splat and its wisps
-rorschachLow: a grin held back
-rorschachLeast: a jaw set straight
+facetMost: The pair of you have been saying for months that you'd get the matching gravy boats done, and you've both had the drawing on your phones since June. He's got to the door and said he's not doing it. You have yours done.
+facetMostAction: You have yours done.
+facetHighTitle: Beany Synphony
+facetHigh: Four hours you've been waiting in here with your dad, and there are six other people in the room not talking to each other. There's a tank in the corner with three fish in it. You start the commentary on the fish.
+facetHighAction: You start the commentary on the fish.
+facetMidTitle: The Ministry of Beany Walks
+facetMid: You're painting your friend's shed while he's at work — he's paying for the paint and he'll be back at six — and there's enough of the green left over to do something with. You put a face on the door.
+facetMidAction: You put a face on the door.
+facetLowTitle: The Beanbull
+facetLow: It's your friend's kitchen and he's got you in for a night; there are nine tables on, the shout's been going ten minutes, and the two on the pass are betting on which table sends something back, which any other night you'd be in on. You tell them to get the food out.
+facetLowAction: You tell them to get the food out.
+facetLeastTitle: No Beansense
+facetLeast: You're driving the six of them back and they've spent an hour giving every roundabout on the route a name and a personality, and the two in the front have joined in. It's the funniest thing you've heard in months. You put the radio on and turn it up.
+facetLeastAction: You put the radio on and turn it up.
+question: Everyone is waiting in a very stiff room for the meeting to start. You...
+answerMost: do the voice, and keep doing it after it stops landing
+answerHigh: do the voice and get the room breathing again
+answerMid: say one daft thing and leave it there
+answerLow: sit it out straight-faced
+answerLeast: tell whoever started it to give over
+rorschachMost: a thrown custard pie
+rorschachHigh: a clown's wig
+rorschachMid: a whoopee cushion
+rorschachLow: a stiff collar
+rorschachLeast: a stone face
 ---
 
 Funky Butter Beans are the Bean Zodiac's most silly. They will do the voice, at fifty, in a serious room, and something in everyone relaxes. Sometimes there is no off switch when one was needed. Holding a straight face for ten minutes they can't manage.

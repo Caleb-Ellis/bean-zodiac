@@ -17,32 +17,37 @@ antiTriple: spicy-fermented-fava
 antiBeans: [green, edamame]
 antiForm: smoked
 seasonalFortune: "A season of coconut milk and palm sugar — the pot sweetens what the winter made hard."
-fortuneMost: The elephant carries the herd's grief, and no one carries hers.
-fortuneHigh: Sit with it. Don't try to fix it.
-fortuneMid: Most short tempers hide a long day.
-fortuneLow: Let someone else be the strong one for once.
-fortuneLeast: An empty pot cannot pour.
-facetMostTitle: Beanpity Party
-facetMost: Outside the bakery a man is asking for change and you have bought him a coffee and a pasty and you are still standing there. You are asking about the hostel, and whether his sister knows. There is a queue going round the pair of you onto the road.
-facetHighTitle: Schindler's Beanlist
-facetHigh: A colleague has said the marriage is over, plainly, in the corridor, four minutes before a meeting. You take her out to the yard.
-facetMidTitle: Kind Hearts and Beanoronets
-facetMid: A neighbour's boy has been in trouble at school and she is telling you about it at the gate, and you stay there and let her get to the end of it.
-facetLowTitle: Hard-Hearted Beanhannah
-facetLow: A friend has been let go and this is the third time in a fortnight she has told you about it. You call it bad luck. You ask what the plan is now.
-facetLeastTitle: Heart of Beanstone
-facetLeast: A child at the fair has lost whoever brought him and is standing by the coconut shy going red in the face. You look round for a woman in a coat like his, and you do not see one, and you go on to the tea tent.
-question: The man who does your garden turns up an hour late and tells you his father's just died. You...
-answerMost: sit him down, make tea, and he's there two hours
-answerHigh: tell him to leave the garden and stay a while
-answerMid: say you're sorry and ask if he wants to talk
-answerLow: say you're sorry, and let him get on with the hedge
-answerLeast: call it hard, and ask if he'll finish the hedge
-rorschachMost: an empty cupped hand
-rorschachHigh: a palm under a chin
-rorschachMid: a canopy over broken ground
-rorschachLow: an awning half rolled
-rorschachLeast: a fist on a ledger
+fortuneMost: Pity somebody enough and they become somebody to be pitied.
+fortuneHigh: An elephant stands over a fallen one for hours.
+fortuneMid: Kindness costs less than it looks.
+fortuneLow: Treat them as capable.
+fortuneLeast: Hard-heartedness gets the difficult job done.
+facetMostTitle: Beany Party
+facetMost: Your friend has not worked since the factory shut in January and this is the first jobs fair he has come to. He gives his name in at the first stand and the woman there asks what he has been doing. Four people are behind you. You tell her what sort of a year he has had.
+facetMostAction: You tell her what sort of a year he has had.
+facetHighTitle: Schindler's Bean
+facetHigh: Your friend's dad has three days in the hospice at most, the family are doing nights, and there is nobody for tonight, and you fly in the morning on a fortnight you booked and paid for in January. You tell him you will take the night.
+facetHighAction: You tell him you will take the night.
+facetMidTitle: Kind Beans and Coronets
+facetMid: A man is waiting with his mother, who keeps getting up and asking to go home while the rest of the room looks at the floor, and the receptionist has just called your name for the appointment you waited three weeks for. You tell her to take them ahead of you.
+facetMidAction: You tell her to take them ahead of you.
+facetLowTitle: Hard-Beaned Hannah
+facetLow: At half three a sergeant reads your brother's property back to him at the custody desk — belt, phone, eleven pounds. He starts on why he was there and what has been going on with him. You have been up since five and the car is outside. You tell him to get in the car.
+facetLowAction: You tell him to get in the car.
+facetLeastTitle: Bean of Stone
+facetLeast: The camera goes off and it is the woman you shared a flat with for four years, on the step with a bag. She has been sleeping in her car since her landlord put her out and is asking to stay till she sorts something, and you are on a train back at nine. You talk to her through it and tell her she cannot.
+facetLeastAction: You talk to her through it and tell her she cannot.
+question: You've twenty minutes to get to the surgery when a woman stops you on the towpath and says her husband went into a home this week. She isn't crying. You...
+answerMost: take both her hands and tell her how awful it is
+answerHigh: stand there and let her say it without lightening any of it
+answerMid: say you're sorry, and ask how the week has gone
+answerLow: call it a good home
+answerLeast: tell her that's the way of it and get on up the path
+rorschachMost: a weeping willow
+rorschachHigh: a hand on a shoulder
+rorschachMid: a lean-to shelter
+rorschachLow: a drawn curtain
+rorschachLeast: a butcher's block
 ---
 
 Candied Kidney Beans are the Bean Zodiac's most compassionate. They can sit with the worst version of somebody's news and never need it made lighter. Sometimes the sympathy arrives so thickly the person feels diminished. Being hard about it, once, is not in them.

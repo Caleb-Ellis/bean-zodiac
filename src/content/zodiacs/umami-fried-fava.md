@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-fried-fava
-lastUpdated: 
+lastUpdated:
 bean: fava
 flavour: umami
 form: fried
@@ -17,32 +17,37 @@ antiTriple: sour-smoked-mung
 antiBeans: [black, butter]
 antiForm: boiled
 seasonalFortune: "A season of wakame salt and steady hands — the pod has done this many times."
-fortuneMost: The saltwater crocodile waits at the crossing and has never once needed to hurry.
-fortuneHigh: The hard call has been waiting on you longer than you've been dreading it.
-fortuneMid: State the real number. What you were about to round it to was a flinch.
-fortuneLow: Take the edge off the sentence.
-fortuneLeast: Walk away from this one; the bruise outlasts the win.
+fortuneMost: A saltwater crocodile takes the water it wants and keeps it.
+fortuneHigh: Give the real number.
+fortuneMid: Certainty is worth more than the extra check.
+fortuneLow: Ask somebody who knows better.
+fortuneLeast: Doubt is what stops the bad call.
 facetMostTitle: Beanicarus
-facetMost: Not once since the car park have you looked at the map, and the path stopped being a path some while back. You tell them it is over the next rise. It is not over the next rise, and you tell them the same again at the one after.
-facetHighTitle: The Sure Beanthing
-facetHigh: That boiler is doing the thing again and the man wants two hundred just to look. You take the front off, find the fault in four minutes, and have it going before he would have arrived.
-facetMidTitle: Piece of Beancake
-facetMid: A question you know the answer to, and you give that answer without hedging and without checking whether anybody in the room agrees.
+facetMost: Six of you on the high street after the gig, and somebody asks when the last train is. You say twenty to twelve, and that there is time for chips first. One of them has her phone out to check. You tell her not to bother.
+facetMostAction: You tell her not to bother.
+facetHighTitle: The Sure Bean Thing
+facetHigh: Two in the morning in the waiting room, your mum in surgery, and your brother and your aunt cannot decide whether to wake the rest of the family or leave it until the morning. Nobody has told any of you how long it will be. You say ring them all now, and you start with your uncle.
+facetHighAction: You say ring them all now, and you start with your uncle.
+facetMidTitle: Piece of Bean
+facetMid: Two hundred people in the hall and the woman at the front is about to move on from the graph the whole case rests on. The second line turns the other way and nobody has said anything for a long few seconds. If it goes unsaid the room leaves believing it. You tell her the sample changed halfway through.
+facetMidAction: You tell her the sample changed halfway through.
 facetLowTitle: The Reluctant Beanutante
-facetLow: You have done the work and you know the material better than most here. Your hand goes half up and then comes down again.
+facetLow: The bank has taken the same sixty pounds twice and you checked it twice before you came in, but the man behind the glass turns his screen round and says both of them are legitimate. You say you will have another look at home.
+facetLowAction: You say you will have another look at home.
 facetLeastTitle: Beanutterflies
-facetLeast: Your talk is on the subject you have spent your life on and there are forty people waiting. You open by saying that others know far more about this than you do. You say so twice, and the second time somebody in the front row looks up.
-question: You've given an answer and somebody raises an eyebrow at it. What do you feel?
-answerMost: Nothing at all — I'm right
-answerHigh: Steady. I'd back it
-answerMid: A flicker, then I'd check
-answerLow: Immediate doubt
-answerLeast: Certain I've got it wrong
-rorschachMost: a head tipped right back
-rorschachHigh: a chin held high
-rorschachMid: a bust on a shelf
-rorschachLow: a head slightly bowed
-rorschachLeast: a chin dropped low
+facetLeast: A man is at the door of the night shelter twenty minutes after the cut-off, which exists because the beds get counted and phoned through at ten, and the two other volunteers are looking at you because you have been doing this the longest and they know the rule gets bent. You say it should be one of them who decides.
+facetLeastAction: You say it should be one of them who decides.
+question: The rota has collapsed at the café and nobody knows who is opening tomorrow. The four of them are looking at you. You...
+answerMost: give them a rota on the spot, for days you haven't checked
+answerHigh: give them tomorrow and Wednesday, and do the rest tonight
+answerMid: say who's opening tomorrow, and what you'd have to look up
+answerLow: put it to the four of them and let them settle it
+answerLeast: hand the rota to somebody else to set
+rorschachMost: a tipped-back hat
+rorschachHigh: a flourished signature
+rorschachMid: a turned key
+rorschachLow: a dipped toe
+rorschachLeast: a bitten lip
 ---
 
 Tempura Fava Beans are the Bean Zodiac's most assured. They take the room's uncertainty and answer it, and the answer usually holds. Sometimes the certainty runs out ahead of what they actually know. Saying they might be wrong takes real effort.

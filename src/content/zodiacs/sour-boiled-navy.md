@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-boiled-navy
-lastUpdated: 
+lastUpdated:
 bean: navy
 flavour: sour
 form: boiled
@@ -17,32 +17,37 @@ antiTriple: bitter-smoked-chickpea
 antiBeans: [green, adzuki]
 antiForm: roasted
 seasonalFortune: "A season of cider vinegar and plain instruction. The pot does exactly what the recipe said."
-fortuneMost: Words exactly right and not one of the meanings - the parrot.
-fortuneHigh: Take them at their word and see what happens.
-fortuneMid: One sentence doing two jobs is worth splitting.
-fortuneLow: It is not as it appears, and you will be last to hear.
-fortuneLeast: Read the room, not the sentence.
+fortuneMost: Take it all literally and the meaning walks off unnoticed.
+fortuneHigh: A parrot repeats it exactly and understands none of it.
+fortuneMid: Plain words prevent most arguments.
+fortuneLow: Read between the lines here.
+fortuneLeast: Half of what's meant is never said.
 facetMostTitle: Beanocchio
-facetMost: A clause says the work is to be completed by the end of the month, and somebody has asked whether that means working days. You get the contract, read the clause out, and then read out the definition of month.
+facetMost: You are putting the bags in your dad's boot when he says your mother has been asking whether you are eating properly. What she wants is for you to ring her, and he has driven forty minutes to say it. You tell him what you have had this week.
+facetMostAction: You tell him what you have had this week.
 facetHighTitle: Beanocop
-facetHigh: Somebody asks how long the drive was. You tell them three hours and fifty minutes. You tell them where you stopped, and why you stopped there, and what the road was doing at the time.
+facetHigh: The registrar reads back what will go on the certificate and asks whether that is correct. Your aunt wants it to say he died at home, because that is kinder and it is nearly true. You tell the registrar where he actually died.
+facetHighAction: You tell the registrar where he actually died.
 facetMidTitle: By the Bean
-facetMid: Two hundred grams, says the recipe, and there is a cup on the side somebody has used for it before and a set of scales at the back of the cupboard. You get the scales out and level the flour off with a knife.
+facetMid: The man in the bike shop has looked at your bike for about ten seconds and says it should be fine for another winter, and there are two things that could mean, and you are riding it home in the dark. You ask him what fine means.
+facetMidAction: You ask him what fine means.
 facetLowTitle: In the Mood for Bean
-facetLow: Somebody has said a thing about her sister that plainly means something else, and you go along with what she actually said.
-facetLeastTitle: Last Year at Beanienbad
-facetLeast: A friend has spent five minutes on a story that is obviously about her own situation and has never once said so. You answer in the same key, about somebody else entirely.
-question: Somebody asks you a question that plainly means something else. You...
-answerMost: answer exactly what was asked
-answerHigh: answer the question, and then the real one
-answerMid: answer the real one and skip the words
-answerLow: answer sideways, the way it was asked
-answerLeast: keep the whole thing at one remove
-rorschachMost: a block, no grain
-rorschachHigh: a plain word in wood
-rorschachMid: a brick and a chip
-rorschachLow: a knot in the plank
-rorschachLeast: a riddle carved in
+facetLow: The prices go up on the board in a hand nobody explains, and the man beside you has been in since it opened without writing anything down. He says, to nobody in particular, that the favourite in the two o'clock has had a very long trip up. You put your five pounds on something else.
+facetLowAction: You put your five pounds on something else.
+facetLeastTitle: Last Year at Marienbean
+facetLeast: Your partner asks straight out whether you want to go to her work thing at the weekend, and you do not, and saying so would land badly because she has asked twice already. You talk about how the week has been until she works it out.
+facetLeastAction: You talk about how the week has been until she works it out.
+question: Your friend asks whether you've heard how the house sale is going. You've heard that the survey came back badly and that his buyer is wobbling. You...
+answerMost: answer the question asked and stop, survey and buyer both unmentioned
+answerHigh: tell him what you heard about the survey, since that's what he asked
+answerMid: give him the survey, then mention the buyer as well
+answerLow: hint that there's more to it and let him ask
+answerLeast: talk round it until he works out what you know
+rorschachMost: a shop dummy
+rorschachHigh: a jigsaw piece
+rorschachMid: a key
+rorschachLow: a torn ticket
+rorschachLeast: a smoke signal
 ---
 
 Brined Navy Beans are the Bean Zodiac's most literal-minded. They answer the question asked, exactly, and the contract they wrote has never once been argued over. Jokes land a half-beat late. Hinting at a thing rather than saying it strikes them as a wasted sentence.

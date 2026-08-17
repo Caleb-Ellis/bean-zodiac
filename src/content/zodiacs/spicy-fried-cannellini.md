@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo rorschachs
 slug: spicy-fried-cannellini
-lastUpdated: 
+lastUpdated:
 bean: cannellini
 flavour: spicy
 form: fried
@@ -17,32 +17,37 @@ antiTriple: sweet-fermented-butter
 antiBeans: [adzuki, black]
 antiForm: roasted
 seasonalFortune: "A season of peperoncino oil and forward motion: the pan works toward something and won't stop."
-fortuneMost: Keep climbing — pay no attention to what you're stepping on.
-fortuneHigh: Aim past what they expect.
-fortuneMid: Take the road that climbs a little.
-fortuneLow: Not all good things need to become great things.
-fortuneLeast: Take it easy, don't worry about it.
-facetMostTitle: Beanburning Up
-facetMost: Sixty-one days at the oars and your hands have gone through a stage you were warned about and out the other side. The boat behind you turned back a fortnight ago. Stopping has not entered your head, and neither has anybody at home.
-facetHighTitle: Beandriven
-facetHigh: The bakery opens at five and you have been in at two every morning for a year now, and the second oven is going in next month.
-facetMidTitle: Beanblind Ambition
-facetMid: Given a free afternoon you put all of it into the thesis, because the thesis is the thing and the afternoon was never free.
-facetLowTitle: The Beandrifters
-facetLow: The boat is fuelled, the weather is fine, and nothing at all is stopping you going out. You sit on the harbour wall instead and watch the others go past.
-facetLeastTitle: No Beanplan
-facetLeast: Four hours on a bus to a town you picked off the map because the name was good. There is nothing there, you knew there would be nothing, and that was rather the point.
-question: You've hit the thing you were working towards. You...
-answerMost: Have the next one going already
-answerHigh: Enjoy it briefly, then look ahead
-answerMid: Take a proper break
-answerLow: Wonder what all that was for
-answerLeast: Wasn't working towards anything
-rorschachMost: a rearing stallion
-rorschachHigh: a leaning runner
-rorschachMid: a winter tree
-rorschachLow: a slumping scarecrow
-rorschachLeast: a coat on a hook
+fortuneMost: Ambition eats the years it was meant to buy.
+fortuneHigh: A husky will run until it's told to stop.
+fortuneMid: The next rung is always visible.
+fortuneLow: Good is a fine place to leave it.
+fortuneLeast: Drifting is allowed.
+facetMostTitle: Burning Bean
+facetMost: Your dad's seventieth is this weekend and your sister moved it once already so that you could be there. The judo trial you've been training two years for is the same day, there isn't another one, and the flight is booked. You get on the plane.
+facetMostAction: You get on the plane.
+facetHighTitle: Drivibean
+facetHigh: Eleven months into the surveying diploma, and it's your first day off in three weeks, and the four of them are going to the coast and there's room in the car. You've got the study room booked from nine. You go and put the day in.
+facetHighAction: You go and put the day in.
+facetMidTitle: Bean Ambition
+facetMid: It's your friend's last night before he goes to Australia and the eleven of them are staying till it shuts. You've been running the milk round on your own since March and the van has to be loaded at five, and he knows it. You go at nine.
+facetMidAction: You go at nine.
+facetLowTitle: The Bean Drifters
+facetLow: The woman who runs the nursery has walked you through what a room leader actually carries, the ratios and the sleep room and the key worker board, and it's more money and they'd pay for the level three; it would cost you your Fridays and the two evenings you've got. You tell her to give it to somebody else.
+facetLowAction: You tell her to give it to somebody else.
+facetLeastTitle: No Plan Bean
+facetLeast: Four weeks now with nothing lined up and no plan to make one, and your brother's walked the whole towpath asking what you're going to do; you're happier than you've been in about three years. You tell him there isn't one.
+facetLeastAction: You tell him there isn't one.
+question: You've finished the thing you were working towards all year. What happens now?
+answerMost: the next one starts that week, and nobody hears about either
+answerHigh: you take a weekend off, then start the next thing
+answerMid: you spend two weeks enjoying having done it
+answerLow: you coast for a month
+answerLeast: nothing is lined up, and that suits you
+rorschachMost: a burning tree
+rorschachHigh: a walker in a gale
+rorschachMid: a laden mule
+rorschachLow: a broken signpost
+rorschachLeast: a bag in the wind
 ---
 
 Red-Hot Cannellini Beans are the Bean Zodiac's most driven. Up at five, the qualification finished while working full time, and none of it announced. Sometimes no version of an evening counts as enough. Coasting for a fortnight is a thing they have never tried.

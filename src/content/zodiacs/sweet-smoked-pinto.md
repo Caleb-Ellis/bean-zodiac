@@ -22,15 +22,20 @@ fortuneMid: Do all nightmares begin as dreams?
 fortuneLow: Smoke is lovely; no one is fed by it.
 fortuneLeast: The day calls for specific answers, not vague ideas.
 facetMostTitle: Purple Bean
-facetMost: A friend asks whether they'd hit it off with someone you both half-know. You describe how the person laughs and what a room feels like once they've left it, never the job or the face.
+facetMost: A friend asks whether they'd hit it off with someone you both half-know. You describe how the person laughs and what a room feels like once they've left it.
+facetMostAction: You describe how the person laughs and what a room feels like once they've left it.
 facetHighTitle: Beanscape
 facetHigh: You'd take an apartment for the way afternoon light lays dappled across the walls and floor. Square footage, amenities, age of the building — not interested.
+facetHighAction: Square footage, amenities, age of the building — not interested.
 facetMidTitle: In Beans
-facetMid: Asked how the trip went, you could list the stops and the sights. But what really resonated was the smell of rain on hot stone, and the soft radio static that drifted through the streets.
+facetMid: Asked how the trip went, you could list the stops and the sights. What really resonated was the smell of rain on hot stone, and the soft radio static that drifted through the streets.
+facetMidAction: What really resonated was the smell of rain on hot stone, and the soft radio static that drifted through the streets.
 facetLowTitle: The Cold Bean of Day
 facetLow: A story reaches you from a second-hand source, highly outrageous and absent of details. Before you'll believe a word of it, you want who actually said what, exactly, and in what order.
+facetLowAction: Before you'll believe a word of it, you want who actually said what, exactly, and in what order.
 facetLeastTitle: Bean Bones
 facetLeast: The horoscope, the tarot card, a friend's new year's resolutions — you're not sold on any of it. You prefer the ledger, the figures, what's demonstrably true.
+facetLeastAction: You prefer the ledger, the figures, what's demonstrably true.
 question: A blank canvas, a warm open afternoon — it's been a while since you've picked up your brushes. You...
 answerMost: let a colour lead and follow it wherever it drifts
 answerHigh: chase the image of a half-remembered place

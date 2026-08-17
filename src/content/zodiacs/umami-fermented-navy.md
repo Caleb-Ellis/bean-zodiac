@@ -23,14 +23,19 @@ fortuneLow: Some dishes are done before the recipe says.
 fortuneLeast: Quick pickles keep their crunch.
 facetMostTitle: Slow Bean to China
 facetMost: You are having a headstone made for your father, and you're still figuring out the wording even though it's been many months. The stonemason rings to ask if he can cut it, otherwise he'll charge for holding materials. You tell him not yet.
+facetMostAction: You tell him not yet.
 facetHighTitle: The Long Bean
-facetHigh: You are buying a second-hand car off a man selling it from his driveway. He mentions another buyer is coming at five. Regardless, before you consider taking it you'll have gotten under it with a torch.
+facetHigh: You are buying a second-hand car off a man selling it from his driveway. He mentions another buyer is coming at five. Before you consider taking it you'll have gotten under it with a torch.
+facetHighAction: Before you consider taking it you'll have gotten under it with a torch.
 facetMidTitle: One Bean at a Time
 facetMid: You meet the cutest ever dog at the rescue shelter — big eyes, very happy, it takes a liking to you instantly. You could probably take it home today. The woman there says another family is coming to see the same dog. You leave without saying yes, and spend the evening reading up on the breed and everything that dog ownership entails.
+facetMidAction: You leave without saying yes, and spend the evening reading up on the breed and everything that dog ownership entails.
 facetLowTitle: Free Bean
-facetLow: It's a scorching hot weekend, and you are walking by a river. People are swimming in it. You weren't planning to, but you leave your clothes on a rock and get in too.
+facetLow: It's a scorching hot weekend, the hottest summer recorded, and you are walking by a river. People are swimming in it. You weren't planning to, but you leave your clothes on a rock and get in too.
+facetLowAction: You weren't planning to, but you leave your clothes on a rock and get in too.
 facetLeastTitle: Jumping the Bean
 facetLeast: A friend is getting a tattoo and you have gone along to watch. The tattoo artist says there's a chair free for the next hour if you want to get anything. You take them up on the offer.
+facetLeastAction: You take them up on the offer.
 question: You're interested in joining a band. Your mate happens to have got one together and has kept the bass spot open for you. They ask if you want to join. You...
 answerMost: say you'll think about it
 answerHigh: say you'll tell them soon, once you know where you stand with exams

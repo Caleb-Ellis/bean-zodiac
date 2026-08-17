@@ -2,7 +2,7 @@
 # TODO: tidy facets, redo fortunes, redo rorschachs
 # should be admiring / covetous / unimpressed
 slug: sour-smoked-cannellini
-lastUpdated: 
+lastUpdated:
 bean: cannellini
 flavour: sour
 form: smoked
@@ -18,32 +18,37 @@ antiTriple: sweet-roasted-adzuki
 antiBeans: [chickpea, kidney]
 antiForm: fried
 seasonalFortune: "A season of smoked lemon and fine points — the cure finds the seam and opens it."
-fortuneMost: Everything the shrike catches ends up on the thorn, kept and looked at.
-fortuneHigh: Ask the question you already know the answer to.
-fortuneMid: Name the bad number where it sits, not in the car afterward.
-fortuneLow: You can be right and unwelcome in the same breath.
-fortuneLeast: Hold the blade.
+fortuneMost: A true thing aimed well takes years to heal.
+fortuneHigh: Ask the question nobody will.
+fortuneMid: A shrike keeps what it catches on a thorn.
+fortuneLow: Blunt it a little.
+fortuneLeast: A blunt tool is safer to hand round.
 facetMostTitle: Death by a Thousand Beans
-facetMost: Eight hundred words on a show that took four people two years. You find the exact thing that is wrong with it and you name it, and the phrase you use is the one quoted back at them for the rest of their working lives.
+facetMost: Four days into a walking week that has gone wrong in every way possible, and the six of you are on the wall outside the bunkhouse arguing about the maps and the buses again. Nobody has been ready to leave before ten on a single morning, and the same person is holding everybody up each time. You say out loud which one of them that is.
+facetMostAction: You say out loud which one of them that is.
 facetHighTitle: Cut to the Bean
-facetHigh: Two questions into the cross-examination the witness has changed a small detail of the timing. You go straight at the change and stay on it.
-facetMidTitle: Beanpins and Needles
-facetMid: Over lunch you ask your brother a question about the business that nobody in the family has asked him, and the table goes very quiet.
-facetLowTitle: Beandull Blade
-facetLow: Something on the scan is being explained to you and the words are going past. You nod along, you take none of it in, and you do not ask again.
-facetLeastTitle: The Beanbutter Knife
-facetLeast: Row of letters up on the wall, and the optician asks which is clearer, one or two. They are the same. They are the same for the next four as well, and you say so.
-question: You're in a conversation where everyone is talking around the real issue. You...
-answerMost: Name it, and don't soften it
-answerHigh: Ask the question everyone's avoiding
-answerMid: Steer it closer without forcing it
-answerLow: Follow whatever they want to talk about
-answerLeast: Not notice there was another issue
-rorschachMost: a boar's shoulder, head down
-rorschachHigh: a whale's back
-rorschachMid: a low flat island
-rorschachLow: a risen dough
-rorschachLeast: a plumped pillow
+facetHigh: Your friend is about to sign for the phone and the two years that come with it, and the man behind the counter has said the word free four times. You ask him what the handset costs on its own.
+facetHighAction: You ask him what the handset costs on its own.
+facetMidTitle: Pins and Beanles
+facetMid: The new window display has been up a fortnight and the manager is telling the four of you on the rota that people just are not coming in this year. There is a closed sign on the back of the door that nobody has turned round. You tell her it is the sign, not the year.
+facetMidAction: You tell her it is the sign, not the year.
+facetLowTitle: Bean Blade
+facetLow: You have been coming to see your friend's brother once a month for two years, and in the visiting hall today he has the appeal worked out on three sheets of paper. Two minutes in you can see where it stops, and he asks what you think. You tell him it sounds like it could work.
+facetLowAction: You tell him it sounds like it could work.
+facetLeastTitle: The Beanter Knife
+facetLeast: Everyone in the writing class reads out and everyone else says one thing about it, and the piece before yours does not work anywhere while the woman who wrote it sits with her pen up ready. You say the first paragraph has a good rhythm to it.
+facetLeastAction: You say the first paragraph has a good rhythm to it.
+question: At the club's annual meeting somebody lays out the plan for next season, and there's one thing in it that will sink the whole thing. You...
+answerMost: name it in six words, in front of the room
+answerHigh: name the flaw plainly, so it can't be missed
+answerMid: name it, and say what would fix it
+answerLow: raise it as a question rather than a flaw
+answerLeast: leave it, and hope somebody else spots it
+rorschachMost: a shard of glass
+rorschachHigh: a thorn on a branch
+rorschachMid: a drawing pin
+rorschachLow: a butter knife
+rorschachLeast: a rounded pebble
 ---
 
 Cured Cannellini Beans are the Bean Zodiac's most piercing. They name the flaw in the plan in six words, and everyone knows at once that it is the flaw. The six words sometimes go further in than the plan needed. Making a criticism dull enough to bear isn't their instinct.

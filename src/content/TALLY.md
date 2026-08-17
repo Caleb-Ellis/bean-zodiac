@@ -952,3 +952,655 @@ question share back toward 25% on the next batch.
 - Number words count as concrete openers, so "Ninety seconds of totality" passes.
 - `castle` and `gamekeeper` in the settings census needed word boundaries —
   `king` was matching inside *looking*, `ranger` inside *stranger*.
+
+---
+
+# Question rewrite pass (2026-08)
+
+A second pass over the 296 entries without `lastUpdated`, rewriting `question`
+and the five `answer*` fields only. Facets are untouched and get rewritten after,
+so the question claims its setting first and the facet pass works around it.
+
+Process and rules live in the plan; enforcement lives in
+`scripts/lint-questions.mjs` (run with `--file=<batch>` before applying, `--axis`
+for the neighbour-trait report). Every batch must reach PASS, and every line of
+the REFERENT WORKSHEET must be resolved by hand before the batch is presented.
+
+Rules added mid-pass, each after a failure got through:
+
+- **End on the act.** No trailing clause narrating the result — "and lose the
+  room", "and watch the room adjust".
+- **No presumption.** An answer may not assert something that happened to the
+  reader which the question never established ("the good thing that happened,
+  because there was one" out of "an ordinary evening").
+- **Referents.** Every pro-form must have an antecedent in the question; a
+  definite article presumes, an indefinite one introduces. Worksheet-enforced.
+- **Axis falsification.** The scene must not serve the trait's neighbours equally
+  well. A power cut testing *transfixing* by "do you tell a story" served
+  spellbinding, bewitching and arresting identically — and was a skill test.
+- **No heavily UK-coded slang** — lad, bloke, mate, quid, chuffed.
+
+## adzuki — 24 entries · 19 S / 5 Q
+
+| Entry | Question setting | Q |
+| --- | --- | --- |
+| bitter-boiled | last day of the season at the lido | S |
+| bitter-dried | booking the table, who gets asked | Q |
+| bitter-fermented | the town as it stood two hundred years ago | S |
+| bitter-fried | first-aid course, compressions on the dummy | S |
+| bitter-roasted | recording a two-minute volunteer video | S |
+| bitter-smoked | one line for a school time capsule | S |
+| sour-boiled | leaving card for a near-stranger | S |
+| sour-dried | first review of your sister's café | S |
+| sour-fried | barber's remark about your hairline | S |
+| sour-roasted | first night of the pottery class | S |
+| sour-smoked | a note naming what somebody is hiding | S |
+| spicy-boiled | tombola at the school fete, crowd thinned | S |
+| spicy-dried | the bike you saved all year for | Q |
+| spicy-fermented | fair machine playing your happiness aloud | S |
+| spicy-roasted | best in show, past winner came second | S |
+| spicy-smoked | people stop and listen when you talk | S |
+| sweet-boiled | a completely ordinary day, someone asks | S |
+| sweet-dried | brother-in-law lists what's wrong with the club | S |
+| sweet-roasted | how your evenings out end | Q |
+| umami-boiled | closest friend away three weeks, barely a word | S |
+| umami-dried | the oldest thing you own | Q |
+| umami-fermented | the cinema you grew up in comes down Monday | S |
+| umami-fried | meeting about closing the library | S |
+| umami-smoked | the meal your family has eaten every year | Q |
+
+### Watch list
+
+- `say` opens 9 of 120 answers — the standing drone. Cap is 8% per batch.
+- Fair/fete appears twice (spicy-boiled, spicy-fermented). Don't reach for a
+  fairground again in the next two beans.
+- Two "someone lists what's wrong with X" shapes (sweet-dried, umami-fried) —
+  both survived because the acts differ, but a third would be a cluster.
+
+## black — 27 entries · 19 S / 8 Q
+
+| Entry | Question setting | Q |
+| --- | --- | --- |
+| bitter-dried | how long a call to fix a time takes | Q |
+| bitter-fermented | a remark from Monday, still there Thursday | S |
+| bitter-fried | son's account of the broken window | S |
+| bitter-roasted | dropping the cake carrying it in | S |
+| bitter-smoked | one hour a day your face shows everything | S |
+| sour-boiled | two hours to stocktake before opening | Q |
+| sour-dried | telling the volunteer the shop is closing | S |
+| sour-fermented | the one door shut all afternoon | Q |
+| sour-fried | one six-word message a day | S |
+| sour-roasted | a decent joke about the food bank | S |
+| sour-smoked | "work has been interesting lately" | S |
+| spicy-boiled | year four of night classes, same module failed twice | S |
+| spicy-dried | brother has spent the money you put aside | S |
+| spicy-fried | school says no to the maths set, twice | S |
+| spicy-roasted | the seat next to you at a gathering | Q |
+| spicy-smoked | her remark in March, and it's September | S |
+| sweet-boiled | new path off a six-year walking route | S |
+| sweet-dried | message from fifteen years ago | S |
+| sweet-fermented | a thought running under the evening | Q |
+| sweet-fried | six weeks of swimming before work | S |
+| sweet-roasted | a story that landed badly | S |
+| sweet-smoked | their name twice in one afternoon | Q |
+| umami-boiled | the job that comes up every three years | Q |
+| umami-dried | nephew asks whether it gets easier | S |
+| umami-fermented | snapped over the bin not going out | S |
+| umami-roasted | her row with her sister, and you can see it | S |
+| umami-smoked | a few words at your dad's seventieth | Q |
+
+### Watch list
+
+- Near-neighbour pairs inside this bean that needed deliberate separation:
+  **laconic** (bitter-dried) vs **clipped** (sour-fried) — social brevity vs
+  functional instruction; **perceptive** (sour-fermented) vs **penetrating**
+  (sour-smoked) — silent inference vs active questioning; **contained**
+  (spicy-dried) vs **smouldering** (spicy-smoked) — general non-expression vs one
+  specific grievance kept alive; **ruminative** / **pensive** / **introspective**
+  across three forms.
+- `spicy-fried` first drafted as a council-crossing campaign and collided with
+  `spicy-boiled-kidney` on three props at once. Swapped to a school maths set.
+- Q share landed at 30%, the top of the band. Pull toward 25% next bean.
+
+## butter — 23 entries · 18 S / 5 Q
+
+| Entry | Question setting | Q |
+| --- | --- | --- |
+| bitter-dried | pipe goes an hour before the party | S |
+| bitter-fermented | daughter asks why eleven o'clock | S |
+| bitter-fried | how the housemate hears about the lottery win | Q |
+| bitter-roasted | email says you didn't get the job | S |
+| bitter-smoked | a room where time doesn't pass | S |
+| sour-boiled | a week where every sentence must be true | S |
+| sour-dried | the food at your daughter's eighteenth | Q |
+| sour-fermented | write-up credits somebody else | S |
+| spicy-boiled | blistered hands, gloves held out, hottest day | S |
+| spicy-dried | third week of two jobs, printer jams | S |
+| spicy-fermented | what your mornings are like | Q |
+| spicy-fried | first snow, street out with bin lids on the hill | S |
+| spicy-roasted | free afternoon, sun out | S |
+| spicy-smoked | your voice carries only to who you look at | S |
+| sweet-boiled | friend's photo of you asleep on a pavement, seen at work | S |
+| sweet-fermented | stiff room before the meeting starts | S |
+| sweet-fried | camping weekend rained off, sat in the car | S |
+| umami-boiled | first empty Sunday in months, partner on the sofa | S |
+| umami-dried | someone being rude to the waiter | S |
+| umami-fermented | brother's claim at dinner, everyone looks | S |
+| umami-fried | same job, better money, three hundred miles | Q |
+| umami-roasted | fourth person ringing to talk through a bad week | S |
+| umami-smoked | people at seven, what five o'clock looks like | Q |
+
+### Watch list
+
+- The hardest bean so far for near-neighbours: **tranquil · still · nonchalant ·
+  stoic · deadpan · taut** all read as "unbothered" until each got its own axis —
+  chaos around you / bodily motion / whether the result matters / whether you
+  report the cost / delivery register / how tightly you hold. Then **restful ·
+  settled · mellow · languid · comfortable** in umami and sweet, split as effect
+  on others / appetite for change / sharpness when needed / tempo / ease.
+- `umami-fermented` first drafted as a committee place with a deferred answer,
+  which is umami-fermented-navy's approved band question almost exactly. Moved to
+  a disagreement at dinner so it tests responding, not committing.
+- Three fantastical premises this bean (time room, true-sentence week, voice that
+  only carries where you look) — one per group as intended, but don't add a
+  fourth in cannellini's first group.
+
+## cannellini — 24 entries · 19 S / 5 Q
+
+| Entry | Question setting | Q |
+| --- | --- | --- |
+| bitter-boiled | friend's offer on a house seen once | S |
+| bitter-fermented | canal plaque with a new fact each morning | S |
+| bitter-fried | proof with the back-page type sitting low | S |
+| bitter-roasted | hanging three pictures in a new flat | S |
+| bitter-smoked | rocking horse in the shed since spring | S |
+| sour-boiled | how long the drive up takes | Q |
+| sour-dried | rules board that turns red when one is broken | S |
+| sour-roasted | sister's new business idea, which won't work | S |
+| sour-smoked | the flaw that will sink next season's plan | S |
+| spicy-boiled | re-pointing the back wall yourself | S |
+| spicy-dried | somebody says the date you picked clashes | Q |
+| spicy-fermented | cake for the village show, last year's winner | S |
+| spicy-fried | year's goal finished, what happens now | Q |
+| spicy-roasted | people believe a plan when you explain it | S |
+| spicy-smoked | rooms go quiet for a second when you enter | S |
+| sweet-boiled | nephew asking for a third loan | S |
+| sweet-fermented | two friends, same night | S |
+| sweet-fried | present between four for a fortieth | Q |
+| sweet-roasted | neighbour at the door with a parcel | S |
+| sweet-smoked | brother-in-law off work three months, unnamed | S |
+| umami-boiled | a transposed row in figures already sent | Q |
+| umami-dried | opening the pavilion at your club of thirty years | S |
+| umami-fermented | empty-shops scheme, one taker in a year | S |
+| umami-fried | good work, and the company makes munitions | S |
+
+### Watch list
+
+- Four "high standards" traits needed separating by object: **exacting** (a
+  product's flaws) · **painstaking** (labour in the process) · **precise**
+  (exactness of a statement) · **stringent** (rules applied to people). Plus
+  **piercing** vs **frank** (sharpness vs directness) and **arresting** vs
+  **charismatic** (presence vs persuasion).
+- **judicious** here is advising *someone else's* decision, which is what keeps it
+  clear of umami-fermented-navy's approved **deliberate** (committing to an offer).
+- `bitter-fermented` avoided the retired "wrong fact, table nods along" beat by
+  making the scholarship self-directed — this entry had already been replaced once
+  for exactly that beat.
+- `bitter-roasted` first drafted as two greens for a hall, which collides with
+  bitter-fermented-pinto's kitchen-tile facet. Moved to hanging pictures.
+- Two skill-test traits (**charismatic**, **arresting**) settled as givens in the
+  question — "people believe it, they always have" — so the answers test what you
+  do with the effect, not whether you can produce it.
+- Process note: a `lint | tail` pipeline masks the exit code and let a failing
+  batch apply. Always capture to a file and check `$?` before applying.
+
+## chickpea — 24 entries · 17 S / 7 Q
+
+| Entry | Question setting | Q |
+| --- | --- | --- |
+| bitter-boiled | last over, umpire's call against your side | S |
+| bitter-dried | first week in the choir, asked about the conductor | S |
+| bitter-fermented | sister's message: "fine, come at eight then" | S |
+| bitter-roasted | a different city at the end of the street each night | S |
+| bitter-smoked | club barbecue split between old players and this year's team | S |
+| sour-boiled | two swimming-club parents, one coaching slot | S |
+| sour-dried | school fair cake out flat as a plate | S |
+| sour-fermented | school places by distance, aunt inside the line | S |
+| sour-fried | picnic for twenty, field fenced off | Q |
+| sour-roasted | guest list for a noise gig you can't stand | S |
+| sour-smoked | asking your brother for the van, football on | S |
+| spicy-boiled | school play tomorrow, costume hire gone | S |
+| spicy-dried | sister sacked, lunch at your parents' in an hour | S |
+| spicy-fried | reservoir swimmable from the road | Q |
+| spicy-roasted | house to yourself for three nights | S |
+| spicy-smoked | what you do while the kettle boils | Q |
+| sweet-boiled | coat from partner's parents, two sizes too big | S |
+| sweet-dried | nephew's school project on his grandad | S |
+| sweet-fermented | park bench that gives you what the sitter feels | S |
+| sweet-fried | changing room after losing the cup final | S |
+| sweet-roasted | last hour of your birthday do, caretaker wants the keys | Q |
+| sweet-smoked | famously sour man on the garage counter | Q |
+| umami-dried | niece with half an hour before her train | Q |
+| umami-smoked | friend who didn't get the house, sat in his kitchen | S |
+
+### Watch list
+
+- Two near-identical body descriptions inside this bean: **conciliatory**
+  (bitter-boiled) and **fair-minded** (sour-boiled) are both "puts the other
+  side's case better than they did". Separated by where the reader stands —
+  conciliatory is *inside* the dispute (your own side's appeal), fair-minded is
+  *outside* it, being asked to take a side. Never write either as the other.
+- Four sweet traits that all read as "nice to be around": **agreeable**
+  (registering a preference) · **fun** (whether the occasion is bigger for you)
+  · **funny** (whether the register stays light) · **charming** (effect on one
+  difficult person). Each needed a different object of measurement.
+- Three skill-shaped traits settled as givens in the question — charming ("sour
+  with everybody who comes in"), funny, resourceful — so the vote is what you do,
+  not whether you can.
+- Sport appears twice (cricket in bitter-boiled, cup final in sweet-fried) and
+  the swimming club once. No more team sport for two beans.
+- Two fantastical premises, one per half of the bean: the nightly city
+  (bitter-roasted), the bench that transmits feeling (sweet-fermented).
+- Process faults corrected mid-bean, both mine, both already printed by the
+  linter as notes I skimmed: an answer naming a thing the question never
+  established (the mother's address; "three going at once"), and Q-shape answers
+  written as headless noun phrases. The second was swept across the earlier beans
+  — `sour-fried-chickpea`, `spicy-fried-chickpea`, `spicy-dried-cannellini`,
+  `spicy-fried-cannellini`, `umami-boiled-cannellini`, `umami-fried-butter` all
+  rewritten as clauses.
+- Linter changes this bean: the opening-word share cap now counts verbs only.
+  It had been capping articles and pronouns, which under a standalone question
+  are grammar, and it was bending answers into worse English to satisfy it.
+
+## edamame — 22 entries · 16 S / 6 Q
+
+| Entry | Question setting | Q |
+| --- | --- | --- |
+| bitter-fried | three paint tins, decorator waiting | S |
+| bitter-smoked | job offer nobody knows about, family on Sunday | S |
+| sour-boiled | brother's spreadsheet, one month that fails | S |
+| sour-dried | committee promise to gate the alley, nobody costed it | S |
+| sour-fermented | roof fund at nine thousand, no statement in two years | S |
+| sour-fried | trousers for the interview, navy ones on the bed | Q |
+| sour-roasted | cousin's extension wiring, your price and your evenings | S |
+| sour-smoked | one line in the chairman's newsletter piece | Q |
+| spicy-boiled | one dry Saturday, fence panels stacked | Q |
+| spicy-dried | new club badge, a fox in a suit | S |
+| spicy-fermented | dryer belt gone, inner tube and jubilee clips | Q |
+| spicy-fried | the van leaves at six, two want seven | S |
+| spicy-roasted | Saturday shift at the bakery, never made bread | S |
+| spicy-smoked | planning meeting, yours the last hand up | S |
+| sweet-boiled | aunt's Tuesday lift against a wedding | Q |
+| sweet-fermented | the welcome talk, given thirty times | S |
+| sweet-fried | club website untouched since 2019 | S |
+| umami-boiled | cutting the pitch eleven years, knee going | Q |
+| umami-dried | the 2011 filing system versus new software | S |
+| umami-fermented | brother-in-law's new watch, off the sugar | S |
+| umami-fried | a book about beekeeping | S |
+| umami-roasted | the flat she'd hear about in June | S |
+
+### Watch list
+
+- The sour group is this bean's hard cluster — **logical · pointed · sceptical ·
+  blunt · forthright · surgical** all read as "says the hard thing". Split by
+  object, and the split is the record: reasoning inside a plan / one question at
+  the weakest join / where the number came from / how much padding sits round a
+  fact / your own terms stated first / the one thing removed unannounced. Never
+  write any of them as another.
+- **pointed vs surgical** = expose with a question vs excise and repair unseen.
+  **blunt vs forthright** = strip padding off news vs declare your own want.
+  **logical vs sceptical** = does the argument follow vs is the input real.
+- Spicy needed the same treatment for **emphatic · feisty · confident**: force
+  behind a statement / staying in a fight you're outmatched in / putting yourself
+  forward past your proof.
+- No fantastical premise this bean. Edamame is the pragmatist and every trait
+  wanted a real object with a real cost; forcing an impossible premise in would
+  have cost more than it bought. Fava should carry two to make it up.
+- Rules added mid-bean, both after Caleb rejected lines of mine:
+  **name content, not quantity** ("give them the whole of it, start to finish"
+  says nothing — 2 of 64 approved entries use a vague-quantity phrase against 11
+  of mine), and **no manner tails** ("before either of them has spoken" implies
+  haste by narrating what other people hadn't done yet — 0 in the approved
+  corpus). Both are now hard linter failures, along with a pair check that fails
+  any two answers whose content words match apart from quantity words.
+- The plan now carries a **five-moves table** written before any prose: verb,
+  object, content named, one row per slot, no two rows sharing an object and no
+  row distinguished by amount. That is the answer to "five answers, one act at
+  five volumes", which was the standing failure across every bean before it.
+
+## fava — 27 entries · 21 S / 6 Q
+
+| Entry | Question setting | Q |
+| --- | --- | --- |
+| bitter-boiled | flooded scout hut, somebody goes in first | S |
+| bitter-dried | the trip you said no to, five have swung | S |
+| bitter-fermented | fortnight on nights nobody can account for | S |
+| bitter-fried | singer's voice gone an hour before the set | S |
+| bitter-roasted | steak back grey and cold, table of eight eating | Q |
+| bitter-smoked | brother round to settle permit and invoice | S |
+| sour-boiled | boy charged adult fares for a year | S |
+| sour-fermented | table agreed the one-way system is a disaster | S |
+| sour-fried | caravan for four hundred if yes tonight | Q |
+| sour-roasted | partner's formal parents, the good room | S |
+| sour-smoked | sister's shop books before she signs the lease | S |
+| spicy-boiled | fifth asking for a dog since March | S |
+| spicy-dried | corner unit, you can afford half | S |
+| spicy-fermented | visitors' book nobody reads, queue at the door | S |
+| spicy-fried | a berth on tomorrow's overnight leg | S |
+| spicy-roasted | fortnight off: known coast or the ferry | Q |
+| spicy-smoked | band stopped, bar shut, speaker and an empty field | S |
+| sweet-boiled | dad's third watercolour, sky works, boats don't | S |
+| sweet-dried | piece turned down three times, ill since February | Q |
+| sweet-fermented | lido shut nine years, council will pay for the fence | S |
+| sweet-roasted | friend and the head of department job, closes Friday | S |
+| sweet-smoked | the toast at your brother's wedding | S |
+| umami-boiled | leaving at forty, and the promotion at thirty-nine | S |
+| umami-dried | buyers arrive under the agreed price | Q |
+| umami-fried | café rota collapsed, four people looking at you | S |
+| umami-roasted | float money, told twice the matter is closed | S |
+| umami-smoked | marquee reception, storm putting the sea over the wall | S |
+
+### Watch list
+
+- The biggest near-neighbour field in the whole corpus: **dauntless · fearless ·
+  headlong · adventurous · audacious · swift · wild · adamant · defiant ·
+  indomitable** all read as "brave". Separated by object, and this is the record:
+  going *first* into the cold (dauntless) / pulse level during the act itself
+  (fearless) / scale of the rearrangement after the yes (headlong) / unfamiliar
+  chosen over known (adventurous) / size of the ask made of someone with power
+  (audacious) / time between offer and yes (swift) / how far into a night you go
+  (wild) / a no held against a repeated ask (adamant) / not dropping what you were
+  told to drop (defiant) / continuing after refusals (indomitable).
+- **steely vs adamant** — holding a position in an argument as the room turns vs
+  refusing a request that keeps coming back. **swift vs headlong** — the speed of
+  the yes vs what the yes commits.
+- **encouraging vs emboldening** split as praising a thing already made vs
+  getting somebody to take an action they haven't taken.
+- Skill-shaped traits settled as givens: **dazzling** ("people have always
+  remembered your speeches"), so the vote is how far it gets taken.
+- Retired beat avoided: umami-fried was first drafted as a group lost in fog on a
+  hill, which is the storm-on-the-trail beat. Moved to a collapsed café rota.
+- No fantastical premise here either — fava's traits all need real physical
+  stakes. Green and kidney should carry the two this bean owes.
+- Process failure to record: the umami batch was applied while its lint still
+  showed a failing opener share, because the apply ran in the same command as the
+  lint without the exit code being read. Corrected and re-applied. Lint first,
+  read the exit code, apply second — never chained with `&&` off the wrong command.
+
+## green — 26 entries · 19 S / 7 Q
+
+| Entry | Question setting | Q |
+| --- | --- | --- |
+| bitter-dried | twenty years on one fiddle tune, handed a mandolin | S |
+| bitter-fermented | neighbour's car, boot open two days, no answer | S |
+| bitter-fried | committee forty minutes into an obvious decision | S |
+| bitter-roasted | uncle's Sunday call, twelve minutes before you leave | Q |
+| sour-boiled | new hours nobody thinks will work, concerns invited | S |
+| sour-dried | friend's kitchen half-built a year, units still boxed | S |
+| sour-fermented | letting the spare room: stuffed heron, orange door | S |
+| sour-fried | Wednesday, ferry to Belfast at eleven pounds | S |
+| sour-roasted | nine on moving day, three still on first coffee | S |
+| sour-smoked | out of the film, two of four loved it | Q |
+| spicy-boiled | river clean-up joined in January, now March | Q |
+| spicy-dried | in since six, the other two on a boxed set | S |
+| spicy-fermented | thirty-eight, no wedding, no car, sister asking | S |
+| spicy-roasted | seven a.m. in a shared cottage kitchen | S |
+| spicy-smoked | landlord offers two more years at the same rent | Q |
+| sweet-boiled | two hours for recovery, three tired children | S |
+| sweet-fermented | wrapping a present for a first day at school | S |
+| sweet-fried | just passed the driving test, alone in the car park | S |
+| sweet-roasted | gig cancelled on the morning, day already off | S |
+| sweet-smoked | monthly meet-up, wardrobe full | Q |
+| umami-boiled | shed of tapes, notebooks and chairs; skip till Sunday | Q |
+| umami-dried | niece wants one sentence about two courses | S |
+| umami-fermented | blank hall wall, free weekend | S |
+| umami-fried | three records out, asked whether you actually play | S |
+| umami-roasted | crew photograph with one face cut out | S |
+| umami-smoked | half-written song, open mic Thursday | S |
+
+### Watch list
+
+- The upbeat cluster — **ebullient · high-spirited · buoyant · giddy · electric ·
+  bracing** — separated by object: arrival energy that extends other people's
+  evening (ebullient) / the morning register (high-spirited) / recovery time after
+  bad news (buoyant) / anticipation before a thing (giddy) / a charge that
+  reorganises the room and empties it faster (electric) / the jolt that gets
+  somebody out of a chair (bracing).
+- **honed vs accomplished** — refusing to dilute the one thing vs how you answer
+  when your standing is questioned. **quirky vs whimsical vs maverick** — your
+  rooms and objects / small ceremonies around ordinary life / the life-markers you
+  decline. **outspoken vs pungent** — who speaks first vs the concentration of
+  the verdict itself.
+- **prolific vs creative** — volume and what never gets thrown out vs what gets
+  made from a blank space.
+- Props to avoid repeating: the heron (sour-fermented) rules out taxidermy for the
+  next beans; ferries appear twice in this bean (sour-fried, sweet-fried) and
+  should now rest.
+- Still no fantastical premise — green's last two beans owe three between them.
+  Kidney, mung and pinto should carry them.
+
+## kidney — 26 entries · 20 S / 6 Q
+
+| Entry | Question setting | Q |
+| --- | --- | --- |
+| bitter-boiled | climbing partner cancels a third Sunday | S |
+| bitter-dried | six hours' driving, friend at the door with a crisis | Q |
+| bitter-fermented | grey van twice this week, reader with no card | S |
+| bitter-fried | reference going round with a paragraph you disbelieve | S |
+| bitter-roasted | asked what you do; you built the bridge | S |
+| sour-boiled | the five o'clock airport run in your worst week | S |
+| sour-fermented | colleague having the year you had four years ago | S |
+| sour-fried | work lunch claim about the trains, unchallenged | S |
+| sour-roasted | award for the build, drawings by the woman who left | S |
+| sour-smoked | friend's shop, four months of money, Christmas plan | S |
+| spicy-boiled | insurer's ninth refusal, tenth letter due | S |
+| spicy-dried | bag packed a year, phone goes at midnight | Q |
+| spicy-fried | friend let go over a till float, her account only | S |
+| spicy-roasted | oldest friend struggling through a speech | S |
+| spicy-smoked | two months in, a free Saturday | S |
+| sweet-boiled | woman on the towpath, husband gone into a home | S |
+| sweet-dried | stranger at the bar asks what your wife does | Q |
+| sweet-fermented | friend mid-story about the row with her brother | S |
+| sweet-fried | closest friend's empty flat, nothing but a mattress | S |
+| sweet-smoked | fourth evening this month, his job again | S |
+| umami-boiled | six years of the same hour at the piano | Q |
+| umami-dried | promise to a friend's mother, thirty years on | S |
+| umami-fermented | firm moving to Leeds, thirty years on one street | Q |
+| umami-fried | friend's paintings down after two days | Q |
+| umami-roasted | new neighbour in for the first cup of tea | S |
+| umami-smoked | one hour a year to hear a lost voice | S |
+
+### Watch list
+
+- The sweet group is the cluster: **compassionate · adoring · sympathetic ·
+  doting · enamoured** all read as "loves people". Split by object — how you
+  receive somebody's worst news / how you describe your people to a stranger /
+  whose side you hold in an account of a row / what you physically do for them /
+  how much interest the person in front of you gets tonight.
+- Umami has a second cluster of endurance traits: **disciplined** (the practice on
+  a day you hate it) · **faithful** (a promise nobody is checking) · **rooted**
+  (whether you'd leave the street) · **stalwart** (still being there when it has
+  gone badly). Object each time, never the feeling.
+- **Fantastical premise** (kidney owed one): umami-smoked's hour a year to hear a
+  lost voice. Mung and pinto owe the other two.
+- Rations held deliberately this bean: **civic settings 0**, and family cut from 7
+  questions to 5 by moving *challenging* to a work lunch and *doting* to a
+  friend's empty flat — the reader's own family now appears once, in *adoring*,
+  where a wife is the point.
+- Process failure, twice this bean before it was caught: `lint; apply` on one line
+  applies even when the lint fails, because `;` ignores the exit code. Both were
+  opener-share failures and both were re-fixed and re-applied. Lint and apply are
+  now always separate calls with the exit code read in between.
+
+## mung — 27 entries · 21 S / 6 Q
+
+| Entry | Question setting | Q |
+| --- | --- | --- |
+| bitter-boiled | eclipse Saturday, cloud on the coast and a gap inland | S |
+| bitter-dried | man down on the pavement, crowd doing nothing | Q |
+| bitter-fried | friend and the man who won't leave his wife | S |
+| bitter-roasted | last night of the trip, wine on the table | S |
+| bitter-smoked | one hour an evening you weigh nothing | S |
+| sour-boiled | both flatmates, same argument, separately | S |
+| sour-dried | twenty minutes of a story in which nothing is his fault | S |
+| sour-fermented | the new job with the same shape as the last three | S |
+| sour-roasted | helper who mentions he hasn't eaten | S |
+| sour-smoked | the quiet one starts on his father's drinking | S |
+| spicy-boiled | third week of night feeds and the shopping run | Q |
+| spicy-dried | friend saying she'll leave the course, again | S |
+| spicy-fermented | seven boxes of flat-pack, third one, light going | S |
+| spicy-fried | boiler gone, no hot water, baby in the house | S |
+| spicy-smoked | caretaker who has never opened the room on a Sunday | S |
+| sweet-boiled | nephew in the spare room for a month | Q |
+| sweet-dried | school-gate acquaintance waiting on results | S |
+| sweet-fermented | telling a friend her singing isn't good enough | S |
+| sweet-fried | friend who's had the room twice wants three hundred | S |
+| sweet-roasted | friend with flu, four days on your sofa | Q |
+| sweet-smoked | sister between shifts, wound up about the rota | S |
+| umami-boiled | friend round two hours after the redundancy | Q |
+| umami-dried | weekend guest with a bad shoulder and a job she won't discuss | Q |
+| umami-fermented | asked what the ward was like | S |
+| umami-fried | empty Sunday, a friend suggests the sea | S |
+| umami-roasted | good afternoon in the garden, light going | S |
+| umami-smoked | apprentice asks whether her training was wrong | S |
+
+### Watch list
+
+- The largest cluster in the corpus: **nine** care traits. Objects, in order —
+  nurturing (what you do for someone under your roof) · tender (how you handle a
+  person's fragility) · gentle (the speed and edge of hard news) · openhanded
+  (what you give away) · cosseting (physical care of somebody ill) · balmy (the
+  tempo of the room) · solicitous (attention to needs not mentioned) ·
+  replenishing (what each of you leaves an exchange holding) · restorative (what a
+  stay at yours mends). Never write any of them as another.
+- Second cluster, the truth-tellers: **clinical** (competence in an emergency) ·
+  **austere** (naming what a situation is doing to somebody) · **astringent** (the
+  question that clears the self-pity) · **diagnostic** (the pattern named).
+- **Fantastical premise:** bitter-smoked's hour a day weighing nothing. That
+  leaves one owed, for navy or pinto.
+- **Invented history** became a hard linter failure during this bean, after Caleb
+  caught `bitter-fried-mung` saying "the two years" about an affair the question
+  never dated. The rule fails a number attached to a past duration or tally that
+  the scene never supplied; reader-chosen quantities ("give it ten minutes") are
+  untouched. 0 of the 64 approved entries trip it. Four faults of this class
+  existed across the six beans done in this pass, all now fixed:
+  `bitter-fried-mung`, `sour-fermented-edamame`, `spicy-dried-mung`,
+  `sweet-smoked-kidney`, plus `sour-smoked-fava`'s invented accountant.
+- The class this belongs to — an answer asserting a fact the question never gave —
+  is the single most repeated fault of the whole pass. The linter can now catch the
+  numeric form. The rest is the REFERENT WORKSHEET, which must be read line by
+  line, not skimmed.
+
+## navy — 22 entries · 16 S / 6 Q
+
+| Entry | Question setting | Q |
+| --- | --- | --- |
+| bitter-boiled | paid for two hours you didn't work | S |
+| bitter-dried | shop shuts at six, said in January, asked again in November | Q |
+| bitter-fermented | niece failed the exam and asks how you get over it | S |
+| bitter-fried | hour of rota argument, nobody naming the thing | S |
+| bitter-roasted | house fund at eight hundred, the table at four | Q |
+| bitter-smoked | fortieth in a hired room, back door propped open | S |
+| sour-boiled | asked how the house sale goes; you know about the survey | S |
+| sour-dried | work lending library, two books, a friend asking at eleven | S |
+| sour-fermented | mileage claim with one half-personal trip | S |
+| sour-fried | four to dinner, and the table, tea and seat have a way | S |
+| sour-roasted | four deciding on the market stall, nobody spoken yet | S |
+| sour-smoked | fifteen years of the evening class, four left | Q |
+| spicy-fried | car off the road, thirty people not moving | S |
+| spicy-roasted | twenty years of Saturdays, eleven left in the stand | Q |
+| sweet-boiled | full freezer, two spares of everything, shop five minutes away | Q |
+| sweet-fermented | spare ticket to Naples against Sunday bread day | S |
+| sweet-fried | anniversary of the night you met | S |
+| sweet-smoked | your last sentence stays in a room for a week | S |
+| umami-boiled | nineteen years of the club's accounts, somebody asks for them | S |
+| umami-fried | half an hour on the damp, and they turn to you | Q |
+| umami-roasted | dead group chat and the old rota still on the phone | S |
+| umami-smoked | thirty-year-old coat, niece showing you what's worn now | S |
+
+### Watch list
+
+- Navy's cluster is position-holding, nine deep: **upright** (the small honesty
+  nobody would check) · **steady** (a position people plan around, over months) ·
+  **firm** (the rule applied to a friend) · **scrupulous** (declaring what nobody
+  checks) · **resolute** (staying on the same road) · **staunch** (still turning
+  up) · **declarative** (stating it in the first minute) · **authoritative** (the
+  answer that stops the room looking) · **commanding** (directing people in a
+  crisis). Objects, not feelings, keep them apart — and upright vs scrupulous is
+  the narrowest pair: not taking what isn't yours vs disclosing what nobody asked.
+- **prudent vs provident** split as money set aside vs physical stores.
+- **Fantastical premise** (the last one owed): sweet-smoked's room that keeps your
+  last sentence audible for a week — the trait is *lingering*, so the premise makes
+  the trace literal.
+- Q share needed a late correction: the bean sat at 14% until three entries
+  (sour-smoked, spicy-roasted, umami-fried) were turned from `You...` into
+  standalone questions. Worth choosing the shape at draft time — converting after
+  the fact means rewriting all five answers into clauses.
+
+## pinto — 24 entries · 19 S / 5 Q
+
+| Entry | Question setting | Q |
+| --- | --- | --- |
+| bitter-boiled | asked in March what you fear, answered in June | S |
+| bitter-dried | should she take the job, and you know your answer | S |
+| bitter-fried | "let's circle back on that", four times this morning | S |
+| bitter-roasted | book launch in February, a room you've not been in | Q |
+| sour-boiled | why you left the last job, week and letter included | S |
+| sour-dried | ten minutes about his new job, then what do you make of it | Q |
+| sour-fermented | restructure announced with a diagram | S |
+| sour-fried | forty minutes of a lift home from a wedding | S |
+| sour-roasted | retirement speech at eleven minutes, room stiff | S |
+| spicy-boiled | four things going, a fifth from last night | Q |
+| spicy-dried | cancelled by message after you'd arrived | S |
+| spicy-fermented | Whitby on Monday, Northumberland by Thursday | S |
+| spicy-fried | wet Sunday, four hours before anyone needs feeding | S |
+| spicy-roasted | film night at a friend's, and the good coat | S |
+| spicy-smoked | twenty minutes on your job, a class of nine-year-olds | S |
+| sweet-boiled | eleven-minute walk back from the shops | Q |
+| sweet-fermented | held outside Doncaster fifty minutes, no announcement | S |
+| sweet-fried | friend finishes the book she's had six years | S |
+| sweet-roasted | five minutes with the file before the agenda prints | S |
+| umami-boiled | asked what you're thinking; it's been the same since Tuesday | S |
+| umami-dried | tattoo about the big trip, what goes in it | Q |
+| umami-fermented | four months in, asked what you do with your evenings | S |
+| umami-fried | ninety seconds in the flat, agent waiting with two more | S |
+| umami-smoked | six people at eight, an hour, an ordinary front room | S |
+
+### Watch list
+
+- Four clusters, each split by object. Comedy: **satirical** (the impression of a
+  person) · **sardonic** (a bad situation described funnily and exactly) ·
+  **irreverent** (the joke in the solemn room) · **mischievous** (the prank
+  itself) · **epigrammatic** (nine compressed words). Interiority:
+  **contemplative** (working toward an answer) · **musing** (turning something over
+  to no end) · **inward** (whether the interior is shown) · **layered** (versions
+  of one story) · **daydreamy** (attention wandering mid-errand) · **fanciful**
+  (a dull situation turned into a story). Display: **stylish** (the combination) ·
+  **flamboyant** (the arrival) · **spellbinding** (the described place) ·
+  **kinetic** (bodily motion) · **effusive** (the warm thing said out loud).
+  Disclosure: **candid** (the ugly middle kept in) · **open** (what a stranger
+  learns in half an hour) · **cryptic** (the sideways answer).
+- Two drafts replaced on my own judgement before applying: a quiz night "seen from
+  the bar" and a trustees' meeting with a pub coda — pubs are out, and civic
+  settings are rationed to about one a bean.
+
+# End of the question rewrite pass
+
+All **296** entries without `lastUpdated` now carry rewritten questions and
+answers. `node scripts/lint-questions.mjs` over the whole corpus: **PASS**,
+225 S / 71 Q (24% standalone).
+
+The rules that arrived late in the pass were applied backwards over the four
+beans written before them — 21 entries in adzuki, black, butter and cannellini
+were corrected for vague-quantity phrasing, manner tails and five-compound-answer
+rhythm, plus 43 entries across chickpea, edamame, fava and green for rhythm, 10
+for civic-setting concentration and 5 for invented history. The corpus is
+therefore consistent against the *final* standard, not the standard each bean was
+written under.
+
+Standing faults for whoever picks this up next: an answer asserting a fact the
+question never gave is the fault that recurred most (the numeric form is now
+linted; the rest lives on the REFERENT WORKSHEET and must be read line by line).
+Family appears in roughly a fifth of questions and civic settings in six of 296 —
+both worth watching rather than fixing. Facets are the next pass, and they should
+work around the settings recorded in these tables.

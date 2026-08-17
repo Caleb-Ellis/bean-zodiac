@@ -17,32 +17,37 @@ antiTriple: bitter-smoked-chickpea
 antiBeans: [adzuki, pinto]
 antiForm: dried
 seasonalFortune: "A season of mustard seed and old scars — the brine has survived this exact winter before."
-fortuneMost: Every scar on the boar is somewhere it decided not to run.
-fortuneHigh: A word given while you're still guarded is the one you walk back alone later.
-fortuneMid: The porch held long enough; let them as far as the hallway now.
-fortuneLow: You've polished maybe for so long they've already filed it as no.
-fortuneLeast: A fortress this well-defended has started eating its own rations.
-facetMostTitle: Beanscarface
-facetMost: A young one on the crew has made the exact mistake you made at that age and is waiting to hear the thing is survivable, and you tell him what it cost you and then what it will cost him, in order, until he stops asking.
+fortuneMost: Come through enough of it and softness starts to look like weakness.
+fortuneHigh: A boar charges the thing that wounded it.
+fortuneMid: Having been through it counts for something.
+fortuneLow: Let this one be easy.
+fortuneLeast: The untested have better ideas sometimes.
+facetMostTitle: Beanface
+facetMost: She's done the two thousand hours and needs your name on the book to be signed off this year. Hers is fine and you know it's fine. Yours got held back a year by a man who decided you needed longer. You hand the book back unsigned.
+facetMostAction: You hand the book back unsigned.
 facetHighTitle: Trial by Bean
-facetHigh: The first-aid course reaches the dummy on the floor. The room goes quiet. You kneel and start compressions, because you have done this on a person.
-facetMidTitle: Beanplatoon
-facetMid: Your shop went under four years ago and somebody at the table is three months into opening one. You tell her the two months that broke you, in order, and she writes them down.
-facetLowTitle: The Beanrookie
-facetLow: Sea swimming in a group, and one of them wants to know your worst day in the water. You admit to a couple, and ask what her longest swim is.
+facetHigh: Your cousin was found in his flat and someone has to clear it before the landlord does. Your aunt's got the key at the funeral and can't face it, and neither can your other two cousins. You did your dad's four years ago. You take the key off her.
+facetHighAction: You take the key off her.
+facetMidTitle: Beantoon
+facetMid: Your friend's stopped halfway up the wall and the four below are shouting she's got this. You came off one badly nine years ago and were out a year. You tell her to come down, and that nobody'll think anything of it.
+facetMidAction: You tell her to come down, and that nobody'll think anything of it.
+facetLowTitle: The Beankie
+facetLow: The woman running the table works in order — she starts with whoever brought a photograph, and you can see her coming round clockwise. Everyone here's come with somebody. She asks who you're here for. You say you haven't lost anybody.
+facetLowAction: You say you haven't lost anybody.
 facetLeastTitle: Fresh Beans
-facetLeast: A foster placement is being described to you and it is the hardest one they have got. You agree to it before the woman has finished. You ask nothing about the last house, or what went wrong there.
-question: Somebody twenty years younger is about to make a decision you got badly wrong at their age. You...
-answerMost: tell them exactly what it did to you, all of it
-answerHigh: tell them what happened and let them weigh it
-answerMid: mention you tried that once, and leave it there
-answerLow: keep it to yourself and wish them well
-answerLeast: tell them it sounds like a good idea
-rorschachMost: a stone scoured hollow
-rorschachHigh: a scarred hide
-rorschachMid: two rocks, one pitted
-rorschachLow: an unplaned plank
-rorschachLeast: a blade never used
+facetLeast: She did the two years at the prison and says the second one nearly finished her, and she's told you it's the winter that does it. Nothing much has ever happened to you. The form's in your bag. You say you're starting in the autumn.
+facetLeastAction: You say you're starting in the autumn.
+question: A friend from work has had the year you had four years ago, and she's just sat down opposite you with it. You...
+answerMost: give her what yours cost you, in detail she hasn't asked for
+answerHigh: say you've been there, and what got you through the worst month
+answerMid: mention your own bad year, then listen
+answerLow: hear hers with yours kept out of it
+answerLeast: treat it as new ground
+rorschachMost: a scarred hide
+rorschachHigh: a battered shield
+rorschachMid: a scored chopping board
+rorschachLow: an unworn boot
+rorschachLeast: a blank page
 ---
 
 Pickled Kidney Beans are the Bean Zodiac's most tested. They had the bad year and came out with something usable, which is why people bring them the worst news first. The scar tissue sometimes goes right through. Approaching anything with no history attached is a lightness they've lost.

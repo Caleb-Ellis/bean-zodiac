@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-roasted-green
-lastUpdated: 
+lastUpdated:
 bean: green
 flavour: umami
 form: roasted
@@ -17,32 +17,37 @@ antiTriple: bitter-boiled-navy
 antiBeans: [butter, black]
 antiForm: dried
 seasonalFortune: "A season of bacon drippings and shallot; the roast keeps asking what else is possible."
-fortuneMost: Follow the question past its useful end.
-fortuneHigh: Ask the second question, the one past polite.
-fortuneMid: Into the wall cavity, and the ferret will not be talked out.
-fortuneLow: Cook the dish you already trust.
-fortuneLeast: Leave the lid on.
-facetMostTitle: Gossip Beangirl
-facetMost: That letter was on the side and not addressed to you, and you read it, and you got to the end. Now you know something about your sister that you will have to pretend for the rest of your life not to know.
-facetHighTitle: The Curious Incident of the Bean in the Night-Time
-facetHigh: The door to the old part of the building is not locked, and you go through it without breaking stride.
-facetMidTitle: Twenty Beanquestions
-facetMid: There is a machine at the back of the museum nobody is looking at. You find the label. You find the man who knows about it. You are still there when your family come to get you.
+fortuneMost: Ask enough questions and people start closing doors.
+fortuneHigh: A ferret goes down every hole it finds.
+fortuneMid: Curiosity turns up things nobody looked for.
+fortuneLow: Leave that one alone.
+fortuneLeast: Not knowing is comfortable enough.
+facetMostTitle: Gossip Bean
+facetMost: You are sat next to the groom's mother, who has mentioned once that this is his second wedding. You ask what happened the first time and she gives you four words. The bride's parents are on the same table and it has gone quiet. You ask what the first wife was like.
+facetMostAction: You ask what the first wife was like.
+facetHighTitle: The Curious Incident of the Bean
+facetHigh: There is a stall at the market selling something you have never seen before and the man behind it is happy to explain. Your two friends waited eight minutes and have gone on to the next street. He is telling you how they get the colour into it. You ask him the next question.
+facetHighAction: You ask him the next question.
+facetMidTitle: Twenty Beans
+facetMid: Helping your friend strike the set after the last night, there is a trapdoor in the boards that has not been in the show, and she says it goes down to something under the stage. You get the ring up and go down the ladder.
+facetMidAction: You get the ring up and go down the ladder.
 facetLowTitle: None of My Beansiness
-facetLow: A conversation at the next table is plainly a serious one and you can hear most of it. You put your headphones in without listening to anything through them.
+facetLow: Taped to the mirror in front of you is a photograph of the man cutting your hair, twenty years younger, with his arm round somebody you half recognise, and he has not mentioned it. You look at it the whole time and ask for the sides shorter.
+facetLowAction: You look at it the whole time and ask for the sides shorter.
 facetLeastTitle: Nothing to Bean Here
-facetLeast: Your daughter has come back from a year away and is sitting at the table. You ask whether the flight was all right. She says it was, you say good, the conversation moves to the traffic, and neither of you goes back to the year.
-question: There's an unlocked door in an old building, marked for staff. You...
-answerMost: Go through, and take photographs
-answerHigh: Go through and have a look
-answerMid: Put my head round it
-answerLow: Wonder, and leave it
-answerLeast: Not notice the door
-rorschachMost: fingers into every corner
-rorschachHigh: a hand along a shelf
-rorschachMid: a rock and scattered chips
-rorschachLow: a hand in a pocket
-rorschachLeast: a wall, nothing behind it
+facetLeast: You have been going to your friend's flat for six years and there are eight framed photographs of the same man on the wall by the door. He has never come up once, in six years. You go past them again and ask her what she wants on the pizza.
+facetLeastAction: You go past them again and ask her what she wants on the pizza.
+question: On your friend's parents' wall is a photograph of a ship's crew, and one man's face has been cut out of it. You...
+answerMost: ask who cut the face out, and why they've kept it on the wall
+answerHigh: ask about the ship and the crew, and get the story of it
+answerMid: want to know when the photograph was taken
+answerLow: look at it, and say it's a good photograph
+answerLeast: walk past it without asking anything
+rorschachMost: a rifled drawer
+rorschachHigh: a lifted lid
+rorschachMid: a peephole
+rorschachLow: a shut book
+rorschachLeast: a drawn blind
 ---
 
 Rendered Green Beans are the Bean Zodiac's most curious. They read the plaque, ask the chef, look up the bird, and come back knowing something. Sometimes the questions land somewhere private. Standing in front of something new and not asking is unbearable.

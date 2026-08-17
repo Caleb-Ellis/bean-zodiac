@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-boiled-adzuki
-lastUpdated: 
+lastUpdated:
 bean: adzuki
 flavour: spicy
 form: boiled
@@ -17,32 +17,37 @@ antiTriple: sour-smoked-cannellini
 antiBeans: [edamame, butter]
 antiForm: fermented
 seasonalFortune: "A season of gochugaru and long braising — the pot keeps a party going past its hour."
-fortuneMost: All that running in the field, and the colt has no idea where the gate is.
-fortuneHigh: Open the good bottle for no milestone at all.
-fortuneMid: Put the song you love on twice - the second play is the one that does the work.
-fortuneLow: A day got through quietly is a day got through.
-fortuneLeast: One thing you finished and told no one still counted.
-facetMostTitle: Beanproject X
-facetMost: The brewery tour ends the way it always ends, with four small samples in a quiet tasting room and a leaflet about the fermenting tanks. Two hours later you have the entire group singing and the staff are looking at the clock behind the bar.
-facetHighTitle: Spirited Abean
-facetHigh: Public session at the rink, bad music playing, half the floor empty and nobody enjoying themselves much. You have a conga line going by the third song.
-facetMidTitle: Beanfame
-facetMid: Three strangers waiting on the dryers at the laundrette and nobody has said a word since you came in, so you put a pound in the radio and ask what anyone wants on.
+fortuneMost: A colt runs the field until its legs give out, and then wants to go again.
+fortuneHigh: Open the good bottle – don't wait for the "perfect" occasion!
+fortuneMid: Every good night needed somebody to get it going.
+fortuneLow: A quiet night in will do you good.
+fortuneLeast: There's nothing wrong with an evening where nothing happens.
+facetMostTitle: Beanject X
+facetMost: There are sixty people in a flat that holds twenty, the bathroom door has come off its hinges, and somebody from downstairs has been up twice about the noise. The music has been turned off in response. You put the music back on and start looking for something else to drink.
+facetMostAction: You put the music back on and start looking for something else to drink.
+facetHighTitle: Beaned Away
+facetHigh: A colleague's leaving drinks has emptied out to nine people, and it's gotten a little bit quieter. There's a karaoke place across the street, open until two. You get all nine of them up and over there.
+facetHighAction: You get all nine of them up and over there.
+facetMidTitle: Bean Fame
+facetMid: You're 4-0 down at half time playing five-a-side with four friends, and two of them have said they're going home rather than play the second half. You get everyone standing in a circle and tell them you're going to score the next goal.
+facetMidAction: You get everyone standing in a circle and tell them you're going to score the next goal.
 facetLowTitle: Beanoblomov
-facetLow: Power is out across the street and the neighbours are drifting into the road with torches. You sit on your step with a candle and let it happen around you.
-facetLeastTitle: Beanflatliners
-facetLeast: Everyone is going back up for the last run and the light on the snow is extraordinary. You take the chairlift down with your board under your arm.
-question: It has gone eleven at a friend's place and somebody suggests one more thing. You...
-answerMost: propose something considerably bigger than what they suggested
-answerHigh: have your coat on and lead the way
-answerMid: go along, happily
-answerLow: stay where you are and see everyone off
-answerLeast: were the one who ordered a taxi at ten
-rorschachMost: a horse off its rein
-rorschachHigh: a colt kicking out
-rorschachMid: a mane and a blaze
-rorschachLow: a pony standing quiet
-rorschachLeast: a cart horse asleep
+facetLow: You're at a friend's barbecue, and half the people there are getting up to walk down to the river for a swim before dark. You tell them to go on without you.
+facetLowAction: You tell them to go on without you.
+facetLeastTitle: Beanliners
+facetLeast: It's the last night of a week away with five friends, and they've all been calling it the best week of their lives. The room has gone quiet and everyone's on their phones, and there are cards in the drawer that four of them would play. You get your phone out too.
+facetLeastAction: You get your phone out too.
+question: You're running the tombola at the school fete and the crowd has thinned right out after lunch. You...
+answerMost: get on the microphone and keep at it long after they've had enough
+answerHigh: call the numbers out loud and pull a crowd back over
+answerMid: rope in the kids nearest you until there's a queue again
+answerLow: tidy the prizes up and wait for the next wave
+answerLeast: sit down behind the table and let it stay quiet
+rorschachMost: a burst piñata
+rorschachHigh: a startled hare
+rorschachMid: a hand puppet
+rorschachLow: a punchbag
+rorschachLeast: a sack of laundry
 ---
 
 Braised Adzuki Beans are the Bean Zodiac's most spirited. They get the whole table singing by the second course and nobody can identify the moment it turned. Some nights the volume outruns the room. Sitting an evening out, low and quiet, is not a mode they own.

@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-roasted-cannellini
-lastUpdated: 
+lastUpdated:
 bean: cannellini
 flavour: spicy
 form: roasted
@@ -17,32 +17,37 @@ antiTriple: sweet-fermented-kidney
 antiBeans: [fava, mung]
 antiForm: fried
 seasonalFortune: "A season of bird's eye chilli and gathered attention — the roast is why people came."
-fortuneMost: The room rearranges round you, and you have stopped noticing that it does.
-fortuneHigh: Say the plain, sincere thing you'd rather dress up.
-fortuneMid: No entrance required to be felt.
-fortuneLow: Even a dolphin swims off on its own for a while.
-fortuneLeast: They move on without you and the relief is real.
-facetMostTitle: Beanmessiah
-facetMost: Ninety minutes on the future of the town and the hall has not moved. Two people are crying. Somebody asks afterwards what you are going to do next and means it as a serious question, and the alarming part is that you have an answer.
-facetHighTitle: A Beanstar Is Born
-facetHigh: A room of fourteen-year-olds on a wet afternoon, second lesson after lunch, and you have got every single one of them.
-facetMidTitle: Star Beanquality
-facetMid: Half the club would not have got in the water at all without you saying it would be fine. They got in, and two of them have booked the next trip.
-facetLowTitle: Beanmagnolia
-facetLow: Guitar out, hat down, and the pitch outside the station is a good one. Three hours, eleven pounds, and not one person stopped walking.
-facetLeastTitle: Beaninvisible Ink
-facetLeast: You deliver the training day exactly as the pack has it written, and everybody goes home with a certificate and a biscuit. Nobody afterwards could tell you who ran it.
-question: You walk into a room where you know nobody. Twenty minutes later...
-answerMost: The room's arranged itself around me
-answerHigh: I've got three people properly talking
-answerMid: I've had a decent conversation
-answerLow: I'm still where I came in
-answerLeast: Nobody's registered I'm here
-rorschachMost: a bonfire throwing sparks
-rorschachHigh: a lantern and its halo
-rorschachMid: a rock in churning surf
-rorschachLow: a shrouded lamp
-rorschachLeast: a grey pebble, tangled weeds
+fortuneMost: A crowd repeats the loudest voice back to itself.
+fortuneHigh: Speak plainly and they'll follow.
+fortuneMid: A dolphin brings the whole pod over to look.
+fortuneLow: Nobody needs a speech here.
+fortuneLeast: Being forgettable is a kind of freedom.
+facetMostTitle: Beanessiah
+facetMost: Nine people have given you their Saturdays since the spring to turn the warehouse into something the town can use, on nothing but you saying it'd work. Two have said they can't keep doing it and the floor's still bare. You ask them all for four more Saturdays.
+facetMostAction: You ask them all for four more Saturdays.
+facetHighTitle: A Bean Is Born
+facetHigh: Your friend's three months off finishing the nursing degree, with the withdrawal form filled in on the table in front of her. Three people have told her this week not to send it and she filled it in anyway. You tell her she's going to be the one they put the frightened ones with.
+facetHighAction: You tell her she's going to be the one they put the frightened ones with.
+facetMidTitle: Star Beanlity
+facetMid: It's the last hour and the hammer only comes down once. Lot nine's two weeks in a flat outside Almería, stuck at forty pounds, and the night's for a roof on the boxing club. You stand up and tell the room what forty pounds is buying them.
+facetMidAction: You stand up and tell the room what forty pounds is buying them.
+facetLowTitle: Beanagnolia
+facetLow: Your friend's got forty tickets left for the night she's put on, and the eight in the group chat do whatever you tell them. She asks you to sell it to them. You send them the date, the address and the price.
+facetLowAction: You send them the date, the address and the price.
+facetLeastTitle: Invisible Bean
+facetLeast: The club runs on two staff for thirty kids, and the trip to the coast comes out of a fund that's spent this year or handed back. Three names on the sheet. The worker says they'll go if you ask them. You pin the sheet up by the door.
+facetLeastAction: You pin the sheet up by the door.
+question: When you explain a plan, people believe in it. They always have. You...
+answerMost: keep going until they believe in you rather than the plan
+answerHigh: put it across so they can see the thing working
+answerMid: explain it straight and answer the questions
+answerLow: hand the paper out and let it speak
+answerLeast: read the figures out flat
+rorschachMost: a haloed head
+rorschachHigh: a chandelier
+rorschachMid: a market stall
+rorschachLow: a plain jug
+rorschachLeast: a pebble on a path
 ---
 
 Peri-Peri Cannellini Beans are the Bean Zodiac's most charismatic. They explain the plan and forty people believe in it, including several who came to object. Sometimes the belief becomes the product. Saying something dull and true, without lift, they find almost impossible.

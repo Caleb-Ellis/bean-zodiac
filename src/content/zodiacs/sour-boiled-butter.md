@@ -17,32 +17,37 @@ antiTriple: bitter-smoked-green
 antiBeans: [black, kidney]
 antiForm: fermented
 seasonalFortune: "A season of dill and lemon — the broth tells the truth unasked; some at the table flinch."
-fortuneMost: Once the lemon's in, it's in.
-fortuneHigh: Say it plainly, say it kindly.
-fortuneMid: The better moment isn't coming.
-fortuneLow: Wait a bit - the timing is off.
-fortuneLeast: The truth bends further than you'd think.
+fortuneMost: A truth told badly does the harm it meant to prevent.
+fortuneHigh: Say the thing everyone's avoiding.
+fortuneMid: A saint bernard comes to find you in the worst weather.
+fortuneLow: Soften it a little.
+fortuneLeast: A kind lie costs nobody anything.
 facetMostTitle: Nothing But the Bean
-facetMost: Your friend's dog is on the table at the vet's and the options have all been laid out. The family turn to you. With the daughter stood right there, you say which one you would choose, and exactly why, with the reasons in order.
+facetMost: Everyone else has gone back to the cars and your friend's wife has stopped by the gate and asked what his last hour was actually like. You were the one in the room for the whole hour, and it was not quiet and it was not quick. You give her the hour as it happened.
+facetMostAction: You give her the hour as it happened.
 facetHighTitle: To Tell the Bean
-facetHigh: The man on the next allotment asks what you make of his onions, which are poor, and he knows they are poor. You tell him what went wrong and what to do about it.
+facetHigh: You teach guitar on Thursday evenings and the man who comes at seven has been coming eight months, practising the same twenty minutes wrong every week. He has found a summer course in Spain, nine hundred pounds for the week, and has asked you straight out whether he is good enough for it. You tell him he is not.
+facetHighAction: You tell him he is not.
 facetMidTitle: Beanest Thief
-facetMid: The man who spun you at the karting track comes over afterwards, all apologies, and you tell him it was his fault and shake his hand.
-facetLowTitle: The Artful Beandodger
-facetLow: The officer at the customs desk asks whether you packed the bag yourself. You say yes, and you do not mention the cheese.
+facetMid: The nurse has you in the booth going down the list — tattoos, medicines, where you have been in the last year — and says a yes to any of them takes you off donating for four months; you were in Ghana in April, it is on no record she can see, and they are two hundred bags short this week. You tell her about Ghana.
+facetMidAction: You tell her about Ghana.
+facetLowTitle: The Beanful Dodger
+facetLow: Your friend's new partner has gone up to the counter and she leans over and asks what you honestly made of him — he talked over her the whole of last night and answered two questions that were put to her. You tell her she has been in a good mood all week.
+facetLowAction: You tell her she has been in a good mood all week.
 facetLeastTitle: Gone Bean
-facetLeast: Out of the barber's with something you did not ask for, and he is holding the mirror up behind your head. You tell him it is exactly right. You tell him twice, and then you tip him.
-question: A friend shows you round the flat they've just put an offer on, and there's damp in two of the rooms. You...
-answerMost: Point at both patches and say what it'll cost
-answerHigh: Mention the damp before I say anything nice
-answerMid: Say the flat's lovely, then bring up the walls
-answerLow: Wait and see whether they raise it first
-answerLeast: Tell them it's perfect and hope it's cheap to fix
-rorschachMost: a plank, no varnish
-rorschachHigh: wood showing its grain
-rorschachMid: an upright dark post
-rorschachLow: a post part painted
-rorschachLeast: a veneer over knots
+facetLeast: Your neighbour has gone out to move the car and it is you and her mother in the chair by the window, and she asks you, the way she asks everybody, whether her husband is coming today. He died in March, and being told so is a bad ten minutes for her every time somebody does it. You say he is on his way.
+facetLeastAction: You say he is on his way.
+question: For one week you find that every sentence out of your mouth has to be true. You...
+answerMost: answer every question fully, whoever is doing the asking
+answerHigh: carry on as normal — it costs you nothing
+answerMid: answer straight, but watch what you agree to
+answerLow: go quiet when the answer would sting
+answerLeast: keep well away from anybody likely to ask you a direct question
+rorschachMost: a side of beef
+rorschachHigh: a straight backbone
+rorschachMid: a plank on end
+rorschachLow: a half-open door
+rorschachLeast: a cat flap
 ---
 
 Brined Butter Beans are the Bean Zodiac's most honest. Asked about the haircut they tell you, kindly and immediately, and you find you'd rather know. Sometimes the answer arrives where no answer was wanted. Softening it into something that dodges the question is not in them.

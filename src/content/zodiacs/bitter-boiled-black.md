@@ -22,15 +22,20 @@ fortuneMid: You stopped weighing it a turn back, whatever you keep telling yours
 fortuneLow: Match the pace of the people walking beside you.
 fortuneLeast: Out where the path forks, take it at a run.
 facetMostTitle: The Bean Mile
-facetMost: Rain's coming and the others are already up, ready to bolt from the bus shelter. Stay seated. Read the sky a while longer before naming which way to run.
+facetMost: It's the third day of the jury and the other eleven agreed before lunch yesterday. You are still not sure about the phone call, or the times. You ask the judge to play the recording of the call again.
+facetMostAction: You ask the judge to play the recording of the call again.
 facetHighTitle: The Measure of a Bean
-facetHigh: A price gets named at the stall, and then silence — your move. Let the number hang, weigh the thing once more, counter only once you know what it's worth to you.
+facetHigh: A man is standing in your front room with nine hundred pounds in twenties for the sofa bed you listed at twelve hundred, and he says he'll go if you don't take it now. You tell him you'll think about it and text him in the morning.
+facetHighAction: You tell him you'll think about it and text him in the morning.
 facetMidTitle: Tinker Tailor Soldier Bean
-facetMid: You take the long way home when weighing a decision, arriving with the answer already cooled.
+facetMid: The woman at the till asks whether you want the four-year cover on the washing machine and puts the leaflet on the counter, and there are three people behind you. You read both sides of it before you answer.
+facetMidAction: You read both sides of it before you answer.
 facetLowTitle: Run Bean Run
-facetLow: A stranger's hand, the music loud, no time to think it through — and you're dancing before you've decided to, finding the steps in the middle of them.
+facetLow: Your brother asks across the table whether he can put your name on the lease with his, which makes you liable for the whole year if he goes. You say yes, and tell him to put you down.
+facetLowAction: You say yes, and tell him to put you down.
 facetLeastTitle: Gone in 60 Beans
-facetLeast: Chips down, the dealer's hand hovering over the table. You call it on pure instinct, fast and unhedged, riding the rush of it.
+facetLeast: Somebody shouts, and there's a woman in the canal holding on to the rope of a moored narrowboat. Four people on the towpath have their phones out. You've got your coat off and you're down the bank.
+facetLeastAction: You've got your coat off and you're down the bank.
 question: A swarm of bees has settled in a low fork of the apple tree, a humming brown comma the size of a football, calm for now. You...
 answerMost: watch a good while, read up on who to call, and move nothing until you understand it
 answerHigh: keep a steady distance and think it through before acting

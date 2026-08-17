@@ -17,32 +17,37 @@ antiTriple: spicy-fried-kidney
 antiBeans: [pinto, green]
 antiForm: roasted
 seasonalFortune: "A season of still cupboards and unbroken quiet. Nothing here needs the weather's permission to keep."
-fortuneMost: Everyone around you went to pieces and you asked what time it started.
-fortuneHigh: Stay exactly as you are; the alarm in the room is not yours.
-fortuneMid: Panic in the room is information, not instruction.
-fortuneLow: Even the basking shark turns when the water changes.
-fortuneLeast: Something got through, and you let it show, and it helped.
+fortuneMost: Calm that never breaks is just sleep.
+fortuneHigh: A basking shark feeds by swimming with its mouth open.
+fortuneMid: Most of it settles on its own.
+fortuneLow: Show them it got to you.
+fortuneLeast: Panic gets things done.
 facetMostTitle: Stone Cold Bean
-facetMost: At the cattle auction a woman is describing, at length and in tears, what the herd meant to her father. You wait until she has finished. Then you say what you think the beasts are worth, and what you would give for the two at the back.
+facetMost: The train has stopped in the dark between stations and it's been forty minutes with nothing said over the speakers. You've had your book open the whole time. The man opposite has asked you three times whether you think there's been an accident. You tell him it'll sort itself out.
+facetMostAction: You tell him it'll sort itself out.
 facetHighTitle: The Big Beanowski
-facetHigh: Sixty feet down, the lamp on your helmet goes out, and you stand still in the dark counting back the turns you came in by.
+facetHigh: You're four hours out and the wind has got up enough that the boat is going over further than anybody likes, and your friend at the tiller has stopped talking. You go below, put the kettle on, and bring two mugs up.
+facetHighAction: You go below, put the kettle on, and bring two mugs up.
 facetMidTitle: Don't Worry, Be Beany
-facetMid: A nurse taking blood cannot find a vein and has had three goes at your arm. You keep the sleeve up and ask how her shift has been, and how much longer she is on.
+facetMid: A van comes round the corner fast enough that you feel it go past your elbow, and it takes your bag off your shoulder and the driver leans on the horn as though it were your fault. You pick the bag up off the pavement and carry on to the shop.
+facetMidAction: You pick the bag up off the pavement and carry on to the shop.
 facetLowTitle: All Shook Bean
-facetLow: The chairlift stops halfway up the ski slope and swings a little in the wind. Nothing is actually wrong, and you have still counted the towers back down to the bottom twice.
+facetLow: There are too many people in the tunnel behind the stand and it has stopped moving, and somebody's programme is on the floor being trodden on. You start telling the people behind you to move back, louder each time.
+facetLowAction: You start telling the people behind you to move back, louder each time.
 facetLeastTitle: Women on the Verge of a Nervous Beandown
-facetLeast: One point behind going into the last round of the quiz night. You read the same question four times, and the pen goes through the paper into the table.
-question: How do you take bad news?
-answerMost: Ask what happens next before I've felt anything about it
-answerHigh: Sit with it a minute, then get on
-answerMid: Go quiet and deal with it later
-answerLow: Need to tell somebody straight away
-answerLeast: Can't settle to anything for days
-rorschachMost: an anvil taking every blow
-rorschachHigh: an anvil, hammer bouncing
-rorschachMid: a block and one drip
-rorschachLow: the block shifting slightly
-rorschachLeast: a tin roof in hail
+facetLeast: You're at the post office counter doing the passport check-and-send, with both document wallets tipped out on the ledge, and the old passport is in neither of them. You ring your partner at work twice in four minutes, then go through the same wallet again.
+facetLeastAction: You ring your partner at work twice in four minutes, then go through the same wallet again.
+question: An hour before the party a pipe goes in the kitchen ceiling and there's water coming through. You...
+answerMost: carry on setting the table around it
+answerHigh: turn the water off, ring a plumber, and get back to it
+answerMid: sort the worst of it and let the rest wait
+answerLow: get flustered and start shifting things anywhere
+answerLeast: come apart and let somebody else take over
+rorschachMost: a becalmed boat
+rorschachHigh: a slung hammock
+rorschachMid: two haystacks
+rorschachLow: a wobbly jelly
+rorschachLeast: a spooked horse
 ---
 
 Desiccated Butter Beans are the Bean Zodiac's most tranquil. Flight cancelled, hotel gone, and they're reading the board for the next one while the queue comes apart. Nothing at all gets a rise — the people who love them have never once seen them thrown.

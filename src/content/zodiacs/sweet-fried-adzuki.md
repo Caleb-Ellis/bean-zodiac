@@ -23,14 +23,19 @@ fortuneLow: Not everything wants a party.
 fortuneLeast: Mark it quietly.
 facetMostTitle: Over the Bean
 facetMost: Your first time in a hot air balloon, and it lifts off the field with the whole valley tilting away underneath. For a moment the burner is the only sound in the world. You are transported, ecstatic, shouting, and hugging the pilot, who is trying to fly the thing.
+facetMostAction: You are transported, ecstatic, shouting, and hugging the pilot, who is trying to fly the thing.
 facetHighTitle: Celebrate Bean Times
 facetHigh: The last batch comes out of the bakery ovens at four in the morning and the shift is done, with nobody left in the building but you and one other baker. The ovens tick as they cool. You put music on and dance round the bench with flour going everywhere.
+facetHighAction: You put music on and dance round the bench with flour going everywhere.
 facetMidTitle: Happy Beandays
-facetMid: Nine locks in one day on the canal, and the eighth had a gate that took three of you leaning on it to shift. When the last one swings open you get up on the roof of the narrowboat and shout it across the water, "We did it! Nine locks!", to whoever is coming the other way.
+facetMid: You've passed through nine locks in one day on the canal, in your narrowboat. The eighth had a gate that took three of you leaning on it to shift. You are tired, and glad it's done.
+facetMidAction: You get up on the roof of the narrowboat and shout across the water, "We did it! Nine locks!", to whoever is coming the other way.
 facetLowTitle: Bean Monday
 facetLow: At the snooker club you pot every ball on the table in one visit, which you have never once managed before, and two players at the next table put their cues down to buy you a drink and make an evening of it. You decline, and drive home.
+facetLowAction: You decline, and drive home.
 facetLeastTitle: The Bean March
 facetLeast: A grandmother's ninetieth, with cake and paper hats, and she is having one of her good days. You sit through the whole of it working out how many more of these there can be.
+facetLeastAction: You sit through the whole of it working out how many more of these there can be.
 question: Last night of the week away with the whole family, everyone driving home in the morning, and somebody puts a song you all love on. You...
 answerMost: keep it going till four, constantly refilling glasses
 answerHigh: pull everyone up off their chairs to dance

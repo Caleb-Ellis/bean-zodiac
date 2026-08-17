@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-smoked-chickpea
-lastUpdated: 
+lastUpdated:
 bean: chickpea
 flavour: spicy
 form: smoked
@@ -17,32 +17,37 @@ antiTriple: umami-fermented-butter
 antiBeans: [navy, pinto]
 antiForm: roasted
 seasonalFortune: "A season of lime and toasted cumin — the smoke is elsewhere by the time you look."
-fortuneMost: All at once the minnows turn, and arrive nowhere in particular.
-fortuneHigh: You move between four things without stopping and all four get done.
-fortuneMid: Not every idea needs chasing the second it arrives.
-fortuneLow: There is an hour in it yet, and nothing needs your hands.
-fortuneLeast: Make one dish and eat it sitting down.
-facetMostTitle: The Beanthing
-facetMost: Four things are on, you are doing all four badly, and a fifth has just come in. Your hands have started going to the wrong pockets. Somebody asks a simple question and you have to ask them to say it again, twice.
-facetHighTitle: Beanquicksilver
-facetHigh: Four pans and a pass, and dinner service is on, and you move between them without ever quite coming to a stop or looking up.
+fortuneMost: Spinning so many plates is not always helpful. Ask yourself what it would actually cost should one fall.
+fortuneHigh: Keep it up! We'll sleep when we're dead!
+fortuneMid: A shoal of minnows swirls as one – a super-organism that is greater than the sum of its parts.
+fortuneLow: Leave an hour of wiggle room.
+fortuneLeast: Make a long, slow dish and eat it without rushing.
+facetMostTitle: The Bean Thing
+facetMost: You said yes to a friend's wedding reception, your housemate's first gig and a leaving do, all in one evening in three different parts of the city. You've been at each for forty minutes, apologised at all three, and left your jacket at one of them. You get back in the taxi to go round again.
+facetMostAction: You get back in the taxi to go round again.
+facetHighTitle: Quickbeanver
+facetHigh: A friend is moving flat on the same day as your gran's eightieth. You do the first two van loads, drive across town for the pudding and the photographs, and are back for the rest of the boxes by four.
+facetHighAction: You do the first two van loads, drive across town for the pudding and the photographs, and are back for the rest of the boxes by four.
 facetMidTitle: Slip Through Your Beans
-facetMid: Getting three of them out of the door by eight, you do the bags, the toast and the reading book in a single circuit of the kitchen.
-facetLowTitle: Beanfrozen in Place
-facetLow: There is an hour in the tide yet and the nets are nearly all in. You sit down on the box and have your tea while the boat drifts about.
+facetMid: You're on the phone to your mum with the pasta on and a friend at the door bringing back a chair. You wedge the phone under your chin, take the chair with your other hand, and keep both conversations going.
+facetMidAction: You wedge the phone under your chin, take the chair with your other hand, and keep both conversations going.
+facetLowTitle: Beanzen in Place
+facetLow: You get to your appointment forty minutes early, with a parcel to post, a library book to take back and a shirt to return, all of them within five minutes' walk. You buy a coffee and sit down in the waiting room with it.
+facetLowAction: You buy a coffee and sit down in the waiting room with it.
 facetLeastTitle: Stuck Beanfast
-facetLeast: There is a list and not one thing on it has a deadline. You do one job off it and then you go and have a look at the garden.
-question: You've fourteen jobs to do and until six o'clock. You...
-answerMost: Start all fourteen and finish none
-answerHigh: Go at them hard, one after another
-answerMid: Pick the six that actually matter
-answerLow: Do three properly and let the rest wait
-answerLeast: Do one, then put the kettle on
-rorschachMost: a wall taking blows
-rorschachHigh: a loaded cart
-rorschachMid: a block of granite
-rorschachLow: a bed made up
-rorschachLeast: a sleeping ox
+facetLeast: It's the last day of a city break and you and your partner have a list of six things you both said you'd see. You do the first one, then walk the long way back along the river and read on the hotel bed.
+facetLeastAction: You do the first one, then walk the long way back along the river and read on the hotel bed.
+question: What do you do while the kettle boils?
+answerMost: start a few things, get distracted, turn it on again later
+answerHigh: whatever productive tasks I can fit in the time it takes to prepare my drink
+answerMid: do some washing up, clear the dishwasher
+answerLow: scroll on my phone
+answerLeast: just wait
+rorschachMost: a wire tangle
+rorschachHigh: a spinning washer
+rorschachMid: a boiling kettle
+rorschachLow: a slow queue
+rorschachLeast: a dozing cat
 ---
 
 Chipotle Chickpeas are the Bean Zodiac's most frenetic. Three conversations, three registers, and each group is convinced they are the natural fit for it. Sometimes there's no telling which version is the real one. Standing still as one fixed thing they find unbearable.

@@ -17,11 +17,11 @@ antiTriple: umami-fermented-adzuki
 antiBeans: [butter, black]
 antiForm: smoked
 seasonalFortune: "A season of blackened lemon and counted seconds — the pan forgives nothing; the failures burn."
-fortuneMost: Nests pulled apart and rebuilt all season, says the weaverbird, and the eggs wait.
-fortuneHigh: Send it back once, with the one change that matters named.
-fortuneMid: The standard you hold is the reason they bring it to you.
-fortuneLow: Accept the version that is good enough and say so warmly.
-fortuneLeast: Nobody has ever noticed the difference between fine and very fine.
+fortuneMost: Rebuild it enough times and the season's gone.
+fortuneHigh: A weaverbird ties every knot in its nest with its beak.
+fortuneMid: High standards get better work sent in.
+fortuneLow: Good enough is good enough here.
+fortuneLeast: Nobody notices the difference.
 facetMostTitle: The Beaning
 facetMost: Forty-one of the mirror glazes are perfect and the forty-second has a bloom on it. Not one of them goes out. The whole batch goes in the bin and you start again from the chocolate at two in the morning, on your own.
 facetHighTitle: Jiro Dreams of Beans
@@ -30,19 +30,19 @@ facetMidTitle: The Great British Bean Off
 facetMid: The swan's wing has a flat facet that only shows from the doorway, and you go back at it with the chisel while the guests are arriving.
 facetLowTitle: Beaniled It!
 facetLow: Two shelves of the unit have gone in the wrong way round and putting that right means taking the whole thing apart. The unit stays as it is, and the books go on.
-facetLeastTitle: Plan 9 from Outer Bean
+facetLeastTitle: Bean 9 from Outer Space
 facetLeast: Cutting in round the ceiling is the slow part and there is football on at three. You do it fast, you do it wobbly, and you paint over the wobble in the same colour.
-question: You've finished the kitchen cabinets and one door sits two millimetres proud. Nobody else has noticed. You...
-answerMost: Start it again from the beginning
-answerHigh: Fix that one thing however long it takes
-answerMid: Fix it if it's fixable, let it go if not
-answerLow: Notice it and hand the thing over anyway
-answerLeast: Wouldn't have looked that closely
-rorschachMost: a judge's wig and shoulders
-rorschachHigh: a carved stone owl
-rorschachMid: a heavy-capped mushroom
-rorschachLow: a sagging haystack
-rorschachLeast: a collapsed cake
+question: Proofs of the programme have come back and the type on the back page sits a shade low. You...
+answerMost: hold the whole run until the back page is right
+answerHigh: send it back to be reset, and check the rest again
+answerMid: have that page fixed and let the others go
+answerLow: notice it and sign the proof off anyway
+answerLeast: sign it off without looking past the front
+rorschachMost: a piped wedding cake
+rorschachHigh: a dovetail joint
+rorschachMid: a wig block
+rorschachLow: a botched hem
+rorschachLeast: a bodged repair
 ---
 
 Scorched Cannellini Beans are the Bean Zodiac's most exacting. They send it back because the margin is out by a millimetre, and the finished thing is genuinely better for it. The last five per cent can eat the week. Shipping something rough to see what happens is unthinkable.

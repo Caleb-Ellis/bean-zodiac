@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-fermented-green
-lastUpdated: 
+lastUpdated:
 bean: green
 flavour: spicy
 form: fermented
@@ -17,32 +17,37 @@ antiTriple: umami-dried-cannellini
 antiBeans: [navy, black]
 antiForm: boiled
 seasonalFortune: "A season of salted shrimp and broken rules; the crock ferments against every instruction given."
-fortuneMost: Nothing about the platypus follows from anything else about it.
-fortuneHigh: Asked how you got here, take the scenic way through every dead end.
-fortuneMid: A painting hung where the light is wrong, and the room finally makes sense.
-fortuneLow: A half-formed bridge offered now beats a polished one offered after a long silence.
-fortuneLeast: Sketch your way back to where you split off, so someone else can follow.
+fortuneMost: Break every rule and nobody knows what to expect.
+fortuneHigh: A platypus breaks every rule about what a mammal is.
+fortuneMid: The rule worth breaking is usually obvious.
+fortuneLow: Follow the instructions this time.
+fortuneLeast: Rules save a lot of arguing.
 facetMostTitle: Beanarchy in the UK
-facetMost: You have taken the committee's agenda, turned it over, and run the meeting off the back of it in an order you made up on the way in, and two people have walked out and the rest have got more done than in a year.
-facetHighTitle: Off the Beanmap
-facetHigh: The form has no box for what you actually are, so you put a line through the boxes. You write what is true in the margin, send it, and it is accepted.
-facetMidTitle: Beanoff-Piste
-facetMid: A plan from head office shows how the shop should be laid out. You put the seed potatoes by the door, because that is what people come in for.
-facetLowTitle: Fall in Beanline
-facetLow: A dress code says jacket and tie and you have views about that. You wear the jacket and the tie.
-facetLeastTitle: Beancookie Cutter
-facetLeast: The way it has always been done is on a laminated sheet by the machine. You read that sheet once. You do the job exactly like it every time, and you are the one who tells the new people to.
-question: The form has no box for what you actually are. You...
-answerMost: Put a line through the lot and write my own
-answerHigh: Write it in the margin
-answerMid: Pick the nearest and add a note
-answerLow: Pick the nearest box
-answerLeast: Pick whichever causes least trouble
-rorschachMost: a mine beside a marble
-rorschachHigh: a crescent and an explosion
-rorschachMid: a moon and a firework
-rorschachLow: two rocks, one chipped
-rorschachLeast: two tiles, identically cut
+facetMost: Six of you are cooking for eighty at somebody's fortieth in a hired farmhouse, the menu was agreed months ago, and the other five are halfway through their bits. You put the agreed list in the bin and start cooking what you think it should be.
+facetMostAction: You put the agreed list in the bin and start cooking what you think it should be.
+facetHighTitle: Off the Bean
+facetHigh: You're new to the city and due to meet somebody in half an hour, and the phone says twenty-two minutes if you stay on the main road. You put it in your pocket and go down the street that looks more interesting.
+facetHighAction: You put it in your pocket and go down the street that looks more interesting.
+facetMidTitle: Bean-Piste
+facetMid: The physio has given you six exercises on a printed sheet, and two of them leave your knee worse for a day and a half. You drop those two, work out one of your own that doesn't, and tell her at the next appointment that's what you've been doing.
+facetMidAction: You drop those two, work out one of your own that doesn't, and tell her at the next appointment that's what you've been doing.
+facetLowTitle: Fall in Bean
+facetLow: Your cousin has a gift list and everything on it is towels and glasses. You know the one thing they'd actually love, and it costs about the same. You buy the towels.
+facetLowAction: You buy the towels.
+facetLeastTitle: Beanie Cutter
+facetLeast: You're a week into crewing a tall ship where every watch is chalked up on a board by the wheel. Two of the others swapped watches between themselves without telling the skipper. You put the board back the way it was.
+facetLeastAction: You put the board back the way it was.
+question: You're thirty-eight, with no wedding, no car and a job title nobody has heard of. Your sister asks when you're going to sort yourself out. You...
+answerMost: tell her the bed's going next, and you'll be sleeping on the floor
+answerHigh: say the life suits you, and what it is that works about it
+answerMid: say you'll think about the car, and nothing about the rest
+answerLow: agree that a car would make things easier
+answerLeast: book the driving test to keep the peace
+rorschachMost: egg down a wall
+rorschachHigh: a nettle in the flowerbed
+rorschachMid: a dog off the lead
+rorschachLow: a fizzled firework
+rorschachLeast: a queue at a turnstile
 ---
 
 Kimchi Green Beans are the Bean Zodiac's most maverick. No wedding, no car, a job title nobody has heard of, and a life that visibly works. Occasionally the refusing becomes the whole personality. Choosing something ordinary because it suits them is oddly hard.

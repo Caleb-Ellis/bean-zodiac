@@ -23,14 +23,19 @@ fortuneLow: The bright front room has been left dark.
 fortuneLeast: A fire has been extinguished.
 facetMostTitle: Beaning Lights
 facetMost: The lift jams between floors, there's three strangers and it looks to be a long wait. You toss out a joke and try to get everyone talking.
+facetMostAction: You toss out a joke and try to get everyone talking.
 facetHighTitle: You Bean Up My Life
 facetHigh: At the wedding, a guest sits apart by the coat rack, drink empty, watching the noise from outside it. You leave a lively table and go pull up a chair beside them.
+facetHighAction: You leave a lively table and go pull up a chair beside them.
 facetMidTitle: Afterbean
 facetMid: The café's near empty and the barista looks worn down behind the counter. You stay a moment to ask how their shift's going before you take your cup.
+facetMidAction: You stay a moment to ask how their shift's going before you take your cup.
 facetLowTitle: Dim the Beans
 facetLow: Christmas with the family is getting late and a bit loose, and your name keeps getting called from across the room. You slip off to the kitchen and start washing up where it's quiet.
+facetLowAction: You slip off to the kitchen and start washing up where it's quiet.
 facetLeastTitle: Fade to Bean
 facetLeast: A lantern is pushed into your hands to lead the festival's night procession through the streets. You pass it straight to the person beside you and move to the back instead.
+facetLeastAction: You pass it straight to the person beside you and move to the back instead.
 question: Sun's still high at the festival when the band kicks in, but the patch in front of the stage is empty. Looks like no one wants to dance first. You...
 answerMost: grab the nearest hand and start the dancing yourself, waving the rest in
 answerHigh: start swaying to the beat, gathering friends nearby

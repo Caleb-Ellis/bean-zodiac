@@ -17,32 +17,37 @@ antiTriple: sweet-dried-cannellini
 antiBeans: [black, mung]
 antiForm: boiled
 seasonalFortune: "A season of escabeche and dry commentary — the pickle has opinions about everyone at the table."
-fortuneMost: Laughing at the kill gets the hyena called the villain of the plain.
-fortuneHigh: The real thing was never in the cheerful opening. Read past it.
-fortuneMid: Asked how you are, you owe nobody the upbeat translation.
-fortuneLow: The catastrophe didn't board the train, and the weather you dressed for never came.
-fortuneLeast: Out loud, to the dog if no one else will hear, name three things that went right.
-facetMostTitle: Beanjack Horseman
-facetMost: The restructure has been announced and your description of it is funny and also precisely what is happening. You do the description again at lunch. You do it in front of two people who have just been told their jobs are going, and every word is still accurate.
+fortuneMost: Expect the worst of people and they oblige.
+fortuneHigh: A hyena laughs at things nobody else finds funny.
+fortuneMid: A dry read of it is usually accurate.
+fortuneLow: Assume they meant well.
+fortuneLeast: Taking it straight is a kind of courage.
+facetMostTitle: Bojack Beanman
+facetMost: The benefit night for the man from work who came off his bike has filled the hall, and three people who never spoke to him have got up to speak. The buckets go round after them. You know exactly why each of them is up there, and his wife is two seats along. You lean over and tell the table.
+facetMostAction: You lean over and tell the table.
 facetHighTitle: Beandaria
-facetHigh: Weather on that street is always four degrees worse than the rest of town. You have a theory about who deserves it.
-facetMidTitle: Office Beanspace
-facetMid: The group chat has gone earnest about the fundraiser and somebody has used the word journey, and you type the line that gets four replies in a row.
-facetLowTitle: Beanpollyanna
-facetLow: A record you have been waiting a year for has come out and is as good as you hoped. You say so, plainly, with nothing on the words at all.
-facetLeastTitle: Beancandide
-facetLeast: Somebody has laid out a plan with real hope attached and there are three obvious ways it goes wrong. You tell her it sounds marvellous. You ask what you can do, and you mean that, and you are looking forward to the whole thing.
-question: A plan gets announced that you can see the flaws in. You...
-answerMost: have the whole thing rendered before lunch
-answerHigh: put it in one line that's funny and true
-answerMid: raise an eyebrow and leave it there
-answerLow: say what's good about it
-answerLeast: get genuinely enthusiastic
-rorschachMost: a lip curled right back
-rorschachHigh: a mouth twisted one side
-rorschachMid: a fruit, top nicked
-rorschachLow: a mouth barely twisted
-rorschachLeast: a face wide open
+facetHigh: The shop has put up signs about how much it cares about the neighbourhood, in the same month it shut the branch across town. Your friend who works there is standing under one of them. You tell her what the signs are actually for.
+facetHighAction: You tell her what the signs are actually for.
+facetMidTitle: Office Bean
+facetMid: Four hours on the plane at the stand, and the crew go out of hours at eight, after which it cannot legally go anywhere. The announcement apologises for the inconvenience and thanks you for your patience. The man beside you asks what that actually means. You tell him it means nobody is coming.
+facetMidAction: You tell him it means nobody is coming.
+facetLowTitle: Pollybeana
+facetLow: Your friend has waited two years for this tattoo and she is holding the drawing out for you to look at with her hand going, and there is a dry thing to say here that would get a laugh. You tell her it is beautiful.
+facetLowAction: You tell her it is beautiful.
+facetLeastTitle: Beandide
+facetLeast: Somebody has suggested the six of you enter the proper league next season, the whole changing room has spent ten minutes on how badly it would go, and you think they would do all right. You say so, and put your name down first.
+facetLeastAction: You say so, and put your name down first.
+question: The restructure has been announced with a diagram and the words 'exciting opportunity'. You...
+answerMost: give the diagram the treatment, then the department, then the industry
+answerHigh: describe the diagram so it's funny and exactly what's happening
+answerMid: raise an eyebrow at 'exciting opportunity'
+answerLow: call it redundancies and move on
+answerLeast: take the diagram at its word
+rorschachMost: a rotten apple
+rorschachHigh: a slow handclap
+rorschachMid: a lopsided grin
+rorschachLow: a puppy
+rorschachLeast: a party balloon
 ---
 
 Pickled Pinto Beans are the Bean Zodiac's most sardonic. They describe the restructure in a way that is funny and also exactly what is happening. Some seasons the whole world gets that treatment. Open, unguarded enthusiasm is a thing they'll only risk about music.

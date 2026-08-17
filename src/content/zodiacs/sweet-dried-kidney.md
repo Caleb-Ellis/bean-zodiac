@@ -17,11 +17,11 @@ antiTriple: sour-smoked-fava
 antiBeans: [pinto, edamame]
 antiForm: fermented
 seasonalFortune: "A season of palm sugar and long devotion — the sweetmeat keeps one name in mind."
-fortuneMost: A shrine rises where a person once stood.
-fortuneHigh: Two hands reaching for the same flower.
-fortuneMid: One kept ticket stub outlasts the trip.
-fortuneLow: Allow yourself the private quiet.
-fortuneLeast: File the small slight under the running list and don't rush to write it off.
+fortuneMost: Adore somebody enough and they can only fall short.
+fortuneHigh: Lovebirds sit pressed together for hours doing nothing.
+fortuneMid: Saying it out loud is worth doing.
+fortuneLow: Look at them plainly.
+fortuneLeast: Affection cools and the friendship stays.
 facetMostTitle: Cult of Beanality
 facetMost: The teacher who got you through has retired and you have found an address for him. What goes in the envelope runs to four pages and calls him the reason for all of it.
 facetHighTitle: Can't Take My Beans Off You
@@ -30,19 +30,19 @@ facetMidTitle: Devoted to Bean
 facetMid: A friend's short story has come through and the middle of it is flat. You read the ending twice. You tell four people about the ending and you do not mention the middle to anybody.
 facetLowTitle: You've Lost That Lovin' Beaning
 facetLow: Your grandmother's pastry has come up over the meal and everybody at the table is agreed about how good it was, and two of them are going a fair distance. You agree it was good, and mention that she used a lot of lard.
-facetLeastTitle: The Cold Beanoulder
+facetLeastTitle: The Cold Beander
 facetLeast: The manager you have defended nine years has bought badly again, and asked whether you are still with him you admit you were never that keen.
-question: How do you talk about the people you love when they're not in the room?
-answerMost: at length, and they'd blush at every word of it
-answerHigh: warmly, and you'll find a reason to bring them up
-answerMid: well, with one thing they get wrong
-answerLow: fairly, good and bad in the same breath
-answerLeast: the faults first, because that's the truer half
-rorschachMost: someone kneeling to a lamp
-rorschachHigh: an altar and its candle
-rorschachMid: a shelf above a stool
-rorschachLow: a candle not yet lit
-rorschachLeast: an empty niche
+question: You're at the trade night looking for work, and somebody at the bar asks what your wife does. What do they get?
+answerMost: that she is the finest teacher in the county, and why
+answerHigh: what she does, said the way you'd say it to her face
+answerMid: her job, and that she's good at it
+answerLow: the name of the school
+answerLeast: that she teaches, and a change of subject
+rorschachMost: a lamp moth
+rorschachHigh: an upturned face
+rorschachMid: a locket
+rorschachLow: an unopened letter
+rorschachLeast: a bricked window
 ---
 
 Crystallised Kidney Beans are the Bean Zodiac's most adoring. They speak about their people in a way that would embarrass those people, and they mean every word. Sometimes the pedestal makes an ordinary person unreachable. Seeing a loved one's flaws plainly takes them years.

@@ -17,32 +17,37 @@ antiTriple: sour-fermented-edamame
 antiBeans: [black, cannellini]
 antiForm: smoked
 seasonalFortune: "A season of onion-tomato gravy and found spices — the pot makes dinner from whatever survived."
-fortuneMost: Where the mowing has just been done, the kestrel hangs and waits.
-fortuneHigh: The thing about to go in the bin has one more use in it, and you're the one who can see it.
-fortuneMid: Pick up the old thread instead of starting cold.
-fortuneLow: Some jobs come from a shop, not your drawer.
-fortuneLeast: Ask the friend who is good at this, plainly.
+fortuneMost: Every situation gets read for what can be got out of it.
+fortuneHigh: A kestrel hangs over the mowing and waits for what runs.
+fortuneMid: The thing bound for the bin has one more use.
+fortuneLow: Buy the proper tool.
+fortuneLeast: Ask the friend who's good at this.
 facetMostTitle: Only Fools and Beans
-facetMost: The factory is shutting and everybody in the pub is saying what a shame it is. You are already talking to one man about the machinery and the landlord about the yard, and by closing time you have an option on both.
-facetHighTitle: Beanmacgyver
-facetHigh: The pipe has gone and the stopcock is seized solid, so you get the freezer spray onto the joint and buy yourself an hour.
+facetMost: Your friend has left her good speakers at yours while she moves, and she isn't back for a fortnight. You've got people coming round at the weekend. You wire them into your system, and when she asks how it went you tell her it was quiet.
+facetMostAction: You wire them into your system, and when she asks how it went you tell her it was quiet.
+facetHighTitle: Beangyver
+facetHigh: It has rained for two days, the gas has run out, and the six of you have eaten nothing since the morning. You get the wet wood going with the wax off the cheese and a page of somebody's paperback, and cook on that.
+facetHighAction: You get the wet wood going with the wax off the cheese and a page of somebody's paperback, and cook on that.
 facetMidTitle: Make Do and Bean
-facetMid: Given ten minutes at a skip, you come away with a door, a sash window and most of a bench. Not one bit of it cost you anything at all.
-facetLowTitle: Beanhelpless
-facetLow: Your car has stopped on the hard shoulder and the bonnet is up and the rain has started. You look at the engine the way you would look at a page of written Greek.
+facetMid: The door on the only working dryer swings open the moment the drum starts turning, and everything you own is wet inside it. You wedge it shut with the strap of your bag.
+facetMidAction: You wedge it shut with the strap of your bag.
+facetLowTitle: Beanless
+facetLow: You're nine miles out on the moor with a back wheel that won't turn, and no signal until you walk up to the top of the rise. You walk up to the rise and ring your friend to come and get you.
+facetLowAction: You walk up to the rise and ring your friend to come and get you.
 facetLeastTitle: All at Bean
-facetLeast: The power goes, the whole house is dark, and there are candles in the drawer under the stairs, and you sit down to wait for somebody who knows where they are.
-question: The oven dies with fourteen people arriving in two hours. You...
-answerMost: Have already worked out what to charge them
-answerHigh: Cook the lot on the hob and the barbecue
-answerMid: Change the menu to what'll actually work
-answerLow: Ring round for somewhere that delivers
-answerLeast: Ring my sister and hand her the problem
-rorschachMost: a piggy bank, slot open
-rorschachHigh: a letterbox in a door
-rorschachMid: a post box
-rorschachLow: a locked chest
-rorschachLeast: an empty pocket, turned out
+facetLeast: The shelves have been in pieces in the shed for three weeks because one bracket is missing and the box doesn't say which. You put the lid back on and ask your dad to have a look when he's next over.
+facetLeastAction: You put the lid back on and ask your dad to have a look when he's next over.
+question: Tomorrow is the school play, the costume hire has fallen through, and the teacher has come to you. Thirty children, and a cupboard of PE bibs, bin bags and poster paint. You...
+answerMost: have the children make the costumes, and take tomorrow off
+answerHigh: make thirty costumes out of the bibs and bin bags tonight
+answerMid: dress the main parts from the cupboard, the rest in their own clothes
+answerLow: put all thirty in their own clothes
+answerLeast: leave it with the teacher
+rorschachMost: a hunched vulture
+rorschachHigh: a scarecrow
+rorschachMid: a lopped tree
+rorschachLow: an empty glove
+rorschachLeast: a beetle on its back
 ---
 
 Braised Chickpeas are the Bean Zodiac's most resourceful. The car dies in a village at nine on a Sunday and somehow there's a bed and a lift by ten. Sometimes the solution quietly uses somebody. Sitting still and waiting for help is not a posture they adopt.

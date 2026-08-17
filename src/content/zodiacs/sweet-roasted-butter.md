@@ -23,14 +23,19 @@ fortuneLow: The kind answer is the plain one.
 fortuneLeast: Lie on the warm floor and let the day stay heavy.
 facetMostTitle: Monty Python's Flying Beanus
 facetMost: The waiter behind you drops a loaded tray and the room freezes. You're the first to shoot your arms up and shout "oi oi"!
+facetMostAction: You're the first to shoot your arms up and shout "oi oi"!
 facetHighTitle: Light Beaned
 facetHigh: The graduation's dragging into its second hour of names. You start clapping for total strangers, just to wake everyone up.
+facetHighAction: You start clapping for total strangers, just to wake everyone up.
 facetMidTitle: Bean Relief
 facetMid: You booked the cabin for the wrong weekend and the owner's already re-let it. Ah well, you think, and head to the pub to figure out what to do next.
+facetMidAction: Ah well, you think, and head to the pub to figure out what to do next.
 facetLowTitle: Weighty Beanters
 facetLow: Your uncle tells a long and awkward joke and it lands to dead silence. You look into your glass instead of offering a mercy laugh.
+facetLowAction: You look into your glass instead of offering a mercy laugh.
 facetLeastTitle: Heavy Beaning
 facetLeast: Your mate keeps lobbing jokes about their diagnosis, waiting for you to bat one back. You don't — you just ask how they're really doing.
+facetLeastAction: You don't — you just ask how they're really doing.
 question: The kids' team you coach is getting hammered six-nil, and at half time every small head is hanging in the huddle. You...
 answerMost: start a dumb chant hoping to get them all laughing
 answerHigh: make a joke of the score

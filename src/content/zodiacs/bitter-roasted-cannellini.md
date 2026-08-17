@@ -17,32 +17,37 @@ antiTriple: umami-smoked-fava
 antiBeans: [kidney, mung]
 antiForm: fermented
 seasonalFortune: "A season of rosemary and burnt shallot — the fire edits, and what survives is better company."
-fortuneMost: You wipe a rim nobody would have seen, and the meal goes cold doing it.
-fortuneHigh: For the small thing, one more pass earns its keep.
-fortuneMid: All that gliding is done by feet nobody is meant to see.
-fortuneLow: Eat it off the wall with the wind in it.
-fortuneLeast: The plate left perfect on the bench is the one nobody ate.
+fortuneMost: Wiping the rim again lets the meal go cold.
+fortuneHigh: A mute swan glides on feet nobody is meant to see.
+fortuneMid: The unseen work is most of it.
+fortuneLow: Use your hands.
+fortuneLeast: Rough and hot beats perfect and cold.
 facetMostTitle: The Talented Mr. Beanley
-facetMost: The jasmine in the fourth trial is a shade heavier than the third and the difference lasts about ten seconds on the strip. The batch goes back. The perfumer says nobody in the world will notice, and you say that is not the point.
-facetHighTitle: The Age of Beannocence
-facetHigh: A plate comes to the pass with the sauce smeared up one side. You wipe it, turn the garnish, and let it go.
+facetMost: Your parents' fortieth is booked here for twenty-two people and the four hundred deposit does not come back. You have come in to taste the menu and the lemon sorbet is out of a tub — the manager says it is what they have always used and nobody has ever mentioned it. You cancel the whole booking.
+facetMostAction: You cancel the whole booking.
+facetHighTitle: The Age of Beanocence
+facetHigh: You are on the sorting table at the charity shop, where the bags go straight out to the rail as they come, and a wool coat has come in with two buttons off and the lining down at the back; the woman working with you has priced it at six pounds. You mend it and put it in the window at thirty-five.
+facetHighAction: You mend it and put it in the window at thirty-five.
 facetMidTitle: Beanton Abbey
-facetMid: You check in a party of forty at the desk and get every name right, said the way its owner says it, including the two you had to look up.
+facetMid: The stone for your grandmother is being cut this month and you and your uncle have come out to the plot with the mason, who has two alphabets in a folder — a round one most people take because it reads from the path, and a narrow one with long tails. It gets cut once, and your uncle says either is fine by him. You pick the narrow one.
+facetMidAction: You pick the narrow one.
 facetLowTitle: Beanorat
-facetLow: Pie and a pint for four pounds at the club, on the plates they have always had. You eat the lot and go back up for more gravy.
+facetLow: One in the morning coming back, and the only thing open at the services is the fried chicken counter under the heat lamp; your friend says she will come off at the next junction for the place that does proper food, forty minutes out of the way, and you are both at work at eight. You get the chicken.
+facetLowAction: You get the chicken.
 facetLeastTitle: South Bean
-facetLeast: Somebody's grandmother is carving in the farm kitchen and the bread goes round in hands rather than on a plate. You wipe your knife on the tablecloth like everybody else.
-question: You're served a fish pie at someone's house and the fish has plainly been cooked twice. You...
-answerMost: Taste exactly what's wrong and can't unnotice it
-answerHigh: Eat it happily and say nothing
-answerMid: Enjoy the evening more than the food
-answerLow: Not really register the difference
-answerLeast: Have seconds
-rorschachMost: a bristling thistle head
-rorschachHigh: a sea urchin
-rorschachMid: a burr caught on wool
-rorschachLow: a crushed thistle
-rorschachLeast: a mud spatter
+facetLeast: You said you would do the food for your friend's thirtieth on the beach, and you are good at this — the last one had four things on the table you had made yourself. You have turned up with two bags of ice, a box of sausages and a supermarket cake. You put the sausages and the cake out in the trays they came in.
+facetLeastAction: You put the sausages and the cake out in the trays they came in.
+question: A friend asks you to help hang three pictures in her new flat. You...
+answerMost: rehang all three and shift the sofa to suit them
+answerHigh: get the height and the spacing right, then stop
+answerMid: hang them where she wanted them, straight
+answerLow: put them on the hooks that are already there
+answerLeast: knock a nail in wherever there's a gap
+rorschachMost: a filigree brooch
+rorschachHigh: a silver fork
+rorschachMid: a doily
+rorschachLow: a chipped plate
+rorschachLeast: a slopped pint
 ---
 
 Wood-Fired Cannellini Beans are the Bean Zodiac's most refined. They know which glass, which knife, which of two nearly identical greens is right, and never make anyone feel tested by it. The standards can get airless. Cheerful roughness is hard for them to enjoy.

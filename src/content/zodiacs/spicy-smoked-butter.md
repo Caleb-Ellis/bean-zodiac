@@ -2,7 +2,7 @@
 # TODO: tidy facets, redo fortunes, redo rorschachs
 # should be sensuous / voluptuary / numb
 slug: spicy-smoked-butter
-lastUpdated: 
+lastUpdated:
 bean: butter
 flavour: spicy
 form: smoked
@@ -18,32 +18,37 @@ antiTriple: sour-roasted-navy
 antiBeans: [pinto, edamame]
 antiForm: fried
 seasonalFortune: "A season of pecan smoke and lowered voices — the tray works below the room's hearing."
-fortuneMost: Flying without a sound, the barred owl is gone before the wood knows.
-fortuneHigh: One true line, said once and late, smoulders longer than any speech.
-fortuneMid: Skip the word fine and hand over the smallest honest one instead.
-fortuneLow: The lid has been down so long the pressure forgot its own shape.
-fortuneLeast: Let something in you announce itself out loud.
+fortuneMost: Said quietly enough, it doesn't count as said.
+fortuneHigh: Drop your voice and watch them lean in.
+fortuneMid: A barred owl takes what it wants without a sound.
+fortuneLow: Say it again, louder.
+fortuneLeast: Make some noise about it!
 facetMostTitle: All Quiet on the Western Bean
-facetMost: You are in the recording booth and the engineer has the gain as far up as it will go. He asks for the line again, a bit louder. Then again. Each time your voice comes back at exactly the same level.
-facetHighTitle: Hushed Beantones
-facetHigh: The tour has gone down into the crypt and the guide has stopped talking to let people look. What you say to the person beside you comes out at roughly the volume of breathing.
-facetMidTitle: Sotto Beanvoce
-facetMid: A heron lands forty feet from the hide with six other people in there with you, and you point, and say nothing.
-facetLowTitle: Beanfull Volume
-facetLow: The bidding in the auction room is going past what you agreed and the auctioneer has not seen your hand. You get your voice up and put the number out across the room.
-facetLeastTitle: Beanmegaphone
-facetLeast: The platform announcement has broken and there are two hundred people who need to know the train has moved. You get up on a bench and tell them. They hear you at the far end of the platform, and in the ticket hall.
-question: How loud are you, honestly?
-answerMost: People ask me to repeat myself constantly
-answerHigh: Softly spoken
-answerMid: Normal, I think
-answerLow: I carry, apparently
-answerLeast: You can hear me two rooms away
-rorschachMost: a drum under thick cloth
-rorschachHigh: a hand over a mouth
-rorschachMid: a dark drum, skin loose
-rorschachLow: a beat just heard
-rorschachLeast: a horn at close range
+facetMost: Nine of you, and when the waiter gets to you the one next to you says you'll have the set menu as well. You said ten minutes ago that you didn't want it. You say it again, to the tablecloth.
+facetMostAction: You say it again, to the tablecloth.
+facetHighTitle: Beaned Tones
+facetHigh: Forty of you in the room under the stand, all talking over each other about whether the manager goes, and the vote's at the end of it. You're the only one who's seen what the gate money actually was last season. You say the figure at the volume you'd use across a kitchen table.
+facetHighAction: You say the figure at the volume you'd use across a kitchen table.
+facetMidTitle: Sotto Beane
+facetMid: There are four people behind you at the pharmacy counter, and the woman asks what the cream's for. You tell her at a level that reaches her and nobody else.
+facetMidAction: You tell her at a level that reaches her and nobody else.
+facetLowTitle: Full Beanume
+facetLow: Your friend's stepped up on the wrong lane and there's a family four down with a ball already in play. You shout his name across the whole alley, twice.
+facetLowAction: You shout his name across the whole alley, twice.
+facetLeastTitle: Beanaphone
+facetLeast: The station runs on two volunteers and a box of request slips, and they've given you two till four on a Sunday because almost nobody's listening. The man who trained you said to keep it low and easy at that hour. You do the whole two hours at the top of your voice.
+facetLeastAction: You do the whole two hours at the top of your voice.
+question: Your voice has started carrying only as far as whoever you're looking at. You...
+answerMost: look at nobody, and let it go unsaid
+answerHigh: look at the person it's about, and say it
+answerMid: pass it to two people and let them carry it on
+answerLow: go round the table so it reaches everyone
+answerLeast: stand up and turn as you speak so the whole room gets it
+rorschachMost: a padded door
+rorschachHigh: a muffled drum
+rorschachMid: a closed piano
+rorschachLow: a school bell
+rorschachLeast: a klaxon
 ---
 
 Chipotle Butter Beans are the Bean Zodiac's most hushed. They speak just under the volume of the room, and the room lowers itself to hear. Sometimes it goes so far under that nothing arrives at all. Simply talking over the noise they will not attempt.

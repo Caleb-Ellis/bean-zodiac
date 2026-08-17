@@ -17,11 +17,11 @@ antiTriple: sweet-fried-fava
 antiBeans: [green, butter]
 antiForm: smoked
 seasonalFortune: "A season of mustard pickle and kept accounts: nothing enters the jar unmeasured or unrecorded."
-fortuneMost: Every seed counted into the store, and the harvester ant trusts nobody with the count.
-fortuneHigh: Sentiment doesn't clear a ledger.
-fortuneMid: New words, same shape underneath.
-fortuneLow: Being owed a little is cheaper than keeping the account.
-fortuneLeast: Take the favour and never square it.
+fortuneMost: Get every detail right and nobody notices any of them.
+fortuneHigh: A harvester ant sorts every seed by size.
+fortuneMid: The small correctness holds the big thing up.
+fortuneLow: A small error can stand.
+fortuneLeast: Rough and honest beats exact and late.
 facetMostTitle: Monkbean
 facetMost: Eleven pounds of the mileage is not strictly work and nobody on earth would check it. You take it off the claim and write a note explaining why the figure has moved.
 facetHighTitle: The Honour Bean
@@ -32,17 +32,17 @@ facetLowTitle: Better Call Bean
 facetLow: An invoice has come in four hundred pounds under what you owe. The arithmetic is theirs, not yours, and nobody there has noticed. You pay the figure, you file the paperwork, and you say nothing when the man rings about something else.
 facetLeastTitle: Beanron
 facetLeast: You know what a rival bid because somebody let it slip in a car park. You come in eighty pounds under and win the work.
-question: You could take a small advantage that nobody would ever find out about. You...
-answerMost: declare it before anybody asks
-answerHigh: leave it, and sleep fine
-answerMid: leave it, and think about it a while
-answerLow: take it, and feel slightly odd
-answerLeast: take it, and it doesn't cross your mind again
-rorschachMost: every notch counted twice
-rorschachHigh: a ledger edge, nicked
-rorschachMid: a wax impression
-rorschachLow: a tally roughly kept
-rorschachLeast: a ledger with pages gone
+question: The mileage you're claiming includes one trip that was half personal, and nobody checks the claims. You...
+answerMost: declare the half trip, and hold the claim up while you work out the split
+answerHigh: take the half trip off and say why
+answerMid: claim the work half and leave it there
+answerLow: claim the full mileage and think no more about it
+answerLeast: round the mileage up while you're in the form
+rorschachMost: a wax-sealed letter
+rorschachHigh: a counted stack
+rorschachMid: a grain store
+rorschachLow: a greased palm
+rorschachLeast: a hand in the till
 ---
 
 Pickled Navy Beans are the Bean Zodiac's most scrupulous. They declare the small thing nobody would ever have checked, and sleep well for it. The scruples can bog down a decision that wanted making. Taking the easy advantage once, quietly, is not a thing they will do.

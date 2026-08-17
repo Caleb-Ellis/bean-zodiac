@@ -23,14 +23,19 @@ fortuneLow: Do it the way a child might do it.
 fortuneLeast: The straight path gets there too.
 facetMostTitle: Beanyrinth
 facetMost: Someone at a party asks what you're into. There's no single answer in you — only a sprawl of evolving interests, recent phases and dormant hobbies. You feel compelled to lay the whole map out rather than just name one thing.
+facetMostAction: You feel compelled to lay the whole map out rather than just name one thing.
 facetHighTitle: Beanception
 facetHigh: A friend has a long drive coming and asks you for some music. You don't just send a pile of songs, you build the hour — an opener, a lift through the middle, a comedown for the last stretch, made to be played in order.
+facetHighAction: You don't just send a pile of songs, you build the hour — an opener, a lift through the middle, a comedown for the last stretch, made to be played in order.
 facetMidTitle: Cloud Beanlas
-facetMid: You want to share some juicy gossip with a friend. It won't quite make sense without context, so before the story starts you get into all the details — who used to date whom, which two aren't speaking, how any of them even know each other.
+facetMid: You want to share some juicy gossip with a friend. It won't quite make sense without context. Before the story starts you get into all the details — who used to date whom, which two aren't speaking, how any of them even know each other.
+facetMidAction: Before the story starts you get into all the details — who used to date whom, which two aren't speaking, how any of them even know each other.
 facetLowTitle: See Bean Run
 facetLow: A Halloween party is coming up, costumes mandatory. There's a good chance you end up cutting two eyeholes in an old bedsheet and going as a ghost.
+facetLowAction: There's a good chance you end up cutting two eyeholes in an old bedsheet and going as a ghost.
 facetLeastTitle: Beans for Dummies
-facetLeast: The vast majority of your wardrobe is solid colours — not many patterns, try to avoid prints, nothing too flashy. Most tops goes with most bottoms, so dressing to head out is as easy as it gets.
+facetLeast: The vast majority of your wardrobe is solid colours — not many patterns, try to avoid prints, nothing too flashy. You prefer it this way because most tops goes with most bottoms, and dressing to head out is as easy as it gets.
+facetLeastAction: You prefer it this way because most tops goes with most bottoms, and dressing to head out is as easy as it gets.
 question: You've got a big decision to make. How do you go about it?
 answerMost: a spreadsheet, every factor weighted, each branch mapped out
 answerHigh: a proper written list of pros and cons

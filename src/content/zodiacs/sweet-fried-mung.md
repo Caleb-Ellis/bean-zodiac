@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sweet-fried-mung
-lastUpdated: 
+lastUpdated:
 bean: mung
 flavour: sweet
 form: fried
@@ -17,32 +17,37 @@ antiTriple: sour-roasted-edamame
 antiBeans: [pinto, fava]
 antiForm: fermented
 seasonalFortune: "A season of palm syrup and full plates: the pancake is handed to everyone."
-fortuneMost: Working for nothing and eaten by the ones it serves - the cleaner shrimp.
-fortuneHigh: The absurd dessert at the absurd hour.
-fortuneMid: Leave the long, rambling message.
-fortuneLow: Ask what would actually help before you start cooking.
-fortuneLeast: Not the cake, not the grand gesture - the dishes.
-facetMostTitle: The Prodigal Bean
-facetMost: The round is yours and there are nine of them and you are two weeks off payday. You get it, and you get the next one as well when nobody moves.
+fortuneMost: Give it all away and there's nothing to give next time.
+fortuneHigh: Cleaner shrimp work on anything that turns up.
+fortuneMid: Generosity comes back oddly and late.
+fortuneLow: Hold a bit of it back.
+fortuneLeast: Holding on to it is not a sin.
+facetMostTitle: The Beanigal Son
+facetMost: It's gone midnight and a man at the next pump says his card's stopped and he has to be in Hull by morning. The eighty in your account is your food until payday. He hasn't asked. You go in and put his fill on your card.
+facetMostAction: You go in and put his fill on your card.
 facetHighTitle: Give a Little Bean
-facetHigh: Somebody at the club has nowhere to be for a month while the flat is sorted out, and you give him the key to the spare room and tell him not to think about it at all.
-facetMidTitle: The Beangift
-facetMid: Your good chisel has been out on loan four months. You have seen it in the back of his van twice now. You ask how he is getting on with it, and you ask in a way that leaves him plenty of room.
-facetLowTitle: Tight-Fisted Bean
-facetLow: The bill comes and two of them had the steak and you had soup. You suggest splitting it by what people had.
-facetLeastTitle: Beanscrooge
-facetLeast: It is your friend's fortieth and there is a collection going round, and you put in the smallest note and say twice that the card is the thing that matters.
-question: A friend needs three hundred pounds and hasn't said when he can pay it back. You...
-answerMost: give it, and tell him to forget the paying back
-answerHigh: give it, and don't raise it again
-answerMid: give it, and say roughly when suits you
-answerLow: give him some of it and see how that goes
-answerLeast: say money and friends don't mix
-rorschachMost: both bowls tipped right out
-rorschachHigh: two palms upturned
-rorschachMid: two bowls and a crumb
-rorschachLow: one bowl kept back
-rorschachLeast: a fist round a coin
+facetHigh: Over the takeaway your friend says she's out of the flat by the end of the month and the person who was helping has pulled out. You've two days off booked, the only ones all year, with nothing planned for them. You give her both days.
+facetHighAction: You give her both days.
+facetMidTitle: The Bean Gift
+facetMid: You get two guest tickets each, and anyone without one watches on a screen in the other building. Your friend from your year has three people down and two tickets. You give her your second one.
+facetMidAction: You give her your second one.
+facetLowTitle: Tight-Beaned
+facetLow: You're selling the bike for a hundred and twenty and the man from the flat below's in the stairwell with ninety, saying he'll bring the rest when he's paid. His got taken and he rides to work. You say come back when he's got it all.
+facetLowAction: You say come back when he's got it all.
+facetLeastTitle: Scrooge McBean
+facetLeast: You're paid by the punnet, with the caravan rent off the top, and anyone under the week's minimum gets sent home. The woman on the next row's behind and everyone else has been dropping punnets in her crates. You put your last two on your own card.
+facetLeastAction: You put your last two on your own card.
+question: The three hundred in the tin is for the course you start in April. The cousin who has had your spare room twice asks to borrow it until then. You...
+answerMost: hand it over, and put a bag of shopping in with it
+answerHigh: lend him the three hundred and say nothing about the course
+answerMid: lend two hundred and keep the rest for April
+answerLow: offer the room again instead of the money
+answerLeast: keep the tin shut
+rorschachMost: a split grain sack
+rorschachHigh: two open hands
+rorschachMid: a passed plate
+rorschachLow: a buttoned pocket
+rorschachLeast: a locked till
 ---
 
 Caramelised Mung Beans are the Bean Zodiac's most openhanded. The round is got, the spare room is offered, and none of it is counted or mentioned again. Sometimes it goes out faster than it comes in. Saying no to a request is genuinely difficult.

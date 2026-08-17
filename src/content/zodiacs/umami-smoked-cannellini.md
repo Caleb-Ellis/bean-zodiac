@@ -23,14 +23,19 @@ fortuneLow: The candle was lit for a guest who won't arrive.
 fortuneLeast: Wear the shirt with the stain, leave the bed unmade.
 facetMostTitle: The Bean in Winter
 facetMost: It's a crowded reception, everyone circling and working the room. You stake out a spot by the tall windows and let them come to you.
+facetMostAction: You stake out a spot by the tall windows and let them come to you.
 facetHighTitle: The Bean Crown
 facetHigh: At a family gathering you're being directed to the kids' table with the plastic chairs. You stay standing.
+facetHighAction: You stay standing.
 facetMidTitle: Long Live the Bean
 facetMid: Walking up to collect the award, you misjudge the step and stumble in front of the seated hall. You straighten, unhurried, and carry on to the stage.
+facetMidAction: You straighten, unhurried, and carry on to the stage.
 facetLowTitle: The Bean and the Pauper
 facetLow: At a gallery opening, you in your good coat, a guest takes you for staff and hands you her empty glass. You take it to the bar without correcting her.
+facetLowAction: You take it to the bar without correcting her.
 facetLeastTitle: Upstairs, Beanstairs
 facetLeast: At the school fundraiser there's a dunk tank with a line of kids waiting for a target. You roll up your sleeves and climb onto the drop seat.
+facetLeastAction: You roll up your sleeves and climb onto the drop seat.
 question: The neighbourhood's midsummer feast is laid out under the trees, and the organisers ask whether you'll give the toast or pitch in with setting up. You...
 answerMost: claim the head of the table and open the feast yourself
 answerHigh: give the toast, then take the seat they've saved up front

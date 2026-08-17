@@ -17,32 +17,37 @@ antiTriple: sweet-fried-navy
 antiBeans: [kidney, chickpea]
 antiForm: dried
 seasonalFortune: "A season of dark jars and slow turning: the ferment thinks in a cellar nobody visits."
-fortuneMost: Bringing it all back up to chew a second time, and a third - that is the highland cow.
-fortuneHigh: Pour the whole answer out where nobody can see it.
-fortuneMid: A thing turned over long enough goes stranger, not deeper.
-fortuneLow: Move one piece and let it settle before the next.
-fortuneLeast: You will decide something without having chewed it at all.
-facetMostTitle: The Addams Beanily
-facetMost: A herd of cattle standing in fog on the hill above the road, and you have pulled over into the gateway to watch them. Twenty minutes gone. You are still sitting there thinking about your father, and the engine has gone cold under the bonnet.
+fortuneMost: A highland cow brings the same mouthful back up all day.
+fortuneHigh: Sit with it a while longer.
+fortuneMid: The problem looks different after a walk.
+fortuneLow: Stop turning it over.
+fortuneLeast: The first thought was fine.
+facetMostTitle: The Beanams Family
+facetMost: Three months ago, in your brother's kitchen, you talked him out of the flat he was buying. The block has gone up eleven per cent since and he is still renting. You run six laps most evenings and you have spent every one of them this fortnight going back through what you said, for the sentence that did it. You go back to the first thing you said to him.
+facetMostAction: You go back to the first thing you said to him.
 facetHighTitle: Bean and Punishment
-facetHigh: The letter has been read three times and put back in the drawer. You take it out again after dark and work out what the second paragraph was really doing.
+facetHigh: You gave a statement in March about the van that killed a cyclist at the junction, and you have gone back over the four seconds so often that you are now certain its indicator was on, which the statement does not say. The coroner is finding today and the cyclist's family are three rows behind you. You tell him the statement was wrong about the indicator.
+facetHighAction: You tell him the statement was wrong about the indicator.
 facetMidTitle: Manchester by the Bean
-facetMid: Somebody at the bar asks what you have been up to and you tell them about a conversation from four years ago that you have not finished with yet.
+facetMid: At Sunday lunch your friend said, in front of the others, that you have always had somebody to fall back on, and everybody laughed and it moved on; four days later you are on the bus and still on that sentence. You text her to ask what she meant by it.
+facetMidAction: You text her to ask what she meant by it.
 facetLowTitle: Night of the Living Bean
-facetLow: The tunnel work stops for the night and the crew are going for a drink. You go with them and talk about the football all evening.
+facetLow: You have been on the same twenty minutes of a row with your sister all week and meant to read her messages again on the way. Down in the catacombs there is no signal for the hour, and a guide is explaining which vault was sealed last and what happened to the families living in them. You ask him how many of them were living down here.
+facetLowAction: You ask him how many of them were living down here.
 facetLeastTitle: Beaniocracy
-facetLeast: There is a decision to make about the house by the end of the month and you have not thought about it once. You put the radio on and get the hedge cut instead.
-question: How long does a difficult conversation stay with you afterwards?
-answerMost: years — you can still hear how it was phrased
-answerHigh: weeks, and you work out what it meant in that time
-answerMid: a few days, on and off
-answerLow: until the end of the day
-answerLeast: not at all — it went when they left the room
-rorschachMost: a jaw always working
-rorschachHigh: a cow chewing again
-rorschachMid: a hide and its drips
-rorschachLow: a mouthful swallowed
-rorschachLeast: a trough licked bare
+facetLeast: Two years ago your friend asked you to come to Lisbon with her for the year and you said no the same afternoon, and in the park she has just told you about the flat over the bakery and the four people she still speaks to every week, and asked if you ever wonder. You tell her you have not thought about it once.
+facetLeastAction: You tell her you have not thought about it once.
+question: On Monday your manager said, in passing, that you're very literal. It's Thursday. You...
+answerMost: keep at it until you've built a case for being pushed out
+answerHigh: turn it over again and get to what he actually meant
+answerMid: think it through once more, then leave it
+answerLow: put it out of your mind after the first day
+answerLeast: forget he said it by lunchtime
+rorschachMost: a hanging carcass
+rorschachHigh: a grey beard
+rorschachMid: a rain cloud
+rorschachLow: a shaggy rug
+rorschachLeast: a sandbag
 ---
 
 Cultured Black Beans are the Bean Zodiac's most ruminative. A conversation from Tuesday gets turned over again on Sunday, and the third turn finds something true. Occasionally the turning goes somewhere dark and stays. Doing a thing and never revisiting it is not a skill they possess.

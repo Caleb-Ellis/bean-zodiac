@@ -17,32 +17,37 @@ antiTriple: sweet-boiled-mung
 antiBeans: [navy, chickpea]
 antiForm: roasted
 seasonalFortune: "A season of olive wood and wild thyme: the smoke arrives from somewhere the kitchen cannot place."
-fortuneMost: Something in you is always half elsewhere, and the people here can tell.
-fortuneHigh: Somewhere on the long walk home you'll find an odd small thing meant for one friend.
-fortuneMid: Plain sentences won't kill the strange thing; the fog of mysticism around it will.
-fortuneLow: Not every shift in the air is a front rolling in.
-fortuneLeast: The selkie puts the skin in a drawer and stays for the plain years.
+fortuneMost: Live far enough out and nobody can reach the door.
+fortuneHigh: A selkie leaves its skin on the rock and walks inland.
+fortuneMid: The strange idea turns out to be the right one.
+fortuneLow: Talk about the weather for once.
+fortuneLeast: Ordinary company is a kind of rest.
 facetMostTitle: Close Encounters of the Bean Kind
-facetMost: Out at the stones since it got light, and you could not now say how long that is, and somebody has come to find you. You tell them what the place is for and how it works, and you watch them decide what to do with their face.
+facetMost: The offer went in on Monday and was accepted on Tuesday, your partner has given notice on her flat, and the survey is booked for the morning. There is nothing wrong with the house and nothing you could put into words. On the doorstep you tell her you are not doing it.
+facetMostAction: On the doorstep you tell her you are not doing it.
 facetHighTitle: The Bean Who Fell to Earth
-facetHigh: The fog has come down on the ridge and the sound has gone strange and you are entirely alone in it, and you do not hurry, and would stay up here longer if you could.
+facetHigh: Your gran left you and your brother twenty-two thousand each, and his has gone on a deposit for a flat. There is a trust that keeps a seabird colony on an island you have never been to and could not point to. The woman at the counter asks twice whether you want to sleep on it. You send the whole twenty-two.
+facetHighAction: You send the whole twenty-two.
 facetMidTitle: Stranger Beans
-facetMid: A dream that will not leave you alone, and you keep it in mind a fortnight and let the thing change one actual decision.
+facetMid: Down in the last chamber the guide puts the lights out for thirty seconds so everybody can feel what dark is, and there is the usual laughing, and a child asks him to put them back on. He has the switch in his hand and the tour behind him. You ask him how long they would leave them off for.
+facetMidAction: You ask him how long they would leave them off for.
 facetLowTitle: Down to Bean
-facetLow: Somebody is telling you about the coincidence and what they think it meant, and you listen, and then you ask what time their train is.
-facetLeastTitle: The Good Beanearth
-facetLeast: There is a moon over the estuary that has stopped everybody else on the path, and two of them are photographing it. You look for a second, and then you are thinking about the immersion heater, and still thinking about it at the car.
-question: How do you feel about places that are supposed to be sacred?
-answerMost: I can feel it before I'm through the gate
-answerHigh: There's something there — I take it seriously
-answerMid: They have an atmosphere, certainly
-answerLow: Nice old buildings
-answerLeast: Stone is stone
-rorschachMost: a lantern lit from inside
-rorschachHigh: a totem, skull on top
-rorschachMid: a nest on a post
-rorschachLow: a signpost in daylight
-rorschachLeast: a spade stuck in soil
+facetLow: You had decided to give the flat up and go, with nothing arranged past the first month, and the housing officer goes through what that means — the tenancy gone, and the list at nine years if you ever want back on it. You sign for another year.
+facetLowAction: You sign for another year.
+facetLeastTitle: The Bean Earth
+facetLeast: The eleven of you have been planning it two years and have all paid, and the briefing is the insurance, what a helicopter off the mountain actually costs, and what happens to the group if the weather turns on the third day; nobody else has moved. You take the refund.
+facetLeastAction: You take the refund.
+question: Your brother has come round to settle the parking permit and the roofer's invoice. You...
+answerMost: tell him about a dream you had about the roof, and stay in it
+answerHigh: settle the permit, then tell him what the roofer's face reminded you of
+answerMid: ask him what becomes of old houses
+answerLow: settle the permit and the invoice
+answerLeast: clear both with the reference numbers ready
+rorschachMost: an angel in stone
+rorschachHigh: a candle flame
+rorschachMid: a cuttlefish
+rorschachLow: a millstone
+rorschachLeast: a bag of cement
 ---
 
 Charcoal Fava Beans are the Bean Zodiac's most otherworldly. They give directions to a building that closed in 1998 and describe a dream in more detail than yesterday. Sometimes there is no getting them back down. A conversation strictly about parking and invoices they cannot sustain.

@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-smoked-fava
-lastUpdated: 
+lastUpdated:
 bean: fava
 flavour: spicy
 form: smoked
@@ -17,32 +17,37 @@ antiTriple: sweet-boiled-navy
 antiBeans: [mung, kidney]
 antiForm: roasted
 seasonalFortune: "A season of oak smoke and slipped reins — the fire goes wherever the wind allows."
-fortuneMost: You booked it before you checked anything, and the calendar will have to cope.
-fortuneHigh: The wise voice says go home and you're owed one more.
-fortuneMid: The fire only needs somewhere to go.
-fortuneLow: There's a gate you kicked open, still swinging on its hinge.
-fortuneLeast: A wild stallion that comes to the fence is not thereby broken.
-facetMostTitle: Beanriot
-facetMost: Four hours the music has been going and you have not sat down for any of it. Two of them have gone home. Shirt off, somebody's hat on, and you are organising a conga through a house that is not yours and whose owner you have not met.
+fortuneMost: A wild stallion runs the herd off a good pasture.
+fortuneHigh: Let it get out of hand a little.
+fortuneMid: Nights that go wrong make the best telling.
+fortuneLow: Rein it back in.
+fortuneLeast: A checked temper keeps its friends.
+facetMostTitle: Beaniot
+facetMost: Five of you walking back along the river at two in the morning, and you have been in once already. The one who followed you in is on the bank, phone gone, shaking. There is a higher wall further up. You climb up and go in off it.
+facetMostAction: You climb up and go in off it.
 facetHighTitle: Beanno Holds Barred
-facetHigh: A goal goes in at the far end and the whole row goes up together. You are over the seat in front, hugging a man you have never met, and you have lost a shoe.
-facetMidTitle: Off the Beanleash
-facetMid: A garden, a hosepipe and four children wanting a water fight, and you take the hose and are wetter than any of them inside a minute.
-facetLowTitle: Held in Beancheck
-facetLow: Your song comes on and the floor is filling up. You stay at the table and tap the glass a bit.
+facetHigh: Your last train home goes from platform two in three minutes, and on platform six there is one running till three in the morning to a town neither you nor your friend knows, and you are both at work at eight. You take her arm and go for platform six.
+facetHighAction: You take her arm and go for platform six.
+facetMidTitle: Off the Beansh
+facetMid: The museum stores are closed to the public and the curator has six of you down there among drawers of tagged bones and a whale jaw. She says twice that nothing gets touched, then turns to answer somebody. You lay your palm flat on the jaw.
+facetMidAction: You lay your palm flat on the jaw.
+facetLowTitle: Held in Bean
+facetLow: Your friend is two hundred up and about to put all two hundred on one number and wants you in with him, and you have fifty in your hand that is the last of your money this month. You put ten down and keep the rest.
+facetLowAction: You put ten down and keep the rest.
 facetLeastTitle: Reined In, Bean
-facetLeast: You feel the laugh coming and it is going to be a loud one, in a room where it will carry. You get the whole thing down to a breath through the nose. Nobody near you knows anything happened, and you keep the rest in all evening.
-question: Your song comes on and the dance floor is filling up. You...
-answerMost: Am on it, shoes off, before anyone else
-answerHigh: Get up and give it everything
-answerMid: Get up for that one
-answerLow: Tap the table and stay put
-answerLeast: Go outside until it's finished
-rorschachMost: a boulder already rolling
-rorschachHigh: a bull in a field
-rorschachMid: a slab of rock
-rorschachLow: a brick in a wall
-rorschachLeast: a millstone at rest
+facetLeast: The medium works a room above a pub and gets her answers out of the room — she throws a question out, somebody answers it for her, and it comes back to them as hers. She stops on you and says she has somebody with an M. There is an M you could give her, and twenty people have turned round. You tell her it means nothing to you.
+facetLeastAction: You tell her it means nothing to you.
+question: The wedding band has stopped and the bar is shut, but somebody has a speaker and the field behind the marquee is empty. You...
+answerMost: keep the field going till it's light, the speaker up on a car roof
+answerHigh: stay out with whoever stays, and dance until the speaker dies
+answerMid: stay in the field an hour, then turn in
+answerLow: help carry the speaker out and go up
+answerLeast: go up when the band stops
+rorschachMost: a stampede
+rorschachHigh: a loose bull
+rorschachMid: an untrimmed hedge
+rorschachLow: a tethered goat
+rorschachLeast: a bridle
 ---
 
 Chipotle Fava Beans are the Bean Zodiac's wildest. When they are in, they are all the way in, and the night goes somewhere nobody planned for. Sometimes it goes further than anybody could hold. Keeping something within sensible limits is not how they participate.

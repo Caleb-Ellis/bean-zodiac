@@ -23,14 +23,19 @@ fortuneLow: You are allowed the good one.
 fortuneLeast: To denounce desire is to reject joy.
 facetMostTitle: The Beanger Artist
 facetMost: You're clearing the flat out and find a forgotten box of letters and photographs from about ten years of your life. You flick through its contents, happy to see some of it, ambivalent about others. Then you put it in the bin along with the rest of the forgotten things.
+facetMostAction: Then you put it in the bin along with the rest of the forgotten things.
 facetHighTitle: Walbean
 facetHigh: Your landlord offers you the flat downstairs for the same rent — it has an extra room and slightly better light. You're not dying for more space as it is. You thank them, but say you'll stay where you are.
+facetHighAction: You thank them, but say you'll stay where you are.
 facetMidTitle: Into Great Beans
 facetMid: Your phone finally dies and the man in the shop says it's repairable, but for only a bit more you could have this year's model, which is what he'd do. You get the old one repaired.
+facetMidAction: You get the old one repaired.
 facetLowTitle: La Dolce Beana
 facetLow: There's a cafe on your way to work that does amazing coffee and pastries. They taste great, but it adds up to quite a lot of cash over the year. Doesn't matter, you still go in almost as often as you walk past.
+facetLowAction: Doesn't matter, you still go in almost as often as you walk past.
 facetLeastTitle: The Great Beansby
 facetLeast: Breakfast is included at your hotel, and it's a massive spread - thick sausages, smoky bacon, omelettes to order, plump fruit, fresh baked pastries, the works. You go up three times, and the last time put a couple of pastries in your bag for later.
+facetLeastAction: You go up three times, and the last time put a couple of pastries in your bag for later.
 question: What did you have for lunch yesterday?
 answerMost: didn't get round to it
 answerHigh: something quick and light

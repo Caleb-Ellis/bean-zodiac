@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-dried-edamame
-lastUpdated: 
+lastUpdated:
 bean: edamame
 flavour: umami
 form: dried
@@ -17,32 +17,37 @@ antiTriple: sweet-smoked-mung
 antiBeans: [adzuki, chickpea]
 antiForm: fermented
 seasonalFortune: "A season of yuba and old soy: everything later in the year rests on this."
-fortuneMost: The turtle carries the whole house and cannot put it down to rest.
-fortuneHigh: What you laid down years ago is still holding up somebody else's work.
-fortuneMid: Write the small thing down while it's small.
-fortuneLow: Step out for an afternoon and watch what stands without you.
+fortuneMost: A mammoth turtle carries the whole house and never puts it down.
+fortuneHigh: Write the small thing down while it's small.
+fortuneMid: What was laid down years ago holds somebody's work up.
+fortuneLow: Step out and see what stands without you.
 fortuneLeast: Let it fall this once.
 facetMostTitle: Beanhenge
-facetMost: The firm carries your grandfather's name and every decision goes through what he would have done. Somebody suggests dropping the old line. You explain, at length, that the old line is the reason there is a firm at all, and it does not come up again.
-facetHighTitle: The Beanfoundation
-facetHigh: Three of the four committees in that village have you on them, the fourth asks you before it decides anything at all, and you have never once put yourself forward.
-facetMidTitle: Another Brick in the Beanwall
-facetMid: Given the recipe that everybody's mother used to make, you make it exactly the way it is meant to be made, and that is the thing people ask you for.
-facetLowTitle: The Beanoutsiders
-facetLow: The group has a core to it and you are not in that core. You come to what you want to and it suits you.
-facetLeastTitle: Rosencrantz and Guildenstern Are Bean
-facetLeast: Eleven years in that orchestra, at the back of the seconds, and the conductor has never learned your name. It had not occurred to you to mind, and it does not occur to you now.
-question: In the groups you belong to, where do you sit?
-answerMost: At the centre — it wouldn't run without me
-answerHigh: Near the middle, doing the load-bearing bits
-answerMid: A solid part of it
-answerLow: Around the edges, happily
-answerLeast: On the list, and that's about it
-rorschachMost: a plinth with no statue
+facetMost: The starter and the timings have been in your head since the bakery opened and are written down nowhere, and the owner wants them on paper so somebody can cover the fortnight you are owed. You keep it in your head and work the fortnight.
+facetMostAction: You keep it in your head and work the fortnight.
+facetHighTitle: The Beandation
+facetHigh: Your friend's mum died at the weekend, the funeral is in four days, and six people are each doing a bit of it — two have booked cars, nobody has rung the crematorium, nobody has ordered flowers, and your friend has not slept. You take the cars, the crematorium and the flowers off them.
+facetHighAction: You take the cars, the crematorium and the flowers off them.
+facetMidTitle: Another Bean in the Wall
+facetMid: Your cousin has fourteen months of his sentence left and nobody else in the family has visited since Easter. Everything you have on you goes in a locker, you get a numbered table, and the hour is exactly an hour. You book the next one before you go.
+facetMidAction: You book the next one before you go.
+facetLowTitle: The Beansiders
+facetLow: For three years the walking weekend was yours — the place to stay, the route, the driving. Somebody else has organised it this year, the route is longer, and nobody asked you about any of it. You get in at the back and walk the route they picked.
+facetLowAction: You get in at the back and walk the route they picked.
+facetLeastTitle: Rosencrantz and Guildenstern Are Beans
+facetLeast: The astronomical society opens the dome on a Friday night and four people keep it running — one turns the dome by hand, one writes up what is worth looking at. The man on the door says two of the four are stopping, and that without two more names on the rota it shuts by spring. You tell him you will come along when you can.
+facetLeastAction: You tell him you will come along when you can.
+question: The filing system you set up in 2011 still runs the office, and the new manager wants it all moved onto software. You...
+answerMost: give her the reason it stays, and the same reason every time she asks
+answerHigh: show her what the system does that the software won't
+answerMid: hand over how it works, and offer to help with the move
+answerLow: let her move it, and keep your own copy of the index
+answerLeast: let it go — it was only ever a set of folders
+rorschachMost: a dam wall
 rorschachHigh: a foundation stone
-rorschachMid: a quarry face
-rorschachLow: a stack of slates
-rorschachLeast: a pebble on a beach
+rorschachMid: a kitchen table
+rorschachLow: a loose chipping
+rorschachLeast: a gutter leaf
 ---
 
 Aged Edamame are the Bean Zodiac's most foundational. Nothing in the department works without the thing they set up in 2011, and nobody ever thinks about it. Sometimes the foundation stops anyone building differently. Being a small optional part of something isn't their position.

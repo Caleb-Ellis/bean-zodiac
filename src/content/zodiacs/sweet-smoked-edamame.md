@@ -23,14 +23,19 @@ fortuneLow: Don't back down, even if it gets awkward.
 fortuneLeast: A firm rejection is often the kind option.
 facetMostTitle: The Bean Offering
 facetMost: Someone in the group makes a subtly cruel joke about a friend who's just stepped out. The mood stiffens. You smooth it over fast, a warm laugh and a swerve, everyone comfortable again in seconds.
+facetMostAction: You smooth it over fast, a warm laugh and a swerve, everyone comfortable again in seconds.
 facetHighTitle: Beanarm
 facetHigh: The passport officer is stony and curt, plainly hating his day, and possibly you too. You reply with warmth anyway — an easy joke, a word about the weather, airport food — for the entire interaction.
+facetHighAction: You reply with warmth anyway — an easy joke, a word about the weather, airport food — for the entire interaction.
 facetMidTitle: Put at Bean
 facetMid: Someone spills theirs drink over you and seizes up, apologising and self-belittling profusely. You laugh it off warmly, wipe yourself down, and tell them not to worry about it.
+facetMidAction: You laugh it off warmly, wipe yourself down, and tell them not to worry about it.
 facetLowTitle: Cactus Bean
 facetLow: Someone turns up to buy the laptop you're selling, and right away asks for it for twenty percent less than offered. You restate the original price.
+facetLowAction: You restate the original price.
 facetLeastTitle: Hackles Up, Bean
 facetLeast: You're returning a faulty phone and the store manager turns aggressive, leaning over the counter and accusing you of foul play. You go cold and still, hold his eye, and do not back down until it's put right.
+facetLeastAction: You go cold and still, hold his eye, and do not back down until it's put right.
 question: You're five minutes over the allowed parking duration, and an inspector is halfway through writing you a ticket when you get back. You...
 answerMost: pour on the charm — big smile, jokes, best-mates energy
 answerHigh: approach them warm and friendly, try to get them on your side

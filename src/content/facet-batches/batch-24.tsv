@@ -1,0 +1,421 @@
+# BATCH 24 — pitch layout most=G high=E mid=G low=G least=E
+# Elevated slots are HIGH and LEAST. HIGH takes LANE A in all five (the trait at full
+# pitch carries jeopardy). LEAST takes LANE B in all five — least is a withdrawal or a
+# not-caring in every entry here, and jeopardy deflates it.
+#
+# VOICE. Written to the approved corpus, not to my own default: contractions, spoken,
+# two or three sentences, and the scene is ONE situation rather than a situation plus a
+# complication plus a stake. That stacking is what made batches 22-23 run 62 words
+# against the approved 37, and it is a step-4 habit, not a trimming problem. Length is
+# not the master though — Caleb's instruction is long and clear over short and missing
+# context, so where a pole needs a fact the fact stays.
+#
+# THE OBJECT IS NAMED IN THE ROW. Not "a suspicious story" but the second house the dog
+# came back from; not "an old position" but the same figure given to the same room; not
+# "a small check" but asking what the doctor actually said.
+#
+# NEIGHBOURS — from src/content/trait-neighbours.tsv, all fourteen entries read.
+#
+#   ** THE `!` COLLISION — solicitous (sour-roasted-mung) and empathetic
+#   (sweet-fermented-chickpea) ARE BOTH IN THIS BATCH. ** The worst case, because two
+#   entries written in one sitting collapse silently. The split, held in every facet:
+#     SOLICITOUS IS OUTWARD AND VISIBLE — asking, going round, bringing something,
+#       asking again. Roasted develops outward; sour makes the question plain. It can be
+#       done for somebody you feel very little for. THE ACT IS ALWAYS AN ASKING OR A
+#       GOING, and no facet in that entry is about what the reader feels.
+#     EMPATHETIC IS INWARD AND INVOLUNTARY — their state arrives in you and you have it
+#       as your own. Fermented does its work out of sight. It can happen with no action
+#       at all. NO FACET IN THAT ENTRY HAS THE READER CHECKING ON ANYBODY or asking how
+#       they are; the feeling is the scene and the act is what they do with having it.
+#
+#   forensic (bitter-fried-black) vs analytical (bitter-boiled-edamame), inquisitive
+#     (bitter-boiled-green), meticulous (sour-fried-cannellini), surgical
+#     (sour-smoked-edamame).
+#     Analytical BUILDS A MODEL — back through the two years in order, the spreadsheet,
+#     working from the acid and the oak to a region. Inquisitive asks out of APPETITE:
+#     the aircraft, the years, why they stopped, and it wants the answer for its own
+#     sake. Meticulous is the reader's OWN WORK done exactly — the piped name scraped
+#     off, the car squared up. Surgical is the MINIMUM PRECISE INTERVENTION.
+#     Forensic takes SOMEBODY ELSE'S ACCOUNT and tests it for the seam. It presumes the
+#     account might not hold, which none of the other four do. So every facet here has a
+#     stated account on the page and a reader going at it — or, at the inverse, taking
+#     it as given.
+#
+#   steady (bitter-dried-navy) vs firm (sour-dried-navy), constant (sweet-boiled-black),
+#     measured (bitter-boiled-black), patient (umami-boiled-black).
+#     Firm shares the BEAN and is the dangerous one: it is A NO TO A SPECIFIC ASK, under
+#     pressure, in the moment — the cousins working on you all afternoon, the brother at
+#     the door. It is refusal. Constant is A REPEATED ACT across time and the cadence is
+#     the content. Measured is PACE, refusing to be hurried. Patient is WAITING for the
+#     right thing instead of taking the near one.
+#     Steady is THE POSITION ITSELF, unchanged across time — what you said months ago,
+#     in the same words, now. So every facet here has a THEN and a NOW on the page, and
+#     none of them is a refusal of somebody's request.
+#
+#   hushed (spicy-smoked-butter) vs quiet (sour-smoked-butter), placid
+#     (bitter-boiled-butter), solemn (umami-smoked-black), wordless
+#     (umami-smoked-chickpea).
+#     Quiet is the AMOUNT of speech — you don't say much, and the silence suits you.
+#     Placid needs an emergency. Solemn is WEIGHT, refusing to keep it light. Wordless
+#     says it WITHOUT WORDS — the bag put on the rack, the glass filled.
+#     Hushed is VOLUME, and the reader does speak: the words matter and they are
+#     delivered under the room. Spicy means it lands anyway. So every facet here has
+#     something actually said and a volume on the page.
+#
+#   empathetic (sweet-fermented-chickpea) vs attuned (sour-smoked-chickpea),
+#     compassionate (sweet-boiled-kidney), receptive (umami-roasted-butter), and the `!`
+#     above. Attuned shares the BEAN and is PERCEPTION — the full stops on the texts,
+#     the answers half a beat late. Attuned notices and can be cool about it; empathetic
+#     absorbs. Compassionate feels FOR somebody in trouble and acts on their welfare;
+#     empathetic feels WITH, the same feeling rather than a response to it. Receptive is
+#     openness to being told.
+#     NOTE ON THE PERCEPTION RULE: it bans stating the inference for intuitive,
+#     observant and the like, because stating it settles the vote. It does not apply
+#     here — the feeling IS the trait, not a conclusion about a fact, and the approved
+#     line for this entry states it outright ("you feel the whole of it in your own
+#     chest"). So the feeling goes on the page and the ACT is what gets voted on.
+#
+# POLE-TO-TRAIT, which the neighbours file cannot see: steady's INVERSE is
+#   "vacillating", which sits near measured and near forensic's habit of re-opening.
+#   Kept apart by content — vacillating is THE ANSWER CHANGING each time it is asked,
+#   with no new facts involved, so the navy low and least are about the same question
+#   getting different answers, never about deliberation or checking.
+#
+# === bitter-fried-black — forensic / inquisitorial / cursory
+# AXIS: you don't take an account as given — you go at it until it holds or breaks, and
+#   you do it there and then.
+# TITLES: The Beanquisition is the excess — questioning that has stopped serving any
+#   answer. BSI and Beanes are the trait: the account taken apart. The Quick and the
+#   Bean and SparkBeans are the inverse, a glance and a signature.
+# OFF-LIMITS: a bloodhound on a three-day-old trail; "keep asking and people stop
+#   volunteering anything"; "check it yourself"; "a quick look will do here"; "their word
+#   is good enough"; dry woks and char revealing what soaking wouldn't.
+#   OLD FACETS: the petty cash tin and four colleagues questioned in order; the roof
+#     quote line by line; your son and the bike that was already broken; the insurance
+#     form answered in three lines; the auction clock taken on trust. So no workplace
+#     interrogation, no quote or estimate, no insurance form, no auction.
+#   QUESTION owns: your son saying the window went through when a ball came over the
+#     fence. NO FACET HERE QUESTIONS A CHILD — that is the question and the old mid both.
+bitter-fried-black	most	house	receipt-demanded	housemate	grounded
+# STAKES: two hundred pounds and a housemate who's already offered to just pay it
+bitter-fried-black	high	animal shelter	history-probed	official	elevated
+# STAKES: a dog given back twice, going home with your sister this afternoon
+# LANE A — she signs and takes him home today, and a dog that has been given back twice does not get given back a third time.
+bitter-fried-black	mid	record shop	amp-tested	stranger	grounded
+# STAKES: a record player you're about to pay for on his word
+bitter-fried-black	low	post office	countersign-given	neighbour	grounded
+# STAKES: your name against two years you can't actually vouch for
+bitter-fried-black	least	clairvoyant	name-volunteered	stranger	elevated
+# STAKES: your grandad's name, handed to a stranger who is guessing
+# LANE B — how the fair actually runs: the ten-minute slots, the numbered tickets, the woman who books the hall and takes the money on the door.
+#
+# === bitter-dried-navy — steady / inflexible / vacillating
+# AXIS: your position doesn't move — what you said months ago is what you say now, in
+#   the same words, whoever is asking and whatever has happened since.
+# TITLES: The Bridge on the River Bean is the excess, a position held past the point it
+#   serves anything. Stand By Bean and The Beanshank Redemption are the trait. Beanlet
+#   and Sliding Beans are the inverse — the mind changed, and changed again.
+# OFF-LIMITS: a bighorn sheep on a ledge the width of a hand; "the immovable get planned
+#   around instead of planned with"; "reliability is worth more than brilliance"; "shift
+#   a little"; "changing tack is not the same as caving"; counted sacks and fixed
+#   rations.
+#   OLD FACETS: the surveyor's hull figure given again after rot was found; the claim for
+#     unpaid hours lodged alone; the barn conversion objection down to the paragraph
+#     about the lane; the new drawings and the line saying you are content; the hall
+#     booked, moved and moved back. So no planning objection, no survey, no claim that
+#     the others have gone quiet on — that last one is steadfast, not steady.
+#   QUESTION owns: telling the team in January the shop shuts at six, and being asked
+#     again in November with trade up.
+bitter-dried-navy	most	train	grudge-unmoved	family	grounded
+# STAKES: your cousin's wedding, and your sister has already forgiven him
+bitter-dried-navy	high	tribunal	account-repeated	official	elevated
+# STAKES: the second and last hearing about the hours you were never paid
+# LANE A — the second hearing is the last one, and what you say now is what stands.
+bitter-dried-navy	mid	video call	answer-unchanged	family	grounded
+# STAKES: your mum asking twice a year whether you'll move nearer
+bitter-dried-navy	low	pub	curfew-slipped	friend	grounded
+# STAKES: the ten o'clock you set yourself, against one pint
+bitter-dried-navy	least	hedge maze	turns-reversed	group	elevated
+# STAKES: four people following you round a maze on your say-so
+# LANE B — how the maze is worked: the man on the platform who calls people out, the way they sweep it and close it at dusk.
+#
+# === sour-roasted-mung — solicitous / smothering / neglectful
+# AXIS: you go and check on people, out loud, and you ask the second time.
+# TITLES: Helicopter Bean is the excess. Mother Bean and Are You Okay, Bean? are the
+#   trait — the asking done plainly. Left Beanhind and The Lost Beans are the inverse:
+#   the subject left where they left it, and the phone staying on the side.
+# OFF-LIMITS: a nurse shark lying still while small fish work on it; "care for somebody
+#   hard enough and they stop doing it themselves"; "asking twice gets the real answer";
+#   "leave them to it"; "neglect teaches self-reliance"; coriander chutney and a fire
+#   that checks on everyone twice.
+#   OLD FACETS: the student and whether the pens are in; the texts on the second and
+#     fourth mornings that don't want a reply; the eighty-one-year-old neighbour and the
+#     jug in the heat; the bad job left where they left it and the football instead; the
+#     nephew's two calls not returned. So no texting a friend through a bad month, no
+#     welfare call on an elderly neighbour, no unreturned calls.
+#   QUESTION owns: somebody helping you move furniture who mentions they haven't eaten.
+sour-roasted-mung	most	sea	swim-interrupted	family	grounded
+# STAKES: a thirteen-year-old called in a third time in front of his friends
+sour-roasted-mung	high	coach	departure-questioned	friend	elevated
+# STAKES: a coach at ten past and no other until tomorrow night
+# LANE A — the coach goes at ten past and there isn't another until tomorrow night.
+sour-roasted-mung	mid	bus stop	sickness-pressed	colleague	grounded
+# STAKES: six weeks off work and a first day back she says is fine
+sour-roasted-mung	low	cafe	opening-passed	family	grounded
+# STAKES: your brother's week, left unasked about
+sour-roasted-mung	least	hostel	step-left	stranger	elevated
+# STAKES: a man on the hostel step since two in the morning
+# LANE B — how the hostel runs: the ten o'clock changeover, the lockers, the one woman on the desk who does the beds and the breakfast both.
+#
+# === spicy-smoked-butter — hushed / inaudible / blaring
+# AXIS: you say it at low volume and it carries anyway.
+# TITLES: All Quiet on the Western Bean is the excess, a voice that will not come up
+#   however hard the gain is pushed. Beaned Tones and Sotto Beane are the trait. Full
+#   Beanume and Beanaphone are the inverse — the voice put out across a room.
+# OFF-LIMITS: a barred owl taking what it wants without a sound; "said quietly enough,
+#   it doesn't count as said"; "drop your voice and watch them lean in"; "say it again,
+#   louder"; "make some noise about it"; pecan smoke and a tray working below the room's
+#   hearing.
+#   OLD FACETS: the recording booth and the gain as far up as it goes; the crypt and the
+#     volume of breathing; the heron and the hide; the auction room and the number put
+#     across it; the broken platform announcement and the bench. So no studio, no guided
+#     tour, no hide, no auction, no announcement to a crowd from a standing start.
+#   QUESTION owns: your voice carrying only as far as whoever you're looking at.
+spicy-smoked-butter	most	restaurant	order-unheard	group	grounded
+# STAKES: the set menu you said ten minutes ago you didn't want
+spicy-smoked-butter	high	football ground	vote-undertoned	group	elevated
+# STAKES: a manager's job, on a vote at the end of the meeting
+# LANE A — the vote is taken at the end of the meeting and a manager, once he is gone, is gone.
+spicy-smoked-butter	mid	pharmacy counter	counter-lowered	official	grounded
+# STAKES: what the cream's for, with four people behind you
+spicy-smoked-butter	low	bowling alley	lane-shouted	friend	grounded
+# STAKES: a family's game four lanes down
+spicy-smoked-butter	least	radio	slot-amplified	official	elevated
+# STAKES: two hours of a slot you were told to keep low
+# LANE B — how the station actually runs: the request slips, the two volunteers doing the whole schedule, and how few people are listening at that hour.
+#
+# === sweet-fermented-chickpea — empathetic / enmeshed / cold-hearted
+# AXIS: what somebody else is feeling arrives in you, uninvited, and you have it as your
+#   own.
+# TITLES: Single White Beanale is the excess — the boundary gone entirely. Walk a Mile
+#   in My Beans and I Feel Bean are the trait. Cold Beaned and The Tin Bean are the
+#   inverse: the room gone careful and the reader finishing the page.
+# OFF-LIMITS: a beluga hearing the whole pod through the ice; "carry the second cup
+#   over"; "feeling it too is most of the help"; "put some of it down"; "leave when you
+#   said you would"; amazake and cinnamon and a crock taking on the kitchen's feeling.
+#   OLD FACETS: her marriage coming apart and you not sleeping either; the boy not picked
+#     for the team; the neighbour since the funeral; the woman crying at the next desk;
+#     the bad report about a family far away. So no crying colleague, no news report, no
+#     bereaved neighbour.
+#   QUESTION owns: the bench in the park where you feel exactly what the person beside
+#     you feels for as long as you stay.
+sweet-fermented-chickpea	most	street	quarrel-inherited	friend	grounded
+# STAKES: crossing the street on a woman who's never said a word out of turn
+sweet-fermented-chickpea	high	vets	decision-voiced	friend	elevated
+# STAKES: her dog, this afternoon, and she can't get the word out
+# LANE A — it happens in that room, this afternoon, and he does not come back out of it.
+sweet-fermented-chickpea	mid	school	line-mouthed	child	grounded
+# STAKES: your friend's daughter stuck in front of the whole school
+sweet-fermented-chickpea	low	park	retelling-avoided	housemate	grounded
+# STAKES: the fourth evening of her break-up, and you leave her mid-sentence
+sweet-fermented-chickpea	least	hospice	round-continued	stranger	elevated
+# STAKES: a woman in the third bed who wants to tell you about her husband
+# LANE B — how the place runs: the tea round, the syringe drivers, the family room, and which bed people are moved to.
+#
+# ============================== STEP 9 — COLD READ ==============================
+# Written last, on the text as it stands in the entry files, after the linter and after
+# the eight fixes below. Nothing has been touched since.
+#
+# EIGHT FAULTS FOUND BY THIS READ, all referent or naming breaks, none of them a lost
+# pole — which is the difference the voice discipline made. The line came out at the
+# right length first time, so nothing had to be trimmed afterwards, and trimming is
+# where every pole loss in batches 22-23 came from.
+#   black least — "the one at your table" as the only name for the person doing the
+#     reading, with a second woman on the door two clauses earlier. You pay cash at the
+#     door now, and the woman at your table is the only woman in it.
+#   navy high — the hearing had no subject at all. Now the hours you were never paid for.
+#   navy low — "one of them" and the page never said who you were with. Now one of your
+#     friends.
+#   navy least — "they sweep it and shut it at dusk" and the word maze appears nowhere
+#     in the line. The platform is now above the maze.
+#   mung high — "she's going back today" and the page never said where. Now back home.
+#   butter mid — "the woman asks what it's for" with no it: nothing named what was being
+#     collected, and the counter was never named either. Now the pharmacy counter, and
+#     the cream.
+#   chickpea mid — the act has the reader mouthing the next line of a reading they were
+#     never said to know. Now the reading you heard her practise all week.
+#   chickpea least — "the family room at the end" and "how it was at the end" two
+#     sentences apart, two senses of the same word. Now the far end.
+#   Then four length trims on navy to bring its median inside the band, each re-read:
+#     all four came through with referents intact, and "theirs" was opened out to "their
+#     side" on the re-read because the antecedent was doing too much work.
+#
+# LINTER: clean apart from shape D-beats, per entry and batch. The classifier returns D
+#   for any facet of three or more sentences; approved entries median three sentences
+#   and it fires on 48 entries including approved ones. No median flag and no
+#   length-spread flag anywhere in this batch, which is the first time that has happened.
+#   "You tell" is 0.04 per facet here against 0.08 in the approved corpus.
+#
+# --- bitter-fried-black ---
+# MOST  PAGE: your housemate says the two hundred went on the clutch; you've had the
+#   garage's name, the day it was in and what they charged; he's told you twice to just
+#   take it out of next month's rent. ACT NEEDS: him · the receipt (the garage and the
+#   charge are stated). POLE: inquisitorial — he has already conceded and already given
+#   the account in detail, so going on is past any answer. RESIST: you take it out of
+#   next month's rent.
+# HIGH  PAGE: your sister signs for the dog this afternoon and takes him home; the woman
+#   from the rescue says he's come back from two homes; the first was a family thing and
+#   the second one didn't work out. ACT NEEDS: her · the second house (stated).
+#   POLE: forensic — a vague account is quoted on the page and the reader goes at the
+#   soft part of it. RESIST: you let her sign. LANE A: he isn't given back a third time.
+# MID   PAGE: the man behind the counter says the record player's been serviced and the
+#   belt's new. ACT NEEDS: him · plugging it in · paying (all stated). POLE: low pitch —
+#   one test of one stated claim. RESIST: you take his word.
+# LOW   PAGE: a woman two doors down; her son's passport form; countersigning means
+#   saying you've known him two years and that the photo's him; you've met him about
+#   three times and couldn't put a year on it. ACT NEEDS: the form (stated). POLE:
+#   cursory-lite, and it needs the check spelled out so that skipping it is a choice.
+#   RESIST: you tell her you can't.
+# LEAST PAGE: ten-minute slots and numbered tickets; you pay cash at the door; the woman
+#   at your table starts with a man on your father's side who worked with his hands, and
+#   asks for a name. ACT NEEDS: her · your grandad (the reader supplies which man).
+#   POLE: cursory fully — no testing at all, and the reader hands over the one thing
+#   that lets her be right. RESIST: you say nothing and let her work. LANE B: the slots,
+#   the tickets and the cash are how the fair runs.
+#
+# --- bitter-dried-navy ---
+# MOST  PAGE: a year ago you said you wouldn't go to your cousin's wedding; he told your
+#   sister she'd only come for the free bar; she's on the train next to you, made it up
+#   with him, asking you to come. ACT NEEDS: her · what you said a year ago (stated).
+#   POLE: inflexible — the person who was wronged has forgiven him, on the page, and the
+#   position still doesn't move. That is the ground shifting under a held position, not
+#   a refusal of an ask, which keeps it off firm. RESIST: you go.
+# HIGH  PAGE: the second hearing about the hours you were never paid for; the first went
+#   against you; the panel asks if you want to change anything now you've heard their
+#   side. ACT NEEDS: the statement · the panel (stated). POLE: steady — a THEN and a NOW
+#   on the page and the words identical, with an invitation to change them. RESIST: you
+#   soften it. LANE A: the second hearing is the last one.
+# MID   PAGE: your mum asks on the video call whether you've thought any more about
+#   moving nearer; she asks about twice a year. ACT NEEDS: her · the same no you gave at
+#   Christmas (stated). POLE: low pitch — the same answer, unchanged, without irritation.
+#   RESIST: you say you'll think about it.
+# LOW   PAGE: you said at the start of the night you were going at ten because you're up
+#   early; it's ten; one of your friends has put a pint down in front of you.
+#   ACT NEEDS: the pint (stated). POLE: vacillating-lite — a position stated with its
+#   reason, moved by nothing but the pint. RESIST: you leave it and go.
+# LEAST PAGE: a man on a platform above the maze who calls people out when they've had
+#   enough; they shut it at dusk; the four with you have followed you round for twenty
+#   minutes while you've changed your mind at every junction. ACT NEEDS: them · the last
+#   turn (stated). POLE: the inverse fully — the answer changes every time it's asked and
+#   four people are relying on it. RESIST: you commit to one way. LANE B: the platform,
+#   the caller and the closing are how the maze is worked.
+#
+# --- sour-roasted-mung ---
+# MOST  PAGE: your nephew's thirteen, out in the water with two friends, about chest
+#   deep; you're at the edge with your shoes still on; you've called him in twice and
+#   he's come in twice. ACT NEEDS: him (stated). POLE: smothering, and the evidence is
+#   that he is in no danger and has complied twice — without both, calling him is
+#   ordinary care. RESIST: you sit down. The act is an asking, not a feeling, which is
+#   the `!` separation from the chickpea.
+# HIGH  PAGE: she's had a rough few months; she's going back home today; the coach goes
+#   at ten past; everyone's said goodbye; her bag is over her shoulder. ACT NEEDS: her ·
+#   the coach · the pavement (stated). POLE: the trait — the plain question asked out
+#   loud at the last moment, and NOTHING ON THE PAGE SAYS SHE HAS SIGNALLED ANYTHING,
+#   which is what keeps it off attuned. RESIST: you hug her and let her go. LANE A.
+# MID   PAGE: the woman you work with has been off six weeks; first day back; at the stop
+#   she says she's fine now, back to normal. ACT NEEDS: her · the doctor (six weeks off
+#   puts one there). POLE: low pitch — the second question, asked plainly, when the first
+#   answer closed the subject. RESIST: you say that's good and leave it.
+# LOW   PAGE: your brother's across the table; says it's been a long week; doesn't go on
+#   with it. ACT NEEDS: him · the match (the reader's own). POLE: neglectful-lite, and it
+#   needs the opening to be visible and declined rather than absent. RESIST: you ask him
+#   what happened.
+# LEAST PAGE: one woman does the beds and the breakfast both; everything's out by the ten
+#   o'clock changeover; the man from your dorm was on the step at two in the morning and
+#   is still there now with his bag. ACT NEEDS: your bag · the early bus (stated).
+#   POLE: the inverse fully — the trouble is unmistakable and stated and the reader
+#   leaves, with the freedom being that none of it is theirs. RESIST: you sit down next
+#   to him. LANE B: the changeover and the one woman are how the hostel runs.
+#
+# --- spicy-smoked-butter ---
+# MOST  PAGE: nine of you; the waiter reaches you; the one next to you says you'll have
+#   the set menu as well; you said ten minutes ago you didn't want it. ACT NEEDS: the set
+#   menu · the tablecloth (stated). POLE: inaudible — it was said once and not heard, and
+#   the second delivery is aimed at the table rather than the waiter. RESIST: you say it
+#   to the waiter.
+# HIGH  PAGE: forty of you in the room under the stand, all talking over each other about
+#   whether the manager goes; the vote's at the end of it; you're the only one who's seen
+#   what the gate money actually was last season. ACT NEEDS: the figure, the gate money
+#   (stated). POLE: the trait — the loudness of the room is on the page and the delivery
+#   goes under it, and the words carry real content. RESIST: you get your voice up.
+#   LANE A: a manager, once he is gone, is gone.
+# MID   PAGE: four people behind you at the pharmacy counter; the woman asks what the
+#   cream's for. ACT NEEDS: her · the cream (stated). POLE: low pitch — a volume chosen
+#   and effective, with a reason on the page for choosing it. RESIST: you answer at
+#   normal volume.
+# LOW   PAGE: your friend's stepped up on the wrong lane; a family four down with a ball
+#   already in play. ACT NEEDS: him · the alley (stated). POLE: blaring-lite — full
+#   volume, twice, where a quieter option existed. RESIST: you walk down and tap him.
+# LEAST PAGE: the station runs on two volunteers and a box of request slips; they've
+#   given you two till four on a Sunday because almost nobody's listening; the man who
+#   trained you said to keep it low and easy at that hour. ACT NEEDS: the two hours
+#   (stated). POLE: the inverse fully, and it needs the instruction on the page or going
+#   loud is just enthusiasm. RESIST: you keep it low. LANE B: the slips and the two
+#   volunteers are how the station runs.
+#
+# --- sweet-fermented-chickpea ---
+# MOST  PAGE: your friend fell out with her sister in the spring over their mum's house;
+#   you've heard every week of it from her side; the sister's coming the other way up the
+#   high street; she's never said a word out of turn to you. ACT NEEDS: the sister ·
+#   crossing over (stated). POLE: enmeshed — the feeling is inherited whole from one
+#   side and acted on against somebody the page says has done nothing. RESIST: you say
+#   hello. Nobody is being checked on, which is the `!` separation from the mung.
+# HIGH  PAGE: your friend's dog is on the table; the vet asks her whether she wants to go
+#   ahead now; she's opened her mouth twice and nothing's come out; you can feel it going
+#   on in your own chest. ACT NEEDS: her · yes, meaning going ahead (stated).
+#   POLE: the trait — the feeling is the scene and the act follows from having it rather
+#   than from asking about it. RESIST: you wait for her to say it herself. LANE A: it
+#   happens in that room this afternoon.
+# MID   PAGE: you're four rows back at your friend's daughter's assembly; she's stopped
+#   in the middle of the reading you heard her practise all week and gone red.
+#   ACT NEEDS: her · the next line (now grounded, because you heard her practise it).
+#   POLE: low pitch — small, involuntary and physical. RESIST: you look at your knees.
+# LOW   PAGE: the two of you have walked round the park; your housemate's telling you
+#   about the break-up again; it's the fourth evening of it. ACT NEEDS: heading back ·
+#   on your own (stated). POLE: cold-hearted-lite, and both halves are on the page — the
+#   freedom is the fourth evening, the price is that she is mid-sentence. RESIST: you do
+#   another lap.
+# LEAST PAGE: the tea round is fourteen beds, a trolley and the family room at the far
+#   end; the woman in the third bed starts telling you about her husband and how it was
+#   at the end. ACT NEEDS: her tea · the fourth bed (stated). POLE: the inverse fully —
+#   nothing arrives in the reader at all and they are at ease with it, and the freedom is
+#   that the round doesn't do itself. RESIST: you sit down on the end of the bed.
+#   LANE B: the round, the trolley and the family room are how the place runs.
+#~ ============ COLD READ STAMPS — regenerate with `node scripts/cold-read.mjs stamp <file>` ====
+#~ Each line is the facet text as it stood when it was cold-read. `commit` refuses
+#~ the batch if any of them has changed since. Edit a facet, read it again, restamp.
+#@ bitter-fried-black most 35b31674e9
+#@ bitter-fried-black high 1b8f8153da
+#@ bitter-fried-black mid fc2beb4dd8
+#@ bitter-fried-black low ba73f171ee
+#@ bitter-fried-black least 1bf436c006
+#@ bitter-dried-navy most 89c33e0a03
+#@ bitter-dried-navy high 9a01477885
+#@ bitter-dried-navy mid 056fbc1977
+#@ bitter-dried-navy low 02fcea5549
+#@ bitter-dried-navy least 56d374eda5
+#@ sour-roasted-mung most 327dfc2bca
+#@ sour-roasted-mung high 05f3bc0274
+#@ sour-roasted-mung mid 863a8de3b8
+#@ sour-roasted-mung low 6ca994043a
+#@ sour-roasted-mung least 752ca092ba
+#@ spicy-smoked-butter most aee9809044
+#@ spicy-smoked-butter high b6f089fec1
+#@ spicy-smoked-butter mid 0a54deaeb9
+#@ spicy-smoked-butter low 55f594eafa
+#@ spicy-smoked-butter least a908a55c96
+#@ sweet-fermented-chickpea most 7f64b4dcd4
+#@ sweet-fermented-chickpea high 940181a2fc
+#@ sweet-fermented-chickpea mid 3024d77993
+#@ sweet-fermented-chickpea low 8ea99dc3df
+#@ sweet-fermented-chickpea least ee9ba1bd4f

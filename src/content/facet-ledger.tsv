@@ -1,0 +1,1121 @@
+slug	slot	setting	scenario	cast	pitch
+bitter-boiled-butter	most	sea	crisis-response	colleague	grounded
+bitter-boiled-butter	high	sports club	crisis-response	stranger	grounded
+bitter-boiled-butter	mid	school	work-redone	alone	grounded
+bitter-boiled-butter	low	car park	composure-lost	alone	grounded
+bitter-boiled-butter	least	house	crisis-response	stranger	grounded
+bitter-boiled-edamame	most	kitchen	analysis-applied	friend	grounded
+bitter-boiled-edamame	high	house	analysis-applied	group	grounded
+bitter-boiled-edamame	mid	shop	analysis-applied	group	grounded
+bitter-boiled-edamame	low	cafe	analysis-refused	friend	grounded
+bitter-boiled-edamame	least	gallery	analysis-refused	friend	grounded
+bitter-boiled-green	most	party	prying-question	stranger	grounded
+bitter-boiled-green	high	workplace	prying-question	colleague	grounded
+bitter-boiled-green	mid	hospital	prying-question	friend	grounded
+bitter-boiled-green	low	pub	question-dropped	friend	grounded
+bitter-boiled-green	least	street	question-dropped	neighbour	grounded
+bitter-dried-cannellini	most	house	possession-discarded	alone	grounded
+bitter-dried-cannellini	high	house	upgrade-declined	official	grounded
+bitter-dried-cannellini	mid	shop	upgrade-declined	stranger	grounded
+bitter-dried-cannellini	low	cafe	indulgence-taken	alone	grounded
+bitter-dried-cannellini	least	hotel	indulgence-taken	alone	grounded
+bitter-dried-edamame	most	taxi	conversation-minimised	stranger	grounded
+bitter-dried-edamame	high	airport	conversation-minimised	official	grounded
+bitter-dried-edamame	mid	party	conversation-minimised	group	grounded
+bitter-dried-edamame	low	street	over-explaining	stranger	grounded
+bitter-dried-edamame	least	uncanny	over-explaining	stranger	fantastical
+bitter-fermented-edamame	most	phone	superstition-dismissed	alone	grounded
+bitter-fermented-edamame	high	house	superstition-dismissed	family	grounded
+bitter-fermented-edamame	mid	escape room	analysis-applied	group	grounded
+bitter-fermented-edamame	low	house	chance-deferred	alone	grounded
+bitter-fermented-edamame	least	house	hunch-followed	alone	grounded
+bitter-fermented-mung	most	phone	hunch-followed	alone	grounded
+bitter-fermented-mung	high	phone	hunch-followed	friend	grounded
+bitter-fermented-mung	mid	house	hunch-voiced	friend	grounded
+bitter-fermented-mung	low	party	signal-missed	friend	grounded
+bitter-fermented-mung	least	street	signal-missed	friend	grounded
+bitter-fermented-pinto	most	house	work-redone	alone	grounded
+bitter-fermented-pinto	high	house	gift-made	friend	grounded
+bitter-fermented-pinto	mid	doorstep	flourish-added	friend	grounded
+bitter-fermented-pinto	low	kitchen	opinion-flat	friend	grounded
+bitter-fermented-pinto	least	gallery	culture-skimmed	group	grounded
+bitter-fried-chickpea	most	party	advantage-worked	stranger	grounded
+bitter-fried-chickpea	high	restaurant	motive-named	stranger	grounded
+bitter-fried-chickpea	mid	phone	favour-vetted	friend	grounded
+bitter-fried-chickpea	low	doorstep	flattery-believed	neighbour	grounded
+bitter-fried-chickpea	least	car park	scam-attempt	stranger	grounded
+bitter-roasted-edamame	most	wedding	joke-made	group	grounded
+bitter-roasted-edamame	high	party	joke-made	group	grounded
+bitter-roasted-edamame	mid	museum	joke-made	friend	grounded
+bitter-roasted-edamame	low	street	sincerity-accepted	stranger	grounded
+bitter-roasted-edamame	least	party	answer-plain	stranger	grounded
+bitter-smoked-green	most	party	uncanny-knowledge	stranger	fantastical
+bitter-smoked-green	high	house	premonition-followed	alone	fantastical
+bitter-smoked-green	mid	house	memory-defended	family	grounded
+bitter-smoked-green	low	house	mystery-dismissed	neighbour	grounded
+bitter-smoked-green	least	house	mystery-dismissed	alone	grounded
+bitter-smoked-kidney	most	stage	truth-unwelcome	group	grounded
+bitter-smoked-kidney	high	street	darkness-included	group	grounded
+bitter-smoked-kidney	mid	campsite	darkness-included	group	grounded
+bitter-smoked-kidney	low	house	attention-lost	group	grounded
+bitter-smoked-kidney	least	hills	answer-plain	group	grounded
+bitter-smoked-pinto	most	party	over-explaining	stranger	grounded
+bitter-smoked-pinto	high	phone	curation-effort	friend	grounded
+bitter-smoked-pinto	mid	pub	over-explaining	friend	grounded
+bitter-smoked-pinto	low	party	effort-minimised	group	grounded
+bitter-smoked-pinto	least	hospital	effort-minimised	alone	grounded
+sour-dried-fava	most	house	criticism-given	family	grounded
+sour-dried-fava	high	pub	criticism-given	friend	grounded
+sour-dried-fava	mid	cafe	criticism-given	stranger	grounded
+sour-dried-fava	low	house	lie-kind	family	grounded
+sour-dried-fava	least	street	lie-kind	child	grounded
+sour-dried-kidney	most	house	retaliation-delivered	neighbour	grounded
+sour-dried-kidney	high	forest	public-confrontation	stranger	grounded
+sour-dried-kidney	mid	library	public-confrontation	stranger	grounded
+sour-dried-kidney	low	sports club	restraint-shown	friend	grounded
+sour-dried-kidney	least	station	grievance-dropped	official	grounded
+sour-fermented-adzuki	most	phone	self-monitoring	friend	grounded
+sour-fermented-adzuki	high	house	self-restraint	partner	grounded
+sour-fermented-adzuki	mid	kitchen	self-diagnosis	alone	grounded
+sour-fermented-adzuki	low	house	absorption-total	alone	grounded
+sour-fermented-adzuki	least	house	signal-missed	group	grounded
+sour-fermented-cannellini	most	house	standard-upheld	family	grounded
+sour-fermented-cannellini	high	house	standard-upheld	alone	grounded
+sour-fermented-cannellini	mid	pub	standard-upheld	alone	grounded
+sour-fermented-cannellini	low	shop	standard-dropped	alone	grounded
+sour-fermented-cannellini	least	plane	standard-dropped	alone	grounded
+sour-fried-butter	most	doctors	badnews-received	official	grounded
+sour-fried-butter	high	school	crisis-response	group	grounded
+sour-fried-butter	mid	living room	crisis-response	group	grounded
+sour-fried-butter	low	house	nothing-startles	partner	grounded
+sour-fried-butter	least	party	nothing-startles	group	grounded
+sour-fried-cannellini	most	kitchen	work-redone	alone	grounded
+sour-fried-cannellini	high	car	work-redone	alone	grounded
+sour-fried-cannellini	mid	bedroom	order-imposed	alone	grounded
+sour-fried-cannellini	low	house	goodenough-accepted	alone	grounded
+sour-fried-cannellini	least	kitchen	mess-left	alone	grounded
+sour-fried-mung	most	pub	credit-deflected	colleague	grounded
+sour-fried-mung	high	gallery	credit-deflected	stranger	grounded
+sour-fried-mung	mid	hospital	credit-deflected	official	grounded
+sour-fried-mung	low	pub	credit-claimed	friend	grounded
+sour-fried-mung	least	workplace	credit-claimed	official	grounded
+sour-roasted-butter	most	doorstep	scam-attempt	stranger	grounded
+sour-roasted-butter	high	party	answer-plain	stranger	grounded
+sour-roasted-butter	mid	kitchen	subtext-missed	housemate	grounded
+sour-roasted-butter	low	house	motive-suspected	neighbour	grounded
+sour-roasted-butter	least	house	deception-played	group	grounded
+sour-smoked-butter	most	farm	correction-withheld	stranger	grounded
+sour-smoked-butter	high	care home	silence-shared	family	grounded
+sour-smoked-butter	mid	house	quiet-sought	family	grounded
+sour-smoked-butter	low	sports club	conflict-entered	family	grounded
+sour-smoked-butter	least	house	silence-filled	group	grounded
+sour-smoked-pinto	most	shop	indirect-message	family	grounded
+sour-smoked-pinto	high	laundrette	indirect-criticism	friend	grounded
+sour-smoked-pinto	mid	charity shop	indirect-answer	colleague	grounded
+sour-smoked-pinto	low	sports club	direct-instruction	friend	grounded
+sour-smoked-pinto	least	evening class	direct-criticism	group	grounded
+spicy-boiled-navy	most	phone	grievance-pursued	official	grounded
+spicy-boiled-navy	high	cinema	boundary-held	stranger	grounded
+spicy-boiled-navy	mid	party	boundary-held	family	grounded
+spicy-boiled-navy	low	car	boundary-yielded	friend	grounded
+spicy-boiled-navy	least	doorstep	pressure-yielded	stranger	grounded
+spicy-dried-navy	most	kitchen	question-deflected	friend	grounded
+spicy-dried-navy	high	kitchen	truth-unwelcome	family	grounded
+spicy-dried-navy	mid	dentist	pain-endured	official	grounded
+spicy-dried-navy	low	footpath	threat-avoided	stranger	grounded
+spicy-dried-navy	least	house	nothing-startles	alone	grounded
+spicy-fermented-black	most	house	question-deflected	friend	grounded
+spicy-fermented-black	high	house	secret-kept	friend	grounded
+spicy-fermented-black	mid	house	question-deflected	family	grounded
+spicy-fermented-black	low	house	disclosure-volunteered	stranger	grounded
+spicy-fermented-black	least	workplace	answer-plain	official	grounded
+spicy-fermented-chickpea	most	solicitors	plan-elaborate	official	grounded
+spicy-fermented-chickpea	high	boat	distinctive-choice	official	grounded
+spicy-fermented-chickpea	mid	shop	distinctive-choice	alone	grounded
+spicy-fermented-chickpea	low	party	conformity-declined	friend	grounded
+spicy-fermented-chickpea	least	pub	routine-maintained	group	grounded
+spicy-fermented-kidney	most	house	project-continued	alone	grounded
+spicy-fermented-kidney	high	house	enthusiasm-poured	friend	grounded
+spicy-fermented-kidney	mid	sports club	absorption-total	group	grounded
+spicy-fermented-kidney	low	kitchen	shortcut-taken	friend	grounded
+spicy-fermented-kidney	least	sports club	indifference-shown	alone	grounded
+spicy-fermented-navy	most	expedition	commitment-kept	friend	grounded
+spicy-fermented-navy	high	house	commitment-kept	official	grounded
+spicy-fermented-navy	mid	train	routine-maintained	alone	grounded
+spicy-fermented-navy	low	house	attention-scattered	alone	grounded
+spicy-fermented-navy	least	house	routine-broken	alone	grounded
+spicy-fried-adzuki	most	house	rest-refused	alone	grounded
+spicy-fried-adzuki	high	building site	mood-lifted	colleague	grounded
+spicy-fried-adzuki	mid	street	mood-carried	alone	grounded
+spicy-fried-adzuki	low	wedding	impulse-checked	group	grounded
+spicy-fried-adzuki	least	street	impulse-suppressed	stranger	grounded
+spicy-fried-green	most	workplace	doubling-down	group	grounded
+spicy-fried-green	high	house	pressure-resisted	family	grounded
+spicy-fried-green	mid	car park	indifference-shown	alone	grounded
+spicy-fried-green	low	house	deference-shown	friend	grounded
+spicy-fried-green	least	house	deference-shown	partner	grounded
+spicy-roasted-mung	most	airport	affection-shown	friend	grounded
+spicy-roasted-mung	high	phone	affection-shown	family	grounded
+spicy-roasted-mung	mid	party	affection-shown	stranger	grounded
+spicy-roasted-mung	low	doorstep	affection-restrained	friend	grounded
+spicy-roasted-mung	least	doorstep	affection-withheld	family	grounded
+spicy-smoked-navy	most	house	commitment-kept	friend	grounded
+spicy-smoked-navy	high	prison	commitment-kept	friend	grounded
+spicy-smoked-navy	mid	sports club	routine-maintained	group	grounded
+spicy-smoked-navy	low	train	commitment-broken	friend	grounded
+spicy-smoked-navy	least	house	commitment-broken	friend	grounded
+sweet-dried-butter	most	plane	composure-held	group	grounded
+sweet-dried-butter	high	cafe	composure-held	stranger	grounded
+sweet-dried-butter	mid	park	composure-held	group	grounded
+sweet-dried-butter	low	sports club	conflict-entered	group	grounded
+sweet-dried-butter	least	car	conflict-entered	stranger	grounded
+sweet-dried-cannellini	most	bedroom	work-redone	alone	grounded
+sweet-dried-cannellini	high	living room	standard-upheld	alone	grounded
+sweet-dried-cannellini	mid	pub	flourish-added	group	grounded
+sweet-dried-cannellini	low	photobooth	imperfection-chosen	partner	grounded
+sweet-dried-cannellini	least	party	exuberance-chosen	alone	grounded
+sweet-dried-edamame	most	kitchen	complexity-rejected	alone	grounded
+sweet-dried-edamame	high	house	planning-rejected	partner	grounded
+sweet-dried-edamame	mid	house	method-rejected	partner	grounded
+sweet-dried-edamame	low	car	scenic-detour	alone	grounded
+sweet-dried-edamame	least	house	possession-kept	alone	grounded
+sweet-dried-green	most	street	reconnection-attempted	friend	grounded
+sweet-dried-green	high	party	reconnection-attempted	friend	grounded
+sweet-dried-green	mid	house	continuity-resumed	alone	grounded
+sweet-dried-green	low	party	invitation-declined	group	grounded
+sweet-dried-green	least	house	contact-avoided	alone	grounded
+sweet-dried-navy	most	car	duty-kept	family	grounded
+sweet-dried-navy	high	house	duty-kept	neighbour	grounded
+sweet-dried-navy	mid	court	duty-kept	official	grounded
+sweet-dried-navy	low	house	duty-postponed	alone	grounded
+sweet-dried-navy	least	house	duty-neglected	alone	grounded
+sweet-dried-pinto	most	house	story-embellished	family	grounded
+sweet-dried-pinto	high	party	story-told	friend	grounded
+sweet-dried-pinto	mid	house	story-told	stranger	grounded
+sweet-dried-pinto	low	house	preciousness-dropped	family	grounded
+sweet-dried-pinto	least	house	sentiment-dropped	alone	grounded
+sweet-fermented-adzuki	most	street	possession-kept	friend	grounded
+sweet-fermented-adzuki	high	kitchen	memory-recounted	family	grounded
+sweet-fermented-adzuki	mid	street	memory-chased	stranger	grounded
+sweet-fermented-adzuki	low	bedroom	possession-discarded	alone	grounded
+sweet-fermented-adzuki	least	house	possession-declined	family	grounded
+sweet-fried-adzuki	most	hot air balloon	joy-expressed	stranger	grounded
+sweet-fried-adzuki	high	professional kitchen	joy-expressed	colleague	grounded
+sweet-fried-adzuki	mid	boat	joy-expressed	group	grounded
+sweet-fried-adzuki	low	sports club	celebration-declined	stranger	grounded
+sweet-fried-adzuki	least	party	joy-withheld	family	grounded
+sweet-fried-fava	most	boat	risk-taken	alone	grounded
+sweet-fried-fava	high	gallery	opportunity-seized	official	grounded
+sweet-fried-fava	mid	house	risk-taken	neighbour	grounded
+sweet-fried-fava	low	workplace	risk-checked	friend	grounded
+sweet-fried-fava	least	hills	risk-declined	alone	grounded
+sweet-roasted-butter	most	restaurant	joke-made	group	grounded
+sweet-roasted-butter	high	stage	joke-made	group	grounded
+sweet-roasted-butter	mid	plane	setback-shrugged	official	grounded
+sweet-roasted-butter	low	party	laugh-withheld	family	grounded
+sweet-roasted-butter	least	pub	sincerity-insisted	friend	grounded
+sweet-roasted-edamame	most	house	discomfort-absorbed	family	grounded
+sweet-roasted-edamame	high	hospital	discomfort-absorbed	family	grounded
+sweet-roasted-edamame	mid	restaurant	discomfort-absorbed	group	grounded
+sweet-roasted-edamame	low	car park	advantage-taken	stranger	grounded
+sweet-roasted-edamame	least	house	share-fair	group	grounded
+sweet-roasted-kidney	most	phone	plan-discouraged	friend	grounded
+sweet-roasted-kidney	high	gig	attendance-kept	friend	grounded
+sweet-roasted-kidney	mid	shop	gift-remembered	partner	grounded
+sweet-roasted-kidney	low	airport	meeting-declined	friend	grounded
+sweet-roasted-kidney	least	uncanny	contact-withheld	friend	fantastical
+sweet-roasted-navy	most	street	neighbourhood-watch	neighbour	grounded
+sweet-roasted-navy	high	street	help-organised	neighbour	grounded
+sweet-roasted-navy	mid	doorstep	help-small	neighbour	grounded
+sweet-roasted-navy	low	stairwell	greeting-brief	neighbour	grounded
+sweet-roasted-navy	least	street	friendship-declined	neighbour	grounded
+sweet-smoked-adzuki	most	lift	strangers-included	stranger	grounded
+sweet-smoked-adzuki	high	wedding	newcomer-included	stranger	grounded
+sweet-smoked-adzuki	mid	cafe	stranger-warmed	stranger	grounded
+sweet-smoked-adzuki	low	house	quiet-sought	family	grounded
+sweet-smoked-adzuki	least	gig	attention-avoided	group	grounded
+sweet-smoked-butter	most	car	attention-drifted	alone	grounded
+sweet-smoked-butter	high	pub	definition-avoided	friend	grounded
+sweet-smoked-butter	mid	car	attention-absent	family	grounded
+sweet-smoked-butter	low	uncanny	control-taken	alone	grounded
+sweet-smoked-butter	least	bus	crisis-response	stranger	grounded
+sweet-smoked-edamame	most	party	conflict-defused	group	grounded
+sweet-smoked-edamame	high	airport	warmth-offered	official	grounded
+sweet-smoked-edamame	mid	party	conflict-defused	stranger	grounded
+sweet-smoked-edamame	low	doorstep	price-held	stranger	grounded
+sweet-smoked-edamame	least	shop	public-confrontation	official	grounded
+sweet-smoked-pinto	most	pub	atmosphere-preferred	friend	grounded
+sweet-smoked-pinto	high	house	atmosphere-preferred	alone	grounded
+sweet-smoked-pinto	mid	pub	atmosphere-preferred	friend	grounded
+sweet-smoked-pinto	low	pub	evidence-demanded	friend	grounded
+sweet-smoked-pinto	least	house	evidence-demanded	alone	grounded
+umami-boiled-chickpea	most	house	adaptation-instant	group	grounded
+umami-boiled-chickpea	high	gig	adaptation-instant	group	grounded
+umami-boiled-chickpea	mid	boat	adaptation-instant	alone	grounded
+umami-boiled-chickpea	low	house	habit-kept	friend	grounded
+umami-boiled-chickpea	least	house	habit-kept	alone	grounded
+umami-dried-navy	most	street	routine-maintained	alone	grounded
+umami-dried-navy	high	house	routine-maintained	alone	grounded
+umami-dried-navy	mid	house	completion-forced	alone	grounded
+umami-dried-navy	low	house	project-abandoned	alone	grounded
+umami-dried-navy	least	house	project-abandoned	alone	grounded
+umami-fermented-chickpea	most	restaurant	novelty-pursued	official	grounded
+umami-fermented-chickpea	high	farm	novelty-pursued	alone	grounded
+umami-fermented-chickpea	mid	school	novelty-pursued	group	grounded
+umami-fermented-chickpea	low	shop	routine-maintained	official	grounded
+umami-fermented-chickpea	least	gig	routine-maintained	group	grounded
+umami-fermented-fava	most	professional kitchen	instruction-defied	official	grounded
+umami-fermented-fava	high	dojo	instruction-defied	official	grounded
+umami-fermented-fava	mid	restaurant	rule-bent	official	grounded
+umami-fermented-fava	low	warehouse	rule-followed	official	grounded
+umami-fermented-fava	least	workplace	rule-followed	official	grounded
+umami-fermented-navy	most	churchyard	decision-delayed	official	grounded
+umami-fermented-navy	high	street	decision-delayed	stranger	grounded
+umami-fermented-navy	mid	animal shelter	decision-delayed	official	grounded
+umami-fermented-navy	low	river	impulse-followed	stranger	grounded
+umami-fermented-navy	least	tattoo studio	impulse-followed	friend	grounded
+umami-fried-black	most	house	conclusion-fixed	alone	grounded
+umami-fried-black	high	house	focus-held	friend	grounded
+umami-fried-black	mid	house	focus-held	friend	grounded
+umami-fried-black	low	house	focus-split	alone	grounded
+umami-fried-black	least	house	focus-split	alone	grounded
+umami-fried-chickpea	most	house	preparation-early	alone	grounded
+umami-fried-chickpea	high	pub	subject-opened	friend	grounded
+umami-fried-chickpea	mid	kitchen	preparation-early	alone	grounded
+umami-fried-chickpea	low	house	intervention-withheld	group	grounded
+umami-fried-chickpea	least	garden	intervention-withheld	neighbour	grounded
+umami-roasted-adzuki	most	doorstep	warmth-overstayed	neighbour	grounded
+umami-roasted-adzuki	high	house	shelter-offered	stranger	grounded
+umami-roasted-adzuki	mid	barbecue	newcomer-included	stranger	grounded
+umami-roasted-adzuki	low	supermarket	greeting-brief	friend	grounded
+umami-roasted-adzuki	least	evening class	invitation-declined	group	grounded
+umami-roasted-cannellini	most	tattoo studio	disclosure-volunteered	stranger	grounded
+umami-roasted-cannellini	high	hospital	disclosure-volunteered	stranger	grounded
+umami-roasted-cannellini	mid	party	disclosure-volunteered	friend	grounded
+umami-roasted-cannellini	low	house	question-deflected	family	grounded
+umami-roasted-cannellini	least	house	question-deflected	partner	grounded
+umami-roasted-chickpea	most	house	conflict-avoided	housemate	grounded
+umami-roasted-chickpea	high	house	tolerance-shown	family	grounded
+umami-roasted-chickpea	mid	workplace	tolerance-shown	group	grounded
+umami-roasted-chickpea	low	garden	boundary-stated	neighbour	grounded
+umami-roasted-chickpea	least	house	judgement-declared	friend	grounded
+umami-roasted-pinto	most	phone	effort-overdone	friend	grounded
+umami-roasted-pinto	high	street	effort-overdone	friend	grounded
+umami-roasted-pinto	mid	phone	effort-added	friend	grounded
+umami-roasted-pinto	low	party	effort-minimised	stranger	grounded
+umami-roasted-pinto	least	house	effort-minimised	family	grounded
+umami-smoked-cannellini	most	party	poise-held	group	grounded
+umami-smoked-cannellini	high	house	poise-held	family	grounded
+umami-smoked-cannellini	mid	stage	poise-held	group	grounded
+umami-smoked-cannellini	low	gallery	indignity-absorbed	stranger	grounded
+umami-smoked-cannellini	least	school	indignity-embraced	group	grounded
+umami-smoked-edamame	most	pub	hunch-held	friend	grounded
+umami-smoked-edamame	high	party	hunch-followed	group	grounded
+umami-smoked-edamame	mid	restaurant	decision-instant	alone	grounded
+umami-smoked-edamame	low	market	plan-improvised	alone	grounded
+umami-smoked-edamame	least	party	signal-missed	friend	grounded
+bitter-dried-chickpea	most	boat	kit-verified	friend	elevated
+bitter-dried-chickpea	high	party	sayso-refused	group	grounded
+bitter-dried-chickpea	mid	car	glance-taken	stranger	grounded
+bitter-dried-chickpea	low	bowling alley	invitation-followed	colleague	grounded
+bitter-dried-chickpea	least	casino	lift-taken	stranger	elevated
+bitter-roasted-fava	most	stage	stage-taken	group	elevated
+bitter-roasted-fava	high	supermarket	queue-held	stranger	grounded
+bitter-roasted-fava	mid	ice rink	incompetence-displayed	friend	grounded
+bitter-roasted-fava	low	wedding	spotlight-dodged	family	grounded
+bitter-roasted-fava	least	hotel	spillage-atoned	stranger	elevated
+sweet-roasted-fava	most	boat	dive-forced	group	elevated
+sweet-roasted-fava	high	waiting room	avoidance-broken	partner	grounded
+sweet-roasted-fava	mid	sports club	courage-lent	colleague	grounded
+sweet-roasted-fava	low	restaurant	delay-advised	friend	grounded
+sweet-roasted-fava	least	hills	ascent-deflated	group	elevated
+umami-smoked-butter	most	hotel	island-unleft	stranger	elevated
+umami-smoked-butter	high	escape room	panic-declined	group	grounded
+umami-smoked-butter	mid	laundrette	wait-chosen	alone	grounded
+umami-smoked-butter	low	park	room-started	group	grounded
+umami-smoked-butter	least	train	evacuation-led	stranger	elevated
+spicy-fermented-green	most	farm	menu-overthrown	friend	elevated
+spicy-fermented-green	high	street	route-invented	alone	grounded
+spicy-fermented-green	mid	clinic	regimen-altered	official	grounded
+spicy-fermented-green	low	wedding	list-obeyed	family	grounded
+spicy-fermented-green	least	boat	watch-restored	group	elevated
+sour-boiled-kidney	most	care home	sunday-kept	neighbour	grounded
+sour-boiled-kidney	high	car	journey-made	family	elevated
+sour-boiled-kidney	mid	train	passport-covered	friend	elevated
+sour-boiled-kidney	low	house	confidence-shared	partner	grounded
+sour-boiled-kidney	least	pub	secret-told	group	grounded
+bitter-roasted-adzuki	most	restaurant	disaster-smoothed	friend	elevated
+bitter-roasted-adzuki	high	hotel	arrival-rehearsed	family	grounded
+bitter-roasted-adzuki	mid	street	shirt-changed	friend	grounded
+bitter-roasted-adzuki	low	barbers	tidy-declined	official	grounded
+bitter-roasted-adzuki	least	wedding	toast-unprepared	family	elevated
+spicy-boiled-pinto	most	pub	hour-filled	friend	elevated
+spicy-boiled-pinto	high	restaurant	table-left	group	grounded
+spicy-boiled-pinto	mid	bookshop	list-overgiven	colleague	grounded
+spicy-boiled-pinto	low	lido	afternoon-emptied	alone	grounded
+spicy-boiled-pinto	least	expedition	kit-abandoned	alone	elevated
+spicy-boiled-black	most	warehouse	shifts-taken	alone	grounded
+spicy-boiled-black	high	house	slog-continued	partner	elevated
+spicy-boiled-black	mid	kitchen	grimjob-taken	family	grounded
+spicy-boiled-black	low	street	relief-bought	friend	grounded
+spicy-boiled-black	least	hills	trek-abandoned	friend	elevated
+sour-smoked-edamame	most	expedition	cut-delivered	group	elevated
+sour-smoked-edamame	high	kitchen	sentence-retracted	family	grounded
+sour-smoked-edamame	mid	party	quiet-correction	stranger	grounded
+sour-smoked-edamame	low	food bank	over-intervention	stranger	grounded
+sour-smoked-edamame	least	gallery	canvas-holed	friend	elevated
+spicy-fried-fava	most	sea	causeway-crossed	group	grounded
+spicy-fried-fava	high	phone	place-taken	friend	elevated
+spicy-fried-fava	mid	airport	gig-chased	housemate	elevated
+spicy-fried-fava	low	lido	board-declined	friend	grounded
+spicy-fried-fava	least	pub	slot-surrendered	group	grounded
+bitter-boiled-mung	most	clinic	diagnosis-repeated	partner	grounded
+bitter-boiled-mung	high	hills	hazard-removed	group	elevated
+bitter-boiled-mung	mid	house	alarm-fixed	friend	grounded
+bitter-boiled-mung	low	kitchen	wash-ruined	housemate	grounded
+bitter-boiled-mung	least	station	booking-rushed	family	elevated
+spicy-fermented-mung	most	library	hours-lost	alone	elevated
+spicy-fermented-mung	high	car park	departure-delayed	group	elevated
+spicy-fermented-mung	mid	phone	task-expanded	partner	grounded
+spicy-fermented-mung	low	house	four-rotated	alone	grounded
+spicy-fermented-mung	least	cafe	focus-lost	alone	grounded
+sweet-fried-green	most	wedding	laughter-uncontained	stranger	elevated
+sweet-fried-green	high	hills	news-broadcast	friend	elevated
+sweet-fried-green	mid	street	joy-unearned	stranger	grounded
+sweet-fried-green	low	pub	announcement-received	friend	grounded
+sweet-fried-green	least	garden	phones-held	neighbour	grounded
+umami-boiled-butter	most	train	sunrise-slept	friend	elevated
+umami-boiled-butter	high	living room	pause-imposed	group	grounded
+umami-boiled-butter	mid	doorstep	outage-sat	housemate	grounded
+umami-boiled-butter	low	hotel	itinerary-driven	partner	elevated
+umami-boiled-butter	least	lido	swim-extended	friend	grounded
+umami-dried-pinto	most	party	tribute-overbuilt	friend	elevated
+umami-dried-pinto	high	street	posters-peeled	friend	grounded
+umami-dried-pinto	mid	workplace	memory-inscribed	colleague	grounded
+umami-dried-pinto	low	sports club	answer-flattened	stranger	elevated
+umami-dried-pinto	least	house	film-reduced	friend	grounded
+spicy-boiled-adzuki	most	house	night-extended	neighbour	elevated
+spicy-boiled-adzuki	high	pub	night-started	colleague	grounded
+spicy-boiled-adzuki	mid	sports club	rally-called	friend	grounded
+spicy-boiled-adzuki	low	barbecue	outing-declined	friend	grounded
+spicy-boiled-adzuki	least	holiday let	room-unlifted	group	elevated
+spicy-fried-navy	most	expedition	plan-monopolised	friend	elevated
+spicy-fried-navy	high	street	evacuation-directed	neighbour	elevated
+spicy-fried-navy	mid	restaurant	bill-divided	group	grounded
+spicy-fried-navy	low	house	deposit-conceded	official	grounded
+spicy-fried-navy	least	park	group-ceded	group	grounded
+sweet-boiled-chickpea	most	hills	route-conceded	group	elevated
+sweet-boiled-chickpea	high	holiday let	slight-accepted	friend	grounded
+sweet-boiled-chickpea	mid	house	move-rescheduled	friend	grounded
+sweet-boiled-chickpea	low	restaurant	plates-unshared	group	grounded
+sweet-boiled-chickpea	least	stairwell	repair-blocked	neighbour	elevated
+spicy-fried-butter	most	gym	entry-claimed	friend	elevated
+spicy-fried-butter	high	street	drive-volunteered	friend	elevated
+spicy-fried-butter	mid	sports club	interest-woken	friend	grounded
+spicy-fried-butter	low	sea	swim-declined	friend	grounded
+spicy-fried-butter	least	phone	expedition-passed	friend	grounded
+spicy-smoked-chickpea	most	taxi	evening-split	friend	elevated
+spicy-smoked-chickpea	high	car	day-doubled	family	grounded
+spicy-smoked-chickpea	mid	kitchen	three-juggled	family	grounded
+spicy-smoked-chickpea	low	waiting room	errands-skipped	alone	grounded
+spicy-smoked-chickpea	least	hotel	list-abandoned	partner	elevated
+sweet-boiled-butter	most	kitchen	damage-absorbed	friend	elevated
+sweet-boiled-butter	high	funeral	absence-forgiven	friend	elevated
+sweet-boiled-butter	mid	supermarket	wheel-forgiven	stranger	grounded
+sweet-boiled-butter	low	car	grievance-revived	friend	grounded
+sweet-boiled-butter	least	restaurant	apology-insufficient	friend	grounded
+sour-smoked-navy	most	street	road-kept	alone	grounded
+sour-smoked-navy	high	river	training-held	friend	elevated
+sour-smoked-navy	mid	bike shop	upgrade-refused	official	grounded
+sour-smoked-navy	low	restaurant	plan-swapped	colleague	grounded
+sour-smoked-navy	least	airport	course-abandoned	stranger	elevated
+spicy-boiled-butter	most	kitchen	strain-hidden	partner	grounded
+spicy-boiled-butter	high	hills	injury-carried	friend	elevated
+spicy-boiled-butter	mid	evening class	cold-endured	group	grounded
+spicy-boiled-butter	low	gig	discomfort-voiced	friend	grounded
+spicy-boiled-butter	least	plane	complaint-repeated	stranger	elevated
+bitter-fried-edamame	most	motorway services	passenger-ejected	friend	elevated
+bitter-fried-edamame	high	hills	valley-chosen	group	elevated
+bitter-fried-edamame	mid	vets	treatment-authorised	official	grounded
+bitter-fried-edamame	low	house	room-deferred	stranger	grounded
+bitter-fried-edamame	least	careers fair	slots-unclaimed	stranger	grounded
+umami-smoked-chickpea	most	station	sentence-unsaid	friend	elevated
+umami-smoked-chickpea	high	graduation	seat-taken	friend	grounded
+umami-smoked-chickpea	mid	house	row-unmentioned	housemate	grounded
+umami-smoked-chickpea	low	bus stop	words-spent	partner	grounded
+umami-smoked-chickpea	least	wedding	joke-explained	stranger	elevated
+bitter-boiled-black	most	court	verdict-delayed	group	elevated
+bitter-boiled-black	high	house	offer-slept-on	stranger	grounded
+bitter-boiled-black	mid	shop	smallprint-read	official	grounded
+bitter-boiled-black	low	pub	answer-blurted	family	grounded
+bitter-boiled-black	least	canal	rescue-entered	stranger	elevated
+sour-roasted-cannellini	most	hostel	truth-persists	group	grounded
+sour-roasted-cannellini	high	hospital	denial-contradicted	family	elevated
+sour-roasted-cannellini	mid	hairdresser	cut-criticised	official	grounded
+sour-roasted-cannellini	low	gallery	praise-deflected	friend	elevated
+sour-roasted-cannellini	least	balcony	consent-faked	housemate	grounded
+sour-fried-fava	most	doorstep	sale-snapped	official	grounded
+sour-fried-fava	high	forest	roadblock-passed	group	elevated
+sour-fried-fava	mid	cafe	order-placed	friend	grounded
+sour-fried-fava	low	ferry	seat-hesitated	stranger	elevated
+sour-fried-fava	least	animal shelter	dog-deferred	official	grounded
+umami-smoked-kidney	most	bedroom	flat-preserved	alone	grounded
+umami-smoked-kidney	high	wedding	speech-redirected	family	elevated
+umami-smoked-kidney	mid	supermarket	biscuits-bought	partner	grounded
+umami-smoked-kidney	low	sea	ashes-detached	group	elevated
+umami-smoked-kidney	least	phone	news-absorbed	friend	grounded
+bitter-dried-butter	most	train	carriage-calmed	group	grounded
+bitter-dried-butter	high	boat	squall-ignored	friend	elevated
+bitter-dried-butter	mid	street	nearmiss-shrugged	stranger	grounded
+bitter-dried-butter	low	football ground	crush-panicked	group	elevated
+bitter-dried-butter	least	post office	passport-hunted	partner	grounded
+spicy-boiled-chickpea	most	living room	item-copied	friend	grounded
+spicy-boiled-chickpea	high	campsite	stove-improvised	group	elevated
+spicy-boiled-chickpea	mid	laundrette	dryer-rigged	alone	grounded
+spicy-boiled-chickpea	low	moor	ride-summoned	friend	elevated
+spicy-boiled-chickpea	least	shed	flatpack-abandoned	family	grounded
+sour-boiled-cannellini	most	churchyard	date-corrected	family	grounded
+sour-boiled-cannellini	high	warehouse	count-repeated	colleague	grounded
+sour-boiled-cannellini	mid	police station	statement-itemised	official	elevated
+sour-boiled-cannellini	low	holiday let	costs-rounded	friend	grounded
+sour-boiled-cannellini	least	food stall	scales-ignored	friend	elevated
+sour-roasted-edamame	most	registry office	reservation-declared	family	grounded
+sour-roasted-edamame	high	sports club	terms-stated	group	grounded
+sour-roasted-edamame	mid	rehearsal room	objection-voiced	group	elevated
+sour-roasted-edamame	low	market	answer-postponed	friend	grounded
+sour-roasted-edamame	least	radio	position-withheld	official	elevated
+umami-fried-fava	most	high street	check-refused	group	grounded
+umami-fried-fava	high	waiting room	call-decided	family	grounded
+umami-fried-fava	mid	lecture hall	answer-unhedged	stranger	elevated
+umami-fried-fava	low	bank	claim-dropped	official	grounded
+umami-fried-fava	least	shelter	call-handed	group	elevated
+bitter-dried-kidney	most	dentist	anaesthetic-refused	official	grounded
+bitter-dried-kidney	high	hospice	nights-taken	family	grounded
+bitter-dried-kidney	mid	building site	hands-taped	colleague	elevated
+bitter-dried-kidney	low	christening	chair-asked	family	grounded
+bitter-dried-kidney	least	gym	round-stopped	group	elevated
+spicy-smoked-adzuki	most	barbecue	story-continued	group	grounded
+spicy-smoked-adzuki	high	library	reading-extended	child	grounded
+spicy-smoked-adzuki	mid	observatory	group-held	stranger	elevated
+spicy-smoked-adzuki	low	bus	account-withheld	stranger	grounded
+spicy-smoked-adzuki	least	stage	line-declined	official	elevated
+sour-roasted-pinto	most	cemetery	guide-mimicked	group	elevated
+sour-roasted-pinto	high	museum	reverence-punctured	official	grounded
+sour-roasted-pinto	mid	hotel	ritual-priced	friend	grounded
+sour-roasted-pinto	low	seance	hands-held	group	elevated
+sour-roasted-pinto	least	house	grace-joined	family	grounded
+sour-smoked-cannellini	most	hills	fault-located	group	elevated
+sour-smoked-cannellini	high	phone shop	contract-questioned	friend	grounded
+sour-smoked-cannellini	mid	charity shop	door-diagnosed	colleague	grounded
+sour-smoked-cannellini	low	prison	appeal-humoured	stranger	elevated
+sour-smoked-cannellini	least	evening class	critique-softened	group	grounded
+umami-dried-chickpea	most	school	slot-overrun	group	elevated
+umami-dried-chickpea	high	canteen	options-listed	friend	grounded
+umami-dried-chickpea	mid	zoo	answer-unsoftened	child	grounded
+umami-dried-chickpea	low	coach	hours-filled	family	elevated
+umami-dried-chickpea	least	park	afternoon-spent	friend	grounded
+bitter-fermented-adzuki	most	auction house	ledgers-bought	stranger	elevated
+bitter-fermented-adzuki	high	study room	registers-read	friend	grounded
+bitter-fermented-adzuki	mid	butcher	cut-revived	official	grounded
+bitter-fermented-adzuki	low	fairground	waltzer-passed	group	elevated
+bitter-fermented-adzuki	least	loft	boxes-dumped	alone	grounded
+sweet-boiled-navy	most	food bank	stock-withheld	official	elevated
+sweet-boiled-navy	high	stairwell	supplies-shared	neighbour	grounded
+sweet-boiled-navy	mid	hardware shop	spares-taken	alone	grounded
+sweet-boiled-navy	low	casino	float-spent	group	elevated
+sweet-boiled-navy	least	restaurant	bill-covered	group	grounded
+sour-dried-cannellini	most	swimming pool	entry-refused	family	grounded
+sour-dried-cannellini	high	theatre	curtain-pulled	colleague	elevated
+sour-dried-cannellini	mid	bakery	form-unsigned	friend	grounded
+sour-dried-cannellini	low	gig	door-waved	stranger	grounded
+sour-dried-cannellini	least	polling station	booth-unpoliced	group	elevated
+sour-roasted-fava	most	job centre	account-unedited	official	grounded
+sour-roasted-fava	high	care home	voice-unchanged	family	elevated
+sour-roasted-fava	mid	party	job-undersold	stranger	grounded
+sour-roasted-fava	low	graduation	warmth-performed	stranger	grounded
+sour-roasted-fava	least	hot air balloon	moment-staged	partner	elevated
+umami-fried-butter	most	takeaway	order-repeated	partner	grounded
+umami-fried-butter	high	factory	transfer-declined	colleague	elevated
+umami-fried-butter	mid	station	farewell-untempted	friend	grounded
+umami-fried-butter	low	club	details-asked	friend	grounded
+umami-fried-butter	least	motorway services	return-abandoned	alone	elevated
+bitter-smoked-adzuki	most	kitchen	text-portended	housemate	grounded
+bitter-smoked-adzuki	high	pier	sentence-given	friend	elevated
+bitter-smoked-adzuki	mid	bus stop	weight-added	neighbour	grounded
+bitter-smoked-adzuki	low	driving lesson	pass-predicted	family	grounded
+bitter-smoked-adzuki	least	court	facts-only	official	elevated
+sweet-fermented-black	most	karaoke bar	evening-endured	housemate	grounded
+sweet-fermented-black	high	funeral	thought-surfaced	family	elevated
+sweet-fermented-black	mid	shop	silence-explained	partner	grounded
+sweet-fermented-black	low	beach	thought-dropped	friend	grounded
+sweet-fermented-black	least	ice rink	nothing-running	group	elevated
+umami-roasted-black	most	barbecue	pair-explained	family	grounded
+umami-roasted-black	high	hospital	brother-accounted	friend	elevated
+umami-roasted-black	mid	pub	seat-chosen	group	grounded
+umami-roasted-black	low	auction house	bidding-believed	stranger	elevated
+umami-roasted-black	least	phone	illness-missed	family	grounded
+umami-fried-adzuki	most	house	ally-savaged	friend	grounded
+umami-fried-adzuki	high	animal shelter	deadline-fought	official	elevated
+umami-fried-adzuki	mid	record shop	record-defended	stranger	grounded
+umami-fried-adzuki	low	cinema	idol-unmourned	group	elevated
+umami-fried-adzuki	least	bus	verdict-shrugged	friend	grounded
+sour-boiled-navy	most	car park	hint-answered	family	grounded
+sour-boiled-navy	high	registry office	wording-held	family	elevated
+sour-boiled-navy	mid	bike shop	fine-defined	official	grounded
+sour-boiled-navy	low	betting shop	code-followed	stranger	elevated
+sour-boiled-navy	least	restaurant	answer-circled	partner	grounded
+spicy-smoked-edamame	most	petrol station	pence-pursued	official	grounded
+spicy-smoked-edamame	high	train	replacement-won	official	elevated
+spicy-smoked-edamame	mid	waiting room	order-restored	stranger	grounded
+spicy-smoked-edamame	low	campsite	pitch-surrendered	stranger	elevated
+spicy-smoked-edamame	least	warehouse	credit-unclaimed	colleague	grounded
+sweet-dried-chickpea	most	garden	year-omitted	stranger	grounded
+sweet-dried-chickpea	high	cemetery	stone-worded	family	elevated
+sweet-dried-chickpea	mid	post office	card-sent	alone	grounded
+sweet-dried-chickpea	low	snooker hall	joke-taken	group	elevated
+sweet-dried-chickpea	least	taxi	night-recounted	friend	grounded
+umami-dried-edamame	most	bakery	schedule-kept	colleague	grounded
+umami-dried-edamame	high	funeral	arrangements-taken	friend	grounded
+umami-dried-edamame	mid	prison	visit-continued	family	elevated
+umami-dried-edamame	low	hills	route-followed	group	grounded
+umami-dried-edamame	least	observatory	rota-declined	stranger	elevated
+umami-fried-mung	most	arcade	birthday-repurposed	family	grounded
+umami-fried-mung	high	care home	room-requested	family	grounded
+umami-fried-mung	mid	radio	ward-named	stranger	elevated
+umami-fried-mung	low	park	match-watched	friend	grounded
+umami-fried-mung	least	boat	journey-aimless	stranger	elevated
+sour-roasted-green	most	coach	quiz-continued	group	grounded
+sour-roasted-green	high	running track	finish-roused	group	grounded
+sour-roasted-green	mid	graduation	name-shouted	friend	elevated
+sour-roasted-green	low	bowling alley	dance-declined	colleague	grounded
+sour-roasted-green	least	hot air balloon	burner-passed	stranger	elevated
+spicy-smoked-fava	most	river	jump-repeated	group	grounded
+spicy-smoked-fava	high	station	train-swapped	friend	grounded
+spicy-smoked-fava	mid	museum	exhibit-touched	official	elevated
+spicy-smoked-fava	low	casino	stake-halved	friend	grounded
+spicy-smoked-fava	least	seance	nothing-offered	stranger	elevated
+sweet-boiled-cannellini	most	caravan	drink-fetched	friend	grounded
+sweet-boiled-cannellini	high	library	slot-given	stranger	grounded
+sweet-boiled-cannellini	mid	court	usher-defended	official	elevated
+sweet-boiled-cannellini	low	gallery	favourite-refused	partner	grounded
+sweet-boiled-cannellini	least	ferry	company-refused	stranger	elevated
+bitter-fermented-cannellini	most	rehearsal room	notes-corrected	group	elevated
+bitter-fermented-cannellini	high	hospice	language-learned	family	grounded
+bitter-fermented-cannellini	mid	hardware shop	fault-explained	stranger	grounded
+bitter-fermented-cannellini	low	evening class	term-unpursued	stranger	elevated
+bitter-fermented-cannellini	least	ice rink	provenance-shrugged	friend	grounded
+bitter-dried-fava	most	clinic	relief-withheld	family	elevated
+bitter-dried-fava	high	shed	clearance-done	alone	grounded
+bitter-dried-fava	mid	holiday let	night-driven	friend	grounded
+bitter-dried-fava	low	tattoo studio	pain-deferred	stranger	elevated
+bitter-dried-fava	least	school	discipline-dissolved	child	grounded
+sour-fried-navy	most	hairdresser	length-repeated	stranger	elevated
+sour-fried-navy	high	hostel	bunk-remade	stranger	grounded
+sour-fried-navy	mid	charity shop	rail-reordered	alone	grounded
+sour-fried-navy	low	football ground	place-unclaimed	friend	elevated
+sour-fried-navy	least	airbnb	arrangement-accepted	partner	grounded
+spicy-roasted-edamame	most	moor	route-asserted	group	elevated
+spicy-roasted-edamame	high	market	price-set	stranger	grounded
+spicy-roasted-edamame	mid	nursery	child-carried	official	grounded
+spicy-roasted-edamame	low	lecture hall	question-swallowed	stranger	elevated
+spicy-roasted-edamame	least	wedding	speech-passed	family	grounded
+sweet-boiled-pinto	most	swimming pool	watch-lost	child	elevated
+sweet-boiled-pinto	high	orchard	picking-abandoned	family	grounded
+sweet-boiled-pinto	mid	dentist	appointment-drifted	official	grounded
+sweet-boiled-pinto	low	depot	shift-inhabited	colleague	elevated
+sweet-boiled-pinto	least	allotment	presence-sustained	neighbour	grounded
+bitter-smoked-cannellini	most	hospital	ward-unnotified	family	grounded
+bitter-smoked-cannellini	high	polling station	count-attended	official	elevated
+bitter-smoked-cannellini	mid	barbers	chair-quiet	stranger	grounded
+bitter-smoked-cannellini	low	bus	journey-accompanied	neighbour	grounded
+bitter-smoked-cannellini	least	hospice	years-recounted	stranger	elevated
+bitter-roasted-green	most	church	condolences-clipped	family	grounded
+bitter-roasted-green	high	building site	handover-compressed	colleague	elevated
+bitter-roasted-green	mid	garden centre	browsing-curtailed	partner	grounded
+bitter-roasted-green	low	pier	afternoon-unfilled	friend	grounded
+bitter-roasted-green	least	canal	lock-dawdled	stranger	elevated
+sour-dried-black	most	vets	grief-bypassed	partner	grounded
+sour-dried-black	high	expedition	turnback-stated	group	elevated
+sour-dried-black	mid	job centre	appeal-outlined	stranger	grounded
+sour-dried-black	low	churchyard	silence-kept	friend	grounded
+sour-dried-black	least	video call	reassurance-given	family	elevated
+spicy-fried-edamame	most	canteen	praise-overdone	family	grounded
+spicy-fried-edamame	high	auction house	bid-declared	stranger	elevated
+spicy-fried-edamame	mid	phone shop	upsell-refused	colleague	grounded
+spicy-fried-edamame	low	dojo	grading-unopined	official	grounded
+spicy-fried-edamame	least	hairdresser	colour-permitted	stranger	elevated
+sweet-fermented-navy	most	restaurant	dish-disparaged	friend	grounded
+sweet-fermented-navy	high	repair shop	machine-refused	official	elevated
+sweet-fermented-navy	mid	christening	gift-handmade	family	grounded
+sweet-fermented-navy	low	supermarket	shortcut-bought	partner	grounded
+sweet-fermented-navy	least	airport	kitchen-relinquished	stranger	elevated
+umami-fried-pinto	most	campsite	money-doubted	group	elevated
+umami-fried-pinto	high	cafe	move-opposed	friend	grounded
+umami-fried-pinto	mid	court	verdict-early	group	elevated
+umami-fried-pinto	low	doorstep	references-demanded	family	grounded
+umami-fried-pinto	least	pub	criteria-followed	friend	grounded
+umami-fermented-green	most	hotel	cake-substituted	family	elevated
+umami-fermented-green	high	funeral	eulogy-remade	friend	grounded
+umami-fermented-green	mid	aquarium	label-rewritten	official	elevated
+umami-fermented-green	low	shop	sign-standardised	friend	grounded
+umami-fermented-green	least	warehouse	sameness-welcomed	colleague	grounded
+sour-boiled-adzuki	most	station	goodbye-overrun	friend	elevated
+sour-boiled-adzuki	high	doctors	thanks-returned	stranger	grounded
+sour-boiled-adzuki	mid	theatre	praise-specific	friend	elevated
+sour-boiled-adzuki	low	chemist	verdict-softened	family	grounded
+sour-boiled-adzuki	least	care home	return-promised	stranger	grounded
+spicy-roasted-chickpea	most	registry office	guests-sprung	friend	elevated
+spicy-roasted-chickpea	high	laundrette	waiters-gathered	stranger	grounded
+spicy-roasted-chickpea	mid	blood donor centre	neighbour-drawn	stranger	elevated
+spicy-roasted-chickpea	low	cinema	joiners-declined	friend	grounded
+spicy-roasted-chickpea	least	farm	reunion-declined	group	grounded
+sweet-smoked-navy	most	graduation	photograph-joined	family	elevated
+sweet-smoked-navy	high	bookshop	card-rewritten	stranger	grounded
+sweet-smoked-navy	mid	lido	readings-resumed	official	elevated
+sweet-smoked-navy	low	gig	exit-unannounced	colleague	grounded
+sweet-smoked-navy	least	stairwell	goodbyes-skipped	neighbour	grounded
+sour-fermented-pinto	most	concert hall	benefit-read	group	elevated
+sour-fermented-pinto	high	supermarket	signage-decoded	friend	grounded
+sour-fermented-pinto	mid	plane	apology-translated	stranger	elevated
+sour-fermented-pinto	low	tattoo studio	design-praised	friend	grounded
+sour-fermented-pinto	least	sports club	league-backed	group	grounded
+sour-dried-navy	most	solicitors	sale-blocked	family	elevated
+sour-dried-navy	high	doorstep	loan-refused	family	grounded
+sour-dried-navy	mid	airport	split-refused	official	elevated
+sour-dried-navy	low	holiday let	extra-allowed	group	grounded
+sour-dried-navy	least	cafe	booking-reshaped	group	grounded
+umami-roasted-green	most	wedding	marriage-probed	stranger	elevated
+umami-roasted-green	high	market	stall-questioned	stranger	grounded
+umami-roasted-green	mid	stage	trapdoor-opened	friend	elevated
+umami-roasted-green	low	barbers	photo-unasked	official	grounded
+umami-roasted-green	least	living room	wall-unmentioned	friend	grounded
+spicy-boiled-cannellini	most	professional kitchen	tray-restarted	friend	elevated
+spicy-boiled-cannellini	high	bedroom	prep-extended	friend	grounded
+spicy-boiled-cannellini	mid	hostel	room-perfected	colleague	elevated
+spicy-boiled-cannellini	low	laundrette	wash-combined	alone	grounded
+spicy-boiled-cannellini	least	bookshop	present-grabbed	colleague	grounded
+bitter-fried-adzuki	most	police station	interview-joked	official	elevated
+bitter-fried-adzuki	high	blood donor centre	nerves-eased	stranger	grounded
+bitter-fried-adzuki	mid	lift	wait-lightened	group	elevated
+bitter-fried-adzuki	low	church	words-plain	family	grounded
+bitter-fried-adzuki	least	comedy club	heckle-answered	stranger	grounded
+umami-smoked-black	most	prison	visit-weighted	family	elevated
+umami-smoked-black	high	factory	switch-conferred	colleague	grounded
+umami-smoked-black	mid	observatory	logbook-entered	stranger	elevated
+umami-smoked-black	low	dojo	nerves-lightened	friend	grounded
+umami-smoked-black	least	lecture hall	resus-clowned	group	grounded
+umami-fermented-kidney	most	street	buyout-refused	official	elevated
+umami-fermented-kidney	high	care home	kin-signed	neighbour	grounded
+umami-fermented-kidney	mid	museum	map-corrected	official	elevated
+umami-fermented-kidney	low	restaurant	move-encouraged	partner	grounded
+umami-fermented-kidney	least	hostel	tenancy-ended	stranger	grounded
+sour-fried-green	most	auction house	bid-chased	stranger	elevated
+sour-fried-green	high	hairdresser	length-scrapped	stranger	grounded
+sour-fried-green	mid	hot air balloon	chase-joined	group	elevated
+sour-fried-green	low	kitchen	binning-dated	housemate	grounded
+sour-fried-green	least	cafe	costing-demanded	friend	grounded
+spicy-dried-chickpea	most	radio	letter-broadcast	neighbour	elevated
+spicy-dried-chickpea	high	barbecue	verdict-relayed	group	grounded
+spicy-dried-chickpea	mid	hospice	prognosis-relayed	family	elevated
+spicy-dried-chickpea	low	car	panic-stripped	family	grounded
+spicy-dried-chickpea	least	laundrette	photograph-blocked	housemate	grounded
+sweet-roasted-adzuki	most	karaoke bar	hour-extended	group	elevated
+sweet-roasted-adzuki	high	campsite	shelter-shared	stranger	grounded
+sweet-roasted-adzuki	mid	food bank	parcel-waited	stranger	elevated
+sweet-roasted-adzuki	low	taxi	ride-shortened	friend	grounded
+sweet-roasted-adzuki	least	phone	invite-ended	friend	grounded
+bitter-fermented-black	most	running track	conversation-relapped	alone	grounded
+bitter-fermented-black	high	court	indicator-recanted	official	elevated
+bitter-fermented-black	mid	bus	remark-reopened	friend	grounded
+bitter-fermented-black	low	catacombs	guide-questioned	stranger	elevated
+bitter-fermented-black	least	park	regret-unheld	friend	grounded
+bitter-boiled-navy	most	doctors	name-corrected	stranger	grounded
+bitter-boiled-navy	high	forest	course-declared	official	elevated
+bitter-boiled-navy	mid	pub	point-returned	group	grounded
+bitter-boiled-navy	low	planetarium	age-bent	official	elevated
+bitter-boiled-navy	least	sports club	name-borrowed	friend	grounded
+sour-fried-edamame	most	car park	plan-flattened	group	grounded
+sour-fried-edamame	high	tattoo studio	stencil-judged	friend	elevated
+sour-fried-edamame	mid	stairwell	noise-specified	neighbour	grounded
+sour-fried-edamame	low	vets	odds-softened	family	elevated
+sour-fried-edamame	least	beach	reason-substituted	friend	grounded
+spicy-smoked-mung	most	charity shop	window-praised	stranger	grounded
+spicy-smoked-mung	high	house	trees-asked	stranger	elevated
+spicy-smoked-mung	mid	lido	list-enquired	official	grounded
+spicy-smoked-mung	low	waxworks	pass-requested	friend	elevated
+spicy-smoked-mung	least	wedding	seating-requested	family	grounded
+sweet-roasted-green	most	holiday let	deposit-outrun	group	grounded
+sweet-roasted-green	high	reservoir	route-replaced	group	elevated
+sweet-roasted-green	mid	cinema	showing-rebooked	friend	grounded
+sweet-roasted-green	low	hypnotist show	night-unlifted	friend	elevated
+sweet-roasted-green	least	train	application-dropped	partner	grounded
+bitter-fermented-navy	most	hotel	room-kept	family	grounded
+bitter-fermented-navy	high	depot	shift-kept	official	grounded
+bitter-fermented-navy	mid	anatomy museum	casebooks-chosen	stranger	elevated
+bitter-fermented-navy	low	swimming lesson	hour-swapped	official	grounded
+bitter-fermented-navy	least	gallery	catalogue-declined	friend	elevated
+bitter-smoked-fava	most	doorstep	offer-withdrawn	partner	grounded
+bitter-smoked-fava	high	bank	legacy-given	official	grounded
+bitter-smoked-fava	mid	show cave	dark-extended	stranger	elevated
+bitter-smoked-fava	low	council offices	tenancy-renewed	official	grounded
+bitter-smoked-fava	least	expedition	trip-pulled	group	elevated
+sour-boiled-mung	most	living room	both-hosted	family	grounded
+sour-boiled-mung	high	youth club	place-given	child	grounded
+sour-boiled-mung	mid	walk-in centre	times-given	friend	elevated
+sour-boiled-mung	low	market	stall-recommended	neighbour	grounded
+sour-boiled-mung	least	citizens advice	arrears-denied	friend	elevated
+spicy-dried-butter	most	supermarket	shop-abandoned	alone	grounded
+spicy-dried-butter	high	hospital	nights-kept	family	grounded
+spicy-dried-butter	mid	float tank	timer-set	stranger	elevated
+spicy-dried-butter	low	bakery	cake-bought	family	grounded
+spicy-dried-butter	least	theatre	book-handed	group	elevated
+sweet-fried-black	most	post office	fund-emptied	alone	grounded
+sweet-fried-black	high	animal sanctuary	feed-paid	official	grounded
+sweet-fried-black	mid	concert hall	flowers-unsigned	friend	elevated
+sweet-fried-black	low	high street	bucket-filled	friend	grounded
+sweet-fried-black	least	mine tour	form-returned	group	elevated
+umami-roasted-fava	most	football ground	ban-ignored	family	elevated
+umami-roasted-fava	high	building site	site-returned	official	grounded
+umami-roasted-fava	mid	shop	search-refused	stranger	grounded
+umami-roasted-fava	low	jury room	direction-obeyed	group	elevated
+umami-roasted-fava	least	walkie-talkie	closure-held	official	grounded
+umami-dried-adzuki	most	maternity ward	moment-overwhelming	friend	elevated
+umami-dried-adzuki	high	museum	slot-kept	group	grounded
+umami-dried-adzuki	mid	station	concourse-stopped	stranger	grounded
+umami-dried-adzuki	low	church	vessel-borrowed	friend	elevated
+umami-dried-adzuki	least	livestream	stream-background	family	grounded
+sour-smoked-mung	most	restaurant	collapse-disclosed	family	elevated
+sour-smoked-mung	high	kitchen	letters-shown	family	grounded
+sour-smoked-mung	mid	evening class	difficulty-surfaced	stranger	grounded
+sour-smoked-mung	low	animal shelter	history-omitted	stranger	elevated
+sour-smoked-mung	least	voicemail	messages-deleted	friend	grounded
+spicy-fried-black	most	a and e	desk-returned	friend	elevated
+spicy-fried-black	high	moor	search-resumed	group	grounded
+spicy-fried-black	mid	laundrette	ring-hunted	housemate	grounded
+spicy-fried-black	low	magic show	secret-conceded	stranger	elevated
+spicy-fried-black	least	answerphone	calls-ended	family	grounded
+sweet-boiled-kidney	most	careers fair	case-narrated	friend	elevated
+sweet-boiled-kidney	high	hospice	night-taken	friend	grounded
+sweet-boiled-kidney	mid	waiting room	place-yielded	stranger	grounded
+sweet-boiled-kidney	low	police station	account-declined	family	elevated
+sweet-boiled-kidney	least	doorbell camera	door-refused	housemate	grounded
+umami-roasted-butter	most	hairdresser	walkin-taken	stranger	grounded
+umami-roasted-butter	high	garden	account-invited	family	elevated
+umami-roasted-butter	mid	pharmacy counter	tablets-detained	stranger	grounded
+umami-roasted-butter	low	christening	plates-started	family	grounded
+umami-roasted-butter	least	psychic fair	sitting-forfeited	friend	elevated
+umami-fried-kidney	most	bridge	vigil-repeated	family	grounded
+umami-fried-kidney	high	coroners court	inquest-attended	friend	elevated
+umami-fried-kidney	mid	funeral	bearer-taken	neighbour	grounded
+umami-fried-kidney	low	swimming pool	swim-deferred	friend	grounded
+umami-fried-kidney	least	soup kitchen	serving-cancelled	official	elevated
+sour-smoked-chickpea	most	bedroom	fullstops-driven	friend	grounded
+sour-smoked-chickpea	high	pier	proposal-halted	friend	elevated
+sour-smoked-chickpea	mid	car	radio-put	group	grounded
+sour-smoked-chickpea	low	bowling alley	teams-read	group	grounded
+sour-smoked-chickpea	least	ghost walk	parking-asked	stranger	elevated
+spicy-dried-adzuki	most	record shop	crate-asked	stranger	grounded
+spicy-dried-adzuki	high	auction house	lot-added	group	elevated
+spicy-dried-adzuki	mid	karaoke bar	list-rejoined	group	grounded
+spicy-dried-adzuki	low	barbecue	plate-stacked	friend	grounded
+spicy-dried-adzuki	least	camera obscura	turn-given	stranger	elevated
+sweet-boiled-black	most	house	christmas-unchanged	family	grounded
+sweet-boiled-black	high	drop-in centre	lease-signed	official	elevated
+sweet-boiled-black	mid	bookshop	token-repeated	family	grounded
+sweet-boiled-black	low	sports club	side-swapped	friend	grounded
+sweet-boiled-black	least	taxidermist	secondday-dropped	official	elevated
+umami-boiled-black	most	phone	cancellation-declined	official	grounded
+umami-boiled-black	high	football ground	transfer-refused	official	elevated
+umami-boiled-black	mid	park	training-postponed	housemate	grounded
+umami-boiled-black	low	prison	waitlist-pushed	family	elevated
+umami-boiled-black	least	takeaway	terms-demanded	partner	grounded
+umami-smoked-green	most	tennis court	team-claimed	group	grounded
+umami-smoked-green	high	radio	airtime-taken	official	elevated
+umami-smoked-green	mid	barbecue	language-attempted	family	grounded
+umami-smoked-green	low	observatory	turn-handed	stranger	elevated
+umami-smoked-green	least	loft	machine-given	friend	grounded
+sour-fermented-chickpea	most	house	car-detained	family	grounded
+sour-fermented-chickpea	high	ferry	counter-switched	family	elevated
+sour-fermented-chickpea	mid	hardware shop	complaint-reframed	friend	grounded
+sour-fermented-chickpea	low	job centre	wording-declined	official	elevated
+sour-fermented-chickpea	least	footpath	shortcut-passed	group	grounded
+spicy-roasted-adzuki	most	party	night-commandeered	group	grounded
+spicy-roasted-adzuki	high	polling station	declaration-cheered	group	elevated
+spicy-roasted-adzuki	mid	car park	pass-announced	family	grounded
+spicy-roasted-adzuki	low	museum	find-unnamed	official	elevated
+spicy-roasted-adzuki	least	bakery	party-cancelled	family	grounded
+sweet-fried-pinto	most	garden	history-poured	family	grounded
+sweet-fried-pinto	high	hospice	bedside-spoken	family	elevated
+sweet-fried-pinto	mid	street	debt-spoken	friend	grounded
+sweet-fried-pinto	low	hot air balloon	present-underpraised	partner	elevated
+sweet-fried-pinto	least	taxi	praise-rerouted	friend	grounded
+bitter-roasted-kidney	most	restaurant	credit-recaptured	family	grounded
+bitter-roasted-kidney	high	animal shelter	runs-claimed	stranger	grounded
+bitter-roasted-kidney	mid	lido	name-requested	official	elevated
+bitter-roasted-kidney	low	airbnb	recipe-deflected	friend	grounded
+bitter-roasted-kidney	least	auction house	lot-anonymised	official	elevated
+bitter-dried-mung	most	pub	budget-produced	friend	grounded
+bitter-dried-mung	high	vets	form-signed	friend	grounded
+bitter-dried-mung	mid	food bank	entitlement-listed	stranger	elevated
+bitter-dried-mung	low	charity shop	sympathy-repeated	neighbour	grounded
+bitter-dried-mung	least	churchyard	eulogy-started	family	elevated
+sour-fermented-black	most	kitchen	statements-requested	family	grounded
+sour-fermented-black	high	car	mat-lifted	stranger	grounded
+sour-fermented-black	mid	care home	revisit-unannounced	official	elevated
+sour-fermented-black	low	cafe	theory-dismissed	friend	grounded
+sour-fermented-black	least	factory	shift-taken	friend	elevated
+spicy-smoked-green	most	video call	godparent-declined	friend	grounded
+spicy-smoked-green	high	depot	agency-kept	official	grounded
+spicy-smoked-green	mid	fairground	fair-followed	stranger	elevated
+spicy-smoked-green	low	sports club	season-committed	friend	grounded
+spicy-smoked-green	least	allotment	plot-signed	official	elevated
+sweet-fried-chickpea	most	snooker hall	voice-repeated	friend	grounded
+sweet-fried-chickpea	high	caravan	game-started	family	grounded
+sweet-fried-chickpea	mid	letter	daft-version	family	elevated
+sweet-fried-chickpea	low	canteen	story-corrected	colleague	grounded
+sweet-fried-chickpea	least	rehearsal room	prompt-requested	group	elevated
+bitter-smoked-navy	most	wedding	row-declined	family	elevated
+bitter-smoked-navy	high	train	aisle-taken	friend	grounded
+bitter-smoked-navy	mid	alley	back-rechecked	neighbour	grounded
+bitter-smoked-navy	low	court	read-deferred	group	elevated
+bitter-smoked-navy	least	living room	time-missed	friend	grounded
+bitter-dried-adzuki	most	post office	list-posted	family	elevated
+bitter-dried-adzuki	high	bookshop	number-held	friend	grounded
+bitter-dried-adzuki	mid	theatre	seat-unfilled	alone	grounded
+bitter-dried-adzuki	low	registry office	witness-grabbed	stranger	elevated
+bitter-dried-adzuki	least	gig	room-invited	group	grounded
+sour-roasted-chickpea	most	hotel	pitch-accepted	friend	elevated
+sour-roasted-chickpea	high	church	service-attended	family	grounded
+sour-roasted-chickpea	mid	evening class	method-trialled	official	grounded
+sour-roasted-chickpea	low	police station	exception-made	family	elevated
+sour-roasted-chickpea	least	doorstep	quote-passed	stranger	grounded
+spicy-fried-cannellini	most	airport	birthday-missed	family	elevated
+spicy-fried-cannellini	high	study room	day-spent	friend	grounded
+spicy-fried-cannellini	mid	club	night-cut	friend	grounded
+spicy-fried-cannellini	low	nursery	promotion-passed	official	elevated
+spicy-fried-cannellini	least	canal	plan-unmade	family	grounded
+sweet-fermented-butter	most	tattoo studio	joke-inked	friend	elevated
+sweet-fermented-butter	high	waiting room	commentary-started	family	grounded
+sweet-fermented-butter	mid	shed	face-painted	friend	grounded
+sweet-fermented-butter	low	professional kitchen	messing-stopped	group	elevated
+sweet-fermented-butter	least	coach	radio-raised	group	grounded
+umami-boiled-kidney	most	gym	weight-run	alone	grounded
+umami-boiled-kidney	high	high street	tempo-held	group	elevated
+umami-boiled-kidney	mid	shop	takings-written	alone	grounded
+umami-boiled-kidney	low	library	desk-given	friend	grounded
+umami-boiled-kidney	least	expedition	rota-dodged	group	elevated
+umami-fried-navy	most	hills	search-directed	group	grounded
+umami-fried-navy	high	boat	harbour-refused	group	elevated
+umami-fried-navy	mid	hospital	discharge-blocked	family	grounded
+umami-fried-navy	low	repair shop	verdict-withheld	friend	grounded
+umami-fried-navy	least	solicitors	estate-unadvised	family	elevated
+sour-dried-adzuki	most	bedroom	colour-queried	partner	grounded
+sour-dried-adzuki	high	funeral	eulogy-honest	family	elevated
+sour-dried-adzuki	mid	arcade	bargain-noted	friend	grounded
+sour-dried-adzuki	low	market	jars-bought	neighbour	grounded
+sour-dried-adzuki	least	stage	performance-lauded	friend	elevated
+spicy-roasted-black	most	bridge	march-turned	group	grounded
+spicy-roasted-black	high	school	hand-raised	group	elevated
+spicy-roasted-black	mid	intercom	hatch-gathered	stranger	grounded
+spicy-roasted-black	low	warehouse	empties-cleared	colleague	grounded
+spicy-roasted-black	least	building site	pairing-declined	stranger	elevated
+sweet-fermented-fava	most	station	buses-imagined	alone	grounded
+sweet-fermented-fava	high	river	culvert-opened	group	elevated
+sweet-fermented-fava	mid	swimming pool	quals-funded	group	grounded
+sweet-fermented-fava	low	shelter	winter-filled	official	grounded
+sweet-fermented-fava	least	zoo	cafe-voted	official	elevated
+bitter-fried-kidney	most	rehearsal room	licence-refused	group	elevated
+bitter-fried-kidney	high	football ground	selection-withheld	child	grounded
+bitter-fried-kidney	mid	planetarium	script-refused	official	elevated
+bitter-fried-kidney	low	pub	answer-allowed	group	grounded
+bitter-fried-kidney	least	campsite	pitch-conceded	friend	grounded
+bitter-roasted-cannellini	most	restaurant	booking-moved	official	elevated
+bitter-roasted-cannellini	high	charity shop	donation-dressed	colleague	grounded
+bitter-roasted-cannellini	mid	cemetery	lettering-chosen	family	elevated
+bitter-roasted-cannellini	low	motorway services	detour-declined	friend	grounded
+bitter-roasted-cannellini	least	beach	spread-unfussed	friend	grounded
+sour-boiled-butter	most	churchyard	dying-described	friend	elevated
+sour-boiled-butter	high	music lesson	ability-stated	stranger	grounded
+sour-boiled-butter	mid	blood donor centre	screening-answered	official	elevated
+sour-boiled-butter	low	cafe	verdict-sidestepped	friend	grounded
+sour-boiled-butter	least	care home	husband-expected	neighbour	grounded
+spicy-fermented-adzuki	most	radio	slot-spent	official	elevated
+spicy-fermented-adzuki	high	record shop	record-expounded	friend	grounded
+spicy-fermented-adzuki	mid	observatory	view-relayed	stranger	elevated
+spicy-fermented-adzuki	low	reservoir	awe-understated	friend	grounded
+spicy-fermented-adzuki	least	ferry	sighting-unmentioned	family	grounded
+sweet-smoked-black	most	hospice	dream-obeyed	family	elevated
+sweet-smoked-black	high	park	choice-divined	friend	grounded
+sweet-smoked-black	mid	ghost walk	cold-noted	child	elevated
+sweet-smoked-black	low	house	charm-shelved	family	grounded
+sweet-smoked-black	least	taxi	clock-repaired	friend	grounded
+bitter-smoked-chickpea	most	caravan	caravan-kept	family	grounded
+bitter-smoked-chickpea	high	airport	application-unposted	alone	elevated
+bitter-smoked-chickpea	mid	evening class	class-repeated	official	grounded
+bitter-smoked-chickpea	low	animal sanctuary	morning-taken	official	elevated
+bitter-smoked-chickpea	least	kitchen	room-surrendered	partner	grounded
+bitter-boiled-cannellini	most	bike shop	deliberation-prolonged	stranger	grounded
+bitter-boiled-cannellini	high	citizens advice	fund-allocated	group	elevated
+bitter-boiled-cannellini	mid	dentist	treatment-weighed	official	grounded
+bitter-boiled-cannellini	low	nuclear bunker	volunteering-snap	group	elevated
+bitter-boiled-cannellini	least	betting shop	bet-placed	friend	grounded
+sour-fried-kidney	most	waiting room	claim-pressed	stranger	grounded
+sour-fried-kidney	high	council offices	paragraph-demanded	official	elevated
+sour-fried-kidney	mid	canteen	rumour-tested	colleague	grounded
+sour-fried-kidney	low	museum	date-unquestioned	official	elevated
+sour-fried-kidney	least	party	story-unchallenged	friend	grounded
+spicy-roasted-pinto	most	street	bucket-upstaged	friend	grounded
+spicy-roasted-pinto	high	wedding	outfit-worn	friend	elevated
+spicy-roasted-pinto	mid	holiday let	costumes-laid	group	grounded
+spicy-roasted-pinto	low	magic show	volunteer-declined	stranger	elevated
+spicy-roasted-pinto	least	cinema	birthday-unmarked	alone	grounded
+sweet-dried-black	most	living room	rota-refused	friend	grounded
+sweet-dried-black	high	church	song-remembered	family	elevated
+sweet-dried-black	mid	bus	detail-retained	friend	grounded
+sweet-dried-black	low	catacombs	acquaintance-closed	stranger	elevated
+sweet-dried-black	least	loft	box-discarded	alone	grounded
+bitter-fried-black	most	house	receipt-demanded	housemate	grounded
+bitter-fried-black	high	animal shelter	history-probed	official	elevated
+bitter-fried-black	mid	record shop	amp-tested	stranger	grounded
+bitter-fried-black	low	post office	countersign-given	neighbour	grounded
+bitter-fried-black	least	clairvoyant	name-volunteered	stranger	elevated
+bitter-dried-navy	most	train	grudge-unmoved	family	grounded
+bitter-dried-navy	high	tribunal	account-repeated	official	elevated
+bitter-dried-navy	mid	video call	answer-unchanged	family	grounded
+bitter-dried-navy	low	pub	curfew-slipped	friend	grounded
+bitter-dried-navy	least	hedge maze	turns-reversed	group	elevated
+sour-roasted-mung	most	sea	swim-interrupted	family	grounded
+sour-roasted-mung	high	coach	departure-questioned	friend	elevated
+sour-roasted-mung	mid	bus stop	sickness-pressed	colleague	grounded
+sour-roasted-mung	low	cafe	opening-passed	family	grounded
+sour-roasted-mung	least	hostel	step-left	stranger	elevated
+spicy-smoked-butter	most	restaurant	order-unheard	group	grounded
+spicy-smoked-butter	high	football ground	vote-undertoned	group	elevated
+spicy-smoked-butter	mid	pharmacy counter	counter-lowered	official	grounded
+spicy-smoked-butter	low	bowling alley	lane-shouted	friend	grounded
+spicy-smoked-butter	least	radio	slot-amplified	official	elevated
+sweet-fermented-chickpea	most	street	quarrel-inherited	friend	grounded
+sweet-fermented-chickpea	high	vets	decision-voiced	friend	elevated
+sweet-fermented-chickpea	mid	school	line-mouthed	child	grounded
+sweet-fermented-chickpea	low	park	retelling-avoided	housemate	grounded
+sweet-fermented-chickpea	least	hospice	round-continued	stranger	elevated
+umami-fermented-black	most	bakery	motive-unsettled	friend	grounded
+umami-fermented-black	high	swimming pool	reason-admitted	friend	grounded
+umami-fermented-black	mid	anatomy museum	visit-explained	stranger	elevated
+umami-fermented-black	low	food bank	reason-declined	official	grounded
+umami-fermented-black	least	clinic	cause-refused	official	elevated
+umami-dried-butter	most	doorstep	claim-abandoned	housemate	grounded
+umami-dried-butter	high	high street	kit-lost	group	grounded
+umami-dried-butter	mid	prison	jab-unreturned	family	elevated
+umami-dried-butter	low	chemist	trainee-snapped	official	grounded
+umami-dried-butter	least	mine tour	interruption-snapped	stranger	elevated
+sour-smoked-kidney	most	station	prophecy-delivered	family	grounded
+sour-smoked-kidney	high	forest	partner-named	friend	grounded
+sour-smoked-kidney	mid	tattoo studio	name-questioned	friend	elevated
+sour-smoked-kidney	low	running track	trials-softened	child	grounded
+sour-smoked-kidney	least	respite home	sale-withheld	family	elevated
+spicy-roasted-cannellini	most	warehouse	saturdays-asked	group	grounded
+spicy-roasted-cannellini	high	hospital	withdrawal-reversed	friend	grounded
+spicy-roasted-cannellini	mid	auction house	bidding-revived	group	elevated
+spicy-roasted-cannellini	low	phone	pitch-declined	friend	grounded
+spicy-roasted-cannellini	least	youth club	notice-pinned	child	elevated
+sweet-fried-mung	most	petrol station	tank-paid	stranger	grounded
+sweet-fried-mung	high	takeaway	days-given	friend	grounded
+sweet-fried-mung	mid	graduation	ticket-surrendered	friend	elevated
+sweet-fried-mung	low	stairwell	sale-held	neighbour	grounded
+sweet-fried-mung	least	farm	tally-kept	group	elevated
+umami-fried-green	most	sports club	record-cited	group	elevated
+umami-fried-green	high	passport office	letter-read	stranger	grounded
+umami-fried-green	mid	careers fair	figures-given	child	grounded
+umami-fried-green	low	dojo	belt-taken	official	elevated
+umami-fried-green	least	barbecue	assessment-skipped	friend	grounded
+umami-dried-mung	most	court	surety-offered	family	elevated
+umami-dried-mung	high	orchard	row-started	friend	grounded
+umami-dried-mung	mid	market	stall-covered	stranger	grounded
+umami-dried-mung	low	float tank	overrun-taken	official	elevated
+umami-dried-mung	least	car	evening-taken	friend	grounded
+sour-fermented-kidney	most	site office	signature-withheld	colleague	elevated
+sour-fermented-kidney	high	funeral	flat-cleared	family	grounded
+sour-fermented-kidney	mid	climbing wall	descent-advised	friend	grounded
+sour-fermented-kidney	low	seance	loss-denied	stranger	elevated
+sour-fermented-kidney	least	lido	warning-unheeded	friend	grounded
+spicy-smoked-cannellini	most	hotel	photograph-included	friend	elevated
+spicy-smoked-cannellini	high	underpass	word-painted	group	grounded
+spicy-smoked-cannellini	mid	lift	count-posted	neighbour	grounded
+spicy-smoked-cannellini	low	show cave	darkness-described	official	elevated
+spicy-smoked-cannellini	least	gallery	piece-swapped	group	grounded
+sweet-boiled-edamame	most	library	rota-confirmed	official	elevated
+sweet-boiled-edamame	high	supermarket	order-rebuilt	group	grounded
+sweet-boiled-edamame	mid	stairwell	morning-held	housemate	grounded
+sweet-boiled-edamame	low	aquarium	evening-dropped	friend	elevated
+sweet-boiled-edamame	least	food stall	morning-cancelled	friend	grounded
+bitter-fried-green	most	allotment	frost-ignored	alone	elevated
+bitter-fried-green	high	bike shop	trade-taken	stranger	grounded
+bitter-fried-green	mid	blood donor centre	donation-abandoned	official	elevated
+bitter-fried-green	low	living room	leave-doubled	official	grounded
+bitter-fried-green	least	driving lesson	stall-repeated	family	grounded
+bitter-boiled-chickpea	most	solicitors	share-surrendered	family	elevated
+bitter-boiled-chickpea	high	rehearsal room	pair-reconciled	group	grounded
+bitter-boiled-chickpea	mid	polling station	pitch-allocated	official	elevated
+bitter-boiled-chickpea	low	canteen	joke-challenged	colleague	grounded
+bitter-boiled-chickpea	least	snooker hall	mediation-refused	friend	grounded
+sour-fermented-mung	most	garden	symptom-overruled	family	elevated
+sour-fermented-mung	high	doctors	list-compiled	family	grounded
+sour-fermented-mung	mid	theatre	cue-queried	official	elevated
+sour-fermented-mung	low	laundrette	tiredness-accepted	friend	grounded
+sour-fermented-mung	least	garden centre	cancellation-rebooked	friend	grounded
+spicy-roasted-butter	most	holiday let	flight-forfeited	friend	elevated
+spicy-roasted-butter	high	concert hall	seats-upgraded	alone	grounded
+spicy-roasted-butter	mid	hot air balloon	ascent-extended	group	elevated
+spicy-roasted-butter	low	station	night-declined	group	grounded
+spicy-roasted-butter	least	christening	toast-watered	family	grounded
+sweet-smoked-kidney	most	beach	post-refused	official	elevated
+sweet-smoked-kidney	high	ice rink	barrier-shared	partner	grounded
+sweet-smoked-kidney	mid	factory	companion-watched	partner	elevated
+sweet-smoked-kidney	low	hills	faults-listed	friend	grounded
+sweet-smoked-kidney	least	campsite	time-corrected	group	grounded
+umami-fried-edamame	most	professional kitchen	prove-requested	stranger	grounded
+umami-fried-edamame	high	mine tour	descent-extended	official	elevated
+umami-fried-edamame	mid	swimming pool	stroke-corrected	stranger	grounded
+umami-fried-edamame	low	animal sanctuary	barn-declined	friend	elevated
+umami-fried-edamame	least	bus	place-refused	friend	grounded
+umami-dried-kidney	most	police station	vouch-given	official	grounded
+umami-dried-kidney	high	loading bay	gate-held	group	elevated
+umami-dried-kidney	mid	pub	absent-defended	friend	grounded
+umami-dried-kidney	low	ghost walk	trick-disclosed	stranger	elevated
+umami-dried-kidney	least	wedding	partnership-dropped	stranger	grounded
+sour-boiled-green	most	restaurant	closure-announced	group	grounded
+sour-boiled-green	high	church	eulogy-corrected	family	elevated
+sour-boiled-green	mid	building site	crack-raised	stranger	grounded
+sour-boiled-green	low	taxidermist	licence-withheld	group	elevated
+sour-boiled-green	least	train	journey-unspoken	friend	grounded
+sweet-roasted-cannellini	most	airbnb	place-laid	stranger	grounded
+sweet-roasted-cannellini	high	ferry	crossing-adopted	group	elevated
+sweet-roasted-cannellini	mid	warehouse	custom-explained	colleague	grounded
+sweet-roasted-cannellini	low	care home	chair-avoided	stranger	elevated
+sweet-roasted-cannellini	least	intercom	buzzer-refused	friend	grounded
+umami-boiled-adzuki	most	pier	reciprocation-demanded	friend	grounded
+umami-boiled-adzuki	high	house	childhood-named	family	grounded
+umami-boiled-adzuki	mid	radio	fondness-broadcast	friend	elevated
+umami-boiled-adzuki	low	gym	embrace-declined	colleague	grounded
+umami-boiled-adzuki	least	observatory	endearment-unanswered	partner	elevated
+umami-fermented-butter	most	letter	reply-unsent	family	grounded
+umami-fermented-butter	high	cafe	sponsorship-weighed	group	grounded
+umami-fermented-butter	mid	camera obscura	turn-awaited	friend	elevated
+umami-fermented-butter	low	post office	insurance-declined	official	grounded
+umami-fermented-butter	least	seance	name-supplied	stranger	elevated
+sour-fried-chickpea	most	cinema	shift-relayed	friend	grounded
+sour-fried-chickpea	high	gig	kit-borrowed	friend	grounded
+sour-fried-chickpea	mid	registry office	witness-recruited	official	elevated
+sour-fried-chickpea	low	bakery	channel-followed	colleague	grounded
+sour-fried-chickpea	least	anatomy museum	order-insisted	official	elevated
+spicy-dried-cannellini	most	hardware shop	measurement-defended	friend	grounded
+spicy-dried-cannellini	high	loft	photograph-identified	family	grounded
+spicy-dried-cannellini	mid	tattoo studio	date-supplied	friend	elevated
+spicy-dried-cannellini	low	taxi	route-switched	partner	grounded
+spicy-dried-cannellini	least	auction house	lot-swapped	family	elevated
+sweet-roasted-mung	most	kitchen	call-taken	family	grounded
+sweet-roasted-mung	high	hotel	route-walked	friend	grounded
+sweet-roasted-mung	mid	drop-in centre	tea-delivered	stranger	elevated
+sweet-roasted-mung	low	forest	tape-handed	friend	grounded
+sweet-roasted-mung	least	lido	hut-indicated	group	elevated

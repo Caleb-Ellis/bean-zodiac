@@ -11,6 +11,7 @@ import {
   FORTUNE_REPEAT_WINDOW,
   getDailyRitual,
   getDailyText,
+  getFacetAction,
   getFacetTitle,
   getFortuneText,
   ritualKey,
@@ -95,6 +96,7 @@ export interface DailyFortune {
   question: string | null;
   fortuneTitle: string | null;
   fortuneText: string | null;
+  fortuneAction: string | null;
   answerText: string | null;
   score: number;
   scored: boolean;
@@ -309,6 +311,10 @@ export function useDailyFortune(
   const fortuneText = fortuneZodiac
     ? getFortuneText(fortuneZodiac, qualityId)
     : null;
+  const fortuneAction =
+    variant === "facet" && fortuneZodiac
+      ? getFacetAction(fortuneZodiac, qualityId)
+      : null;
   const question =
     variant === "question" ? (fortuneZodiac?.question ?? null) : null;
 
@@ -323,6 +329,7 @@ export function useDailyFortune(
     question,
     fortuneTitle,
     fortuneText,
+    fortuneAction,
     answerText,
     score,
     scored,

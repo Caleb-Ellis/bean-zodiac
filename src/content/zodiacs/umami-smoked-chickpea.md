@@ -18,32 +18,37 @@ antiTriple: sour-roasted-pinto
 antiBeans: [fava, navy]
 antiForm: fermented
 seasonalFortune: "A season of sweet paprika and no explanation — the smoke says it without saying it."
-fortuneMost: Koi come up to the hand and open their mouths and say nothing at all.
-fortuneHigh: You catch the weather of a room shifting an hour before anyone names the sky.
-fortuneMid: Setting a plate down is an answer.
-fortuneLow: Say the obvious thing out loud; they cannot hear the other.
-fortuneLeast: Three clear lines, no garnish, like a clean receipt.
+fortuneMost: Koi come to the hand, open their mouths and say nothing.
+fortuneHigh: Set the plate down and let that be the answer.
+fortuneMid: Half of it gets said without words anyway.
+fortuneLow: State the obvious out loud.
+fortuneLeast: Three clear lines and no garnish.
 facetMostTitle: Lost for Beans
-facetMost: A letter is on the table and it says what you both thought it would say. You open your mouth twice and nothing comes out. You stand with a hand on the back of the chair, and in the end she says the words for you.
+facetMost: Your friend is getting the train back to the man who reads her phone and leaves her waiting outside pubs. She's looking at you on the platform and you both know there's a sentence you could say. You carry her bag up and put it on the rack.
+facetMostAction: You carry her bag up and put it on the rack.
 facetHighTitle: Beanence Is Golden
-facetHigh: Forty years married, and you get the whole of what you mean across by getting up and putting the kettle on for her.
+facetHigh: You and a friend haven't spoken in eight months, over something neither of you has ever put into words, and now you're both at her sister's graduation, with forty other people and a table of warm wine. You sit down in the empty chair next to her and fill her glass.
+facetHighAction: You sit down in the empty chair next to her and fill her glass.
 facetMidTitle: It Goes Without Beaning
-facetMid: Standing where the valley opens out below the two of you, you say nothing at all and neither does he. That turns out to be exactly the right amount.
-facetLowTitle: Beantalk Talk
-facetLow: Everybody up on the top has gone quiet in front of the view, which is doing the job on its own. You start explaining to them what it is they can see.
-facetLeastTitle: Blah Blah Bean
-facetLeast: You get through to the radio phone-in at last and there are ninety seconds going. You use every one of them, and you were still going when they cut you off.
-question: Your friend has had bad news and you're sat with them. What happens?
-answerMost: Nothing comes out at all
-answerHigh: Not much said, and that's right
-answerMid: A few words, then quiet
-answerLow: I keep the talking going
-answerLeast: I fill every gap there is
-rorschachMost: a sealed sack
-rorschachHigh: a stone with one knob
-rorschachMid: a sleeping hound
-rorschachLow: a corked bottle
-rorschachLeast: a torn bellows, wheezing
+facetMid: You and your housemate had a row about money an hour ago and neither of you has come out since. You go through, take his washing out of the machine, and hang it on the airer.
+facetMidAction: You go through, take his washing out of the machine, and hang it on the airer.
+facetLowTitle: Bean Bean
+facetLow: At the bus stop with your partner, neither of you has said anything for a few minutes and neither of you minds. You tell her again about the man at work and the bins.
+facetLowAction: You tell her again about the man at work and the bins.
+facetLeastTitle: Bean Bean Bean
+facetLeast: You're at a long table at your friend's wedding and the man opposite tells a story about his landlord that gets the whole table. You take the funniest part, tell it again in your own words, and explain to them why it works.
+facetLeastAction: You take the funniest part, tell it again in your own words, and explain to them why it works.
+question: Your friend has just found out he didn't get the house he'd set his heart on, and you're sat in his kitchen. You...
+answerMost: stay in his kitchen and never find the thing that needed saying
+answerHigh: sit with him and say almost nothing
+answerMid: say one thing, then let it be quiet
+answerLow: go through what he could do next
+answerLeast: talk the house round until he's had enough
+rorschachMost: a taped mouth
+rorschachHigh: a river pebble
+rorschachMid: a sealed envelope
+rorschachLow: a doorbell
+rorschachLeast: a megaphone
 ---
 
 Hickory Chickpeas are the Bean Zodiac's most wordless. They sit with you through the worst hour and say almost nothing, and it is the right thing. Sometimes what needed saying doesn't get said. Talking a situation through at length isn't their way.

@@ -23,14 +23,19 @@ fortuneLow: Two people want different versions of you; one version isn't you at 
 fortuneLeast: Hold steady against the current.
 facetMostTitle: Invasion of the Bean Snatchers
 facetMost: You are dropped into a game with rules that were half-explained and a deck you don't recognise. By the third hand you're feeling good enough to put money on it.
+facetMostAction: By the third hand you're feeling good enough to put money on it.
 facetHighTitle: Beanlig
 facetHigh: A whole crowd is chanting something you've never heard. Your mouth's already shaping the words, picking them up a half-beat behind everyone else.
+facetHighAction: Your mouth's already shaping the words, picking them up a half-beat behind everyone else.
 facetMidTitle: Go With the Bean
 facetMid: Ten minutes till a slower ferry, the one you wanted having just been cancelled. Your mind's already stretched out comfortably across the longer crossing.
+facetMidAction: Your mind's already stretched out comfortably across the longer crossing.
 facetLowTitle: Stuck in the Middle with Bean
 facetLow: Someone suggests a quicker way to do a chore you don't mind doing. It makes good sense. You keep to your own way regardless.
+facetLowAction: You keep to your own way regardless.
 facetLeastTitle: Hard-Headed Bean
 facetLeast: Six months somewhere new, and your old rhythms haven't changed — your hours, your habits, the small ways you do things. The place stays a bit foreign around you, and you stay wholly yourself in it.
+facetLeastAction: The place stays a bit foreign around you, and you stay wholly yourself in it.
 question: You'd planned a quiet date night in a town you've never seen, and walked straight into its festival — big crowds, every street roped off, a brass band a block away. You...
 answerMost: follow the brass band and let the night rewrite itself
 answerHigh: thread a new route through the crowd and call the detour an improvement

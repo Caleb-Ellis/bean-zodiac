@@ -23,14 +23,19 @@ fortuneLow: The rook enjoys the company of others.
 fortuneLeast: The path has no end, it only branches into branches into branches.
 facetMostTitle: Bean It
 facetMost: The taxi driver is friendly, and very talkative. From you he gets a "yeah," a "nice one," and then silence for the rest of the trip.
+facetMostAction: From you he gets a "yeah," a "nice one," and then silence for the rest of the trip.
 facetHighTitle: The Old Bean and the Sea
 facetHigh: Having just landed at the airport, the customs officer asks the purpose of your visit. You reply with a single word.
+facetHighAction: You reply with a single word.
 facetMidTitle: True Bean Grit
 facetMid: Everyone's retelling the trip in loving detail. Your version is short and sweet — the highlight, the lowlight and the most interesting thing.
+facetMidAction: Your version is short and sweet — the highlight, the lowlight and the most interesting thing.
 facetLowTitle: Gilmore Beans
-facetLow: A stranger stops you for directions to the station. A pointed finger would do, but you walk them all the way there in words, doubling back to be sure it landed.
+facetLow: A stranger stops you for directions to the station. A pointed finger would do. You walk them all the way there in words, doubling back to be sure it landed.
+facetLowAction: You walk them all the way there in words, doubling back to be sure it landed.
 facetLeastTitle: War and Beans
 facetLeast: A genie grants one wish and asks you to name it. Before you do, you spend a great deal of time discussing the parameters.
+facetLeastAction: Before you do, you spend a great deal of time discussing the parameters.
 question: Just past the finish line of their first marathon, your friend catches their breath and asks how they did. Their time was actually pretty good. You...
 answerMost: say "pretty good"
 answerHigh: tell them their time and say "congratulations"

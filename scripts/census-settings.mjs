@@ -12,7 +12,11 @@ import matter from "gray-matter";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = resolve(__dirname, "..");
-const FIELDS = ["facetMost", "facetHigh", "facetMid", "facetLow", "facetLeast", "question"];
+const ALL_FIELDS = ["facetMost", "facetHigh", "facetMid", "facetLow", "facetLeast", "question"];
+// --field=question censuses the question settings on their own, so a question
+// pass can see its own clustering without the facets drowning it out.
+const fieldArg = process.argv.find((a) => a.startsWith("--field="));
+const FIELDS = fieldArg ? fieldArg.slice("--field=".length).split(",") : ALL_FIELDS;
 
 const SETTINGS = {
   // — domestic & social —
@@ -228,7 +232,7 @@ const rows = Object.entries(SETTINGS)
   .map(([name, re]) => [name, (blob.match(new RegExp(re.source, "g")) || []).length])
   .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
 
-const filter = process.argv[2];
+const filter = process.argv.slice(2).find((a) => a === "--unused" || a === "--used");
 const shown = filter === "--unused" ? rows.filter(([, n]) => n === 0)
   : filter === "--used" ? rows.filter(([, n]) => n > 0)
   : rows;

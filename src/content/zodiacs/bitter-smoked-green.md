@@ -22,15 +22,20 @@ fortuneMid: Knowing a thing and explaining it are two very different things.
 fortuneLow: Most of it is just the house settling.
 fortuneLeast: The aye-aye is only listening for grubs.
 facetMostTitle: Get Bean
-facetMost: Somebody you have met twice is telling you about their week, and you hear yourself ask how their father is getting on in the hospital. They have not mentioned a father, or a hospital. They have gone very quiet, and you ask whether he is any better.
+facetMost: Somebody you have met twice is telling you about their week, and you hear yourself ask how their father is getting on in the hospital. They have not mentioned a father, or a hospital. They have gone very quiet. You ask whether he is any better.
+facetMostAction: You ask whether he is any better.
 facetHighTitle: Unbeany Valley
-facetHigh: Halfway through the washing up the house starts to feel the way it did the two other times bad news came, years apart. You dry your hands, put your coat on, and are standing at the door with the keys when the phone goes.
+facetHigh: Halfway through the washing up the house starts to feel the way it did the two other times bad news came, years apart. You dry your hands, put your coat on, and stand at the door with the keys.
+facetHighAction: You dry your hands, put your coat on, and stand at the door with the keys.
 facetMidTitle: The Other Beans
 facetMid: Round a table at your brother's, everyone is remembering the house you grew up in, and you describe the corridor between the kitchen and the back room — how cold it was, what it smelled of. Your brother says there was never a corridor there. You describe it again, in more detail.
+facetMidAction: You describe it again, in more detail.
 facetLowTitle: The Beanice
 facetLow: A light has been on in the empty house across the road for a week, and the woman downstairs has decided somebody is living in there. You tell her it's nothing, and offer to ring the letting agent in the morning.
+facetLowAction: You tell her it's nothing, and offer to ring the letting agent in the morning.
 facetLeastTitle: 9 to Bean
 facetLeast: At your new place, your dog will not go into the back room, and has not since you moved in two weeks ago. Everyone who visits has a theory about why. You believe it's definitely nothing.
+facetLeastAction: You believe it's definitely nothing.
 question: Second viewing of the house you're about to put an offer on. The back bedroom is many degrees colder than the rest of it and the door won't stay open. You...
 answerMost: tell the agent what horrible thing you think happened in this room
 answerHigh: pull out of the sale completely, vibes are off

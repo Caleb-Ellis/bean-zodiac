@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sweet-fried-chickpea
-lastUpdated: 
+lastUpdated:
 bean: chickpea
 flavour: sweet
 form: fried
@@ -17,32 +17,37 @@ antiTriple: bitter-boiled-cannellini
 antiBeans: [black, navy]
 antiForm: fermented
 seasonalFortune: "A season of cinnamon sugar and easy laughter — the fryer is doing bits again."
-fortuneMost: A kookaburra laughs at first light whether or not anything is funny.
-fortuneHigh: The joke at your own expense, first.
+fortuneMost: A kookaburra laughs at first light whether anything is funny or not.
+fortuneHigh: Make the joke at your own expense first.
 fortuneMid: Lighten the wording, not the substance.
 fortuneLow: Drop the bit.
-fortuneLeast: The plain unfunny sentence is the one that will be needed.
-facetMostTitle: Send in the Beanclowns
-facetMost: That train has been stopped forty minutes now and you have the whole carriage going. Then you keep it going. By the second hour two people have moved down the train, and you have followed them with the bit about the trolley.
-facetHighTitle: Funny Beangirl
-facetHigh: That interview went wrong somewhere around the second question, and you say the one thing that gets the whole panel laughing.
-facetMidTitle: The Laugh Beantrack
-facetMid: Given a class that has stopped listening to a word of it, you get them back with something daft rather than something loud, and it holds to the bell.
-facetLowTitle: The Beanjoker
-facetLow: Somebody at the graveside says the thing his father would have said and the whole row laughs at it. You cannot find it in you anywhere, and you do try.
-facetLeastTitle: Nothing to Beanlaugh About
-facetLeast: The ward is grim and the man in the next bed has been trying jokes on you all morning. You tell him you are not in the mood for it.
-question: Someone's just made a joke that missed. What happens to the silence?
-answerMost: I fill it with three more jokes
-answerHigh: I say something that saves it
-answerMid: I laugh anyway, to be kind
-answerLow: I let it sit and move on
-answerLeast: Nothing — it wasn't funny
-rorschachMost: a pie, mid-throw
-rorschachHigh: a bun scattering crumbs
-rorschachMid: a boulder and grit
-rorschachLow: a damp sponge
-rorschachLeast: a closed fist
+fortuneLeast: The plain unfunny sentence is the one that's needed.
+facetMostTitle: Send in the Beans
+facetMost: He's started three times tonight on why he's been signed off since March, and each time you've done the impression of his boss and he's laughed and let it go. He's stopped trying now. You do the impression again.
+facetMostAction: You do the impression again.
+facetHighTitle: Beany Girl
+facetHigh: It's day three, the awning's flooded and the two kids have been in since ten; your sister has already said she wants to pack up and go home, and nobody has said anything for half an hour. You start the game about everyone's worst ever holiday.
+facetHighAction: You start the game about everyone's worst ever holiday.
+facetMidTitle: The Bean Track
+facetMid: Your brother's had a baby and everyone's writing her a letter for the box that gets opened when she's eighteen. The four you've read so far are all beautiful, and it's sealed tonight. You write the daft one.
+facetMidAction: You write the daft one.
+facetLowTitle: The Beanoker
+facetLow: They're telling the one about the day you ordered ninety kilos of onions instead of nine, and it isn't unkind — the table's laughing and you come out of it fine. You go through what actually happened.
+facetLowAction: You go through what actually happened.
+facetLeastTitle: Nothing to Bean About
+facetLeast: Your friend's dragged you to the panto rehearsal and they're all larking about between the blocking, except the woman following the script with a pencil. Somebody has put a copy in your hand and they want you to read the dame while the fella playing her is off. You ask if you can follow the script instead.
+facetLeastAction: You ask if you can follow the script instead.
+question: Your side lost the cup final this afternoon and you're all sat in the changing room. You...
+answerMost: keep it a joke until somebody tells you to stop
+answerHigh: have the room laughing about the final before anybody's changed
+answerMid: get one laugh, then let it be quiet
+answerLow: say nothing much and get changed
+answerLeast: go through where the final was lost, one part at a time
+rorschachMost: a squirting flower
+rorschachHigh: a creased face
+rorschachMid: a banana skin
+rorschachLow: folded arms
+rorschachLeast: an empty stage
 ---
 
 Caramelised Chickpeas are the Bean Zodiac's most funny. Not one-liners — a whole evening comes out better for their being in it, and everyone leaves lighter. Sometimes it's all bit and nothing else. Being straight-faced for a serious hour costs them.

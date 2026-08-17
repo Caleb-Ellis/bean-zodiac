@@ -17,32 +17,37 @@ antiTriple: sweet-smoked-kidney
 antiBeans: [black, mung]
 antiForm: fermented
 seasonalFortune: "A season of black vinegar and no cushioning — the pan says it and moves on."
-fortuneMost: They got the whole truth, and had room for about half of it.
-fortuneHigh: "Take the ox's line: straight through, and stop when the row ends."
-fortuneMid: True and useful aren't the same thing.
-fortuneLow: Say the kind version once and see who relaxes.
-fortuneLeast: A kindness that isn't quite true still gets somebody through the evening.
-facetMostTitle: Beanrude Boy
-facetMost: She asks whether the dress makes her look older and you say yes. You say which part of it does it. You are still explaining about the neckline when her mother comes back in, and you carry on for her benefit too.
+fortuneMost: The whole truth is more than most people can take at once.
+fortuneHigh: Straight through, and stop when the row ends.
+fortuneMid: An ox pulls in one line and doesn't weave.
+fortuneLow: Say the kind version once.
+fortuneLeast: A kindness that isn't quite true still helps.
+facetMostTitle: Bean Boy
+facetMost: Your friend has spent a year and eleven thousand pounds on the van he is moving into, and the six of you are in the car park looking at it; he has given the flat up, and he asks what you think, and the other five have said it looks brilliant. You tell him he will be back in a flat by March, paying more than he is now.
+facetMostAction: You tell him he will be back in a flat by March, paying more than he is now.
 facetHighTitle: The Weakest Bean
-facetHigh: A candidate rings to ask why he did not get it, and most people in your position would give him the soft version. You tell him that he interviewed badly, and where.
+facetHigh: Your friend drew the lettering herself and the man doing the tattoo has stencilled the design onto her forearm; the needles are about ten minutes off. The A and the E are not the same height, and a tattoo does not come back off. She turns round and asks you straight out if the lettering is right. You tell her it is off and she will see it every day.
+facetHighAction: You tell her it is off and she will see it every day.
 facetMidTitle: Call a Bean a Bean
-facetMid: Asked how the driving is coming along, you say that the mirrors are still not being used, and that this is the whole of the problem, and always has been.
-facetLowTitle: Uriah Beanheep
-facetLow: Food is not good and your host is watching your face. You call it lovely and eat a decent amount.
-facetLeastTitle: Beating Around the Bean
-facetLeast: Somebody asks whether you mind them smoking in the car, and you mind very much. You tell them it is entirely up to them, open the window a little, and go quiet for the rest of the journey.
-question: Your friend asks whether the shirt suits him, and it really doesn't. You...
-answerMost: Say no, and say what's wrong with it
-answerHigh: Say no, plainly
-answerMid: Say the other one was better
-answerLow: Say it's fine and change the subject
-answerLeast: Say it looks great on him
-rorschachMost: a mallet mid-swing
-rorschachHigh: two fists, knuckles out
-rorschachMid: two boulders touching
-rorschachLow: a mitten and a thumb
-rorschachLeast: a mouthful of porridge
+facetMid: Your neighbour catches you on the stairs and asks whether the music from her flat has been coming through, because somebody has put a note under her door and she does not know who. You have been getting the bass most Thursdays and Sundays until about two. You tell her which nights and how late.
+facetMidAction: You tell her which nights and how late.
+facetLowTitle: Uriah Bean
+facetLow: Your sister's dog is on the table at the back and the vet has the x-ray up — the operation, which he puts at about one in three, or putting him to sleep this afternoon. One in three did not sound to you worth eleven hundred pounds. Outside she asks you what you would do. You tell her one in three is worth a go.
+facetLowAction: You tell her one in three is worth a go.
+facetLeastTitle: Beaning Around the Bush
+facetLeast: You have turned down four things since the spring and it is because you cannot stand her boyfriend, and walking back along the beach she asks straight out why you never come to anything now. You tell her the timing has been bad every time.
+facetLeastAction: You tell her the timing has been bad every time.
+question: Your friend asks whether the trousers work for her interview. They don't — too short, wrong colour — and the navy ones are on the bed behind her. What do you say?
+answerMost: too short, wrong colour, and what was she thinking
+answerHigh: too short, wrong colour, wear the navy
+answerMid: they don't work, and leave which part out of it
+answerLow: they're fine for most things, not for an interview
+answerLeast: the navy ones are nice as well
+rorschachMost: a fist on a table
+rorschachHigh: a hammer head
+rorschachMid: a cobblestone
+rorschachLow: a sugared pill
+rorschachLeast: a padded envelope
 ---
 
 Agrodolce Edamame are the Bean Zodiac's most blunt. They give you the number, the deadline and the problem in one breath, no cushioning anywhere. On a bad day it lands as contempt. Hedging a thing into something softer strikes them as a way of lying.

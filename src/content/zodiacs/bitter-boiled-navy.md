@@ -17,32 +17,37 @@ antiTriple: spicy-fermented-pinto
 antiBeans: [chickpea, fava]
 antiForm: smoked
 seasonalFortune: "A season of plain bay and straight measures. The pot does what was agreed, at the hour agreed."
-fortuneMost: Months on the ice with the egg on its feet, and the penguin would like it known.
-fortuneHigh: State the principle once, plainly, and stand there.
-fortuneMid: You were the one who did not take the easy version.
-fortuneLow: Let it go this once without a speech about letting it go.
-fortuneLeast: Walk in with no agenda and let the system sit in the car.
+fortuneMost: Be right about the principle often enough and nobody confides anything.
+fortuneHigh: An emperor penguin stands through the whole winter holding the egg.
+fortuneMid: The straight answer is worth the awkwardness.
+fortuneLow: Overlook this one.
+fortuneLeast: Everybody cuts a corner somewhere.
 facetMostTitle: Elmer Beantry
-facetMost: Cash in hand knocks two hundred off, says the plasterer, and he has the pad out. You tell him you would rather have the invoice.
+facetMost: A receptionist calls a name and a man two in front of you stands up, and it is not his name — his comes after; he has been sat there since before you came in, and you are fourth in the queue, so it makes no difference to you either way. You tell her the name she called was not his.
+facetMostAction: You tell her the name she called was not his.
 facetHighTitle: A Bean for All Seasons
-facetHigh: The self-scan has not picked up the second bag of coffee and you are through the barrier and out, and you go back to the desk and pay for it.
+facetHigh: At the split in the trail you went left instead of right and took about four hundred metres off, and nobody was marshalling that junction. You have come in eleventh, in a time you have been chasing for three years. The results go up on the board in ten minutes. You tell the woman doing the times that you cut the loop.
+facetHighAction: You tell the woman doing the times that you cut the loop.
 facetMidTitle: The Untouchabeans
-facetMid: You are keeping the scorer's book and your own side has had a run signalled that never happened. You put it right in the book, and you tell the other scorer why the total has moved.
-facetLowTitle: Goodbeanfellas
-facetLow: Volunteer hours are wanted on the grant form. The real number is soft at the edges. You put down the higher end of what could honestly be argued, and you do not flag it.
-facetLeastTitle: Ocean's Beanleven
-facetLeast: A job has come up that would be a week's work and a man wants it done without paperwork, and you have the tools in the van and nothing else booked. You agree the price at the kerb and start in the morning.
-question: A shop has undercharged you by twelve pounds and you're already home. You...
-answerMost: drive back and pay it, and mention it to the manager
-answerHigh: go in next time and settle it
-answerMid: pay it if you're passing anyway
-answerLow: call it their mistake and think no more
-answerLeast: count it as a good afternoon
-rorschachMost: a plumb line, dead true
-rorschachHigh: a mast standing straight
-rorschachMid: a stone set upright
-rorschachLow: a post leaning a little
-rorschachLeast: a fence gone all askew
+facetMid: The answer sheets have come back round and the woman marking them has given your team the point for the shipping forecast one, which you got wrong; there are four of you, two points off the top, with a round to go. You tell her the shipping forecast one was wrong.
+facetMidAction: You tell her the shipping forecast one was wrong.
+facetLowTitle: Beanfellas
+facetLow: You are on the door of the dome and the show is a minute off starting, after which the doors lock and the projector cannot be stopped. The notice says eight and over. A teacher has thirty-one children off a coach that came two hours, and one of them is six. You let all thirty-one in.
+facetLowAction: You let all thirty-one in.
+facetLeastTitle: Bean's Eleven
+facetLeast: You are suspended for three weeks after the last game and the team are a man short again. Your friend says to put his brother's name on the sheet, because nobody checks it and nobody would know. The league takes the points off if it comes out. You write his brother's name down.
+facetLeastAction: You write his brother's name down.
+question: You've been paid for two hours you didn't work, and nobody has noticed. You...
+answerMost: hand it back at the desk, loud enough for the room to learn from
+answerHigh: take the two hours off the next timesheet
+answerMid: mention it to the supervisor when you next see her
+answerLow: keep the two hours
+answerLeast: put an extra hour on while nobody's counting
+rorschachMost: a cathedral
+rorschachHigh: a standing stone
+rorschachMid: a poplar
+rorschachLow: a slumped scarecrow
+rorschachLeast: a landslide
 ---
 
 Infused Navy Beans are the Bean Zodiac's most upright. The change is returned, the extra hour comes off the timesheet, unannounced. Announced, a tone creeps in that makes honesty feel like a lesson. Bending a rule to spare somebody never occurs to them as available.

@@ -17,11 +17,11 @@ antiTriple: umami-boiled-butter
 antiBeans: [mung, black]
 antiForm: fermented
 seasonalFortune: "A season of stripped vines and sharpened work; the store keeps one skill and drops the rest."
-fortuneMost: Hanging dead still to do one thing, the kestrel has no second trick.
-fortuneHigh: One cut, then set the knife down.
-fortuneMid: Pick the target before the edge finds one.
-fortuneLow: Hand the fine tool to someone who'll use it roughly and watch without wincing.
-fortuneLeast: Keep the dull thing, the tool gone soft with use, the bean strung crooked on the line.
+fortuneMost: Sharpen one thing far enough and everything else goes blunt.
+fortuneHigh: A kestrel hunts one field and knows every inch of it.
+fortuneMid: The narrow skill still pays the rent.
+fortuneLow: Try something you're bad at.
+fortuneLeast: The beginner learns faster than the expert.
 facetMostTitle: Beanlash
 facetMost: Forty years on one bird and you can tell a peregrine from a mile off by how it holds a wing, and there is nothing else in that field you can name. Somebody asks about the warbler in the hedge and you have no idea.
 facetHighTitle: Karate Bean
@@ -32,17 +32,17 @@ facetLowTitle: Bad News Beans
 facetLow: That lathe has been in the shed a year and there is a project you meant to start. You have read the manual twice.
 facetLeastTitle: Beanginners
 facetLeast: One wall wants plastering and you have watched three videos about it. The first coat goes on like porridge, and the second goes on over the first, and a man has to come and take both of them off.
-question: You've thirty years as a joiner and the job in front of you needs plastering. You...
-answerMost: Do the joinery and refuse to touch the rest
-answerHigh: Get a plasterer in and do my part properly
-answerMid: Have a careful go at it
-answerLow: Watch a video and start
-answerLeast: Have a go and hope for the best
-rorschachMost: a blade ground too thin
-rorschachHigh: a chisel and its edge
-rorschachMid: a flat slate, one groove
-rorschachLow: a rounded pebble
-rorschachLeast: a stick snapped anyhow
+question: You've played the same tune on the fiddle for twenty years, better than anyone in the room. Somebody hands you a mandolin. You...
+answerMost: hand the mandolin straight back and play the tune again
+answerHigh: keep to the fiddle, and take the tune somewhere it hasn't been
+answerMid: have a go on the mandolin for one tune, then go back
+answerLow: spend most of the evening on the mandolin
+answerLeast: put the fiddle down and start again as a beginner
+rorschachMost: a flint arrowhead
+rorschachHigh: a well-used chisel
+rorschachMid: a stone doorstep
+rorschachLow: a beginner's pot
+rorschachLeast: a snapped stick
 ---
 
 Desiccated Green Beans are the Bean Zodiac's most honed. One thing, done for years, done better than nearly anyone, and no appetite for a hobby that would dilute it. Put them in front of something new, in company, and the expert refuses to be a beginner.

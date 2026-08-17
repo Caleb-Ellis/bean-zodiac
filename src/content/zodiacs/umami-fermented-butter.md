@@ -17,32 +17,37 @@ antiTriple: spicy-fried-kidney
 antiBeans: [cannellini, navy]
 antiForm: dried
 seasonalFortune: "A season of white miso butter and long pause — the crock considers before it moves."
-fortuneMost: One note, over and over in the dark, and the scops owl is still turning it.
-fortuneHigh: Turn it once more, then put it down for good.
-fortuneMid: Whole afternoons go into one old sentence while the present waits.
-fortuneLow: Notice the thought and let it move on through.
-fortuneLeast: The unopened book has never once ruined an evening.
+fortuneMost: Think about it long enough and the choice gets made elsewhere.
+fortuneHigh: Sleep on it.
+fortuneMid: A scops owl repeats one note until something answers.
+fortuneLow: Pick one and find out.
+fortuneLeast: The first answer is usually the same as the last.
 facetMostTitle: Bean in the Headlights
-facetMost: There are two copies of the same book, one a pound more and in better condition, and you stand in the shop with one in each hand for eleven minutes. A queue has formed behind you. You are weighing it properly and you are nowhere near done.
+facetMost: Your uncle left the flat to you and your cousin, and the solicitor wants an answer by the end of the week — sold, or one of you buys the other out. You have written four replies and posted none of them, because each time you get to the end there is something you have not thought about properly. You start the fifth.
+facetMostAction: You start the fifth.
 facetHighTitle: Wild Beanberries
-facetHigh: The wind has got up and the dinghy is still on the trailer at the slipway. You sit on the wall. You go through what could happen either way before you touch anything.
+facetHigh: Your friend runs the reading project at the library. A betting company has offered her eleven thousand — a year of the woman who does home visits, and their name on the leaflets and everything else the project prints. The other four said take it straight away. You sit outside with the letter for half an hour. You tell her to take it and put the name on the leaflets.
+facetHighAction: You tell her to take it and put the name on the leaflets.
 facetMidTitle: The Way We Bean
-facetMid: Two ways down off the hill on the signpost and one is longer, so you stop the car, work out which you actually want, and go.
-facetLowTitle: Shoot First, Ask Beans Later
-facetLow: The scissors come up and the hairdresser asks how much you want off. You say a couple of inches, because that is what came out.
-facetLeastTitle: Ready, Fire, Bean
-facetLeast: A working phone box, a pocket of change, and the number you are dialling belongs to the person you were told not to ring. You dial while you are still deciding whether to.
-question: Two job offers, both good, and you have to give an answer by the end of the week. You...
-answerMost: Turn it over until the window closes
-answerHigh: Think it right through before moving
-answerMid: Give it a good hour, then pick
-answerLow: Go with what feels right and move on
-answerLeast: Decide on the spot and find out
-rorschachMost: a bay, no way out
-rorschachHigh: still water in a cove
-rorschachMid: a shore and its inlet
-rorschachLow: a wave crossing the bay
-rorschachLeast: a boat straight past
+facetMid: The woman who runs the camera obscura darkens the room and turns the mirror on the roof by hand. The town comes round the table — the harbour, the roofs, the car parks. Your friend waits until you are both looking to ask whether you are taking the job in the other city, which would leave her here. You watch the harbour come round once. You tell her you are.
+facetMidAction: You tell her you are.
+facetLowTitle: Shoot First, Bean Later
+facetLow: Your mother's ring is in the padded envelope on the counter, going to your sister three hundred miles away. The woman behind the glass asks whether you want it covered for what it is worth, and tells you what that would cost. You say no and hand it over.
+facetLowAction: You say no and hand it over.
+facetLeastTitle: Ready, Bean, Fire
+facetLeast: Eight of you round a table in the front room over a shop, and the medium has said how she works before starting — she gets initials and nothing else, and the room confirms nothing back to her. Twenty minutes in she stops and says there is a woman here with a J. You say straight out that it is your grandmother.
+facetLeastAction: You say straight out that it is your grandmother.
+question: Your brother says at dinner that nobody in the family ever helped your mother, and everyone looks at you. You...
+answerMost: say you'll come back to him on it
+answerHigh: say you'd like to think before you answer
+answerMid: take a moment, then answer him
+answerLow: answer straight off
+answerLeast: cut in with your answer over the top of him
+rorschachMost: a stopped clock
+rorschachHigh: a perched owl
+rorschachMid: a park bench
+rorschachLow: a tossed coin
+rorschachLeast: a slammed door
 ---
 
 Miso Butter Beans are the Bean Zodiac's most reflective. Nothing gets answered on the day; it gets answered after a walk, and the answer is worth the wait. Sometimes the walk never ends. Responding without thinking about it first they cannot do.

@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-boiled-kidney
-lastUpdated: 
+lastUpdated:
 bean: kidney
 flavour: umami
 form: boiled
@@ -17,32 +17,37 @@ antiTriple: sweet-roasted-green
 antiBeans: [fava, chickpea]
 antiForm: smoked
 seasonalFortune: "A season of mushroom dashi and kept hours — the stock is made the same way daily."
-fortuneMost: Standing in the noise because it was taught to, the warhorse knows nothing else.
-fortuneHigh: When something real asks you to skip the routine, say yes.
-fortuneMid: Write down what the practice is actually for.
-fortuneLow: The week has slipped its banks.
-fortuneLeast: Burn the schedule.
-facetMostTitle: An Officer and a Beantleman
-facetMost: Six years of the same hour at the pool. Your shoulder has been going a month. You are in the water at half five with the lane to yourself, counting lengths out loud.
-facetHighTitle: Beandrumline
-facetHigh: An hour of scales before anything else, and the good weather is doing what it does to the street outside your window. You have the window open and you play the hour.
+fortuneMost: Keep the routine hard enough and the routine takes over.
+fortuneHigh: A warhorse holds formation with everything going off around it.
+fortuneMid: The discipline holds the bad weeks together.
+fortuneLow: Break the routine tonight.
+fortuneLeast: Nothing collapses if the schedule slips.
+facetMostTitle: A Officer and a Beantleman
+facetMost: Eleven fights and you've made weight for every one of them. This one's a charity exhibition — three rounds, headguards, and nobody weighing anybody — and you're two pounds over and dizzy with it. You go and run the two pounds off.
+facetMostAction: You go and run the two pounds off.
+facetHighTitle: Beanumline
+facetHigh: You've had the bass drum a year and the band has drilled the same twenty minutes every week for it. At eleven the parade steps off with the veterans formed up behind and the town out along the pavement, and the two ranks in front lose the time inside thirty yards. You hold the tempo you drilled all year.
+facetHighAction: You hold the tempo you drilled all year.
 facetMidTitle: Same Time Next Bean
-facetMid: The garden rota says beds one week and paths the next, and the paths look perfectly fine and the beds have got away from you completely, and you go out and do the paths.
+facetMid: You've written up the day's takings every night since you took the shop on, in the same book, and today was forty-one pounds across eight hours. You write up the forty-one pounds.
+facetMidAction: You write up the forty-one pounds.
 facetLowTitle: Lord of the Beans
-facetLow: You had said four runs a week and it has been two. The shoes are in the hall where you cannot miss them. You go past them with the shopping, and again with the bins, and they stay exactly where they are by the door.
-facetLeastTitle: The Wild Beanunch
-facetLeast: There are books to get through and the tea is made and the room is quiet. Somebody sends a link, and the afternoon goes.
-question: How does a routine you've set yourself actually go?
-answerMost: same hour, every day, ill or not
-answerHigh: you do it, and you notice when you can't
-answerMid: four days in five, and the fifth gets made up
-answerLow: it holds a fortnight, then loosens
-answerLeast: there's a shape to the week and that's about it
-rorschachMost: bricks laid dead straight
-rorschachHigh: a rank of posts
-rorschachMid: a wall and loose bricks
-rorschachLow: a row gone crooked
-rorschachLeast: bricks tipped in a heap
+facetLow: Your friend from home is in the city for one night and has texted asking what you're doing; you've had the same desk booked from six every evening for eleven weeks and the exam is in nine days. You give the desk up for the night.
+facetLowAction: You give the desk up for the night.
+facetLeastTitle: The Wild Bean
+facetLeast: There's a rota taped to the tent pole for who cooks, who filters the water and who carries the stove, and you've had the light bag two days running by getting to the pile first. Nobody has said anything about it yet. You put your name against the light bag again.
+facetLeastAction: You put your name against the light bag again.
+question: Six years of the same hour at the piano every morning. Today you're three hours short of sleep and the recital is behind you. What happens to the hour?
+answerMost: it gets done, and a second hour tomorrow for starting it late
+answerHigh: it gets done
+answerMid: half of it gets done and that's called enough
+answerLow: it goes, and tomorrow starts again
+answerLeast: the mornings go for a fortnight
+rorschachMost: a nail row
+rorschachHigh: a made bed
+rorschachMid: a swept yard
+rorschachLow: spilled pins
+rorschachLeast: strewn clothes
 ---
 
 Dashi Kidney Beans are the Bean Zodiac's most disciplined. The same hour, the same practice, every day for six years, including the days they hated it. Sometimes the schedule outranks the reason for it. Skipping a day without paying for it internally isn't available.

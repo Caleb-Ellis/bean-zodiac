@@ -1,0 +1,542 @@
+# BATCH 27 — pitch layout most=G high=G mid=E low=G least=E
+# Elevated slots are MID and LEAST. LEAST takes LANE B in all five: the least pole is a
+# withdrawal in every entry here (chilly, unconsidered, ponderous, erratic, spartan) and
+# jeopardy deflates a withdrawal. MID takes either lane, and does — Lane B twice, Lane A
+# three times.
+#
+# THE OBJECT IS NAMED IN THE ROW. Not "an inheritance decision" but the solicitor wanting
+# to know by Friday whether the flat is sold or one of them buys the other out; not "a
+# permanent thing" but the date going on her arm with the needle already loaded.
+#
+# NEIGHBOURS — adjacency from src/content/trait-neighbours.tsv, but the written/unwritten
+# marks in that file are stale (generated at 190 written entries; 219 now) and two of this
+# batch's neighbours are mismarked there. The list below was verified against the entry
+# files today. Every WRITTEN neighbour's five facets were read before any row was chosen.
+#
+#   affectionate (umami-boiled-adzuki) vs cherishing (sweet-roasted-kidney), kind
+#     (sweet-boiled-cannellini), warm (umami-roasted-adzuki) — all written — and doting,
+#     tender, unwritten. Cherishing VALUES the person — the gig that isn't good, the
+#     ornament remembered from the window. Kind ACTS AT COST on somebody's trouble. Warm
+#     is hospitality extended OUTWARD, to anyone, including people met twice. Affectionate
+#     is none of those: it is warmth EXPRESSED to somebody already loved — the reader
+#     shows what that person is to them, out loud or with their arms. So no facet here is
+#     a favour, a rescue, or a welcome to a stranger.
+#
+#   cosseting (sweet-roasted-mung) vs cherishing (sweet-roasted-kidney), compassionate
+#     (sweet-boiled-kidney), kind (sweet-boiled-cannellini), restful (umami-boiled-butter),
+#     solicitous (sour-roasted-mung) — all five written, all five read.
+#     Solicitous ASKS — what did the doctor actually say, do you want to get on it. It
+#     probes. Cosseting does not ask; it PROVIDES, and providing without asking is why its
+#     excess is infantilising. Compassionate takes a real hit for somebody's hardship.
+#     Restful is the reader's own rest, not anybody else's comfort.
+#
+#   *** THE COLLISION NOTHING FLAGGED. affectionate and cosseting are in the same batch
+#   and are one step apart THROUGH SHARED NEIGHBOURS — cherishing and kind appear in both
+#   lists, and neither entry appears in the other's, so no `!` is raised and the two would
+#   have collapsed. The neighbours file maps trait to trait; it cannot see this, exactly as
+#   it could not see batch 21's liminal LEAST ("planted") sitting on abiding's TRAIT.
+#   Boiled/adzuki against roasted/mung is the lever, and it is enforced as two hard rules
+#   held across all ten rows:
+#     — affectionate is warmth EXPRESSED. NO FACET IN THE ADZUKI ENTRY HAS THE READER
+#       LOOKING AFTER ANYBODY. Checked row by row: a demand for it back on the pier, a
+#       sentence said to a grandmother, a sentence said on air, a hand put out instead of
+#       arms, a fact offered in place of an answer. Not one act is a service.
+#     — cosseting is warmth ADMINISTERED, wanted or not. NO FACET IN THE MUNG ENTRY
+#       DECLARES A FEELING. Checked row by row: a call made to a landlord, a route walked,
+#       a tea put in somebody's hands, tape handed over, a hut pointed out. Every act is a
+#       thing done TO or FOR somebody, and none of them says anything about the bond.
+#
+#   reflective (umami-fermented-butter) vs measured (bitter-boiled-black), pensive
+#     (sweet-fermented-black), ruminative (bitter-fermented-black), introspective
+#     (umami-fermented-black), self-aware (sour-fermented-adzuki) — five written, five
+#     read, and three of them share the FORM. Measured is PACE: it refuses to be hurried
+#     and it resists pressure — "I'll text you in the morning". Pensive is thinking
+#     COLOURED BY FEELING, a mood carried through a scene. Ruminative CIRCLES and does not
+#     arrive — the same sentence for a fortnight. Introspective is aimed AT THE SELF —
+#     whether you want the bakery or want to be someone who has one. Reflective is butter:
+#     unhurried, on a matter OUTSIDE the reader, and IT ARRIVES SOMEWHERE. So every facet
+#     here has an external question, time visibly taken, and a produced answer; nobody in
+#     these five is hurrying the reader, and nothing here is about the reader's own nature.
+#
+#   nimble (sour-fried-chickpea) vs adaptable (umami-boiled-chickpea), brisk
+#     (bitter-roasted-green), resourceful (spicy-boiled-chickpea), swift (sour-fried-fava)
+#     — four written and read — and quick-witted, unwritten. Swift shares the FLAVOUR AND
+#     THE FORM and is the dangerous one: it is speed of DECISION, yes on the doorstep with
+#     the price unstated. Adaptable shares the BEAN: it is the reader's INSIDE adjusting —
+#     the mind already stretched across the longer crossing. Resourceful makes do with
+#     MATERIALS at hand. Brisk ENDS things. Nimble is chickpea fried: the situation changes
+#     and the reader RE-RIGS IT, physically, and the new arrangement is running before the
+#     old one has finished being discussed. So every facet here has an arrangement that
+#     breaks on the page and a reader who rebuilds it in motion — no fast yes/no, no
+#     improvised kit, no interior acceptance.
+#
+#   sure (spicy-dried-cannellini) vs assured (umami-fried-fava), confident
+#     (spicy-roasted-edamame), decisive (bitter-fried-edamame), resolute (sour-smoked-navy)
+#     — four written, four read, a four-way pile-up of near-synonyms. Assured TELLS A ROOM
+#     and tells them not to check. Confident is roasted — it takes charge and leads people
+#     somewhere. Decisive ENDS A DELIBERATION that was running. Resolute holds a course
+#     over TIME against people telling it to stop. Dried is the lever: sure NEEDS NO
+#     EVIDENCE AND NO AUDIENCE, and it does not waver because it was never weighing. So no
+#     facet here has the reader leading anybody, winning an argument, closing a debate or
+#     holding out across months — each is one call, made flat, with nothing produced to
+#     back it.
+#
+# ============================================================================
+# === umami-boiled-adzuki — affectionate / needy / chilly
+# AXIS: warmth said and shown to somebody who already has it from you — the bond named
+#   out loud or put in your arms, with no interest in how it looks.
+# TITLES: The Bean Who Came to Dinner is the guest who will not leave — the excess.
+#   Bean Actually is the declaration made anyway. The Ice Bean Storm and The Big Bean
+#   Chill are the inverse, and both are about a household that has stopped saying it.
+# OFF-LIMITS: an otter holding hands asleep; "ask often enough whether they still care";
+#   "say it before they leave"; "let a few days go by"; "distance keeps some friendships
+#   alive"; kombu dashi and a broth wanting somebody in the room.
+#   OLD FACETS: ringing the vet twice before morning; the pony over the first jump and
+#     both arms out at the gate; the laundrette basket; the woman frightened of needles in
+#     the next chair; skating the far side of the ice alone. So no vets, no laundrette, no
+#     rink, and nothing set beside a stranger in a row of chairs.
+#   QUESTION owns: the closest friend away three weeks with barely a word. So no facet
+#     here is the reader chasing somebody who has gone quiet.
+umami-boiled-adzuki	most	pier	reciprocation-demanded	friend	grounded
+# STAKES: she has laughed it off twice tonight and you make her say it anyway; she is not able to and now knows you were counting.
+umami-boiled-adzuki	high	house	childhood-named	family	grounded
+# STAKES: the whole family have spent the day being practical about boxes precisely so that nobody has to do this, and she is going into the home on Thursday.
+umami-boiled-adzuki	mid	radio	fondness-broadcast	friend	elevated
+# LANE A — it goes out live on her show and cannot be unsaid; her mother and everyone she works with listen to it.
+# STAKES: it goes out live to everybody she knows, she has never heard you say anything like it, and neither of you can take it off the air.
+umami-boiled-adzuki	low	gym	embrace-declined	colleague	grounded
+# STAKES: eight years alongside him, his last week, and he has his arms out in front of the people who train there.
+umami-boiled-adzuki	least	observatory	endearment-unanswered	partner	elevated
+# LANE B — the dome opened by hand, the drive that tracks, the hundred-year-old mirror and which star it is pointed at.
+# STAKES: she has talked about this evening for a month and has just said out loud that she is happy; meeting it with a fact is the answer she gets.
+#
+# === umami-fermented-butter — reflective / paralysed / unconsidered
+# AXIS: you take an outside question away and turn it over for as long as it takes, on
+#   your own, and you come back with an answer that the time actually produced.
+# TITLES: Bean in the Headlights is the excess, the weighing that will not end. Wild
+#   Beanberries is the long look back over a life. Shoot First, Bean Later and Ready,
+#   Bean, Fire are the inverse — the act arriving before any of the thinking does.
+# OFF-LIMITS: a scops owl repeating one note until something answers; "think about it
+#   long enough and the choice gets made elsewhere"; "sleep on it"; "pick one and find
+#   out"; "the first answer is usually the same as the last"; white miso and a crock that
+#   considers before it moves.
+#   OLD FACETS: two copies of the same book, one in each hand, eleven minutes and a
+#     queue; the dinghy on the trailer with the wind up; the two ways down on the
+#     signpost; the hairdresser and a couple of inches; the phone box and the number you
+#     were told not to ring. So no shop-counter dithering, no boat, no fork in a road, no
+#     haircut, no phone box.
+#   QUESTION owns: the brother at dinner saying nobody in the family helped your mother.
+#     So no facet here is the reader put on the spot about family history at a table.
+umami-fermented-butter	most	letter	reply-unsent	family	grounded
+# STAKES: the solicitor's Friday passes without an answer and your uncle's flat goes to sale by default, which is the one outcome your cousin asked you to prevent.
+umami-fermented-butter	high	cafe	sponsorship-weighed	group	grounded
+# STAKES: eleven thousand is a year of the woman who does the home visits, and a betting company's name goes on everything the project prints from here on.
+umami-fermented-butter	mid	camera obscura	turn-awaited	friend	elevated
+# LANE B — the darkened room, the mirror on the roof turned by hand, the lens that has thrown the town onto that table since 1892.
+# STAKES: the job starts in the other city in a month and she is the one who would be left here, which is why she has asked.
+umami-fermented-butter	low	post office	insurance-declined	official	grounded
+# STAKES: your mother's ring going to your sister in the post with nothing on it if it goes missing.
+umami-fermented-butter	least	seance	name-supplied	stranger	elevated
+# LANE B — how a medium actually runs a table: initials only, the room told to confirm nothing, and the eight of you sat round it in the front room over the shop.
+# STAKES: you have handed her the name in front of seven strangers, and the rest of the hour is built on what you gave her.
+#
+# === sour-fried-chickpea — nimble / slippery / ponderous
+# AXIS: the arrangement breaks and you have rebuilt it and got it running before anyone
+#   has finished saying what has gone wrong.
+# TITLES: Slippery When Bean is the excess — the shape that will not stay still long
+#   enough to be held to anything. Spider-Bean and Beanloose are the trait: over the wall,
+#   out the far side, before the traffic. The Bean and the Whale is the inverse, three
+#   days of grinding at one thing in order.
+# OFF-LIMITS: a gecko dropping its tail and growing back a poorer one; "take the back
+#   way"; "quick answers hold up more often than not"; "answer it straight the first
+#   time"; "once slowly beats three times quickly"; sumac and lemon, out of the oil before
+#   it catches.
+#   OLD FACETS: two people asking whether you knew before it happened; the sign saying the
+#     road is shut and the half-remembered lane; two orders and a delivery at once; the
+#     long run-up at a simple question; the form started again from the top. So no road
+#     closure and detour, no deflected direct question, no form redone.
+#   QUESTION owns: twenty people, a picnic at three, and the field fenced off. So no facet
+#     here is a group event relocated at short notice.
+sour-fried-chickpea	most	cinema	shift-relayed	friend	grounded
+# STAKES: the Saturday she cleared to get to her dad in hospital is now hers to work, and you have handed it back to her as though it were a favour.
+sour-fried-chickpea	high	gig	kit-borrowed	friend	grounded
+# STAKES: the drums are in a van the other side of the river, the promoter gives the support slot away in ten minutes, and they have waited a year for it.
+sour-fried-chickpea	mid	registry office	witness-recruited	official	elevated
+# LANE A — the second witness signs the register, and that stranger's name is on their certificate for as long as the marriage exists.
+# STAKES: without a second witness the ceremony does not happen at all, and the couple booked at half past are already in the corridor.
+sour-fried-chickpea	low	bakery	channel-followed	colleague	grounded
+# STAKES: eleven people in the queue on the morning the rent goes out, and the owner has already told you the way to keep them — cash, and the amounts written on the pad.
+sour-fried-chickpea	least	anatomy museum	order-insisted	official	elevated
+# LANE B — the teaching collection out of hours: the tanks, the numbering, the pots that came from the workhouse, and the half-hour before she locks up.
+# STAKES: the collection is not open to the public, you will not get in again, and at case one you will see six of the forty.
+#
+# === spicy-dried-cannellini — sure / infallible / erratic
+# AXIS: you know which one it is, flat, without checking and without anybody watching,
+#   and you do not move off it, because there was never any weighing to move off.
+# TITLES: Mr. Beanfect is the excess — right so often that correction has nowhere to
+#   land. Beanseye is the call that goes where it was sent. Wild Bean Pitch and Beanfire
+#   are the inverse, the aim gone with no account of when or why.
+# OFF-LIMITS: a gyrfalcon running a ptarmigan down in open sky; "never being wrong means
+#   never learning how"; "back your own call"; "guess this one and see"; "getting it wrong
+#   teaches faster"; dried garlic and peperoncino landing where it was meant to.
+#   OLD FACETS: eleven years tuning the piano and the humidity; twelve penalties in the
+#     same corner; rain by four off the ridge; the bearing at the last control and two
+#     fields out; six knives and the board. So no tuning, no penalties, no weather called
+#     off the sky, no navigation by bearing, no throwing.
+#   QUESTION owns: the date, the venue and the caterer, and somebody saying the date
+#     clashes. So no facet here is the reader defending arrangements they made.
+spicy-dried-cannellini	most	hardware shop	measurement-defended	friend	grounded
+# STAKES: it is cut to length on the saw and cannot go back, it is her money, and the shop's tape says you are an inch out.
+spicy-dried-cannellini	high	loft	photograph-identified	family	grounded
+# STAKES: it goes to the printer this evening and it is the picture on the front of the order of service; nobody else in the loft will say which of the two women she is.
+spicy-dried-cannellini	mid	tattoo studio	date-supplied	friend	elevated
+# LANE A — it goes on her arm permanently, in the next few minutes, and it is her father's date.
+# STAKES: it is her father's date, it is on her arm for the rest of her life, and the card in her hand has both numbers on it.
+spicy-dried-cannellini	low	taxi	route-switched	partner	grounded
+# STAKES: her train is the last one and the ticket is not transferable, and she asked you to pick because you know the city.
+spicy-dried-cannellini	least	auction house	lot-swapped	family	elevated
+# LANE B — the back room before the sale: the condition reports, what "as found" means on the sheet, and the reserves written against each number.
+# STAKES: your mother's four hundred goes once, and the lot she asked for sells to somebody else while your hand is up for the one before it.
+#
+# === sweet-roasted-mung — cosseting / infantilising / spartan
+# AXIS: you put the comfort in place yourself, out where it can be seen, whether or not
+#   anybody asked you to.
+# TITLES: Baby Beantalk and Mollycoddled Bean are the excess, a grown adult handled as
+#   though they could not manage. Tucked In Bean is the trait. Beantan and Cold Beankey
+#   are the inverse — left in the cold and perfectly all right by nine.
+# OFF-LIMITS: a marmoset carrying its twins until they are nearly its own size; "cosset
+#   somebody long enough and they stay small"; "comfort given freely is not wasted"; "make
+#   them do it themselves"; "hard conditions build capable people"; coconut sugar and lime
+#   leaf, a tray that tucks the household in.
+#   OLD FACETS: thirty-four with flu on the sofa under a blanket with a tray; soup in a
+#     container put in her bag for the train; the son's washing dried and folded into his
+#     bag; the good jumper on the back of the door; the bothy and pointing out where the
+#     wood is. AND THE QUESTION OWNS soup, clean clothes and a list of what to take when.
+#     So: NO SOUP, NO BLANKET, NO LAUNDRY, NO WARM GARMENT OFFERED, NO BOTHY anywhere in
+#     this entry. That knocks out the four obvious images and is why the five below are
+#     a phone call, a walk, a tea, a roll of tape and a direction.
+sweet-roasted-mung	most	kitchen	call-taken	family	grounded
+# STAKES: it is his first place, he is twenty-six and standing right there, and he asked you to let him do this one himself.
+sweet-roasted-mung	high	hotel	route-walked	friend	grounded
+# STAKES: a day of your leave and the room on your own card, in a city she does not know, after she told you twice not to come.
+sweet-roasted-mung	mid	drop-in centre	tea-delivered	stranger	elevated
+# LANE B — how the place actually runs: the sign-in book, the rule about how many nights, the cupboard, and the kitchen that is staff only, which she has just told you.
+# STAKES: your friend is answerable for who goes in that kitchen, and she told you the rule ten minutes ago.
+sweet-roasted-mung	low	forest	tape-handed	friend	grounded
+# STAKES: four miles still to walk, both heels open, and she has her hand out for it.
+sweet-roasted-mung	least	lido	hut-indicated	group	elevated
+# LANE B — six in the morning at the lido: the temperature board, the rule about how long anybody stays in, and the hut with the kettle that only the swimmers know about.
+# STAKES: she came because you talked her into it, it is her first time, and she cannot feel her hands.
+#
+# ============================== STEP 9 — COLD READ ==============================
+# Written last, on the text in the entry files, after the linter and after the eight
+# fixes below. Every fix re-triggered the read for that facet and all eight were read
+# again on the new text; nothing has been touched since.
+#
+# EIGHT FAULTS FOUND BY THIS READ. Two dating anchors, three referent breaks, one lost
+# POLE NEEDS item and one missing stake. The pole fault is the one worth naming: it was
+# introduced by a length trim, exactly as the doc says trims always are.
+#   adzuki high — "goes into the home on Thursday" pins the scene to a day. Now "this
+#     week". Same for adzuki low, "finishes on Friday" -> "finishes this week".
+#   butter high — ACT NEEDS. The act put the name "on the leaflets" and the page had only
+#     said "everything the project prints". The leaflets are now in the setup.
+#   butter mid — the stake was in the ledger row and never on the page: the job was in
+#     another city and nothing said she was the one being left. Added "which would leave
+#     her here", and "a bus on the hill" went to pay for it.
+#   chickpea high — ACT NEEDS. "The headline band's drummer" was entailed by a support
+#     slot but never stated. They are now soundchecking in the setup.
+#   mung high — ACT NEEDS. "The route to the building" and no building on the page. Now
+#     "the route to the interview", which the first clause has already given.
+#   mung mid — POLE NEEDS, and it was a trim that did it. The line had "and has asked for
+#     nothing"; cutting for length took it out, and without it taking him a tea is
+#     answering a request rather than administering comfort unasked, which is the entire
+#     separation from solicitous. Restored, and "by the door" paid for it.
+#
+# LINTER FLAGS LEFT STANDING — the rule, not the prose. The three documented ones.
+#   "median N, outside 24-48" on all five (51-69). The band was calibrated on 64 early
+#     entries and the house style has moved longer since; batches 19-21 all trip it.
+#   BATCH "You tell" 10% and shape D-beats 46%. Corpus-wide totals, both over before this
+#     batch starts. Nine of the 25 acts here use "You tell"; the other sixteen were
+#     drafted onto their own verbs (ask, put your hand out, say on air, start the fifth,
+#     watch, hand over, go and ask, start at case one, put your finger on, put your hand
+#     up, send him round, take the phone, walk her the route, take him a tea, hand her
+#     the roll, go through to the back).
+#   "5 facets share shape D-beats" per entry and cannellini's 7-word spread are advisories
+#     the script itself says never to edit prose for.
+#
+# --- umami-boiled-adzuki ---
+# MOST
+#  ON THE PAGE: your oldest friend; the two of you have walked to the end of the pier and
+#    back twice; twice tonight you have told her she is the most important person in your
+#    life; twice she has laughed and started on something else.
+#  THE ACT NEEDS: her (stated) · what you are to her, meaning the thing you have twice
+#    said (stated).
+#  THE POLE NEEDS: the excess, and the evidence is the two deflections — she has declined
+#    it twice and you press a third time, so the affection has become a demand rather
+#    than a gift. RESIST: you let it go. No help is given to anybody, which is what keeps
+#    the entry off cosseting.
+# HIGH
+#  ON THE PAGE: your grandmother goes into the home this week; the family have spent the
+#    whole day in her front room labelling boxes and talking about the boxes; she is in
+#    the chair with her coat already on.
+#  THE ACT NEEDS: her (stated) · your childhood, which the reader produces rather than
+#    shares.
+#  THE POLE NEEDS: the trait — "talking about the boxes" is on the page as the thing the
+#    room is doing instead, so saying it aloud is a move against the tone rather than a
+#    pleasantry. RESIST: you carry on with the boxes.
+# MID
+#  ON THE PAGE: your friend has an hour on the community station every week; she has got
+#    you on with her; the faders, the clock on the wall, the two songs she keeps ready in
+#    case a caller drops out; with a minute left she asks you live why you moved to this
+#    city.
+#  THE ACT NEEDS: on air (live, stated) · it, meaning why you moved (stated) · her.
+#  THE POLE NEEDS: low expression — one sentence, not the whole account. LANE A holds: it
+#    is live and cannot be taken off the air. RESIST: you give a different reason.
+# LOW
+#  ON THE PAGE: the man you have trained beside for eight years finishes this week; he is
+#    going four hundred miles to his sister's; he has said twice tonight he will miss
+#    this; on the way out he stops in front of you with his arms out.
+#  THE ACT NEEDS: your hand (the act) · his arms, which is the thing being declined
+#    (stated).
+#  THE POLE NEEDS: chilly at low pitch, and it needs the warm act to be physically on
+#    offer in the line so that the smaller one reads as a choice rather than as nothing
+#    happening. RESIST: you hug him.
+# LEAST
+#  ON THE PAGE: the astronomer has had the six of you up in the dome all evening; the
+#    shutter cranked open by hand; the drive that holds the tube on one star while the sky
+#    turns under it; your partner has wanted this since the spring; at the eyepiece she
+#    takes your hand and says she is happy.
+#  THE ACT NEEDS: the star (stated, the one the drive is holding) · her (stated).
+#  THE POLE NEEDS: the inverse fully — a declaration of feeling is on the page and is
+#    answered with a fact, which is the whole of it. RESIST: you say something back.
+#    LANE B holds: the shutter and the drive are how the dome works.
+#
+# --- umami-fermented-butter ---
+# MOST
+#  ON THE PAGE: your uncle left the flat to you and your cousin; the solicitor wants an
+#    answer by the end of the week — sold, or one of you buys the other out; you have
+#    written four replies and posted none; each time you get to the end there is something
+#    you have not thought about properly.
+#  THE ACT NEEDS: the fifth, meaning a fifth reply (four are stated).
+#  THE POLE NEEDS: paralysed rather than measured — four drafts and a deadline are on the
+#    page and nobody in the scene is hurrying the reader, so the delay is coming from
+#    inside. RESIST: you post one of the four.
+# HIGH
+#  ON THE PAGE: your friend runs the reading project at the library; a betting company has
+#    offered her eleven thousand; that is a year of the woman who does home visits; their
+#    name would go on the leaflets and everything else the project prints; the other four
+#    said take it straight away; you sit outside with the letter for half an hour.
+#  THE ACT NEEDS: it, meaning the eleven thousand (stated) · the name (stated) · the
+#    leaflets (now stated).
+#  THE POLE NEEDS: the trait, and it needs both halves — the half hour outside with the
+#    letter is the considering, and the verdict is produced rather than deferred. Without
+#    the arrival this would be measured. RESIST: you tell her to turn it down.
+# MID
+#  ON THE PAGE: the woman who runs the camera obscura darkens the room and turns the
+#    mirror on the roof by hand; the town comes round the table, the harbour, the roofs,
+#    the car parks; your friend waits until you are both looking to ask whether you are
+#    taking the job in the other city, which would leave her here; you watch the harbour
+#    come round once.
+#  THE ACT NEEDS: you are, meaning taking the job (stated) · her (stated).
+#  THE POLE NEEDS: low expression, and the evidence is one turn of the mirror — the
+#    thinking is short but it is on the page as its own sentence, and an answer arrives.
+#    RESIST: you answer the moment she asks. LANE B holds: the mirror, the hand, the lens
+#    throwing the town onto the table.
+# LOW
+#  ON THE PAGE: your mother's ring in a padded envelope on the counter; it is going to
+#    your sister three hundred miles away; the woman behind the glass asks whether you
+#    want it covered for what it is worth and tells you what that would cost.
+#  THE ACT NEEDS: no, meaning the cover declined (stated) · it, the envelope (stated).
+#  THE POLE NEEDS: unconsidered at low pitch — the question is a real one with a price
+#    attached and the reader does not weigh it for a second. RESIST: you take the cover.
+# LEAST
+#  ON THE PAGE: eight of you round a table in the front room over a shop; the medium has
+#    said how she works before starting — she gets initials and nothing else, and the room
+#    confirms nothing back to her; twenty minutes in she says there is a woman here with a
+#    J.
+#  THE ACT NEEDS: your grandmother, which the reader produces · the J (stated) · the rule
+#    about confirming nothing (stated).
+#  THE POLE NEEDS: the inverse fully, and it needs the rule on the page — without it,
+#    speaking up is enthusiasm rather than the total absence of consideration, which is
+#    the pole. RESIST: you sit on it. LANE B holds: how a table is actually run.
+#
+# --- sour-fried-chickpea ---
+# MOST
+#  ON THE PAGE: you and your friend both work the screens at the cinema; she gave you her
+#    Saturday for a gig; you swapped it with the man on box office; he dropped out and you
+#    took his Sunday instead; the Saturday is back on her, and it is the one she had
+#    cleared to get to her dad in hospital.
+#  THE ACT NEEDS: the Sunday (stated) · her (stated).
+#  THE POLE NEEDS: the excess — three re-riggings are on the page, every one of them fine
+#    on its own, and the cost has come to rest on the person who started the chain. That
+#    is slippery rather than nimble, and it is why the line delivers it as a mutual
+#    convenience. RESIST: you take the Saturday back.
+# HIGH
+#  ON THE PAGE: your friend's band have the support slot at nine; the drums are in a van
+#    the other side of the river with a clamp on the wheel; the band headlining are still
+#    soundchecking; the promoter gives the slot to somebody else in ten minutes; they have
+#    waited a year for this one.
+#  THE ACT NEEDS: the headline band (now stated) · his kit, meaning drums (stated) · they,
+#    the friend's band (stated).
+#  THE POLE NEEDS: the trait — an arrangement breaks on the page and the reader rebuilds
+#    it physically rather than deciding anything, which is what keeps it off swift, and
+#    nothing is improvised from materials, which keeps it off resourceful. RESIST: you
+#    start ringing round for a van.
+# MID
+#  ON THE PAGE: your friend is getting married at eleven; the second witness has not
+#    turned up, no message; the registrar cannot do the ceremony with one; the couple
+#    booked for half past are already in the corridor with both families.
+#  THE ACT NEEDS: the corridor (stated) · the man on it, identified by where he is
+#    waiting · signing, meaning the second witness (stated).
+#  THE POLE NEEDS: low expression — one small re-rig, made once, from what is already in
+#    the building. RESIST: you go out and start ringing people. LANE A holds: without a
+#    second witness there is no ceremony at all today.
+# LOW
+#  ON THE PAGE: the card machine has died at the morning rush; eleven people in the queue;
+#    the woman who owns the bakery has gone to the wholesaler; before she left she told
+#    you and the man you work with what to do if it went — take cash, write the amounts on
+#    the pad; the rent goes out today.
+#  THE ACT NEEDS: the back (a bakery, stated) · the card company (the machine is stated).
+#  THE POLE NEEDS: ponderous at low pitch, and it needs the fast fix named and available
+#    in the setup — it is, in her own words — so going to the proper channel is a choice
+#    and not a blank. RESIST: you start taking cash.
+# LEAST
+#  ON THE PAGE: a friend has got you into the teaching collection after hours; the
+#    technician walks you along the tanks, the numbering, the ledger, which of the pots
+#    came out of the workhouse; she locks up in half an hour and says tell her the three
+#    you want to see; there are forty cases.
+#  THE ACT NEEDS: case one (forty cases stated) · the half hour (stated).
+#  THE POLE NEEDS: the inverse fully — the shortcut is offered outright and the clock is
+#    on the page, so starting at one is the whole vote and its cost is visible. RESIST:
+#    you name three. LANE B holds: the ledger and the workhouse pots are the inside of
+#    the collection.
+#
+# --- spicy-dried-cannellini ---
+# MOST
+#  ON THE PAGE: your friend is having a worktop cut for the gap in her kitchen; you
+#    measured the gap on Sunday; the man has your number chalked on the board and a tape
+#    run along the timber coming up an inch under; she has the money out; once the saw has
+#    been through there is no going back.
+#  THE ACT NEEDS: his tape (stated) · the inch (stated).
+#  THE POLE NEEDS: the excess — physical evidence contradicting the reader is on the page
+#    and the reader rejects the instrument instead. Nobody is being led and no argument is
+#    being closed, which keeps it off confident and decisive. RESIST: you measure again.
+# HIGH
+#  ON THE PAGE: your aunt's order of service goes to the printer this evening; the picture
+#    for the front is coming out of the boxes in the loft; the one everybody wants has two
+#    women in headscarves on a sea wall; nobody up there will say which of them is her;
+#    you were only ever in a room with her twice.
+#  THE ACT NEEDS: the one on the left (two women stated).
+#  THE POLE NEEDS: the trait, and the twice is what proves it — nothing is produced to
+#    back the call, no case is made to the room, and the certainty is not the product of
+#    weighing. RESIST: you say you cannot tell.
+# MID
+#  ON THE PAGE: your friend is having the date her father died put on the inside of her
+#    arm; the tattooist has the stencil on and the needle loaded; the date is on a card in
+#    her own writing with the fifth crossed out and the sixth written under it; you were
+#    at the hospital that night.
+#  THE ACT NEEDS: the fifth (stated on the card) · her (stated).
+#  THE POLE NEEDS: low expression — one flat sentence against her own written correction,
+#    with no case made and no suggestion of checking. RESIST: you tell her to ring the
+#    hospital. LANE A holds: it is on her arm in the next few minutes, for good.
+# LOW
+#  ON THE PAGE: your partner's train is the last one; the ticket is no good on any other;
+#    she asked you to pick the way in because you know the city; you gave the driver the
+#    second bridge before you got in; nothing has changed on the road and nothing has come
+#    on the radio.
+#  THE ACT NEEDS: him, the driver (stated) · the first bridge (the second is stated, so
+#    there is another).
+#  THE POLE NEEDS: erratic at low pitch, and the sentence that does it is the one saying
+#    nothing has changed — the absence of any cause is what makes this the inverse rather
+#    than a sensible reroute, and it has to be stated because the reader cannot infer an
+#    absence. RESIST: you leave it as the second bridge.
+# LEAST
+#  ON THE PAGE: your mother has given you four hundred and a lot number; the lot is a
+#    carriage clock that was her father's; the porter has had you in the back beforehand,
+#    showing you the reserve written against every number and what the sheet means when it
+#    says as found; the pair of candlesticks before it is the one he called better made.
+#  THE ACT NEEDS: the candlesticks (stated) · the four hundred (stated).
+#  THE POLE NEEDS: the inverse fully — a named commission with a number and a limit is on
+#    the page, and the hand goes up for a different lot on a porter's passing remark, so
+#    there is no through-line at all between what was undertaken and what is done. RESIST:
+#    you wait for the clock. LANE B holds: the reserves and the condition sheet are how a
+#    saleroom actually works.
+#
+# --- sweet-roasted-mung ---
+# MOST
+#  ON THE PAGE: your brother is twenty-six and moved into his own flat on Saturday; you
+#    have put his cupboards in order, written out how the boiler works and stuck it inside
+#    the door; the bedroom window does not shut; he has the landlord's number up on his
+#    phone; he asked you this morning to let him do this one himself.
+#  THE ACT NEEDS: the phone (stated, in his hand) · the landlord (stated).
+#  THE POLE NEEDS: the excess — he is capable, the request not to is on the page in his
+#    own words, and the reader takes the thing out of his hand anyway. Nothing is said
+#    about what he means to you, which is what holds the line apart from affectionate.
+#    RESIST: you leave him to ring.
+# HIGH
+#  ON THE PAGE: your friend has an interview at nine in a city she has never been to, for
+#    the job she has been going for over two years; you took a day of your leave, drove
+#    her up the night before and put the room on your own card; she told you twice not to
+#    come.
+#  THE ACT NEEDS: the interview (stated) · the route (the act) · her (stated).
+#  THE POLE NEEDS: the trait — the comfort is provided, not offered and not asked for,
+#    and "she told you twice not to come" is the evidence that it is administered rather
+#    than requested. RESIST: you let her find it in the morning.
+# MID
+#  ON THE PAGE: your friend volunteers at the drop-in and has taken you through the back;
+#    the sign-in book; the rule that nobody gets more than three nights; she has told you
+#    the kitchen is staff only and that she is answerable for it; a man has been on the
+#    chairs in a wet coat for an hour and has asked for nothing.
+#  THE ACT NEEDS: him (stated) · the staff kitchen (stated).
+#  THE POLE NEEDS: cosseting at low pitch, and it rests entirely on "has asked for
+#    nothing" — that is the clause the trim removed and the third list caught. Without it
+#    the tea answers a request and the facet becomes solicitous. RESIST: you leave him be.
+#    LANE B holds: the book, the three nights and the staff-only kitchen are the rules the
+#    place runs on.
+# LOW
+#  ON THE PAGE: four of you are walking a forest track; your friend has her boots off on a
+#    stump at the halfway point with both heels open; there are four miles left; you have
+#    the tape in your bag; she says she cannot see the backs of them properly herself.
+#  THE ACT NEEDS: the roll, meaning the tape (stated) · the others (stated).
+#  THE POLE NEEDS: spartan at low pitch, and it needs her sentence about not being able to
+#    see them — that names the specific act being declined, so handing the roll over is a
+#    real vote rather than a shrug. RESIST: you sit down and do them for her.
+# LEAST
+#  ON THE PAGE: six in the morning at the lido; the man who opens up has chalked eight
+#    degrees on the board and given the five of you the rule, ten minutes and out; round
+#    the back is a hut with a kettle that only the regulars know about; the woman you
+#    talked into coming is out, dripping, and cannot feel her hands.
+#  THE ACT NEEDS: the hut (stated) · her (stated) · the fact that she would not find it
+#    (stated — only the regulars know).
+#  THE POLE NEEDS: the inverse fully — you are the reason she is here, she is in trouble,
+#    and what she gets is directions to a hut she could not have found. The "only the
+#    regulars" clause is what makes the withholding legible. RESIST: you get out and walk
+#    her round.
+#~ ============ COLD READ STAMPS — regenerate with `node scripts/cold-read.mjs stamp <file>` ====
+#~ Each line is the facet text as it stood when it was cold-read. `commit` refuses
+#~ the batch if any of them has changed since. Edit a facet, read it again, restamp.
+#@ umami-boiled-adzuki most fa9664880c
+#@ umami-boiled-adzuki high 2ff3078144
+#@ umami-boiled-adzuki mid 8e8a03c8cc
+#@ umami-boiled-adzuki low b1c8062b3d
+#@ umami-boiled-adzuki least eaabf2cb03
+#@ umami-fermented-butter most 1e72343958
+#@ umami-fermented-butter high 3f9fda2bab
+#@ umami-fermented-butter mid 31a7b50ea8
+#@ umami-fermented-butter low d2d215204c
+#@ umami-fermented-butter least 1a8b94d01b
+#@ sour-fried-chickpea most 5f161d4791
+#@ sour-fried-chickpea high 20f3cf73f2
+#@ sour-fried-chickpea mid c62c6837ef
+#@ sour-fried-chickpea low c0d35fad40
+#@ sour-fried-chickpea least ac3ca3c5a2
+#@ spicy-dried-cannellini most 0829dfb711
+#@ spicy-dried-cannellini high b1bc5a7069
+#@ spicy-dried-cannellini mid 3b8bd520e8
+#@ spicy-dried-cannellini low 38d081d5d0
+#@ spicy-dried-cannellini least c4aeed5cea
+#@ sweet-roasted-mung most 5bab7df5da
+#@ sweet-roasted-mung high 3f54330869
+#@ sweet-roasted-mung mid f312d95378
+#@ sweet-roasted-mung low c272a7a795
+#@ sweet-roasted-mung least 1a34c62b6a

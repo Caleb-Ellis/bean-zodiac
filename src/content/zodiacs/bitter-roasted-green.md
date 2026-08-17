@@ -17,32 +17,37 @@ antiTriple: umami-boiled-cannellini
 antiBeans: [black, butter]
 antiForm: dried
 seasonalFortune: "A season of blistered walnut and short heat — the oven finishes before the table sits."
-fortuneMost: Twenty miles an hour on foot, and the roadrunner has never once strolled.
-fortuneHigh: Do it now and briefly; long is not better.
-fortuneMid: You were finished while they were still settling in.
-fortuneLow: Some things only work at the pace of the slowest person there.
-fortuneLeast: Take the long way and stop for things.
+fortuneMost: Brisk enough and the difficult things go somewhere else.
+fortuneHigh: A roadrunner covers ground faster than it flies.
+fortuneMid: The quick reply clears the day.
+fortuneLow: Ask for the long version.
+fortuneLeast: Dawdling has its own rewards.
 facetMostTitle: Sudden Beanpact
-facetMost: She has got as far as the reason she rang and you have the answer already. You give it, you say right then, and the call is over in fifty seconds, and she had two other things to say and neither of them got said.
+facetMost: Your uncle's widow has got as far as the last week in the hospital, and there is nobody in the queue behind her. You say he was a good man and put her hand in her son's.
+facetMostAction: You say he was a good man and put her hand in her son's.
 facetHighTitle: The West Bean
-facetHigh: A meeting is scheduled for an hour. You do it in nineteen minutes. Everybody has what they need and nobody has to come back to you about any of it.
+facetHigh: It is your last day on the site and the crew taking the job on are stood in the half-built room waiting for the handover, and you know three things about the first-floor joists that are on none of the drawings. You give them the two big ones and leave the third.
+facetHighAction: You give them the two big ones and leave the third.
 facetMidTitle: Speedy Beanzales
-facetMid: You come in, take your coat off, put the shopping away in the order the cupboards are in, get the pan on. Have the whole meal going before anybody else in the house has decided what to do with the evening.
+facetMid: Your partner has been in the same aisle at the garden centre twenty minutes with a plant in each hand, and it is her Saturday and she is enjoying it. You put the taller one in the trolley and start walking to the till.
+facetMidAction: You put the taller one in the trolley and start walking to the till.
 facetLowTitle: Lazy Beanday
-facetLow: Washing has been in the machine since morning and is going to want doing again. You will get to it in a bit.
+facetLow: You had the aquarium and the long walk planned for the day at the coast, and your friend would rather sit on the pier. You sit down next to her.
+facetLowAction: You sit down next to her.
 facetLeastTitle: All the Time in the Bean
-facetLeast: There is one errand and the whole day for it. You look at the paper first. You have a second coffee, look at the paper again, and leave the house at four.
-question: A phone call has reached the point and you already know the answer. You...
-answerMost: Give it, and end the call
-answerHigh: Answer, check there's nothing else, and go
-answerMid: Answer, and let them talk a bit
-answerLow: Let the conversation run its course
-answerLeast: Still be on there half an hour later
-rorschachMost: a slammed door, still shaking
-rorschachHigh: a hare, blurred behind
-rorschachMid: a hull and its wake
-rorschachLow: a snail and its trail
-rorschachLeast: a puddle in no hurry
+facetLeast: You are at the tiller of a hired narrowboat, the lock paddles are wound by hand, and it takes twenty minutes to get one boat through. There is a boat behind you, four more locks, and the yard wants it back by six. You tie up above the lock and put the kettle on.
+facetLeastAction: You tie up above the lock and put the kettle on.
+question: Your uncle rings on a Sunday, and there are twelve minutes before you have to leave. What happens to the call?
+answerMost: everything gets covered, and the phone goes down on the twelfth minute
+answerHigh: his news and yours both get said, warmly, inside the twelve
+answerMid: he gets twenty minutes
+answerLow: the afternoon goes on the call
+answerLeast: it runs on an hour, until he's out of things to say
+rorschachMost: a swatted fly
+rorschachHigh: a sweeping broom
+rorschachMid: a whisk in a bowl
+rorschachLow: a scuffed heel
+rorschachLeast: a slug on a path
 ---
 
 Wood-Fired Green Beans are the Bean Zodiac's most brisk. The catch-up is twelve minutes, fully warm, and covers everything — then they are up and gone. Sometimes the abruptness reads as dismissal. A long unhurried afternoon with nothing in it makes them itch.

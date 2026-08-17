@@ -21,16 +21,21 @@ fortuneHigh: Fear not at whom the kookaburra laughs — it laughs at thee.
 fortuneMid: The truth can be loose sometimes.
 fortuneLow: Many a true bean is roasted in jest.
 fortuneLeast: The bean's been peeled.
-facetMostTitle: Thank Bean for Smoking
+facetMostTitle: Thank You for Beaning
 facetMost: The officiant completely mangles the bride's name and the whole hall freezes. You riff on the mistake, no hesitation.
-facetHighTitle: The Importance of Being Beanest
+facetMostAction: You riff on the mistake, no hesitation.
+facetHighTitle: The Importance of Beaning Earnest
 facetHigh: A smug dig lands at your expense, and the group turns to watch you take it. You fire back, short and sharp.
+facetHighAction: You fire back, short and sharp.
 facetMidTitle: His Bean Friday
 facetMid: The tour guide has been talking about an old statue for ten minutes. You ask the person next to you if they think the statue's bored too.
+facetMidAction: You ask the person next to you if they think the statue's bored too.
 facetLowTitle: Bean Zeppelin
 facetLow: Someone thanks you for something you didn't actually do, openly and a little teary. You take it straight and just say thank you back.
+facetLowAction: You take it straight and just say thank you back.
 facetLeastTitle: Gravity Bean
-facetLeast: Asked across the table what you do, you just say it plainly — no setup, no twist, not even an "it pays the bills".
+facetLeast: You are asked what you do for a living. You answer plainly — no setup, no twist, not even an "it pays the bills".
+facetLeastAction: You answer plainly — no setup, no twist, not even an "it pays the bills".
 question: An offhand thing you posted in your early teenage years resurfaces, and your friends are quoting it with their own punchlines added on. You...
 answerMost: outdo every punchline with a sharper one
 answerHigh: drop one clean quip and let it ride

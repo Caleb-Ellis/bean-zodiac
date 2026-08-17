@@ -1,0 +1,562 @@
+# BATCH 18 — pitch layout most=E high=G mid=G low=E least=G
+# Elevated slots are MOST and LOW. MOST TAKES LANE A — most is the excess in all five,
+# which is an overshoot with a consequence, and irreversibility suits it exactly. LOW
+# TAKES LANE B — low is a withdrawal or a single concession, and jeopardy deflates
+# those; access does not.
+#
+# ============ STEP 1 ONLY ============
+# The axis work below is done against the three source files for each entry and against
+# every neighbouring trait already written. THE POLES ARE FIXED. Steps 2-8 are worked on
+# top of this; do not re-derive the axes, and do not quietly widen a pole to fit a scene
+# you like. If a scenario will not sit on the pole as written, the scenario is wrong.
+#
+# Rows are still to be added at step 4. Run `plan` before any prose exists.
+#
+#
+# === umami-roasted-fava — defiant / insubordinate / submissive
+# AXIS: something with actual power over you has told you to stop, and named or implied
+#   what it can do about it, and you go on anyway where it can be seen. Fava moves toward
+#   the difficult thing and starts before the outcome is safe; roasted develops OUTWARD,
+#   in front of everyone, so nothing here is quiet or sly; umami is the slow one, so this
+#   is a refusal kept up over time rather than one hot moment.
+# NOT: headstrong (spicy-fried-green, approved). Headstrong is the reader's own will
+#   against ADVICE — parents, a boss offering a raise, everyone saying pull out. Nobody in
+#   those five can DO anything to the reader; they can only be wrong at them. Defiant needs
+#   A POWER THAT CAN ACTUALLY IMPOSE SOMETHING, AND THE SANCTION HAS TO BE ON THE PAGE —
+#   the ban, the fine, the removal, the losing of the thing. If the only consequence of the
+#   act is that people disapprove, it is headstrong and it is wrong.
+#   NOT firm (sour-dried-navy, batch 05 — a position that does not move when pushed; there
+#   is no authority in it). NOT irreverent (sour-roasted-pinto, batch 03 — treating the
+#   grand thing lightly; defiance is not a joke and takes the power seriously enough to
+#   break with it). NOT subversive (spicy-fermented-fava, queued — SAME BEAN, and it works
+#   underneath; roasted means this is done in the open, which is the separation to keep).
+# POLES, as bare dispositions:
+#   MOST  insubordinate — the refusal has stopped being about the thing it started over.
+#         You go on breaking with them where it costs somebody who is not you, and you
+#         will not be reached on any terms they can offer.
+#   HIGH  defiant — the sanction is stated and real, and you do the forbidden thing openly,
+#         under your own name, and pay for it.
+#   MID   defiant, low pitch — a standing instruction from someone with genuine power over
+#         you, visibly not complied with, in something small enough that only you carry it.
+#   LOW   submissive, low pitch — you comply once against your own view, and the reason is
+#         stated. Not agreeableness: it must be an instruction obeyed.
+#   LEAST submissive — you do exactly as told, openly and fully, and you are settled about
+#         it rather than sour. WATCH: not being nice, not being a team player. It is the
+#         instruction being taken as an instruction and that being fine.
+#
+#
+# === umami-dried-adzuki — reverential / awestruck / profane
+# AXIS: something greater than you is present and you conduct yourself the way it asks,
+#   at cost, whether or not anybody is checking. Adzuki knows which moments deserve to be
+#   marked and marks them fully; dried undergoes nothing and keeps a thing intact for as
+#   long as keeping takes; umami is depth and slowness, so the observance is a settled
+#   practice rather than a mood.
+# NOT: solemn (umami-smoked-black, batch 15). Solemn treats a thing as WEIGHING WHAT IT
+#   WEIGHS, on its own terms, with nothing above the reader — the last press going off,
+#   the logbook since 1928. Reverential POINTS UP: THERE HAS TO BE SOMETHING GREATER THAN
+#   THE READER ON THE PAGE, and the reader is the smaller party. If the reader is simply
+#   giving a thing its proper weight, it is solemn and it is wrong.
+#   NOT antiquarian (bitter-fermented-adzuki, batch 03 — SAME BEAN). Antiquarian is the
+#   OLD OBJECT AND ITS KEEPING — account books, the county archive, the boxes in the loft.
+#   What is revered here NEED NOT BE OLD AT ALL, and no facet may turn on age or on an
+#   artefact being preserved.
+#   NOT hallowed (umami-smoked-adzuki, queued) and NOT ceremonious (bitter-boiled-adzuki,
+#   queued — the FORM observed for its own sake). Nothing supernatural is required and no
+#   facet needs a religion.
+# NOTE ON THE INVERSE: profane means HANDLING THE SACRED THING AS ORDINARY MATERIAL — the
+#   good plates used for beans on toast. It does not mean swearing, and it does not mean
+#   being disrespectful to a person.
+# POLES, as bare dispositions:
+#   MOST  awestruck — the greatness takes you out of service. In front of it you cannot do
+#         the plain thing somebody was relying on you to do, and they carry that.
+#   HIGH  reverential — a real and stated cost paid to keep the form the thing asks for,
+#         when the shortcut was available and nobody would have known.
+#   MID   reverential, low pitch — a small observance kept while everyone around you is
+#         handling the same thing casually, at a cost only to you.
+#   LOW   profane, low pitch — you put it to ordinary use once, deliberately, for a stated
+#         practical reason.
+#   LEAST profane — the thing is treated as plain material, in the open, and you are
+#         settled about it. The price of that is visible; it is a position, not a lapse.
+#
+#
+# === sour-smoked-mung — revealing / exposing / concealing
+# AXIS: something is being kept out of sight, for a reason the page states, and you bring
+#   it into view. Mung is the healer, so at the trait poles the bringing-out is FOR THE
+#   GOOD OF WHAT IS REVEALED; smoked works with no visible cause, so the reader's hand in
+#   it is never announced; sour cuts the thing down to what is actually true.
+# NOT: confiding (umami-roasted-cannellini, approved). Confiding is telling somebody
+#   something private ABOUT YOURSELF, to them, as trust — the tattooist, the hospital
+#   chair, the washing-up. REVEALING IS MAKING SOMETHING VISIBLE THAT WAS BEING KEPT OUT
+#   OF SIGHT, AND IT NEED NOT BE THE READER'S OWN — which is exactly why the excess is
+#   exposing rather than oversharing. If a facet works by the reader disclosing their own
+#   business, it is confiding and it is wrong.
+#   NOT frank / forthright / blunt (sour-roasted-cannellini b01, sour-roasted-edamame b02,
+#   sour-fried-edamame b16) — those are all MANNER OF SPEECH, saying the hard thing
+#   straight. Revealing is about a thing coming into view, and the reader may say very
+#   little. NOT piercing (sour-smoked-cannellini, batch 09 — SAME FLAVOUR AND SAME FORM;
+#   that is seeing through somebody, an act of perception. This is an act of disclosure,
+#   and what is uncovered is already known to somebody).
+# DESIGN RULE: EVERY FACET STATES WHY THE THING WAS BEING KEPT BACK. Without the reason
+#   there is nothing being uncovered, only a fact mentioned, and Accept collapses into
+#   "yes, I talk about things".
+# POLES, as bare dispositions:
+#   MOST  exposing — you put it in front of people who cannot un-see it, and the person
+#         whose thing it was had a reason and did not choose the moment. It serves the
+#         truth and not them.
+#   HIGH  revealing — real cost to you, and what was being hidden gets seen by the person
+#         who needed to see it, for the good of the one who was hiding it.
+#   MID   revealing, low pitch — a small covered thing brought into the open where leaving
+#         it covered would have been easy and unnoticed, at a cost only to you.
+#   LOW   concealing, low pitch — you keep one thing out of sight once, for a stated reason.
+#   LEAST concealing — you actively keep the cover on, openly, and you hold that hidden is
+#         the better state. Settled, not cowardly.
+#
+#
+# === spicy-fried-black — relentless / remorseless / relenting
+# AXIS: THE ABSENCE OF LET-UP. The pressure does not come off — not when it is answered,
+#   not when it is late, not when the other side has had enough — and none of it shows on
+#   you. Black gives nothing away, so the reader's face is the same throughout; spicy means
+#   it demands attention now; fried commits in the same motion as deciding.
+# NOT: driven (spicy-fried-cannellini, batch 13 — SAME FLAVOUR AND SAME FORM, the sharpest
+#   trap in the batch). DRIVEN IS MOTION TOWARD A GOAL WITH EVERYTHING ELSE EDITED AWAY:
+#   the judo trial, the surveying diploma, the milk round at five, the promotion turned
+#   down to keep the evenings. Every one of those five is a thing the reader WANTS, and the
+#   cost is what they gave up for it. RELENTLESS HAS NO DESTINATION. The point is that it
+#   does not stop, and the excess — remorseless — is failing to stop when a person in front
+#   of you needs you to. TEST: if a facet would work equally for driven, it is driven and
+#   it is wrong. So no ambitions, no training, no qualification, no career anywhere in this
+#   entry, and nothing the reader is pursuing because they want the prize at the end.
+#   NOT dogged (spicy-boiled-kidney, queued — endurance, taking it), NOT tireless
+#   (spicy-boiled-mung, queued — capacity to keep going), NOT urgent (spicy-fried-mung,
+#   queued — speed). Relentless is about the OTHER side never getting a break.
+# DESIGN RULE: nothing shows on the reader's face and no facet may state that the reader
+#   is angry, wound up, or enjoying it. The pole is legible from the count — the ninth,
+#   the second morning, the third time this week — never from temperature.
+# POLES, as bare dispositions:
+#   MOST  remorseless — somebody in front of you has asked you to stop and has a plain
+#         reason, and the pressure goes on, and what it does to them cannot be taken back.
+#   HIGH  relentless — every marker says this is the point where people stop, and it costs
+#         you something named, and you go again.
+#   MID   relentless, low pitch — a small thing everyone else has written off, and you
+#         keep at it past where anyone is watching, at a cost only to you.
+#   LOW   relenting, low pitch — you take the pressure off once, deliberately, for a stated
+#         reason, with what you are giving up named.
+#   LEAST relenting — you let the whole thing go and are settled about it, with the price
+#         of letting go visible on the page.
+#
+#
+# === sweet-boiled-kidney — compassionate / pitying / hard-hearted
+# AXIS: somebody is suffering, in front of you, and you go into it with them at a cost you
+#   actually pay. Kidney puts itself between people it loves and harm; boiled is the steady
+#   one others come to in order to be restored, which is why the reader can stay in the
+#   room; sweet means it is for them and not for the reader's own account of themselves.
+# NOT: kind (sweet-boiled-cannellini, batch 07 — SAME FLAVOUR AND SAME FORM). Kind is
+#   GENEROSITY OF MANNER, given freely and cheaply — the rest of a library hour, saying the
+#   man was out of order, taking the coffee. COMPASSIONATE REQUIRES SUFFERING ON THE PAGE
+#   AND COSTS THE READER SOMETHING TO ANSWER. If nobody in the scene is in pain, or if the
+#   answer is free, it is kind and it is wrong.
+#   NOT sympathetic (sweet-fermented-kidney, queued — SAME BEAN, feeling with), NOT
+#   nurturing (sweet-boiled-mung, queued — SAME FLAVOUR AND FORM, tending over time), NOT
+#   solicitous (sour-roasted-mung, queued — attentiveness). The distinguishing feature here
+#   is THE COST PAID TO GO IN, and that it is a single encounter rather than a regime.
+# NOTE ON THE EXCESS: pitying is NOT giving too much. IT IS MAKING THE PERSON AN OBJECT —
+#   their situation handled over their head, their standing taken from them by the manner
+#   of the help. That has to be visible in the act itself, not asserted.
+# POLES, as bare dispositions:
+#   MOST  pitying — you take the person's trouble over and deal with it above them, in
+#         front of others, and what they lose is their standing, and it cannot be undone.
+#   HIGH  compassionate — real suffering, and you give up something concrete and named to
+#         stay in it with them, on their level.
+#   MID   compassionate, low pitch — a smaller trouble, a smaller cost, and you stay in it
+#         where moving on was the ordinary thing to do.
+#   LOW   hard-hearted, low pitch — you decline once to go in, and the reason is stated.
+#   LEAST hard-hearted — the suffering is plainly in front of you and you leave it where it
+#         is, openly, and are not troubled. A position, with its price on the page.
+#
+# ============ STEP 2 — what is off-limits ============
+# fava: fortunes own the mustang that is caught and never ridden, "refuse it outright",
+#   "saying no once saves saying it ten times", "do as asked this once", "going along costs
+#   less than it looks", lamb fat and mint. OLD FACETS: a letter telling you to stop and
+#   the same thing done again in daylight; an instruction refused in writing with two
+#   people copied in; a rule questioned until somebody answers; work done exactly as asked
+#   after one quiet objection; a brief changed again and redone over the weekend with
+#   thanks. QUESTION owns missing float money and a manager who says the matter is closed.
+#   FOUR OF THE FIVE OLD FACETS ARE AN OFFICE — a letter, an instruction, a rule, a brief.
+#   That whole world is spent, and FACETS.md bans it anyway. No written objections, no
+#   copying anybody in, no briefs, no managers.
+# adzuki: fortunes own the sacred ibises mummified by the million, "take your hat off for
+#   it", "ticket stubs outlive the trips", "it's only a thing", "use the good plates for
+#   beans on toast", dried scallop and old soy. OLD FACETS: ninety seconds of totality with
+#   every phone up; a bog body in a museum store and a hat coming off; a cathedral sat
+#   through for the service; a telescope looked through once before the last bus; ashes
+#   into the water and the first joke afterwards. QUESTION owns the oldest thing you own.
+#   So NO eclipse, NO bog body, NO cathedral, NO telescope, NO ashes. Note the question is
+#   entirely about an OLD OBJECT, which is antiquarian's territory — another reason nothing
+#   in these five turns on a thing being old.
+# mung: fortunes own the cleaner wrasse working inside the mouth of a bigger fish, "reveal
+#   enough and people learn to guard what they say", "bringing it into the open helps",
+#   "cover for them this once", "some things stay better hidden", kokum and rice husk. OLD
+#   FACETS: four hours in the car and her father and the money; a life-drawing class and
+#   the man who never speaks; a true thing said at a table and the next true thing said
+#   after it; a grandfather asked about and the potatoes passed; a reunion and "people
+#   drifted". QUESTION owns four in a kitchen and the quiet one on his father's drinking.
+#   The old set is almost all SOMEBODY TALKING AT LENGTH while the reader listens, which is
+#   confiding's shape, not this one. So no long confessions, no car journeys, no reunions.
+#   What gets revealed here is mostly NOT SPEECH — a thing put where it can be seen.
+# black: fortunes own the mako that has to keep swimming to breathe, "nothing finished ever
+#   counts for long", "one more pass usually improves it", "an easy win still counts", "let
+#   somebody else finish it", chipotle and unbroken heat. OLD FACETS: eight letters to the
+#   water company and then the apology; a lodger dodging about the deposit, met outside his
+#   work twice; ringing again about the drainage; a six-month claim dropped; one no from a
+#   committee and the idea back in the drawer. QUESTION owns a maths set asked for twice.
+#   So NO complaint letters, NO utilities, NO claims, NO chasing money, NO committees, NO
+#   school requests. That burns the obvious half of this trait's territory, which is the
+#   point: what is left is pressure ON A PERSON and going back out when everyone has gone in.
+# kidney: fortunes own the elephant standing over a fallen one for hours, "pity somebody
+#   enough and they become somebody to be pitied", "kindness costs less than it looks",
+#   "treat them as capable", "hard-heartedness gets the difficult job done", coconut milk
+#   and palm sugar. OLD FACETS: a man outside a bakery asked about the hostel and his
+#   sister with a queue round you; a colleague's marriage taken out to the yard; a
+#   neighbour at the gate about her boy; a friend let go for the third telling; a lost child
+#   at the coconut shy left for the tea tent. QUESTION owns a towpath, twenty minutes, and a
+#   husband gone into a home. So NO street begging, NO lost children, NO neighbour at a
+#   gate, NO redundancy told repeatedly.
+#
+# ============ STEP 4 — scenarios ============
+umami-roasted-fava	most	football ground	ban-ignored	family	elevated
+# LANE A — the season ticket is gone with yours and the list is nine years. Cannot be undone.
+umami-roasted-fava	high	building site	site-returned	official	grounded
+umami-roasted-fava	mid	shop	search-refused	stranger	grounded
+umami-roasted-fava	low	jury room	direction-obeyed	group	elevated
+# LANE B — how a jury actually works: the numbered books collected in each night, the officer outside the door, what the judge can order struck out.
+umami-roasted-fava	least	walkie-talkie	closure-held	official	grounded
+#
+umami-dried-adzuki	most	maternity ward	moment-overwhelming	friend	elevated
+# LANE A — she asked you to be in the room and it happens once. Cannot be undone.
+umami-dried-adzuki	high	museum	slot-kept	group	grounded
+umami-dried-adzuki	mid	station	concourse-stopped	stranger	grounded
+umami-dried-adzuki	low	church	vessel-borrowed	friend	elevated
+# LANE B — how a church is actually kept: the vestry cupboard, the safe with the registers, who holds the key, what gets washed up in the little sink.
+umami-dried-adzuki	least	livestream	stream-background	family	grounded
+#
+sour-smoked-mung	most	restaurant	collapse-disclosed	family	elevated
+# LANE A — said at his dad's sixtieth in front of eleven people. Cannot be unsaid.
+sour-smoked-mung	high	kitchen	letters-shown	family	grounded
+sour-smoked-mung	mid	evening class	difficulty-surfaced	stranger	grounded
+sour-smoked-mung	low	animal shelter	history-omitted	stranger	elevated
+# LANE B — how a shelter actually works: the kennel card, what goes on it and what does not, the eleven months, who decides a dog is ready.
+sour-smoked-mung	least	voicemail	messages-deleted	friend	grounded
+#
+spicy-fried-black	most	a and e	desk-returned	friend	elevated
+# LANE A — he gets removed, or he goes home with the hand undone. Cannot be undone.
+spicy-fried-black	high	moor	search-resumed	group	grounded
+spicy-fried-black	mid	laundrette	ring-hunted	housemate	grounded
+spicy-fried-black	low	magic show	secret-conceded	stranger	elevated
+# LANE B — how the trick is actually built: the box, what is hinged and what is not, which ones he will show and which one is his own.
+spicy-fried-black	least	answerphone	calls-ended	family	grounded
+#
+sweet-boiled-kidney	most	careers fair	case-narrated	friend	elevated
+# LANE A — said over him at the stand with the queue behind. Cannot be taken back.
+sweet-boiled-kidney	high	hospice	night-taken	friend	grounded
+sweet-boiled-kidney	mid	waiting room	place-yielded	stranger	grounded
+sweet-boiled-kidney	low	police station	account-declined	family	elevated
+# LANE B — how a custody desk actually works: the property bag, the sergeant's book, what time he was in and who they let him ring.
+sweet-boiled-kidney	least	doorbell camera	door-refused	housemate	grounded
+#
+# ============ COLD READ (on the final text, after all editing) ============
+# Fixed at the lint: one first-mention definite noun carrying a setting ("the trial"),
+# one stack of clauses before the main verb, one facet over the same-shape cap in each
+# of three entries, and three verbless flags that were the rule's fault, not the prose's
+# — "stay", "delete" and "fell" were missing from the verb list in lint-facets.mjs and
+# have been added. What remains in the linter is the per-entry median-length warning on
+# all five (49-55 words), which fires on approved entries too.
+#
+# THE READ FOUND TWELVE, ELEVEN OF THEM IN THE CLOSING ACT and every one of them a noun
+# the setup had never bought — half time with no match on the page, "yours" with no bag,
+# a corridor, a bag on a concourse, a communion jug, a counter, a torch, a second machine
+# with no first, a receptionist, a car, a brother of hers, and a dinner. Two more were
+# POLE faults caught by the third list, not by the first two:
+#   mung high — the letters were never said to contain anything, so putting them out read
+#               as breaking a promise for its own sake rather than for her good. Now
+#               "three appointments missed".
+#   mung mid  — nothing on the page cost the reader anything, so asking the tutor to read
+#               aloud was free and the low-pitch trait had no price. Now "two pages on
+#               glazes that everybody else has started on".
+# All are RE-READ below on the new text and marked.
+#
+# umami-roasted-fava
+#  most  RE-READ. "at half time" needed a match, and the page had only put you outside a
+#        club. Now "and you are both in the ground".
+#        ON THE PAGE: you went over the hoardings when the club sold the training ground;
+#        the ban says one more and the season ticket goes; the sale fell through a month
+#        ago; the ticket is your dad's name as well as yours; thirty years of it; you are
+#        both in the ground. ACT NEEDS: over = the hoardings; half time = the match you
+#        are both at.
+#        POLE NEEDS: insubordinate rather than defiant, and the clause that makes it is
+#        "the sale fell through a month ago" — the cause is settled and you go anyway.
+#        The sanction is real and stated, and it lands on somebody who is not you (thirty
+#        years, his name). Cut either clause and this is ordinary defiance.
+#        RESIST: stay in your seat.
+#  high  ON THE PAGE: you reported the missing edge protection on the third floor; the
+#        site manager has taken your shifts off you for it; he told the gang why; another
+#        turn-up and it is for good. ACT NEEDS: the signing-in; seven; the work.
+#        POLE NEEDS: defiant — a power that can actually do something, with the sanction
+#        named twice (shifts gone, then for good), and the act done in the open under your
+#        own name, which is the roasted part. This is not headstrong- nobody here is
+#        merely of the opinion that you are wrong. RESIST: stay off.
+#  mid   RE-READ. "You put yours back on your shoulder" had no bag of yours on the page.
+#        Now "you have one from the shop up the road".
+#        ON THE PAGE: the security man at the door; bags from other shops go behind his
+#        desk; he can have you out if they do not; you have one from the shop up the road.
+#        ACT NEEDS: it = your bag; your shoulder; in.
+#        POLE NEEDS: defiant at low pitch — a standing instruction from somebody who can
+#        eject you, visibly not complied with, and the whole cost is yours.
+#        RESIST: hand it over.
+#  low   ON THE PAGE: second day of a trial you have been called up for; the notebooks are
+#        numbered and collected in every night; the witness said the man had done this
+#        before; the judge has told the twelve of you to strike that or the trial starts
+#        again; it is the only thing you have heard that explains anything.
+#        ACT NEEDS: your note; the line.
+#        POLE NEEDS: submissive at LOW pitch, and it must be an instruction obeyed rather
+#        than agreeableness — the judge orders it, and the reason is stated (the trial
+#        starts again). "The only thing you have heard that explains anything" is the
+#        clause that makes obeying cost something; without it there is no vote.
+#        RESIST: keep it in.
+#  least ON THE PAGE: you are marshalling the road closure on a half marathon; control has
+#        said on the radio that nobody crosses until the sweeper van is through; another
+#        forty minutes; a woman with a pushchair; her mum's christening at eleven, four
+#        streets away. ACT NEEDS: her; the van.
+#        POLE NEEDS: the inverse fully — the instruction is taken as an instruction and
+#        that is settled, not sour. Freedom (it is not yours to decide) and price (the
+#        christening, which is what stops this being a facet about a rule nobody minds).
+#        RESIST: let her over.
+#
+# umami-dried-adzuki
+#  THE POINTING-UP CHECK, run on all five: in every one there is something on the page
+#  larger than the reader — a birth, the painting, the two minutes, the church, the
+#  funeral. None of them turns on a thing being old, which is the antiquarian guard.
+#  most  RE-READ. "You go and stand out in the corridor" had no corridor. The midwife now
+#        opens the door onto it.
+#        ON THE PAGE: your friend asked you months ago to be the one in the room with her;
+#        there is nobody else; her mum is four hours off; eleven hours in; the midwife
+#        opens the door onto the corridor and says come on then.
+#        ACT NEEDS: out there = the corridor.
+#        POLE NEEDS: awestruck — the door is open, the invitation is spoken, and there is
+#        no substitute for you ("nobody else", "four hours off"), so what stops you is the
+#        size of it and nothing practical. That is the excess of reverence rather than
+#        squeamishness, and it happens once. RESIST: go in.
+#  high  ON THE PAGE: the one painting is in a room on its own; the ticket gives you ten
+#        minutes in there; the three you came with did two minutes and are out in the
+#        shop; their lift home goes now; the train instead is forty pounds.
+#        ACT NEEDS: the room; the whole ten.
+#        POLE NEEDS: reverential — the shortcut is on the page and has been taken by
+#        everybody else, nobody would know, and the cost is priced (the lift, forty
+#        pounds). RESIST: go with them.
+#  mid   RE-READ. "You put your bag down" had no bag. The act is now "You stop where you
+#        are for the whole two minutes", which uses only what the line states.
+#        ON THE PAGE: eleven o'clock on the concourse; the tannoy asks for two minutes;
+#        half the station keeps walking; your train goes from platform four in ninety
+#        seconds. ACT NEEDS: where you are; the two minutes.
+#        POLE NEEDS: reverential at low pitch — the observance is asked for, half the
+#        people present decline it, and the ninety seconds is what it costs you and only
+#        you. RESIST: get the train.
+#  low   RE-READ. "the communion jug" and "the tap" both arrived at the act. The vestry
+#        cupboard now has the jug in it and the little sink has the one tap.
+#        ON THE PAGE: your friend cleans the church; she has taken you through the vestry;
+#        the safe the registers live in; the little sink with the one tap; the cupboard
+#        with the communion jug and the plate in it; the flowers for the morning need
+#        water; nothing in there holds more than a cup. ACT NEEDS: the jug; the tap.
+#        POLE NEEDS: profane at LOW pitch — the sacred object is put to plain use once and
+#        the practical reason is stated and specific (nothing else holds more than a cup),
+#        which is what holds it short of the inverse. RESIST: fill the cup ten times.
+#  least RE-READ TWICE. "You put it on the counter" needed a counter, and the replacement
+#        "get on with the dinner" needed a dinner. Now "You set it going and start
+#        cooking", which needs nothing the line has not given.
+#        ON THE PAGE: your great-aunt's funeral is being streamed; half the family are
+#        abroad; you could not get the day off; your mum has asked you to watch it
+#        properly. ACT NEEDS: it = the stream.
+#        POLE NEEDS: the inverse fully — the rite is handled as ordinary material with the
+#        ask stated in the same breath, which is what makes it a position rather than a
+#        lapse. Freedom (it is only a screen) and price (your mum asked).
+#        RESIST: sit down to it.
+#
+# sour-smoked-mung
+#  THE KEPT-BACK CHECK, run on all five: every facet states why the thing was being held
+#  out of sight — his dad's eight thousand, being put out of the house, nobody else there
+#  knowing, eleven months in the kennel, parents who know nothing about the account.
+#  Without the reason nothing is being uncovered and Accept collapses into "yes, I talk
+#  about things".
+#  most  ON THE PAGE: your friend's shop shut three weeks ago; he has not told his family;
+#        his dad put the eight thousand in to start it; it is his dad's sixtieth; eleven
+#        of you at the table; his sister asks how the shop is doing.
+#        ACT NEEDS: them = the eleven at the table; what happened = the shop shutting.
+#        POLE NEEDS: exposing rather than revealing — he did not choose the moment, the
+#        room is the worst possible one, and the eleven cannot un-hear it. It serves the
+#        answer to the question and not him. RESIST: let him answer.
+#  high  RE-READ, AND THIS WAS A POLE FAULT. The letters were never said to contain
+#        anything, so putting them out read as breaking a promise for its own sake. Now
+#        "three appointments missed", which is what makes the revealing for her good.
+#        ON THE PAGE: since the fall your mum tells everyone she is managing; the hospital
+#        letters stay in the drawer; three appointments missed; if your brother sees them
+#        he will have her out of the house; she made you promise; he is over on Sunday.
+#        ACT NEEDS: the letters; him = your brother.
+#        POLE NEEDS: revealing — the person who needs to see it sees it, it is for her
+#        good (the missed appointments), and it costs the reader a stated promise. Both
+#        halves are required- the cost alone would be confiding's shape and the good alone
+#        would be ordinary sense. RESIST: keep the promise.
+#  mid   RE-READ, AND THIS WAS A POLE FAULT. Nothing on the page cost the reader anything,
+#        so asking the tutor to read the pages aloud was free. Now the two pages are ones
+#        "everybody else has started on", so asking holds the room up and you are the one
+#        who looks unready.
+#        ON THE PAGE: a man in the Tuesday pottery class; he told you at the break that he
+#        never learned to read properly; nobody else there knows; the tutor has handed out
+#        two pages on glazes; everybody else has started on them.
+#        ACT NEEDS: her = the tutor; them = the two pages; the room.
+#        POLE NEEDS: revealing at low pitch, and the smoked part is that his name never
+#        comes up — what is made visible is the difficulty, not the man. RESIST: get on
+#        with yours.
+#  low   ON THE PAGE: you have been walking the dogs at the shelter long enough to know
+#        what goes on a kennel card and what does not; the lurcher has been in eleven
+#        months; he had the vet's hand once, held down for a jab; it is written nowhere; a
+#        family at his pen ask what he is like. ACT NEEDS: them = the family; the card.
+#        POLE NEEDS: concealing at LOW pitch — one thing kept out of sight, knowingly (you
+#        know what the card leaves off) and for a stated reason (held down for a jab,
+#        eleven months). Knowing and small is what keeps it off the inverse pole.
+#        RESIST: tell them about the hand.
+#  least ON THE PAGE: your friend is staying at her mum and dad's since the split; her ex
+#        has left three messages on the house phone about what she took out of the joint
+#        account; her parents know nothing about it; you are in the house first.
+#        ACT NEEDS: all three = the messages.
+#        POLE NEEDS: the inverse fully — the cover is kept on deliberately and you are the
+#        only one who could have done otherwise ("you are in the house first"), which is
+#        what makes it a position rather than a passing-by. Freedom (her parents are
+#        spared) and price (it is her ex's account of it that you have destroyed).
+#        RESIST: leave them on the machine.
+#
+# spicy-fried-black
+#  THE NO-DESTINATION CHECK, run on all five against spicy-fried-cannellini: not one of
+#  these is a thing the reader wants and is editing their life toward. A hand at a desk, a
+#  dog on a hill, somebody else's ring, a trick that is not yours, an uncle. Driven could
+#  not be written from any of them, which is the test.
+#  most  ON THE PAGE: six hours in with your friend's hand; you have been up to the desk
+#        five times; the nurse says if you come up again she will get security; she is the
+#        only one on; your friend says leave it, he would rather go home.
+#        ACT NEEDS: up = the desk; again = the sixth time.
+#        POLE NEEDS: remorseless rather than relentless, and the whole pole is "your
+#        friend says leave it" — the person it is for has asked you to stop and has given
+#        his reason. Everything that follows lands on him. RESIST: sit down.
+#  high  RE-READ. "You put the torch on" had no torch on the page. Now "the torch is on
+#        its second set of batteries", which prices the night as well.
+#        ON THE PAGE: your friend's dog went off after deer on the second day; the other
+#        four gave up at dark; it is four in the morning; you are wet through; you are
+#        driving home at nine; the torch is on its second set of batteries.
+#        ACT NEEDS: it = the torch; up = back onto the hill the others came off.
+#        POLE NEEDS: relentless — every marker of stopping is on the page (the other four,
+#        dark, four in the morning) and the cost is named (nine, wet through). Nothing is
+#        said about how you feel about it, which is the black bean. RESIST: go in.
+#  mid   RE-READ. "the second machine" implied a first the line never gave, and the hour
+#        that prices it had been trimmed out. Both are back.
+#        ON THE PAGE: your housemate's ring went through the wash; the man who runs the
+#        laundrette says it will be halfway to the sea by now; he has gone back to his
+#        paper; you have had the filter off the first machine an hour.
+#        ACT NEEDS: the filter; the second = the second machine.
+#        POLE NEEDS: relentless at low pitch — it has been written off out loud by the one
+#        person who would know, nobody is watching, it is not even your ring, and you go
+#        on. RESIST: leave it.
+#  low   ON THE PAGE: after the show the magician takes six of you back; he shows how the
+#        box is built — the hinge, the false bottom, where he actually stands; you have
+#        asked him about the coin trick six times tonight; he says that one is his own.
+#        ACT NEEDS: him; the box.
+#        POLE NEEDS: relenting at LOW pitch — the pressure is real and counted (six times)
+#        and it comes off once for a stated reason, and the asking about the box keeps it
+#        short of the inverse, because you have not stopped asking, only stopped asking
+#        that. RESIST: ask about the coin trick again.
+#  least ON THE PAGE: you have rung your uncle every Sunday since your dad's funeral; you
+#        left a message every time; a year of them; he has never once picked up.
+#        ACT NEEDS: one = another message.
+#        POLE NEEDS: the inverse fully — the whole thing is let go and said to be let go,
+#        and the price is on the page and countable (a year of Sundays, and it began at
+#        your dad's funeral). Freedom (the Sundays are yours) and price (that is the end
+#        of it). RESIST: ring next Sunday.
+#
+# sweet-boiled-kidney
+#  THE SUFFERING-AND-COST CHECK, run on all five against sweet-boiled-cannellini: there is
+#  pain on the page in every one (a year out of work, a man dying, a mother who wants to
+#  go home, a brother at three in the morning, a woman living in her car), and answering
+#  it costs something stated. Where the answer would have been free it is kind, not
+#  compassionate, and it has been rebuilt.
+#  most  RE-READ. "the stand" and "the first thing he has come to" were both vague, so the
+#        page never said where this was. Now "the first jobs fair" and "the first stand".
+#        ON THE PAGE: your friend has not worked since the factory shut in January; this
+#        is the first jobs fair he has come to; he gives his name in at the first stand;
+#        the woman there asks what he has been doing; four people are behind you.
+#        ACT NEEDS: her = the woman on the stand; the year = since January.
+#        POLE NEEDS: pitying rather than compassionate — the question was put to him, he
+#        was answering it, and you answer over him to a stranger with four people
+#        listening. What he loses is his own account of himself, in the one room he came
+#        to be looked at in. RESIST: let him answer.
+#  high  ON THE PAGE: your friend's dad has three days in the hospice at most; the family
+#        are doing nights; there is nobody for tonight; you fly in the morning on a
+#        fortnight you booked and paid for in January.
+#        ACT NEEDS: him = your friend; the night = tonight.
+#        POLE NEEDS: compassionate — the suffering is stated and the cost is concrete,
+#        priced and forfeited (booked and paid for), and you go in on his level rather
+#        than arranging something for him. RESIST: fly.
+#  mid   RE-READ. "the receptionist" arrived at the act. She now calls your name in the
+#        setup, which also puts the three weeks where they price the act.
+#        ON THE PAGE: a man is waiting with his mother; she keeps getting up and asking to
+#        go home; the rest of the room looks at the floor; the receptionist has just called
+#        your name; the appointment is one you waited three weeks for.
+#        ACT NEEDS: her = the receptionist; them = the man and his mother.
+#        POLE NEEDS: compassionate at low pitch — smaller trouble, smaller cost, and it is
+#        the moment where moving on was not only available but called for by name.
+#        RESIST: go in.
+#  low   RE-READ. "get in the car" needed a car, and "him" was being used before your
+#        brother was named. Both fixed — the sergeant now reads your brother's property,
+#        and the car is outside.
+#        ON THE PAGE: at half three a sergeant reads your brother's property back to him
+#        at the custody desk — belt, phone, eleven pounds; he starts on why he was there
+#        and what has been going on with him; you have been up since five; the car is
+#        outside. ACT NEEDS: him = your brother; the car.
+#        POLE NEEDS: hard-hearted at LOW pitch — the going-in is offered outright (he has
+#        started) and declined once, with the reason stated and ordinary (up since five,
+#        driving). Taking him home is what keeps it off the inverse. RESIST: hear him out.
+#  least RE-READ. The act sent her to a brother the page had never given her, and the ask
+#        she was making was never stated. Now she is asking to stay, and the act refuses
+#        that and nothing else.
+#        ON THE PAGE: the camera goes off; it is the woman you shared a flat with for four
+#        years; she is on the step with a bag; she has been sleeping in her car since her
+#        landlord put her out; she is asking to stay till she sorts something; you are on
+#        a train back at nine. ACT NEEDS: it = the camera; she cannot = cannot stay.
+#        POLE NEEDS: the inverse fully — the suffering is plain, the ask is plain, and it
+#        is refused openly and without trouble. Freedom (four years is not a claim on your
+#        flat) and price (she goes back to the car tonight). RESIST: tell her to wait for
+#        you.
+#~ ============ COLD READ STAMPS — regenerate with `node scripts/cold-read.mjs stamp <file>` ====
+#~ Each line is the facet text as it stood when it was cold-read. `commit` refuses
+#~ the batch if any of them has changed since. Edit a facet, read it again, restamp.
+#@ umami-roasted-fava most 6fb262cd91
+#@ umami-roasted-fava high fd703f1ad8
+#@ umami-roasted-fava mid 30371a5f7c
+#@ umami-roasted-fava low 8b987cd7df
+#@ umami-roasted-fava least 3b20d71272
+#@ umami-dried-adzuki most 0eb8e372bd
+#@ umami-dried-adzuki high 149ae2fc1f
+#@ umami-dried-adzuki mid 475dd940fc
+#@ umami-dried-adzuki low 879c27c4cd
+#@ umami-dried-adzuki least 8b37602524
+#@ sour-smoked-mung most 5121fe0dbf
+#@ sour-smoked-mung high 2214a06b56
+#@ sour-smoked-mung mid c691e0cf36
+#@ sour-smoked-mung low a6b360ca8d
+#@ sour-smoked-mung least 27d1deceff
+#@ spicy-fried-black most 990628fe75
+#@ spicy-fried-black high cb220407b9
+#@ spicy-fried-black mid 617420309d
+#@ spicy-fried-black low e71c37bbd5
+#@ spicy-fried-black least 062990d3ac
+#@ sweet-boiled-kidney most 0183f724b8
+#@ sweet-boiled-kidney high 7391864dbc
+#@ sweet-boiled-kidney mid 85ec4f16f8
+#@ sweet-boiled-kidney low 2a6589ea90
+#@ sweet-boiled-kidney least 0f688477b9

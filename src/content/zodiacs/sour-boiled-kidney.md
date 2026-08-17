@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-boiled-kidney
-lastUpdated: 
+lastUpdated:
 bean: kidney
 flavour: sour
 form: boiled
@@ -17,32 +17,37 @@ antiTriple: bitter-smoked-fava
 antiBeans: [pinto, black]
 antiForm: fermented
 seasonalFortune: "A season of tamarind and kept promises — the pot is where it said it would be."
-fortuneMost: The guide dog decides nothing and is trusted with everything.
-fortuneHigh: Someone is building on your yes.
-fortuneMid: A commitment slips.
-fortuneLow: A promise gone stiff in the jar can be opened and renegotiated.
-fortuneLeast: A no with its consonants intact beats the drawn-out maybe.
-facetMostTitle: The Godbeanfather
-facetMost: Nine years treasurer of the cricket club and a man on the committee would take the books tomorrow. You have the ledger open on your knees at half nine and you have not mentioned him.
+fortuneMost: Be relied on enough and the reliance becomes a debt.
+fortuneHigh: A guide dog refuses the step its owner cannot see.
+fortuneMid: Being trusted is worth the weight of it.
+fortuneLow: Let somebody down gently.
+fortuneLeast: Nobody is owed all of you.
+facetMostTitle: The Godbean
+facetMost: You told your gran's old neighbour you'd visit every Sunday when she went into the home. That was two years ago, and her own two children live twenty minutes away and come at Christmas. Your friends are meeting at two. You tell them four, and get the bus over.
+facetMostAction: You tell them four, and get the bus over.
 facetHighTitle: Lassie Bean Home
-facetHigh: A friend has told you she is leaving the firm and nobody there knows yet, and you sit through a whole lunch where two people speculate about her and you talk about the roadworks instead.
+facetHigh: You promised your sister you'd be at her graduation in the morning, and you're eleven hours away with the flights cancelled and the trains stopped. Nobody would hold it against you. You take a hire car from the airport desk and start driving.
+facetHighAction: You take a hire car from the airport desk and start driving.
 facetMidTitle: Old Beanler
-facetMid: The lift share runs four mornings and one of them is a forty-minute detour for you. She has never offered petrol money and you have never asked. You are outside her house at ten past seven again, engine running and the radio down low.
+facetMid: You're on a sleeper with a friend who tells you she's travelling on her sister's passport because hers ran out, and asks you not to say anything, and at the border the guard asks whether you're together. You say yes.
+facetMidAction: You say yes.
 facetLowTitle: Beantrayal
-facetLow: You said you would have the dog for the fortnight and the dates have got awkward. You ring and ask whether the kennels might be easier.
-facetLeastTitle: The Beantraitors
-facetLeast: Somebody told you about the ring and the restaurant and the whole plan, and it comes up over a drink and you give the table enough to work out the rest.
-question: A friend has asked you to hold four thousand pounds in your account for a month while her divorce goes through. You...
-answerMost: hold it, and hold the next lot, and never ask
-answerHigh: hold it and mention it to nobody
-answerMid: hold it, on the understanding that it's a month
-answerLow: tell her you'd rather not be in the middle of it
-answerLeast: hold it, and tell her brother when he asks
-rorschachMost: a seal pressed into wax
-rorschachHigh: a knot that holds
-rorschachMid: a stamp and its blot
-rorschachLow: a seal, wax cracked
-rorschachLeast: a snapped cord
+facetLow: A friend told you something about her marriage and asked you not to repeat it, not to anybody. That evening you tell your partner, and say it isn't to go any further.
+facetLowAction: That evening you tell your partner, and say it isn't to go any further.
+facetLeastTitle: The Beanaitors
+facetLeast: Four people in the pub are working out why your friend and her boyfriend split up, and you're the only one who knows, because she told you in her kitchen and asked you not to say. You tell them.
+facetLeastAction: You tell them.
+question: You said in January you'd do the five o'clock airport run, and the week it falls in has turned into the worst one you've had. You...
+answerMost: do the run, and take on the return leg when they ask
+answerHigh: drive them, as promised
+answerMid: drive them out, and say the way back is beyond you
+answerLow: ask them to find somebody else for the five o'clock
+answerLeast: pull out on the morning of it
+rorschachMost: a dog on a lead
+rorschachHigh: a harness
+rorschachMid: a hen and an egg
+rorschachLow: a cracked mug
+rorschachLeast: a broken rung
 ---
 
 Brined Kidney Beans are the Bean Zodiac's most trustworthy. They keep the secret for a decade and turn up for the airport run at five. The obligations pile up until the calendar belongs to other people. Quietly dropping a promise that no longer fits is not a door they open.

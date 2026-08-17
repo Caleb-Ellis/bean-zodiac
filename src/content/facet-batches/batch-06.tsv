@@ -1,0 +1,267 @@
+# BATCH 06 — pitch layout most=G high=E mid=G low=E least=G
+# Elevated slots are high (LANE A — cannot be undone) and low (LANE B — gets to see
+# inside). Lane declared per row below; the test is answered before any prose exists.
+#
+# === umami-roasted-black — insightful / omniscient / unseeing
+# AXIS: one observation about a person and something they had never understood
+#   rearranges itself. Roasted — you say it out loud, unprompted, in the room.
+# NOT: perceptive (sour-fermented-black — noticing), observant (umami-fermented-edamame
+#   — detail). Insightful is the read that EXPLAINS somebody to themselves.
+# PERCEPTION TRAIT — the two obvious moves both fail. Stating the perception ("you can
+#   see she is frightened of him") makes Accept agreement with a portrait; stripping it
+#   leaves the act arbitrary. Each facet: one concrete deniable signal, the rest of the
+#   scene pointing the other way, and an act out of proportion to the signal. Never
+#   write the inference.
+# OFF-LIMITS: snowy owl and the lemming under the snow; "seeing through everybody is
+#   lonely work"; "the load-bearing detail turns up on a walk"; "fine can just mean
+#   fine"; "people change without telling anybody"; bacon fat, garlic. QUESTION owns: the
+#   friend on the phone about a row with her sister. OLD FACETS: ten minutes with a
+#   couple and the whole marriage, the remark about her father, who is really running the
+#   meeting, the divided room taken at face value, last to know those two are together.
+umami-roasted-black	most	barbecue	pair-explained	family	grounded
+umami-roasted-black	high	hospital	brother-accounted	friend	elevated
+umami-roasted-black	mid	pub	seat-chosen	group	grounded
+umami-roasted-black	low	auction house	bidding-believed	stranger	elevated
+umami-roasted-black	least	phone	illness-missed	family	grounded
+# LANE A high: said in the week her dad is dying, and she cannot unhear it.
+# LANE B low: gets to see how a saleroom actually works — who is not bidding, and why.
+#
+# === umami-fried-adzuki — passionate / combustible / dispassionate
+# AXIS: what you care about you care about at full volume and immediately, and it pulls
+#   other people in. There is no mild setting on the dial.
+# NOT: zealous (spicy-boiled-green — cause), ardent (sweet-fried-black — devotion),
+#   driven (spicy-fried-cannellini — ambition). This is the heat of caring, expressed at
+#   once, because fried means no gap between feeling and saying.
+# OFF-LIMITS: andalusian fighting a paper bag; "feeling it that strongly puts everyone
+#   else on eggshells"; "feeling shows in the voice before the words"; "wait until you
+#   have cooled off"; "caring less about it costs you nothing"; soy salt, hot oil.
+#   QUESTION owns: the meeting about closing the library. OLD FACETS: the committee and
+#   the playing field, the jury past lunch, the phone-in's forty seconds, the taken-back
+#   move, the union rep on the factory floor. ALSO: four of those five are meetings,
+#   votes or committees — that whole register is spent.
+umami-fried-adzuki	most	house	ally-savaged	friend	grounded
+umami-fried-adzuki	high	animal shelter	deadline-fought	official	elevated
+umami-fried-adzuki	mid	record shop	record-defended	stranger	grounded
+umami-fried-adzuki	low	cinema	idol-unmourned	group	elevated
+umami-fried-adzuki	least	bus	verdict-shrugged	friend	grounded
+# LANE A high: five o'clock, and after five o'clock it cannot be undone.
+# LANE B low: gets to see a director take his own film apart in front of the people who
+#   love it.
+#
+# === sour-boiled-navy — literal-minded / wooden / elliptical
+# AXIS: you answer the question that was asked, exactly, and hinting at a thing rather
+#   than saying it strikes you as a wasted sentence. Boiled — patiently, at length.
+# NOT: precise (sour-boiled-cannellini, batch 02 — accuracy of the figure; keep this one
+#   about LANGUAGE, and do not go near scales or measurements), plain (sour-dried-butter
+#   — register). Literal-minded is subtext not being a channel you receive on.
+# OFF-LIMITS: parrot repeating it exactly; "take it all literally and the meaning walks
+#   off unnoticed"; "plain words prevent most arguments"; "read between the lines here";
+#   "half of what's meant is never said"; cider vinegar, mustard. QUESTION owns: the
+#   house sale, the survey, the wobbling buyer. OLD FACETS: the contract clause and the
+#   definition of month, how long the drive was, two hundred grams and the scales, the
+#   thing about her sister, answering in the same key about somebody else.
+sour-boiled-navy	most	car park	hint-answered	family	grounded
+sour-boiled-navy	high	registry office	wording-held	family	elevated
+sour-boiled-navy	mid	bike shop	fine-defined	official	grounded
+sour-boiled-navy	low	betting shop	code-followed	stranger	elevated
+sour-boiled-navy	least	restaurant	answer-circled	partner	grounded
+# LANE A high: it goes on the certificate and is cut once.
+# LANE B low: gets to see a betting shop working — the board, and the way the regulars
+#   say things sideways.
+#
+# === spicy-smoked-edamame — feisty / scrappy / docile
+# AXIS: half the size of the argument and still in it at the end, having won the part
+#   that mattered. You go in first and small, before the thing grows.
+# NOT: firm (sour-dried-navy, batch 05 — not yielding to who is asking), challenging
+#   (sour-fried-kidney), combative. Feisty is disproportionate fight from a small
+#   position, and smoked keeps it small — no speeches.
+# OFF-LIMITS: wolverine taking a kill off a bear; "go in first and small, before it grows
+#   a committee"; "size settles fewer arguments than people expect"; "pay the small
+#   unfair thing and keep the day"; "some fights cost more than they return"; chipotle
+#   salt, mesquite. QUESTION owns: the builder with an answer for everything. OLD FACETS:
+#   the parking space stand-off, the planning refusal, the market stall price, the charge
+#   on the letter, the girl on the phone with the policy. NOTE: two of those five are
+#   arguments about a price — that shape is spent.
+spicy-smoked-edamame	most	petrol station	pence-pursued	official	grounded
+spicy-smoked-edamame	high	train	replacement-won	official	elevated
+spicy-smoked-edamame	mid	waiting room	order-restored	stranger	grounded
+spicy-smoked-edamame	low	campsite	pitch-surrendered	stranger	elevated
+spicy-smoked-edamame	least	warehouse	credit-unclaimed	colleague	grounded
+# LANE A high: once two hundred people disperse there is no bus, and no second chance
+#   to ask for one.
+# LANE B low: gets to see how a festival site runs — numbered pitches, stewards on
+#   radios, and the rule that nobody gets moved after midnight.
+#
+# === sweet-dried-chickpea — wholesome / sanitised / unsavoury
+# AXIS: old-fashioned things done sincerely — the walk, the phone call, the birthday
+#   remembered — and the edges quietly filed off the story.
+# NOT: kind (sweet-boiled-cannellini — warmth toward a person), earnest
+#   (sour-roasted-black — sincerity of belief). Wholesome is the clean version, meant.
+# OFF-LIMITS: shetland pony safe with anybody's children; "keep it clean and they'll ask
+#   you to speak"; "the kind version and the true version are usually both available";
+#   "nobody needs the joke cleaned up"; "go for the long walk and tell nobody where";
+#   cardamom sugar. QUESTION owns: the nephew's school project on a grandad who drank,
+#   told jokes and left for two years — so no cleaned-up account of a dead relative given
+#   to a child. OLD FACETS: the version of your father for the grandchildren (which also
+#   makes the reader a grandparent), the village show tent (banned village scenery), the
+#   two true kind stories, the joke that is nearly too much, the stag weekend.
+sweet-dried-chickpea	most	garden	year-omitted	stranger	grounded
+sweet-dried-chickpea	high	cemetery	stone-worded	family	elevated
+sweet-dried-chickpea	mid	post office	card-sent	alone	grounded
+sweet-dried-chickpea	low	snooker hall	joke-taken	group	elevated
+sweet-dried-chickpea	least	taxi	night-recounted	friend	grounded
+# LANE A high: it is cut into stone once and stands there for everybody afterwards.
+# LANE B low: gets to see a snooker hall at closing — the lights over each table, the
+#   man who racks up, what the room is like when the tables go dark one at a time.
+#
+# ============ COLD READ (final text, three lists) ============
+#
+# umami-roasted-black
+#  most  PAGE: the boyfriend says they have decided not to do presents; she agrees half a
+#        second after; the barbecue thinks they are wonderful; four years together.
+#        ACT: them both, the table, that decision. POLE: excess needs (a) evidence the
+#        read is right — the half second — and (b) evidence it is uninvited, which is
+#        that nobody asked and everybody else finds them lovely. Resist = you keep it.
+#        Perception rule: signal deniable, scene pointing the other way, inference never
+#        stated on the page.
+#  high  PAGE: your friend's dad has days; her brother has not been once; a week of her
+#        telling everybody what that makes him; the ward sister's remark about somebody
+#        ringing after eleven with no name. ACT: her, and who that is. POLE: the read is
+#        the join between the caller and the brother; Resist = you let her go on thinking
+#        it. BREAK FIXED: opened on "Her dad" with no antecedent anywhere for "her".
+#        LANE A: days left, so it cannot be unheard before he dies.
+#  mid   PAGE: eleven of you; the last night; going well; one went to the bar the moment
+#        the other came in and has not been back; the table gets sorted for food.
+#        ACT: the chair, the two of them. POLE: mild — small signal, small act. Resist =
+#        you sit anywhere.
+#  low   PAGE: the same four dealers every week; none bidding against another all morning;
+#        twice the auctioneer calling bids nobody made; you get the chest for about what
+#        you expected. ACT: your friend, a good day. POLE: unseeing needs the evidence
+#        present and unread, and all three signals are on the page. Resist = you notice.
+#        LANE B: how a saleroom actually works, and who is not bidding.
+#  least PAGE: your sister rings; the tests since March; everybody has known for weeks;
+#        you have spoken to your mum every Sunday in that time. ACT: your sister, the
+#        not-telling. POLE: the weekly calls are the evidence. Resist = you would have
+#        known.
+#
+# umami-fried-adzuki
+#  most  PAGE: the housewarming; the estate called rough; twenty minutes into him; the
+#        second half of what he said; he was agreeing. ACT: the point. POLE: combustible
+#        needs the heat landing on an ally and the reader continuing anyway — both on the
+#        page. Resist = you stop.
+#  high  PAGE: eleven weeks; the decision made this morning; it happens at five; it is
+#        three; you only came in to walk him. ACT: the rescues, the phone. POLE: the
+#        caring is out of proportion to your relation to the dog, which is the trait.
+#        Resist = you walk him and go. LANE A: five o'clock, and after it nothing.
+#  mid   PAGE: the band made the record themselves; eleven copies; the man's line about
+#        the third one this month. ACT: him, what is on it, four of the eleven. POLE:
+#        argument plus money. Resist = you let it go.
+#  low   PAGE: the film that got you through nineteen; the director present; forty minutes
+#        of him taking it apart; six of you came out for it. ACT: the drink, something
+#        else. POLE: dispassionate needs the thing that SHOULD provoke feeling, and it is
+#        named. Resist = you would be upset. LANE B: a director dismantling his own film
+#        in front of the people who love it.
+#  least PAGE: two friends arguing the whole way; whether to cancel; your money in it;
+#        they stop and ask you. ACT: them. POLE: your own money is the evidence that not
+#        minding is real rather than polite. Resist = you have a view.
+#
+# sour-boiled-navy
+#  most  PAGE: the bags in your dad's boot; your mother asking whether you are eating
+#        properly; what she wants is a call; he drove forty minutes to say it.
+#        ACT: him, this week's food. POLE: wooden needs the real request visible to the
+#        reader and missed by you — both there — and the forty minutes is the cost.
+#        Resist = you ring her. FIXED: "the boot" presumed the reader owns a car; it is
+#        his, and he has just driven it here.
+#  high  PAGE: the registrar reading back what goes on the certificate; your aunt wanting
+#        "at home"; kinder and nearly true. ACT: the registrar, where he actually died —
+#        which the line supplies by contrast. POLE: the true wording against the kind one.
+#        Resist = you let the kind version stand. LANE A: it is on the certificate.
+#  mid   PAGE: the man in the bike shop; ten seconds; "fine for another winter"; two
+#        things it could mean; riding home in the dark. ACT: him, the word fine. POLE:
+#        mild — one vague word queried. Resist = you take "fine". FIXED: "looked at it"
+#        never named the bike.
+#  low   PAGE: the board in a hand nobody explains; the man in since opening writing
+#        nothing down; the favourite in the two o'clock has had a very long trip up.
+#        ACT: your five pounds, something else. POLE: elliptical mild — you act on an
+#        implication nobody stated. Resist = you hear a remark about travel. FIXED: the
+#        draft went two inferences deep ("got at", then which horse he meant), and the
+#        clarity pass requires a single read. LANE B: a betting shop working, and the way
+#        the regulars say things sideways.
+#  least PAGE: your partner asks straight out; her work thing at the weekend; you do not
+#        want to go; saying so would land badly; she has asked twice. ACT: her, the week.
+#        POLE: you make her infer rather than answering. Resist = you say no.
+#
+# spicy-smoked-edamame
+#  most  PAGE: the sign; four pence a litre; about two pounds; the man already out to look
+#        at it; three cars waiting behind you. ACT: his manager. POLE: scrappy is the
+#        disproportion — two pounds against three cars and a second escalation. Resist =
+#        you pay and go.
+#  high  PAGE: the last train cancelled; two hundred people told to come back; once they
+#        scatter there is nobody to lay anything on for; the man with the radio walking
+#        away. ACT: him, a bus. POLE: first and small, before it grows. Resist = you go
+#        home. LANE A: the crowd disperses and the chance goes with it.
+#  mid   PAGE: two people called through before you; the woman not looking up; fifty
+#        minutes; the appointment time on your phone. ACT: the desk, saying so. POLE:
+#        small, early, once — the smoked version of the trait. Resist = you wait.
+#  low   PAGE: numbered pitches; the steward with the radio says he CAN move the tent; the
+#        two in it asleep since ten. ACT: the far pitch, the bins. POLE FAILURE FOUND AND
+#        FIXED, and this is what the third list is for: the draft had a rule that the
+#        steward could move nobody after midnight, so taking the worse pitch was the only
+#        thing available rather than a disposition — Resist had no foothold whatever. The
+#        referents were all fine and it would have passed the old two lists. LANE B still
+#        stands: numbered pitches and stewards on radios.
+#  least PAGE: the thing was yours; head office being told otherwise; you standing there;
+#        the one being thanked knows. ACT: the work. POLE: docile fully — you ask for
+#        nothing while the evidence sits on the page. Resist = you say it was yours.
+#
+# sweet-dried-chickpea
+#  most  PAGE: the new girlfriend's question; the six of you at university; the whole
+#        afternoon; the year one of you was very ill; another one left because of it.
+#        ACT: her, the funny version. POLE: sanitised needs the removed material NAMED,
+#        or there is no removal to vote on. Resist = you tell her.
+#  high  PAGE: your grandad's stone to the mason this week; cut once; your aunt's verse
+#        that would suit anybody; he answered the phone the same way for forty years.
+#        ACT: that phrase, which is on the page. POLE: sincerity against the generic.
+#        Resist = you take the verse. BREAK FIXED: opened with "He" and nothing had
+#        established that anybody had died. LANE A: cut once, and it stands afterwards.
+#  mid   PAGE: the card must go today; your aunt's birthday; the queue out to the door;
+#        no reply in four years. ACT: the queue, the stamp, the card. POLE: sincere and
+#        unreciprocated, which is the whole of it. Resist = you do not bother. BREAK
+#        FIXED: "her birthday" had no antecedent.
+#  low   PAGE: the man turning the light off over each table; the room going dark in
+#        sections; yours the last lit; the joke that is nearly too much; the other three
+#        still deciding. ACT: the laugh. POLE: you go with it before judging it, and the
+#        three deciding are what make that a choice. Resist = you do not laugh. LANE B: a
+#        snooker hall at closing.
+#  least PAGE: four in the morning; the taxi; her question; it does not make you look
+#        good; two of the people in it are her friends. ACT: her, the night, the worst
+#        part. POLE: unsavoury fully — told willingly, to the wrong audience. Resist =
+#        you edit it.
+#~ ============ COLD READ STAMPS — regenerate with `node scripts/cold-read.mjs stamp <file>` ====
+#~ Each line is the facet text as it stood when it was cold-read. `commit` refuses
+#~ the batch if any of them has changed since. Edit a facet, read it again, restamp.
+#@ umami-roasted-black most 2fec297072
+#@ umami-roasted-black high bf5a6c75ba
+#@ umami-roasted-black mid 6b2f2709ae
+#@ umami-roasted-black low a5878445b9
+#@ umami-roasted-black least 0df71b5c5f
+#@ umami-fried-adzuki most e594107157
+#@ umami-fried-adzuki high 110db74efd
+#@ umami-fried-adzuki mid 6a0656bfd4
+#@ umami-fried-adzuki low 58a00519d3
+#@ umami-fried-adzuki least 65f59a555b
+#@ sour-boiled-navy most 8f0ffc6469
+#@ sour-boiled-navy high 057f3f40c3
+#@ sour-boiled-navy mid 3e284ae596
+#@ sour-boiled-navy low fbe6b6da6b
+#@ sour-boiled-navy least 7dd60f23f4
+#@ spicy-smoked-edamame most 3e5836f2d8
+#@ spicy-smoked-edamame high 27a9775779
+#@ spicy-smoked-edamame mid 1358f941d7
+#@ spicy-smoked-edamame low b7b8ded694
+#@ spicy-smoked-edamame least a732dcef64
+#@ sweet-dried-chickpea most 2305426812
+#@ sweet-dried-chickpea high 6b50c57b34
+#@ sweet-dried-chickpea mid 6570aca5f0
+#@ sweet-dried-chickpea low 638a536ba0
+#@ sweet-dried-chickpea least 5d6642108a

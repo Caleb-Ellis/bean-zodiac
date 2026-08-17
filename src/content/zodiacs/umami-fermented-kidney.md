@@ -17,32 +17,37 @@ antiTriple: sour-smoked-green
 antiBeans: [chickpea, edamame]
 antiForm: fried
 seasonalFortune: "A season of red miso stew and deep ground — the pot is not going anywhere."
-fortuneMost: A knot pulled from both ends only pulls tighter.
-fortuneHigh: Don't decide yet - stay in two minds a while longer.
-fortuneMid: Two things can be true at the same time.
-fortuneLow: Some things deserve a plain yes.
-fortuneLeast: Even the chimera picks one mouth to eat with.
+fortuneMost: Roots go deep enough and moving becomes unthinkable.
+fortuneHigh: A burrowing owl lives in a hole another animal dug.
+fortuneMid: Knowing the ground is worth years.
+fortuneLow: There's other ground out there.
+fortuneLeast: Being uprooted teaches quickly.
 facetMostTitle: Stuck on Bean
-facetMost: The job is abroad and it is the work you always wanted and they have asked twice. You write back saying not now.
+facetMost: The beck has been through your house and the five others on the low side twice in nine years, and the council has offered to buy all six at pre-flood value. The other five have signed; once they go, the row comes down and the ground goes back to the water, and the offer isn't made twice. You tell the man from the council you're not selling.
+facetMostAction: You tell the man from the council you're not selling.
 facetHighTitle: A Bean Grows in Brooklyn
-facetHigh: Somebody new has moved into the end house and does not know which day the bins go, or why the drain floods. You are on the path telling her all of it.
+facetHigh: The woman who lived next door for twenty years is in the home at the end of the road now, and the manager says she's had no visitors in six weeks and the only family is a nephew who hasn't answered two letters; the form wants a name and a number for whoever they ring when something happens. You put yours down.
+facetHighAction: You put yours down.
 facetMidTitle: Home Is Where the Bean Is
-facetMid: There is a pub in the village going under and a meeting about the regulars buying it between them, and the share is more than you have spare. You put your name down for one.
+facetMid: A curator at the museum has taken you through the back, where the estate photographs are kept in shoeboxes by decade. The panel is already printed, with the pub on the wrong corner and the row you grew up on under the wrong name, and she's asking if any of it looks right. You tell her which corner the pub was on.
+facetMidAction: You tell her which corner the pub was on.
 facetLowTitle: The Beans of Wrath
-facetLow: The farm has been in the family four generations and your brother wants to sell the top forty acres off to pay for the roof, and you allow that you can see the argument for it.
+facetLow: Your partner's contract finishes in the spring and the only thing she's been offered since is four hours away; twice over this dinner she's said she'll turn it down and stay, and she means it, and you've never lived anywhere but here. You tell her you'll move with her.
+facetLowAction: You tell her you'll move with her.
 facetLeastTitle: Beanxodus
-facetLeast: The house has been yours since you were seven and the offer is a good one and there is nothing at all keeping you. It goes through in five weeks. You take one box of photographs, let the auction people have the rest, and you do not drive past.
-question: You've been offered a much better job four hundred miles away and you'd have to leave the town you grew up in. You...
-answerMost: turn it down, and don't tell anyone it was offered
-answerHigh: turn it down, because this is where you're from
-answerMid: ask whether you could do it three days a week
-answerLow: take it, and keep the house here for a while
-answerLeast: take it, and be gone inside a month
-rorschachMost: roots gripping a stone
-rorschachHigh: a tree clawing a bank
-rorschachMid: a rock and its barnacles
-rorschachLow: a pot cracked by roots
-rorschachLeast: a stump pulled clear
+facetLeast: You went away for three weeks and you're five weeks in, and the woman on the hostel desk has stopped asking how long you're staying. Your room at home is still yours and the rent's still going out every month. You email your landlord to end the tenancy.
+facetLeastAction: You email your landlord to end the tenancy.
+question: Your firm is moving to Leeds and will pay to move you with it. You've been on the same street thirty years. What happens?
+answerMost: it's turned down, and so is the next offer that comes
+answerHigh: it's turned down flat
+answerMid: the job is taken and the four days are commuted
+answerLow: you go, and the house is kept on a year
+answerLeast: the house is sold and you're gone by autumn
+rorschachMost: a wedged boulder
+rorschachHigh: a concrete post
+rorschachMid: a tree stump
+rorschachLow: a lifted seedling
+rorschachLeast: torn-up turf
 ---
 
 Miso Kidney Beans are the Bean Zodiac's most rooted. Same street, same people, and a knowledge of both that took thirty years to build. Sometimes the roots stop anything moving. Pulling up and starting somewhere new is barely conceivable to them.

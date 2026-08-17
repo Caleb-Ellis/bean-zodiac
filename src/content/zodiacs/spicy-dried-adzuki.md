@@ -17,32 +17,37 @@ antiTriple: bitter-boiled-butter
 antiBeans: [mung, cannellini]
 antiForm: fermented
 seasonalFortune: "A season of Sichuan pepper and unfinished appetite — the store wants more than the winter holds."
-fortuneMost: The fireflies wait in the grass for the first to rise — be the first.
-fortuneHigh: Something long stuck is about to move.
-fortuneMid: The smallest push is all it needs from you. Give that, and no more.
-fortuneLow: Not every match is yours to strike.
-fortuneLeast: It will catch on its own, and it will sting a little, how little it needs you.
+fortuneMost: Nothing is ever quite enough for long.
+fortuneHigh: A phoenix burns down and starts the whole thing again.
+fortuneMid: One more go usually does it.
+fortuneLow: Two things at once is plenty.
+fortuneLeast: Enough is a fine place to stop.
 facetMostTitle: Never Enough, Bean
-facetMost: You get to the top of the grade you have been working at for a month, come down off the wall shaking, and are already pulling your shoes back on to try the next one up while your hands are still going.
-facetHighTitle: Burning Beandesire
-facetHigh: Six hours on the field with the detector and all you have to show for it is a Victorian penny and a bent nail. You mark the spot and arrange to come back at first light.
-facetMidTitle: Hungry Like the Beanwolf
-facetMid: Three arrows in the gold and the range is packing up around you, so you ask whether there is time for one more end.
-facetLowTitle: La Grande Beanbouffe
-facetLow: The tree has given more apples than you could use in a year. You fill two crates. The high ones stay where they are for the birds.
-facetLeastTitle: Enough Is Beanenough
-facetLeast: Four hours of driving to get somewhere dark enough to see the meteor shower properly, and it is everything you hoped it would be. Twenty minutes in, you are back in the car with the flask, entirely content.
-question: When you finally get the thing you have been after, how long does it hold you?
-answerMost: it never quite arrives — you are onto the next before you have held it
-answerHigh: one good evening, then you want more of it
-answerMid: a week or two of real satisfaction
-answerLow: as long as it lasts, and you do not chase it
-answerLeast: you are content, and you stop there
-rorschachMost: a mouth over everything
-rorschachHigh: a beak wide, nothing in
-rorschachMid: a funnel and a heap
-rorschachLow: a beak half closed
-rorschachLeast: a full crop, head down
+facetMost: Four years you've been after this pressing and it's in your hands at the counter for eighteen pounds. The man behind the counter says it came out of a house clearance that morning and there are two more boxes out the back. You ask him what else came in with it.
+facetMostAction: You ask him what else came in with it.
+facetHighTitle: Burning Beansire
+facetHigh: You came for lot forty-one and you've got it, and you'd set four hundred aside for the day with a hundred and ten of it left. Lot ninety is a box of the same thing and nobody in the room has looked at it. You put your hand up for lot ninety.
+facetHighAction: You put your hand up for lot ninety.
+facetMidTitle: Beany Like the Wolf
+facetMid: You've had your song and it went well and the list is closed with four still on it, and the man with the folder has said that's the last of them. You ask him to put you down again.
+facetMidAction: You ask him to put you down again.
+facetLowTitle: La Grande Beanffe
+facetLow: Your friend's bringing out a third tray with the chicken on it and telling everybody to help themselves, and you've had two plates and it was very good. You put your plate on the stack.
+facetLowAction: You put your plate on the stack.
+facetLeastTitle: Beanough Is Beanough
+facetLeast: It's two hours in the car to get here and the room is pitch dark with a white table in the middle, and the man works the mirror on the roof so the whole town comes round on the disc — the harbour, the buses, somebody's washing. Your ticket does two turns of the table. You give the second one to the family behind you.
+facetLeastAction: You give the second one to the family behind you.
+question: Your new bike, saved for all year, is finally in the hall. What happens next?
+answerMost: you're pricing up the next bike before the month is out
+answerHigh: it gets ridden every day, and you plan where to take it
+answerMid: you ride it a lot and don't line anything up after
+answerLow: it does exactly what you wanted, and that's that
+answerLeast: you're happy with it, and stop looking at bikes altogether
+rorschachMost: a leaping flame
+rorschachHigh: a cockerel
+rorschachMid: a gaping mouth
+rorschachLow: a heap of scraps
+rorschachLeast: a snoozing hog
 ---
 
 Sichuan Adzuki Beans are the Bean Zodiac's most avid. The thing they wanted arrived, and they were delighted, and by the weekend they were after the next one. Nothing quite fills it. Sitting back, satisfied, with no further appetite is a rest they never reach.

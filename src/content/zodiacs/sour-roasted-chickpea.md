@@ -17,32 +17,37 @@ antiTriple: bitter-dried-edamame
 antiBeans: [cannellini, navy]
 antiForm: fermented
 seasonalFortune: "A season of sherry vinegar and wide doors — the fire takes whatever the market offered."
-fortuneMost: Whatever floats past, the bottlenose plays with, and swallows some of it.
-fortuneHigh: Hear the whole of it out before you start assembling the reply.
-fortuneMid: Trying it once costs less than the argument about it.
-fortuneLow: Decide that one of them is wrong and leave it there.
-fortuneLeast: The next argument isn't better - only newer.
+fortuneMost: Open enough and anything at all gets in.
+fortuneHigh: Hear the whole of it out.
+fortuneMid: A bottlenose plays with whatever floats past.
+fortuneLow: Decide that one of them is wrong.
+fortuneLeast: A newer argument isn't a better one.
 facetMostTitle: Wide Open Beans
-facetMost: A man at the stall explains what the copper bracelet does for circulation and you can see he believes every word of it. By the end you believe it too, and you have one on each wrist and two bought for your sister.
+facetMost: It's a free evening in a hotel function room on buying flats to let, the man at the front has been good for two hours, and the fourteen hundred to sign up is tonight's price only. Your friend has asked him three questions he's talked round rather than answered, and you heard all three. You put the fourteen hundred down.
+facetMostAction: You put the fourteen hundred down.
 facetHighTitle: The Open Beanciety
-facetHigh: Somebody sets out a view you have argued against for twenty years. You sit and hear the whole of it out, right to the end, without once reaching for your own answer.
+facetHigh: You've told your brother-in-law for ten years that his church is nonsense, and you've said it to his face at three Christmases. He's asked you once, without making anything of it, to come and see what actually goes on. You sit through the whole hour with him.
+facetHighAction: You sit through the whole hour with him.
 facetMidTitle: Hear Me Out, Bean
-facetMid: Told the recipe works better with the cream left out, you make it that way once before saying a word. Only then do you say what you think of the change.
-facetLowTitle: Beanarchie Bunker
-facetLow: New family, new colour on the front door, and you find that you have an opinion about the colour, about them, and about the whole street.
-facetLeastTitle: All in the Beanfamily
-facetLeast: Somebody from that town says something sensible and you hear the accent before the sentence, and you had them placed before it finished, and you are not moving now.
-question: Your son brings home a partner whose politics are the opposite of yours. You...
-answerMost: Agree with everything they say all evening
-answerHigh: Ask what got them there, and listen
-answerMid: Keep it off the table and talk about something else
-answerLow: Get a dig in before pudding
-answerLeast: Tell my son afterwards exactly what I think
-rorschachMost: an open gate, tracks everywhere
-rorschachHigh: a shelf above tangled string
-rorschachMid: a cloud over brambles
-rorschachLow: a shut cupboard
-rorschachLeast: a wall with no door
+facetMid: Six years you've been going to the pottery class, and you've always pulled the sides the same way round; the new tutor says that's why they keep splitting, and you can see she might be right. You do it her way for a fortnight.
+facetMidAction: You do it her way for a fortnight.
+facetLowTitle: Archie Beanker
+facetLow: Your sister's with a copper now and you've had things to say about that since she met him. He's taken you round on a quiet afternoon — the custody desk, the board with the night's jobs on it, the room they do the interviews in — and he's been good company the whole way. You tell her afterwards that he's alright but the rest of them aren't.
+facetLowAction: You tell her afterwards that he's alright but the rest of them aren't.
+facetLeastTitle: All in the Beanily
+facetLeast: Three quotes for the roof and his is the best by four hundred pounds, and he's stood on your step having spent an hour up there; the firm's from over the valley and you've not had a good word for that place since you were nine. You give it to the second cheapest.
+facetLeastAction: You give it to the second cheapest.
+question: Your niece has put you on the guest list for a noise gig she loves and you have never been able to stand the stuff. You...
+answerMost: stay to the end and tell her every part of it was good
+answerHigh: hear the whole set, and afterwards say which of it worked
+answerMid: leave after a few songs
+answerLow: go, stand at the back, and come out thinking what you thought before
+answerLeast: tell her you know what that noise sounds like
+rorschachMost: an open drain
+rorschachHigh: a raised blind
+rorschachMid: a lid off a pot
+rorschachLow: a narrow gate
+rorschachLeast: a padlocked chain
 ---
 
 Chimichurri Chickpeas are the Bean Zodiac's most open-minded. They'll try the food, the music, the argument they were raised to dislike, and stay long enough to actually judge. Sometimes nothing gets judged at all. Ruling something out unexamined, on principle, they can't bring themselves to do.

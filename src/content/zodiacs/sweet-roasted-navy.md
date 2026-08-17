@@ -23,14 +23,19 @@ fortuneLow: The house martin nests under the eaves and never comes inside.
 fortuneLeast: Time with you is earned, not given.
 facetMostTitle: Neighbourbean Watch
 facetMost: A van nobody recognises has been outside the house at the end of the road since the family there went away. You photograph the plate and send it round the street asking whose it is.
+facetMostAction: You photograph the plate and send it round the street asking whose it is.
 facetHighTitle: Good Neighbeans
 facetHigh: The water main has gone and the standpipe is three roads over. You fill every container you own and start knocking to find out who can't carry theirs.
+facetHighAction: You fill every container you own and start knocking to find out who can't carry theirs.
 facetMidTitle: Over the Garden Bean
 facetMid: A parcel too big for the letterbox is sitting on the step next door with rain coming on. You take it in and prop a note in your window so they know where it went.
+facetMidAction: You take it in and prop a note in your window so they know where it went.
 facetLowTitle: Keep Your Beanstance
 facetLow: Someone new has moved into the flat below and their door is propped open, boxes still stacked in the hall. You say hello from the stairs and carry on up.
+facetLowAction: You say hello from the stairs and carry on up.
 facetLeastTitle: Mind Your Own Beansiness
 facetLeast: The couple opposite have invited you to a couple of events, and here they are at the bins asking if you're free this weekend for a neighbourhood get-together. You thank them warmly and keep the friendship on the doorstep.
+facetLeastAction: You thank them warmly and keep the friendship on the doorstep.
 question: Two children from further down the road have set up a table on the pavement outside your gate, selling cupcakes they've made. On your way out, you...
 answerMost: buy a bunch, then knock on doors telling everyone to come down
 answerHigh: buy one and have a little chat, try and wave others over

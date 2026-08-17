@@ -25,6 +25,7 @@ export default function FortuneDialog({ data, fortune }: Props) {
     question,
     fortuneTitle,
     fortuneText,
+    fortuneAction,
     scored,
     scoredText,
     text,
@@ -104,6 +105,7 @@ export default function FortuneDialog({ data, fortune }: Props) {
                 <FacetVariant
                   fortuneTitle={fortuneTitle}
                   fortuneText={fortuneText}
+                  fortuneAction={fortuneAction}
                   landed={landed}
                   handleScore={handleScore}
                 />

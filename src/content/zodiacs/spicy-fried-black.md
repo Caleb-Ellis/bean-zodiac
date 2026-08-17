@@ -17,32 +17,37 @@ antiTriple: umami-roasted-butter
 antiBeans: [mung, pinto]
 antiForm: fermented
 seasonalFortune: "A season of chipotle and unbroken heat: the pan does not tire before the cook does."
-fortuneMost: Swimming to breathe is not the same as wanting to swim, says the mako.
-fortuneHigh: The seventh pass, the one nobody asked for, is usually the one that mattered.
-fortuneMid: There is one more pass in you, and there is also a bed.
-fortuneLow: A win you didn't have to grind for is still a win.
-fortuneLeast: Let one small unfinished thing go entirely.
-facetMostTitle: No Beanremorse
-facetMost: Eight letters to the water company and not one reply worth the name, and the sum involved stopped being worth the postage a while ago. You send the ninth, and then the tenth, and when the compensation finally comes through you keep going about the apology.
-facetHighTitle: Beanrelentless
-facetHigh: The lad who rented your spare room has been dodging you about the deposit for two months. You are outside his work at five, and outside it again the next day.
+fortuneMost: Nothing finished ever counts for long.
+fortuneHigh: A mako has to keep swimming to breathe.
+fortuneMid: One more pass usually improves it.
+fortuneLow: An easy win still counts.
+fortuneLeast: Let somebody else finish it.
+facetMostTitle: No Beanmorse
+facetMost: Six hours in with your friend's hand and you have been up to the desk five times. The nurse says if you come up again she will get security, and she is the only one on. Your friend says leave it, he would rather go home. You go up again.
+facetMostAction: You go up again.
+facetHighTitle: Beanlentless
+facetHigh: Your friend's dog went off after deer on the second day and the other four gave up at dark. It is four in the morning, you are wet through, and you are driving home at nine. The torch is on its second set of batteries. You put it back on and go up.
+facetHighAction: You put it back on and go up.
 facetMidTitle: Never Stops, Bean
-facetMid: Nobody has come back to you about the drainage. You ring again, and put a date in the diary to ring after that.
+facetMid: Your housemate's ring went through the wash, the man who runs the laundrette says it will be halfway to the sea by now and has gone back to his paper, and you have had the filter off the first machine an hour. You take the filter off the second.
+facetMidAction: You take the filter off the second.
 facetLowTitle: Let Up, Bean
-facetLow: The claim has been running six months and the last letter asks for the same documents again. You decide it is not worth the rest of your year and drop it.
-facetLeastTitle: The Beanmercy Rule
-facetLeast: One no from the committee and the whole idea goes back in the drawer it came out of. You tell the others it was probably never going to work anyway, and you half believe it.
-question: The garage has had four hundred pounds of yours for two months and has stopped answering the phone. You...
-answerMost: keep after them long after it stops being about the money
-answerHigh: chase it steadily until somebody has to deal with you
-answerMid: give it one more push and see
-answerLow: write it off and put it behind you
-answerLeast: let it go after the first refusal
-rorschachMost: a bull, no turning it
-rorschachHigh: horns lowered and coming
-rorschachMid: two peaks and a body
-rorschachLow: a bull slowing up
-rorschachLeast: a beast turned to pasture
+facetLow: After the show the magician takes six of you back and shows how the box is built — the hinge, the false bottom, where he actually stands. You have asked him about the coin trick six times tonight. He says that one is his own. You ask him about the box instead.
+facetLowAction: You ask him about the box instead.
+facetLeastTitle: The Beancy Rule
+facetLeast: You have rung your uncle every Sunday since your dad's funeral and left a message every time, a year of them, and he has never once picked up. You leave one telling him you will not ring again.
+facetLeastAction: You leave one telling him you will not ring again.
+question: You've asked the school twice to move your daughter into the other maths set, and been told no both times. You...
+answerMost: ask again every week until somebody stops replying
+answerHigh: put in the third request, and the fourth
+answerMid: ask once more, with her marks attached
+answerLow: leave it a term, then try again
+answerLeast: accept the answer and leave her where she is
+rorschachMost: a battering ram
+rorschachHigh: a ploughshare
+rorschachMid: the tide coming in
+rorschachLow: a stalled tractor
+rorschachLeast: a lowered drawbridge
 ---
 
 Red-Hot Black Beans are the Bean Zodiac's most relentless. They send the eighth email, then the ninth, and the thing that was never going to happen happens. Sometimes the pressure keeps going after the answer arrived. Easing off to let somebody breathe is not an instinct.

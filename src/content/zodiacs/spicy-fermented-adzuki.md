@@ -17,32 +17,37 @@ antiTriple: bitter-dried-cannellini
 antiBeans: [navy, edamame]
 antiForm: boiled
 seasonalFortune: "A season of kimchi brine and rising song — the crock celebrates something only it can hear."
-fortuneMost: Every phrase sung three times, and the wood has heard the thrush's whole set.
-fortuneHigh: Go on about the thing at length; somebody wants to hear it.
-fortuneMid: You lit up over something small and it caught.
-fortuneLow: Not everything wonderful needs saying out loud twice.
-fortuneLeast: Say it was fine, and mean fine.
-facetMostTitle: Beandelirious
-facetMost: The trapeze act finishes and the whole tent comes to its feet around you, and it is a good minute before anybody sits back down. You are still describing it to the family in the row in front when the next act is halfway through its routine.
-facetHighTitle: Bohemian Beanrhapsody
-facetHigh: At the big tank a ray goes over the glass above your head, and you crouch down among the children and give them the whole of it, out loud, until the group has moved on without you.
-facetMidTitle: Beanrapture
-facetMid: The cable car clears the ridge and the whole valley opens up underneath. You say something about it to the stranger beside you rather than let it pass in silence.
-facetLowTitle: The Beanplain Truth
-facetLow: The choir finishes. The chapel is completely still. You sit in it, and say nothing about it on the way out.
-facetLeastTitle: Beansame Old, Same Old
-facetLeast: Somebody asks how the concert was and you tell them it was good, they played the album, home by eleven.
-question: You come out of a concert where the last piece properly got you, and your friend asks in the car park how it was. You...
-answerMost: describe it for twenty minutes and do the best part twice
-answerHigh: find the words for it and give them properly
-answerMid: say it was extraordinary, and mean it
-answerLow: say you enjoyed it
-answerLeast: say it was good, and ask about their evening
-rorschachMost: a rocket burst too wide
-rorschachHigh: sparks off a wheel
-rorschachMid: a rock and scattered grit
-rorschachLow: a firework not lit
-rorschachLeast: a ruler on a table
+fortuneMost: Rave about everything and nobody can tell what's loved.
+fortuneHigh: Go on about it at length.
+fortuneMid: A song thrush repeats every phrase until the wood knows it.
+fortuneLow: Just say what happened.
+fortuneLeast: Fine is a real answer.
+facetMostTitle: Beanirious
+facetMost: You are on the local station for two minutes, live, to say where your friend's fundraiser is and what time the doors open. The presenter has just played a record you have not heard since you were fifteen, and he opens by asking what you made of it. You use the two minutes on the record.
+facetMostAction: You use the two minutes on the record.
+facetHighTitle: Beanian Rhapsody
+facetHigh: The man behind the counter has put on the record you have been trying to find for four years, and your friend has her coat back on and is stood by the door with a train at six. You go through the whole of the second side with him.
+facetHighAction: You go through the whole of the second side with him.
+facetMidTitle: Bean Rapture
+facetMid: It is the public night at the observatory and there is one telescope, twenty seconds each, and nine people still waiting on the steps behind you. Saturn comes up in the eyepiece with the rings on the slant. You stand aside and tell the woman behind you what she is about to see.
+facetMidAction: You stand aside and tell the woman behind you what she is about to see.
+facetLowTitle: The Bean Truth
+facetLow: Your friend has driven an hour to get you out to the reservoir before dusk for the starlings, and they come in over the water for twenty minutes and it is the best thing you have seen all year; walking back to the car she asks what you thought. You tell her it was worth the drive.
+facetLowAction: You tell her it was worth the drive.
+facetLeastTitle: Same Old Bean, Same Old Bean
+facetLeast: Dolphins came up alongside for ten minutes an hour out and the whole deck was up at the rail for them. Your dad rings while you are still out on the water and asks what you have been up to. You say you are on the ferry and it is a calm crossing.
+facetLeastAction: You say you are on the ferry and it is a calm crossing.
+question: At the fair a machine plays back the last thing that made you happy, out loud, to everyone queueing behind you. You...
+answerMost: feed the machine again and talk the whole queue through it
+answerHigh: let it run, and tell them why that bit matters
+answerMid: stand there while it plays and say it was a good day
+answerLow: collect your ticket
+answerLeast: say that's about right and get on
+rorschachMost: a supernova
+rorschachHigh: a spray of blossom
+rorschachMid: a party popper
+rorschachLow: a lump of dough
+rorschachLeast: a paving slab
 ---
 
 Kimchi Adzuki Beans are the Bean Zodiac's most rhapsodic. Ask about the album and you get eleven minutes, standing up, with the good part played twice. Occasionally the room is left behind entirely. Reporting that something was nice and leaving it there they cannot do.

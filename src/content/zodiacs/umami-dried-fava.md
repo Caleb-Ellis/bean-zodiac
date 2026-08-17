@@ -17,11 +17,11 @@ antiTriple: sweet-roasted-adzuki
 antiBeans: [mung, chickpea]
 antiForm: boiled
 seasonalFortune: "A season of cured lardo and standing bulk — the pantry is not to be argued with."
-fortuneMost: They who make beasts of themselves get rid of the pain of being a bean.
-fortuneHigh: The bear does what it does, and the world orients around it.
-fortuneMid: The mighty oak's trunk stands firm against the elements.
-fortuneLow: Put it down and see who picks it up.
-fortuneLeast: Help is offered to those who ask for it.
+fortuneMost: A cassowary clears a path nobody dares to use.
+fortuneHigh: Stand where they can see you.
+fortuneMid: Presence settles arguments before they start.
+fortuneLow: Make yourself smaller here.
+fortuneLeast: Nobody braces around the harmless.
 facetMostTitle: Beanzilla
 facetMost: You have not raised your voice in that building in nine years and nobody has ever needed you to. A new man tried it on in his second week. What happened to him is still being described to people who were not there, and you do not think you did anything much.
 facetHighTitle: Wonder Bean
@@ -32,17 +32,17 @@ facetLowTitle: Honey, I Shrunk the Beans
 facetLow: This room needs somebody to take hold of it and you can see what is wanted. You say your piece and it goes past without landing.
 facetLeastTitle: Beanbi
 facetLeast: A new man chairs the meeting and does not know your name, though you have done eleven years here and know how the place actually works. He asks you to keep it brief, and you keep it brief.
-question: You walk into a difficult meeting where the other side outnumbers you. You...
-answerMost: Take the room in the first five minutes
-answerHigh: Set out my position and hold it
-answerMid: Make my case properly
-answerLow: Say my piece and see how it lands
-answerLeast: Wait to be asked, and keep it brief
-rorschachMost: a bear standing full height
-rorschachHigh: a thundercloud on the hills
-rorschachMid: a fort above a village
-rorschachLow: a bear on all fours
-rorschachLeast: a shed in a field
+question: You're across the table from the couple buying your mother's house, and they've arrived with an offer lower than the one agreed. What happens?
+answerMost: the silence sits there until they raise it themselves
+answerHigh: the agreed price is repeated once, and then you wait
+answerMid: the survey gets quoted, and the figure holds
+answerLow: the difference gets split
+answerLeast: the lower offer is taken, with thanks
+rorschachMost: a helmeted head
+rorschachHigh: a doorway bouncer
+rorschachMid: a standing bull
+rorschachLow: a plastic chair
+rorschachLeast: a wet paper bag
 ---
 
 Aged Fava Beans are the Bean Zodiac's most formidable. They walk into the negotiation and the other side rearranges its expectations before anyone has spoken. Sometimes people are simply frightened. Being underestimated in a room is a thing they have never had to endure.

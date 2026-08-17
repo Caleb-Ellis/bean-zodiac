@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-fried-mung
-lastUpdated: 
+lastUpdated:
 bean: mung
 flavour: umami
 form: fried
@@ -17,32 +17,37 @@ antiTriple: sour-dried-edamame
 antiBeans: [fava, adzuki]
 antiForm: fermented
 seasonalFortune: "A season of dried shrimp and clear intent: the pakora is made for a reason."
-fortuneMost: Carrying the eggs wound round its own legs, the midwife toad does nothing else.
-fortuneHigh: Give the second answer, not the first.
-fortuneMid: You'll walk in a beat after the others, having already weighed what's needed of you.
-fortuneLow: A day with no point to it will not undo you.
-fortuneLeast: Do the thing for no reason but the doing.
-facetMostTitle: The Beanroad
-facetMost: There is a plan on the wall with a purpose written against every week, including the rest weeks. Somebody suggests going to the coast for no reason at all, and you ask what the point of that would be, and you mean it as a real question.
-facetHighTitle: The Blues Beanbrothers
-facetHigh: That boat has been in the barn eleven years and you are out there before work at the same hour whether you want to be.
+fortuneMost: Purpose in everything and nothing is done for its own sake.
+fortuneHigh: A midwife toad carries the eggs on its own legs.
+fortuneMid: A reason for it keeps you going.
+fortuneLow: Do something pointless.
+fortuneLeast: Aimlessness is where most good things start.
+facetMostTitle: The Bean Road
+facetMost: Your cousin is fifteen today and what he asked for was an hour in the arcade with you and nothing else in it, and nobody has told him what the doctors have said about his mum. You ask him what he actually knows.
+facetMostAction: You ask him what he actually knows.
+facetHighTitle: The Beans Brothers
+facetHigh: Your gran has been in the home a month and every visit is the weather. Her room faces the car park, the one by the garden door is empty, and the manager's door is open. You get up while she is talking and go and ask for it.
+facetHighAction: You get up while she is talking and go and ask for it.
 facetMidTitle: "Mission: Beanpossible"
-facetMid: Two free hours have appeared and there is a list on the side. You read down it. You take the item that has been on there longest.
-facetLowTitle: Lost in Beanspace
-facetLow: The whole afternoon is clear and nothing needs doing and there is a chair in the sun. You sit in it about eleven minutes and then go looking for something.
-facetLeastTitle: No Direction Beanhome
-facetLeast: Three days are clear in the diary and you had been looking forward to that, and the first goes on nothing much, and by the third you are ringing round to see what people are doing.
-question: You've got a completely free day and nothing that has to be done. You...
-answerMost: give it a purpose before you get out of bed
-answerHigh: put it to something you've been meaning to do
-answerMid: let it go where it goes and do one useful thing
-answerLow: waste it, and enjoy about half of that
-answerLeast: get restless by eleven and go looking for a job
-rorschachMost: a road with nothing beside
-rorschachHigh: a column set straight
-rorschachMid: a post in a field
-rorschachLow: a path that wanders
-rorschachLeast: a track going nowhere
+facetMid: Hospital radio at midnight is a room off a corridor, a request book, and a screen saying how many people are listening, and tonight it says two. You took the midnight slot because the ward nobody visits is the one awake at midnight, and there is one name in the book, a woman on it. You read her ward out and play what she asked for.
+facetMidAction: You read her ward out and play what she asked for.
+facetLowTitle: Lost in Bean Space
+facetLow: You met your friend in town to work out who is paying what for the trip and the deposit goes at the weekend, and she wants to watch a Sunday league match in the park instead. You sit down on the grass and stay for all ninety minutes.
+facetLowAction: You sit down on the grass and stay for all ninety minutes.
+facetLeastTitle: No Direction Bean
+facetLeast: A friend of a friend is taking his narrowboat four hours up the canal and four hours back, for no reason beyond the weather. You get to work the locks — the paddles wound by hand, twenty minutes to get up one. Two hours in he says you can get off at the next bridge and walk back. You stay on for the other six hours.
+facetLeastAction: You stay on for the other six hours.
+question: A Sunday with nothing in it, and your friend suggests driving out to look at the sea. You...
+answerMost: turn it into the day the boot gets cleared and the aunt gets visited
+answerHigh: go, with the walk already chosen
+answerMid: drive out and let the day take its shape
+answerLow: sit on the front doing nothing much
+answerLeast: stay in, since it leads nowhere
+rorschachMost: a head-down walker
+rorschachHigh: a driven spade
+rorschachMid: a packed rucksack
+rorschachLow: a winding path
+rorschachLeast: a floating leaf
 ---
 
 Tempura Mung Beans are the Bean Zodiac's most purposeful. Everything they do is pointed at something, including the resting, and none of it is drifting. Sometimes the purpose squeezes the joy out. An afternoon that leads nowhere they can't enjoy.

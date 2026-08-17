@@ -21,16 +21,21 @@ fortuneHigh: A single straight line is all it takes.
 fortuneMid: It's a yes.
 fortuneLow: The plain answer is not the right one.
 fortuneLeast: The tangled yarn has many ends.
-facetMostTitle: Plain and Beansimple
+facetMostTitle: Plain and Beanple
 facetMost: You said you'd try a recipe in your new cookbook tonight. It runs runs three pages — brine it overnight, score the skin, rest the meat twice, sub-recipes for all the trimmings. You would've been happier with a bowl of cereal.
-facetHighTitle: Straight Beantalking
+facetMostAction: You would've been happier with a bowl of cereal.
+facetHighTitle: Straight Beaning
 facetHigh: Planning a weekend away, your partner's building an itinerary — top sights, weather contingencies, a spreadsheet of options. You're inclined to just book the flights and sort the rest out once you're there.
-facetMidTitle: To the Beanpoint
+facetHighAction: You're inclined to just book the flights and sort the rest out once you're there.
+facetMidTitle: To the Bean
 facetMid: Two of you are folding a fitted sheet, and your partner is mid-tutorial on the proper corner-tuck. You'd prefer to just get it vaguely rectangular-shaped and call it a day.
-facetLowTitle: The Beanmousetrap
+facetMidAction: You'd prefer to just get it vaguely rectangular-shaped and call it a day.
+facetLowTitle: The Beantrap
 facetLow: The satnav says turn right for the fast road home. You go left to run along the coast instead, even if it means the trip stretches an hour longer.
-facetLeastTitle: The Rube Goldberg Beanmachine
+facetLowAction: You go left to run along the coast instead, even if it means the trip stretches an hour longer.
+facetLeastTitle: The Rube Goldbean Machine
 facetLeast: Intending to clear out your desk drawer, you find a dead watch, a single cufflink, a key that doesn't fit any locks, and some old clothes. You inspect them, then set each thing back where it was.
+facetLeastAction: You inspect them, then set each thing back where it was.
 question: You're hosting dinner for 4 friends. What are you making?
 answerMost: an online order for delivery
 answerHigh: a one pot pasta

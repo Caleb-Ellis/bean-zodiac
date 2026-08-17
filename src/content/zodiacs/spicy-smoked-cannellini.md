@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo rorschachs
 slug: spicy-smoked-cannellini
-lastUpdated: 
+lastUpdated:
 bean: cannellini
 flavour: spicy
 form: smoked
@@ -17,32 +17,37 @@ antiTriple: sweet-fried-adzuki
 antiBeans: [chickpea, kidney]
 antiForm: roasted
 seasonalFortune: "A season of burnt tomato and sudden attention: the smoke stops the conversation mid-sentence."
-fortuneMost: The blade cuts through the bean and board both.
-fortuneHigh: A red thread of chorizo panics the taste buds, and opens them up.
-fortuneMid: Heat the dish; don't scorch it.
-fortuneLow: The knife stays in the drawer when not in use.
-fortuneLeast: Even porcupines like a good belly rub.
+fortuneMost: A coral snake's colours are a warning nobody ignores.
+fortuneHigh: Make them look.
+fortuneMid: One red thread wakes the whole dish.
+fortuneLow: Turn it down a notch.
+fortuneLeast: Not being watched is a relief.
 facetMostTitle: Beanin Your Face
-facetMost: The photograph you have hung at the entrance is of a face nobody wants to look at, three times life size, lit hard. Visitors have to walk past it to get anywhere at all. Two have complained, and you moved it nearer the door.
-facetHighTitle: Stopped in Your Beantracks
-facetHigh: You open the lecture with the one sentence that makes four hundred people sit up in their seats, and you do not apologise for it at any point afterwards.
-facetMidTitle: The Beandouble Take
-facetMid: One chair, one lemon, and nothing else at all in that window. People stop dead on the pavement outside it, and then come back later for a second look.
-facetLowTitle: Beanpassed Over
-facetLow: There is a mirror behind the bar. It takes you a good second to work out that the reflection in the middle of that group is your own.
-facetLeastTitle: Beanunder the Radar
-facetLeast: Three of you have been at the stop twenty minutes when the bus pulls in, and the driver looks straight past you at the other two and opens the doors for them.
-question: You come into a room mid-conversation. You...
-answerMost: Change what the room is talking about
-answerHigh: Get noticed within a few seconds
-answerMid: Say hello and join in
-answerLow: Slot in without anyone breaking stride
-answerLeast: Get to my seat unremarked
-rorschachMost: a bat, wings full spread
-rorschachHigh: an open ledger
-rorschachMid: a crumpled bowtie
-rorschachLow: two moths on bark
-rorschachLeast: a folded map
+facetMost: You've made the film for her fortieth and it's going up in front of eighty people. Her dad left when she was nine and the family line is he isn't talked about. You put the one photograph of him holding her in the middle of it.
+facetMostAction: You put the one photograph of him holding her in the middle of it.
+facetHighTitle: Stopped in Your Beans
+facetHigh: The three of you have the underpass for the weekend and the council's said what you like. Everyone expects the river and the herons. You put the underpass in flat black and leave one white square at the far end.
+facetHighAction: You put the underpass in flat black and leave one white square at the far end.
+facetMidTitle: The Double Bean
+facetMid: The lift's been out nine weeks and the board by the doors is three sheets of someone's paragraphs and a photocopied letter. You've been asked to put something up. You put up one sheet with the number of days and nothing else.
+facetMidAction: You put up one sheet with the number of days and nothing else.
+facetLowTitle: Passed Bean
+facetLow: The guide takes you past the passage they don't open to the public, and at the bottom he puts every lamp out for a minute. Everyone says dark when he asks. You had your eyes shut the whole time and it made no difference. You say dark as well.
+facetLowAction: You say dark as well.
+facetLeastTitle: Beander the Radar
+facetLeast: Twelve of you have a wall each in the room above the shop and the hanging's tonight. You've brought a photograph of your mother's hands that'll take the room off everyone else, and a print of the harbour that won't. You hang the harbour.
+facetLeastAction: You hang the harbour.
+question: Rooms go quiet for a second when you walk into them. They always have. You...
+answerMost: use the second to say the thing that changes the meeting
+answerHigh: let it pass and get on with why you came
+answerMid: say hello to somebody so the room starts up again
+answerLow: come in late so that it doesn't happen
+answerLeast: use the side door and get to your seat unnoticed
+rorschachMost: a raised barrier
+rorschachHigh: a warning sign
+rorschachMid: a fire alarm
+rorschachLow: a faded label
+rorschachLeast: an empty noticeboard
 ---
 
 Chipotle Cannellini Beans are the Bean Zodiac's most arresting. They walk into the meeting and the sentence somebody was halfway through gets abandoned. Occasionally the effect is more than anyone was ready for. Entering a room unnoticed has not happened in years.

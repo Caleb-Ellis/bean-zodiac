@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: spicy-smoked-green
-lastUpdated: 
+lastUpdated:
 bean: green
 flavour: spicy
 form: smoked
@@ -17,32 +17,37 @@ antiTriple: umami-dried-butter
 antiBeans: [navy, black]
 antiForm: boiled
 seasonalFortune: "A season of chipotle butter and loose moorings; the smoke drifts and the kitchen follows."
-fortuneMost: Six years without touching land, and the albatross would not know what to do with it.
-fortuneHigh: Go where it takes you and stop asking where that is.
-fortuneMid: You were not attached to any of it, and that was the freedom.
-fortuneLow: A rope to something is not the same as a rope around you.
-fortuneLeast: Put your name down for the thing that runs all year.
-facetMostTitle: Beanadrift
-facetMost: Flat given up, boxes in your mother's garage, and you could not say what country you will be in at the end of the month. Somebody asks for an address for the forms. You give your mother's, and it is the only fixed thing there is.
-facetHighTitle: Beancut Loose
-facetHigh: The job ends and there is nothing after it, and you find this is the best you have felt in about four years.
+fortuneMost: Never settling means never being missed from anywhere.
+fortuneHigh: A wandering albatross crosses an ocean without landing.
+fortuneMid: The next place is worth seeing.
+fortuneLow: Stay put this time.
+fortuneLeast: Roots are worth the trouble of growing.
+facetMostTitle: Beanrift
+facetMost: She's asking you to be a godparent because there isn't anybody else left to ask, and you can hear the baby in the background. You've been in three countries this year and you couldn't tell her what the next one is. You tell her to ask somebody who'll be there.
+facetMostAction: You tell her to ask somebody who'll be there.
+facetHighTitle: Bean Loose
+facetHigh: You've been on the agency at the depot since the spring and they've offered to take you on properly — same work, more money, and the man who runs the place went out of his way to make it happen; taking it means a year's notice and being here the whole year. You ask to stay on the agency books.
+facetHighAction: You ask to stay on the agency books.
 facetMidTitle: Free-Floating Bean
-facetMid: The plan was three weeks and you are on week nine, and nobody is expecting you anywhere. Learning the bus routes is the closest thing to roots you have managed.
-facetLowTitle: Beananchors Aweigh
-facetLow: There is a room you rent and a chair you like in it and the same walk on the same evenings. You have started wondering what else there might be.
-facetLeastTitle: Beantied to the Dock
-facetLeast: You were born four miles from here and you will be buried three. The house was your mother's, the job was your father's. Somebody asks whether you ever thought about going, and you say that you did think about it once.
-question: How settled is your life at the moment?
-answerMost: Not at all — no fixed address
-answerHigh: Loose, and I like it that way
-answerMid: Settled enough, with room to move
-answerLow: Fairly rooted
-answerLeast: Born here, and I'll die here
-rorschachMost: a kite, line cut
-rorschachHigh: a jellyfish adrift
-rorschachMid: a torn sail
-rorschachLow: a boat on a rope
-rorschachLeast: an anchor in the mud
+facetMid: You've been talking to the man who runs the waltzer since it shut, and he's showing you how the ride folds down into two lorries and where they sleep on the way. They're in the next town by morning. You ask if they need a pair of hands.
+facetMidAction: You ask if they need a pair of hands.
+facetLowTitle: Beanchors Aweigh
+facetLow: They're a man short every week, the club folds if they can't put eleven out, and your friend wants you to commit to the whole season — every Saturday until April. You tell him to put you down.
+facetLowAction: You tell him to put you down.
+facetLeastTitle: Tied to the Bean
+facetLeast: The plot's come up after fifteen years on the list and the man is walking you round — the water goes off in October, the shed stays with the plot, and you're expected on the ground by March or the tenancy goes back. Everyone on the site has been here decades. You sign for it.
+facetLeastAction: You sign for it.
+question: The landlord offers you the flat for another two years at the same rent. What happens?
+answerMost: it's turned down, and you're gone the month after with no address to give
+answerHigh: six months gets agreed
+answerMid: the two years get signed
+answerLow: it's signed, on the basis that you'll see how it goes
+answerLeast: the shelves go up that weekend
+rorschachMost: a drifting raft
+rorschachHigh: a cut kite
+rorschachMid: a caravan
+rorschachLow: a tent peg
+rorschachLeast: a harbour bollard
 ---
 
 Chipotle Green Beans are the Bean Zodiac's most footloose. No lease, no fixed plan, three countries in two years, and it genuinely suits them. Sometimes there is nothing holding them anywhere at all. Being reliably in one place for someone is hard to promise.

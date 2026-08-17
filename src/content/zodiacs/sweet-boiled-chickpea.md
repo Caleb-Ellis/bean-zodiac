@@ -1,7 +1,6 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sweet-boiled-chickpea
-lastUpdated: 
+lastUpdated: 2026-08-31
 bean: chickpea
 flavour: sweet
 form: boiled
@@ -16,33 +15,38 @@ friendlyForm: smoked
 antiTriple: spicy-fermented-fava
 antiBeans: [green, edamame]
 antiForm: smoked
-seasonalFortune: "A season of rosewater and easy company — the syrup agrees with everything in the bowl."
-fortuneMost: You agreed with all four and cannot now remember what you thought.
-fortuneHigh: Say the plan sounds good and mean the half that does.
-fortuneMid: Try the small no with no sugar on it.
-fortuneLow: Following gets the lamb there too, only later.
-fortuneLeast: A preference is a muscle, and yours has been resting.
-facetMostTitle: How to Win Friends and Influence Beans
-facetMost: A man across the table makes a point and it is a good one, and you say so, and then he makes three more. Two of them contradicted each other. You agreed warmly with all four, and you would agree with a fifth.
-facetHighTitle: Easy to Beanlove
-facetHigh: The plan is not the one you would have picked and you can see two problems in it. You say it sounds good.
+seasonalFortune: "A season of rosewater and easy company — the syrup work with everything in the bowl."
+fortuneMost: The lamb follows the shepherd, right to the end.
+fortuneHigh: A "yes" that was never in doubt is worth nothing.
+fortuneMid: An easy-to-please bean is a happy bean.
+fortuneLow: A small "no" will not ruin things.
+fortuneLeast: A single awkward question can save a whole wasted discussion.
+facetMostTitle: How to Win Beans and Influence People
+facetMost: A few hours from the top of the mountain hike, the guide asks the six of you whether you want to take the ridge or go around the long way. You think going around, while the loudest of the group says the ridge. You say the ridge sounds like a great idea.
+facetMostAction: You say the ridge sounds like a great idea.
+facetHighTitle: Easy to Bean
+facetHigh: Three friends are helping you move on Saturday and the truck is already booked. One of them asks if you can all do it Sunday instead, which means rebooking the truck and giving up the day you'd kept free. You tell him Sunday is fine and go and change the booking.
+facetHighAction: You tell him Sunday is fine and go and change the booking.
 facetMidTitle: Fine by Bean
-facetMid: Asked whether the table by the door will do, you say yes, because it will do perfectly well, and you sit down at it and pick up the menu without looking round.
-facetLowTitle: Beanscrooged
-facetLow: Somebody suggests the pub you always go to, which is a perfectly good pub with nothing whatever wrong with it. You find, all the same, that you want to argue about it.
+facetMid: Six of you have rented a house for a weekend and the two who booked everything have given themselves the big room. You definitely didn't do the least amount of work organising the trip, but you've been put in the worst room with no window and a single bed. You don't kick up a fuss.
+facetMidAction: You don't kick up a fuss.
+facetLowTitle: Beanrooged
+facetLow: Eight of you are at a restaurant, and somebody suggests getting a load of dishes for the table to share. Everybody else says yes to it straight away. You'd prefer to have your own on this occasion. You tell them you'll ordering something for yourself.
+facetLowAction: You tell them you'll ordering something for yourself.
 facetLeastTitle: Difficult Beans
-facetLeast: Nothing is actually wrong with the meal and the waiter has been perfectly nice about all of it. You send it back anyway, and you make the point twice.
-question: Your boss puts a plan to the team that you're fairly sure won't work. You...
-answerMost: Say it's a strong plan and back it hard
-answerHigh: Say it sounds good, and mean it
-answerMid: Raise one small thing and leave it there
-answerLow: Say plainly that I don't think it'll work
-answerLeast: Take it apart in front of everyone
-rorschachMost: a bowing waiter
-rorschachHigh: a bird ducking its head
-rorschachMid: a hinged doll
-rorschachLow: a coat hanger
-rorschachLeast: a hammer, claw up
+facetLeast: Everyone in your building has agreed to split the cost of the new roof, and it only goes ahead if everyone signs. You're on the ground floor so won't see any direct personal benefit of a new roof. You tell them you're not paying.
+facetLeastAction: You tell them you're not paying.
+question: Your partner's parents have given you a coat for your birthday. It was clearly expensive, really warm and great for winter, but two sizes too big and not your style at all. You...
+answerMost: wear it to their house every time you visit
+answerHigh: wear it during winter, maybe it becomes part of your style
+answerMid: keep it, only wearing it when it's cold enough
+answerLow: leave it in the wardrobe, but never wear it
+answerLeast: tell them it's too big and ask if they do returns
+rorschachMost: a bidet
+rorschachHigh: a mortar and pestle
+rorschachMid: a unique teapot
+rorschachLow: a bearded sailor
+rorschachLeast: a broken ornament
 ---
 
 Candied Chickpeas are the Bean Zodiac's most agreeable. Whatever the plan is they're happy with it, and it's genuine rather than polite. Some evenings nobody can find out what they actually wanted. Being the one who objects is a role they'll go far to avoid.

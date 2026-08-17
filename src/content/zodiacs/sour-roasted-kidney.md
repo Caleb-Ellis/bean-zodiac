@@ -17,11 +17,11 @@ antiTriple: spicy-smoked-edamame
 antiBeans: [fava, green]
 antiForm: dried
 seasonalFortune: "A season of pickled onion and even portions — the roast divides the table without argument."
-fortuneMost: Wading the same shallows as everyone, the ibis takes exactly its share.
-fortuneHigh: Someone offers to split the difference.
-fortuneMid: Round the obvious uneven bits and let the rest fall even.
-fortuneLow: Most of the entries won't matter once you've slept on them. Shut the ledger.
-fortuneLeast: Overpay at the counter and walk on.
+fortuneMost: Follow the rule exactly and the fair thing gets lost.
+fortuneHigh: An ibis walks the flood line taking each thing in turn.
+fortuneMid: The rule exists for the awkward cases.
+fortuneLow: Bend it for this one.
+fortuneLeast: Fairness sometimes means breaking the rule.
 facetMostTitle: The Letter of the Bean
 facetMost: Raffle tickets are drawn and the second prize goes to a woman who bought her strip after the table shut. You go and find the sheet with the times written on it, and the prize comes back and is drawn again.
 facetHighTitle: Bean Play
@@ -32,17 +32,17 @@ facetLowTitle: Les Beanserables
 facetLow: The tips are meant to go by hours and yours are down, and the girl who counted them is new to it. You take what is in the envelope and get your coat.
 facetLeastTitle: Kangabean Court
 facetLeast: One plant is left and a woman has been holding it since before the queue formed and has gone for her purse, and you take it to the till with the money already in your hand.
-question: Four of you did a job together and the money's come in split evenly, but one of you did about half of it. You...
-answerMost: work out the hours properly and redo the split
-answerHigh: say out loud that the split doesn't match the work
-answerMid: have a quiet word with the one who did half
-answerLow: take your quarter and leave it alone
-answerLeast: take your quarter and hope nobody counts
-rorschachMost: a rule measured to crumbs
-rorschachHigh: a full measure, level
-rorschachMid: a scale and its spillings
-rorschachLow: a pan tipped slightly
-rorschachLeast: a thumb on the scale
+question: The award for the build is being given to the two of you, and most of the drawings were done by the woman who left in March. You...
+answerMost: hold the ceremony up until her name goes on the certificate
+answerHigh: name her from the stage as the one who drew it
+answerMid: mention her when you're asked about the drawings
+answerLow: thank the team she was part of
+answerLeast: take the award as it's given
+rorschachMost: small print
+rorschachHigh: a halved apple
+rorschachMid: a cut deck
+rorschachLow: a short measure
+rorschachLeast: a loaded dice
 ---
 
 Chimichurri Kidney Beans are the Bean Zodiac's most fair. The bill gets split properly, the credit goes where it is owed, and the person nobody likes still gets heard. The fairness occasionally becomes procedure for its own sake. Quietly letting an injustice stand they cannot manage.

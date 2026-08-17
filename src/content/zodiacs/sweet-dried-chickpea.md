@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sweet-dried-chickpea
-lastUpdated: 
+lastUpdated:
 bean: chickpea
 flavour: sweet
 form: dried
@@ -17,32 +17,37 @@ antiTriple: bitter-fermented-pinto
 antiBeans: [black, fava]
 antiForm: smoked
 seasonalFortune: "A season of cardamom sugar and plain goodness — nothing here needs explaining to anyone's mother."
-fortuneMost: A shetland pony is safe with anybody's children and never gets ridden anywhere.
-fortuneHigh: You will be asked to say the words, because you will keep them clean.
+fortuneMost: A shetland pony is safe with anybody's children and gets ridden nowhere.
+fortuneHigh: Keep it clean and they'll ask you to speak.
 fortuneMid: The kind version and the true version are usually both available.
-fortuneLow: Let the joke that is nearly too much go by unmanaged.
-fortuneLeast: Take the long walk and tell no one where.
-facetMostTitle: Sanitised for Your Beanprotection
-facetMost: The version of your father you tell the grandchildren has the allotment in it, and the singing, and the thing with the bicycle. It does not have the eleven years, or the money, or why your mother went quiet whenever the coast came up.
-facetHighTitle: The Beanwaltons
-facetHigh: The village show wants its big tent up before nine, and you are down on the field at eight helping.
-facetMidTitle: Little Beanhouse on the Prairie
-facetMid: Asked to say a few words about him, you find the two stories that are true and kind. The third one you leave exactly where it has always been, unsaid.
+fortuneLow: Nobody needs the joke cleaned up.
+fortuneLeast: Go for the long walk and tell nobody where.
+facetMostTitle: Sanitised for Your Beantection
+facetMost: Your friend's new girlfriend asks what the six of you were like at university and you have the whole afternoon in the garden to tell her, and there was the year one of you was very ill and another one left because of it. You give her the funny version.
+facetMostAction: You give her the funny version.
+facetHighTitle: The Beantons
+facetHigh: Your grandad's stone goes to the mason this week and whatever is on it is cut once. Your aunt has found a verse that would suit anybody. He answered the phone the same way for forty years. You have that cut instead.
+facetHighAction: You have that cut instead.
+facetMidTitle: Little Bean on the Prairie
+facetMid: The card has to go today to get there for your aunt's birthday, the queue in the post office is out to the door, and she has not replied to one in four years. You queue, buy the stamp, and post it.
+facetMidAction: You queue, buy the stamp, and post it.
 facetLowTitle: Reservoir Beans
-facetLow: Somebody tells the joke that is nearly too much and the whole table is still deciding what to do about it, and you laugh before you have decided anything at all.
-facetLeastTitle: Bad Beantaste
-facetLeast: The stag weekend has got to the part of the night that nobody will be telling anybody about. You were the one who suggested it, some hours ago now.
-question: Your family starts telling stories about you at a party. You...
-answerMost: Steer them to the one that shows me well
-answerHigh: Let the warm ones run
-answerMid: Sit there and take it
-answerLow: Add the one that's a bit near the knuckle
-answerLeast: Tell the one they'd only tell after midnight
-rorschachMost: a beetroot, scrubbed clean
-rorschachHigh: a turnip with its stalk
-rorschachMid: a kite on its string
-rorschachLow: a pulled weed, root showing
-rorschachLeast: a rotting pear, stalk on
+facetLow: The man behind the counter turns the light off over each table as it finishes, so the room goes dark in sections, and yours is the last one lit. Somebody tells the joke that is nearly too much and the other three are still deciding. You laugh before you have decided anything.
+facetLowAction: You laugh before you have decided anything.
+facetLeastTitle: Bean Taste
+facetLeast: Four in the morning in the back of a taxi with your friend, and she asks what actually happened after she left. What happened does not make you look good and two of the people in it are her friends. You tell her the whole night, starting with the worst part.
+facetLeastAction: You tell her the whole night, starting with the worst part.
+question: Your nephew is doing a school project on his grandad and asks you what he was like. Grandad drank, told jokes, and left for two years. You...
+answerMost: hand him the jokes and leave the drink and the two years out
+answerHigh: tell it kindly including the drink
+answerMid: hand him all three
+answerLow: say it flat — the drink, the leaving, the jokes
+answerLeast: lead with the drink and the two years
+rorschachMost: carbolic soap
+rorschachHigh: a milk jug
+rorschachMid: a pulled carrot
+rorschachLow: a mop head
+rorschachLeast: a drain rat
 ---
 
 Crystallised Chickpeas are the Bean Zodiac's most wholesome. The Sunday walk, the actual phone call, the birthday remembered — old-fashioned things done sincerely. Sometimes the edges get quietly filed off the story. Being frankly grubby about anything they would rather not.

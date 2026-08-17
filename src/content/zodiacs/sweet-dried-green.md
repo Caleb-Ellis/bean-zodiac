@@ -23,14 +23,19 @@ fortuneLow: You don't have to go back.
 fortuneLeast: Even the sloth leaves the tree it was born in.
 facetMostTitle: Too Bean for Comfort
 facetMost: You're in a new city and need a bed for two nights. You know one person — someone you were close to ten years ago, but no longer. You message them asking to stay, and sign off with an emoji.
+facetMostAction: You message them asking to stay, and sign off with an emoji.
 facetHighTitle: Familiar Beans
-facetHigh: Someone you were great friends with at university is at the same party — you've drifted apart since. Regardless, you catch up breezily, starting with what's happening now rather than recalling everything that's happened since.
+facetHigh: Someone you were great friends with at university is at the same party — you've drifted apart since. You catch up breezily, starting with what's happening now rather than recalling everything that's happened since.
+facetHighAction: You catch up breezily, starting with what's happening now rather than recalling everything that's happened since.
 facetMidTitle: Old Beans
 facetMid: It's been two years since you last played this game — you never finished it, but you still have an active save. You pick up right where you left off rather than start over.
+facetMidAction: You pick up right where you left off rather than start over.
 facetLowTitle: Bean Danger
 facetLow: A reunion is being organised for your school year. You could definitely make it, but you send your apologies and say you hope it goes well.
+facetLowAction: You could definitely make it, but you send your apologies and say you hope it goes well.
 facetLeastTitle: Beans on a Train
-facetLeast: You're back in the town you grew up in for a week, sorting out some things. You have plenty of spare time, but end up going home without telling anyone you were there.
+facetLeast: You're back in the town you grew up in for a week, sorting out some things. You have plenty of spare time. You end up going home without telling anyone you were there.
+facetLeastAction: You end up going home without telling anyone you were there.
 question: What happens to the group chats from old jobs?
 answerMost: still in every one of them, still posting in them
 answerHigh: still in them, and I'll add something when it strikes me

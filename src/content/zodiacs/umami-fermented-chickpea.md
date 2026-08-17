@@ -23,14 +23,19 @@ fortuneLow: Cook what your hands already know.
 fortuneLeast: The old way is old because it works.
 facetMostTitle: Bean Tank
 facetMost: At the restaurant you opened, one course arrives in a smoking box, one is eaten off the bare table, one under a bell with a record playing. The cooking underneath is genuinely good, and no review has mentioned it. For the new menu you are working on a course served in the dark.
+facetMostAction: For the new menu you are working on a course served in the dark.
 facetHighTitle: Back to the Beanture
 facetHigh: You farm barley, and the seed order is due. You have a theory that clover sown between the rows would feed the soil and prevent weeds. Nobody round here puts two seeds in one field, because often one thrives while the other suffers. You add clover to the order anyway.
+facetHighAction: You add clover to the order anyway.
 facetMidTitle: Beanstorm
 facetMid: Fourth year teaching the same history module — same textbook, same worksheets, a class that has already read the summary online. You leave the worksheets in the cupboard, and open the lecture with an account of the war that is obviously false, hoping to stir some lovely debate amongst the students.
+facetMidAction: You leave the worksheets in the cupboard, and open the lecture with an account of the war that is obviously false, hoping to stir some lovely debate amongst the students.
 facetLowTitle: Yesterday's Beans
-facetLow: The window of your shop hasn't changed in two years — same backdrop, same products, price cards gone pale in the sun. A supplier offers to fit a whole new display for cheap. Revenue has been steady throughout, so you tell them the window is fine as it is.
+facetLow: The window of your shop hasn't changed in two years — same backdrop, same products, price cards gone pale in the sun. A supplier offers to fit a whole new display for cheap. Revenue has been steady throughout. You tell them the window is fine as it is.
+facetLowAction: You tell them the window is fine as it is.
 facetLeastTitle: The Last Picture Bean
 facetLeast: Your band has played the same set in the same order since before the drummer joined, and it has always gone down well. At practice they suggest swapping two songs to lift the middle. You talk them through how that order came about, and why it should stay.
+facetLeastAction: You talk them through how that order came about, and why it should stay.
 question: Your bakery has sold the same five classic pastries at the Saturday market for years, baked ahead of time. The takings have been close to flat for a while. You...
 answerMost: try something like a pistachio and raspberry cronut, gold leaf on top
 answerHigh: rework all five round a nuttier dough and let them come out different

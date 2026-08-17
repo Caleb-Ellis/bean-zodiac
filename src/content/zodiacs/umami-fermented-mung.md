@@ -17,32 +17,32 @@ antiTriple: sour-dried-edamame
 antiBeans: [navy, fava]
 antiForm: smoked
 seasonalFortune: "A season of ginger and shiso: the miso says it beautifully or not at all."
-fortuneMost: Singing all night to nobody in particular, the nightingale is called a poet.
-fortuneHigh: When the news is hard, one short sentence with one warm word in it is the medicine.
-fortuneMid: While the phrase gets worked into shape, the plain thing that needed saying stands waiting.
-fortuneLow: Say it as it comes, nothing added, and it still arrives whole.
-fortuneLeast: "Put the body first: water, food, sleep, in that plain order."
-facetMostTitle: Purple Beanrain
+fortuneMost: Beautiful enough and nobody can tell what was meant.
+fortuneHigh: A nightingale sings all night to an empty wood.
+fortuneMid: The right words outlast the occasion.
+fortuneLow: A flat delivery would do.
+fortuneLeast: Plain speech gets understood.
+facetMostTitle: Purple Bean
 facetMost: Somebody has asked how the walk was. What they get is the light on the wet slate, and the birds going up off the field like paper. They still do not know how far you went.
 facetHighTitle: Ode on a Grecian Bean
 facetHigh: The corridor is strip-lit and the chairs are bolted to the floor and you are waiting in it with her, and you find her a way of describing the place that makes it possible to sit there.
-facetMidTitle: Leaves of Beangrass
+facetMidTitle: Beans of Grass
 facetMid: A photograph goes up of the boat coming in past the harbour wall with the whole crew stood on the deck of it, and the caption you put underneath is one line about the colour of the water and nothing else at all.
-facetLowTitle: The Beaninstruction Manual
+facetLowTitle: The Beanstruction Manual
 facetLow: The timer needs instructions on a card. You write down which button, how long, and where the spare batteries are.
-facetLeastTitle: Terms and Beanditions
+facetLeastTitle: Beans and Conditions
 facetLeast: A form wants two hundred words on what the group has done and you were there for all of it. You list the events and put the numbers in.
-question: How do you describe a place you loved?
-answerMost: at such length nobody learns where it was
-answerHigh: one image, and they can see it
-answerMid: a couple of details and how it felt
-answerLow: where it is and what there is to do
-answerLeast: nice, and you'd go again
-rorschachMost: a flourish with no word
-rorschachHigh: a curled capital letter
-rorschachMid: two frilled shells
-rorschachLow: a plain hand, no curl
-rorschachLeast: a ledger, boxes ticked
+question: You've been asked to say a few words at the hospital's fundraiser about the weeks you spent on the ward. You...
+answerMost: spend it all on the corridor and never reach the ward
+answerHigh: find the phrase for the corridor that makes it bearable to hear
+answerMid: describe the room, the tea trolley, and what the days were
+answerLow: say it was a ward, and long
+answerLeast: give them the visiting hours and the parking
+rorschachMost: an ornate scroll
+rorschachHigh: a songbird
+rorschachMid: a greetings card
+rorschachLow: a bus timetable
+rorschachLeast: a shopping list
 ---
 
 Miso Mung Beans are the Bean Zodiac's most poetic. They describe the hospital corridor in a way that makes it bearable, and the phrase stays with you. Sometimes there is more language than event. Saying it flatly and plainly they find hard.

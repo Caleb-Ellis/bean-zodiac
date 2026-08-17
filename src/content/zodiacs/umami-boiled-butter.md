@@ -1,7 +1,6 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-boiled-butter
-lastUpdated: 
+lastUpdated: 2026-08-24
 bean: butter
 flavour: umami
 form: boiled
@@ -17,32 +16,37 @@ antiTriple: sweet-fried-green
 antiBeans: [kidney, pinto]
 antiForm: roasted
 seasonalFortune: "A season of bonito and low flame — the pot restores anyone who sits near it."
-fortuneMost: Twenty hours asleep in the fork of a tree, and the koala calls that a full life.
-fortuneHigh: Cancel the evening and turn in early.
-fortuneMid: That yawn is information, not weakness.
-fortuneLow: The quiet hour before anyone else claims it.
-fortuneLeast: A restlessness with a use in it.
+fortuneMost: Excess rest can fog the mind.
+fortuneHigh: A koala sleeps twenty hours a day and seems to do well.
+fortuneMid: Go to bed early tonight.
+fortuneLow: Somebody has to do the tiring part.
+fortuneLeast: You'll sleep better after a hard day's work.
 facetMostTitle: Rip Van Beankle
-facetMost: The sleeper has been running five hours and you have been awake for about one of them. Somebody knocks with the breakfast tray. You take it, eat it lying down, and go back under before the tea has cooled.
+facetMost: You're on a sleeper train north. A friend tried to stir you awake, telling you the sunrise looks beautiful over the mountains. You don't know what time it is, only that it's early and you're tired. You roll over and go back to sleep.
+facetMostAction: You roll over and go back to sleep.
 facetHighTitle: Peaceful Easy Beanling
-facetHigh: An hour in the hay barn out of the sun, nothing needing doing until the trailer comes back, and you lie down in it.
+facetHigh: You and three friends are in the living room, just after the cottage you'd booked for the weekend has cancelled suddenly. The others are scrambling to find alternative accommodation, while the snacks and wine you'd bought for the trip are sitting on the table. You tell them to figure it out in the morning, open the snacks, and pour yourself a glass of wine.
+facetHighAction: You tell them to figure it out in the morning, open the snacks, and pour yourself a glass of wine.
 facetMidTitle: Beanday Morning
-facetMid: The greenhouse in the afternoon is warmer than the house and smells of tomatoes. You take the chair in there and stay a good deal longer than you meant to.
+facetMid: The power has been off on your street for hours and nobody can say when it's coming back. Your housemate wants to go to a nearby cafe to charge everything and get out of the flat. You take a nap instead.
+facetMidAction: You take a nap instead.
 facetLowTitle: The Weary Beans
-facetLow: You said you would help with the van and it has turned into a whole day of stairs. You keep carrying, and you count the boxes left.
+facetLow: You're four days into a week on an island with your partner and you've headed out early every day so far. This morning they say they'd rather stay in bed with a book and go out after lunch, but the only boat to the animal sanctuary island leaves at nine. Missing it means losing the day there. You start packing bags for both of you.
+facetLowAction: You start packing bags for both of you.
 facetLeastTitle: Sixteen Beans
-facetLeast: You have taken on the treasurer's job, the school run and the neighbour's cat, and now somebody wants a lift to the airport at four in the morning. You say yes to that as well, and then you offer to wait and bring their car back.
-question: A whole afternoon comes free unexpectedly. You...
-answerMost: Sleep through most of it
-answerHigh: Do nothing at all, deliberately
-answerMid: Potter, mostly
-answerLow: Clear a couple of jobs off the list
-answerLeast: Fill it, and add something on the end
-rorschachMost: a sleeper who won't wake
-rorschachHigh: a cat curled tight
-rorschachMid: a bundle and a fleck
-rorschachLow: an eye opening slowly
-rorschachLeast: a wheel turning on
+facetLeast: You've been partying since ten for a friend's birthday, and on stepping out of the venue you see the sun rising. Six of you are out on the street, some suggest sharing a ride home, others are leaning hard against lampposts. You suggest one last cheeky drink at the pub nearby.
+facetLeastAction: You suggest one last cheeky drink at the pub nearby.
+question: It's the first Sunday in months with no plans. Your partner is on the sofa vegetating on their phone, and the whole sunny day is yours. You...
+answerMost: get back into bed and sleep through the afternoon
+answerHigh: take a long morning tea in the sun
+answerMid: catch up on some reading
+answerLow: get a headstart on some chores
+answerLeast: take your partner out for a fun activity
+rorschachMost: a pillow
+rorschachHigh: a cloud
+rorschachMid: a vape
+rorschachLow: a toy train
+rorschachLeast: a tipped laundry basket
 ---
 
 Dashi Butter Beans are the Bean Zodiac's most restful. An afternoon in their company undoes a bad fortnight, and nobody can say exactly how. Sometimes the whole day dissolves and nothing gets done. Being the person who wears others out isn't possible for them.

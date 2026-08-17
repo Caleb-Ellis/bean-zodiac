@@ -17,32 +17,37 @@ antiTriple: bitter-fermented-mung
 antiBeans: [kidney, chickpea]
 antiForm: boiled
 seasonalFortune: "A season of dried ume and sharp weather — the sweetness arrives late and armed."
-fortuneMost: You hand it over unsanded, and the splinter outlasts the point.
-fortuneHigh: An apology rounded up to look generous spoils like fruit left too sweet.
-fortuneMid: One flash of sour yellow, and the lemon tetra has made its whole point.
-fortuneLow: A friend's story has grown sweeter than it was. Pass the sesame, not the correction.
-fortuneLeast: Good news is coming dressed a little too kind, and the kindness is real.
+fortuneMost: Sharp answers get remembered longer than the point they made.
+fortuneHigh: A lemon tetra flashes yellow once and the shoal turns.
+fortuneMid: One sharp line lands better than five soft ones.
+fortuneLow: They can have the nice version.
+fortuneLeast: Sweet talk gets doors opened.
 facetMostTitle: Whatever Happened to Baby Bean?
-facetMost: Your team-mate has argued the wrong answer through three rounds now, loudly, and the marker has given up listening to anybody else at the table. At the end you read the score out with a tally beside it of exactly whose answers cost what.
+facetMost: Your partner has done the bedroom over the weekend while you were away — stripped it, filled it, two coats — and she's stood in the doorway waiting. It's a green you would not have picked. You ask whether the colour was on offer.
+facetMostAction: You ask whether the colour was on offer.
 facetHighTitle: When Life Gives You Beans
-facetHigh: Twice now this barber has taken more off than you asked for. You tell him it is a good job hair grows, and you pay.
+facetHigh: You're up saying a few words about your uncle, who was a difficult sod and has been called a character three times already this morning. His widow is in the front row and she knows exactly what he was. You say he'd have hated every minute of this.
+facetHighAction: You say he'd have hated every minute of this.
 facetMidTitle: Beanade
-facetMid: Asked what you make of the plastic topiary by the garden centre till, you say that it will certainly last.
+facetMid: Your friend has put eleven pounds into the grabber and has finally got the bear out and is holding it up like a cup, and the bear's worth about two. You tell him it's a bargain at eleven.
+facetMidAction: You tell him it's a bargain at eleven.
 facetLowTitle: Beanyman
-facetLow: The man you are three frames up on is explaining at length why the table is unfair, the cushions are dead and the lighting is off. You agree about the cushions and rack them up again.
+facetLow: It's your neighbour's first Saturday on the market with three jars of chutney and a hand-drawn sign, she's watched you the whole way up the row, and it isn't very good chutney. You tell her they're lovely.
+facetLowAction: You tell her they're lovely.
 facetLeastTitle: Sweet Beanoline
-facetLeast: Third time this visit your aunt has shown you the same photograph. You say it is a lovely one, every time, and you mean it a little more each time.
-question: A friend's cake has come out flat and they are standing there with a fork, waiting. You...
-answerMost: tell them exactly where it went wrong, step by step
-answerHigh: say it is flat, and that it still tastes good
-answerMid: say the icing carried it
-answerLow: say it is lovely and leave it there
-answerLeast: go back for a second slice you do not want
-rorschachMost: vinegar poured neat
-rorschachHigh: a crab apple, one bite
-rorschachMid: a hard green fruit
-rorschachLow: an apple ripening still
-rorschachLeast: honey, lid left off
+facetLeast: Your friend has been the maid in the murder mystery and she had four lines and dried on two, and you're stood in the wings while the stage manager counts the props back into the box. She comes off looking for you. You tell her she was the best thing in it.
+facetLeastAction: You tell her she was the best thing in it.
+question: Your sister has opened a café and asks you to leave the first review. You...
+answerMost: word it so the compliment stings on the second read
+answerHigh: give it five stars and one dry line about the chairs
+answerMid: praise the coffee, and mention the wait
+answerLow: leave a plain sentence saying it's good
+answerLeast: put up three exclamation marks and a heart
+rorschachMost: a burst chilli
+rorschachHigh: a squeezed lemon
+rorschachMid: a splash of vinegar
+rorschachLow: a jam spoon
+rorschachLeast: a treacle tin
 ---
 
 Dehydrated Adzuki Beans are the Bean Zodiac's most tart. The compliment has a twist of lemon in it and lands better than the flat version would. Some days everything comes out with the twist. Straightforward praise, unqualified, they can barely say aloud.

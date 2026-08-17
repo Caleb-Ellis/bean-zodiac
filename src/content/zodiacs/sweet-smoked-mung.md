@@ -18,32 +18,32 @@ antiTriple: sour-fried-pinto
 antiBeans: [edamame, fava]
 antiForm: roasted
 seasonalFortune: "A season of coconut sugar and rice husk: the smoke is warm and asks nothing."
-fortuneMost: No mouth at all, and the silkmoth spends its few days being lovely.
-fortuneHigh: Reach for the friend who never reaches first.
-fortuneMid: Asked how you are, give the honest summary, not the glossed one.
-fortuneLow: Let the question pass and keep the afternoon for yourself.
-fortuneLeast: Put a rim on the sweetness you keep pouring out.
-facetMostTitle: Beansugar, Sugar
+fortuneMost: Sweet enough and the whole thing turns sickly.
+fortuneHigh: A silkmoth lives a few days and never eats.
+fortuneMid: Warmth costs nothing to hand out.
+fortuneLow: A sharp word wouldn't hurt.
+fortuneLeast: A bit of bite wakes people up.
+facetMostTitle: Beangar, Beangar
 facetMost: It is warm on the terrace and somebody has said a thing that could go either way. You smooth it over. You keep smoothing until nobody is disagreeing about anything at all.
-facetHighTitle: Summer Beanbreeze
+facetHighTitle: Summer Bean Breeze
 facetHigh: The sauna is full and nobody knows anybody and it is going quiet in the wrong way. You say something about the cold plunge that gets four people talking at once.
-facetMidTitle: Beanwarm Wind
+facetMidTitle: Warm Bean Wind
 facetMid: A woman has come into the shop with a lot on and has not said so, and there is nobody behind her in the queue, and you take a good deal longer over her order than the order needs.
-facetLowTitle: The Biting Beanwind
+facetLowTitle: The Beaning Wind
 facetLow: The room has gone comfortable and somebody has said something lazy that the whole table has nodded along with, and there is an easy laugh available. You say you are not sure that is right. You leave it there and let the talk carry on over it.
-facetLeastTitle: Bitter Beancold
+facetLeastTitle: Beanter Cold
 facetLeast: Somebody has asked what you think of the plan and you think very little. The way you put that is harder than it needed to be.
-question: What's the weather like around you?
-answerMost: warm to the point where nothing sharp survives
-answerHigh: a warm evening, and people slow down
-answerMid: mild, with the odd cold snap
-answerLow: fresh, and it wakes people up
-answerLeast: there's an edge in it and people feel it
-rorschachMost: warm air with no window
-rorschachHigh: steam off a bath
-rorschachMid: a haze over a field
-rorschachLow: a breeze through a door
-rorschachLeast: frost on the inside pane
+question: Your sister has twenty minutes at yours between shifts and is wound up about the rota. You...
+answerMost: keep it so warm that the rota never gets mentioned
+answerHigh: have the twenty minutes run slower than the day around it
+answerMid: make tea and let her talk the rota out
+answerLow: hear about the rota and get her back out on time
+answerLeast: tell her what to say about the rota and send her off
+rorschachMost: a syrup pudding
+rorschachHigh: a shaded hammock
+rorschachMid: a picnic rug
+rorschachLow: a nettle bed
+rorschachLeast: hailstones
 ---
 
 Barbecued Mung Beans are the Bean Zodiac's most balmy. Being around them is like a warm evening — nothing urgent, nothing sharp, and everyone slows down. Sometimes it is warmer than the moment wanted. Delivering something with a bite is not in the range.

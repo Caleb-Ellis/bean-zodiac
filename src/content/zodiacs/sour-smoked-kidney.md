@@ -17,32 +17,37 @@ antiTriple: sweet-boiled-butter
 antiBeans: [chickpea, pinto]
 antiForm: roasted
 seasonalFortune: "A season of mesquite and tamarind — the cure tells everything; the room recovers slowly, if at all."
-fortuneMost: Eating whatever it finds without considering whether it should - the tiger shark.
-fortuneHigh: When they ask, they already half-know.
-fortuneMid: Say you do not like this one, about the small thing, not the whole.
-fortuneLow: A correct verdict leaves a chill behind it.
-fortuneLeast: An old bruise, and you're still pressing it.
-facetMostTitle: Beanwuthering Heights
-facetMost: A nephew's business plan is on your kitchen table with a figure on page two that cannot happen, and you go through it line by line.
-facetHighTitle: No Beanquarter
-facetHigh: A woman auditions for the choir and sings it flat in the same three bars twice. You tell her which bars. You tell her that before you tell her anything else.
-facetMidTitle: The Hard Beantruth
-facetMid: Somebody plays you the demo in the car and wants to know what you think of it. You tell her the second song is the only one there, and why.
-facetLowTitle: Beancotton Wool
-facetLow: The stall took less than half of what it took last time and she knows it and is packing up very slowly, and you tell her the weather was against everybody on that field.
-facetLeastTitle: Beanbubble Wrap
-facetLeast: A friend has driven the mock test as though the mirrors were ornaments and clipped a kerb on the reverse. He gets out of the car looking pleased with himself. You tell him he is nearly there, and that the examiner will very likely be having a good day.
-question: A friend has spent two years and most of her savings on a shop that isn't going to make it, and she's asked what you think. You...
-answerMost: tell her it's finished and show her the numbers
-answerHigh: tell her it isn't working while there's still time
-answerMid: ask her what the next six months look like
-answerLow: call it a hard trade and change the subject
-answerLeast: tell her it's turning a corner
-rorschachMost: a scythe at full swing
-rorschachHigh: a blade through a field
-rorschachMid: a hooded lamp
-rorschachLow: shears set aside
-rorschachLeast: a blanket wrapped close
+fortuneMost: Say the withering thing and it outlives the argument.
+fortuneHigh: A tiger shark eats whatever the sea puts in front of it.
+fortuneMid: The hard truth said once does its work.
+fortuneLow: Cool it down first.
+fortuneLeast: Coddling somebody through a bad week is not weakness.
+facetMostTitle: Wuthering Beans
+facetMost: Your sister's on the platform with a bag, going back to the man who cleared her account and left in the spring. She's telling you like you'll be pleased. You give her the next year of it, month by month, and how it ends.
+facetMostAction: You give her the next year of it, month by month, and how it ends.
+facetHighTitle: No Beanter
+facetHigh: An hour into the walk your friend asks straight out if she's being oversensitive about him. There were nine of you at her birthday and he corrected her twice across the table, and they've a deposit down for next summer. You say he does it every time, and that everyone's noticed.
+facetHighAction: You say he does it every time, and that everyone's noticed.
+facetMidTitle: The Bean Truth
+facetMid: The stencil's on her forearm and once the outline's done it's there for good. She's been with him seven months. She turns her arm round and asks what you think. You say seven months isn't long enough to put on your arm.
+facetMidAction: You say seven months isn't long enough to put on your arm.
+facetLowTitle: Beanon Wool
+facetLow: Your niece has run the same three minutes over the county time all season, and on the bench by the track she asks if you think she'll get in at the trials. On those times she won't. You say it's a lottery and anything can happen on the day.
+facetLowAction: You say it's a lottery and anything can happen on the day.
+facetLeastTitle: Bubble Bean
+facetLeast: Your grandmother's in for a fortnight's respite, the drugs trolley round at six and a room kept empty for emergencies. The house sold in the spring to pay for it. She asks if anyone's watered the plants. You say you were in on Sunday and it's fine.
+facetLeastAction: You say you were in on Sunday and it's fine.
+question: Your friend's shop has four months of money left and a plan that assumes Christmas fixes it. She hasn't asked you. You...
+answerMost: put it to her that the shop is finished, plan and all
+answerHigh: tell her four months is the truth, while there's time to act on it
+answerMid: put the ordinary Christmas to her as a question
+answerLow: call the plan tight and leave her to it
+answerLeast: give her Christmas before anybody says anything
+rorschachMost: a blowtorch
+rorschachHigh: a branding iron
+rorschachMid: a griddle plate
+rorschachLow: a padded cot
+rorschachLeast: cotton wool
 ---
 
 Cured Kidney Beans are the Bean Zodiac's most searing. They tell you the business isn't working while there is still time to do something about it. Occasionally the telling leaves nothing standing. Letting somebody enjoy a comfortable illusion another month is not a kindness they extend.

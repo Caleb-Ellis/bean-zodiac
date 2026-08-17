@@ -17,32 +17,37 @@ antiTriple: bitter-dried-edamame
 antiBeans: [cannellini, fava]
 antiForm: fermented
 seasonalFortune: "A season of coriander chutney and asked questions: the fire checks on everyone twice."
-fortuneMost: Going over the same stretch of reef twice, the nurse shark misses nothing.
-fortuneHigh: Answer the one underneath it out loud - that was always what was being asked.
-fortuneMid: You're the only one who caught the off-note.
-fortuneLow: You can catch a thing and still leave it be.
-fortuneLeast: The phone left in another room while you sleep.
-facetMostTitle: Beanicopter Parent
-facetMost: The student in your spare room has an exam and you are at the foot of the stairs at seven asking whether the pens are in.
+fortuneMost: Care for somebody hard enough and they stop doing it themselves.
+fortuneHigh: A nurse shark lies still while small fish work on it.
+fortuneMid: Asking twice gets the real answer.
+fortuneLow: Leave them to it.
+fortuneLeast: Neglect teaches self-reliance, cruelly and well.
+facetMostTitle: Helicopter Bean
+facetMost: Your nephew's thirteen and out in the water with two of his friends, about chest deep, and you're stood at the edge with your shoes still on. You've called him in twice and he's come in twice. You call him in again.
+facetMostAction: You call him in again.
 facetHighTitle: Mother Bean
-facetHigh: A friend has had a bad month and will not ask. There is a text on the second morning. There is another on the fourth, and neither one wants a reply.
+facetHigh: She's had a rough few months and she's going back home today, and the coach goes at ten past. Everyone's said goodbye and she's got her bag over her shoulder. You ask her, there on the pavement, whether she actually wants to get on it.
+facetHighAction: You ask her, there on the pavement, whether she actually wants to get on it.
 facetMidTitle: Are You Okay, Bean?
-facetMid: Your neighbour is eighty-one and there has been a week of real heat with no let-up in it. You knock at eleven with a jug and stay for the length of one glass.
+facetMid: The woman you work with has been off six weeks and it's her first day back, and at the stop she says she's fine now, back to normal. You ask her what the doctor actually said.
+facetMidAction: You ask her what the doctor actually said.
 facetLowTitle: Left Beanhind
-facetLow: Somebody has started a job that is going badly and mentioned it once and not since. You leave the subject where they left it and spend the evening asking about the football instead.
+facetLow: Your brother's across the table and says it's been a long week, and then doesn't go on with it. You start telling him about the match.
+facetLowAction: You start telling him about the match.
 facetLeastTitle: The Lost Beans
-facetLeast: A nephew has moved to a city where he knows nobody and rang you twice in the first fortnight. You have not rung back either time. It is a month now, and you think about it on and off, and the phone stays on the side.
-question: A friend's been quiet for a fortnight and hasn't said why. You...
-answerMost: turn up at the door with food
-answerHigh: send something that doesn't need an answer
-answerMid: ask, once, and let her tell you or not
-answerLow: wait for her to surface
-answerLeast: assume she's busy and think no more about it
-rorschachMost: a bandage wound too far
-rorschachHigh: a hand wrapping a wrist
-rorschachMid: a jar bound in cloth
-rorschachLow: a wrapping come loose
-rorschachLeast: a wound left open
+facetLeast: One woman does the beds and the breakfast both, and everything's out by the ten o'clock changeover. The man from your dorm was on the step at two in the morning and he's still there now, with his bag. You get your bag and go for the early bus.
+facetLeastAction: You get your bag and go for the early bus.
+question: Somebody's come to help you move furniture and mentioned in passing that they haven't eaten. You...
+answerMost: feed them, and ask again at four about the thing they mentioned once
+answerHigh: get food in front of them before the sofa moves
+answerMid: put the kettle on and make them toast
+answerLow: point at the biscuit tin
+answerLeast: carry on with the sofa
+rorschachMost: a pillow held down
+rorschachHigh: a hen with chicks
+rorschachMid: a plaster on a knee
+rorschachLow: an untended plot
+rorschachLeast: a bare cupboard
 ---
 
 Chimichurri Mung Beans are the Bean Zodiac's most solicitous. They notice you haven't eaten, and there is food, and they ask again later about the thing you mentioned once. It can arrive as more attention than anyone asked for. Leaving someone alone with it isn't in them.

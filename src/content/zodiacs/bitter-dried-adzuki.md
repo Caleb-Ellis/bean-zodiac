@@ -17,32 +17,37 @@ antiTriple: sweet-roasted-chickpea
 antiBeans: [mung, butter]
 antiForm: boiled
 seasonalFortune: "A season of thin air and short lists: the jar keeps what earns the jar, nothing else."
-fortuneMost: Standing in one reed bed its whole life, the purple heron will not try another.
-fortuneHigh: There's a name on the list that's there from habit, not affection.
-fortuneMid: The good thing you've been saving for an occasion grand enough - none ever quite is.
-fortuneLow: Say yes to the one you'd usually screen out.
-fortuneLeast: Cook the whole pot of sekihan and feed whoever turns up.
+fortuneMost: Keep the standard high enough and the table ends up empty.
+fortuneHigh: A purple heron fishes one reed bed and eats well.
+fortuneMid: The list gets shorter every year.
+fortuneLow: Let one more person in.
+fortuneLeast: Feed whoever turns up.
 facetMostTitle: Eyes Wide Bean
-facetMost: The book club has crept up to eleven and half of them arrive having read the blurb. You draw up a shorter list of who is actually invited, send it round to five people, and let the rest find out when the evening happens without them.
+facetMost: There are twenty-two invitations to your wedding in your bag and your cousin's isn't one of them, because she talks over everybody and you've thought about it for a month. She'll find out when the others start mentioning it. You post the twenty-two.
+facetMostAction: You post the twenty-two.
 facetHighTitle: High Beanelity
-facetHigh: Forty lots go through the ring and the whole morning passes without your card once going up, because the heifer you came for is lot thirty-one.
+facetHigh: The walking week is four people and it's been the same four for years. She's asked twice now, she'd be no trouble at all, and you've run into her in the bookshop and she's going to ask again. You tell her it's four.
+facetHighAction: You tell her it's four.
 facetMidTitle: Sophie's Bean
-facetMid: Two hours in the charity shop, everything on the rail at a pound, and you come out holding one shirt.
+facetMid: The spare next to you cost forty pounds and three people would have taken it, and not one of them is somebody you'd want to sit through three hours of Hamlet next to. You go in with the seat empty.
+facetMidAction: You go in with the seat empty.
 facetLowTitle: Anything Beans
-facetLow: A stranger asks whether there is room on your quiz team, and nobody at the table has ever met him. You pull out a chair, write his name at the top of the answer sheet, and get him a drink.
+facetLow: Your two friends have got ten minutes in the room and they need a second witness, and the next couple are already stood out in the corridor. You ask the man on the bench.
+facetLowAction: You ask the man on the bench.
 facetLeastTitle: Everything Everywhere All at Bean
-facetLeast: Somebody has left a crate of unlabelled records out on the pavement by the bins. You take the lot home without looking through it. They get played in the order they came out of the crate.
-question: You have one spare ticket for the thing you love, and four people who would want it. You...
-answerMost: keep it and go alone rather than take the wrong company
-answerHigh: give it to the one person who will really get it
-answerMid: offer it to two of them and let them sort it out
-answerLow: put it in the group chat, first reply takes it
-answerLeast: give it to whoever you see first on the way out
-rorschachMost: one name on the list
-rorschachHigh: a rope across a door
-rorschachMid: a doorway and a queue
-rorschachLow: a rope hooked back
-rorschachLeast: a door with no keeper
+facetLeast: You've said people can come back to yours and it's gone from four to about nine, and four of them you met an hour ago and one of them you haven't spoken to at all. You tell them all to come.
+facetLeastAction: You tell them all to come.
+question: Who gets asked when you're the one booking the table?
+answerMost: four people, and you'd sooner cancel than add a fifth
+answerHigh: a small number, every one of them thought about
+answerMid: the usual few, plus one you've been meaning to ask
+answerLow: whoever is free that night
+answerLeast: everyone, and whoever they bring with them
+rorschachMost: a bouncer and a queue
+rorschachHigh: a crow at a bin
+rorschachMid: a market stall
+rorschachLow: an open sack of feed
+rorschachLeast: a compost heap
 ---
 
 Desiccated Adzuki Beans are the Bean Zodiac's most selective. Four chairs, four people, every one of them chosen. Left alone the circle narrows a name at a time until it is mostly memories. They will never invite the whole floor to see what happens.

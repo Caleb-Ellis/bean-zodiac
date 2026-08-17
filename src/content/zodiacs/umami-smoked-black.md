@@ -1,7 +1,7 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: umami-smoked-black
-lastUpdated: 
+lastUpdated:
 bean: black
 flavour: umami
 form: smoked
@@ -17,32 +17,37 @@ antiTriple: sweet-roasted-pinto
 antiBeans: [chickpea, adzuki]
 antiForm: fried
 seasonalFortune: "A season of cumin and long smoking: the kitchen goes quiet without being asked."
-fortuneMost: One low call from the horned owl and the whole wood takes it seriously.
-fortuneHigh: What others throw out, you cure and keep.
-fortuneMid: A friend only wants a sign of smoke under the door. One line, no apology.
-fortuneLow: Decide on the doorstep and sleep through what the dark can't fix.
-fortuneLeast: The dignity will keep; send the silly one.
-facetMostTitle: Tales from the Beancrypt
-facetMost: You are asked to say a few words at the memorial and the family have made it clear they want something light and warm. What you give them is not light. The room goes very quiet, and it stays that way afterwards.
-facetHighTitle: The Last Beanpost
-facetHigh: The last post goes and the parade stands still. You hold the whole two minutes properly, and you are the last to move afterwards.
-facetMidTitle: Two Minutes' Beansilence
-facetMid: You take your hat off on the way into the church without having particularly thought about doing it.
-facetLowTitle: Laughter in the Beandark
-facetLow: The vigil breaks up and everybody stands about in the car park not knowing quite what to do next. You get the flasks out of the boot and start pouring.
-facetLeastTitle: A Funny Thing Happened on the Way to the Beanforum
-facetLeast: Halfway through the eulogy somebody's phone goes off with a comedy ringtone, and you are the first to laugh, and you cannot stop.
-question: You're a pallbearer at the funeral of a man you barely knew, stood with his family beforehand. You...
-answerMost: hold it heavier than anybody else in the room
-answerHigh: give it the weight it asks for, all the way through
-answerMid: observe it properly and let it be
-answerLow: look for a way to lift the room afterwards
-answerLeast: are the one who cracks first
-rorschachMost: a bell tolled for nobody
-rorschachHigh: bronze, not rung
-rorschachMid: a smooth dark dome
-rorschachLow: a bell rung lightly
-rorschachLeast: a rattle shaken hard
+fortuneMost: Everything treated as grave stops being grave.
+fortuneHigh: Say it like it matters.
+fortuneMid: One call from a horned owl and the wood goes quiet.
+fortuneLow: Crack the joke instead.
+fortuneLeast: A funeral can stand a laugh.
+facetMostTitle: Beans from the Crypt
+facetMost: Your brother gets one visit a month and this is it — the locker, the tabard, forty minutes at a fixed table. Your mum's told all of you to keep it light because it's his little boy's birthday this week. Since he went in she's been to the doctor twice about her chest and stopped using the stairs. You tell him about the stairs.
+facetMostAction: You tell him about the stairs.
+facetHighTitle: The Last Bean Post
+facetHigh: The press has stamped brake discs since 1971 and goes off for good at two o'clock; party hats have been brought in for a photograph in front of it, and the man who has run it since he was seventeen is at the back with his coat on. You ask him to be the one who switches it off.
+facetHighAction: You ask him to be the one who switches it off.
+facetMidTitle: Two Beans' Silence
+facetMid: Open night at the observatory, and a volunteer has wound the dome round by hand for the eight of you. The logbook has a line in pencil for every night since 1928 — date, seeing, who was at the eyepiece — and he says one of you can write tonight's, which the others are laughing about. You fill in every column the way the old pages have them.
+facetMidAction: You fill in every column the way the old pages have them.
+facetLowTitle: Laughter in the Bean
+facetLow: Your friend goes up for her black belt in ten minutes, her sixth year of trying, and she's sat in the changing room being told to breathe by everybody who comes past; two years ago she caught the man who runs the class across the nose and he had to stop the session. You remind her about his nose.
+facetLowAction: You remind her about his nose.
+facetLeastTitle: A Beany Thing Happened
+facetLeast: The man taking the compulsory first-aid session has just told the year group that out of hospital about one in ten come back, and shown you how to keep the rhythm by doing the compressions to Stayin' Alive. Now he's calling you down to the front. You ask him whether Another One Bites the Dust does the same job.
+facetLeastAction: You ask him whether Another One Bites the Dust does the same job.
+question: You've been asked to say a few words at your dad's seventieth. What sort of speech is it?
+answerMost: closer to a eulogy than a toast
+answerHigh: serious, and got exactly right
+answerMid: warm, with one serious line in it
+answerLow: light, and a thank you to everyone for coming
+answerLeast: two minutes of jokes, then sit down
+rorschachMost: a tomb
+rorschachHigh: a church bell
+rorschachMid: a bowler hat
+rorschachLow: a squeaky toy
+rorschachLeast: a clown's nose
 ---
 
 Hickory Black Beans are the Bean Zodiac's most solemn. They're the one who speaks at the funeral, and they get it exactly right, without a joke in it. Sometimes the gravity arrives at a birthday. Being light about something serious isn't available to them.
