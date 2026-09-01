@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait demanding, excess unforgiving, inverse easygoing
 slug: sour-smoked-navy
 lastUpdated:
 bean: navy

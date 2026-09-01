@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: spicy-boiled-fava
 lastUpdated: 
 bean: fava
@@ -19,25 +19,30 @@ antiForm: roasted
 seasonalFortune: "A season of harissa and fixed opinion — the braise will not be talked down."
 fortuneMost: Refuse to move and the argument outlives the reason for it.
 fortuneHigh: A mule stops and no amount of pulling helps.
-fortuneMid: Holding still is a position too.
+fortuneMid: You don't owe anybody a new answer.
 fortuneLow: Move an inch and see.
 fortuneLeast: Changing your mind is cheap and quick.
 facetMostTitle: The Iron Beany
-facetMost: Four people have now shown you why the wall goes there and one of them brought drawings, and not a foot have you moved. You will not move a foot, the job has stopped, and you are looking into what an appeal would cost.
+facetMost: You told your sister in the spring that you weren't coming to her wedding if your father was there. He's since pulled out — no flight booked, and he's told her the same. It's in two days and there's a seat with your name on it. You tell her you're still not coming.
+facetMostAction: You tell her you're still not coming.
 facetHighTitle: Remember the Beanamo
-facetHigh: They have offered a compromise that is genuinely reasonable and everybody in the room wants you to take it. You give the same no, in the same words, and you wait.
+facetHigh: You told your cousin last time that you wouldn't put your name to anything of his again. He's at your door with the guarantor form and the deposit ready, and the flat goes tonight without a name on it. You tell him no again.
+facetHighAction: You tell him no again.
 facetMidTitle: No Bean Surrender
-facetMid: A fortnight of being asked, and you have given the same answer every single time, and by the end of it people have stopped asking.
+facetMid: You've told the agent you're taking the dark flat, and both are gone by the weekend. The friend who viewed them with you has made the case for the other one three times since, and she's at it again. You tell her you're taking the dark one.
+facetMidAction: You tell her you're taking the dark one.
 facetLowTitle: Beany Ground
-facetLow: You told them the answer was no and they have come back with a new argument. You find you have started saying you will think about it.
+facetLow: You came to the saleroom for one lot and told your partner what your limit was. The auctioneer takes it in twenties, and it stops one step over your number. You put your hand up.
+facetLowAction: You put your hand up.
 facetLeastTitle: Second Beans
-facetLeast: That trip was one you said you were not going on, and you meant it, and three of them have now had a go at you. You are going. You do not know when that changed, and you would struggle to name what changed it.
-question: Your daughter has asked four times since March for a dog, and she's asking again tonight. It has been no every time. You...
-answerMost: shut the dog down for good, and rule out its being asked again
-answerHigh: give her the same reason you gave in March, and no again
-answerMid: name what would make it a yes, and hold the no until then
-answerLow: put it off to the summer
-answerLeast: let her have the dog, on the fifth asking
+facetLeast: The choir has been without a treasurer since the spring and you've said no twice, once in writing. Nothing has changed — the same books, the same three hours a month. A friend from the altos asks a third time after rehearsal. You tell her you'll take it on.
+facetLeastAction: You tell her you'll take it on.
+question: You want the mural finished the way you drew it. The shop paying for it has asked twice now to take the crow out, and the scaffold comes down at the weekend. You...
+answerMost: keep the crow as drawn and tell them it isn't up for discussion
+answerHigh: give them the same answer you gave the first time
+answerMid: tell them what you'd change instead of the crow
+answerLow: tell them you'll redraw the crow and show them first
+answerLeast: paint it out
 rorschachMost: a wedged boulder
 rorschachHigh: an anchor
 rorschachMid: a backbone

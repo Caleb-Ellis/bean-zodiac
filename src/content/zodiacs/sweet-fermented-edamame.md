@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait uncomplaining, excess unreadable, inverse aggrieved
 slug: sweet-fermented-edamame
 lastUpdated: 
 bean: edamame

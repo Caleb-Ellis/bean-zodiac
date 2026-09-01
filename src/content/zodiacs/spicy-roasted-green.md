@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait exuberant, excess overweening, inverse low-key
 slug: spicy-roasted-green
 lastUpdated:
 bean: green

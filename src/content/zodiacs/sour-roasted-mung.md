@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait unsparing, excess bruising, inverse consoling
 slug: sour-roasted-mung
 lastUpdated:
 bean: mung

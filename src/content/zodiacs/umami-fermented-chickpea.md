@@ -1,47 +1,48 @@
 ---
+# TODO: check all
 slug: umami-fermented-chickpea
-lastUpdated: 2026-08-05
+lastUpdated:
 bean: chickpea
 flavour: umami
 form: fermented
-trait: innovative
-excess: gimmicky
-inverse: stale
-quote: Imagination is more important than knowledge about beans.
-creature: crow
+trait: naturalised
+excess: placeless
+inverse: insular
+quote: When in Rome, do as the beans do.
+creature: cattle egret
 dish: Chickpea miso aged twelve months.
 friendlyBeans: [pinto, adzuki]
 friendlyForm: roasted
 antiTriple: bitter-dried-navy
 antiBeans: [cannellini, black]
 antiForm: boiled
-seasonalFortune: "A season of twelve-month koji and new thinking — the miso does something not done before."
-fortuneMost: Every day the crow finds a new way into the same bin.
-fortuneHigh: Alter one thing, then watch what it does to the rest.
-fortuneMid: The odd method usually beats the proper one.
-fortuneLow: Cook what your hands already know.
-fortuneLeast: The old way is old because it works.
-facetMostTitle: Bean Tank
-facetMost: At the restaurant you opened, one course arrives in a smoking box, one is eaten off the bare table, one under a bell with a record playing. The cooking underneath is genuinely good, and no review has mentioned it. For the new menu you are working on a course served in the dark.
-facetMostAction: For the new menu you are working on a course served in the dark.
-facetHighTitle: Back to the Beanture
-facetHigh: You farm barley, and the seed order is due. You have a theory that clover sown between the rows would feed the soil and prevent weeds. Nobody round here puts two seeds in one field, because often one thrives while the other suffers. You add clover to the order anyway.
-facetHighAction: You add clover to the order anyway.
-facetMidTitle: Beanstorm
-facetMid: Fourth year teaching the same history module — same textbook, same worksheets, a class that has already read the summary online. You leave the worksheets in the cupboard, and open the lecture with an account of the war that is obviously false, hoping to stir some lovely debate amongst the students.
-facetMidAction: You leave the worksheets in the cupboard, and open the lecture with an account of the war that is obviously false, hoping to stir some lovely debate amongst the students.
-facetLowTitle: Yesterday's Beans
-facetLow: The window of your shop hasn't changed in two years — same backdrop, same products, price cards gone pale in the sun. A supplier offers to fit a whole new display for cheap. Revenue has been steady throughout. You tell them the window is fine as it is.
-facetLowAction: You tell them the window is fine as it is.
-facetLeastTitle: The Last Picture Bean
-facetLeast: Your band has played the same set in the same order since before the drummer joined, and it has always gone down well. At practice they suggest swapping two songs to lift the middle. You talk them through how that order came about, and why it should stay.
-facetLeastAction: You talk them through how that order came about, and why it should stay.
-question: Your bakery has sold the same five classic pastries at the Saturday market for years, baked ahead of time. The takings have been close to flat for a while. You...
-answerMost: try something like a pistachio and raspberry cronut, gold leaf on top
-answerHigh: rework all five round a nuttier dough and let them come out different
-answerMid: keep the five, but try reheating them to order
-answerLow: try giving them all new names
-answerLeast: leave it — the five still sell enough
+seasonalFortune: "A season of twelve-month koji and salt — what was carried in from elsewhere comes out tasting like it was always here."
+fortuneMost: Fit in everywhere and nowhere has to take you in.
+fortuneHigh: The cattle egret crossed the Atlantic on its own, and now follows herds it had never seen for the insects they kick up.
+fortuneMid: Sooner or later somebody will stop you to ask the way, and you'll know it.
+fortuneLow: Keep one thing the way it was always done.
+fortuneLeast: A jar nobody opens keeps exactly what went in.
+facetMostTitle: The Beanborn Identity
+facetMost: You have lived in this country nine years, and nobody here says your surname the way your family says it, so since your first week you have gone by a shortened version of it. You are at the register office with the deed poll filled in and the fifty pounds counted out, and once it's filed the short one is the name on everything. Your father has asked you not to. You put the shortened version down as your legal name.
+facetMostAction: You put the shortened version down as your legal name.
+facetHighTitle: Dances with Beans
+facetHigh: You have been on this street six years. The man three doors down has died, and his daughter is at your door because there are five of them able to carry the coffin and they need a sixth. It means standing at the front of a church full of people who have known each other their whole lives, in a place that usually goes to family. You tell her yes, and take the front left of the coffin.
+facetHighAction: You tell her yes, and take the front left of the coffin.
+facetMidTitle: Under the Tuscan Bean
+facetMid: The family who run the shop under your flat have asked you up to eat, and there is one dish in the middle of the table and no cutlery on it — everyone tears bread and eats out of the dish with their hands. There is a drawer of forks two steps behind you, and the grandmother would fetch you one without a word. You tear off some bread and eat out of the dish with everybody else.
+facetMidAction: You tear off some bread and eat out of the dish with everybody else.
+facetLowTitle: A Passage to Bean
+facetLow: Your housemate has taken you to her grandmother's house on the coast for New Year, where the whole street walks off the beach into the sea at midnight and has done for as long as anybody can remember. Her grandmother has left a towel out for you on the wall, and everyone is assuming you're going in. You stay up on the sand and ring your mother instead.
+facetLowAction: You stay up on the sand and ring your mother instead.
+facetLeastTitle: Fiddler on the Bean
+facetLeast: Every Sunday nine of you eat in the back room of a restaurant run by a man from the same town you all left, and it is the one afternoon of the week where nothing has to be explained to anybody. The woman who works in the shop next door has asked twice whether she could come along, and she asks again on the way out. You tell her Sunday is just the nine of you.
+facetLeastAction: You tell her Sunday is just the nine of you.
+question: You want to stop being answered in English. You have been learning the language three years, longer than any of the friends you came over with, and the woman whose vegetable stall you buy from every week hears one word out of you and answers in English. You...
+answerMost: start telling people you grew up here
+answerHigh: keep answering in the language every week until she gives it up
+answerMid: ask her what the long green ones are called
+answerLow: answer her in English and get your shopping done
+answerLeast: send one of the friends you came over with instead
 rorschachMost: a cheese pull
 rorschachHigh: thrusters going off
 rorschachMid: a bramble taking a wall
@@ -49,4 +50,4 @@ rorschachLow: a used toothbrush head
 rorschachLeast: a smoker's lungs
 ---
 
-Miso Chickpeas are the Bean Zodiac's most innovative. They change how the whole team does one thing, and within a year nobody remembers the old way. Sometimes the change is change for its own sake. Leaving a working system alone is hard.
+Miso Chickpeas are the Bean Zodiac's most naturalised. They came to the town knowing nobody, and six years on they're the one telling newer arrivals which bakery, which doctor, which bus to take. Sometimes there's nothing left of the place they came from but a spelling. Holding a place at arm's length is a trick they never learned.

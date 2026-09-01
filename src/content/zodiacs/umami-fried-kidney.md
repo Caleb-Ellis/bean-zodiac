@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo rorschachs
+# SHOULD BE: trait sworn, excess obdurate, inverse independent
 slug: umami-fried-kidney
 lastUpdated:
 bean: kidney

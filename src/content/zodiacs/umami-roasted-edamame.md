@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait assiduous, inverse delegating (excess 'hovering' is right once the trait is assiduous)
 slug: umami-roasted-edamame
 lastUpdated:
 bean: edamame

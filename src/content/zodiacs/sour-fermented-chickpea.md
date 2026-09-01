@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait sly, excess conniving, inverse above-board
 slug: sour-fermented-chickpea
 lastUpdated: 
 bean: chickpea

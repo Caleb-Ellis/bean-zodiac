@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait unstinting, excess ruinous, inverse frugal
 slug: sweet-fried-kidney
 lastUpdated: 
 bean: kidney

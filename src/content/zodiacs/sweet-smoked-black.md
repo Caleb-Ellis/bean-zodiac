@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait benign, excess complaisant, inverse appraising
 slug: sweet-smoked-black
 lastUpdated: 
 bean: black

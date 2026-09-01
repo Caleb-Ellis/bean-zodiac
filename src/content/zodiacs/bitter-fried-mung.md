@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait brisk, excess abrupt, inverse coaxing
 slug: bitter-fried-mung
 lastUpdated: 
 bean: mung

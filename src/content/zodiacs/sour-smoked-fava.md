@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo rorschachs
+# SHOULD BE: trait cautionary, excess alarmist, inverse sanguine
 slug: sour-smoked-fava
 lastUpdated: 
 bean: fava

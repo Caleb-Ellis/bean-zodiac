@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait incisive, excess annihilating, inverse kindly (takes 'incisive' from bitter-fried-navy, which moves to severe)
 slug: bitter-fried-black
 lastUpdated: 
 bean: black

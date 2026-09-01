@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo rorschachs
+# SHOULD BE: trait severe, excess punitive, inverse lenient
 slug: bitter-fried-navy
 lastUpdated: 
 bean: navy

@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo rorschachs
+# SHOULD BE: trait avowed, excess vehement, inverse unaligned
 slug: spicy-roasted-navy
 lastUpdated:
 bean: navy

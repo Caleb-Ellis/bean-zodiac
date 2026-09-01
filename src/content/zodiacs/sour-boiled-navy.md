@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait unadorned, excess bald, inverse decorous
 slug: sour-boiled-navy
 lastUpdated:
 bean: navy

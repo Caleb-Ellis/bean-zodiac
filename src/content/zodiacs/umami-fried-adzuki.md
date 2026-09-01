@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: umami-fried-adzuki
 lastUpdated:
 bean: adzuki
 flavour: umami
 form: fried
-trait: passionate
-excess: combustible
-inverse: dispassionate
-quote: Anything that gets your bean racing is worth doing!
-creature: andalusian
+trait: unguarded
+excess: incautious
+inverse: self-protective
+quote: Speak the truth, even if your bean shakes.
+creature: sea slug
 dish: Adzuki tempura with soy salt.
 friendlyBeans: [chickpea, green]
 friendlyForm: roasted
 antiTriple: bitter-dried-cannellini
 antiBeans: [butter, black]
 antiForm: boiled
-seasonalFortune: "A season of soy salt and hot oil — the batter arrives caring more than expected."
-fortuneMost: Feeling it that strongly puts everyone else on eggshells.
-fortuneHigh: An andalusian will fight a paper bag in the road.
-fortuneMid: Feeling shows in the voice before the words.
-fortuneLow: Wait until you've cooled off.
-fortuneLeast: Caring less about it costs you nothing.
-facetMostTitle: Burn After Beaning
-facetMost: At your friend's housewarming somebody says the estate you grew up on was rough, and you are twenty minutes into him before you hear the second half of what he said. He was saying it was rough because of what was done to it, which is your position exactly. You finish the point anyway.
-facetMostAction: You finish the point anyway.
-facetHighTitle: Great Balls of Bean
-facetHigh: The dog has been there eleven weeks and the woman on the desk says the decision was made this morning and it happens at five. It is three o'clock and you only came in to walk him. You start ringing every rescue in the county.
-facetHighAction: You start ringing every rescue in the county.
-facetMidTitle: Heart and Bean
-facetMid: Your friend's band got the record made themselves and there are eleven copies in the shop, and the man behind the counter says it is the third one this month that sounds like this. You take him through what is actually on it, and then buy four copies.
-facetMidAction: You take him through what is actually on it, and then buy four copies.
-facetLowTitle: The Bean Without Qualities
-facetLow: They are showing the film that got you through being nineteen and the director is here, and for forty minutes he explains that he was broke, that the famous scene was a mistake they left in, and that he has not watched it since. Six of you came out for this. You go for a drink afterwards and talk about something else.
-facetLowAction: You go for a drink afterwards and talk about something else.
-facetLeastTitle: Nil by Bean
-facetLeast: Two of your friends have argued the whole way about whether to cancel the trip, it is your money in it as well as theirs, and now they have stopped and asked you what you think because you are the one who has not said. You tell them you genuinely do not mind either way.
-facetLeastAction: You tell them you genuinely do not mind either way.
-question: At the meeting about closing the library, the man speaking before you says it isn't worth saving. You...
-answerMost: round on the one person in the room who agreed with you
-answerHigh: make the case for the library at full volume
-answerMid: say your piece and sit back down
-answerLow: nod along and let other people carry it
-answerLeast: call it a shame and leave it there
+seasonalFortune: "A season of soy salt and thin batter — what goes in the oil comes out showing everything, and none of it goes back."
+fortuneMost: A sea slug has no shell and is the brightest thing on the reef.
+fortuneHigh: Say it before you've worked out how it'll land.
+fortuneMid: You don't have to make a joke of it first.
+fortuneLow: Not everybody in the room has earned it.
+fortuneLeast: The version that keeps you safe is still true.
+facetMostTitle: All the President's Beans
+facetMost: A public meeting about the pool closing, and a woman from the paper is at the side with the recorder running. You've got the objection you wrote out in your hand and two hundred people behind you. You put the paper down and tell them it's the only place all week where nobody talks to you.
+facetMostAction: You put the paper down and tell them it's the only place all week where nobody talks to you.
+facetHighTitle: When Harry Met Bean
+facetHigh: You're walking home with the person you've been seeing two months, and she says, half-laughing, that neither of you has said what this is. The joke is right there and she'd take it. You tell her you're in it properly and you want her to be.
+facetHighAction: You tell her you're in it properly and you want her to be.
+facetMidTitle: Beanomnia
+facetMid: It's been four months of not sleeping and it shows. The woman who runs the shop asks how you're keeping while she's putting your things through, the way she asks everybody, and "not bad" is already halfway out. You tell her you haven't been sleeping.
+facetMidAction: You tell her you haven't been sleeping.
+facetLowTitle: The Beanpranos
+facetLow: It's the group your doctor put you on to, twelve of you in a circle in a room above the library, three minutes each and nobody interrupts. The man before you uses all three on his brother, and the room gives him nothing back. You came with something you meant to say. You use your three minutes on how the week went.
+facetLowAction: You use your three minutes on how the week went.
+facetLeastTitle: Brief Beancounter
+facetLeast: Your aunt has got you in the kitchen at your cousin's christening and asks why you and your partner split up. There's a real answer, and it would be round the family before you got home. You tell her it just ran its course.
+facetLeastAction: You tell her it just ran its course.
+question: You want to play the one you wrote for her, and she's four tables back. It's the open mic at the arts centre, you've got two songs and the other's a cover, and the man before you spent a full minute explaining his. You...
+answerMost: point at her table and say who the song's for
+answerHigh: tell them you've never played it for the person it's about
+answerMid: warn them it's new and you're not sure of it
+answerLow: give the name of the song and count yourself in
+answerLeast: play the cover instead
 rorschachMost: a coal fire
 rorschachHigh: a thumped table
 rorschachMid: a stamping hoof
@@ -50,4 +50,4 @@ rorschachLow: a printed receipt
 rorschachLeast: kitchen scales
 ---
 
-Tempura Adzuki Beans are the Bean Zodiac's most passionate. What they care about, they care about at full volume, and it pulls other people in. Sometimes it catches and burns the wrong thing. Being mildly interested in anything isn't a state they occupy.
+Tempura Adzuki Beans are the Bean Zodiac's most unguarded. Asked how they are, they tell you, and you know what the year has actually been like before you've put your bag down. Sometimes it goes to somebody who was only being polite. Deciding first whether somebody can be trusted with it is not the order they do things in.

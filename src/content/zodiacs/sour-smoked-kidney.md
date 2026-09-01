@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait unforgetting, excess vindictive (inverse 'coddling' was sound)
 slug: sour-smoked-kidney
 lastUpdated: 
 bean: kidney

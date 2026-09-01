@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait becalming, excess sedating, inverse stirring
 slug: bitter-smoked-butter
 lastUpdated: 
 bean: butter

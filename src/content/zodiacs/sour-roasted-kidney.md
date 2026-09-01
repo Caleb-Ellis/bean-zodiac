@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait crusading, excess absolutist, inverse neutral
 slug: sour-roasted-kidney
 lastUpdated:
 bean: kidney

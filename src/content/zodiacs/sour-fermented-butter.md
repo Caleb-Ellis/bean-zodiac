@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait unillusioned, excess defeatist, inverse hopeful
 slug: sour-fermented-butter
 lastUpdated: 
 bean: butter

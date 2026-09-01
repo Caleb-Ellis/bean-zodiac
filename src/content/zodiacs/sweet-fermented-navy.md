@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: inverse urbane (yields 'worldly' to bitter-boiled-chickpea's trait)
 slug: sweet-fermented-navy
 lastUpdated: 
 bean: navy

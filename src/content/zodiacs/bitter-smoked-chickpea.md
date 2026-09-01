@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait oblique, excess obscurantist, inverse direct
 slug: bitter-smoked-chickpea
 lastUpdated: 
 bean: chickpea

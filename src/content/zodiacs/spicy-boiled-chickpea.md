@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait rallying, excess haranguing, inverse self-reliant
 slug: spicy-boiled-chickpea
 lastUpdated: 
 bean: chickpea

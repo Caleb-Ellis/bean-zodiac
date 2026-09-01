@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait unquenchable, excess dissipated, inverse sober
 slug: spicy-boiled-adzuki
 lastUpdated:
 bean: adzuki

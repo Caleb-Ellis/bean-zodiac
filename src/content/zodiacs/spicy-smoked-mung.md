@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait enveloping, excess inescapable, inverse remote
 slug: spicy-smoked-mung
 lastUpdated:
 bean: mung

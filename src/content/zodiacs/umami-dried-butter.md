@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait contented, excess complacent, inverse striving
 slug: umami-dried-butter
 lastUpdated: 
 bean: butter

@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait impassioned, excess overheated
 slug: spicy-boiled-cannellini
 lastUpdated:
 bean: cannellini

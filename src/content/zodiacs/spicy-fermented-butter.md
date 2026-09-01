@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait rapt, excess abstracted, inverse dabbling
 slug: spicy-fermented-butter
 lastUpdated:
 bean: butter

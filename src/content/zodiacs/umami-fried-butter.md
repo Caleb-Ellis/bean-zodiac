@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo rorschachs
+# SHOULD BE: trait wholehearted, excess immoderate, inverse provisional
 slug: umami-fried-butter
 lastUpdated: 
 bean: butter

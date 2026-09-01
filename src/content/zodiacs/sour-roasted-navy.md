@@ -1,6 +1,6 @@
 ---
 # TODO: tidy facets, redo rorschachs
-# should be indignant / incandescent / inured
+# SHOULD BE: trait indignant, excess incandescent, inverse inured
 slug: sour-roasted-navy
 lastUpdated: 
 bean: navy

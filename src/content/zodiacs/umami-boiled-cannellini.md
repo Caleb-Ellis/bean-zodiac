@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo rorschachs
+# SHOULD BE: trait conserving, excess embalming, inverse iconoclastic
 slug: umami-boiled-cannellini
 lastUpdated:
 bean: cannellini

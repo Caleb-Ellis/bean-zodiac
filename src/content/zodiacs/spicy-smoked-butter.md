@@ -1,6 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
-# should be sensuous / voluptuary / numb
+# SHOULD BE: trait sensuous, excess voluptuary, inverse numb
 slug: spicy-smoked-butter
 lastUpdated:
 bean: butter

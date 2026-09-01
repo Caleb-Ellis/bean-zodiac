@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo rorschachs
+# SHOULD BE: trait amenable, excess suggestible, inverse defensive
 slug: sour-boiled-butter
 lastUpdated: 
 bean: butter

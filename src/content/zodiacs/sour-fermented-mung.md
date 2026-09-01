@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: excess pathologising, inverse palliative
 slug: sour-fermented-mung
 lastUpdated: 
 bean: mung

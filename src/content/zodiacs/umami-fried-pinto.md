@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait heartfelt, excess theatrical
 slug: umami-fried-pinto
 lastUpdated: 
 bean: pinto

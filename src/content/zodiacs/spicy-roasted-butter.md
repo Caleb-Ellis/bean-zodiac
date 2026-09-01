@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait bacchanalian (excess 'dissolute' and inverse 'puritanical' were sound; claims the word from sweet-roasted-adzuki's excess, below)
 slug: spicy-roasted-butter
 lastUpdated:
 bean: butter

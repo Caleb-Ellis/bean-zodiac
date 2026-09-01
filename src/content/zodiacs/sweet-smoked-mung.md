@@ -1,6 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
-# shold be bashful / mortified / unabashed
+# SHOULD BE: trait bashful, excess mortified, inverse unabashed
 slug: sweet-smoked-mung
 lastUpdated: 
 bean: mung

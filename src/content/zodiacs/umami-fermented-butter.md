@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait fallow, excess stagnant, inverse impatient
 slug: umami-fermented-butter
 lastUpdated: 
 bean: butter

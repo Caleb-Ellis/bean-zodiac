@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait anchored, excess immobilised, inverse untethered (takes 'anchored' from spicy-smoked-green's inverse, which moves anyway)
 slug: umami-fried-green
 lastUpdated:
 bean: green

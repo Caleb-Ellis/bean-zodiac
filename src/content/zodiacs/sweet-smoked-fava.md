@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait steadying, excess overshadowing, inverse highly-strung
 slug: sweet-smoked-fava
 lastUpdated:
 bean: fava

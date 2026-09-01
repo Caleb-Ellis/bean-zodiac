@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait probing, excess badgering, inverse satisfied
 slug: sour-boiled-black
 lastUpdated: 
 bean: black

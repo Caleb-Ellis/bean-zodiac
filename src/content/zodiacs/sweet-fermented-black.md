@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo rorschachs
+# SHOULD BE: trait soft-hearted, excess indulgent, inverse impervious (takes 'indulgent' from spicy-roasted-butter's trait, which moves above)
 slug: sweet-fermented-black
 lastUpdated: 
 bean: black

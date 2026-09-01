@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: excess excessive (yields 'bacchanalian' to spicy-roasted-butter's trait)
 slug: sweet-roasted-adzuki
 lastUpdated:
 bean: adzuki

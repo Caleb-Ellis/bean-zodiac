@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait resourceful, excess opportunistic, inverse dependent
 slug: umami-fermented-edamame
 lastUpdated: 
 bean: edamame

@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait unshockable, excess desensitised, inverse prim
 slug: sour-boiled-mung
 lastUpdated: 
 bean: mung

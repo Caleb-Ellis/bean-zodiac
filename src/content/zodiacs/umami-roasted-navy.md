@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait nostalgic, excess regressive (inverse 'forward-looking' was sound)
 slug: umami-roasted-navy
 lastUpdated: 
 bean: navy

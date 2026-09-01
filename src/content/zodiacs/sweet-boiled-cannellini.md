@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait elevating, excess gilding, inverse utilitarian
 slug: sweet-boiled-cannellini
 lastUpdated: 
 bean: cannellini

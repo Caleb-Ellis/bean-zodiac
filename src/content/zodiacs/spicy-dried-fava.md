@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait hardbitten, excess calloused, inverse pampered
 slug: spicy-dried-fava
 lastUpdated: 
 bean: fava

@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait searching, inverse reassuring (excess 'exposing' is right once the trait is searching)
 slug: sour-smoked-mung
 lastUpdated: 
 bean: mung

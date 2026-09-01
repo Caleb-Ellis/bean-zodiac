@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait intimidating, excess menacing, inverse approachable
 slug: bitter-smoked-fava
 lastUpdated: 
 bean: fava

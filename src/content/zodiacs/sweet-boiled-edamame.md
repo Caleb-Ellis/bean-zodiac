@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo rorschachs
+# SHOULD BE: trait nourishing, excess stodgy, inverse neglectful
 slug: sweet-boiled-edamame
 lastUpdated: 
 bean: edamame

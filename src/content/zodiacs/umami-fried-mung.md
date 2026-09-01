@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait unhesitating, excess officious, inverse respectful
 slug: umami-fried-mung
 lastUpdated:
 bean: mung

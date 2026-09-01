@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait chafing, excess mutinous (inverse 'docile' was sound)
 slug: spicy-smoked-edamame
 lastUpdated:
 bean: edamame

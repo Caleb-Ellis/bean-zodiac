@@ -1,7 +1,7 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: check all
 slug: spicy-boiled-pinto
-lastUpdated: 
+lastUpdated:
 bean: pinto
 flavour: spicy
 form: boiled
@@ -21,19 +21,19 @@ fortuneMost: Full to the brim and it goes everywhere but the glass.
 fortuneHigh: A cicada spends years underground for three loud weeks.
 fortuneMid: Enthusiasm is worth spilling.
 fortuneLow: Hold some of it in.
-fortuneLeast: An empty week refills the next one.
+fortuneLeast: An empty day refills the next.
 facetMostTitle: Beaniagara
-facetMost: Your friend flies out in the morning for two years and you've got this one evening in the pub. Fifty minutes in you're on the fourth thing you've been meaning to tell her, and you start on the fifth.
-facetMostAction: Fifty minutes in you're on the fourth thing you've been meaning to tell her, and you start on the fifth.
+facetMost: Your friend flies out in the morning for two years and this is the last evening. Since the food came she has started three times on something about her mother and not got through it. You start telling her about the flat you looked at on the way over.
+facetMostAction: You start telling her about the flat you looked at on the way over.
 facetHighTitle: Brimful of Beansha
-facetHigh: An idea arrives whole between the main and the pudding at your friend's birthday dinner, and it will not wait. You take your coat out to the car park and stand there getting it into your phone for forty minutes.
-facetHighAction: You take your coat out to the car park and stand there getting it into your phone for forty minutes.
+facetHigh: An idea arrives whole in the second half of a film your friend has been waiting months to see, and you can't follow anything on the screen. You go out to the corridor and stand there getting it into your phone.
+facetHighAction: You go out to the corridor and stand there getting it into your phone.
 facetMidTitle: Champagne Superbeana
-facetMid: Somebody from work is going away for a fortnight and asks you for one book to take. You walk them to the bookshop at lunch and put six in their hands.
-facetMidAction: You walk them to the bookshop at lunch and put six in their hands.
+facetMid: Your neighbour on the floor below is going into hospital for a week and asks whether you've got a book she could borrow. You come back down with six and go through what each of them is.
+facetMidAction: You come back down with six and go through what each of them is.
 facetLowTitle: Empty Beanest
-facetLow: You've got a free afternoon, nobody's about, and there's nothing you have to do with it. You go to the lido, swim for half an hour, then sit on the grass with a coffee.
-facetLowAction: You go to the lido, swim for half an hour, then sit on the grass with a coffee.
+facetLow: Your sister has finally got the go-ahead for the shop she's been talking about for three years, and she wants you in on it with her. There's nothing you'd have to give up to say yes. You tell her you'll do Saturdays, and nothing beyond that.
+facetLowAction: You tell her you'll do Saturdays, and nothing beyond that.
 facetLeastTitle: Hollow Bean
 facetLeast: You're allowed twenty kilos on the flight out to the research station and everything else stays behind. The jumper you started, the model, and two notebooks with six pages used are all on the bed. You leave the four of them there and shut the case.
 facetLeastAction: You leave the four of them there and shut the case.
@@ -43,11 +43,11 @@ answerHigh: the four, and the one you're furthest into
 answerMid: the two that are actually moving
 answerLow: the one that pays
 answerLeast: not much on at the minute
-rorschachMost: a horn of plenty
-rorschachHigh: a heaped bowl
-rorschachMid: a full shopping bag
-rorschachLow: a scooped-out melon
-rorschachLeast: an empty husk
+rorschachMost: a cornucopia
+rorschachHigh: a furry animal
+rorschachMid: grocery bags
+rorschachLow: an expensive chair
+rorschachLeast: a forgotten logo
 ---
 
 Braised Pinto Beans are the Bean Zodiac's most brimming. There are four projects, a new instrument and an idea they'll tell you about before you have sat down. Sometimes it spills everywhere and nothing finishes. Having nothing much going on is a state they can't tolerate.

@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait rousing, excess hectoring, inverse quiescent
 slug: sour-boiled-green
 lastUpdated: 
 bean: green

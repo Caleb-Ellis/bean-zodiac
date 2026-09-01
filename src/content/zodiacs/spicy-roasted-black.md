@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait imposing, excess oppressive, inverse unassuming
 slug: spicy-roasted-black
 lastUpdated:
 bean: black

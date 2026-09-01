@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait fostering, excess interventionist, inverse hands-off
 slug: sweet-fermented-mung
 lastUpdated:
 bean: mung

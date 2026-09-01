@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait contagious, excess inflaming, inverse self-contained
 slug: spicy-smoked-green
 lastUpdated:
 bean: green

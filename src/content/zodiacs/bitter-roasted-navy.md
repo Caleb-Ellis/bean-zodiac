@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait exemplary, excess moralising, inverse fallible
 slug: bitter-roasted-navy
 lastUpdated: 
 bean: navy

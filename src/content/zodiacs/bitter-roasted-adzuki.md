@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: bitter-roasted-adzuki
-lastUpdated: 
+lastUpdated:
 bean: adzuki
 flavour: bitter
 form: roasted
-trait: polished
+trait: suave
 excess: slick
-inverse: rough
-quote: Have no fear of bean perfection — you'll never reach it.
-creature: seal
+inverse: unpolished
+quote: Here's looking at you, bean.
+creature: frigatebird
 dish: Wood-roasted adzuki with hojicha and black sesame.
 friendlyBeans: [pinto, butter]
 friendlyForm: fried
 antiTriple: spicy-dried-black
 antiBeans: [kidney, edamame]
 antiForm: smoked
-seasonalFortune: "A season of hojicha and burnished skins — the fire finishes what the kitchen only started."
-fortuneMost: Too smooth and people start looking for the seam.
-fortuneHigh: A seal leaves the water without a hair out of place.
-fortuneMid: The tidy version gets taken seriously.
-fortuneLow: Show them the messy draft.
-fortuneLeast: Homemade beats bought.
-facetMostTitle: Slick Bean
-facetMost: It's the opening night of your friend's restaurant, the kitchen has already lost two orders, and thirty people are waiting on tables that were booked for eight. You go round the room topping up glasses and telling everybody it's worth the wait.
-facetMostAction: You go round the room topping up glasses and telling everybody it's worth the wait.
-facetHighTitle: Mad Beans
-facetHigh: Two years in, you're meeting all six of his family at once, over dinner at their hotel, when you'd rather have done it one at a time. You get there first, so you're the one standing up to greet each of them as they come in.
-facetHighAction: You get there first, so you're the one standing up to greet each of them as they come in.
-facetMidTitle: Saturday Night Bean
-facetMid: You're meeting your friend's new girlfriend in an hour and you've come straight from work in the shirt you spilled coffee down at eleven. Your flat is twenty minutes in the wrong direction. You go back and change.
-facetMidAction: You go back and change.
-facetLowTitle: Raging Bean
-facetLow: The barber's finished and asks whether you want the back tidied up, another ten minutes, and your friend's wedding is at the weekend with photographs of all of you. You say it'll do, and get up.
-facetLowAction: You say it'll do, and get up.
-facetLeastTitle: Rawbean
-facetLeast: You're on in ten minutes to give the toast at your brother's wedding, in front of a hundred and forty people, and you've written nothing down. You stand up with your phone in your hand and go through the photographs in whatever order they're in.
-facetLeastAction: You stand up with your phone in your hand and go through the photographs in whatever order they're in.
-question: The community group needs a two-minute video asking for volunteers, and you've said you'll record it. You...
-answerMost: shoot it eleven times, then add titles, music and a fade
-answerHigh: write it out, learn it, and get it right in two takes
-answerMid: do it in one go and trim the start off
-answerLow: film it at the kitchen table
-answerLeast: film it with the radio on and don't watch it back
+seasonalFortune: "A season of hojicha and low light — nobody has to sit through the awkward part, and nobody sees who arranged that."
+fortuneMost: A frigatebird takes the fish from another bird in mid-air and never gets its feathers wet.
+fortuneHigh: Make the introduction before anybody has to ask.
+fortuneMid: Who sits next to who decides most of the evening.
+fortuneLow: Let the pause sit there.
+fortuneLeast: The thing said badly is the thing that gets believed.
+facetMostTitle: Catch Me If You Bean
+facetMost: There's been a stream of people through the flat all day, and the agent takes one name to the landlord this evening. You met her at the first viewing, where she told you her son was having an operation. You ask how the boy got on, then offer the asking price.
+facetMostAction: You ask how the boy got on, then offer the asking price.
+facetHighTitle: Ocean's Elebean
+facetHigh: Your friend wants the spare room in a shared house, the four people who live there are deciding tonight, and she's said about three words across the whole dinner. She spent a summer fixing bikes out of a lock-up and can talk for an hour about it. You ask her about the lock-up in front of all of them.
+facetHighAction: You ask her about the lock-up in front of all of them.
+facetMidTitle: Roman Beaniday
+facetMid: The interval of a play at a small theatre, and the friend you brought says, at full volume in a foyer the size of a kitchen, that it's the worst thing she's ever sat through. The woman whose photograph is on the poster behind her is standing two feet away. You turn and ask the woman whether the second half plays better.
+facetMidAction: You turn and ask the woman whether the second half plays better.
+facetLowTitle: Bean of the Dead
+facetLow: Every few weeks you visit your grandmother at the home, and the woman in the next chair has started talking to you as though you're her son. She wants to know why you never ring. You point across at your grandmother and tell her you're not her son.
+facetLowAction: You point across at your grandmother and tell her you're not her son.
+facetLeastTitle: Uncut Beans
+facetLeast: Somebody stops you outside the supermarket, delighted, and is three questions into how you've been. She knows where you grew up and where you work now, and you have no idea who she is. She has started inviting you to her fortieth. You tell her you don't know her name.
+facetLeastAction: You tell her you don't know her name.
+question: Your old school brings five former pupils back each year to talk to a hall of sixteen-year-olds. You've done your twenty minutes. Walking you out to the gate, a pupil asks how you thought it went. You...
+answerMost: tell them which bits landed, and offer to help plan next year's
+answerHigh: say where the hall went quiet, and ask who asked the last question
+answerMid: say it went alright, and that you'd come back
+answerLow: say you talked for too long and lost them
+answerLeast: say you've no idea how it went
 rorschachMost: a slicked-back hairdo
 rorschachHigh: a polished shoe
 rorschachMid: a wave curling over
@@ -50,4 +50,4 @@ rorschachLow: a matted coat
 rorschachLeast: coarse sandpaper
 ---
 
-Wood-Fired Adzuki Beans are the Bean Zodiac's most polished. The toast is timed, the shoes are done, the introduction makes both strangers sound worth meeting. Enough shine and people start looking for the seam. An evening that goes scruffy and warm anyway is one they can't relax into.
+Wood-Fired Adzuki Beans are the Bean Zodiac's most suave. The question that gets the quiet one talking arrives eleven minutes in, and it looks like it just occurred to them. Now and then the warmth turns out to have been aimed at something. Saying the blunt version, with the join showing, is not in their range.

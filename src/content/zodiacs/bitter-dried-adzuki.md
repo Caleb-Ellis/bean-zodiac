@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: bitter-dried-adzuki
 lastUpdated: 
 bean: adzuki
 flavour: bitter
 form: dried
-trait: selective
-excess: exclusionary
-inverse: indiscriminate
-quote: You are the average of the five beans you spend the most time with.
-creature: purple heron
+trait: abstemious
+excess: austere
+inverse: bountiful
+quote: Enough is as good as a bean.
+creature: oryx
 dish: Sekihan of dried adzuki with toasted buckwheat and bitter citrus zest.
 friendlyBeans: [cannellini, edamame]
 friendlyForm: boiled
 antiTriple: sweet-roasted-chickpea
 antiBeans: [mung, butter]
 antiForm: boiled
-seasonalFortune: "A season of thin air and short lists: the jar keeps what earns the jar, nothing else."
-fortuneMost: Keep the standard high enough and the table ends up empty.
-fortuneHigh: A purple heron fishes one reed bed and eats well.
-fortuneMid: The list gets shorter every year.
-fortuneLow: Let one more person in.
-fortuneLeast: Feed whoever turns up.
-facetMostTitle: Eyes Wide Bean
-facetMost: There are twenty-two invitations to your wedding in your bag and your cousin's isn't one of them, because she talks over everybody and you've thought about it for a month. She'll find out when the others start mentioning it. You post the twenty-two.
-facetMostAction: You post the twenty-two.
-facetHighTitle: High Beanelity
-facetHigh: The walking week is four people and it's been the same four for years. She's asked twice now, she'd be no trouble at all, and you've run into her in the bookshop and she's going to ask again. You tell her it's four.
-facetHighAction: You tell her it's four.
-facetMidTitle: Sophie's Bean
-facetMid: The spare next to you cost forty pounds and three people would have taken it, and not one of them is somebody you'd want to sit through three hours of Hamlet next to. You go in with the seat empty.
-facetMidAction: You go in with the seat empty.
-facetLowTitle: Anything Beans
-facetLow: Your two friends have got ten minutes in the room and they need a second witness, and the next couple are already stood out in the corridor. You ask the man on the bench.
-facetLowAction: You ask the man on the bench.
-facetLeastTitle: Everything Everywhere All at Bean
-facetLeast: You've said people can come back to yours and it's gone from four to about nine, and four of them you met an hour ago and one of them you haven't spoken to at all. You tell them all to come.
-facetLeastAction: You tell them all to come.
-question: Who gets asked when you're the one booking the table?
-answerMost: four people, and you'd sooner cancel than add a fifth
-answerHigh: a small number, every one of them thought about
-answerMid: the usual few, plus one you've been meaning to ask
-answerLow: whoever is free that night
-answerLeast: everyone, and whoever they bring with them
+seasonalFortune: "A season of toasted buckwheat and bitter zest — the harvest comes in whole and the year lives off a corner of it."
+fortuneMost: Go without long enough and going without becomes the treat.
+fortuneHigh: Take the small one on purpose.
+fortuneMid: An oryx never drinks. It takes what it needs from the grass.
+fortuneLow: Most of it was put out to be taken.
+fortuneLeast: Nobody goes home sorry they had the second helping.
+facetMostTitle: Four Weddings and a Bean
+facetMost: Your wedding is in three weeks, and both sets of parents have put in four thousand between them for the food and the drink. The caterer has sent two menus — the good one that spends all of it, and a plain one that leaves half of it unspent. You order the plain one and give the rest back.
+facetMostAction: You order the plain one and give the rest back.
+facetHighTitle: Sense and Beansibility
+facetHigh: Six of you have taken a house by the sea for the week, and on the second night one of them comes back from the shop having spent most of the week's food money in one go — lobster, a cake, three bottles of good wine. It's the first proper night, it's all out on the table, and everyone is delighted. You take a small plate of it and don't go back.
+facetHighAction: You take a small plate of it and don't go back.
+facetMidTitle: The Bean Menu
+facetMid: The woman who lives next door booked a table to thank you for feeding her cat the month she was away, and she's told you to have whatever you want. Everything you'd actually like is at the expensive end of the menu, and there's a soup and a bread roll at the top of it. You order the soup.
+facetMidAction: You order the soup.
+facetLowTitle: Almost Beanous
+facetLow: You've put something aside every week since spring towards a trip in the autumn, and you're about a hundred short of it. The band you've followed since you were fifteen have announced two nights at a hall twenty minutes away, and the good seats cost about that much. You buy one of the good seats.
+facetLowAction: You buy one of the good seats.
+facetLeastTitle: Little Shop of Beans
+facetLeast: A friend who does the flowers for a big hotel has taken you to the wholesale market at five in the morning, and you get to walk the aisles with her while the trade buys. Nothing here is sold in ones — the smallest anyone can buy of anything is a bucket of fifty stems. You came in for a few for your table, and one bucket costs more than you have ever spent on flowers. You buy three buckets.
+facetLeastAction: You buy three buckets.
+question: The woman who runs your pottery class is away for a month and has left you the keys — her wheels, her kilns, as much clay and glaze as you want. You've had a set of six bowls in your head since last year. You...
+answerMost: bring your own clay and leave hers alone
+answerHigh: throw the six bowls and nothing else
+answerMid: use one of her expensive glazes
+answerLow: throw a big platter as well
+answerLeast: fill both kilns and use every glaze she has
 rorschachMost: a bouncer and a queue
 rorschachHigh: a crow at a bin
 rorschachMid: a market stall
@@ -50,4 +50,4 @@ rorschachLow: an open sack of feed
 rorschachLeast: a compost heap
 ---
 
-Desiccated Adzuki Beans are the Bean Zodiac's most selective. Four chairs, four people, every one of them chosen. Left alone the circle narrows a name at a time until it is mostly memories. They will never invite the whole floor to see what happens.
+Desiccated Adzuki Beans are the Bean Zodiac's most abstemious. They organise the whole party, arrive first, stay to the end, and get through one glass of wine. The cake gets cut into pieces nobody would call a slice. Heaping their own plate until it needs two hands is not a thing they can manage.

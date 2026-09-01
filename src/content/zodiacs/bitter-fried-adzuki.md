@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait arch, excess supercilious, inverse unaffected (claims 'arch' from sour-dried-chickpea's excess, below)
 slug: bitter-fried-adzuki
 lastUpdated: 
 bean: adzuki

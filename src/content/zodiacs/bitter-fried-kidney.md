@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: inverse flexible (yields 'accommodating' to sweet-fried-edamame's trait)
 slug: bitter-fried-kidney
 lastUpdated: 
 bean: kidney

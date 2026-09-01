@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait surefooted, excess unwary, inverse tentative
 slug: umami-fried-fava
 lastUpdated:
 bean: fava

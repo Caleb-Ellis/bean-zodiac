@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: redo rorschachs
 slug: bitter-dried-navy
 lastUpdated: 
 bean: navy
 flavour: bitter
 form: dried
-trait: steady
-excess: inflexible
-inverse: vacillating
-quote: I am constant as the northern bean.
-creature: bighorn sheep
+trait: incorruptible
+excess: priggish
+inverse: pragmatic
+quote: Money can't buy me bean.
+creature: zebra
 dish: Dried navy beans with juniper, bay, and blackened onion.
 friendlyBeans: [kidney, cannellini]
 friendlyForm: boiled
 antiTriple: spicy-smoked-pinto
 antiBeans: [mung, green]
 antiForm: fermented
-seasonalFortune: "A season of counted sacks and fixed rations. The store does not change its mind about winter."
-fortuneMost: The immovable get planned around instead of planned with.
-fortuneHigh: A bighorn sheep stands on a ledge the width of a hand.
-fortuneMid: Reliability is worth more than brilliance.
-fortuneLow: Shift a little.
-fortuneLeast: Changing tack is not the same as caving.
-facetMostTitle: The Bridge on the River Bean
-facetMost: A year ago you said you wouldn't go to your cousin's wedding, after he told your sister she'd only come for the free bar. She's on the train next to you, made it up with him and asking you to come. You say what you said a year ago.
-facetMostAction: You say what you said a year ago.
-facetHighTitle: Stand By Bean
-facetHigh: This is the second hearing about the hours you were never paid for, and the first went against you. The panel asks if you want to change anything in your statement now you've heard their side. You read it word for word as you wrote it.
-facetHighAction: You read it word for word as you wrote it.
-facetMidTitle: The Beanshank Redemption
-facetMid: Your mum asks on the video call whether you've thought any more about moving nearer. She asks about twice a year. You give her the same no you gave at Christmas.
-facetMidAction: You give her the same no you gave at Christmas.
-facetLowTitle: Beanlet
-facetLow: You said at the start of the night you were going at ten, because you're up early. It's ten, and one of your friends has put a pint down in front of you. You pick it up.
-facetLowAction: You pick it up.
-facetLeastTitle: Sliding Beans
-facetLeast: There's a man on a platform above the maze who calls people out when they've had enough, and they shut it at dusk. The four with you have followed you round for twenty minutes while you've changed your mind at every junction. You take them back to the last turn.
-facetLeastAction: You take them back to the last turn.
-question: In January you told the team the shop shuts at six. It's November, trade is up, and they're asking again. What do they get?
-answerMost: six o'clock, takings or no takings
-answerHigh: the same six they got in January
-answerMid: six for now
-answerLow: half seven on Fridays, since trade is up
-answerLeast: a new time tonight, and a different one next month
+seasonalFortune: "A season of scorched onion and unsalted water — nothing sweetens it, and nothing offered on the side gets into the pot."
+fortuneMost: Clean hands are easy to admire and hard to sit next to.
+fortuneHigh: Say no to the one who can help you.
+fortuneMid: A zebra will let you feed it for years and still not be ridden.
+fortuneLow: A favour is usually just a favour.
+fortuneLeast: A word from the right person is worth a year of waiting your turn.
+facetMostTitle: Mary Poppinbeans
+facetMost: A friend who works at the restaurant has put the six of you down as her cousins, which gets you the family rate and which she isn't allowed to do. The manager brings the bill to the table. You tell him she's not your cousin.
+facetMostAction: You tell him she's not your cousin.
+facetHighTitle: Erin Brockobean
+facetHigh: Twelve of you have objected to the tower going up next door, which takes the light off every flat on this side. The developer's agent has come to you alone and offered you one of the new flats at their cost, and says the other eleven objections won't hold without yours. You tell her you're keeping yours in.
+facetHighAction: You tell her you're keeping yours in.
+facetMidTitle: Bean and Order
+facetMid: The written test at the end of the forklift course is the only thing between you and the warehouse job. The trainer says he'll be outside for ten minutes and that nobody checks bags, and the other four get their notes out. You answer it from memory.
+facetMidAction: You answer it from memory.
+facetLowTitle: Trading Beans
+facetLow: Your friend's mum works the desk at the surgery and rings to say two slots a day are held back for cancellations, and one going in the morning has your name on it. The wait otherwise is three weeks and you've had the pain a month. You take the slot.
+facetLowAction: You take the slot.
+facetLeastTitle: The Beanfather
+facetLeast: Your band wants the main-stage slot at the festival, and the man who books it drinks with your cousin. After the gig your cousin takes you through to the room where the line-up actually gets decided, by whoever happens to be standing in it. You get your cousin to introduce you.
+facetLeastAction: You get your cousin to introduce you.
+question: You want to run the marathon; you've missed the ballot four years running. The club's spare place is meant to go to whoever came third over the winter. You came sixth, and at training the man who runs it tells the group it's yours. You...
+answerMost: tell him in front of the group that it's third's place
+answerHigh: tell him to give it to whoever came third
+answerMid: say you'd rather earn it
+answerLow: say yes if third doesn't want it
+answerLeast: take it, and get straight into training
 rorschachMost: an anvil
 rorschachHigh: an ox at plough
 rorschachMid: a worn path
@@ -50,4 +50,4 @@ rorschachLow: a coin on its edge
 rorschachLeast: a weathercock
 ---
 
-Desiccated Navy Beans are the Bean Zodiac's most steady. What they said in January they will say in November, and people arrange their lives around it. When the facts change the position sometimes doesn't. Someone who reverses twice in a week gives them vertigo.
+Desiccated Navy Beans are the Bean Zodiac's most incorruptible. Somebody who needs a favour buys them the best dinner they've had all year, and gets a thank-you note. Occasionally they make somebody feel grubby for accepting what everyone accepts. Ringing the one person who could sort it in an afternoon is a call they will not make.

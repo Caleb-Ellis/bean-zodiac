@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo rorschachs
+# SHOULD BE: trait fervid (excess 'unhinged' and inverse 'tempered' were sound)
 slug: spicy-dried-pinto
 lastUpdated:
 bean: pinto

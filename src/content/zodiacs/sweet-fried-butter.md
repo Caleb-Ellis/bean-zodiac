@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo rorschachs
+# SHOULD BE: trait obliging, excess fawning, inverse choosy
 slug: sweet-fried-butter
 lastUpdated: 
 bean: butter

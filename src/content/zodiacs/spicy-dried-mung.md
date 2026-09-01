@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait medicinal, excess punishing, inverse comforting
 slug: spicy-dried-mung
 lastUpdated: 
 bean: mung

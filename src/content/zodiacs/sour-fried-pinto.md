@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait unrehearsed, excess gratuitous (inverse 'guarded' was sound; takes 'unrehearsed' from sweet-fermented-edamame's inverse, which moves anyway)
 slug: sour-fried-pinto
 lastUpdated: 
 bean: pinto

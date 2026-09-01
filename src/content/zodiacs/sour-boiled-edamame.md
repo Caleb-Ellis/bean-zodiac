@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait dispassionate, inverse tender-hearted (excess 'unfeeling' is right once the trait is dispassionate; takes the word back from umami-fried-adzuki's inverse, which moves anyway)
 slug: sour-boiled-edamame
 lastUpdated:
 bean: edamame

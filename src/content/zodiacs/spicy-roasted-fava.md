@@ -1,6 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
-# should be competitive / cutthroat / collaborative
+# SHOULD BE: trait competitive, excess cutthroat, inverse collaborative
 slug: spicy-roasted-fava
 lastUpdated:
 bean: fava

@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait munificent, excess ostentatious, inverse parsimonious
 slug: sweet-roasted-cannellini
 lastUpdated: 
 bean: cannellini

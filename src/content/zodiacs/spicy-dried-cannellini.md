@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait categorical (excess 'infallible' and inverse 'erratic' were sound)
 slug: spicy-dried-cannellini
 lastUpdated:
 bean: cannellini

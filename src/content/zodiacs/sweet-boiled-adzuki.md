@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait heartening, excess jollying, inverse bleak
 slug: sweet-boiled-adzuki
 lastUpdated: 
 bean: adzuki

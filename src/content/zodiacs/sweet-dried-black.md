@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait imperishable, excess petrified (inverse 'fleeting' was sound)
 slug: sweet-dried-black
 lastUpdated: 
 bean: black

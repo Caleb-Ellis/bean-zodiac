@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait unembarrassable, excess indelicate, inverse discreet
 slug: sour-roasted-chickpea
 lastUpdated: 
 bean: chickpea

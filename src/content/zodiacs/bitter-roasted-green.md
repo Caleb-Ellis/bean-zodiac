@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait forward, excess importunate, inverse retiring
 slug: bitter-roasted-green
 lastUpdated: 
 bean: green

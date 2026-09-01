@@ -1,6 +1,6 @@
 ---
 # TODO: tidy facets, redo rorschachs
-# should be grateful / indebted / entitled
+# SHOULD BE: trait grateful, excess indebted, inverse entitled
 slug: sour-roasted-adzuki
 lastUpdated: 
 bean: adzuki

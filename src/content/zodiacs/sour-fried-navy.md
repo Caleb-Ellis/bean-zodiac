@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait corrective, excess carping
 slug: sour-fried-navy
 lastUpdated: 
 bean: navy

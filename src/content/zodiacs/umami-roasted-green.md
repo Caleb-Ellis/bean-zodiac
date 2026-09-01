@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait appreciative, excess fulsome, inverse world-weary
 slug: umami-roasted-green
 lastUpdated:
 bean: green

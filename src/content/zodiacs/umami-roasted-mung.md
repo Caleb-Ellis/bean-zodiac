@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait sympathetic, excess lachrymose (inverse 'breezy' was sound)
 slug: umami-roasted-mung
 lastUpdated:
 bean: mung

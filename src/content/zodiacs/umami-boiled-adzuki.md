@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait perennial, excess hidebound, inverse unsentimental
 slug: umami-boiled-adzuki
 lastUpdated: 
 bean: adzuki

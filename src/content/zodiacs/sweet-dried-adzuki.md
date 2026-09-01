@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait votive
 slug: sweet-dried-adzuki
 lastUpdated: 
 bean: adzuki

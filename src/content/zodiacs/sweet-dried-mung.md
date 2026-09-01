@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo rorschachs
+# SHOULD BE: trait unfailing, excess indispensable, inverse fair-weather
 slug: sweet-dried-mung
 lastUpdated:
 bean: mung

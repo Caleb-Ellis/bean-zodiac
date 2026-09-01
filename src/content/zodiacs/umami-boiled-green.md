@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait inexhaustible, excess spendthrift, inverse sparing
 slug: umami-boiled-green
 lastUpdated:
 bean: green

@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait genial, excess glad-handing, inverse dour
 slug: umami-roasted-butter
 lastUpdated:
 bean: butter

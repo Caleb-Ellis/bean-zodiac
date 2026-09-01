@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait hospitable, excess suffocating, inverse private
 slug: sweet-roasted-chickpea
 lastUpdated: 
 bean: chickpea

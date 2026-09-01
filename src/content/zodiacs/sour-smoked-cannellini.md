@@ -1,6 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
-# should be admiring / covetous / unimpressed
+# SHOULD BE: trait admiring, excess covetous, inverse unimpressed
 slug: sour-smoked-cannellini
 lastUpdated:
 bean: cannellini

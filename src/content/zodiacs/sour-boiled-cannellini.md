@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait thorough
 slug: sour-boiled-cannellini
 lastUpdated: 
 bean: cannellini

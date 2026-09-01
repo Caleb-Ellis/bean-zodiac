@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait imaginative, excess self-deceiving (inverse 'concrete' was sound)
 slug: sweet-fermented-pinto
 lastUpdated: 
 bean: pinto

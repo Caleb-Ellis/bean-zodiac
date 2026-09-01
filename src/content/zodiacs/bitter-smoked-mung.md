@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait anonymous, excess untraceable, inverse conspicuous
 slug: bitter-smoked-mung
 lastUpdated:
 bean: mung

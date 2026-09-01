@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait unwavering, excess insistent, inverse conditional
 slug: sweet-dried-fava
 lastUpdated:
 bean: fava

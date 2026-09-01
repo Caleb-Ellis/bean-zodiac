@@ -1,49 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
-# should be contrite / self-flagellating / impenitent
+# TODO: check all
 slug: bitter-fermented-cannellini
 lastUpdated:
 bean: cannellini
 flavour: bitter
 form: fermented
-trait: scholarly
-excess: pedantic
-inverse: unlearned
-quote: I have not failed. I have just found ten thousand ways that will not produce a bean.
-creature: long-eared owl
+trait: contrite
+excess: self-flagellating
+inverse: impenitent
+quote: Out, damned bean! Out, I say!
+creature: honeybee
 dish: White cannellini miso fermented with hop flowers.
 friendlyBeans: [fava, green]
 friendlyForm: dried
 antiTriple: sweet-boiled-chickpea
 antiBeans: [kidney, adzuki]
 antiForm: fried
-seasonalFortune: "A season of hop flowers and marginal notes — the white miso ages by a rule written elsewhere."
-fortuneMost: Correct enough small things and nobody finishes a sentence nearby.
-fortuneHigh: Read the whole thing properly.
-fortuneMid: A long-eared owl roosts in the same tree all winter.
-fortuneLow: Guess and move on.
-fortuneLeast: Doing beats reading about it.
-facetMostTitle: Bean Man
-facetMost: Five weeks of rehearsing the translation, press night on Thursday, and the director has built the whole last scene on one word the original does not say. The company are sat on the floor waiting to run it. You tell them what the word actually is.
-facetMostAction: You tell them what the word actually is.
-facetHighTitle: Dead Beans Society
-facetHigh: Your gran in the hospice has gone back to the Polish she was raised in, and the family are getting by through a nurse with forty words of it. The doctors are talking in weeks. You buy the grammar and start on the verbs.
-facetHighAction: You buy the grammar and start on the verbs.
-facetMidTitle: The Beanistory Boys
-facetMid: The man ahead of you at the hardware counter is buying his third tin of the sealant and telling the woman on the till that it keeps coming back. You read a book about damp in old houses last winter, because your own flat had it. You tell him what the tin will not do.
-facetMidAction: You tell him what the tin will not do.
-facetLowTitle: Educating Beanita
-facetLow: The Latin runs Thursdays in a school hall, six of you, and the man teaching it is not paid. Eight weeks of the alphabet and easy sentences have been the best part of your week. Next term goes into real texts and he wants an hour of reading from everybody. You tell him you will leave it there.
-facetLowAction: You tell him you will leave it there.
-facetLeastTitle: Beanest Gump
-facetLeast: Your friend reads out the plaque by the barrier at the ice rink — a swimming baths once, the Olympic team trained here — and half of it cannot be true in that order. You say it is a good story and get back on the ice.
-facetLeastAction: You say it is a good story and get back on the ice.
-question: Every morning the plaque by the canal behind your house shows a new fact about it, and some of them are wrong. You...
-answerMost: write to whoever maintains it every time one is wrong
-answerHigh: check the ones you doubt against the sources
-answerMid: read it each morning and enjoy the good ones
-answerLow: read it when you happen past
-answerLeast: walk by without ever stopping at it
+seasonalFortune: "A season of hop flowers and long amends — the bitterness goes in on purpose, and the crock takes a year to work it through."
+fortuneMost: A honeybee stings once and does not survive it.
+fortuneHigh: Go back and name the thing you did.
+fortuneMid: A short apology is still an apology.
+fortuneLow: Most things get forgiven long before anyone says so.
+fortuneLeast: You are allowed to have meant it.
+facetMostTitle: The Kite Beanner
+facetMost: You had your friend's dog for the weekend and let him off the lead near the road, and he got hit. He came through the operation and is walking on it fine. She's at the door to collect him, and she has told you three times now that she'd have done exactly the same. You tell her you shouldn't be trusted with him again.
+facetMostAction: You tell her you shouldn't be trusted with him again.
+facetHighTitle: Dead Bean Walking
+facetHigh: After a fight outside a club you gave the police a description, and a man spent the night in the cells because of it. It wasn't him. You're back in the interview room with an officer and your statement on the table, and taking it back puts you on the record as the witness who got it wrong. You tell the officer you described the wrong man.
+facetHighAction: You tell the officer you described the wrong man.
+facetMidTitle: Sorry to Bother Bean
+facetMid: Your friend plays five-a-side with you on Wednesdays. She told you she'd been let go and asked you not to say anything, and you told two of the others that week. It hasn't got back to her, and it probably won't. Walking off the pitch, you tell her you told them.
+facetMidAction: Walking off the pitch, you tell her you told them.
+facetLowTitle: Forgetting Sarah Beanshall
+facetLow: Sunday mornings you're on at the cat shelter, in the back where the quarantine pens are and the hold list hangs by the door. A woman at the desk is being told the cat she came for went on Friday — her name never got onto the list, and you were the one taking names. Two more came in on Thursday. You ask her if she'd like to meet them.
+facetLowAction: You ask her if she'd like to meet them.
+facetLeastTitle: Bonnie and Bean
+facetLeast: The school you went to is a hundred years old and has opened the building up for the afternoon — your old form room, the same noticeboard, tea in the staff room. The man you got suspended at fifteen for taking the exam paper is here with his wife, and he brings it up in front of four of you. He did take it. You tell him you'd do it again.
+facetLeastAction: You tell him you'd do it again.
+question: Three weekends of sanding and waxing, and the table is finally going into your brother's new flat, where there's still nothing to eat off. Carrying it up the stairs you split one of the legs, and the wax has covered it. You...
+answerMost: carry it back down and tell him you'll make another
+answerHigh: point at the leg and tell him you split it on the stairs
+answerMid: tell him the wax is hiding a split
+answerLow: tell him it's solid, and to say if it wobbles
+answerLeast: set it down where he wants it
 rorschachMost: a mortarboard
 rorschachHigh: a stack of ledgers
 rorschachMid: a desk lamp
@@ -51,4 +50,4 @@ rorschachLow: a paperback
 rorschachLeast: a mud pie
 ---
 
-Cultured Cannellini Beans are the Bean Zodiac's most scholarly. They read the footnotes, and the footnotes' sources, and can tell you where the received story goes wrong. The correction sometimes matters more than the conversation. Cheerful ignorance of a subject strikes them as a choice.
+Cultured Cannellini Beans are the Bean Zodiac's most contrite. They'll quote back something they said to you at a party two years ago, word for word, and not ask you to say it was fine. The apology arrives so complete that you end up consoling them. Letting something they did go unmentioned is a favour they'll do for anyone else.

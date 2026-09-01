@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: excess snide (yields 'arch' to bitter-fried-adzuki's trait)
 slug: sour-dried-chickpea
 lastUpdated: 
 bean: chickpea

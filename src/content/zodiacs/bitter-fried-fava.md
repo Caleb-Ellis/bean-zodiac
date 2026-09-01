@@ -1,6 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
-# should be ambitious / grasping / content
+# SHOULD BE: trait ambitious, excess grasping, inverse content
 slug: bitter-fried-fava
 lastUpdated: 
 bean: fava

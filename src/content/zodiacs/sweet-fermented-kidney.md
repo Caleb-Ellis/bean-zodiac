@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait devoted, excess blinkered, inverse disinterested (takes 'devoted' from sweet-dried-adzuki, which moves to votive — and it is kidney's own word, back on a kidney cell)
 slug: sweet-fermented-kidney
 lastUpdated:
 bean: kidney

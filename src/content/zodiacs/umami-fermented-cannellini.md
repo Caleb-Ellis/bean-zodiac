@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait rarefied, excess arcane, inverse undemanding
 slug: umami-fermented-cannellini
 lastUpdated:
 bean: cannellini

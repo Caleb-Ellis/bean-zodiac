@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait unceremonious, excess dismissive, inverse formal
 slug: bitter-fried-green
 lastUpdated: 
 bean: green

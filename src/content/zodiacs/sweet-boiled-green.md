@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait enthusiastic, excess uncritical, inverse grudging
 slug: sweet-boiled-green
 lastUpdated: 
 bean: green

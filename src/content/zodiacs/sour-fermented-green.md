@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait heterodox, excess sectarian (inverse 'conventional' was sound)
 slug: sour-fermented-green
 lastUpdated:
 bean: green

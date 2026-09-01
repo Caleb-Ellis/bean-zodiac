@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait puckish, inverse proper (excess 'clownish' is right once the trait is puckish)
 slug: sweet-fried-chickpea
 lastUpdated:
 bean: chickpea

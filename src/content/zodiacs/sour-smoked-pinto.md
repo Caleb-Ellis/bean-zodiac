@@ -1,10 +1,10 @@
 ---
 slug: sour-smoked-pinto
-lastUpdated: 2026-08-07
+lastUpdated: 2026-09-01
 bean: pinto
 flavour: sour
 form: smoked
-trait: allusive
+trait: figurative
 excess: riddling
 inverse: unambiguous
 quote: Tell all the truth but tell it beaned.
@@ -49,4 +49,4 @@ rorschachLow: an island
 rorschachLeast: a megaphone
 ---
 
-Cured Pinto Beans are the Bean Zodiac's most allusive. They answer the question with a half-remembered film and it lands more precisely than a plain answer would have. Sometimes only they know what was meant. Stating a thing outright would feel like turning the lights on.
+Cured Pinto Beans are the Bean Zodiac's most figurative. They answer the question with a half-remembered film and it lands more precisely than a plain answer would have. Sometimes only they know what was meant. Stating a thing outright would feel like turning the lights on.

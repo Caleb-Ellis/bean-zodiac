@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo rorschachs
+# SHOULD BE: trait slow-burning, excess stalled, inverse immediate
 slug: umami-fermented-green
 lastUpdated:
 bean: green

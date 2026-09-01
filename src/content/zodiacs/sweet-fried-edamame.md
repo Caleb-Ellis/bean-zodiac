@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait accommodating, excess capitulating, inverse self-directed (claims 'accommodating' from bitter-fried-kidney's inverse, below)
 slug: sweet-fried-edamame
 lastUpdated:
 bean: edamame

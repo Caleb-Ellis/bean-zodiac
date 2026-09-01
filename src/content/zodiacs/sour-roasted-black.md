@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait trenchant, excess excoriating, inverse temporising
 slug: sour-roasted-black
 lastUpdated: 
 bean: black

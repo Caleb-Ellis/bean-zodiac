@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait sharp, excess cutting (inverse 'discursive' was sound; 'cutting' comes free from bitter-fried-navy's excess)
 slug: sour-fried-black
 lastUpdated: 
 bean: black

@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait unconditional, excess exploitable, inverse qualified
 slug: umami-dried-chickpea
 lastUpdated:
 bean: chickpea

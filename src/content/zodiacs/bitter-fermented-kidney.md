@@ -1,43 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: bitter-fermented-kidney
-lastUpdated: 
+lastUpdated:
 bean: kidney
 flavour: bitter
 form: fermented
-trait: vigilant
+trait: braced
 excess: paranoid
-inverse: oblivious
-quote: Eternal bean is the price of liberty.
-creature: sentinel hawk
+inverse: carefree
+quote: The only thing we have to fear is bean itself.
+creature: limpet
 dish: Kidney beans fermented into dark bean sauce with cacao and star anise.
 friendlyBeans: [mung, butter]
 friendlyForm: boiled
 antiTriple: sour-roasted-edamame
 antiBeans: [chickpea, adzuki]
 antiForm: smoked
-seasonalFortune: "A season of sealed crocks and watched lids: the ferment guards against a spoilage that may not come."
-fortuneMost: Watch for threats long enough and every shadow becomes one.
-fortuneHigh: A sentinel hawk calls the whole wood before anything moves.
-fortuneMid: The early warning is usually worth it.
-fortuneLow: Stop scanning for a while.
-fortuneLeast: Missing the danger is how most people live.
-facetMostTitle: Beanoid Android
-facetMost: An old classmate has put you in a thread of thirty people. Three of them have your address off the reunion form. You have been back through every message for who passed it on, and you have a name, and you have said it out loud to somebody.
-facetHighTitle: Beanwatch
-facetHigh: The net has a bird in it and something has gone through the top corner as well. You point at the tear first.
-facetMidTitle: Home Beanlone
-facetMid: The man at the next self-service till has scanned three things and bagged five, and you take a very long time choosing your bags.
-facetLowTitle: Beanless
-facetLow: Neighbours left a list for the house-sit and the alarm code is on it. You water the plants. That list stays folded under the fruit bowl and you never read past the first line.
-facetLeastTitle: The Emperor's New Beans
-facetLeast: The cash tin at the school fair is yours for the afternoon and it is a good one and the crowd keeps coming. You leave the tin open on the trestle and go and watch the tug of war for twenty minutes.
-question: The same grey van has been parked on your street twice this week, and the meter reader who called had no card on him. There have been roadworks all month. You...
-answerMost: photograph the van, and start a note of who comes down the street
-answerHigh: mention the van next door and ask whether anybody booked a reader
-answerMid: take the registration down in case
-answerLow: notice the van and get on with the day
-answerLeast: let the reader in next time without asking for a card
+seasonalFortune: "A season of cacao and star anise — the dark sauce is put up early, against a hard year nobody has forecast yet."
+fortuneMost: Wait long enough for the blow and you'll have taken it anyway.
+fortuneHigh: A limpet wears a scar in the rock that fits it exactly, and is back in it before the water comes.
+fortuneMid: Have a plan for it not coming off.
+fortuneLow: Most things turn out to be nothing much.
+fortuneLeast: Nobody ever ruined an evening by not thinking about it first.
+facetMostTitle: Enemy of the Bean
+facetMost: Nothing is wrong with your mother's health, and she's finally decided to sort out a will and asked you to come and sit in. The solicitor takes her through the estate and the executors and it's done inside twenty minutes. Nobody has raised anything else. You ask the solicitor what happens if she stops being able to decide things for herself.
+facetMostAction: You ask the solicitor what happens if she stops being able to decide things for herself.
+facetHighTitle: The Perfect Beanstorm
+facetHigh: You're on a march with a friend who's never been on one before. It's stopped moving and the police are closing the road off at both ends — once those meet, nobody's getting out for hours. Everyone around you is still in a good mood, and the station is two streets back. You tell her to meet you there if you get split up.
+facetHighAction: You tell her to meet you there if you get split up.
+facetMidTitle: The Umbrella Beanademy
+facetMid: Four months you've waited for this driving test slot, and your instructor has picked you up an hour early. If it goes badly the next one is six weeks off. He tells you you're ready. You ask him to book the next one before you go in.
+facetMidAction: You ask him to book the next one before you go in.
+facetLowTitle: Mamma Bean!
+facetLow: A friend's company has just closed a show at a small theatre, and you've stayed on for the get-out — the whole set has to be off the stage and into the van by one, with seven of you doing it. Load the van in the wrong order and it all comes out in the wrong order at the other end. The stage manager offers to write out the load order first. You tell her not to bother.
+facetLowAction: You tell her not to bother.
+facetLeastTitle: Hakuna Beanata
+facetLeast: You're at the bar of a restaurant a friend works at, waiting for the end of her shift. Every table is full and the tickets are coming up over the pass faster than the plates go out. Two of the front of house haven't turned in, and the manager asks if you'd carry plates for a couple of hours, knowing you've never done it. You tell him you'll do the whole night.
+facetLeastAction: You tell him you'll do the whole night.
+question: An arts grant has come through, enough to leave your job for about a year, and you want to use it to finish the album you've been recording in your bedroom for three years. You...
+answerMost: keep the job and leave the money where it is
+answerHigh: ask your work to keep the door open for a year
+answerMid: give yourself a date to stop and go back
+answerLow: take the year and see where you are at the end of it
+answerLeast: spend some of it on a better microphone
 rorschachMost: a spitting cat
 rorschachHigh: a lighthouse
 rorschachMid: a cocked ear
@@ -45,4 +50,4 @@ rorschachLow: a pulled-down hat
 rorschachLeast: a pulled-up duvet
 ---
 
-Cultured Kidney Beans are the Bean Zodiac's most vigilant. They noticed the car parked twice on the same street and the number that didn't match the invoice. Sometimes the pattern is only a pattern to them. Missing a thing entirely is a comfort they never get.
+Cultured Kidney Beans are the Bean Zodiac's most braced. They ask what the plan is if the flight's cancelled, three weeks out, and they have already looked up the trains. The whole trip can be survived in advance, before anybody has left. Expecting it to be fine is not a habit they've been able to pick up.

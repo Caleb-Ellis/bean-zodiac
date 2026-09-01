@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: excess stinting (yields 'abstemious' to bitter-dried-adzuki's trait)
 slug: bitter-roasted-mung
 lastUpdated: 
 bean: mung

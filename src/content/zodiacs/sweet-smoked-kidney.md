@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo rorschachs
+# SHOULD BE: trait fond, excess proprietary
 slug: sweet-smoked-kidney
 lastUpdated:
 bean: kidney

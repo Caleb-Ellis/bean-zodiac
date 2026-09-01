@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: excess dainty, inverse robust
 slug: sweet-smoked-cannellini
 lastUpdated: 
 bean: cannellini
