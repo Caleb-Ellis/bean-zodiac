@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: spicy-smoked-green
 lastUpdated:
 bean: green
 flavour: spicy
 form: smoked
-trait: footloose
-excess: adrift
-inverse: anchored
-quote: A great bean follows a little spark.
-creature: wandering albatross
+trait: contagious
+excess: inflaming
+inverse: self-contained
+quote: Laugh, and the world beans with you; weep, and you weep alone.
+creature: starling
 dish: Green beans smoked, then tossed in chipotle butter.
 friendlyBeans: [fava, kidney]
 friendlyForm: fried
 antiTriple: umami-dried-butter
 antiBeans: [navy, black]
 antiForm: boiled
-seasonalFortune: "A season of chipotle butter and loose moorings; the smoke drifts and the kitchen follows."
-fortuneMost: Never settling means never being missed from anywhere.
-fortuneHigh: A wandering albatross crosses an ocean without landing.
-fortuneMid: The next place is worth seeing.
-fortuneLow: Stay put this time.
-fortuneLeast: Roots are worth the trouble of growing.
-facetMostTitle: Beanrift
-facetMost: She's asking you to be a godparent because there isn't anybody else left to ask, and you can hear the baby in the background. You've been in three countries this year and you couldn't tell her what the next one is. You tell her to ask somebody who'll be there.
-facetMostAction: You tell her to ask somebody who'll be there.
-facetHighTitle: Bean Loose
-facetHigh: You've been on the agency at the depot since the spring and they've offered to take you on properly — same work, more money, and the man who runs the place went out of his way to make it happen; taking it means a year's notice and being here the whole year. You ask to stay on the agency books.
-facetHighAction: You ask to stay on the agency books.
-facetMidTitle: Free-Floating Bean
-facetMid: You've been talking to the man who runs the waltzer since it shut, and he's showing you how the ride folds down into two lorries and where they sleep on the way. They're in the next town by morning. You ask if they need a pair of hands.
-facetMidAction: You ask if they need a pair of hands.
-facetLowTitle: Beanchors Aweigh
-facetLow: They're a man short every week, the club folds if they can't put eleven out, and your friend wants you to commit to the whole season — every Saturday until April. You tell him to put you down.
-facetLowAction: You tell him to put you down.
-facetLeastTitle: Tied to the Bean
-facetLeast: The plot's come up after fifteen years on the list and the man is walking you round — the water goes off in October, the shed stays with the plot, and you're expected on the ground by March or the tenancy goes back. Everyone on the site has been here decades. You sign for it.
-facetLeastAction: You sign for it.
-question: The landlord offers you the flat for another two years at the same rent. What happens?
-answerMost: it's turned down, and you're gone the month after with no address to give
-answerHigh: six months gets agreed
-answerMid: the two years get signed
-answerLow: it's signed, on the basis that you'll see how it goes
-answerLeast: the shelves go up that weekend
+seasonalFortune: "A season of chipotle butter and catching moods — the smoke gets into everyone's clothes, even the ones who never went near the fire."
+fortuneMost: Stir a crowd up and it won't settle when you do.
+fortuneHigh: One starling turns, and the whole flock turns with it.
+fortuneMid: Whoever smiles first sets the tone.
+fortuneLow: Keep this one for yourself.
+fortuneLeast: A sealed jar of chipotles keeps its heat for years.
+facetMostTitle: "Mad Bean: Fury Road"
+facetMost: Your friend is driving the two of you to the airport when a man in a van cuts in so close she has to slam on the brakes. She's shaken, but says to forget it. You're furious, and the van has stopped at the lights just ahead. You tell her she can't let him get away with that.
+facetMostAction: You tell her she can't let him get away with that.
+facetHighTitle: Beans in the Sky with Diamonds
+facetHigh: It's two in the morning on the overnight ferry, and you're out on deck when the northern lights fill the whole sky. Inside, forty strangers are asleep across the lounge seats. You go in and wake them all up.
+facetHighAction: You go in and wake them all up.
+facetMidTitle: The Butterbean Effect
+facetMid: At the coffee cart outside the station, the barista says the man ahead of you has paid for yours, and that it's been going on like that for the last eleven people. The woman behind you is ordering four coffees for her team. You pay for all four.
+facetMidAction: You pay for all four.
+facetLowTitle: Beanpardy!
+facetLow: You're in the front row at a TV game show recording. For twenty minutes the warm-up man has had two hundred people screaming every time the applause sign lights up, and the floor manager keeps waving at the front row to get louder. You clap politely.
+facetLowAction: You clap politely.
+facetLeastTitle: The Bean Must Go On
+facetLeast: Your best friend is getting married on a beach in Mexico, and you're doing the reading. Ten minutes before it starts, your dad rings to say your grandfather died this morning. When you come back down to the sand, she asks who was on the phone. You tell her it was just your dad.
+facetLeastAction: You tell her it was just your dad.
+question: Three days into a week at a hotel on a Greek island, nobody on your floor has had any hot water. You...
+answerMost: round up the whole floor and march them down to reception
+answerHigh: complain about it to anyone at the pool who'll listen
+answerMid: ask the couple next door if theirs is off too
+answerLow: go down to reception on your own
+answerLeast: take cold showers for the rest of the week
 rorschachMost: a drifting raft
 rorschachHigh: a cut kite
 rorschachMid: a caravan
@@ -50,4 +50,4 @@ rorschachLow: a tent peg
 rorschachLeast: a harbour bollard
 ---
 
-Chipotle Green Beans are the Bean Zodiac's most footloose. No lease, no fixed plan, three countries in two years, and it genuinely suits them. Sometimes there is nothing holding them anywhere at all. Being reliably in one place for someone is hard to promise.
+Chipotle Green Beans are the Bean Zodiac's most contagious. They took up sea swimming in March, and by June five of their friends own wetsuits. Sometimes a grumble about the landlord at breakfast is a rent strike by Friday. Keeping a feeling to themselves is a trick they've never pulled off.

@@ -1,43 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: sweet-boiled-green
 lastUpdated: 
 bean: green
 flavour: sweet
 form: boiled
-trait: playful
-excess: frivolous
-inverse: grave
-quote: We don't stop playing because we grow old; we grow old because we stop bean playful.
-creature: river otter
+trait: enthusiastic
+excess: uncritical
+inverse: grudging
+quote: Success consists of going from failure to failure without loss of bean.
+creature: red-capped manakin
 dish: Green beans boiled, then glazed in brown sugar and butter.
 friendlyBeans: [kidney, pinto]
 friendlyForm: roasted
 antiTriple: spicy-smoked-black
 antiBeans: [cannellini, adzuki]
 antiForm: dried
-seasonalFortune: "A season of brown sugar and glazed snapping — the pot is not taking this seriously."
-fortuneMost: Turn everything into a game and nothing gets taken seriously.
-fortuneHigh: A river otter slides the same bank all afternoon.
-fortuneMid: Play gets more out of people than pressure.
-fortuneLow: Be serious for this one.
-fortuneLeast: Some things deserve a straight face.
-facetMostTitle: Bright Young Beans
-facetMost: A meeting is about redundancies and you have made a joke about the biscuits. It gets a laugh. You make another, and a third, and the woman who is losing her job is sitting four seats down and has not looked up once.
-facetHighTitle: Beantime
-facetHigh: The queue at the checkout is long and the child in front is bored out of her mind. You get a game going with the tins that lasts until the till.
-facetMidTitle: Fun and Beans
-facetMid: Given a form with a box for anything else you would like to add, you add something that makes whoever opens it laugh.
-facetLowTitle: Bean of the Fireflies
-facetLow: An evening has gone quiet and comfortable and somebody says a thing that would take a joke beautifully. You feel it arrive. You let it go past, and the conversation carries on being sensible.
-facetLeastTitle: No Beaning Matter
-facetLeast: There is a photograph being taken and everybody is doing something daft in it, and you stand at the end, upright, hands by your sides, and that is the photograph.
-question: Two hours until recovery comes for the broken-down van. Three tired children in the back, and the driver on the phone sorting the tow. You...
-answerMost: get a game going, and keep it going through the driver's phone call
-answerHigh: make a game out of what's in the van
-answerMid: play twenty questions for ten minutes, then let it go quiet
-answerLow: keep the three of them fed and let the two hours pass
-answerLeast: work out from the timetable what you've missed
+seasonalFortune: "A season of brown sugar and ready yeses — everything is wonderful, and a few things really aren't."
+fortuneMost: Love everything and nobody can tell what you actually like.
+fortuneHigh: A red-capped manakin will moonwalk along a branch for anyone who stops to watch.
+fortuneMid: People remember who was glad for them.
+fortuneLow: Wait and see before you cheer.
+fortuneLeast: Hard-won praise is the kind people keep.
+facetMostTitle: The Emperor's New Beans
+facetMost: Four days into a trip to Las Vegas, the friend you came with wants to marry a woman he met at the hotel pool on the first afternoon. She still doesn't know his surname. The chapel across the street has a slot at nine, and he asks you whether he's being an idiot. You tell him it's the best idea he's ever had.
+facetMostAction: You tell him it's the best idea he's ever had.
+facetHighTitle: Thar She Beans!
+facetHigh: The whale-watching boat has been out three hours without a single whale. Most of the passengers have gone below out of the wind, a few of them seasick, and the captain has just said he's turning back in ten minutes. Then a spout goes up, a long way off on the left. You go below and shout for everyone to come up.
+facetHighAction: You go below and shout for everyone to come up.
+facetMidTitle: Bean's World
+facetMid: You've gone to see a band at a small club, and the opening act played to about fifteen people, most of them waiting at the bar. Two of their songs were really good. On the way out their singer is sitting on her own at a table by the door, with a box of records at twenty-five dollars each. You buy one of their records.
+facetMidAction: You buy one of their records.
+facetLowTitle: The Addams Beanily
+facetLow: A friend has spent two months planning a treasure hunt across the city for her boyfriend's thirtieth, with eight clues and a costume for every guest. At the meeting point everybody else is already in theirs, and she hands you a pirate hat and an eyepatch. You put the hat and the eyepatch in your bag.
+facetLowAction: You put the hat and the eyepatch in your bag.
+facetLeastTitle: Ebeanezer Scrooge
+facetLeast: For three years your brother-in-law has talked about nothing but the lighthouse he was buying, and now it's finished. He takes you, your sister and your parents up the hundred and twelve steps to the lamp room. The old lens still turns, and the whole coast is laid out below. He asks what you think. You tell him it's a good view.
+facetLeastAction: You tell him it's a good view.
+question: A friend has talked you into coaching her daughter's team of eight-year-olds in a summer football league. They lose their first match by eleven goals, with all the parents watching. You...
+answerMost: tell the parents they could still win the league
+answerHigh: add an extra training session every week
+answerMid: look up some defending drills for next week's training
+answerLow: tell the kids well done, and head home
+answerLeast: remind your friend you only said yes to one summer
 rorschachMost: spilled marbles
 rorschachHigh: a game of skittles
 rorschachMid: a puddle jumped in
@@ -45,4 +50,4 @@ rorschachLow: a shut sweet jar
 rorschachLeast: a headstone
 ---
 
-Candied Green Beans are the Bean Zodiac's most playful. Ten minutes into a dull afternoon there is a game with rules, and the whole room is in it. Sometimes there's a game where something serious was needed. Being solemn for a full hour is a stretch.
+Candied Green Beans are the Bean Zodiac's most enthusiastic. Mention you're thinking of taking up the cello and by Saturday they've found you a teacher and a secondhand one. Occasionally it's a terrible idea, and they're the last to see it. Sulking through something they were talked into is a skill they never picked up.

@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: check all
 slug: sweet-roasted-fava
 lastUpdated: 
 bean: fava
@@ -16,33 +16,33 @@ friendlyForm: fermented
 antiTriple: bitter-boiled-navy
 antiBeans: [black, edamame]
 antiForm: dried
-seasonalFortune: "A season of date syrup and warm nerve — the tray talks the timid into trying."
-fortuneMost: Talk people into enough of it and somebody gets hurt trying.
-fortuneHigh: A lioness hunts and the whole pride moves with her.
-fortuneMid: Belief handed over is rarely wasted.
-fortuneLow: Let somebody stay where they are.
-fortuneLeast: A quiet word cools a hot head.
+seasonalFortune: "A season of date syrup and warm nerve — the timid end up at the front."
+fortuneMost: You can talk somebody into something they have to finish alone.
+fortuneHigh: The lioness makes the first run, and the young ones learn that it can be done.
+fortuneMid: Nerve is catching. Stand close.
+fortuneLow: When somebody says no twice, they mean it.
+fortuneLeast: Talking somebody out of it is a kindness too.
 facetMostTitle: Beanble-Rouser
-facetMost: Six of you have paid for a night dive and the instructor has just called it off because of the swell. You spend ten minutes working on the other five, until four of them have their wetsuits back on and he's outvoted.
-facetMostAction: You spend ten minutes working on the other five, until four of them have their wetsuits back on and he's outvoted.
+facetMost: Twelve weeks of training, and at the weigh-in for the charity fight night your sister has been matched against somebody who has clearly boxed before. Once the doctor signs them off the card is fixed. She has her hand on the door. You get in front of her and tell her nobody in that gym has worked harder for it.
+facetMostAction: You get in front of her and tell her nobody in that gym has worked harder for it.
 facetHighTitle: You've Got a Friend in Bean
-facetHigh: Your partner has cancelled two appointments about the lump on their neck. Now they're up out of the chair in the waiting room, coat in hand, saying they'll rebook. You take the coat off them and sit back down with it on your lap.
-facetHighAction: You take the coat off them and sit back down with it on your lap.
+facetHigh: The flats going up behind your friend's building are on tonight's agenda, and she's put her name down to speak against them. She has a page written out on her knee. The woman chairing it calls her name twice and your friend doesn't move. You put your hand up and say she's here.
+facetHighAction: You put your hand up and say she's here.
 facetMidTitle: Go On, Bean
-facetMid: Someone from your work came to the running club taster and is already looking for a way out. Running her pace for five miles means not doing the session you came for. You tell her you'll stay with her, and walk her over to the group.
-facetMidAction: You tell her you'll stay with her, and walk her over to the group.
+facetMid: Your neighbour has failed the driving test twice and is parked outside the test centre with ten minutes to go, saying she'll book it again for next month. She drove the two of you here through town and parked it herself. You get out of the passenger seat and tell her she's already done the hard part.
+facetMidAction: You get out of the passenger seat and tell her she's already done the hard part.
 facetLowTitle: Killbean
-facetLow: Over dinner your friend tells you they're going to move to a city where they don't know anybody, and asks what you think. You tell them there's no rush, and to give it a month.
-facetLowAction: You tell them there's no rush, and to give it a month.
+facetLow: A friend has fallen for a shepherd at the rescue centre, and the staff have taken the two of you through the back to go over it — a bite on its record, no other animals in the house, a home visit before anything is signed. Your friend has the lead in their hand and asks what you think. You tell them to go home and think about it for two weeks.
+facetLowAction: You tell them to go home and think about it for two weeks.
 facetLeastTitle: The Spoilsbean
-facetLeast: Nine of you are outside the hut at four in the morning with head torches on, about to go up. You go round them with the forecast, how long the last party took, and what happened to the two who went in October.
-facetLeastAction: You go round them with the forecast, how long the last party took, and what happened to the two who went in October.
-question: Your friend has said for two years she'd go for the head of department job. The closing date is Friday, and she's asking what you think. You...
-answerMost: fill the form in with her, and put her up for the deputy job as well
-answerHigh: tell her she's ready, and what she'd be good at in it
-answerMid: back her going for it, and leave the form with her
-answerLow: say it's her call
-answerLeast: be honest, and tell her she isn't ready for it
+facetLeast: Your brother has found the unit for the bakery, and it comes with a fifteen-year lease, three months' rent up front, and no extraction over where the ovens would go. The agent walks the three of you round it while your brother says where the counter is going. You say the fifteen years, the three months and the extraction out loud.
+facetLeastAction: You say the fifteen years, the three months and the extraction out loud.
+question: It's the hottest day of the year and you've talked five friends out to the quarry. The only way into the water is a fifteen-foot drop off the ledge, and two of them have gone quiet since you walked down. You...
+answerMost: go first, then run a countdown until all six are in
+answerHigh: jump, and shout up that it's warmer than it looks
+answerMid: get the ones who want to in first
+answerLow: tell the two quiet ones they can sit it out
+answerLeast: say fifteen feet is too much, and take everyone back up
 rorschachMost: flying sparks
 rorschachHigh: a burning torch
 rorschachMid: a raised fist

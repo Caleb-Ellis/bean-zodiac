@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: sour-boiled-navy
 lastUpdated:
 bean: navy
 flavour: sour
 form: boiled
-trait: literal-minded
-excess: wooden
-inverse: elliptical
-quote: When I use a bean, it means just what I choose it to mean — neither more nor less.
-creature: parrot
+trait: unadorned
+excess: tactless
+inverse: decorous
+quote: I bean what I bean.
+creature: peahen
 dish: Navy beans brined, then boiled with cider vinegar and mustard.
 friendlyBeans: [edamame, cannellini]
 friendlyForm: dried
 antiTriple: bitter-smoked-chickpea
 antiBeans: [green, adzuki]
 antiForm: roasted
-seasonalFortune: "A season of cider vinegar and plain instruction. The pot does exactly what the recipe said."
-fortuneMost: Take it all literally and the meaning walks off unnoticed.
-fortuneHigh: A parrot repeats it exactly and understands none of it.
-fortuneMid: Plain words prevent most arguments.
-fortuneLow: Read between the lines here.
-fortuneLeast: Half of what's meant is never said.
-facetMostTitle: Beanocchio
-facetMost: You are putting the bags in your dad's boot when he says your mother has been asking whether you are eating properly. What she wants is for you to ring her, and he has driven forty minutes to say it. You tell him what you have had this week.
-facetMostAction: You tell him what you have had this week.
-facetHighTitle: Beanocop
-facetHigh: The registrar reads back what will go on the certificate and asks whether that is correct. Your aunt wants it to say he died at home, because that is kinder and it is nearly true. You tell the registrar where he actually died.
-facetHighAction: You tell the registrar where he actually died.
-facetMidTitle: By the Bean
-facetMid: The man in the bike shop has looked at your bike for about ten seconds and says it should be fine for another winter, and there are two things that could mean, and you are riding it home in the dark. You ask him what fine means.
-facetMidAction: You ask him what fine means.
-facetLowTitle: In the Mood for Bean
-facetLow: The prices go up on the board in a hand nobody explains, and the man beside you has been in since it opened without writing anything down. He says, to nobody in particular, that the favourite in the two o'clock has had a very long trip up. You put your five pounds on something else.
-facetLowAction: You put your five pounds on something else.
-facetLeastTitle: Last Year at Marienbean
-facetLeast: Your partner asks straight out whether you want to go to her work thing at the weekend, and you do not, and saying so would land badly because she has asked twice already. You talk about how the week has been until she works it out.
-facetLeastAction: You talk about how the week has been until she works it out.
-question: Your friend asks whether you've heard how the house sale is going. You've heard that the survey came back badly and that his buyer is wobbling. You...
-answerMost: answer the question asked and stop, survey and buyer both unmentioned
-answerHigh: tell him what you heard about the survey, since that's what he asked
-answerMid: give him the survey, then mention the buyer as well
-answerLow: hint that there's more to it and let him ask
-answerLeast: talk round it until he works out what you know
+seasonalFortune: "A season of cider vinegar and mustard — the pot serves the beans as they are, with nothing on top."
+fortuneMost: Strip it down far enough and the kindness goes too.
+fortuneHigh: No need to dress it up.
+fortuneMid: The peahen, plain and brown, is the one who does the choosing.
+fortuneLow: A "please" and a "thank you" go a long way.
+fortuneLeast: Good manners are how strangers look after each other.
+facetMostTitle: Charlotte's Bean
+facetMost: You're looking after your six-year-old niece for the weekend, and her hamster dies overnight. Your sister texts to say tell her it's gone to live on a farm. Your niece comes down in her pyjamas and asks where it is. You tell her it died.
+facetMostAction: You tell her it died.
+facetHighTitle: The Princess Bean
+facetHigh: At the front of the room at your wedding, your partner has just read their vows — two pages, a poem, and the story of the night you met — and your grandmother is in tears. The officiant turns to you. You tell them you love them and you'll look after them.
+facetHighAction: You tell them you love them and you'll look after them.
+facetMidTitle: Mad Beans
+facetMid: You've got a stall at a Sunday flea market to clear out your flat, next to a man who calls everything he sells "mid-century" and "Scandinavian". A couple picks up your lamp and asks where it's from. It is Swedish. You tell them it's from IKEA.
+facetMidAction: You tell them it's from IKEA.
+facetLowTitle: Saltbean
+facetLow: A friend has invited you for the weekend at her family's enormous country house, where a gong goes before dinner and her father still wears a jacket to the table. You've only packed jeans and T-shirts. Her brother says nobody will care. You ask him whether you could borrow a jacket.
+facetLowAction: You ask him whether you could borrow a jacket.
+facetLeastTitle: The Age of Beanocence
+facetLeast: You're on holiday on a small Greek island, at the only pharmacy there is. The pharmacist's English is patchy, five people are queuing behind you, and she asks what the problem is. It's haemorrhoids. You tell her it's a delicate problem, down below.
+facetLeastAction: You tell her it's a delicate problem, down below.
+question: Out on a hiking trail you find a wallet, with a phone number on a business card inside. What does your text to the owner say?
+answerMost: got your wallet
+answerHigh: found your wallet on the trail, tell me where to leave it
+answerMid: hi! found your wallet, everything's still in it
+answerLow: hi, sorry to message out of the blue, but I think I have your wallet
+answerLeast: good afternoon, I do hope you don't mind my getting in touch
 rorschachMost: a shop dummy
 rorschachHigh: a jigsaw piece
 rorschachMid: a key
@@ -50,4 +50,4 @@ rorschachLow: a torn ticket
 rorschachLeast: a smoke signal
 ---
 
-Brined Navy Beans are the Bean Zodiac's most literal-minded. They answer the question asked, exactly, and the contract they wrote has never once been argued over. Jokes land a half-beat late. Hinting at a thing rather than saying it strikes them as a wasted sentence.
+Brined Navy Beans are the Bean Zodiac's most unadorned. They describe their flat as small, damp and eleven minutes from the station, and you find you want it. Sometimes the sympathy card just says they're sorry he died. Wrapping a request in "if it's no trouble" is not a habit they picked up.

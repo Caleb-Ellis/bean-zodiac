@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: sour-roasted-chickpea
 lastUpdated: 
 bean: chickpea
 flavour: sour
 form: roasted
-trait: open-minded
-excess: uncritical
-inverse: bigoted
-quote: The bean mind is like a parachute — it only works when open.
-creature: bottlenose
+trait: unembarrassable
+excess: indelicate
+inverse: discreet
+quote: Publish and be beaned.
+creature: blue-footed booby
 dish: Roasted chickpeas with chimichurri and sherry vinegar.
 friendlyBeans: [adzuki, butter]
 friendlyForm: fried
 antiTriple: bitter-dried-edamame
 antiBeans: [cannellini, navy]
 antiForm: fermented
-seasonalFortune: "A season of sherry vinegar and wide doors — the fire takes whatever the market offered."
-fortuneMost: Open enough and anything at all gets in.
-fortuneHigh: Hear the whole of it out.
-fortuneMid: A bottlenose plays with whatever floats past.
-fortuneLow: Decide that one of them is wrong.
-fortuneLeast: A newer argument isn't a better one.
-facetMostTitle: Wide Open Beans
-facetMost: It's a free evening in a hotel function room on buying flats to let, the man at the front has been good for two hours, and the fourteen hundred to sign up is tonight's price only. Your friend has asked him three questions he's talked round rather than answered, and you heard all three. You put the fourteen hundred down.
-facetMostAction: You put the fourteen hundred down.
-facetHighTitle: The Open Beanciety
-facetHigh: You've told your brother-in-law for ten years that his church is nonsense, and you've said it to his face at three Christmases. He's asked you once, without making anything of it, to come and see what actually goes on. You sit through the whole hour with him.
-facetHighAction: You sit through the whole hour with him.
-facetMidTitle: Hear Me Out, Bean
-facetMid: Six years you've been going to the pottery class, and you've always pulled the sides the same way round; the new tutor says that's why they keep splitting, and you can see she might be right. You do it her way for a fortnight.
-facetMidAction: You do it her way for a fortnight.
-facetLowTitle: Archie Beanker
-facetLow: Your sister's with a copper now and you've had things to say about that since she met him. He's taken you round on a quiet afternoon — the custody desk, the board with the night's jobs on it, the room they do the interviews in — and he's been good company the whole way. You tell her afterwards that he's alright but the rest of them aren't.
-facetLowAction: You tell her afterwards that he's alright but the rest of them aren't.
-facetLeastTitle: All in the Beanily
-facetLeast: Three quotes for the roof and his is the best by four hundred pounds, and he's stood on your step having spent an hour up there; the firm's from over the valley and you've not had a good word for that place since you were nine. You give it to the second cheapest.
-facetLeastAction: You give it to the second cheapest.
-question: Your niece has put you on the guest list for a noise gig she loves and you have never been able to stand the stuff. You...
-answerMost: stay to the end and tell her every part of it was good
-answerHigh: hear the whole set, and afterwards say which of it worked
-answerMid: leave after a few songs
-answerLow: go, stand at the back, and come out thinking what you thought before
-answerLeast: tell her you know what that noise sounds like
+seasonalFortune: "A season of sherry vinegar and loud tables — the chickpeas pop and split in the oven, and nobody minds the noise."
+fortuneMost: Bring it up over dinner and nobody finishes their plate.
+fortuneHigh: A blue-footed booby will dance for anyone who stops to look.
+fortuneMid: It'll make a good story one day.
+fortuneLow: Keep this one to yourself.
+fortuneLeast: A little privacy never hurt anyone.
+facetMostTitle: Absolutely Beanulous
+facetMost: It's your partner's parents' fortieth anniversary lunch, on a riverboat with twenty of the family. Their mum asks across the table how the two of you met. It was an app mostly used for hookups, and your partner has always told the family it was through friends. You tell her the name of the app.
+facetMostAction: You tell her the name of the app.
+facetHighTitle: The Greatest Showbean
+facetHigh: You trip on the steps up to the stage at your graduation and land flat on your front, in front of eight hundred people and your whole family. The woman handing out the degrees is waiting with your certificate. You get up and take a bow.
+facetHighAction: You get up and take a bow.
+facetMidTitle: Two Broke Beans
+facetMid: On a first date, at a restaurant you picked because it looked fancy, the waiter comes back and says, loud enough for the next table, that your card's been declined. It's not a mistake at the bank. You tell your date you're broke until payday.
+facetMidAction: You tell your date you're broke until payday.
+facetLowTitle: Keeping Up Beanpearances
+facetLow: It's your first time at a Korean bathhouse, where everyone walks between the pools naked with their towels folded on their heads. You've been given a towel smaller than a hand towel. You hold it in front of you all the way to the hot pool.
+facetLowAction: You hold it in front of you all the way to the hot pool.
+facetLeastTitle: Bean in Black
+facetLeast: A TV crew making a documentary about the emergency department filmed you coming in with your toe stuck in a bath tap. The producer says it's the funniest thing they've got, and asks you to sign the release so it can be broadcast. You ask her to cut you out.
+facetLeastAction: You ask her to cut you out.
+question: Your friends know you had a doctor's appointment this morning, and over lunch one of them asks how it went. It was haemorrhoids. You...
+answerMost: talk them through the examination
+answerHigh: tell them it was haemorrhoids
+answerMid: say it was something down there, nothing serious
+answerLow: say it was nothing serious
+answerLeast: say it was a routine check-up
 rorschachMost: an open drain
 rorschachHigh: a raised blind
 rorschachMid: a lid off a pot
@@ -50,4 +50,4 @@ rorschachLow: a narrow gate
 rorschachLeast: a padlocked chain
 ---
 
-Chimichurri Chickpeas are the Bean Zodiac's most open-minded. They'll try the food, the music, the argument they were raised to dislike, and stay long enough to actually judge. Sometimes nothing gets judged at all. Ruling something out unexamined, on principle, they can't bring themselves to do.
+Chimichurri Chickpeas are the Bean Zodiac's most unembarrassable. They split their trousers at a wedding and by ten they're telling the story on the dancefloor. Sometimes the story they tell is about your trousers. Lowering their voice to say the word "rash" is a courtesy that has never occurred to them.

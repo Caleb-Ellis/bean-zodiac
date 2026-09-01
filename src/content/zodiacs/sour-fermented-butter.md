@@ -1,43 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: sour-fermented-butter
 lastUpdated: 
 bean: butter
 flavour: sour
 form: fermented
-trait: understated
-excess: invisible
-inverse: showy
-quote: The bean doth protest too little, methinks.
-creature: marsh wren
+trait: unillusioned
+excess: defeatist
+inverse: hopeful
+quote: Blessed is the bean who expects nothing, for it shall never be disappointed.
+creature: african lungfish
 dish: Butter beans pickled in white wine vinegar with tarragon.
 friendlyBeans: [black, fava]
 friendlyForm: dried
 antiTriple: spicy-fried-navy
 antiBeans: [chickpea, kidney]
 antiForm: roasted
-seasonalFortune: "A season of tarragon and low volume — the jar changes everything and mentions none of it."
-fortuneMost: A marsh wren can be heard all day and never once seen.
-fortuneHigh: Let the work say it.
-fortuneMid: The good work gets noticed a week late.
-fortuneLow: Put your name on it.
-fortuneLeast: Tell them exactly what you did!
-facetMostTitle: The Invisible Bean
-facetMost: You have run the sheepdog trial for eleven years — entries, timing, flags, tea. From the rostrum the chairman thanks the sponsors, the judges and the weather. You are stood at the back with the flags under your arm, and you let all of it go past.
-facetHighTitle: The Quiet Beanmerican
-facetHigh: Forty years on the estate, and the new owner is walking the woods asking who does what, so you say you keep an eye on things and leave it there.
-facetMidTitle: Less Is Bean
-facetMid: Snow on the path overnight. You go out at six and clear yours and the two either side, and you are indoors before anybody's curtains open.
-facetLowTitle: Razzle Beanzzle
-facetLow: Your name is read out at the prize-giving. It is a thirty-foot walk to the front and you take it slowly. Then you say rather more into the microphone than you had planned to.
-facetLeastTitle: The Greatest Beanman
-facetLeast: Nobody has asked for a second song and the karaoke machine is free. You go back up with the microphone, do the harmonies, and get the bar joining in on the chorus.
-question: The end-of-season write-up credits somebody else with the thing you organised. You...
-answerMost: say nothing, and let it stand as it is
-answerHigh: mention it once to whoever wrote it, then leave it
-answerMid: tell one friend, and let the rest go
-answerLow: ask for the write-up to be corrected
-answerLeast: put your own version up and set it straight
+seasonalFortune: "A season of tarragon and modest hopes — the jar gives back exactly what went into it."
+fortuneMost: Decide it won't work, and it won't.
+fortuneHigh: When the pond dries up, the lungfish seals itself in the mud and waits for rain.
+fortuneMid: Most things turn out about how you'd expect.
+fortuneLow: Sometimes the long shot comes in.
+fortuneLeast: The best might happen. Plan for that too.
+facetMostTitle: Finding Beanmo
+facetMost: The ring your grandmother left you has gone off the harbour wall, into four metres of murky water. The man at the dive shop on the quay says he can go down for eighty dollars, and he finds things about one time in three. You tell him not to bother.
+facetMostAction: You tell him not to bother.
+facetHighTitle: Planes, Trains and Beanmobiles
+facetHigh: Your suitcase hasn't come off the plane, and it has your outfit in it for your best friend's wedding at two tomorrow. The woman at the lost luggage desk says bags usually turn up within a day, and it could well reach your hotel tonight. You go into town and buy a new outfit.
+facetHighAction: You go into town and buy a new outfit.
+facetMidTitle: Before Beanrise
+facetMid: It's your last night in Budapest, and you've walked the city until sunrise with someone you met at the hostel. Now you're on a bridge over the river, and you both leave for different countries today. They suggest not swapping numbers, and just meeting back here in a year. You ask for their number as well.
+facetMidAction: You ask for their number as well.
+facetLowTitle: Seven Beans in Tibet
+facetLow: You broke your ankle six weeks ago, and the physio says it's about fifty-fifty whether it'll be ready for the Everest base camp trek you've booked for April. The trek company will move you onto next year's trip for free if you tell them this week. You keep your place on the April trek.
+facetLowAction: You keep your place on the April trek.
+facetLeastTitle: Great Expectabeans
+facetLeast: A friend is giving the first reading from her poetry book, in the back room of a bookshop, and you're helping her set up. Fourteen people have said they're coming. There are eighty folding chairs stacked against the wall. You put all eighty chairs out.
+facetLeastAction: You put all eighty chairs out.
+question: It's the final of the summer football league in the park, and your team of friends is three goals down at half-time to a side that hasn't lost all year. You...
+answerMost: suggest conceding the match and going home
+answerHigh: say you'll probably lose, so enjoy the second half
+answerMid: set everyone the target of getting one back
+answerLow: say one early goal and it's anyone's game
+answerLeast: bet the other captain twenty dollars that you'll win
 rorschachMost: a fox earth
 rorschachHigh: a plain hill
 rorschachMid: a cloud over a thicket
@@ -45,4 +50,4 @@ rorschachLow: a hat with a feather
 rorschachLeast: a marquee over a lawn
 ---
 
-Pickled Butter Beans are the Bean Zodiac's most understated. They did most of the work on the project and the summary email doesn't mention them once. Left alone they disappear from their own life. Claiming a thing loudly, in public, they'd sooner lose the credit than do.
+Pickled Butter Beans are the Bean Zodiac's most unillusioned. When the builder says six weeks they plan for ten, and are perfectly calm when it takes twelve. Sometimes they don't apply for the flat they love, having already decided who'll get it. Getting their hopes up is something that happens to other people.

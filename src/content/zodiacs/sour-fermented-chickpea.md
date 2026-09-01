@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: sour-fermented-chickpea
 lastUpdated: 
 bean: chickpea
 flavour: sour
 form: fermented
-trait: clever
-excess: cunning
-inverse: dull
-quote: The secret of being a bean bore is to tell everything.
-creature: raccoon
+trait: sly
+excess: conniving
+inverse: above-board
+quote: Keep your friends close, and your beans closer.
+creature: cuckoo
 dish: Chickpeas in torshi brine with turnip and beet.
 friendlyBeans: [pinto, adzuki]
 friendlyForm: roasted
 antiTriple: bitter-dried-cannellini
 antiBeans: [navy, edamame]
 antiForm: boiled
-seasonalFortune: "A season of torshi and quick solutions — the brine solves a problem the kitchen hadn't posed."
-fortuneMost: The clever fix and the self-interested one keep coinciding.
-fortuneHigh: A raccoon works a latch open with both hands.
-fortuneMid: One swap fixes six things.
-fortuneLow: The obvious way is cheaper.
-fortuneLeast: Pay the asking price.
-facetMostTitle: Fantastic Mr. Bean
-facetMost: Your dad has had two prangs this year and will not stop driving, and everybody has been arguing with him about it since the spring; he is at the table now saying he is taking the car to Norfolk at the end of the week, and the garage has it in for a wing mirror. You ring them and ask them to keep it another fortnight.
-facetMostAction: You ring them and ask them to keep it another fortnight.
-facetHighTitle: Good Will Beanting
-facetHigh: The crossing is cancelled, you have your mum and your sister with you and nowhere to sleep, and the next boat has twelve cabins and three hundred people queueing for them. Coach passengers are being rebooked at a different counter with nine people at it, and coach tickets are six pounds from the machine by the door. You buy three and take your mum and sister across.
-facetHighAction: You buy three and take your mum and sister across.
-facetMidTitle: Beanversity Challenge
-facetMid: There has been mould up your friend's bedroom wall for four months now and the council have not answered a single one of his emails, and you are stood in the hardware shop while he buys the paint that will not fix it. You tell him to complain about the four months instead of the mould.
-facetMidAction: You tell him to complain about the four months instead of the mould.
-facetLowTitle: Watching Beans Dry
-facetLow: The woman going through your claim has your form up on the screen where you can both see it, and she reads the box out — what work are you looking for. She tells you in as many words that people who put anything down get paid, and people who name one trade get asked about it every fortnight. You write down kitchen work.
-facetLowAction: You write down kitchen work.
-facetLeastTitle: The Dull Bean's Club
-facetLeast: Everybody goes through the farmyard because the gate is open and it takes twenty minutes off, and your three friends are already through and up the other side; there is a dog in it and you would have to shout up to the house first. You take the road round.
-facetLeastAction: You take the road round.
-question: School places go by distance. You're four hundred metres outside the line for the one you want, and your aunt, two streets over, is inside it. You...
-answerMost: put your aunt's address down as yours
-answerHigh: find the rule that measures the walking route, and apply on that
-answerMid: apply from your own address, with a letter about the walk
-answerLow: apply from your own address and take the place you get
-answerLeast: name the school your own address is near enough for
+seasonalFortune: "A season of torshi and quiet schemes — the beet turns the whole jar pink, and nobody sees it happen."
+fortuneMost: The cuckoo lays its egg in another bird's nest, and lets them raise it.
+fortuneHigh: Nobody needs to know how it happened.
+fortuneMid: Let them think it was their idea.
+fortuneLow: Just ask for it.
+fortuneLeast: Things done in the open never need an alibi.
+facetMostTitle: Beanasite
+facetMost: Thirty people are queueing on the stairs to see a flat that's cheap, bright and two minutes from the station. The couple in front of you are clearly keen, and ask whether you know anything about the building. You don't. You tell them you've heard the upstairs neighbours are a nightmare.
+facetMostAction: You tell them you've heard the upstairs neighbours are a nightmare.
+facetHighTitle: The Wedding Beanner
+facetHigh: At a friend's wedding, you've been seated with six of the groom's work colleagues, and the rest of your friends are all together on the table by the dance floor. Everyone is still out on the lawn for photos. You swap your place card with a stranger's on your friends' table.
+facetHighAction: You swap your place card with a stranger's on your friends' table.
+facetMidTitle: The Bean Trap
+facetMid: Two of the friends you're going away with would be great together, and both have told you not to try anything. The five of you are splitting between two cars for the three-hour drive to a cabin. You put the two of them in the smaller car, on their own.
+facetMidAction: You put the two of them in the smaller car, on their own.
+facetLowTitle: Wimbeandon
+facetLow: You're playing tennis with a friend on the public courts, one set each, and the loser's buying dinner. It's match point to them, and their shot clips your baseline. They couldn't have seen it from where they are. You call it in.
+facetLowAction: You call it in.
+facetLeastTitle: The Beanvention of Lying
+facetLeast: A man clearing out his late mother's house is selling everything off the driveway, and in a box of frames marked ten dollars there's a small oil painting. You've seen that signature before, on a painting that sold for thousands. He asks if you want it. You tell him what you think it's worth.
+facetLeastAction: You tell him what you think it's worth.
+question: You're sixteen, and your parents have said no to a party on Saturday at the house of someone they've never met. Everyone else is going. You...
+answerMost: say fine, then slip out after they've gone to bed
+answerHigh: ask to sleep at a friend's, and leave out the party
+answerMid: ask again once they're in a better mood
+answerLow: offer to be home by eleven if they'll let you go
+answerLeast: tell them whose party it is and that there'll be drinking
 rorschachMost: a lock being picked
 rorschachHigh: a hand in a jar
 rorschachMid: a nutcracker
@@ -50,4 +50,4 @@ rorschachLow: a wooden spoon
 rorschachLeast: a stump
 ---
 
-Pickled Chickpeas are the Bean Zodiac's most clever. They find the route through the form, the queue, the family argument, and it works every time. The cleverness occasionally solves for something nobody agreed to. Doing a thing the long obvious way feels to them like waste.
+Pickled Chickpeas are the Bean Zodiac's slyest. They get the window seat, the good room and the last slice of cake, and nobody can quite say how. Sometimes a friend works out, months later, what the favour was really for. Just asking for the thing, out loud and in front of everyone, strikes them as a waste of a good plan.

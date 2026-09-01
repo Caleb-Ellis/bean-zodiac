@@ -6,7 +6,7 @@ bean: chickpea
 flavour: sour
 form: dried
 trait: wry
-excess: arch
+excess: snide
 inverse: unamused
 quote: History doesn't repeat itself, but it does bean.
 creature: western jackdaw

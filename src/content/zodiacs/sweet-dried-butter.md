@@ -21,12 +21,12 @@ fortuneHigh: A still pond, not even a breeze.
 fortuneMid: The day's small alarms reach you muffled, as through cloth.
 fortuneLow: Sit with it a little longer before you try to fix it.
 fortuneLeast: The kettle's started to rattle in you, heat meeting heat.
-facetMostTitle: Sleeping Beanty
-facetMost: Turbulence causes the plane to drop down hard, and you hear gasps in the cabin. You glance out the window, at the clouds, your pulse unchanged.
-facetMostAction: You glance out the window, at the clouds, your pulse unchanged.
-facetHighTitle: The Beanity Prayer
-facetHigh: Late night at a fast food joint, halfway through your meal. Two strangers at the table next to you are getting louder, and increasingly irate. Maybe squaring up for a fight? People are hailing staff and some are starting to leave. You stay seated and continue eating.
-facetHighAction: You stay seated and continue eating.
+facetMostTitle: The Beanity Prayer
+facetMost: Late night at a fast food joint, halfway through your meal. Two strangers at the table next to you are getting louder, and increasingly irate. Maybe squaring up for a fight? People are hailing staff and some are starting to leave. You stay seated and continue eating.
+facetMostAction: You stay seated and continue eating.
+facetHighTitle: Sleeping Beanty
+facetHigh: Turbulence causes the plane to drop down hard, and you hear gasps in the cabin. You glance out the window, at the clouds, your pulse unchanged.
+facetHighAction: You glance out the window, at the clouds, your pulse unchanged.
 facetMidTitle: Sail Abean
 facetMid: A wasp drops onto the picnic blanket and the others scatter shrieking. You watch it cross the cloth and wait for it to wander off on its own.
 facetMidAction: You watch it cross the cloth and wait for it to wander off on its own.

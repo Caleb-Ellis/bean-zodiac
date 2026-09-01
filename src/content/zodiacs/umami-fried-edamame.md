@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: umami-fried-edamame
 lastUpdated:
 bean: edamame
 flavour: umami
 form: fried
-trait: keen
-excess: voracious
-inverse: uninterested
-quote: I am always doing that which I cannot do, in order that I may learn how to bean it.
-creature: merlin
+trait: conclusive
+excess: foreclosing
+inverse: tinkering
+quote: The bean is cast.
+creature: archerfish
 dish: Edamame tempura with tentsuyu.
 friendlyBeans: [green, fava]
 friendlyForm: smoked
 antiTriple: sweet-boiled-butter
 antiBeans: [adzuki, mung]
 antiForm: fermented
-seasonalFortune: "A season of tentsuyu and sharpened appetite: the tempura wants the next one already."
-fortuneMost: Every door opens on another, and the first room goes unlived-in.
-fortuneHigh: A merlin picks one bird and flies it flat out.
-fortuneMid: Curiosity is cheap and pays oddly well.
-fortuneLow: Let one go by unread.
-fortuneLeast: Be the last to know something, on purpose.
-facetMostTitle: The Very Beany Caterpillar
-facetMost: You asked the man who does the bread at the cafe if you could watch a morning, and he said be there for five. It's half nine now, he's twice told you you're welcome to head off, and your sister's van comes at eleven. You tell him you'll stay to the end of the bake.
-facetMostAction: You tell him you'll stay to the end of the bake.
-facetHighTitle: Eager Beanver
-facetHigh: The hour tour's finished and the guide says the four-hour one goes down to the level they flooded in the sixties, and today's the last of the season. It comes back up at seven and the last train home is quarter past six. You put your name down for the four-hour.
-facetHighAction: You put your name down for the four-hour.
-facetMidTitle: Bright Bean Eyes
-facetMid: You're doing your lengths before work and the club that trains after you have started at the far end. One of them comes over and says your breathing's why you're slow, and she'll show you in ten minutes if you want. You'd be an hour late in and you've been spoken to about it already. You move down into her lane.
-facetMidAction: You move down into her lane.
-facetLowTitle: The Big Bean Yawn
-facetLow: Your friend's used a day of her leave to show you round the sanctuary she volunteers at — the intake board saying what came in from where, the feed room, the barn where the new ones spend a fortnight before anything else happens. She says she can take you in with her, or put your name down for Saturdays. You tell her you'll wait outside.
-facetLowAction: You tell her you'll wait outside.
-facetLeastTitle: Wake Me Up When September Beans
-facetLeast: The friend who runs the Tuesday drawing class sits down next to you on the bus and says there's one place left on the trip in April, four of them going, and she'd rather you had it than put it up on the board. You tell her to give it to somebody else.
-facetLeastAction: You tell her to give it to somebody else.
-question: A friend hands you a book about beekeeping. You have never kept bees. You...
-answerMost: order three more like it, and put your name down for a course
-answerHigh: read it in a night, then go and look at somebody's hives
-answerMid: work through it over a fortnight
-answerLow: shelve it after the first chapter
-answerLeast: thank her, and leave the book in the car
+seasonalFortune: "A season of tentsuyu and a hot pan — the year answers a question once, and will not be asked it twice."
+fortuneMost: Finish it too fast and you'll be living with it a long while.
+fortuneHigh: Decide it, and don't open it again.
+fortuneMid: The archerfish spits once, and the beetle is in the water.
+fortuneLow: Second drafts exist for a reason.
+fortuneLeast: A job you keep going back to is one you still care about.
+facetMostTitle: The Final Beantdown
+facetMost: The director of the play you're all in walked out three days before opening, and the six of you are sitting in the empty auditorium working out whether it can still go on. Two of them have understudied the part and want to run it tonight to show you. The theatre will rebook the week the moment anybody tells them to. You ring the theatre and tell them to rebook it.
+facetMostAction: You ring the theatre and tell them to rebook it.
+facetHighTitle: Signed, Sealed, Beanivered
+facetHigh: You're in the corridor outside the hearing room at the small claims court, suing the removal firm that dropped a crate down a stairwell and broke most of what was in it. Their solicitor comes out and offers two thirds of what you're claiming, signed before you go in, against a hearing in the spring if you turn it down. You sign for the two thirds before you go in.
+facetHighAction: You sign for the two thirds before you go in.
+facetMidTitle: That'll Do, Bean
+facetMid: You've had an hour on the stand at the bike workshop truing a back wheel, and the woman on the next stand looks over and says there's still a wobble she can see from there. It's twelve miles home on it. You tell her it'll do and put the wheel back on.
+facetMidAction: You tell her it'll do and put the wheel back on.
+facetLowTitle: Beanling Point
+facetLow: A friend runs a supper club once a month out of a rented studio kitchen, and you've come in to cook the main for the twenty people sitting down at eight. It's ten to, the sauce is fine, and nobody out there would know it isn't what you meant. There's enough cream left for exactly one more go. You tip it out and start it again.
+facetLowAction: You tip it out and start it again.
+facetLeastTitle: The Unfinished Beanphony
+facetLeast: The dinghy you've been rebuilding in a shed at the boatyard has been watertight and rigged for a month, and you still have a list of small things you want to do to it. The man who runs the yard says there are eleven people waiting on the list for a shed, so you either put it in the water this season or pay for another year of the space. You tell him you'll pay for the year.
+facetLeastAction: You tell him you'll pay for the year.
+question: You've wanted the same tattoo since you were seventeen — a swift, wings back, on the inside of your forearm. The tattooist has drawn it up and put the stencil on, and says she'll redraw it as many times as you like; the chair is yours until six either way. You...
+answerMost: tell her to start before you've looked at the drawing
+answerHigh: look the drawing over once, and say yes to it
+answerMid: ask her to bring the wings in, and go with that
+answerLow: ask to see it a size smaller
+answerLeast: take a photo of it and tell her you'll book again
 rorschachMost: a scraped plate
 rorschachHigh: a hooked beak
 rorschachMid: a front-row seat
@@ -50,4 +50,4 @@ rorschachLow: a folded newspaper
 rorschachLeast: an untouched pudding
 ---
 
-Tempura Edamame are the Bean Zodiac's most keen. New subject, new tool, new job — they are three books in before the first week is out. Sometimes there's an appetite nothing satisfies. Being indifferent to something is rare enough to alarm them.
+Tempura Edamame are the Bean Zodiac's most conclusive. A dispute the family has kept warm for two years gets four words from them across the table, and it doesn't come back. Occasionally a question gets shut before the person who asked it has finished. Reopening something to change one line is not a pleasure they allow themselves.

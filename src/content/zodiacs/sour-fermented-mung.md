@@ -1,13 +1,13 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
 slug: sour-fermented-mung
-lastUpdated: 
+lastUpdated:
 bean: mung
 flavour: sour
 form: fermented
 trait: diagnostic
-excess: reductive
-inverse: unquestioning
+excess: pathologising
+inverse: palliative
 quote: The first step is admitting you have a bean.
 creature: leech
 dish: Mung sprouts pickled with green chilli and lime.

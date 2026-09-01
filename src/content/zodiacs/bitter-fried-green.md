@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: bitter-fried-green
 lastUpdated: 
 bean: green
 flavour: bitter
 form: fried
-trait: impatient
-excess: precipitate
-inverse: long-suffering
-quote: I am not a bean at ease.
-creature: hare
+trait: unceremonious
+excess: dismissive
+inverse: formal
+quote: Stand not upon the order of your beaning, but go at once.
+creature: bumblebee
 dish: Green beans wok-charred with dried chilli and Sichuan pepper husk.
 friendlyBeans: [chickpea, kidney]
 friendlyForm: roasted
 antiTriple: umami-boiled-butter
 antiBeans: [black, navy]
 antiForm: dried
-seasonalFortune: "A season of wok char and short tempers — the bean will not wait for the oil twice."
-fortuneMost: Rushing it turns a short job into a long one.
-fortuneHigh: A hare is gone before the dog has decided.
-fortuneMid: Waiting has a cost nobody counts.
-fortuneLow: Give it another week.
-fortuneLeast: The long wait was worth it.
-facetMostTitle: Bean Hour
-facetMost: You've grown the tomatoes from seed and they've been going in and out of the shed on trays since March. The frost date's another fortnight off and everyone on the site knows it. You put the whole tray in the ground tonight.
-facetMostAction: You put the whole tray in the ground tonight.
-facetHighTitle: Are We There Yet, Bean?
-facetHigh: You're selling the bike and the man in the shop offers you a hundred and eighty today. Privately it'd go for four hundred, but that's a fortnight of messages and people not turning up. You take the one-eighty.
-facetHighAction: You take the one-eighty.
-facetMidTitle: Waiting Is the Hardest Bean
-facetMid: You've had the iron test and the questions and you're in the numbered chairs, and the woman says there are two ahead of you and it'll be another forty minutes. The needle part takes ten. You get your coat.
-facetMidAction: You get your coat.
-facetLowTitle: Beanience
-facetLow: You've taken the day off and been in since eight for the washing machine. At five they ring to say the van's not coming, and the next slot's a fortnight off unless somebody's in tomorrow. You ring work and take tomorrow as well.
-facetLowAction: You ring work and take tomorrow as well.
-facetLeastTitle: The Long Bean Home
-facetLeast: Your brother's stalled at the same junction eight times and the car behind has gone round you. He's gone quiet and his hands are still on the wheel. You tell him to take his time and try it again.
-facetLeastAction: You tell him to take his time and try it again.
-question: The five of you have been on the same decision for forty minutes, and the answer has been plain for thirty. You...
-answerMost: order the timber, and tell them once it's ordered
-answerHigh: give them the answer out loud and get it decided
-answerMid: ask them for a decision by the end of the hour
-answerLow: let it run and draw on the back of the plan
-answerLeast: sit it out to the end without minding
+seasonalFortune: "A season of wok char and no preamble — nothing in the pan waits to be introduced."
+fortuneMost: Make nothing of it often enough and nobody makes anything of you.
+fortuneHigh: Get straight to the good part.
+fortuneMid: The bumblebee has no dance for telling the others where the flowers are. It just goes back out.
+fortuneLow: People like to know a thing is coming.
+fortuneLeast: Set the table first. That's how anybody knows it's a dinner.
+facetMostTitle: Bean in 60 Seconds
+facetMost: Nine years at the running club, and you're driving down this afternoon. Forty of them have come in on a Sunday, and the woman who started it is on her feet with a page of notes and your first race number, framed. You take the frame and say you have to get on the road.
+facetMostAction: You take the frame and say you have to get on the road.
+facetHighTitle: Say Beanything
+facetHigh: You got married on Thursday at the register office, with two people off the street as witnesses. Nobody knows yet. It's Sunday lunch at your parents', and your mother is still on about your cousin's engagement. You tell them while the food is going round.
+facetHighAction: You tell them while the food is going round.
+facetMidTitle: The Bean's Speech
+facetMid: Your friend put you up for five months when you had nowhere, and tonight she's taken you out for getting your own place. You've bought her the knife she said she'd never spend the money on, and it's in its shop bag under your chair. She goes up to the bar to pay. You catch her there and put the bag in her hand.
+facetMidAction: You catch her there and put the bag in her hand.
+facetLowTitle: The Grand Budapest Beantel
+facetLow: Your friend saved up to put the two of you in a balloon, and you're down in a field miles from where you went up. The pilot gets a bottle and glasses out of the basket, and everyone kneels in the grass for the blessing. The other passenger says he'll stay on his feet. You get down on your knees with them and take the glass.
+facetLowAction: You get down on your knees with them and take the glass.
+facetLeastTitle: Beanridgerton
+facetLeast: The woman who has run the shop on your street for twenty-two years is closing this week. There's a note in the window in biro and that's all anyone has said. You've got sixteen names on a card, most with something written underneath. You take it in on the last morning and read out what people wrote.
+facetLeastAction: You take it in on the last morning and read out what people wrote.
+question: You've built the dinghy over two winters in a shared workshop, and today it goes in the water. The four others from the workshop are down at the slipway with a bottle, and one asks what you're calling it. The tide's going out. You...
+answerMost: get it in the water without naming it at all
+answerHigh: say the name once, and push it in
+answerMid: hold it steady while one of them breaks the bottle on it
+answerLow: ask one of them to say a few words first
+answerLeast: name each of the four and what they did before it touches the water
 rorschachMost: a boiling kettle
 rorschachHigh: a pawing horse
 rorschachMid: a stone in a shoe
@@ -50,4 +50,4 @@ rorschachLow: a dentist's chair
 rorschachLeast: a barnacle
 ---
 
-Scorched Green Beans are the Bean Zodiac's most impatient. They finish your sentence correctly and start the work while the meeting is still deciding. Sometimes the start lands two facts too early. Waiting quietly for something that will arrive anyway feels to them like losing.
+Scorched Green Beans are the Bean Zodiac's most unceremonious. They mention buying the house in the middle of a story about a bus, and go back to the bus. Sometimes the fuss was the point, and they've already moved the chairs back. Letting an occasion take its shape before getting to the point isn't something they'll sit through.

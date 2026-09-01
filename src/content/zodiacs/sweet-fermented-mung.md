@@ -1,43 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: sweet-fermented-mung
 lastUpdated:
 bean: mung
 flavour: sweet
 form: fermented
-trait: gentle
-excess: timid
-inverse: brutish
-quote: In a tough world, the most rebellious thing you can do is be a gentle bean.
-creature: doe
+trait: fostering
+excess: interventionist
+inverse: hands-off
+quote: A society grows great when old beans plant trees in whose shade they shall never sit.
+creature: leafcutter ant
 dish: Sweet mung dosa from jaggery-fermented batter.
 friendlyBeans: [kidney, butter]
 friendlyForm: smoked
 antiTriple: sour-dried-green
 antiBeans: [edamame, fava]
 antiForm: fried
-seasonalFortune: "A season of jaggery batter and soft rising: the dosa never raises its voice."
-fortuneMost: So gentle that nobody knows a disagreement happened.
-fortuneHigh: A doe leaves the wood only when nothing has moved for a while.
-fortuneMid: Gentleness gets further than force.
-fortuneLow: Push back on this one.
-fortuneLeast: Some situations want brute force.
-facetMostTitle: The Beanardly Lion
-facetMost: The message has to say the arrangement is not working. You write it four ways. What goes out has her asking if you are all right.
-facetHighTitle: The Beanle Giant
-facetHigh: A big dog is pulling and the owner is embarrassed and everybody on the path is watching. You get down level with the dog and talk to it in one voice.
-facetMidTitle: Softly, Beanly
-facetMid: Two of them are going at each other about a call and the game has stopped, and you go and stand between them and keep your voice exactly where it was.
-facetLowTitle: A Beanwork Orange
-facetLow: The letter from the landlord is wrong on two counts and you have the tenancy in front of you. You write back setting out both of them. You leave the wording exactly as hard as it needs to be.
-facetLeastTitle: Rough Beanstice
-facetLeast: Somebody has cut you up in the car park and got out to say something about it, and there is a queue watching. You go at him, and it is out of all proportion to a parking space, and you are shaking afterwards.
-question: You want her to keep singing, and she isn't good enough for the audition on Friday. You...
-answerMost: put it so softly that she leaves still planning to audition
-answerHigh: put it at a speed she can take, with nothing sharp in it
-answerMid: say it kindly, and clearly enough to land
-answerLow: give her the plain answer and stop
-answerLeast: warn her flatly that she'd embarrass herself
+seasonalFortune: "A season of jaggery and slow batter — what's left warm overnight comes up on its own, and nobody stands over it."
+fortuneMost: A life run kindly by somebody else is still run by somebody else.
+fortuneHigh: Give them the whole afternoon and none of the answers.
+fortuneMid: The leafcutter ant doesn't eat the leaf it carries. It's feeding the garden it grows underground.
+fortuneLow: Most of what people are proud of, they did on their own.
+fortuneLeast: It's no kindness to save somebody the trouble.
+facetMostTitle: The Truman Bean Show
+facetMost: Your partner has said for three years that they'll go back and finish the degree they dropped out of. Applications shut at midnight last night, so you filled theirs in, wrote the personal statement in their voice, and paid the fee. The offer came in the post this morning. You wait until they're sitting down, then hand them the letter.
+facetMostAction: You wait until they're sitting down, then hand them the letter.
+facetHighTitle: Mr. Holland's Beanus
+facetHigh: Your band has the support slot tonight — three hundred people, the biggest room you've played. The friend who's mixed your sound for free for two years has never worked a desk that size, and he's asked for the night. The venue's own engineer is standing right there and would do it perfectly. You give your friend the desk.
+facetHighAction: You give your friend the desk.
+facetMidTitle: School of Bean
+facetMid: A friend of yours is thirty, never learned to swim, and has cancelled the adult beginners' class at the pool twice already. She asked you to come half an hour early so she wouldn't have to walk in alone. In the shallow end she won't put her face in. You tell her to go under for one second, and nothing else.
+facetMidAction: You tell her to go under for one second, and nothing else.
+facetLowTitle: Whatever Will Bean, Will Bean
+facetLow: Your housemate does the night show on a community radio station and has taken you in with him — the studio, the carts of jingles, the log he fills in every hour. After two he tells you he's been offered the breakfast slot, and asks you to sit down and work it out with him. He's talked himself into it twice already tonight. You tell him he doesn't need you for this one.
+facetLowAction: You tell him he doesn't need you for this one.
+facetLeastTitle: Into the Beanwild
+facetLeast: A friend has handed in his notice at the warehouse and taken a lock-up on the industrial estate to repair bikes out of, with three months' money behind him. Five of you are standing in it with the shutter up and nothing in there yet. One's offering to build him a website, another to keep his books, and they're waiting on you. You tell him you'll be paying full price like everybody else.
+facetLeastAction: You tell him you'll be paying full price like everybody else.
+question: You've got the end wall of the sports hall for the summer and want the mural done before term. A boy of fifteen watches most afternoons, carrying a sketchbook he never opens. The art teacher's in most days; the back wall is bare. You...
+answerMost: put his sketchbook in front of the art teacher without asking him
+answerHigh: give him the back wall and half your paint
+answerMid: show him how the mural was laid out
+answerLow: carry on painting and answer what he asks
+answerLeast: tell him the end wall is yours until term
 rorschachMost: a curled-up woodlouse
 rorschachHigh: a shorn sheep
 rorschachMid: a bread roll
@@ -45,4 +50,4 @@ rorschachLow: a raised mallet
 rorschachLeast: a brick through a window
 ---
 
-Funky Mung Beans are the Bean Zodiac's most gentle. Whatever they have to tell you arrives at a speed you can take, with nothing sharp in it. Sometimes it arrives too gently to register. Being hard-edged, even where it is warranted, they can't.
+Funky Mung Beans are the Bean Zodiac's most fostering. The first time you cooked for eight people they found a reason to be in the other room. The calls have all been made before you know there's anything wrong. Leaving somebody to work it out badly on their own is something they can manage for about an afternoon.

@@ -1,43 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: sour-roasted-kidney
 lastUpdated:
 bean: kidney
 flavour: sour
 form: roasted
-trait: fair
-excess: legalistic
-inverse: unjust
-quote: Injustice anywhere is a threat to bean everywhere.
-creature: ibis
+trait: crusading
+excess: absolutist
+inverse: neutral
+quote: The only thing necessary for the triumph of evil is for good beans to do nothing.
+creature: lapwing
 dish: Roasted kidney beans with chimichurri and pickled red onion.
 friendlyBeans: [mung, cannellini]
 friendlyForm: boiled
 antiTriple: spicy-smoked-edamame
 antiBeans: [fava, green]
 antiForm: dried
-seasonalFortune: "A season of pickled onion and even portions — the roast divides the table without argument."
-fortuneMost: Follow the rule exactly and the fair thing gets lost.
-fortuneHigh: An ibis walks the flood line taking each thing in turn.
-fortuneMid: The rule exists for the awkward cases.
-fortuneLow: Bend it for this one.
-fortuneLeast: Fairness sometimes means breaking the rule.
-facetMostTitle: The Letter of the Bean
-facetMost: Raffle tickets are drawn and the second prize goes to a woman who bought her strip after the table shut. You go and find the sheet with the times written on it, and the prize comes back and is drawn again.
-facetHighTitle: Bean Play
-facetHigh: Your father's tools are being split three ways and the good plane is worth more than the rest of the box put together, and you put the plane into the pile going to your sister, because she is the one who will use it.
-facetMidTitle: ...And Justice for Bean
-facetMid: One boy has been benched all tournament and is not on the last sheet either. You find the coach and ask what he has to do.
-facetLowTitle: Les Beanserables
-facetLow: The tips are meant to go by hours and yours are down, and the girl who counted them is new to it. You take what is in the envelope and get your coat.
-facetLeastTitle: Kangabean Court
-facetLeast: One plant is left and a woman has been holding it since before the queue formed and has gone for her purse, and you take it to the till with the money already in your hand.
-question: The award for the build is being given to the two of you, and most of the drawings were done by the woman who left in March. You...
-answerMost: hold the ceremony up until her name goes on the certificate
-answerHigh: name her from the stage as the one who drew it
-answerMid: mention her when you're asked about the drawings
-answerLow: thank the team she was part of
-answerLeast: take the award as it's given
+seasonalFortune: "A season of chimichurri and placards — the oven door opens and the whole street has to take a side."
+fortuneMost: Refuse every middle ground and you'll have nowhere left to stand.
+fortuneHigh: A lapwing will dive at a fox to defend a nest that isn't its own.
+fortuneMid: Speak up for whoever isn't in the room.
+fortuneLow: You don't have to have an opinion on everything.
+fortuneLeast: The one who takes no side is the one both can still talk to.
+facetMostTitle: Revenge of the Bean
+facetMost: Your band has the biggest gig it's ever been booked for tonight, and this afternoon the venue's owner is all over the news for years of racist posts. He's apologised. The rest of the band want to play and give the fee to charity. You tell them you're not going on.
+facetMostAction: You tell them you're not going on.
+facetHighTitle: Mr. Bean Goes to Washington
+facetHigh: You're giving the student speech at your graduation, in front of eight hundred people and a livestream. This month the university cut the cleaning staff's hours, and the head of the university who signed it off is sitting right behind you. You spend your five minutes on the cleaners.
+facetHighAction: You spend your five minutes on the cleaners.
+facetMidTitle: Norma Bean
+facetMid: At the end-of-season drinks for your weekly football league, you find out the women's teams have been paying twice what your team pays to play. The man who runs the league is at the bar. You go over and ask him why.
+facetMidAction: You go over and ask him why.
+facetLowTitle: Leave It to Bean
+facetLow: It's your partner's birthday and you've booked the chef's table, right beside the kitchen. Twice now the head chef has screamed at the youngest cook until he's shaking. The man at the next table leans over and says somebody ought to say something. You tell him it isn't your kitchen.
+facetLowAction: You tell him it isn't your kitchen.
+facetLeastTitle: Swiss Family Beanson
+facetLeast: Four days into a family holiday in a rented villa, your dad and your sister have stopped speaking over the money he lent her husband. Out by the pool, each of them has taken you aside to ask whose side you're on. You tell them both you're staying out of it.
+facetLeastAction: You tell them both you're staying out of it.
+question: Your favourite café has gone viral for a video of the owner refusing a homeless man a glass of water. By evening she's posted an apology. You...
+answerMost: never go back, and tell anyone who does why
+answerHigh: share the video, with a comment saying what you think
+answerMid: ask her about it next time you're in
+answerLow: leave it to the people who were actually there
+answerLeast: go in for your coffee as usual
 rorschachMost: small print
 rorschachHigh: a halved apple
 rorschachMid: a cut deck
@@ -45,4 +50,4 @@ rorschachLow: a short measure
 rorschachLeast: a loaded dice
 ---
 
-Chimichurri Kidney Beans are the Bean Zodiac's most fair. The bill gets split properly, the credit goes where it is owed, and the person nobody likes still gets heard. The fairness occasionally becomes procedure for its own sake. Quietly letting an injustice stand they cannot manage.
+Chimichurri Kidney Beans are the Bean Zodiac's most crusading. The old man downstairs mentions his eviction notice, and within a week they've got the whole building and the local paper on his side. Occasionally they turn down the landlord's offer of another year on his behalf. Shrugging and saying it's none of their business would feel like switching sides.

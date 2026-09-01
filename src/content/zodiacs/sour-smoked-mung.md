@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: sour-smoked-mung
 lastUpdated: 
 bean: mung
 flavour: sour
 form: smoked
-trait: revealing
+trait: searching
 excess: exposing
-inverse: concealing
-quote: The bean will out.
-creature: cleaner wrasse
+inverse: reassuring
+quote: The bean is out there.
+creature: anteater
 dish: Smoked mung cured with kokum over rice husk.
 friendlyBeans: [kidney, butter]
 friendlyForm: boiled
 antiTriple: spicy-dried-fava
 antiBeans: [edamame, green]
 antiForm: roasted
-seasonalFortune: "A season of kokum and rice husk: the smoke uncovers what the household agreed to ignore."
-fortuneMost: Reveal enough and people learn to guard what they say.
-fortuneHigh: A cleaner wrasse works inside the mouth of a bigger fish.
-fortuneMid: Bringing it into the open helps.
-fortuneLow: Cover for them this once.
-fortuneLeast: Some things stay better hidden.
-facetMostTitle: Bean Exposé
-facetMost: Your friend's shop shut three weeks ago and he has not told his family, because his dad put the eight thousand in to start it. It is his dad's sixtieth, eleven of you at the table. His sister asks how the shop is doing. You tell them what happened.
-facetMostAction: You tell them what happened.
-facetHighTitle: The Bean Reveal
-facetHigh: Since the fall your mum tells everyone she is managing, and the hospital letters stay in the drawer, three appointments missed, because if your brother sees them he will have her out of the house. She made you promise. He is over on Sunday. You put the letters in front of him.
-facetHighAction: You put the letters in front of him.
-facetMidTitle: Bean and Tell
-facetMid: A man in the Tuesday pottery class told you at the break that he never learned to read properly and nobody else there knows, and the tutor has handed out two pages on glazes that everybody else has started on. You ask her to read them out to the room.
-facetMidAction: You ask her to read them out to the room.
-facetLowTitle: Under the Bean
-facetLow: You have been walking the dogs at the shelter long enough to know what goes on a kennel card and what does not. The lurcher has been in eleven months. He had the vet's hand once, held down for a jab, and it is written nowhere. A family at his pen ask what he is like. You hand them the card as it is.
-facetLowAction: You hand them the card as it is.
-facetLeastTitle: Cover-Bean
-facetLeast: Your friend is staying at her mum and dad's since the split, and her ex has left three messages on the house phone about what she took out of the joint account, which her parents know nothing about, and you are in the house first. You delete all three.
-facetLeastAction: You delete all three.
-question: Four of you are in the kitchen and the quiet one has started on his father's drinking, which he's clearly never said out loud. You...
-answerMost: keep him going until it's all out, with the two of them still there
-answerHigh: keep listening the way that got him started
-answerMid: listen, and steer the two of them out of the room
-answerLow: let him finish and change the subject
-answerLeast: talk over him until the moment has gone
+seasonalFortune: "A season of kokum and gentle questions — the rice husk smoke gets into every corner of the house."
+fortuneMost: Ask one question too many and people stop answering.
+fortuneHigh: Ask what's really going on.
+fortuneMid: An anteater takes a little from each mound and leaves the nest standing.
+fortuneLow: Take "I'm fine" at its word.
+fortuneLeast: Sometimes a person just needs to hear it'll be alright.
+facetMostTitle: Northern Beanposure
+facetMost: Your family has hired a boat for your grandparents' sixtieth anniversary, twenty of you out on the deck. Your cousin tells everyone he's quit his job to go travelling. He doesn't look at his mum once while he says it. You ask him, in front of everyone, whether he was fired.
+facetMostAction: You ask him, in front of everyone, whether he was fired.
+facetHighTitle: Grey's Beanatomy
+facetHigh: Your dad has never once rung you for directions, and now he's on the phone asking the best way into the hospital car park. He says it's a routine check-up and he'd rather not make a fuss. You ask him which department it's in.
+facetHighAction: You ask him which department it's in.
+facetMidTitle: Murder, She Beaned
+facetMid: You've driven a friend six hours to the ferry for the island where she's taking a winter job at a café. In the same week she left her flat and her job in the city, and she says she just wanted a change. As the ferry starts boarding, you ask her if something happened that week.
+facetMidAction: As the ferry starts boarding, you ask her if something happened that week.
+facetLowTitle: Don't Beanic
+facetLow: Your housemate is at the last fitting for her wedding dress, and the seamstress is taking it in again, two sizes smaller since the spring. She's laughing, and says it's just nerves. You tell your housemate she looks beautiful.
+facetLowAction: You tell your housemate she looks beautiful.
+facetLeastTitle: You've Got a Bean in Me
+facetLeast: A friend who's just started as a guide at the observatory takes you up to the big telescope after closing. She says she's over her break-up, and that most nights now she sleeps up here on the office couch. She asks if that's weird. You tell her it isn't weird at all.
+facetLeastAction: You tell her it isn't weird at all.
+question: Your fifteen-year-old niece is staying with you for the weekend. She's deleted all her social media, and when you ask about school she says it's fine. You...
+answerMost: ring her school and ask what's going on
+answerHigh: ask her who she sits with at lunch
+answerMid: ask if anything's happened online
+answerLow: suggest a film and leave school out of it
+answerLeast: tell her everyone hates school at fifteen
 rorschachMost: a stripped floorboard
 rorschachHigh: a lifted flap
 rorschachMid: a peeled label
@@ -50,4 +50,4 @@ rorschachLow: a taped-over box
 rorschachLeast: a locked drawer
 ---
 
-Cured Mung Beans are the Bean Zodiac's most revealing. Something in the way they listen means people say the true thing out loud, often for the first time. Sometimes it gets said in front of the wrong people. Helping someone keep a thing buried isn't work they'll take.
+Cured Mung Beans are the Bean Zodiac's most searching. Tell them the week's been okay and they'll ask what you had for dinner, and somehow that's the question that gets it out of you. Occasionally they ask it across a full table. Patting a hand and saying it's probably nothing is not part of their bedside manner.

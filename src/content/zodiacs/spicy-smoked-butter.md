@@ -1,49 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
-# should be sensuous / voluptuary / numb
+# TODO: check all
 slug: spicy-smoked-butter
 lastUpdated:
 bean: butter
 flavour: spicy
 form: smoked
-trait: hushed
-excess: inaudible
-inverse: blaring
-quote: Speak softly and carry a big bean.
-creature: barred owl
+trait: sensuous
+excess: voluptuary
+inverse: numb
+quote: I can resist everything except bean.
+creature: pig
 dish: Butter beans smoked over pecan with chipotle and oregano.
 friendlyBeans: [black, mung]
 friendlyForm: boiled
 antiTriple: sour-roasted-navy
 antiBeans: [pinto, edamame]
 antiForm: fried
-seasonalFortune: "A season of pecan smoke and lowered voices — the tray works below the room's hearing."
-fortuneMost: Said quietly enough, it doesn't count as said.
-fortuneHigh: Drop your voice and watch them lean in.
-fortuneMid: A barred owl takes what it wants without a sound.
-fortuneLow: Say it again, louder.
-fortuneLeast: Make some noise about it!
-facetMostTitle: All Quiet on the Western Bean
-facetMost: Nine of you, and when the waiter gets to you the one next to you says you'll have the set menu as well. You said ten minutes ago that you didn't want it. You say it again, to the tablecloth.
-facetMostAction: You say it again, to the tablecloth.
-facetHighTitle: Beaned Tones
-facetHigh: Forty of you in the room under the stand, all talking over each other about whether the manager goes, and the vote's at the end of it. You're the only one who's seen what the gate money actually was last season. You say the figure at the volume you'd use across a kitchen table.
-facetHighAction: You say the figure at the volume you'd use across a kitchen table.
-facetMidTitle: Sotto Beane
-facetMid: There are four people behind you at the pharmacy counter, and the woman asks what the cream's for. You tell her at a level that reaches her and nobody else.
-facetMidAction: You tell her at a level that reaches her and nobody else.
-facetLowTitle: Full Beanume
-facetLow: Your friend's stepped up on the wrong lane and there's a family four down with a ball already in play. You shout his name across the whole alley, twice.
-facetLowAction: You shout his name across the whole alley, twice.
-facetLeastTitle: Beanaphone
-facetLeast: The station runs on two volunteers and a box of request slips, and they've given you two till four on a Sunday because almost nobody's listening. The man who trained you said to keep it low and easy at that hour. You do the whole two hours at the top of your voice.
-facetLeastAction: You do the whole two hours at the top of your voice.
-question: Your voice has started carrying only as far as whoever you're looking at. You...
-answerMost: look at nobody, and let it go unsaid
-answerHigh: look at the person it's about, and say it
-answerMid: pass it to two people and let them carry it on
-answerLow: go round the table so it reaches everyone
-answerLeast: stand up and turn as you speak so the whole room gets it
+seasonalFortune: "A season of pecan smoke and long lunches — every taste lingers, and nobody hurries the plate."
+fortuneMost: The more you indulge, the less you'll taste.
+fortuneHigh: On a hot day, a pig will find the coolest mud and lie in it all afternoon.
+fortuneMid: Open the good chocolate.
+fortuneLow: Some days a sandwich is just a sandwich.
+fortuneLeast: The bean that can't taste the chilli gets to eat the whole bowl.
+facetMostTitle: Hot Tub Bean Machine
+facetMost: It's the last night of a week in Italy, and you're lying in a hot spring in the dark with two bottles of wine. The flight home can't be changed, and the only train that gets you to the airport in time leaves in forty minutes. You open the second bottle.
+facetMostAction: You open the second bottle.
+facetHighTitle: Beanin' in the Rain
+facetHigh: The heatwave breaks while you're walking to a friend's birthday dinner, and everyone on the street runs for the shop awnings. The rain is warm and the pavement smells of it. You're in a new shirt, with ten minutes still to go. You walk the rest of the way in the rain.
+facetHighAction: You walk the rest of the way in the rain.
+facetMidTitle: Pretty Bean
+facetMid: You've tried on an eight-hundred-dollar cashmere jumper, just to see. The sales assistant is hovering, and you both know you're not buying it. You keep it on while you look around the rest of the shop.
+facetMidAction: You keep it on while you look around the rest of the shop.
+facetLowTitle: Fast & Beanious
+facetLow: A bakery that's been on every food list this year has a two-hour queue, and your friend has stood in it since seven to get you both a croissant. It's still warm when she hands yours over on the street. You finish it in three bites.
+facetLowAction: You finish it in three bites.
+facetLeastTitle: Novocaine for the Bean
+facetLeast: On a tour of a perfume house in the south of France, the perfumer puts one drop of jasmine oil on a paper strip, and says it took eight thousand flowers to make. The rest of the group pass it around in silence. You tell her it smells nice, a bit like soap.
+facetLeastAction: You tell her it smells nice, a bit like soap.
+question: You've spent three weeks walking the coast and sleeping in a tent, and you're finally home, filthy, with the afternoon free. You...
+answerMost: book yourself into a hotel spa for the night
+answerHigh: run a hot bath and lie in it for an hour
+answerMid: have a long shower and put on clean clothes
+answerLow: unpack and start the washing
+answerLeast: put the kettle on, still in your walking clothes
 rorschachMost: a padded door
 rorschachHigh: a muffled drum
 rorschachMid: a closed piano
@@ -51,4 +50,4 @@ rorschachLow: a school bell
 rorschachLeast: a klaxon
 ---
 
-Chipotle Butter Beans are the Bean Zodiac's most hushed. They speak just under the volume of the room, and the room lowers itself to hear. Sometimes it goes so far under that nothing arrives at all. Simply talking over the noise they will not attempt.
+Chipotle Butter Beans are the Bean Zodiac's most sensuous. The first peach of summer gets eaten slowly over the sink, with their eyes shut. Occasionally lunch runs on until the restaurant needs the table back for dinner. Eating something without tasting it is a feat they cannot manage.

@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: redo rorschachs
 slug: sour-boiled-green
 lastUpdated: 
 bean: green
 flavour: sour
 form: boiled
-trait: outspoken
-excess: indiscreet
-inverse: silent
-quote: If you have an important bean to make, don't try to be subtle or clever. Use a pile driver.
-creature: jay
+trait: rousing
+excess: hectoring
+inverse: quiescent
+quote: Once more unto the bean, dear friends.
+creature: wildebeest
 dish: Green beans boiled and dressed hot with vinegar and shallot.
 friendlyBeans: [pinto, chickpea]
 friendlyForm: fried
 antiTriple: bitter-dried-black
 antiBeans: [cannellini, mung]
 antiForm: smoked
-seasonalFortune: "A season of hot vinegar and raised voices; the beans are dressed while still loud."
-fortuneMost: Tell it all and somebody learns what shouldn't have been said.
-fortuneHigh: A jay shouts through the wood when anything moves.
-fortuneMid: The unsaid thing gets said eventually.
-fortuneLow: Keep this one back.
-fortuneLeast: Silence keeps more friends than candour.
-facetMostTitle: Big Beanth
-facetMost: Nine of you are out for your friend's new job and the table's asking her what it's like. You drink with the man who signs off that department's budget, and he told you in September it's being closed in April. Nobody has asked you anything. You tell the table the department's going in April.
-facetMostAction: You tell the table the department's going in April.
-facetHighTitle: Beantwork
-facetHigh: You're reading at your uncle's funeral and the church is full. His widow's put the whole day together, and all morning people have been saying what a father he was to you and your brother. He left when you were nine and came back twice. When you get up, you start with the two visits.
-facetHighAction: When you get up, you start with the two visits.
-facetMidTitle: Beanspeak
-facetMid: Your friend's had a firm in on the back of the house and you're there while they're pouring. The foreman's telling her the crack up the back wall was there before and they'll skim over it. You've watched them dig within a foot of that wall for three days. You tell her, with him stood there, that the crack's new.
-facetMidAction: You tell her, with him stood there, that the crack's new.
-facetLowTitle: The Sound of Beanence
-facetLow: The six of you are being shown round the taxidermist's workshop — the freezer, the order book, the half-finished fox on the bench, the licence framed by the door that covers exactly what she does. One of the group's started on her about whether any of it's legal and won't leave it, and she's gone quiet. You look at the fox.
-facetLowAction: You look at the fox.
-facetLeastTitle: A Quiet Bean
-facetLeast: Four hours on the train with the friend whose wedding is next month, just the two of you, and he's on about the wedding the whole way. Since February she's twice made him cancel on you at an hour's notice, and he hasn't seen his brother since the spring. There won't be another four hours before the day. You talk about the seating plan.
-facetLeastAction: You talk about the seating plan.
-question: Everyone in the office knows the new hours won't work, and the manager has just asked whether anybody has concerns. You...
-answerMost: raise the hours, and Marie's childcare that she told you in confidence
-answerHigh: say plainly that the hours won't work, and why
-answerMid: tell him there are concerns, and leave others to fill them in
-answerLow: keep it for the corridor afterwards
-answerLeast: say nothing, in the room or out of it
+seasonalFortune: "A season of hot vinegar and shallot — it gets everybody up on their feet, and it doesn't ask whether they wanted to be."
+fortuneMost: Keep calling them on and one day you'll look back at nobody.
+fortuneHigh: One wildebeest goes into the river and the whole herd follows it in.
+fortuneMid: Most evenings need one person to say the first thing.
+fortuneLow: Stay in your seat and see what happens.
+fortuneLeast: There's no shame in letting a thing quietly end.
+facetMostTitle: Beanful Metal Jacket
+facetMost: You're directing your amateur company's play and the dress rehearsal has gone past eleven, with the third act falling apart twice. The cast have been in the hall since six, it opens tomorrow, and two of them have work in the morning and have got their coats on. You tell them nobody's leaving until the third act is right.
+facetMostAction: You tell them nobody's leaving until the third act is right.
+facetHighTitle: The Show Must Go Bean
+facetHigh: You've flown out two days early for a friend's wedding and the barn it's booked in has flooded. Sixty people are coming and there is no other room booked. The couple have gone up to their room and haven't come down, and everyone else is sat in the hotel lobby saying that's that. You get up and start ringing everywhere within an hour of here that could hold sixty.
+facetHighAction: You get up and start ringing everywhere within an hour of here that could hold sixty.
+facetMidTitle: Cool Beanings
+facetMid: Your housemate has to be out by six, when the new tenants get the keys, and the van is booked until then. Six people said they'd help, and by two o'clock everyone is sat on the floor round the pizza boxes with nothing gone into the van for forty minutes. You get up and tell each of them which room they're doing.
+facetMidAction: You get up and tell each of them which room they're doing.
+facetLowTitle: Withnail and Bean
+facetLow: It's the last day of a week in a rented cottage with five friends, and the coast was the whole reason you all came. It has rained since breakfast, it's four o'clock, and everyone is asleep or on their phone. The tide is out at six and won't be again while you're here, and there's a stack of films by the television nobody has touched all week. You tell them there's no point going now and put one on.
+facetLowAction: You tell them there's no point going now and put one on.
+facetLeastTitle: The Last Bean Show
+facetLeast: The five of you have gone away together for a weekend every year since school, and you have booked it the last six years. Two dropped out this time, the date went past in June without anybody naming a new one, and nobody has mentioned it since. Over coffee your friend asks whether you're going to sort something. You tell her you think it's run its course.
+facetLeastAction: You tell her you think it's run its course.
+question: You want to see the season out. Your five-a-side team has lost eight in a row, two of the regulars have stopped turning up, and if you're short again on Thursday it's a forfeit and you go down. You...
+answerMost: ring round everybody you know until you have eight names for Thursday
+answerHigh: get the two who stopped coming out for a coffee and ask them straight
+answerMid: put a time in the group and turn up whether anybody else does or not
+answerLow: find one more player for Thursday
+answerLeast: tell them to take the forfeit
 rorschachMost: a town crier
 rorschachHigh: a hand bell
 rorschachMid: a cloud dropping rain
@@ -50,4 +50,4 @@ rorschachLow: a finger to the lips
 rorschachLeast: a sealed envelope
 ---
 
-Brined Green Beans are the Bean Zodiac's most outspoken. They say the thing the whole meeting was thinking, out loud, first, and the room exhales. Sometimes it was somebody's private news to tell. Sitting on an opinion until a better moment has never once worked for them.
+Brined Green Beans are the Bean Zodiac's most rousing. Nobody has moved for an hour, then they say the six o'clock is the last one worth getting, and eleven people are on their feet. The two who had already said no get the speech as well. Letting a flat afternoon stay flat is not something they can sit through.

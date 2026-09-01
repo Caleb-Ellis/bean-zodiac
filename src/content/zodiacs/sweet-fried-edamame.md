@@ -1,43 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: sweet-fried-edamame
 lastUpdated:
 bean: edamame
 flavour: sweet
 form: fried
-trait: motivated
-excess: compulsive
-inverse: unmotivated
-quote: The secret of getting ahead is getting beaned.
-creature: racehorse
+trait: accommodating
+excess: capitulating
+inverse: self-directed
+quote: Be water, my bean.
+creature: flounder
 dish: Edamame fried and glazed with mirin caramel.
 friendlyBeans: [fava, green]
 friendlyForm: dried
 antiTriple: umami-smoked-mung
 antiBeans: [butter, black]
 antiForm: fermented
-seasonalFortune: "A season of mirin caramel and forward drive: the pan finishes what it began."
-fortuneMost: A racehorse runs itself into the ground for a rosette.
-fortuneHigh: Do the dull one first.
-fortuneMid: Momentum is easier to keep than to start.
-fortuneLow: An empty day loses nothing.
-fortuneLeast: Something set down for a year isn't failed.
-facetMostTitle: As Good as It Beans
-facetMost: The knee has been bad three weeks and the physio has said to stop. You have run every day of those three weeks. You will run tomorrow, and you have started looking up what else you could be doing while the knee heals.
-facetHighTitle: The Pursuit of Beaniness
-facetHigh: The class is right across town and it finishes at ten at night, and you have gone every single week since it started without once missing one.
-facetMidTitle: Get Up and Bean
-facetMid: Given twenty minutes at the end of a long day, you sit down to the language exercises, and you have now done them four hundred days running without a single gap.
-facetLowTitle: Can't Be Beanthered
-facetLow: That loft has been half converted a year and the boards are up there waiting. You will get to it.
-facetLeastTitle: I Don't Feel Like Beancing
-facetLeast: The novel is ninety pages in and the file has not been opened in fourteen months. Somebody asks how it is going. You say fine, and you both know that file will not be opened again.
-question: The club's website hasn't been touched since 2019 — old fixtures, a dead phone number — and nobody has asked you to fix it. You...
-answerMost: have it live by Sunday, and take on the fixtures page that same night
-answerHigh: start that evening and keep at it until it's live
-answerMid: give it an hour each Sunday until it's done
-answerLow: mention the dead number to the secretary and leave it with him
-answerLeast: leave the site as it is
+seasonalFortune: "A season of mirin and caramel — the glaze goes wherever it is poured, and thins where it is spread furthest."
+fortuneMost: A flounder will match a chessboard if you put one under it.
+fortuneHigh: Change the plan. It was only a plan.
+fortuneMid: Shift the time by an hour and it's solved.
+fortuneLow: An evening already promised is not free.
+fortuneLeast: The pan is hot before anybody has said what they want.
+facetMostTitle: Give Beans a Chance
+facetMost: You and a friend have run the market stall for three years — the recipes were yours and the hours were hers. She has found somebody who'll put money in, on the condition that it becomes her name over the pitch and you come off the lease. She says it's that or it folds. You sign your half over.
+facetMostAction: You sign your half over.
+facetHighTitle: Whatever It Beans
+facetHigh: Three of you are two days into a four-day coast path walk, with the last two huts paid for and not refundable. One of them has gone over on her ankle and can manage about half a day's distance. You cut the days in half and write off the last two huts.
+facetHighAction: You cut the days in half and write off the last two huts.
+facetMidTitle: Beanything Goes
+facetMid: You've been trying to get a table at this place for a year, and the booking is for your partner's birthday at seven, two hours only. You arrive and they ask whether you'd mind the two stools at the bar instead, because a party of eight has run over on your table. You take the stools.
+facetMidAction: You take the stools.
+facetLowTitle: Not Without My Bean
+facetLow: The community darkroom opens one night a week — six people, two enlargers, and an hour each off the sign-up sheet. A man printing for a competition has run out of time and wants to swap into your hour, which is the only hour you get. You tell him you're keeping it.
+facetLowAction: You tell him you're keeping it.
+facetLeastTitle: I Did It My Bean
+facetLeast: You've carried the design around for eighteen months and today is the appointment. The tattooist says she'd do it smaller and simpler, and the friend who came with you says she's probably right. You ask her to do the one you brought.
+facetLeastAction: You ask her to do the one you brought.
+question: You've been building up all summer to swim the length of the lake, and there are two weekends of the season left. The two friends who said they'd come now want to do the island walk instead, on the same day. You...
+answerMost: do the island with them, and say nothing about the swim
+answerHigh: move it to the last weekend
+answerMid: swim in the morning and meet them after
+answerLow: swim it on your own
+answerLeast: tell them the swim is that day
 rorschachMost: a hamster wheel
 rorschachHigh: a sprinter's blocks
 rorschachMid: a harnessed horse
@@ -45,4 +50,4 @@ rorschachLow: a shed bike
 rorschachLeast: a leaning spade
 ---
 
-Caramelised Edamame are the Bean Zodiac's most motivated. They actually start on the first Monday, and by March the thing is real and running. Sometimes no version of resting stops feeling like failing. Simply not wanting to do anything is unfamiliar to them.
+Caramelised Edamame are the Bean Zodiac's most accommodating. Mention that you can't manage the stairs and they have swapped rooms with you before you've finished the sentence. The thing that gets moved is often the one they wanted. Naming a date and leaving it where it is has never once occurred to them.

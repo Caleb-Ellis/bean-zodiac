@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: spicy-dried-butter
 lastUpdated: 
 bean: butter
 flavour: spicy
 form: dried
-trait: taut
-excess: brittle
-inverse: slack
-quote: Still waters bean deep.
-creature: whip snake
+trait: thick-skinned
+excess: stonewalling
+inverse: thin-skinned
+quote: Sticks and stones may break my beans, but words will never hurt me.
+creature: honey badger
 dish: Dried butter beans with chilli flake and numbing pepper oil.
 friendlyBeans: [black, kidney]
 friendlyForm: boiled
 antiTriple: sour-fried-chickpea
 antiBeans: [pinto, adzuki]
 antiForm: roasted
-seasonalFortune: "A season of numbing oil and drawn wire — the pantry holds tension it cannot release."
-fortuneMost: Anything held tight enough snaps at the smallest thing.
-fortuneHigh: A whip snake strikes before the eye can follow.
-fortuneMid: Small things stack up faster than big ones.
-fortuneLow: You can let this one slip.
-fortuneLeast: Slack rope doesn't snap.
-facetMostTitle: Beaning Point
-facetMost: You have not raised your voice once in nine weeks of your mum's appointments, the money, and the flat that has to be cleared by the end of the month. At the self-checkout the machine will not take the coupon and asks you to wait for assistance for the third time. You walk out of the shop.
-facetMostAction: You walk out of the shop.
-facetHighTitle: Tightbean
-facetHigh: You have done the every-other-night with your dad since August and you have not slept through since. Your aunt has offered to take Thursdays, and she would do it, and he would wake up to somebody who does not know the order he wants things in. Nobody would think less of you for taking it. You keep Thursdays.
-facetHighAction: You keep Thursdays.
-facetMidTitle: Bean on a Wire
-facetMid: The man running it explains the salt, and that there is no clock in there, and that the whole point is to stop keeping track of the hour; it is your hour and nobody is waiting on you. You ask him to knock on at the hour.
-facetMidAction: You ask him to knock on at the hour.
-facetLowTitle: Loose Beans
-facetLow: You have made the cake for every birthday in the family for six years and your cousin's is at the weekend, and this week has been what it has been; there is one in the window with the right number of candles in a box beside it. You buy it.
-facetLowAction: You buy it.
-facetLeastTitle: Limp Beankit
-facetLeast: Six years you have run the book for this company — the cues, the get-out, the van booked for eleven, the set down in the order it has to come down in. The new one is doing tonight's and has the flats going out before the lighting rig, which is wrong, and it is working. You hand her the book with an hour of it left.
-facetLeastAction: You hand her the book with an hour of it left.
-question: Third week of covering two jobs, and now the printer has jammed. You...
-answerMost: clear it without a word and set the tray down very carefully
-answerHigh: clear it and carry on, holding it together
-answerMid: swear once, clear it, get back to it
-answerLow: leave it for somebody else
-answerLeast: leave it jammed and go for a proper lunch
+seasonalFortune: "A season of numbing pepper and sharp tongues — the heat arrives, and the bean doesn't feel a thing."
+fortuneMost: Shrug everything off and soon nobody will tell you anything.
+fortuneHigh: The honey badger raids the hive and doesn't mind the stings.
+fortuneMid: Whoever said it has already forgotten it.
+fortuneLow: You're allowed to mind.
+fortuneLeast: The soft bean is the bean that takes the flavour.
+facetMostTitle: Couples Beantreat
+facetMost: Your partner asked for couples counselling, and in the first session they tell the counsellor you've stopped asking about their day, they've started to feel lonely, and they're not sure they want to stay. The counsellor turns to you and asks what you make of that. You tell her you don't have anything to say.
+facetMostAction: You tell her you don't have anything to say.
+facetHighTitle: Beanily in Paris
+facetHigh: You've spent a year learning French for this trip, and at a bakery in Paris you ask for two croissants in your best accent. The woman behind the counter laughs, does your accent back for the queue, and answers in English. You ask for a baguette as well, in French.
+facetHighAction: You ask for a baguette as well, in French.
+facetMidTitle: The Thick of Bean
+facetMid: A friend filmed you dancing on your own in front of the stage at a festival, and it's been watched two million times. The top comment says you look like you're being tasered. She messages to ask if you want her to take it down. You tell her to leave it up.
+facetMidAction: You tell her to leave it up.
+facetLowTitle: Beanerton
+facetLow: You're an extra on a period drama, and you've spent the morning in the holding tent chatting to another extra. In the costume trailer the designer looks you over, says you've got a very modern face, and puts you at the back of the ballroom scene. You ask the other extra whether she thinks your face looks modern.
+facetLowAction: You ask the other extra whether she thinks your face looks modern.
+facetLeastTitle: Crazy Rich Beans
+facetLeast: Your friend's family has you over to make dumplings for Lunar New Year, eight of you around the kitchen table. Her mother picks up the first one you've folded, unpicks it, and refolds it without a word. She's done the same to two of your friend's already. You leave the rest of the folding to the others.
+facetLeastAction: You leave the rest of the folding to the others.
+question: You've wanted to learn to surf for years. On your first lesson, the instructor shouts across the water, in front of the whole group, that you paddle like a dog in a bath. You...
+answerMost: give him a thumbs up and paddle on the same way
+answerHigh: laugh and bark back at him
+answerMid: ask him to show you how to paddle
+answerLow: keep to the back of the group, away from him
+answerLeast: hand your board back
 rorschachMost: an overwound spring
 rorschachHigh: a drawn bow
 rorschachMid: a clenched jaw
@@ -50,4 +50,4 @@ rorschachLow: a bowed bough
 rorschachLeast: a shed snakeskin
 ---
 
-Sichuan Butter Beans are the Bean Zodiac's most taut. They hold the line all week, hitting every mark, and the strain shows only in how carefully they set the glass down. Something eventually snaps. Being genuinely loose about anything is a state they cannot find.
+Sichuan Butter Beans are the Bean Zodiac's most thick-skinned. Their sister can go through everything wrong with their new flat, and they'll point out the damp she missed. Sometimes the complaint that really needed hearing bounces off too. Replaying a passing remark at two in the morning is a habit they never picked up.

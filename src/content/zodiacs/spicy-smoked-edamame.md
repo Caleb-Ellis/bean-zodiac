@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: spicy-smoked-edamame
 lastUpdated:
 bean: edamame
 flavour: spicy
 form: smoked
-trait: feisty
-excess: scrappy
+trait: chafing
+excess: mutinous
 inverse: docile
-quote: Cry 'Havoc!' and let slip the beans of war.
-creature: wolverine
+quote: Well-behaved beans seldom make history.
+creature: raccoon
 dish: Edamame in the pod with chipotle salt and mesquite smoke.
 friendlyBeans: [cannellini, fava]
 friendlyForm: dried
 antiTriple: umami-boiled-mung
 antiBeans: [butter, adzuki]
 antiForm: roasted
-seasonalFortune: "A season of chipotle salt and small fights: the pod punches above its measured weight."
-fortuneMost: A wolverine takes a kill off a bear and heals for a week.
-fortuneHigh: Go in first and small, before it grows a committee.
-fortuneMid: Size settles fewer arguments than people expect.
-fortuneLow: Pay the small unfair thing and keep the day.
-fortuneLeast: Some fights cost more than they return.
-facetMostTitle: Beany-Doo
-facetMost: The sign on the forecourt says one thing and the pump has charged you four pence a litre more, which comes to about two pounds. You have already had the man out to look at the sign and there are three cars waiting behind you. You ask for his manager.
-facetMostAction: You ask for his manager.
-facetHighTitle: Whip It Bean
-facetHigh: The last train is cancelled and two hundred people on the platform are being told to come back in the morning. Once they scatter there is nobody left to lay anything on for. The man with the radio is walking away. You get in front of him and ask him to ring for a bus.
-facetHighAction: You get in front of him and ask him to ring for a bus.
-facetMidTitle: Beanderdog
-facetMid: Two people who came in after you have been called through and the woman on the desk is not looking up, and you have been here fifty minutes with an appointment time on your phone. You go up and say so, once.
-facetMidAction: You go up and say so, once.
-facetLowTitle: Bean to the Slaughter
-facetLow: The pitches are numbered and the steward with the radio says he can move the tent that is on yours, but the two people in it have been asleep since ten. You take the one he offers you at the far end by the bins.
-facetLowAction: You take the one he offers you at the far end by the bins.
-facetLeastTitle: Bean and Mild
-facetLeast: The thing that got them out of trouble last month was yours, and the man from head office is being told it was somebody else's, with you standing there. The one being thanked knows exactly whose it was. You agree that it was a good bit of work.
-facetLeastAction: You agree that it was a good bit of work.
-question: Your builder has an answer for everything — the damp, the timetable, the price — and you're the last one in the room still not satisfied. You...
-answerMost: take up the paint colour as well, which nobody minds either way
-answerHigh: put your objection again in different words, and stay on it
-answerMid: hold him to the timetable and drop the rest
-answerLow: say your bit once
-answerLeast: let it go and leave him to it
+seasonalFortune: "A season of mesquite smoke and muttered objections — the pod strains at its seams, and something gives."
+fortuneMost: Mutineers still have to sail the ship.
+fortuneHigh: Don't accept 'because I said so' as an answer.
+fortuneMid: A raccoon will spend all night on a latch it was never meant to open.
+fortuneLow: Most rules are there for a reason.
+fortuneLeast: The sheep that follows the fence never gets lost.
+facetMostTitle: The Bean Mutiny
+facetMost: You're three weeks into a season picking grapes in France with eleven other pickers. At breakfast the farm manager says phones stay in the van from now on, because somebody dropped one in the press, and anyone caught with one is sent home. You get the others to take theirs out into the rows anyway.
+facetMostAction: You get the others to take theirs out into the rows anyway.
+facetHighTitle: The Great Beanscape
+facetHigh: You've been in hospital two nights with a broken ankle, and you're desperate for a proper coffee. The nurse says you can't go down to the café in a wheelchair without a porter, and there won't be one free for two hours. You wheel yourself to the lift.
+facetHighAction: You wheel yourself to the lift.
+facetMidTitle: Pirates of the Beanibbean
+facetMid: It's nearly closing time at the pool, and there are four people in the water. The lifeguard has blown her whistle at you twice for swimming across the lanes instead of along them. You ask her what difference it makes.
+facetMidAction: You ask her what difference it makes.
+facetLowTitle: Beanagascar
+facetLow: On a behind-the-scenes tour at the zoo, the keeper hands out lettuce for the giraffes and asks everyone to wait until she's finished explaining how they feed. Three people are already holding theirs out, and a giraffe has leaned right over the rail. You keep your lettuce in the bag until she's done.
+facetLowAction: You keep your lettuce in the bag until she's done.
+facetLeastTitle: Yes Bean
+facetLeast: You're in the audience for a TV quiz show, and the host's walk-on has gone wrong eight times. Each time, the floor manager asks everyone to cheer like they're seeing him for the first time, and most people have stopped bothering. On the ninth take, you cheer as loud as you did on the first.
+facetLeastAction: On the ninth take, you cheer as loud as you did on the first.
+question: You've signed up for a pottery class because you want to use the wheel. On the first night the teacher says nobody touches a wheel until week four, and hands out lumps of clay. You...
+answerMost: talk the rest of the class into starting on the wheels
+answerHigh: come in early next week and try one before she arrives
+answerMid: ask her what's wrong with starting now
+answerLow: make a pinch pot like everyone else
+answerLeast: tell her week four sounds sensible
 rorschachMost: a gamecock
 rorschachHigh: a bristling terrier
 rorschachMid: a thistle
@@ -50,4 +50,4 @@ rorschachLow: a sleepy lamb
 rorschachLeast: a doormat
 ---
 
-Chipotle Edamame are the Bean Zodiac's most feisty. Half the size of the argument and still in it at the end, having won the part that mattered. Occasionally the fight was optional and taken anyway. Backing down quietly for the sake of the evening, they won't.
+Chipotle Edamame are the Bean Zodiac's most chafing. Tell them the parking permit form has to be posted, not emailed, and they'll ask who decided that, then email it anyway. Before long the neighbours are emailing theirs as well. Doing a thing just because they were told to has never sat well with them.

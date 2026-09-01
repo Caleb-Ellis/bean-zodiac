@@ -1,43 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: sweet-smoked-cannellini
 lastUpdated: 
 bean: cannellini
 flavour: sweet
 form: smoked
 trait: delicate
-excess: wispy
-inverse: heavy-handed
-quote: The most beautiful things in the world cannot be seen or bean — they must be felt with the heart.
-creature: dragonfly
+excess: dainty
+inverse: robust
+quote: Tread softly because you tread on my beans.
+creature: pond skater
 dish: Cannellini smoked with honey over apple wood.
 friendlyBeans: [edamame, black]
 friendlyForm: dried
 antiTriple: spicy-roasted-green
 antiBeans: [pinto, adzuki]
 antiForm: fried
-seasonalFortune: "A season of honey and apple wood: the smoke is barely there and entirely necessary."
-fortuneMost: A dragonfly is mostly light and gone before you've looked.
-fortuneHigh: Stop one stroke early.
-fortuneMid: Light hands leave the fewest marks.
-fortuneLow: Say it at full weight.
-fortuneLeast: Blunt is easy to understand.
-facetMostTitle: Bean-o'-the-Wisp
-facetMost: The page is a hundredth of an inch of nothing and the tear runs across the illumination. You work at it with a brush of three hairs, in a room where nobody may walk past behind you. Four days for eleven millimetres.
-facetHighTitle: Beanelicate
-facetHigh: The soufflé is at the point where the oven door either opens or it does not, and the table is waiting. You leave it shut.
-facetMidTitle: Fine Bean China
-facetMid: You find a sentence to say to her about her mother that does not ask her to say anything back, and then you say nothing else for a while.
-facetLowTitle: Beany-Handed
-facetLow: That lid has been on the jar since before either of you was born. Two hands, a tea towel, and it comes off — along with a good bit of the rim.
-facetLeastTitle: Ham-Beaned
-facetLeast: The wall has to come down and there is a right way with a bolster and a wrong way with the big hammer. The big hammer is already in your hands.
-question: Your sister's husband has been off work three months and nobody in the family will name it. You...
-answerMost: raise it so gently that nobody realises you raised it
-answerHigh: put it lightly enough that it actually gets talked about
-answerMid: ask her how he is, and mean it
-answerLow: ask her straight out what's going on with him
-answerLeast: say at dinner that somebody in this family has to talk about it
+seasonalFortune: "A season of honey and apple wood — the year works at the lightest weight that will do, and some of it lands too light."
+fortuneMost: Handle a thing gently enough and it never gets handled.
+fortuneHigh: The pond skater crosses the whole pond and never once breaks the surface.
+fortuneMid: Use less than you think it needs.
+fortuneLow: Most things are sturdier than they look.
+fortuneLeast: The bread that gets kneaded hard is the bread that rises.
+facetMostTitle: The Princess and the Bean
+facetMost: Your friend's grandmother's piano has to come down two flights, and the van driver says he's leaving in twenty minutes. You have half of it wrapped in felt. The other three want the bannister off and the piano tipped onto the trolley. You send someone back up for more felt.
+facetMostAction: You send someone back up for more felt.
+facetHighTitle: The Hurt Beancker
+facetHigh: Your friend has stopped, in the side room of the glasshouse where she's getting married in ten minutes. Her mother is telling her to pull herself together, and the registrar has another booking at three. You ask her if she wants five minutes outside first.
+facetHighAction: You ask her if she wants five minutes outside first.
+facetMidTitle: The Horse Beanperer
+facetMid: Your friend's hand has swollen in the heat and she can't get her ring off — her mother's, and her finger is red above it. The two others at the table are telling her to yank it. You go and get soap and a bag of ice.
+facetMidAction: You go and get soap and a bag of ice.
+facetLowTitle: Three Men and a Bean
+facetLow: Your friend's baby is three days old, and the five of you in her front room have been handing him back and forth like he's made of glass. She holds him out to you. You take him one-armed against your shoulder.
+facetLowAction: You take him one-armed against your shoulder.
+facetLeastTitle: Demolition Bean
+facetLeast: Last night of the play your friend's in, and the set goes in the skip tonight — the carved oak fireplace is ply and paint. The stage manager hands you a claw hammer. The two beside you are unscrewing it to keep the panels. You put the hammer through the middle of the fireplace.
+facetLeastAction: You put the hammer through the middle of the fireplace.
+question: A swan up on the bank of the boating lake has fishing line wound round its leg, cutting in. It has let you get within a metre of it and it hasn't moved. You...
+answerMost: stay exactly where you are
+answerHigh: get your coat over its head, then the line
+answerMid: work the line off its leg
+answerLow: hold its neck and unwind the line
+answerLeast: pull the line off with your knee across it
 rorschachMost: a cobweb
 rorschachHigh: a moth
 rorschachMid: a teacup and saucer
@@ -45,4 +50,4 @@ rorschachLow: a clenched fist
 rorschachLeast: a lump hammer
 ---
 
-Barbecued Cannellini Beans are the Bean Zodiac's most delicate. They handle the difficult subject so lightly that it gets discussed at all, which nobody expected. Sometimes it is so light it drifts off. Bearing down on purpose is a tool they won't pick up.
+Barbecued Cannellini Beans are the Bean Zodiac's most delicate. They can get a splinter of glass out of your foot without you noticing they've started. The wrapping can take longer than the journey. Getting both hands round something and just shifting it is not how they were built.

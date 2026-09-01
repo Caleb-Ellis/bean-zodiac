@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: sweet-dried-black
 lastUpdated: 
 bean: black
 flavour: sweet
 form: dried
-trait: abiding
-excess: immutable
+trait: imperishable
+excess: petrified
 inverse: fleeting
-quote: The Bean abides.
-creature: tortoise
+quote: The more things change, the more they bean the same.
+creature: coelacanth
 dish: Black bean brittle with brown sugar and cinnamon.
 friendlyBeans: [edamame, navy]
 friendlyForm: boiled
 antiTriple: spicy-roasted-chickpea
 antiBeans: [pinto, mung]
 antiForm: fried
-seasonalFortune: "A season of brittle and brown sugar: what sets here does not unset."
-fortuneMost: A view that never changes stops being a view.
-fortuneHigh: A tortoise outlives everybody who fed it.
-fortuneMid: Old friendships need less upkeep than people think.
-fortuneLow: Let one thing end properly.
-fortuneLeast: Short things can be complete.
-facetMostTitle: Beans Are Forever
-facetMost: Since school the four of you have had it that whoever is nearest goes, whatever has happened and whatever time of night. He has three under five now and has asked to be taken off. You tell him he stays on it.
-facetMostAction: You tell him he stays on it.
-facetHighTitle: Abide With Bean
-facetHigh: His sister is going round the room asking what he would have wanted played, and nobody can agree. You and he were inseparable until you were twenty-two and then did not speak for eleven years. The order of service goes to the printer tonight. You tell her which song, and that he told you at twenty.
-facetHighAction: You tell her which song, and that he told you at twenty.
-facetMidTitle: Here to Bean
-facetMid: You shared a flat with her for two years and have not seen her since, and now she is three seats up on the same bus with four stops to go — her brother lost two fingers in a machine that winter. You ask her how his hand ended up.
-facetMidAction: You ask her how his hand ended up.
-facetLowTitle: Beans in the Wind
-facetLow: The guide takes the ten of you off the public route and shows you how the bones were stacked down there and which families paid for the privilege. You spend the whole two hours talking to the woman next to you, and at the top she gets her phone out to swap numbers. You say it has been a very good two hours.
-facetLowAction: You say it has been a very good two hours.
-facetLeastTitle: Bean Too Soon
-facetLeast: The box in the loft is ten years of one friendship — the photographs, the birthday cards, the programme from the play you were both in — and it ended without a row and you have not thought about her in a long time. You put the box in the car for the tip.
-facetLeastAction: You put the box in the car for the tip.
-question: Someone you were close to fifteen years ago messages you out of nowhere. You...
-answerMost: answer as though it's still then, and put a standing arrangement in
-answerHigh: pick up properly, where the two of you left off
-answerMid: reply, and let it find its own level
-answerLow: send something warm and leave it at the one exchange
-answerLeast: leave it — that was a different life
+seasonalFortune: "A season of brown sugar and cinnamon set hard — what's poured now keeps for years, and won't bend."
+fortuneMost: The coelacanth kept the same shape for four hundred million years, and nobody knew it was still there.
+fortuneHigh: Pick up where you left off.
+fortuneMid: The old coat still keeps the rain out.
+fortuneLow: Enjoy it while it lasts.
+fortuneLeast: Brittle's best the day it's made.
+facetMostTitle: Sunset Beanlevard
+facetMost: At sixteen you and five friends buried a time capsule at the edge of the school field, to be dug up when you all turned thirty. You're twenty-six now. The school is building a sports hall over that corner, and the builders have offered to dig it up this week, before the concrete goes down for good. The other five want it opened now. You tell them it stays in the ground until you're thirty.
+facetMostAction: You tell them it stays in the ground until you're thirty.
+facetHighTitle: P.S. I Love Bean
+facetHigh: Since you were eleven you've been writing letters to a pen pal in Japan your school paired you with, and twenty years on you're finally in Tokyo on holiday. She lives four hours away by train, with a new baby, and says she understands if it's too far. You've got five days. You book the train to her town.
+facetHighAction: You book the train to her town.
+facetMidTitle: Hello, It's Bean
+facetMid: Your phone is out of storage the night before a long trip. The biggest thing on it is four years of voice notes from the friend you shared your first flat with, most of them her singing badly on the walk home. You delete four hundred of your holiday photos instead.
+facetMidAction: You delete four hundred of your holiday photos instead.
+facetLowTitle: Castles Made of Bean
+facetLow: Four monks have spent eleven days making a sand mandala on the floor of the museum's main hall, and at noon they sweep it up to pour into the river. Everyone around the rope has their phone out. You put your phone in your pocket and watch them sweep the mandala up.
+facetLowAction: You put your phone in your pocket and watch them sweep the mandala up.
+facetLeastTitle: Beaning on a Jet Plane
+facetLeast: You've spent a week at a monastery in the mountains, mostly in silence, and it's the best week you've had in years. On your last morning the monk who runs the guesthouse shows you the visitors' book, where some people have signed for the same week every year for thirty years. He offers you that week for as long as you want it. You tell him you won't be coming back.
+facetLeastAction: You tell him you won't be coming back.
+question: What do you still have from when you were ten?
+answerMost: the same haircut
+answerHigh: your best friend from that year
+answerMid: a teddy with most of its fur gone
+answerLow: a photo or two, somewhere in a box
+answerLeast: nothing, and you don't miss any of it
 rorschachMost: a mountain
 rorschachHigh: a haystack
 rorschachMid: a worn doorstep
@@ -50,4 +50,4 @@ rorschachLow: a sandcastle
 rorschachLeast: a footprint
 ---
 
-Crystallised Black Beans are the Bean Zodiac's most abiding. The friendship survives a decade of no contact and picks up mid-sentence. Sometimes nothing is ever allowed to end properly. Letting something be brief and complete is not how they hold things.
+Crystallised Black Beans are the Bean Zodiac's most imperishable. The friend they made at nine still gets a call from them every Sunday, twenty-five years later. The posters in their old bedroom are still up, by request. A friendship that ends at the airport is not the kind they keep.

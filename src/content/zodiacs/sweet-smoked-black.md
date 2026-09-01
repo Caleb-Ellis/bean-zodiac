@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: sweet-smoked-black
 lastUpdated: 
 bean: black
 flavour: sweet
 form: smoked
-trait: mystical
-excess: occult
-inverse: rationalist
-quote: There are more things in bean and earth, Horatio.
-creature: qilin
+trait: benign
+excess: complaisant
+inverse: appraising
+quote: Let he who is without sin cast the first bean.
+creature: manta ray
 dish: Smoked black beans in sweet molasses barbecue sauce.
 friendlyBeans: [navy, cannellini]
 friendlyForm: fermented
 antiTriple: spicy-fried-adzuki
 antiBeans: [chickpea, pinto]
 antiForm: roasted
-seasonalFortune: "A season of molasses and slow smoke: the sauce arrives from a recipe nobody wrote down."
-fortuneMost: Explain nothing and people invent the explanation.
-fortuneHigh: A qilin appears once in a reign and explains nothing.
-fortuneMid: Odd feelings are worth listening to.
-fortuneLow: Ask what the actual evidence is.
-fortuneLeast: Most mysteries have dull answers.
-facetMostTitle: Rosemary's Beany
-facetMost: Your grandad has hours left and the family are doing it in turns, and your aunt has come in at midnight to take over and is telling you to go home and sleep before the drive back. Three nights running you have dreamt the same thing — that he goes at first light, and that somebody has to be with him when he does. You send her home.
-facetMostAction: You send her home.
-facetHighTitle: Mystic Beanver
-facetHigh: You are round the park lake with your friend and she has the two letters out on the bench — nursing places, one in Carlisle and one twenty minutes from her mum, deposit due this week. She asks you which. You had the feeling about Carlisle the first time she said the name. You tell her Carlisle, and that you knew as soon as she said it.
-facetHighAction: You tell her Carlisle, and that you knew as soon as she said it.
-facetMidTitle: The Third Bean
-facetMid: On the ghost walk the guide takes the twelve of you down the steps behind the pub into the cellar, which he says is the oldest thing on the street, and does the bit with the lantern out. Afterwards a girl of about nine asks you whether any of that was true. You tell her the cellar was cold in a way the street was not.
-facetMidAction: You tell her the cellar was cold in a way the street was not.
-facetLowTitle: The Age of Beanson
-facetLow: Your gran presses a St Christopher into your hand at the door and tells you to keep it on you for the interview — her father's, and it saw him through the war. You put the medal in the drawer with the batteries.
-facetLowAction: You put the medal in the drawer with the batteries.
-facetLeastTitle: Cold, Bean Facts
-facetLeast: You are sharing a taxi back from her dad's house and your friend tells you the clock in his hall stopped the week he died and still says twenty past four, and she cannot get it going. You put it down to the oil going hard.
-facetLeastAction: You put it down to the oil going hard.
-question: You'd been thinking about someone you haven't seen in years, and that afternoon two different people mention their name. What is that?
-answerMost: a sign, and you act on it before the day is out
-answerHigh: worth taking seriously — you ring them
-answerMid: worth noticing, and you let it sit with you
-answerLow: a coincidence, and you get on with the day
-answerLeast: roughly what chance would predict anyway
+seasonalFortune: "A season of molasses and low smoke — nothing arrives with an edge on it, and the year asks nobody to account for themselves."
+fortuneMost: Nobody asks twice whether the easy one minds.
+fortuneHigh: Assume they meant nothing by it.
+fortuneMid: The manta ray has no sting in its tail. It passes over and keeps going.
+fortuneLow: Watch how someone treats the person serving them.
+fortuneLeast: A sweet sauce can cover a cheap cut.
+facetMostTitle: Say Yes to the Bean
+facetMost: You've brought your grandmother's last letter in for the tattoo artist to copy a line of her handwriting onto your arm. The outline is down and it's the wrong line — the weather, not the bit you marked. He asks before he fills it in. You tell him it's exactly right.
+facetMostAction: You tell him it's exactly right.
+facetHighTitle: Presumed Beanocent
+facetHigh: A man from two streets over hasn't come home, and forty of you are out on the hill in groups of five. His brother-in-law is here — the two of them had a row in a car park that night and he drove off without him. The man organising it tells the brother-in-law to go home and wait. You tell him he's in your five.
+facetHighAction: You tell him he's in your five.
+facetMidTitle: Winnie the Bean
+facetMid: Last session of the pottery class, and the eleven of you have brought people to see the pieces laid out. Everybody else's is on the table; yours is still on the shelf by the kiln. You tell the tutor it must have come out late, and put it out yourself.
+facetMidAction: You tell the tutor it must have come out late, and put it out yourself.
+facetLowTitle: Bean and Prejudice
+facetLow: Your band has a support slot in three weeks and no drummer. Two drummers have come down to the rehearsal room — the bass player's friend, who is good company, and a woman who barely speaks and is plainly better. You tell the woman she's in.
+facetLowAction: You tell the woman she's in.
+facetLeastTitle: Dragons' Bean
+facetLeast: A woman rings about the man you shared a flat with for two years — he's put you down as a reference for a live-in job looking after her father. She asks whether he's careful with money. He left owing you three months' rent, and never mentioned it. You tell her about the three months.
+facetLeastAction: You tell her about the three months.
+question: Your mother is bringing a man to Sunday lunch, the first she's brought home since she and your dad split. Your sister has looked him up and sent you two bankruptcy records. You...
+answerMost: tell your sister she's out of order, and delete what she sent
+answerHigh: tell your mother you'd rather meet him than read about him
+answerMid: pour him a drink and ask how the two of them met
+answerLow: ask him over lunch what he does for money now
+answerLeast: show your mother the records before he arrives
 rorschachMost: a horned skull
 rorschachHigh: a hooded figure
 rorschachMid: a lucky horseshoe
@@ -50,4 +50,4 @@ rorschachLow: an island map
 rorschachLeast: a set square
 ---
 
-Barbecued Black Beans are the Bean Zodiac's most mystical. They talk about the dream, the coincidence and the timing as though they were evidence, and the strange thing is how often it fits. Sometimes it goes somewhere unreachable. A purely material explanation feels thin to them.
+Barbecued Black Beans are the Bean Zodiac's most benign. The friend everyone else has written off gets asked along, and they can tell you what was going on for him both times he didn't show. The excuse they've invented is kinder than the one the person would offer. Sizing a person up in an evening is not a skill they've wanted.

@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: umami-fermented-butter
 lastUpdated: 
 bean: butter
 flavour: umami
 form: fermented
-trait: reflective
-excess: paralysed
-inverse: unconsidered
-quote: Who looks outside, dreams; who looks inside, finds a bean.
-creature: scops owl
+trait: fallow
+excess: stagnant
+inverse: impatient
+quote: To every bean there is a season.
+creature: wood frog
 dish: Butter beans folded through white miso butter.
 friendlyBeans: [mung, black]
 friendlyForm: roasted
 antiTriple: spicy-fried-kidney
 antiBeans: [cannellini, navy]
 antiForm: dried
-seasonalFortune: "A season of white miso butter and long pause — the crock considers before it moves."
-fortuneMost: Think about it long enough and the choice gets made elsewhere.
-fortuneHigh: Sleep on it.
-fortuneMid: A scops owl repeats one note until something answers.
-fortuneLow: Pick one and find out.
-fortuneLeast: The first answer is usually the same as the last.
-facetMostTitle: Bean in the Headlights
-facetMost: Your uncle left the flat to you and your cousin, and the solicitor wants an answer by the end of the week — sold, or one of you buys the other out. You have written four replies and posted none of them, because each time you get to the end there is something you have not thought about properly. You start the fifth.
-facetMostAction: You start the fifth.
-facetHighTitle: Wild Beanberries
-facetHigh: Your friend runs the reading project at the library. A betting company has offered her eleven thousand — a year of the woman who does home visits, and their name on the leaflets and everything else the project prints. The other four said take it straight away. You sit outside with the letter for half an hour. You tell her to take it and put the name on the leaflets.
-facetHighAction: You tell her to take it and put the name on the leaflets.
-facetMidTitle: The Way We Bean
-facetMid: The woman who runs the camera obscura darkens the room and turns the mirror on the roof by hand. The town comes round the table — the harbour, the roofs, the car parks. Your friend waits until you are both looking to ask whether you are taking the job in the other city, which would leave her here. You watch the harbour come round once. You tell her you are.
-facetMidAction: You tell her you are.
-facetLowTitle: Shoot First, Bean Later
-facetLow: Your mother's ring is in the padded envelope on the counter, going to your sister three hundred miles away. The woman behind the glass asks whether you want it covered for what it is worth, and tells you what that would cost. You say no and hand it over.
-facetLowAction: You say no and hand it over.
-facetLeastTitle: Ready, Bean, Fire
-facetLeast: Eight of you round a table in the front room over a shop, and the medium has said how she works before starting — she gets initials and nothing else, and the room confirms nothing back to her. Twenty minutes in she stops and says there is a woman here with a J. You say straight out that it is your grandmother.
-facetLeastAction: You say straight out that it is your grandmother.
-question: Your brother says at dinner that nobody in the family ever helped your mother, and everyone looks at you. You...
-answerMost: say you'll come back to him on it
-answerHigh: say you'd like to think before you answer
-answerMid: take a moment, then answer him
-answerLow: answer straight off
-answerLeast: cut in with your answer over the top of him
+seasonalFortune: "A season of white miso and a closed crock — the store is doing nothing anyone can see, and nothing is marked with a date."
+fortuneMost: A wood frog freezes through until there's no heartbeat in it at all, and not every one thaws.
+fortuneHigh: Don't touch it for another year.
+fortuneMid: Nothing has to come of it.
+fortuneLow: Waiting won't make the first one any good.
+fortuneLeast: A rough one finished this year beats a good one in three.
+facetMostTitle: The Age of Beannocence
+facetMost: You and your closest friend stopped talking three years ago, not over anything — she moved, you were both flat out, and neither of you picked it back up. The invitation to her wedding came six weeks ago and the reply card has been on the shelf since. It has to go back this week. You write on the card that you can't make it.
+facetMostAction: You write on the card that you can't make it.
+facetHighTitle: Northern Beansposure
+facetHigh: Six months cooking at a hostel eleven miles up a valley, and the season shuts at the end of the month. The man who runs it offers you the winter, and it's better money than the summer paid, your own room instead of the bunk, and the only one going because nobody else stays. You had been planning on doing nothing at all until spring. You tell him you want the winter empty.
+facetHighAction: You tell him you want the winter empty.
+facetMidTitle: The Beancret Garden
+facetMid: There's a community darkroom in the basement under the swimming pool, and four rolls of yours have sat in the fridge there since a trip two years ago, undeveloped. The woman who runs it is clearing the fridge because it's full, and says she'll put yours through tonight with everything else. You tell her to put them back in.
+facetMidAction: You tell her to put them back in.
+facetLowTitle: Can't Hardly Bean
+facetLow: Your friend rings the bells at the church on the hill and has taken you up to the frame to see how it works, the wheels and the ropes and why a peal takes three hours and can't be stopped once it has started. She had her scan last week and told you she would say when she was ready to say. She has not said. You ask her what it showed.
+facetLowAction: You ask her what it showed.
+facetLeastTitle: Tick, Tick... Bean!
+facetLeast: A woman you buy vegetables from has walked you round her polytunnels — what has been pricked out, what is hardening off by the door, and why nothing goes outside until the frosts are done, which she reckons is three weeks off. Twenty of her tomato plants are on your windowsill. You put yours out at the weekend.
+facetLeastAction: You put yours out at the weekend.
+question: You've saved four years for this and the year off starts next week. Two things in the diary, no plans past them, and three people have already asked what you're going to do with it. You...
+answerMost: cancel the two things in the diary as well
+answerHigh: tell them you've saved four years to have nothing on
+answerMid: keep one evening a week going and leave the rest clear
+answerLow: book a course and a trip before the month is out
+answerLeast: line up work to start in six weeks
 rorschachMost: a stopped clock
 rorschachHigh: a perched owl
 rorschachMid: a park bench
@@ -50,4 +50,4 @@ rorschachLow: a tossed coin
 rorschachLeast: a slammed door
 ---
 
-Miso Butter Beans are the Bean Zodiac's most reflective. Nothing gets answered on the day; it gets answered after a walk, and the answer is worth the wait. Sometimes the walk never ends. Responding without thinking about it first they cannot do.
+Miso Butter Beans are the Bean Zodiac's most fallow. Ask about the half-built bike under the sheet and you get a straight answer about why it's still there. Sometimes the sheet has been there long enough to be the furniture. Getting on with it now, while the idea is warm, is a speed they have never once managed.

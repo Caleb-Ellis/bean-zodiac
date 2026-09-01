@@ -1,47 +1,48 @@
 ---
+# TODO: check all
 slug: sweet-dried-green
-lastUpdated: 2026-08-02
+lastUpdated:
 bean: green
 flavour: sweet
 form: dried
-trait: familiar
-excess: overfamiliar
+trait: evergreen
+excess: callow
 inverse: strange
-quote: No matter how long the winter, spring is sure to bean.
-creature: redwood sloth
+quote: A thing of beauty is a bean for ever.
+creature: bowhead whale
 dish: Green beans dried and candied in maple crystal.
 friendlyBeans: [fava, chickpea]
 friendlyForm: fried
 antiTriple: bitter-fermented-cannellini
 antiBeans: [butter, black]
 antiForm: boiled
-seasonalFortune: "A season of maple crystal and known faces: the candy tastes like every previous winter."
-fortuneMost: The weed returns to the garden, and the garden is purged of the weed.
-fortuneHigh: Tree rings circle out and away, but never too far.
-fortuneMid: Some things keep without tending.
-fortuneLow: You don't have to go back.
-fortuneLeast: Even the sloth leaves the tree it was born in.
-facetMostTitle: Too Bean for Comfort
-facetMost: You're in a new city and need a bed for two nights. You know one person — someone you were close to ten years ago, but no longer. You message them asking to stay, and sign off with an emoji.
-facetMostAction: You message them asking to stay, and sign off with an emoji.
-facetHighTitle: Familiar Beans
-facetHigh: Someone you were great friends with at university is at the same party — you've drifted apart since. You catch up breezily, starting with what's happening now rather than recalling everything that's happened since.
-facetHighAction: You catch up breezily, starting with what's happening now rather than recalling everything that's happened since.
-facetMidTitle: Old Beans
-facetMid: It's been two years since you last played this game — you never finished it, but you still have an active save. You pick up right where you left off rather than start over.
-facetMidAction: You pick up right where you left off rather than start over.
-facetLowTitle: Bean Danger
-facetLow: A reunion is being organised for your school year. You could definitely make it, but you send your apologies and say you hope it goes well.
-facetLowAction: You could definitely make it, but you send your apologies and say you hope it goes well.
+seasonalFortune: "A season of maple crystal and long keeping — what was put up years ago comes out of the jar tasting new."
+fortuneMost: Keep the enthusiasm forever and you keep the beginner's mistakes too.
+fortuneHigh: A bowhead whale lives two hundred years and sings a new song most of them.
+fortuneMid: Some things are as good the fortieth time.
+fortuneLow: Try the one you've never heard of.
+fortuneLeast: The best thing you eat this year will have a name you can't pronounce.
+facetMostTitle: The 40-Year-Old Beangin
+facetMost: It is the fourth summer you have sublet your room while you are away, and you have never once asked anybody for anything in writing. The man who wants it is standing in your kitchen with a bag, and he says he'll pay the first month once he's in. You give him the keys and shake on it.
+facetMostAction: You give him the keys and shake on it.
+facetHighTitle: The NeverBeaning Story
+facetHigh: The band you first saw at seventeen are playing their last ever show, two hundred miles away, and the only tickets left are standing. You are the oldest person in the queue by about fifteen years. You get down the front.
+facetHighAction: You get down the front.
+facetMidTitle: Some Like It Bean
+facetMid: You have run the same Sunday football team for nine years and it is down to seven players, two of whom have said they are finished at the end of the season. Nobody else has offered to take it on. You start ringing round for players.
+facetMidAction: You start ringing round for players.
+facetLowTitle: Stranger Beans
+facetLow: A friend who works at the bookshop has taken you into the stockroom, where everything that has not sold in a year waits to go back to the publisher — six shelves of it, most of it by people nobody has heard of. You came in for the new edition of the one you have read four times. You put it back and take three off the return shelves.
+facetLowAction: You put it back and take three off the return shelves.
 facetLeastTitle: Beans on a Train
-facetLeast: You're back in the town you grew up in for a week, sorting out some things. You have plenty of spare time. You end up going home without telling anyone you were there.
-facetLeastAction: You end up going home without telling anyone you were there.
-question: What happens to the group chats from old jobs?
-answerMost: still in every one of them, still posting in them
-answerHigh: still in them, and I'll add something when it strikes me
-answerMid: still in them, quiet, reading now and again
-answerLow: muted a long time ago, not opened for a long time
-answerLeast: I left them when I left
+facetLeast: Somebody you work with has asked you to the Sunday service at her church — three hours of it, all in a language you do not speak, and a meal in the hall afterwards. It is the same afternoon as the market you have gone to every Sunday without fail for years. You tell her you'll come, and stay for the meal.
+facetLeastAction: You tell her you'll come, and stay for the meal.
+question: A whole evening with nothing you have to do. What music goes on?
+answerMost: the same album I had at fifteen, start to finish, again
+answerHigh: one I've had for years, and I still hear something new in it
+answerMid: something I liked a while back and haven't put on in ages
+answerLow: whatever the last thing I liked has led me to
+answerLeast: something I've never heard a note of, picked at random
 rorschachMost: a creature attached to another
 rorschachHigh: intertwining tree roots
 rorschachMid: a village landscape
@@ -49,4 +50,4 @@ rorschachLow: a cell dividing
 rorschachLeast: a tattered flag
 ---
 
-Crystallised Green Beans are the Bean Zodiac's most familiar. Ten minutes in and a stranger is telling them about their divorce, because it feels like continuing an old conversation. Occasionally the closeness arrives sooner than invited. Keeping polite distance is not a setting they have.
+Crystallised Green Beans are the Bean Zodiac's most evergreen. The same walk up the same hill for fifteen years, and they will still make you stop at the top. They lend the same person money a fourth time and are surprised a fourth time. Being the strange thing in the room would take some arranging.

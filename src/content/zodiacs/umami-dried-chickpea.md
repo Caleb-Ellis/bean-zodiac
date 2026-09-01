@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: umami-dried-chickpea
 lastUpdated:
 bean: chickpea
 flavour: umami
 form: dried
-trait: substantive
-excess: heavy-going
-inverse: insubstantial
-quote: The measure of a bean is the sum of its choices.
-creature: mammoth
+trait: unconditional
+excess: exploitable
+inverse: qualified
+quote: Come as you bean.
+creature: barn owl
 dish: Dried chickpeas cooked with dried porcini.
 friendlyBeans: [butter, adzuki]
 friendlyForm: boiled
 antiTriple: spicy-fermented-fava
 antiBeans: [mung, adzuki]
 antiForm: boiled
-seasonalFortune: "A season of dried porcini and real weight — the store is not mostly water."
-fortuneMost: A mammoth carries its own weather and fits through no narrow gate.
-fortuneHigh: Give the proper answer.
-fortuneMid: Mend the coat instead of replacing it.
-fortuneLow: The unfinished thing can wait a night.
-fortuneLeast: Shake the hand and go.
-facetMostTitle: Beanlysses
-facetMost: Fifteen minutes at your old school's careers morning, thirty sixteen-year-olds, and the woman from the bank is out in the corridor with a box of things she brought, with one slot after yours before they all go to lunch. You are eleven minutes in and still on why the first two years are the ones that matter. You go past the bell and keep going.
-facetMostAction: You go past the bell and keep going.
-facetHighTitle: The Beanweight
-facetHigh: Your friend has had four people tell her to follow her gut about leaving the course, and she has to decide by the end of the month. You are in the canteen and she has ten minutes. You take the menu and write out what she loses each way.
-facetHighAction: You take the menu and write out what she loses each way.
-facetMidTitle: Solid Bean Gold
-facetMid: Your friend's daughter is seven and you have got her for the afternoon, and at the elephants she asks why they are not where they are supposed to be. There is a nice answer and there is the true one. You tell her there are hardly any left where they come from.
-facetMidAction: You tell her there are hardly any left where they come from.
-facetLowTitle: Beanishing Point
-facetLow: Fourteen hours on the coach, they change drivers at three in the morning at a service station with the engine left running, and your uncle is beside you six months after the operation, the first time you have seen him since. There is nothing else to do all night. You talk about the route and where they stop.
-facetLowAction: You talk about the route and where they stop.
-facetLeastTitle: Much Ado About Beaning
-facetLeast: Your oldest friend is back for one day in two years and you have got the afternoon with her. You get four hours on the grass in the park before her train goes. You spend all four on who should have won the programme you both watch.
-facetLeastAction: You spend all four on who should have won the programme you both watch.
-question: You've half an hour with your niece before her train and one thing you actually want her to take away. She asks how you decided what to do with your life. What does she get?
-answerMost: every job since school, in order
-answerHigh: that you never planned it, and what you'd watch for instead
-answerMid: how you decided, without a lesson made of it
-answerLow: a couple of facts about jobs you've had
-answerLeast: the train, and how her mum is
+seasonalFortune: "A season of dried porcini and no questions — the store gives out what it has to whoever turns up, and is empty by spring."
+fortuneMost: Say yes enough times and it stops being a favour.
+fortuneHigh: A barn owl chick will pass food down the nest to a hungrier one, with nothing in it for itself.
+fortuneMid: Nobody has to earn the next one.
+fortuneLow: Most people would like to know what they're agreeing to.
+fortuneLeast: A promise with a date on it is the one that gets kept.
+facetMostTitle: King Bean
+facetMost: You're at the letting agent's desk with the pen in your hand and the deposit on the card in your pocket, and there are two other people on the list for the flat. Your brother rings — the bailiffs are coming this week for his rent arrears, and it's almost exactly what the deposit is. He's had money off you twice and paid back neither. You put the pen down and send him the deposit.
+facetMostAction: You put the pen down and send him the deposit.
+facetHighTitle: Stand By Bean
+facetHigh: Six years in a band with the same three people, and she walked three weeks before the tour you'd all taken the time off work for. The tour folded, the band went with it, and nobody has heard from her since. Tonight you're in a rehearsal room with two people who know all of that, and she's in the doorway asking if there's room. You pull a chair over and ask her what she wants to play.
+facetHighAction: You pull a chair over and ask her what she wants to play.
+facetMidTitle: Lilo & Beanitch
+facetMid: Two winters now you've driven someone from the Sunday team out to the away games, forty minutes the wrong way each time, because she hasn't got a car. She's passed her test and bought one, and at the side of the pitch she says she'll drive from now on and wants to work out what she owes you for the fuel. You tell her there's nothing to work out.
+facetMidAction: You tell her there's nothing to work out.
+facetLowTitle: Deal or No Bean
+facetLow: Thursdays at the food bank, and you know the system now — the referral form, the three-day parcel, the list on the wall of who has had one this month and how many they are allowed. A man you recognise from the bus stop is at the table without a form, and he has had two this month already. You give him the parcel and tell him he'll need the referral before the next one.
+facetLowAction: You give him the parcel and tell him he'll need the referral before the next one.
+facetLeastTitle: Quid Pro Bean
+facetLeast: The head chef has let you take a friend round the restaurant tonight, the walk-in and the sections and how a Saturday actually goes. You've been on the pass here two years. She wants you to put her name in for the job that's going, and she has left two kitchens in three months, both times without notice. You tell her you'll put her name in once she's done a trial shift.
+facetLeastAction: You tell her you'll put her name in once she's done a trial shift.
+question: Your cousin is working away for three months and asks you to go down as the named adult on her son's school forms — the one they ring, who has to be able to get there within the hour. The last two times she asked, three months turned into the best part of a year. You...
+answerMost: put yourself down for the whole school year
+answerHigh: take the forms and fill them in there and then
+answerMid: ask her for a number that'll reach her at work
+answerLow: ask her to put an end date on it
+answerLeast: say yes for the three months, and ask who's taking over after that
 rorschachMost: a textbook stack
 rorschachHigh: a coal sack
 rorschachMid: a doorstop sandwich
@@ -50,4 +50,4 @@ rorschachLow: a crisp packet
 rorschachLeast: a paper napkin
 ---
 
-Aged Chickpeas are the Bean Zodiac's most substantive. Twenty minutes with them and you leave with something to actually use, not just a pleasant hour. Sometimes there's more weight than the occasion could carry. Making light conversation is a real effort.
+Aged Chickpeas are the Bean Zodiac's most unconditional. They'll drive an hour to fetch you at two in the morning, and never ask what you were doing there. Sometimes somebody works out there is no point at which they'd be told no. Saying yes with a condition on it is a sentence they cannot get to the end of.

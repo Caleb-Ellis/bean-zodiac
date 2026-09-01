@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: check all
 slug: sweet-fermented-black
 lastUpdated: 
 bean: black
 flavour: sweet
 form: fermented
-trait: pensive
-excess: moping
-inverse: blithe
-quote: I am a bean of solitude; the fire of thought does not require witnesses.
-creature: orangutan
+trait: soft-hearted
+excess: indulgent
+inverse: impervious
+quote: The Grinch's small bean grew three sizes that day.
+creature: tarantula
 dish: Black bean and white miso caramel tart.
 friendlyBeans: [pinto, butter]
 friendlyForm: smoked
 antiTriple: sour-fried-chickpea
 antiBeans: [kidney, green]
 antiForm: roasted
-seasonalFortune: "A season of white miso caramel and long thought: the tart sets while the cellar broods."
-fortuneMost: An orangutan spends most of its life alone in the canopy.
-fortuneHigh: Take the long way and think.
-fortuneMid: A problem shrinks after a night's sleep.
-fortuneLow: Go and be cheerful about something.
-fortuneLeast: Cheerfulness costs nothing to keep.
-facetMostTitle: Heaven Knows I'm Beanable Now
-facetMost: It is your housemate's birthday and she has got twenty people into the room with the karaoke machine in it. You have been under something for nine days and none of this has shifted it. She is up there singing. You go outside at ten and get a taxi home.
-facetMostAction: You go outside at ten and get a taxi home.
-facetHighTitle: A Beany for Your Thoughts
-facetHigh: Two hours into the wake and everybody else has done their stories about your uncle. Coats are starting to go on, and this is the only time all of these people will be in a room together. You have not said anything, because what you keep coming back to is not a story. You say that he never once asked anybody for anything.
-facetHighAction: You say that he never once asked anybody for anything.
-facetMidTitle: A Bean Study
-facetMid: You have not said anything for three aisles because of something your dad said on the phone before you came out, and your partner has noticed and has not asked. At the till you tell her what he said.
-facetMidAction: At the till you tell her what he said.
-facetLowTitle: Blithe Beanit
-facetLow: It is the first proper day of the year, four of you have got to the beach by eleven, and the thing from last week is still there and has been turned over enough times. You get changed and go straight in with them.
-facetLowAction: You get changed and go straight in with them.
-facetLeastTitle: Without a Bean in the World
-facetLeast: They put the rink up on the car park every December and take it down again in February, and between sessions a man drives the machine round to lay the water flat again. Six of you have come out and one of them keeps falling over. There is nothing running underneath any of it. You go round again.
-facetLeastAction: You go round again.
-question: You've been quiet most of the evening with a thought running underneath it. What happens to the thought?
-answerMost: it stays down, and you're no company for a week
-answerHigh: up it comes late on, and it was worth the wait
-answerMid: still running underneath, while you join in anyway
-answerLow: you shake it off and get on with the evening
-answerLeast: there wasn't one running in the first place
+seasonalFortune: "A season of white miso caramel and quiet soft spots — the tart is hard on top and gives at the first spoon."
+fortuneMost: Say yes to every sad face and the sad faces keep coming.
+fortuneHigh: Let your heart win this one.
+fortuneMid: A tarantula will let a tiny frog live in its burrow, and chase off anything that tries to eat it.
+fortuneLow: It's fine to hear a sad story and still say no.
+fortuneLeast: A thick shell keeps the weather out.
+facetMostTitle: The Prodigal Bean
+facetMost: Your brother calls from the impound lot, where his car has been towed from a bus lane for the third time this year. He needs it for work in the morning and can't cover the three-hundred-dollar release fee, and neither of the two fees you paid before ever came back. The lot closes in twenty minutes. You pay the fee over the phone.
+facetMostAction: You pay the fee over the phone.
+facetHighTitle: Beanthoven
+facetHigh: On a walking holiday in Crete, a thin stray dog has followed you from village to village for four days, sleeping outside wherever you stay. It's your last night. Taking her home would mean vaccinations, a crate on the plane and about fifteen hundred dollars. You ask the village vet how to get her home with you.
+facetHighAction: You ask the village vet how to get her home with you.
+facetMidTitle: Dennis the Beanace
+facetMid: A ball comes through your front window, and a minute later the boy from three doors down is on the step with his dad. His dad says the glass is coming out of the boy's savings, which will take him most of a year. The boy is trying hard not to cry. You tell them the glass was already cracked.
+facetMidAction: You tell them the glass was already cracked.
+facetLowTitle: Cold as Bean
+facetLow: The flight is eleven hours, and you've paid extra for the window seat. A man leans over and asks if you'd swap so he can sit with his wife, who is frightened of flying. His seat is a middle one at the very back. She's gripping the armrest. You tell him you'd rather keep your seat.
+facetLowAction: You tell him you'd rather keep your seat.
+facetLeastTitle: If I Only Had a Bean
+facetLeast: In the corridor outside small claims court, the builder you're suing over a shower that leaked through the ceiling below catches up with you. He says his wife has just lost her job, and a judgment against him will finish the business. He asks you to drop it and take half the money in cash instead. You tell him you'll see him inside.
+facetLeastAction: You tell him you'll see him inside.
+question: It's game night at a friend's, and her eight-year-old son has landed on your hotel in Monopoly. He can't pay the rent without selling everything he owns, and his lip has started to wobble. You...
+answerMost: give him the hotel too
+answerHigh: let him off the rent
+answerMid: show him how to mortgage his cheapest street
+answerLow: take the rent, and tell him he played well
+answerLeast: take the rent, and buy up what he sells
 rorschachMost: a downpour
 rorschachHigh: a hunched figure
 rorschachMid: a chin on a fist
@@ -50,4 +50,4 @@ rorschachLow: a sunhat
 rorschachLeast: an ice cream cone
 ---
 
-Funky Black Beans are the Bean Zodiac's most pensive. There is usually a thought running underneath the conversation, and when it surfaces it's worth the wait. Some weeks it sinks and stays down. Being lightly, unthinkingly cheerful is not a mood they can locate.
+Funky Black Beans are the Bean Zodiac's most soft-hearted. They told the new cat it wasn't allowed upstairs, and it has slept on their pillow since the first night. The same sad story works on them every time. Staying unmoved lasts about a minute with them.

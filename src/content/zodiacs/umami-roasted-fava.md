@@ -1,5 +1,6 @@
 ---
 # TODO: tidy facets, redo fortunes, redo rorschachs
+# SHOULD BE: trait unrepentant, excess insubordinate, inverse submissive
 slug: umami-roasted-fava
 lastUpdated:
 bean: fava

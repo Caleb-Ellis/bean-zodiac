@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: spicy-boiled-chickpea
 lastUpdated: 
 bean: chickpea
 flavour: spicy
 form: boiled
-trait: resourceful
-excess: opportunistic
-inverse: helpless
-quote: Necessity is the bean of invention.
-creature: kestrel hawk
+trait: rallying
+excess: haranguing
+inverse: self-reliant
+quote: We must all bean together, or most assuredly we shall all hang separately.
+creature: african wild dog
 dish: Chana masala - chickpeas braised in spiced onion-tomato gravy.
 friendlyBeans: [kidney, green]
 friendlyForm: fried
 antiTriple: sour-fermented-edamame
 antiBeans: [black, cannellini]
 antiForm: smoked
-seasonalFortune: "A season of onion-tomato gravy and found spices — the pot makes dinner from whatever survived."
-fortuneMost: Every situation gets read for what can be got out of it.
-fortuneHigh: A kestrel hangs over the mowing and waits for what runs.
-fortuneMid: The thing bound for the bin has one more use.
-fortuneLow: Buy the proper tool.
-fortuneLeast: Ask the friend who's good at this.
-facetMostTitle: Only Fools and Beans
-facetMost: Your friend has left her good speakers at yours while she moves, and she isn't back for a fortnight. You've got people coming round at the weekend. You wire them into your system, and when she asks how it went you tell her it was quiet.
-facetMostAction: You wire them into your system, and when she asks how it went you tell her it was quiet.
-facetHighTitle: Beangyver
-facetHigh: It has rained for two days, the gas has run out, and the six of you have eaten nothing since the morning. You get the wet wood going with the wax off the cheese and a page of somebody's paperback, and cook on that.
-facetHighAction: You get the wet wood going with the wax off the cheese and a page of somebody's paperback, and cook on that.
-facetMidTitle: Make Do and Bean
-facetMid: The door on the only working dryer swings open the moment the drum starts turning, and everything you own is wet inside it. You wedge it shut with the strap of your bag.
-facetMidAction: You wedge it shut with the strap of your bag.
-facetLowTitle: Beanless
-facetLow: You're nine miles out on the moor with a back wheel that won't turn, and no signal until you walk up to the top of the rise. You walk up to the rise and ring your friend to come and get you.
-facetLowAction: You walk up to the rise and ring your friend to come and get you.
-facetLeastTitle: All at Bean
-facetLeast: The shelves have been in pieces in the shed for three weeks because one bracket is missing and the box doesn't say which. You put the lid back on and ask your dad to have a look when he's next over.
-facetLeastAction: You put the lid back on and ask your dad to have a look when he's next over.
-question: Tomorrow is the school play, the costume hire has fallen through, and the teacher has come to you. Thirty children, and a cupboard of PE bibs, bin bags and poster paint. You...
-answerMost: have the children make the costumes, and take tomorrow off
-answerHigh: make thirty costumes out of the bibs and bin bags tonight
-answerMid: dress the main parts from the cupboard, the rest in their own clothes
-answerLow: put all thirty in their own clothes
-answerLeast: leave it with the teacher
+seasonalFortune: "A season of chana masala and rolled-up sleeves — nobody stirs the big pot alone."
+fortuneMost: Push people to pitch in and they'll find somewhere else to be.
+fortuneHigh: All hands on deck!
+fortuneMid: The African wild dog wakes the whole pack before it goes hunting.
+fortuneLow: You don't have to get everyone involved.
+fortuneLeast: Whoever packs their own lunch gets to eat when they like.
+facetMostTitle: Mad as Bean
+facetMost: Eleven pilot whales have stranded on the beach, and the rescue team has more volunteers than buckets. You've already asked a couple sunbathing further up the sand to help, twice, and they've said no both times. You go back up and tell them they should be ashamed of themselves.
+facetMostAction: You go back up and tell them they should be ashamed of themselves.
+facetHighTitle: Beanvengers Assemble
+facetHigh: At your cousin's wedding, the coach booked to take eighty guests from the church to the reception has broken down. The replacement is two hours away, and the couple are already at the venue waiting to sit down to dinner. You go around the church car park filling every car with guests.
+facetHighAction: You go around the church car park filling every car with guests.
+facetMidTitle: With a Little Help from My Beans
+facetMid: A friend quit her job to open a dumpling restaurant with all her savings. Two months in, it's eight o'clock on a Friday and you're the only person eating there. You call three friends and ask them to come down for dinner.
+facetMidAction: You call three friends and ask them to come down for dinner.
+facetLowTitle: Bean Solo
+facetLow: You're volunteering at the natural history museum's late opening, and there are three hundred chairs to stack in the hall under the dinosaur skeleton. The other five volunteers are having a drink in the café. Doing it alone will take until midnight. You start on the chairs yourself.
+facetLowAction: You start on the chairs yourself.
+facetLeastTitle: The Lone Beanger
+facetLeast: Your passport was stolen on the second day of a trip abroad on your own, and you've spent the morning in the queue at the consulate. Your dad has offered to phone them for you, and to fly out if it comes to that. You tell him you can handle the consulate yourself.
+facetLeastAction: You tell him you can handle the consulate yourself.
+question: You've drawn up a design, and the man who owns the corner shop says you can paint it on his side wall, which is two storeys high and faces the whole street. You...
+answerMost: go door to door, and keep going back to anyone who says no
+answerHigh: organise a painting weekend for the whole street
+answerMid: ask two friends to help with the high parts
+answerLow: paint it yourself, and get the shop owner to hold a ladder
+answerLeast: hire a scaffold tower and paint it alone
 rorschachMost: a hunched vulture
 rorschachHigh: a scarecrow
 rorschachMid: a lopped tree
@@ -50,4 +50,4 @@ rorschachLow: an empty glove
 rorschachLeast: a beetle on its back
 ---
 
-Braised Chickpeas are the Bean Zodiac's most resourceful. The car dies in a village at nine on a Sunday and somehow there's a bed and a lift by ten. Sometimes the solution quietly uses somebody. Sitting still and waiting for help is not a posture they adopt.
+Braised Chickpeas are the Bean Zodiac's most rallying. A friend's flat floods on a Sunday, and by two o'clock they've got nine people there with mops, a van and a dehumidifier. Anyone who says they're busy gets a second call, and a third. Getting through a bad week on their own would seem to them a waste of perfectly good friends.

@@ -1,43 +1,48 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: check all
 slug: spicy-roasted-navy
 lastUpdated:
 bean: navy
 flavour: spicy
 form: roasted
-trait: staunch
-excess: diehard
-inverse: fickle
-quote: Trust thyself - every bean vibrates to that iron string.
-creature: rottweiler
+trait: avowed
+excess: vehement
+inverse: unaligned
+quote: Here I bean, I can do no other.
+creature: siamang
 dish: Navy beans roasted with cayenne, thyme, and molasses.
 friendlyBeans: [black, cannellini]
 friendlyForm: dried
 antiTriple: bitter-smoked-green
 antiBeans: [pinto, adzuki]
 antiForm: fermented
-seasonalFortune: "A season of cayenne and thyme — the oven stands with the same dish all winter."
-fortuneMost: Stand by it past the evidence and the standing costs something.
-fortuneHigh: A rottweiler stays at the gate whether or not anyone comes.
-fortuneMid: Loyalty is worth more than being right.
-fortuneLow: Let this allegiance go.
-fortuneLeast: Changing sides is allowed.
-facetMostTitle: Bean Hard
-facetMost: The club has fourteen members and eleven of them are on the committee, and you have paid the hall out of your own pocket twice. Somebody suggests winding it up and you take that personally.
-facetHighTitle: Stand Fast, Bean
-facetHigh: Nobody else has turned up for a friend since the trouble started. You are round there the same evening every week. You have not made anything of that, and you would not know how to.
-facetMidTitle: Loyal to the Beanast
-facetMid: Twenty years running the season ticket has been renewed, and this year is going to be bad again and everybody who knows anything says so, and the price has gone up on top. You renew it, in the same seat.
-facetLowTitle: Beanle Finger of Fate
-facetLow: A band you have followed since school have made a record you cannot get on with, and you say so, and you skip the tour.
-facetLeastTitle: The Fair-Weather Bean
-facetLeast: You have been at the same club since you were seven and a new one has opened across town with better everything and half the money. You are a member there by the end of the month, and you cross the road when you see the old lot.
-question: Twenty years of Saturdays watching the same team, and this season there are eleven of you left in the stand. What happens to the Saturdays?
-answerMost: they stay Saturdays, and next season's ticket is bought in January
-answerHigh: they stay as they have been
-answerMid: the home ones stay and the travelling stops
-answerLow: they go when the fixture suits
-answerLeast: the seat goes back and the Saturdays are yours
+seasonalFortune: "A season of cayenne and flown colours — the bean declares itself before anyone asks."
+fortuneMost: Shout for your side long enough and you'll be shouting alone.
+fortuneHigh: Stand up and be counted.
+fortuneMid: A siamang pair sings every morning so the whole forest knows they belong together.
+fortuneLow: Nobody needs to know who you're rooting for.
+fortuneLeast: The fence has the best view of both fields.
+facetMostTitle: My Big Fat Bean Wedding
+facetMost: Halfway through his speech at your cousin's wedding, your uncle gets a big laugh from a hundred guests with a joke about your partner being the only vegetarian there. Your partner is laughing along too. You stand up and tell him to leave your partner out of it.
+facetMostAction: You stand up and tell him to leave your partner out of it.
+facetHighTitle: Thelma & Bean
+facetHigh: You're a week into travelling with a friend. A phone has gone missing from your hostel dorm, and in front of the whole common room the owner tells your friend to pack her bag and be out by midnight. She swears it wasn't her. You tell the owner that if she goes, you're going too.
+facetHighAction: You tell the owner that if she goes, you're going too.
+facetMidTitle: Sweeney Bean
+facetMid: The man cutting your hair has spent ten minutes telling you the town you grew up in is a dump, and everyone from there is a bit dim. He's only halfway through the cut. You mention that you grew up there.
+facetMidAction: You mention that you grew up there.
+facetLowTitle: Kramer vs. Bean
+facetLow: Your sister is divorcing her husband, and you've had months of her side of it over the phone. At their son's birthday party at a trampoline park, her husband gets you alone by the vending machines and asks whether you're on her side. You say it's between the two of them.
+facetLowAction: You say it's between the two of them.
+facetLeastTitle: A Plague on Both Your Beans
+facetLeast: A friend has brought you to a university debate on whether zoos should be shut down. At the end, the whole hall files out through one of two doors, For or Against, and a student at each counts heads. There's a small third door marked Abstain that nobody else is using. You leave by the third door.
+facetLeastAction: You leave by the third door.
+question: A friend has posted in the neighbourhood group about how badly the running club treated her, and there are two hundred comments, half of them from club members. You're still in the club. You...
+answerMost: argue with every club member in the comments
+answerHigh: comment under her post that you're with her
+answerMid: like her post
+answerLow: send her a private message backing her up
+answerLeast: stay out of it, and keep running with the club
 rorschachMost: a barricade
 rorschachHigh: an anvil
 rorschachMid: a mooring post
@@ -45,4 +50,4 @@ rorschachLow: a swinging sign
 rorschachLeast: a weathervane
 ---
 
-Peri-Peri Navy Beans are the Bean Zodiac's most staunch. Twenty years, the same team, the same friend, through the seasons when nobody else was still turning up. Sometimes the loyalty outlives the thing deserving it. Walking away when it stops being good they can't do.
+Peri-Peri Navy Beans are the Bean Zodiac's most avowed. Your band plays to nine people and they're at the front in the band's T-shirt, singing every word. Anyone who talks through the set hears about it afterwards. Clapping the same for every band on the bill is not in them.

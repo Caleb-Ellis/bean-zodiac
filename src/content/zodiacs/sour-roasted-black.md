@@ -1,43 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: sour-roasted-black
 lastUpdated: 
 bean: black
 flavour: sour
 form: roasted
-trait: earnest
-excess: pious
-inverse: facetious
-quote: The importance of being bean.
-creature: spaniel
+trait: trenchant
+excess: excoriating
+inverse: temporising
+quote: If liberty means anything at all, it means the right to tell beans what they do not want to hear.
+creature: pistol shrimp
 dish: Black beans roasted and dressed with parsley, garlic, and vinegar.
 friendlyBeans: [adzuki, pinto]
 friendlyForm: fried
 antiTriple: spicy-boiled-mung
 antiBeans: [kidney, fava]
 antiForm: fried
-seasonalFortune: "A season of parsley and plain intent: the coals mean it, and mean it loudly."
-fortuneMost: Being right about it all the time is wearing.
-fortuneHigh: Mean it out loud.
-fortuneMid: A spaniel greets everybody like it has news.
-fortuneLow: Make a joke of it instead.
-fortuneLeast: Nothing has to be a lesson.
-facetMostTitle: The Beangrim's Progress
-facetMost: The scout hut needs a new roof and there is a room full of people who could pay for it, and you have been given three minutes at the meeting. You use every one of them saying what the place did for you at eleven, and you are not embarrassed by any of it.
-facetHighTitle: Sincerely, Bean
-facetHigh: Somebody makes a joke about the charity you have been collecting for and the table laughs along with it. You say, plainly, what the money actually does.
-facetMidTitle: Dear Evan Beansen
-facetMid: You send the message you meant to send, with the sentence about how much this year has mattered left in rather than cut out at the last minute.
-facetLowTitle: Just Beanding
-facetLow: They have asked you to say a few words about him at the leaving do and you have had a week to think about it. You make three jokes about his driving and sit down.
-facetLeastTitle: The Beanion
-facetLeast: The whole ceremony is being played completely straight and somebody has to say something about the hats. You are the one who says it, out of the side of your mouth, twice.
-question: A friend makes a joke about the food bank you volunteer at, and it's a decent joke. You...
-answerMost: give them the full argument for it, twice over
-answerHigh: tell them straight that you don't joke about that one
-answerMid: smile, and say you do actually care about it
-answerLow: laugh along and let it pass
-answerLeast: come back with a better joke about it
+seasonalFortune: "A season of raw garlic and short answers — the vinegar goes straight at the flaw and says so where everyone can hear."
+fortuneMost: Enough true things at once and it stops being honesty.
+fortuneHigh: Say it in one sentence.
+fortuneMid: A pistol shrimp stuns the fish with one snap of its claw.
+fortuneLow: Somebody else will probably mention it.
+fortuneLeast: A thing left unsaid has never once had to be taken back.
+facetMostTitle: Full Metal Beanjacket
+facetMost: The council's consultation on closing the swimming pool, and the developer has sent one man in his twenties to take the questions. He reads his answers off a card and gets the pool's name wrong. The hall is full, it's all being minuted, and you get four minutes with the microphone. You spend all four on the card, the company, and the choice to send him.
+facetMostAction: You spend all four on the card, the company, and the choice to send him.
+facetHighTitle: A Few Good Beans
+facetHigh: You, your two aunts and your uncle are at the solicitor's to agree an asking price on your grandmother's house. Your uncle has lived in it rent-free for two years, and nobody will say that the sale can't happen while he's in there. Twenty minutes go on the figure. You say the house won't sell until he moves out.
+facetHighAction: You say the house won't sell until he moves out.
+facetMidTitle: The Emperor's New Beans
+facetMid: A friend got you into a small gallery opening. The main piece is a photocopier with sand poured over the top, and the woman whose first show this is keeps being told she's brave. She comes over and asks what you think. You tell her it's a photocopier with sand on it.
+facetMidAction: You tell her it's a photocopier with sand on it.
+facetLowTitle: Waiting for Beandot
+facetLow: A friend who cooks has taken you in through the back of the restaurant before service. The new dish is hers and it's on the menu tomorrow. The head chef puts a plate in front of you, four cooks watching, and asks if it works. The fish is dry and there's no salt. You say you'd rather try it again once service has started.
+facetLowAction: You say you'd rather try it again once service has started.
+facetLeastTitle: Yes, Beanister
+facetLeast: A community music school has one free place left and you're the third of three on the panel. Both children played for you an hour ago and are now waiting in the corridor with their parents. The other two have each named a different one and turn to you. You propose hearing them both again before anyone decides.
+facetLeastAction: You propose hearing them both again before anyone decides.
+question: Six of you are painting a mural on the community centre wall in the July heat, and you got the paint donated. The last two letters of the word won't fit. The friend holding the brush drew the design. You...
+answerMost: go through everything wrong with the design, starting with how it was drawn
+answerHigh: say the letters won't fit and the word has to be redrawn
+answerMid: point at the wall and ask where the last two letters go
+answerLow: say you'll look again when the word's finished
+answerLeast: suggest coming back to the word later
 rorschachMost: a kneeling figure
 rorschachHigh: a scout's badge
 rorschachMid: a dog at a door
@@ -45,4 +50,4 @@ rorschachLow: a rubber nose
 rorschachLeast: a custard pie
 ---
 
-Chimichurri Black Beans are the Bean Zodiac's most earnest. They turn up to the thing they said they cared about, in the rain, in year three, when the others have stopped. The caring occasionally arrives with a sermon attached. Treating something they love as a joke, they won't.
+Chimichurri Black Beans are the Bean Zodiac's most trenchant. Everyone else at the flat viewing is admiring the kitchen; they ask about the black patch above the window. Occasionally it goes on past the patch to the wall, the ceiling and the landlord. Buying a week with a pleasant, vague answer is not a delay they will take.

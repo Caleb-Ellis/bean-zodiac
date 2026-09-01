@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: sour-fried-navy
 lastUpdated: 
 bean: navy
 flavour: sour
 form: fried
-trait: particular
-excess: finicky
+trait: corrective
+excess: carping
 inverse: unfussy
-quote: I have not been in the right mood for beans for the last thirty-seven years.
-creature: wombat
+quote: Why beholdest thou the mote that is in thy brother's eye, but considerest not the bean that is in thine own eye?
+creature: woodpecker
 dish: Navy beans fried with cider vinegar and mustard seed.
 friendlyBeans: [cannellini, mung]
 friendlyForm: boiled
 antiTriple: spicy-fermented-butter
 antiBeans: [pinto, adzuki]
 antiForm: smoked
-seasonalFortune: "A season of mustard seed and exact order: the pan wants it done the usual way."
-fortuneMost: Particular enough and there's nothing left anybody can offer.
-fortuneHigh: A wombat squares off its own droppings.
-fortuneMid: Knowing what you like saves everybody time.
-fortuneLow: Eat what's put in front of you.
-fortuneLeast: Not minding is a cheap kind of freedom.
-facetMostTitle: The Princess and the Bean
-facetMost: It is the morning of the wedding and you are in it. She has taken the fringe shorter twice and it still sits a fraction left, with about an inch left to have. You ask her to go again.
-facetMostAction: You ask her to go again.
-facetHighTitle: My Bean
-facetHigh: You get into the hostel dorm at half eleven and the bunk has been made up for you — sheet tucked the wrong way at the sides, pillow down the window end. Four people are asleep in the room. You strip it off and make it again.
-facetHighAction: You strip it off and make it again.
-facetMidTitle: Just So Beans
-facetMid: Whoever put the menswear out at the charity shop where you do a Thursday has done the entire rail by colour, and nobody finds a jacket that way. You take the rail down and put it back by size.
-facetMidAction: You take the rail down and put it back by size.
-facetLowTitle: No Frills Beans
-facetLow: Same seat at the ground for eleven years, row and number printed on the ticket. A family have been sold three together and one at the far end, and the steward is coming down asking people to move along one. You move along one.
-facetLowAction: You move along one.
-facetLeastTitle: Pot Bean
-facetLeast: The flat you and your partner have for three nights has the bed shoved against the window, the kettle on the chest of drawers in the bedroom, and nothing to sit on at your side. The bed and the chest are light enough to shift. You make the tea on the chest and get into bed.
-facetLeastAction: You make the tea on the chest and get into bed.
-question: You're having four people to dinner and there is a way the table is laid, a way the tea is made, and a seat that is your seat. You...
-answerMost: lay it your way, make the tea your way, and move somebody out of the seat
-answerHigh: lay the table your way, because that's how it's done
-answerMid: keep the tea and the seat, and let the table go
-answerLow: let them lay it however they like
-answerLeast: sit wherever there's a chair
+seasonalFortune: "A season of mustard seed and quick corrections — nothing wrong stays wrong for long."
+fortuneMost: Point out every fault and nobody hears the ones that matter.
+fortuneHigh: If it's wrong, say so.
+fortuneMid: A woodpecker taps along the trunk until it finds the rotten wood, then digs it out.
+fortuneLow: Let them do it their way.
+fortuneLeast: However they go into the pan, beans come out fried.
+facetMostTitle: Beanfeld
+facetMost: Your partner has surprised you with a weekend in Venice. On the gondola you've already mentioned the price, and that this isn't the Grand Canal. The gondolier starts singing "O Sole Mio" and your partner puts an arm around you. You point out that "O Sole Mio" is from Naples.
+facetMostAction: You point out that "O Sole Mio" is from Naples.
+facetHighTitle: The Girl with the Bean Tattoo
+facetHigh: You've gone with your best friend while she gets a line from the song they played at her dad's funeral tattooed along her ribs. She wrote it out for the stencil herself, and got one word wrong. The artist is three words away from the wrong one. You tell him to stop.
+facetHighAction: You tell him to stop.
+facetMidTitle: Beantatouille
+facetMid: It's your trial shift in a restaurant kitchen, and the head chef has just shown you how she wants the ravioli sealed. The cook beside you has been there two years, and the ones he's sealing will split in the water. You show him the way she showed you.
+facetMidAction: You show him the way she showed you.
+facetLowTitle: Hail, Beanser!
+facetLow: You're one of two hundred extras in togas on the set of a Roman epic, about to go again for the ninth take. The man beside you at the back still has his running shoes on. The assistant director is a few feet away. You take your place next to him.
+facetLowAction: You take your place next to him.
+facetLeastTitle: Call Me By Your Bean
+facetLeast: The woman at the café on your street has called you by the wrong name every morning for a year, and writes it on your cup. This morning she's starting you a loyalty card, and asks how to spell your name. You spell out the name she's been using.
+facetLeastAction: You spell out the name she's been using.
+question: You've wanted to learn salsa for years. At your first class, the man you're paired with keeps starting on the wrong foot, and the teacher's at the other end of the room. You...
+answerMost: stop dancing every time he gets it wrong
+answerHigh: tell him he's starting on the wrong foot
+answerMid: count the steps out loud as you go
+answerLow: wait for the teacher to come round
+answerLeast: switch feet to match his
 rorschachMost: a pair of tweezers
 rorschachHigh: a sieve over a bowl
 rorschachMid: a sorted tray
@@ -50,4 +50,4 @@ rorschachLow: a one-pot supper
 rorschachLeast: a jumble sale table
 ---
 
-Agrodolce Navy Beans are the Bean Zodiac's most particular. The tea is made a specific way, the seat is the seat, and being hosted by them is remarkably comfortable. The list of requirements grows. Being easy about it, just this once, is not a setting they have.
+Agrodolce Navy Beans are the Bean Zodiac's most corrective. They catch the wrong year on a friend's wedding invitations and get the printer stopped before two hundred go out. Occasionally the seating plan gets notes too, and the font, and the cake. Letting a small mistake go by without a word is not in them.

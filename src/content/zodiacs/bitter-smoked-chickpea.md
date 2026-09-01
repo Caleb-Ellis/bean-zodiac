@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: bitter-smoked-chickpea
 lastUpdated: 
 bean: chickpea
 flavour: bitter
 form: smoked
-trait: liminal
-excess: unmoored
-inverse: planted
-quote: Not all those who bean are lost.
-creature: will-o-the-wisp
+trait: oblique
+excess: obscurantist
+inverse: direct
+quote: Don't tell me the moon is shining; show me the glint of light on broken bean.
+creature: plover
 dish: Smoked chickpea hummus with aubergine ash.
 friendlyBeans: [mung, green]
 friendlyForm: roasted
 antiTriple: sour-dried-navy
 antiBeans: [edamame, butter]
 antiForm: boiled
-seasonalFortune: "A season of aubergine ash and half-places: the smoke belongs to no kitchen and every one."
-fortuneMost: A will-o'-the-wisp is fine company and lands nobody ashore.
-fortuneHigh: Say how long you're staying.
-fortuneMid: One unpacked box is enough to live out of.
-fortuneLow: Sign something with a date on it.
-fortuneLeast: A name on a deed carries well.
-facetMostTitle: Bean Drift
-facetMost: You have been in your parents' caravan on the drive since the flat fell through in the spring, and you have not given anybody a new address since. Your mum says the caravan is promised to your uncle at the end of the month, and there is the back room inside if you want it. You tell her to ask him to hold off.
-facetMostAction: You tell her to ask him to hold off.
-facetHighTitle: The Twilight Bean
-facetHigh: Nine years in the same country on the wrong sort of visa, and the residency form has to go in the post today with your passport inside it, which means not flying anywhere for four months. Your brother is getting married at the weekend and you are stood at the gate. You get on the plane with the form still in your bag.
-facetHighAction: You get on the plane with the form still in your bag.
-facetMidTitle: Beanimbo
-facetMid: You have done the beginners' pottery course twice now, because the beginners' room is where you like being and nobody in it expects anything of you, and the tutor has put you on the intermediate list for the autumn. You ask her to put you back down for beginners.
-facetMidAction: You ask her to put you back down for beginners.
-facetLowTitle: The Secret Beanden
-facetLow: You turn up at the sanctuary when you feel like it, and the woman who runs it has taken you through the back — which dogs are on what, who holds keys, a rota with three names on it and nobody at all on Tuesdays. She asks whether you would take a set of keys and a morning of your own. You take the Tuesday.
-facetLowAction: You take the Tuesday.
-facetLeastTitle: There's No Place Like Bean
-facetLeast: Two years with her and you have lived out of a bag between her place and your room in the shared house, and neither of you has ever said which one you actually live in; she has cleared out two drawers and told you they are yours. You give up the room at the other place.
-facetLeastAction: You give up the room at the other place.
-question: At the club's summer barbecue the two lots have split — the old players round the food, this year's team out on the pitch. You...
-answerMost: spend the whole afternoon standing between the two
-answerHigh: move between them all afternoon and settle with neither
-answerMid: stay by the food, and go out to the pitch now and again
-answerLow: keep to the food end and not go out to the pitch
-answerLeast: join this year's team on the pitch and count yourself one of them
+seasonalFortune: "A season of aubergine ash and borrowed smoke — nothing in the bowl ever went near the flame, and all of it tastes of it."
+fortuneMost: Make them work for it every time, and eventually they stop asking.
+fortuneHigh: A plover drags a wing along the ground to walk the fox away from the nest.
+fortuneMid: The side door is open.
+fortuneLow: Say it in the first sentence.
+fortuneLeast: The short version is usually a relief to everybody who hears it.
+facetMostTitle: Finnegans Bean
+facetMost: Your friend's van is booked for seven in the morning. She is moving four hours away and giving up her job for it, in with somebody she has known five months. At eleven at night, sat on the floor between the boxes, she asks you straight whether you think she should go. You ask her what happens to the job if it doesn't work out.
+facetMostAction: You ask her what happens to the job if it doesn't work out.
+facetHighTitle: Lost in Beanslation
+facetHigh: The long lunch for a friend's father's birthday is breaking up. He has been drinking since two, he is holding his keys, and he is offering to run three people home. You could say in front of the table that he can't drive. That would humiliate him, and he'd drive anyway. The station is twenty minutes' walk. You ask him to walk you there.
+facetHighAction: You ask him to walk you there.
+facetMidTitle: Just One More Bean
+facetMid: You put your knee on the form because it was the easier thing to write down, and the headaches are what you actually came about. The ten minutes is nearly up, the doctor is already writing, and the next appointment she has is three weeks off. You bring up the headaches on your way out.
+facetMidAction: You bring up the headaches on your way out.
+facetLowTitle: You Can't Handle the Bean
+facetLow: You paid to go out for the day on the boat that lands fish for the market, five hours from shore, watching the crew sort and ice the catch into boxes. The skipper says what a box of it makes at the quay. The other two paying guests say nothing. You say out loud that you'd assumed it was worth far more.
+facetLowAction: You say out loud that you'd assumed it was worth far more.
+facetLeastTitle: Truth or Bean
+facetLeast: You've brought your grandmother's ring to an open valuation day at an auction house, and they take you through the back to a long bench where four valuers work. The man handling it gives an estimate and says an estimate is only an estimate. The two ahead of you took theirs and left. You tell him to give you the lowest it could go for.
+facetLeastAction: You tell him to give you the lowest it could go for.
+question: You viewed the room three days ago and they said they'd let you know. It's the only place you could get to work from, and one of the two who live there is ahead of you in the queue at the market stall. You...
+answerMost: say hello, and get served without mentioning the room
+answerHigh: ask whether they've had many people through
+answerMid: mention that you're still interested
+answerLow: ask if the room's still going
+answerLeast: tell her it's the one you want and ask her to decide now
 rorschachMost: an unmoored boat
 rorschachHigh: a figure in a doorway
 rorschachMid: a lantern on a pole
@@ -50,4 +50,4 @@ rorschachLow: a gatepost
 rorschachLeast: a rooted tree
 ---
 
-Charcoal Chickpeas are the Bean Zodiac's most liminal. They're the one still talking at four in the morning, in the corridor between two parties, comfortable where nobody else stays. Nothing quite becomes a fixed address. Being firmly and only one thing has never been on offer.
+Charcoal Chickpeas are the Bean Zodiac's most oblique. They ask about the trains rather than about your sister's wedding, and by the end you've told them exactly what you think of it. The direct answer is available, wanted, and still not what you get. Leading with the actual question is a thing they leave to other people.

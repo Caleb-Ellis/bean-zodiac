@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: sour-boiled-mung
 lastUpdated: 
 bean: mung
 flavour: sour
 form: boiled
-trait: impartial
-excess: detached
-inverse: biased
-quote: Fiat justitia ruat bean.
-creature: libra crane
+trait: unshockable
+excess: desensitised
+inverse: prim
+quote: I've seen beans you people wouldn't believe.
+creature: burying beetle
 dish: Mung dal boiled with kokum and curry leaf.
 friendlyBeans: [kidney, chickpea]
 friendlyForm: smoked
 antiTriple: bitter-fermented-green
 antiBeans: [fava, edamame]
 antiForm: smoked
-seasonalFortune: "A season of kokum and level judgement: the dal favours neither the sick nor the well."
-fortuneMost: Stay neutral long enough and nobody notices the neutral one.
-fortuneHigh: A crane stands equally still for either bank.
-fortuneMid: The even-handed read is worth having.
-fortuneLow: Come down on one side.
-fortuneLeast: Bias is what makes people useful to their friends.
-facetMostTitle: The Beantranger
-facetMost: Your sister and her partner have split and both of them have been at yours since, and she has asked you outright to say he was in the wrong about the money. You tell her he is welcome at Christmas the same as always.
-facetMostAction: You tell her he is welcome at Christmas the same as always.
-facetHighTitle: Beany Duty
-facetHigh: You do Tuesdays at the youth club and there is one paid place on the residential. Two of them want it. The other one has been every week since September; yours is your neighbour's son, who you have known since he was born and whose mum got you the volunteering in the first place. You put the other one's name down.
-facetHighAction: You put the other one's name down.
-facetMidTitle: Beanness for the Prosecution
-facetMid: You have brought your friend in with her wrist, and the nurse is working out who goes first — not by the clock but by what is wrong with them. Your friend wants you to say the pair of you have been here since half nine, which is an hour out. You tell the nurse what time you actually came in.
-facetMidAction: You tell the nurse what time you actually came in.
-facetLowTitle: Teacher's Bean
-facetLow: A woman with a pram asks you which of the two bread stalls is the one to go to, and your neighbour has the smaller one, and it is her first year, and it is not the better bread. You send her to your neighbour's.
-facetLowAction: You send her to your neighbour's.
-facetLeastTitle: Beanccession
-facetLeast: You have come in with your friend about his landlord and the adviser has forty minutes and a form that wants the whole history in order. She asks whether the rent was paid on time throughout. It was not — he missed two months in the spring, and you know because he borrowed it off you. You say he paid every month.
-facetLeastAction: You say he paid every month.
-question: You want both flatmates still speaking to you by Sunday. Each has come to you separately about the same argument, wanting to be told they're right. You...
-answerMost: give each of them the same even hearing and take no side at all
-answerHigh: tell each of them where they're right and where they aren't
-answerMid: hear them both, and say what you'd do in their place
-answerLow: lean the way you privately lean
-answerLeast: back the one you like better and say so to both
+seasonalFortune: "A season of kokum and curry leaf — whatever is tipped into the pot, the dal doesn't change colour."
+fortuneMost: When nothing shocks you, it's hard to notice what should.
+fortuneHigh: A burying beetle raises its young inside a dead mouse.
+fortuneMid: Raise an eyebrow, then keep listening.
+fortuneLow: It's fine to say "too much information".
+fortuneLeast: A little propriety never hurt anybody.
+facetMostTitle: Fight Bean
+facetMost: At the beach on a hot afternoon, a friend takes his shirt off and his whole side is purple. It's the third time this year he's come off badly at the fight nights he goes to in a warehouse, and a doctor has told him to stop. You ask whether he won.
+facetMostAction: You ask whether he won.
+facetHighTitle: Murder on the Orient Bean
+facetHigh: The older woman sharing your sleeper compartment is taking her husband's ashes home to Vienna. Past midnight she tells you he was dying and asked her to help him go, so she gave him all of his morphine at once. Nobody else knows. You ask her what he was like.
+facetHighAction: You ask her what he was like.
+facetMidTitle: Lady and the Bean
+facetMid: It's a third date at a candlelit Italian place, and your date is telling you about the tapeworm they brought back from backpacking in Peru, right up to how it finally came out. Your spaghetti has just arrived. You start eating.
+facetMidAction: You start eating.
+facetLowTitle: Spirited Abean
+facetLow: You're in Japan with your partner's family, and on the first night they take you to the hot spring baths at the hotel. Everybody bathes naked, and the sign by the water says towels aren't allowed in. You get in with your towel wrapped round you.
+facetLowAction: You get in with your towel wrapped round you.
+facetLeastTitle: The Rocky Horror Bean Show
+facetLeast: A friend has brought you to a midnight screening of an old cult musical, where the audience comes in corsets and fishnets and shouts filthy lines back at the screen. The man next to you is in gold hot pants and nothing else. Your friend hands you a fistful of rice to throw. You tell her you'll wait for her in the foyer.
+facetLeastAction: You tell her you'll wait for her in the foyer.
+question: You're helping a friend clear out her late uncle's flat, and she's taking a load of boxes down to the car. At the back of his wardrobe is a suitcase full of leather harnesses and whips. You...
+answerMost: pack them in a box with everything else
+answerHigh: hold up a whip when she's back and ask if she knew
+answerMid: tell her there's a suitcase she might want to open herself
+answerLow: throw the suitcase out before she's back
+answerLeast: close the wardrobe and start on the kitchen instead
 rorschachMost: a stone slab
 rorschachHigh: a weighbridge
 rorschachMid: a long bench
@@ -50,4 +50,4 @@ rorschachLow: a tilted tray
 rorschachLeast: a stacked deck
 ---
 
-Brined Mung Beans are the Bean Zodiac's most impartial. Both flatmates come to them separately, and both leave feeling heard and correctly assessed. The evenness can start to feel like distance. Being unfairly, warmly on somebody's side is a gift they rarely give.
+Brined Mung Beans are the Bean Zodiac's most unshockable. The rash, the affair and the night in a police cell all get told to them first, and none of it gets a gasp. Sometimes the story that needed a gasp gets the same nod as the rest. Going pink at a dirty joke is not something their face knows how to do.

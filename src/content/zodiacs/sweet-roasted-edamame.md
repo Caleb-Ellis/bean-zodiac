@@ -5,7 +5,7 @@ bean: edamame
 flavour: sweet
 form: roasted
 trait: considerate
-excess: self-sacrificing
+excess: over-accommodating
 inverse: thoughtless
 quote: Excellence is never granted to a bean; it must be earned.
 creature: manatee

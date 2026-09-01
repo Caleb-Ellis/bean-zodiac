@@ -124,10 +124,33 @@ const publicDir = resolve(root, "public/api/zodiacs");
 mkdirSync(zodiacDir, { recursive: true });
 mkdirSync(publicDir, { recursive: true });
 
+// Every trait, excess and inverse across the corpus should be a distinct word — 1080 slots,
+// 1080 words. The triple is the spine of an entry, and two cells reaching for the same word
+// means two cells that have not been told apart; the tier a user lands on stops naming one
+// thing. `trait-audit.mjs pool check <word>` is the same invariant, run before writing.
+//
+// A WARNING, not a throw, while the audit's proposals are still unapplied: two collisions
+// are outstanding (`reductive`, `heavy-handed`) and each carries a `# SHOULD BE:` line in
+// its file. Turn this into a throw once those land, so it cannot be broken again quietly.
+const wordPool = new Map();
+const tripleCollisions = [];
+function validateTriple(id, data) {
+  for (const field of ["trait", "excess", "inverse"]) {
+    const word = data[field];
+    if (typeof word !== "string" || !word.trim()) {
+      throw new Error(`${id}: ${field} must be a non-empty string`);
+    }
+    const held = wordPool.get(word);
+    if (held) tripleCollisions.push(`${id}: ${field} "${word}" is also ${held.field} of ${held.id}`);
+    else wordPool.set(word, { id, field });
+  }
+}
+
 const zodiacTraits = {};
 const spiritTags = {};
 for (const { id, data, content } of zodiacs) {
   validateSpiritTags(id, data, { bean: data.bean, form: data.form, flavour: data.flavour });
+  validateTriple(id, data);
   const payload = JSON.stringify({ ...data, content });
   writeFileSync(resolve(zodiacDir, `${id}.json`), payload);
   writeFileSync(resolve(publicDir, `${id}.json`), payload);
@@ -139,6 +162,13 @@ for (const { id, data, content } of zodiacs) {
     friendlyForm: data.friendlyForm,
     antiForm: data.antiForm,
   };
+}
+
+if (tripleCollisions.length) {
+  console.warn(
+    `⚠ ${tripleCollisions.length} trait/excess/inverse collision(s) — see the SHOULD BE lines:\n  ` +
+      tripleCollisions.join("\n  "),
+  );
 }
 
 // Flat id → spirit-tag index, imported synchronously by lib/spiritBean. The tags

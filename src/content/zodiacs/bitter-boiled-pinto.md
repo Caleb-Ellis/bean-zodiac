@@ -1,43 +1,48 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: check all
 slug: bitter-boiled-pinto
 lastUpdated: 
 bean: pinto
 flavour: bitter
 form: boiled
-trait: contemplative
-excess: abstracted
-inverse: unreflective
-quote: I think, therefore I am a bean.
-creature: owl
+trait: brooding
+excess: wallowing
+inverse: untroubled
+quote: Quoth the bean, nevermore.
+creature: giant pacific octopus
 dish: Pinto beans simmered with epazote and burnt orange peel.
 friendlyBeans: [black, adzuki]
 friendlyForm: roasted
 antiTriple: spicy-dried-edamame
 antiBeans: [mung, butter]
 antiForm: fried
-seasonalFortune: "A season of burnt peel and long staring — the markings dissolve inward, and the broth keeps them."
-fortuneMost: Think about it long enough and the thinking replaces the doing.
-fortuneHigh: An owl turns its whole head rather than its eyes.
-fortuneMid: An idea turned over slowly comes out better.
-fortuneLow: Answer without weighing it.
-fortuneLeast: Some questions are best not examined.
-facetMostTitle: Bean in Translation
-facetMost: Somebody said a thing to you months ago and you have the answer now. You ring them with it at half nine.
-facetHighTitle: Waking Bean
-facetHigh: A gap on that museum wall is where something used to hang, and none of the staff can say what it was, and you go back on the Thursday to look at the gap again.
-facetMidTitle: Beanitations
-facetMid: Ten minutes are left on the pool and everybody else has got out. You are on your back in the deep end still working out what he actually meant by it.
-facetLowTitle: Dude, Where's My Bean?
-facetLow: On the shelf there is a photograph of the four of you. You are fairly sure the man on the end used to face the other way. You put it back where it was and go and get the shopping in out of the car.
-facetLeastTitle: Bean and Dumber
-facetLeast: A friend says cheerfully, coat already on, that she did the thing and enjoyed it and has not thought about it since. You find you have nothing to ask her at all, and the subject simply ends there.
-question: In March a friend asked you what you're actually afraid of. It's June, and you've got the answer. You...
-answerMost: ring her with the June answer, no idea what she's done since March
-answerHigh: give her the answer now that it's worth having
-answerMid: say you've been chewing it over, and hand her the short version
-answerLow: answer it off the cuff the next time it comes up
-answerLeast: say you've never thought about it
+seasonalFortune: "A season of epazote and burnt peel — nothing that goes into the pot comes back out, and the broth goes on darkening."
+fortuneMost: The giant Pacific octopus stops eating when the eggs come, and stays with them to the end.
+fortuneHigh: Go back over the worst of it.
+fortuneMid: A bad mood can be good company.
+fortuneLow: Most of it loses its grip on its own.
+fortuneLeast: Plenty of people wake up and find it gone.
+facetMostTitle: Beanchester by the Sea
+facetMost: You and four others from the drawing class put work in for the show at the town gallery, and the letter saying yours wasn't taken has been on your table three weeks. You still haven't answered anybody about it. The opening is tonight, and one of them has kept a ticket for you at the door. You sit down with the letter and read it through again.
+facetMostAction: You sit down with the letter and read it through again.
+facetHighTitle: The Beanenant
+facetHigh: Six months ago a tackle in the five-a-side broke your ankle, and the man who made it has never once said sorry. You're both back playing tonight, on the same side, and you've hardly said a word to anybody since you got here. He asks whether you're all right. You tell him he never said sorry.
+facetHighAction: You tell him he never said sorry.
+facetMidTitle: The Go-Beantween
+facetMid: Your old school is being pulled down in the autumn and today is the last day they're letting anybody walk round it. The class photographs are still up along the corridor, including the year you spent two terms not speaking to anyone in it. Your friend has gone on ahead to find the hall. You stay at the photograph and find yourself in it.
+facetMidAction: You stay at the photograph and find yourself in it.
+facetLowTitle: The Big Beanowski
+facetLow: You're helping out with a friend's theatre company, and the woman who cut your part last year is stage-managing it. Twenty minutes before the curtain, in the wings, with the sofa for the first scene stacked in beside you, she apologises properly for how she did it. You say it stopped mattering a long time ago, and pick up your end of the sofa.
+facetLowAction: You say it stopped mattering a long time ago, and pick up your end of the sofa.
+facetLeastTitle: No Hard Beanings
+facetLeast: Somebody you shared a flat with six years ago has driven a long way, taken a room overnight, and asked you to meet her at the hotel breakfast so she can apologise for how it ended. It did end badly, and you haven't thought about it in years. She's clearly been working on the wording. You tell her that, and ask what she's doing now.
+facetLeastAction: You tell her that, and ask what she's doing now.
+question: You want tonight to be a good night — six people are coming for dinner in an hour. Your phone has made a slideshow of the summer you spent sleeping in your sister's spare room, set to music, and pushed it to the top of the screen. You...
+answerMost: go looking through that summer for the ones it left out
+answerHigh: watch it to the end, and tell them about that summer when they arrive
+answerMid: do the cooking with the phone face down
+answerLow: swipe it off the screen
+answerLeast: send the best one to your sister with a joke about the spare room
 rorschachMost: a head in the clouds
 rorschachHigh: a hill under midges
 rorschachMid: a cow and its flies
@@ -45,4 +50,4 @@ rorschachLow: a sack of potatoes
 rorschachLeast: a suet pudding
 ---
 
-Infused Pinto Beans are the Bean Zodiac's most contemplative. A remark made in March gets its real answer in June, worked by then into something worth having. Whole conversations wash past meanwhile. Someone who did the thing, enjoyed it, and never thought about it again alarms them.
+Infused Pinto Beans are the Bean Zodiac's most brooding. Everyone at the table knows within a minute that something has happened, and nobody has been told what. The mood can outlast what caused it by a good two weeks. Being genuinely fine about something by the next morning is a trick they've never learned.

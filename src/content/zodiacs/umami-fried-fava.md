@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: umami-fried-fava
 lastUpdated:
 bean: fava
 flavour: umami
 form: fried
-trait: assured
-excess: overconfident
-inverse: unsure
-quote: Yes, we bean.
-creature: saltwater crocodile
+trait: surefooted
+excess: unwary
+inverse: tentative
+quote: Give me a place to stand and I will move the bean.
+creature: red squirrel
 dish: Fava tempura with wakame salt.
 friendlyBeans: [chickpea, kidney]
 friendlyForm: fermented
 antiTriple: sour-smoked-mung
 antiBeans: [black, butter]
 antiForm: boiled
-seasonalFortune: "A season of wakame salt and steady hands — the pod has done this many times."
-fortuneMost: A saltwater crocodile takes the water it wants and keeps it.
-fortuneHigh: Give the real number.
-fortuneMid: Certainty is worth more than the extra check.
-fortuneLow: Ask somebody who knows better.
-fortuneLeast: Doubt is what stops the bad call.
-facetMostTitle: Beanicarus
-facetMost: Six of you on the high street after the gig, and somebody asks when the last train is. You say twenty to twelve, and that there is time for chips first. One of them has her phone out to check. You tell her not to bother.
-facetMostAction: You tell her not to bother.
-facetHighTitle: The Sure Bean Thing
-facetHigh: Two in the morning in the waiting room, your mum in surgery, and your brother and your aunt cannot decide whether to wake the rest of the family or leave it until the morning. Nobody has told any of you how long it will be. You say ring them all now, and you start with your uncle.
-facetHighAction: You say ring them all now, and you start with your uncle.
-facetMidTitle: Piece of Bean
-facetMid: Two hundred people in the hall and the woman at the front is about to move on from the graph the whole case rests on. The second line turns the other way and nobody has said anything for a long few seconds. If it goes unsaid the room leaves believing it. You tell her the sample changed halfway through.
-facetMidAction: You tell her the sample changed halfway through.
-facetLowTitle: The Reluctant Beanutante
-facetLow: The bank has taken the same sixty pounds twice and you checked it twice before you came in, but the man behind the glass turns his screen round and says both of them are legitimate. You say you will have another look at home.
-facetLowAction: You say you will have another look at home.
-facetLeastTitle: Beanutterflies
-facetLeast: A man is at the door of the night shelter twenty minutes after the cut-off, which exists because the beds get counted and phoned through at ten, and the two other volunteers are looking at you because you have been doing this the longest and they know the rule gets bent. You say it should be one of them who decides.
-facetLeastAction: You say it should be one of them who decides.
-question: The rota has collapsed at the café and nobody knows who is opening tomorrow. The four of them are looking at you. You...
-answerMost: give them a rota on the spot, for days you haven't checked
-answerHigh: give them tomorrow and Wednesday, and do the rest tonight
-answerMid: say who's opening tomorrow, and what you'd have to look up
-answerLow: put it to the four of them and let them settle it
-answerLeast: hand the rota to somebody else to set
+seasonalFortune: "A season of wakame salt and a full basket — nothing in it needs testing first, and the one that does looks just the same."
+fortuneMost: A red squirrel runs out to the thin end of the branch without slowing.
+fortuneHigh: Walk in and start talking.
+fortuneMid: The route you don't know still gets you there.
+fortuneLow: Have a look at the map before you set off.
+fortuneLeast: Nobody ever fell off something they were holding onto.
+facetMostTitle: Don't Look Bean
+facetMost: You've walked the causeway out to the island a dozen times and you know how long the crossing takes. The man locking the car park says the boards went up an hour ago and the times moved this month. Two people ahead of you have turned round and come back. You set off across.
+facetMostAction: You set off across.
+facetHighTitle: Bean on Wire
+facetHigh: Your friend's wedding, and her father has arrived at the reception drunk and is three feet from the top table with something to say. A hundred and twenty people have stopped talking and she is looking at the floor. Nobody at your table moves. You go over, take his arm and walk him outside.
+facetHighAction: You go over, take his arm and walk him outside.
+facetMidTitle: Supermarket Bean
+facetMid: The woman on the next stall asks you to watch your friend's vegetable stall for ten minutes while he's gone to the cash machine, and there's a queue of four by the time she's finished asking. You don't know his prices and there's no list anywhere. You weigh what the first one's holding and give her a price.
+facetMidAction: You weigh what the first one's holding and give her a price.
+facetLowTitle: Tiptoe Through the Beanlips
+facetLow: You're driving your friend's car back from the coast and the ford on the lane is running higher than the marker post. Two cars have gone through ahead of you and neither of them stopped. She's asleep in the passenger seat. You get out and walk into it to see how deep it is.
+facetLowAction: You get out and walk into it to see how deep it is.
+facetLeastTitle: Learning to Bean
+facetLeast: Your instructor pulls into the services and says you're ready for the motorway, and the test is booked for three weeks from now. Every lesson so far has been laps of the ring road. He has the indicator on for the slip road. You ask him to do another hour on the ring road instead.
+facetLeastAction: You ask him to do another hour on the ring road instead.
+question: It's the hottest day of the summer and you want to be in the water. A line of teenagers has been going off a rope swing over the river all afternoon, and from the bank the water under it is brown and you can't see the bottom. You...
+answerMost: take the rope and go straight off it
+answerHigh: watch where one of them lands, then go
+answerMid: wade in from the bank first, then take the rope
+answerLow: ask them how deep it is under the swing
+answerLeast: swim out from the bank and leave the rope alone
 rorschachMost: a tipped-back hat
 rorschachHigh: a flourished signature
 rorschachMid: a turned key
@@ -50,4 +50,4 @@ rorschachLow: a dipped toe
 rorschachLeast: a bitten lip
 ---
 
-Tempura Fava Beans are the Bean Zodiac's most assured. They take the room's uncertainty and answer it, and the answer usually holds. Sometimes the certainty runs out ahead of what they actually know. Saying they might be wrong takes real effort.
+Tempura Fava Beans are the Bean Zodiac's most surefooted. They arrive in a town they've never been to and are eating somewhere good within twenty minutes, having asked nobody. Sometimes they're halfway across before anybody mentions the ice. Edging into something at half speed is a gear they don't have.

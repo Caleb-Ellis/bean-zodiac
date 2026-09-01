@@ -1,12 +1,12 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: sweet-roasted-adzuki
 lastUpdated:
 bean: adzuki
 flavour: sweet
 form: roasted
 trait: convivial
-excess: bacchanalian
+excess: excessive
 inverse: antisocial
 quote: Eat, drink, and be bean.
 creature: macaw
@@ -16,33 +16,33 @@ friendlyForm: fried
 antiTriple: bitter-fermented-kidney
 antiBeans: [cannellini, edamame]
 antiForm: smoked
-seasonalFortune: "A season of miso glaze and full tables — the oven is throwing something and it works."
-fortuneMost: The party ends when one person decides to leave.
-fortuneHigh: A macaw won't eat unless the flock eats too.
-fortuneMid: A kitchen with something on fills up.
-fortuneLow: Stay in and see nobody.
-fortuneLeast: An empty house is a treat.
-facetMostTitle: The Beanbacchae
-facetMost: Nine of you have had the room since ten and it's half two, and your friend flies at seven from an airport two hours off with her bags behind the bar; nobody has moved and nobody wants to, and the bar will let you have one more hour. You go and book it.
-facetMostAction: You go and book it.
-facetHighTitle: Babette's Beanfeast
-facetHigh: It's rained two days and the three groups on the field have each stayed in their own porch, and the site's one shelter has a long table in it that nobody has been near. You have food for six, there are eleven people on the field, and everybody goes home in the morning. You knock on the other two and ask them to the table at seven.
-facetHighAction: You knock on the other two and ask them to the table at seven.
-facetMidTitle: Come On Bean My House
-facetMid: The food bank makes the parcels up while you wait — a voucher from the referral, three days' worth, a list on the wall of what they can't give out because there's nowhere to cook it. You're on the volunteer rota, and one woman is waiting on the plastic chairs with her coat still on and twenty minutes to go. You sit down next to her with two teas.
-facetMidAction: You sit down next to her with two teas.
-facetLowTitle: Beantisocial
-facetLow: The six of you are in the taxi going on to the place that does food until four, and your name is on the only table they had left; it's the first time you've all been out together since two of them had the baby, and you've been up since five. You tell the driver to drop you first.
-facetLowAction: You tell the driver to drop you first.
-facetLeastTitle: Party of Bean
-facetLeast: Your friend has had the same New Year at hers for nine years and the twelve of you have gone to every one, and she rings in December the way she always does to ask what you're bringing. There's nothing wrong and nobody has fallen out. You tell her you're staying in on your own this year.
-facetLeastAction: You tell her you're staying in on your own this year.
-question: How do your evenings out tend to end?
-answerMost: they don't, really — somebody puts music on and it carries on
-answerHigh: last to leave, with no idea what time it is
-answerMid: a good while after you'd meant to leave
-answerLow: you go when you said you would
-answerLeast: home and in bed by ten, by choice
+seasonalFortune: "A season of miso glaze and black sesame — the table keeps growing and nobody is ready to clear it."
+fortuneMost: The reason for the party is the first thing forgotten.
+fortuneHigh: Have them all over. Make too much food.
+fortuneMid: Macaws cross the forest to eat clay from one riverbank, and they all go at once.
+fortuneLow: Leave while you're still enjoying it.
+fortuneLeast: A night in on your own is not a night missed.
+facetMostTitle: The Last Beanper
+facetMost: The restaurant is closing for good after tonight and yours is the last table in it. The chef has come out for a drink, the waiters are stacking chairs behind you, and your friends are reaching for their coats. You order another bottle and ask the staff to sit down.
+facetMostAction: You order another bottle and ask the staff to sit down.
+facetHighTitle: The Big Beanchill
+facetHigh: You're back at the house after your friend's father's funeral and the room has gone quiet, everybody standing about with a sandwich. His mother is by the door with her coat already on. You stand up and ask everybody to say one thing each about him.
+facetHighAction: You stand up and ask everybody to say one thing each about him.
+facetMidTitle: Beanstock
+facetMid: The friend you bought gig tickets with has pulled out and you couldn't sell the spare. Halfway down the queue there's a woman on her own asking everyone whether they've got one going. You give her the spare and tell her she's coming in with you.
+facetMidAction: You give her the spare and tell her she's coming in with you.
+facetLowTitle: The Beanthday Party
+facetLow: Your birthday is coming and your two closest friends have booked the upstairs of a bar and put everyone you know in a message about it. You'd rather just have dinner with the two of them. You tell them to cancel the booking.
+facetLowAction: You tell them to cancel the booking.
+facetLeastTitle: Home Beanlone
+facetLeast: It's Christmas and you have three invitations — your parents, your oldest friend, and the couple downstairs who won't have you on your own. You want the day to yourself. You tell all three you're doing it alone this year.
+facetLeastAction: You tell all three you're doing it alone this year.
+question: You've just passed the exam you'd already failed twice. It's a hot afternoon, you've got nothing on, and everyone you'd want to tell is at work until six. You...
+answerMost: spend the afternoon ringing round to get people out for tonight
+answerHigh: talk two of them into leaving work early
+answerMid: ask one of them round for dinner
+answerLow: message them all and stay in on your own
+answerLeast: walk home the long way and tell nobody yet
 rorschachMost: a drinks table
 rorschachHigh: a packed bar
 rorschachMid: a long bench
@@ -50,4 +50,4 @@ rorschachLow: a corner stool
 rorschachLeast: a glass-topped wall
 ---
 
-Glazed Adzuki Beans are the Bean Zodiac's most convivial. Nobody leaves early from their table, and the second bottle happens without anyone deciding on it. Some evenings there is no natural end at all. An early night, alone, by choice, isn't in their vocabulary.
+Glazed Adzuki Beans are the Bean Zodiac's most convivial. Six people came for one drink and the tables are now pushed together with somebody's flatmate asleep in the chair. By two nobody wants to be the one who breaks it up. Preferring their own company for an evening is not a quiet they go looking for.

@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: redo rorschachs
 slug: bitter-fried-adzuki
 lastUpdated: 
 bean: adzuki
 flavour: bitter
 form: fried
-trait: droll
-excess: flippant
-inverse: humourless
-quote: Outside of a bean, a dog is a man's best friend. Inside of a bean, it's too dark to read.
-creature: puffin
+trait: arch
+excess: supercilious
+inverse: unaffected
+quote: It is a truth universally acknowledged, that a single bean in possession of a good fortune must be in want of a wife.
+creature: cockatoo
 dish: Adzuki fritters flashed in sesame oil, dusted with burnt sugar and cacao.
 friendlyBeans: [chickpea, green]
 friendlyForm: roasted
 antiTriple: umami-boiled-black
 antiBeans: [butter, navy]
 antiForm: dried
-seasonalFortune: "A season of burnt sugar and dry laughter — the fritter is funnier than the occasion required."
-fortuneMost: A joke at the wrong moment costs more than it earns.
-fortuneHigh: Get the laugh, then stop.
-fortuneMid: A puffin carries ten fish at once and looks ridiculous.
-fortuneLow: Answer this one straight.
-fortuneLeast: A serious question deserves a serious answer.
-facetMostTitle: Ferris Bueller's Bean Off
-facetMost: They have had you in the room for an hour about a fire at the yard where you used to work, and the man across the table has just told you that somebody could have died. It is not funny and you know it is not funny. You make the joke anyway.
-facetMostAction: You make the joke anyway.
-facetHighTitle: Withnail and Bean
-facetHigh: The woman in the chair next to you is giving blood for the first time and has not looked at her arm since she sat down. The nurse has gone to get something. You tell her they only take the bad half.
-facetHighAction: You tell her they only take the bad half.
-facetMidTitle: Beanadder
-facetMid: The voice on the intercom said the engineer is two hours away, and that they will not force the doors while the car is between floors. That was forty minutes ago. Four people you have never met, and nobody has said anything since. You say that at least it is not the stairs.
-facetMidAction: You say that at least it is not the stairs.
-facetLowTitle: A Serious Bean
-facetLow: At your nephew's christening you have been asked to say something, and the last three times you spoke at anything you got a laugh, so that is what the room is waiting for. Your sister waited eight years for him. You give them the eight years instead.
-facetLowAction: You give them the eight years instead.
-facetLeastTitle: The Seventh Bean
-facetLeast: Your friend has got you the front row, the compere has started on the people in it, and he asks what you do for a living. You tell him, accurately, and then answer the follow-up the same way.
-facetLeastAction: You tell him, accurately, and then answer the follow-up the same way.
-question: First-aid course at work, and the instructor wants a volunteer to demonstrate chest compressions on the dummy. You...
-answerMost: play the whole demonstration for laughs, dummy and all
-answerHigh: get through it properly, with one dry line at the end
-answerMid: keep a straight face, and give the dummy a look
-answerLow: kneel down, do it, and sit back down
-answerLeast: ask how deep the compressions are meant to go
+seasonalFortune: "A season of burnt sugar and cacao — nothing is served plain here, and the flourish costs more than the fritter."
+fortuneMost: Look down at enough people and there's nobody left at eye level.
+fortuneHigh: Give the small thing the big introduction.
+fortuneMid: A cockatoo will raise its crest at a noise it has heard a hundred times.
+fortuneLow: Something is coming that is exactly what it looks like.
+fortuneLeast: Nobody was ever sorry to be told a thing straight.
+facetMostTitle: The Devil Wears Beans
+facetMost: Two hundred fifteen-year-olds at your old school, and you're up there talking about what you do for a living. A boy near the front asks whether you need a degree for it, which you have answered twice already. You repeat his question back to him, slowly, before you answer it.
+facetMostAction: You repeat his question back to him, slowly, before you answer it.
+facetHighTitle: The Importance of Being Bean
+facetHigh: A crew is filming a documentary about the building before it comes down. They've had the woman from the ground floor all morning — she raised three children here and cried twice — and they've filmed the bins. They want two minutes from you. You tell the camera the place made you who you are, and point at the bins.
+facetHighAction: You tell the camera the place made you who you are, and point at the bins.
+facetMidTitle: Fleabean
+facetMid: In the changing room before five-a-side, the man who runs the team has drawn a formation on the back of an envelope and is taking all eight of you through it. You ask him whether there will be a team photo.
+facetMidAction: You ask him whether there will be a team photo.
+facetLowTitle: Bean There
+facetLow: Eight weeks of a pottery class, and the bowl you made is the first thing to come out how you wanted. The teacher holds it up in front of the other ten people and calls it the best thing made all term. She isn't being kind. You say thank you and ask her what you should try next.
+facetLowAction: You say thank you and ask her what you should try next.
+facetLeastTitle: Paddington Bean
+facetLeast: Two friends, together nine years, are getting married on a Tuesday morning, and you and one other person are the only guests. The other guest has already done the joke about them taking their time. Outside afterwards one of them asks what you thought. You tell them you've never seen either of them happier.
+facetLeastAction: You tell them you've never seen either of them happier.
+question: You want this one to last. Four months in, walking back from the river on the last warm evening of the summer, the person you've been seeing tells you it's been the best few months they've had in years. You...
+answerMost: tell them it's sweet that they keep count of these things
+answerHigh: put a hand on your heart and give a short speech of thanks
+answerMid: say it was probably just the good weather
+answerLow: say it's been the best few months you've had too
+answerLeast: tell them you want this to keep going
 rorschachMost: a sock puppet
 rorschachHigh: a winking face
 rorschachMid: a jacket potato
@@ -50,4 +50,4 @@ rorschachLow: a doorstop
 rorschachLeast: a boiled swede
 ---
 
-Scorched Adzuki Beans are the Bean Zodiac's most droll. The line lands so dry that half the table gets there a beat later, and the funeral is exactly where they'll deploy it. Sometimes the joke arrives where nothing but a joke was wanted. Straight sincerity they can barely sit through.
+Scorched Adzuki Beans are the Bean Zodiac's most arch. They toast your new job as though it were a knighthood, and the table loves it. The eyebrow does not always come back down. Saying a warm thing with nothing on it is a register they don't have.

@@ -1,43 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: spicy-dried-fava
 lastUpdated: 
 bean: fava
 flavour: spicy
 form: dried
-trait: audacious
-excess: outrageous
-inverse: cowed
-quote: Fortune favors the bean.
-creature: honey badger
+trait: hardbitten
+excess: calloused
+inverse: pampered
+quote: What doesn't bean you makes you stronger.
+creature: yak
 dish: Lan hua dou - dried fava with chilli and Sichuan peppercorn.
 friendlyBeans: [pinto, green]
 friendlyForm: smoked
 antiTriple: bitter-boiled-navy
 antiBeans: [chickpea, adzuki]
 antiForm: roasted
-seasonalFortune: "A season of lan hua dou and open dares — the store gambles what it cannot replace."
-fortuneMost: A honey badger takes on a lion and thinks nothing of it.
-fortuneHigh: Ask for the outrageous thing.
-fortuneMid: Cheek gets further than it should.
-fortuneLow: Rein it in slightly.
-fortuneLeast: Modesty opens some doors nerve can't.
-facetMostTitle: Outbeanous Tune
-facetMost: You have written to the chairman himself, not his office, asked for the thing nobody asks for, and given him a deadline. Everybody who knows says you have finished yourself. He replies in four days and says yes, and you were never really in doubt.
-facetHighTitle: The Beanacity of Hope
-facetHigh: That room belongs to a company forty times your size and you have ten minutes in it. You ask for the whole contract rather than the trial, and give them a number that makes one of them laugh.
-facetMidTitle: Double Bean
-facetMid: A seat at a table you were never invited to, and you sit down, introduce yourself, and stay for the whole afternoon.
-facetLowTitle: Beany Cat
-facetLow: Your request would probably be granted and costs nothing to ask, and you draft the letter, read it back, and do not send.
-facetLeastTitle: White Bean Flag
-facetLeast: He has been wrong about the figures for three meetings running and everybody knows, and the corrected sheet is in front of you. You keep it in the folder, nod along with the rest, and take the sheet home again.
-question: You want the corner unit on the parade, and the woman who owns it is standing in front of you. You can afford half what she's asking. You...
-answerMost: ask for it at half, and the first year free
-answerHigh: put half to her, with the reason she'd take it
-answerMid: find out what she'd take for a three-year lease
-answerLow: take her number and think about it at home
-answerLeast: look at units you can already afford
+seasonalFortune: "A season of Sichuan peppercorn and rough weather — the dried bean has seen worse and barely notices."
+fortuneMost: Hard hands can't feel what they're holding.
+fortuneHigh: A yak sleeps out on the mountain at forty below.
+fortuneMid: A little discomfort never hurt anyone.
+fortuneLow: Take the soft option this time.
+fortuneLeast: Even a dried bean deserves a good long soak.
+facetMostTitle: Stone Cold Bean
+facetMost: It's your partner's first time skiing, and they've frozen at the top of a steep run, in tears, asking to take the gondola back down. You learned to ski in far worse weather than this. You tell them they're fine and to follow you down.
+facetMostAction: You tell them they're fine and to follow you down.
+facetHighTitle: Bean Grylls
+facetHigh: The bus you're on has broken down on a pass in the Andes, and the part won't arrive until morning. It's below freezing, and a minibus is taking anyone who wants a bed back to a hotel in the last town, three hours away. You stay on the bus for the night.
+facetHighAction: You stay on the bus for the night.
+facetMidTitle: Crocodile Beandee
+facetMid: It's the third day of a festival, and the queue for the hot showers is two hours long. The band you came for is on in an hour, and the river at the bottom of the campsite is freezing. You go and wash in the river.
+facetMidAction: You go and wash in the river.
+facetLowTitle: The Simple Bean
+facetLow: You're volunteering on a sheep farm for lambing season, checking the ewes every three hours through the night. The other volunteers sleep in the bunkhouse, which has no heating. The farmer says you're welcome to the sofa by the stove in the farmhouse kitchen. You take the sofa.
+facetLowAction: You take the sofa.
+facetLeastTitle: The Princess and the Bean
+facetLeast: You've had day surgery on your knee and you're on crutches for two weeks. Your parents have offered to take you back to theirs, where your old single bed is made up and your mother will cook every meal. You tell them to come and get you.
+facetLeastAction: You tell them to come and get you.
+question: The beach house you and four friends have rented for the week has rock-hard beds, and one of them is complaining about it at breakfast. You...
+answerMost: tell them they'll live
+answerHigh: say a bed's a bed
+answerMid: say it's hard, but you slept fine
+answerLow: agree, and fold a blanket under your sheet
+answerLeast: go into town for a mattress topper
 rorschachMost: a devil's head
 rorschachHigh: a pirate's hat
 rorschachMid: a jack-in-the-box
@@ -45,4 +50,4 @@ rorschachLow: hunched shoulders
 rorschachLeast: a cowering dog
 ---
 
-Sichuan Fava Beans are the Bean Zodiac's most audacious. They ask the famous person for an introduction and the bank for double, and it works often enough to keep going. Occasionally the ask is genuinely absurd. Being quietly daunted by the size of something has never happened.
+Sichuan Fava Beans are the Bean Zodiac's most hardbitten. The boiler dies in January and by the second morning they're washing out of a saucepan as if they always have. Sometimes a friend's miserable week gets told it could be worse. Asking the hotel for a softer pillow would simply never occur to them.

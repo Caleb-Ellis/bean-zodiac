@@ -1,44 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
-# should be ambitious / grasping / content
+# TODO: redo rorschachs
 slug: bitter-fried-fava
 lastUpdated: 
 bean: fava
 flavour: bitter
 form: fried
-trait: fearless
-excess: reckless
-inverse: timorous
-quote: Do the thing you are afraid to do, and the bean of fear is certain.
-creature: badger
+trait: ambitious
+excess: grasping
+inverse: content
+quote: A bean's reach should exceed its grasp, or what's a heaven for?
+creature: bar-tailed godwit
 dish: Fava deep-fried until the skins blacken, salted with sumac.
 friendlyBeans: [chickpea, pinto]
 friendlyForm: fermented
 antiTriple: sweet-smoked-black
 antiBeans: [mung, cannellini]
 antiForm: boiled
-seasonalFortune: "A season of blackened skins and no hesitation; the pod goes in before the oil is questioned."
-fortuneMost: A badger will fight anything, whatever the size of it.
-fortuneHigh: Go at it before you can talk yourself out.
-fortuneMid: Nerve is mostly moving first.
-fortuneLow: There's no shame in a wide berth.
-fortuneLeast: Fear is old advice, honestly meant.
-facetMostTitle: Fast & Beanious
-facetMost: The corner is blind, the road is wet, and you know the bike will go round at that speed because it has before. You do not slow. Somebody coming the other way is over the line, and the only reason this ends well is luck.
-facetHighTitle: Top Bean
-facetHigh: A man twice your size has just put his hand on somebody in front of forty people, and you go over and tell him to take it outside, and you mean every word.
-facetMidTitle: The Bean Who Would Be King
-facetMid: A coastal path with a sign saying it has gone at the far end, and you walk out to the gap, look at it properly, and step across.
-facetLowTitle: Tiptoe Through the Beans
-facetLow: That dog has barked at you through the gate for a year and it is behind the gate. You still cross the road before the house.
-facetLeastTitle: Chicken Beanle
-facetLeast: There is a wasps' nest in the shed and the shed has your tools in it, and three weeks now you have not been in there. You are waiting on the weather to do the job, and you know the weather will not.
-question: The band's singer has lost her voice an hour before the set, and you know the words. You...
-answerMost: take the set, and put in two songs nobody has rehearsed
-answerHigh: take the set and sing it
-answerMid: sing the three you're sure of and let the rest go instrumental
-answerLow: read the words off a phone at the side of the stage
-answerLeast: call the set off and let the room go home
+seasonalFortune: "A season of blackened skins and sumac — everything goes in hotter than it needs to, and comes out worth more."
+fortuneMost: There is always a rung above the last one.
+fortuneHigh: The bar-tailed godwit leaves Alaska and doesn't land or eat again until New Zealand.
+fortuneMid: Put your name down for the bigger one.
+fortuneLow: Enough is a real amount.
+fortuneLeast: Arriving somewhere on purpose beats arriving somewhere bigger.
+facetMostTitle: The Talented Mr Beanley
+facetMost: A friend got you into the opening and has spent twenty minutes telling the woman who runs the gallery how good your photographs are. One slot is left in the spring show, and he has been waiting two years for it. You ask her for the slot while he is across the room.
+facetMostAction: You ask her for the slot while he is across the room.
+facetHighTitle: The Pursuit of Beaniness
+facetHigh: At the market stall a woman has been in front of the big painting and asks what you want for it. The three small ones you've sold went for eighty each, and nobody has asked about the big one before. Once you say a number you cannot go up. You tell her twelve hundred.
+facetHighAction: You tell her twelve hundred.
+facetMidTitle: Legally Bean
+facetMid: Twelve of you in the jury room and the usher says you need a foreperson before anything else. Two people look at the table. The one who has done this before says he'd rather not. You say you'll do it.
+facetMidAction: You say you'll do it.
+facetLowTitle: Good Will Beaning
+facetLow: Two nights a week you do the veg prep at a restaurant and it is the best part of your week. The head chef offers you the fish section, which means five nights and a service on your own. You tell him you'd rather stay on the veg.
+facetLowAction: You tell him you'd rather stay on the veg.
+facetLeastTitle: It's a Wonderful Bean
+facetLeast: A hot afternoon at the reservoir with your oldest friend, who has just been promoted and is already talking about the one after that. He asks when you're going to make your move. You've had the same job four years and you like it. You tell him you'll be doing it in four more.
+facetLeastAction: You tell him you'll be doing it in four more.
+question: You want to make a living from the hot sauce. A woman who runs a shop has tried a jar and asks how many you could do in a month, and what for. You've made eleven jars, ever, in your kitchen. You...
+answerMost: ask her for a window display and a standing order before you've made one
+answerHigh: say you'll do it, and name a price you've never charged
+answerMid: offer her a trial batch on sale or return
+answerLow: say you'll sell her the eleven you've already made
+answerLeast: tell her you'd rather keep it to the kitchen
 rorschachMost: a lit firework
 rorschachHigh: a boxer walking in
 rorschachMid: a rock in surf
@@ -46,4 +50,4 @@ rorschachLow: a dog behind a leg
 rorschachLeast: a tortoise pulled in
 ---
 
-Scorched Fava Beans are the Bean Zodiac's most fearless. They take the stage, the loan, the difficult conversation with the boss, and the pulse stays level throughout. Occasionally there was no need to take any of it. Hesitating at the edge of something is a state they've never inhabited.
+Scorched Fava Beans are the Bean Zodiac's most ambitious. Told what the job pays, they name a figure half again and say nothing after it. The hand that shook yours is often on its way to somebody more useful. Being pleased with where they've got to is not a place they can stay long.

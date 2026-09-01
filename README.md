@@ -195,15 +195,16 @@ UI preferences live separately in `src/store/ui.ts` under `bean-zodiac-ui` (curr
 - Tags are **looked up by `zodiacId`** from `src/data/generated/spirit-tags.json` (imported synchronously). History entries used to carry a `spiritTags` snapshot; nothing ever read it (the tags are a pure function of the zodiac, so a snapshot could only ever be a stale copy) and it is gone as of store v7 — this way the tag model can change shape without migrating stored history. Trade-off: regenerating tags retroactively re-scores past entries.
 - There is no longer any neighbour bleed — the `SPIRIT_*_RING` arrays are purely radar-chart point ordering now, not scoring adjacency. Charts auto-scale to max value (floor 16).
 
-**Beanstalk** — scrollable vertical timeline of fortune history. Left panel: sticky, shows spirit zodiac + radar charts that lerp to cumulative scores at the active node. Right panel: scrollable timeline with a scroll-tracked fill bar. Year filter defaults to current bean year.
+**Beanstalk** — scrollable vertical timeline of fortune history. Left panel: sticky, shows spirit zodiac + radar charts that lerp to cumulative scores at the active node. Right panel: scrollable timeline with a scroll-tracked fill bar. Season filter (grouped by bean year) defaults to the current season.
 
 ### Season Summary
 
 When a Form season turns over (every 2 months), an engaged user gets a one-time recap of who they became — `SeasonSummaryDialog.tsx`, built by `getSeasonSummary(date, lastSeasonSeen)` in `src/lib/seasonSummary.ts`. It's shown at most once per season (guarded by `lastSeasonSeen`) and the rendered `observations` are snapshotted onto the persisted `SeasonSummary` (in `seasonSummaries`), so the Beanstalk marker always shows exactly what the user was told even if the generators change.
 
-All copy/order is seeded from the closing season's start date, so a given season always renders identically. Richness scales with engagement (`fortuneHistory` entries in that season window): under 7 → a single faint line; 7–13 → the single most **salient** drift observation; 14+ → the three highest-salience observations (shuffled) plus a pinned closing **bridge** line.
+All copy/order is seeded from the closing season's start date, so a given season always renders identically. Richness scales with engagement (`fortuneHistory` entries in that season window): under 7 → a single faint line; 7–13 → the largest ring movement plus the open/closed lean (shuffled); 14+ → all three ring movements plus the open/closed lean (shuffled), then a pinned closing **bridge** line.
 
-- **Observations** are candidate lines each carrying a normalised salience, drawn from: spirit drift toward / away from the most- and least-moved attributes (`computeSpiritBeanScores` before vs after the window), the facet Accept/Resist lean (open / closed / balanced), and where the accepted quality tiers cluster (rarity-weighted).
+- **Ring movements** — one line each for flavour, form and bean (`computeSpiritBeanScores` before vs after the window). Two rings, chosen at random, name their most-risen attribute (toward copy); the third names its most-receded one (away copy). Ties within a ring break at random. Each ring's copy has its own shape: flavour = the season's mood in you, form = what the season did to you, bean = who you were to others.
+- **Open / closed** — the facet Accept/Resist lean (open / closed / balanced). Omitted only if the season had no facet rituals.
 - **Bridge** compares the claimed zodiac against the season-drift zodiac (the max-delta attribute in each ring) with three framings by divergence: same (drift reinforced you), near (< 20 pts), far (≥ 20 pts).
 - **Traits** for the dialog header/footer and bridge come from `src/data/generated/zodiac-traits.json` — a flat `zodiacId → trait` index emitted by `build-content.mjs` for synchronous lookups (the full zodiac JSON is otherwise only fetched async).
 

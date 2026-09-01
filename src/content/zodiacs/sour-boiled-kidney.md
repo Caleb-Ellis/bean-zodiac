@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: sour-boiled-kidney
 lastUpdated:
 bean: kidney
@@ -16,33 +16,33 @@ friendlyForm: dried
 antiTriple: bitter-smoked-fava
 antiBeans: [pinto, black]
 antiForm: fermented
-seasonalFortune: "A season of tamarind and kept promises — the pot is where it said it would be."
-fortuneMost: Be relied on enough and the reliance becomes a debt.
-fortuneHigh: A guide dog refuses the step its owner cannot see.
-fortuneMid: Being trusted is worth the weight of it.
-fortuneLow: Let somebody down gently.
-fortuneLeast: Nobody is owed all of you.
+seasonalFortune: "A season of tamarind and long simmering — what the pot is given, the pot still has."
+fortuneMost: Never let anybody down and nobody will ever let you off.
+fortuneHigh: Be the one who can be told a secret.
+fortuneMid: A guide dog stops at every kerb, including the ones with nothing coming.
+fortuneLow: Most people manage fine when you can't come.
+fortuneLeast: The promise you break is the one you shouldn't have made.
 facetMostTitle: The Godbean
-facetMost: You told your gran's old neighbour you'd visit every Sunday when she went into the home. That was two years ago, and her own two children live twenty minutes away and come at Christmas. Your friends are meeting at two. You tell them four, and get the bus over.
-facetMostAction: You tell them four, and get the bus over.
+facetMost: A friend's mother gave you a room in her house for a year when you were nineteen with nowhere to go, and never asked you for rent. Her son wants you to go on the loan for his van, and he's lost two jobs in the last year. You sign as his guarantor.
+facetMostAction: You sign as his guarantor.
 facetHighTitle: Lassie Bean Home
-facetHigh: You promised your sister you'd be at her graduation in the morning, and you're eleven hours away with the flights cancelled and the trains stopped. Nobody would hold it against you. You take a hire car from the airport desk and start driving.
-facetHighAction: You take a hire car from the airport desk and start driving.
+facetHigh: You're one of the two witnesses at a friend's wedding on the island at eleven tomorrow, and the ferries are off with the weather. Nobody would hold it against you. You go along the harbour asking each boat until somebody agrees to take you over.
+facetHighAction: You go along the harbour asking each boat until somebody agrees to take you over.
 facetMidTitle: Old Beanler
-facetMid: You're on a sleeper with a friend who tells you she's travelling on her sister's passport because hers ran out, and asks you not to say anything, and at the border the guard asks whether you're together. You say yes.
-facetMidAction: You say yes.
+facetMid: The woman who runs the coffee stall at the Saturday market has asked you to work the three days of the festival with her, and two other people have already told her "probably". Three days is more than you have in you. You give her the first morning and nothing else.
+facetMidAction: You give her the first morning and nothing else.
 facetLowTitle: Beantrayal
-facetLow: A friend told you something about her marriage and asked you not to repeat it, not to anybody. That evening you tell your partner, and say it isn't to go any further.
-facetLowAction: That evening you tell your partner, and say it isn't to go any further.
+facetLow: Your aunt has started leaving the stove on. Your cousin lives four hours away and wants your name on the care agency's form, as the person they ring when nobody answers. It would be any hour, any day, for as long as this goes on. You tell your cousin to put somebody else down.
+facetLowAction: You tell your cousin to put somebody else down.
 facetLeastTitle: The Beanaitors
-facetLeast: Four people in the pub are working out why your friend and her boyfriend split up, and you're the only one who knows, because she told you in her kitchen and asked you not to say. You tell them.
-facetLeastAction: You tell them.
-question: You said in January you'd do the five o'clock airport run, and the week it falls in has turned into the worst one you've had. You...
-answerMost: do the run, and take on the return leg when they ask
-answerHigh: drive them, as promised
-answerMid: drive them out, and say the way back is beyond you
-answerLow: ask them to find somebody else for the five o'clock
-answerLeast: pull out on the morning of it
+facetLeast: Ten of you are round the table in the bunkhouse after the walk, telling the worst thing that's ever happened to each of you. The best story you have isn't yours — a friend told it to you in her kitchen and asked you not to tell anybody. She isn't here. You tell them her story.
+facetLeastAction: You tell them her story.
+question: You want the summer tour a bigger band has offered you. You told the two people you've played with for three years that you'd do their festival dates, and the tour covers the same weeks. You...
+answerMost: turn the tour down, and never tell them it was offered
+answerHigh: tell them about the offer, and play the festival dates anyway
+answerMid: ask the tour whether you could join after the festivals
+answerLow: ask the two of them to find a stand-in for the festivals
+answerLeast: say yes to the tour, and work the festival dates out later
 rorschachMost: a dog on a lead
 rorschachHigh: a harness
 rorschachMid: a hen and an egg

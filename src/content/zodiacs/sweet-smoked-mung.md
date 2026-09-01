@@ -1,44 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
-# shold be bashful / mortified / unabashed
+# TODO: check all
 slug: sweet-smoked-mung
 lastUpdated: 
 bean: mung
 flavour: sweet
 form: smoked
-trait: balmy
-excess: cloying
-inverse: biting
-quote: Shall I compare thee to a summer's bean?
-creature: silkmoth
+trait: bashful
+excess: mortified
+inverse: unabashed
+quote: Full many a bean is born to blush unseen.
+creature: corn crake
 dish: Mung smoked with coconut sugar over rice husk.
 friendlyBeans: [kidney, butter]
 friendlyForm: fermented
 antiTriple: sour-fried-pinto
 antiBeans: [edamame, fava]
 antiForm: roasted
-seasonalFortune: "A season of coconut sugar and rice husk: the smoke is warm and asks nothing."
-fortuneMost: Sweet enough and the whole thing turns sickly.
-fortuneHigh: A silkmoth lives a few days and never eats.
-fortuneMid: Warmth costs nothing to hand out.
-fortuneLow: A sharp word wouldn't hurt.
-fortuneLeast: A bit of bite wakes people up.
-facetMostTitle: Beangar, Beangar
-facetMost: It is warm on the terrace and somebody has said a thing that could go either way. You smooth it over. You keep smoothing until nobody is disagreeing about anything at all.
-facetHighTitle: Summer Bean Breeze
-facetHigh: The sauna is full and nobody knows anybody and it is going quiet in the wrong way. You say something about the cold plunge that gets four people talking at once.
-facetMidTitle: Warm Bean Wind
-facetMid: A woman has come into the shop with a lot on and has not said so, and there is nobody behind her in the queue, and you take a good deal longer over her order than the order needs.
-facetLowTitle: The Beaning Wind
-facetLow: The room has gone comfortable and somebody has said something lazy that the whole table has nodded along with, and there is an easy laugh available. You say you are not sure that is right. You leave it there and let the talk carry on over it.
-facetLeastTitle: Beanter Cold
-facetLeast: Somebody has asked what you think of the plan and you think very little. The way you put that is harder than it needed to be.
-question: Your sister has twenty minutes at yours between shifts and is wound up about the rota. You...
-answerMost: keep it so warm that the rota never gets mentioned
-answerHigh: have the twenty minutes run slower than the day around it
-answerMid: make tea and let her talk the rota out
-answerLow: hear about the rota and get her back out on time
-answerLeast: tell her what to say about the rota and send her off
+seasonalFortune: "A season of coconut sugar and rice husk — the smoke does all of it and never comes to the table."
+fortuneMost: Nobody remembers the moment as long as the person it happened to.
+fortuneHigh: You don't have to stand up.
+fortuneMid: The corncrake calls from the same field all night and is hardly ever seen.
+fortuneLow: Stay in the photo.
+fortuneLeast: Take the compliment, then ask what else they liked.
+facetMostTitle: Carribean
+facetMost: The pool where you learned to swim closes in March, and the local station has given you three minutes at nine o'clock to say why it shouldn't. You're in the studio with the headphones on while the presenter reads the news, and eleven thousand people have it on. The red light comes on in about a minute. You take the headphones off and tell him you can't do it.
+facetMostAction: You take the headphones off and tell him you can't do it.
+facetHighTitle: Never Bean Kissed
+facetHigh: You waited five weeks for these ten minutes and you've spent eight of them on your knee. The thing you actually came about would mean saying it out loud in a bright room and then getting undressed for it. The doctor asks if there's anything else before she prints the prescription. You tell her that's everything.
+facetHighAction: You tell her that's everything.
+facetMidTitle: The Perks of Bean a Wallflower
+facetMid: Your badminton club has one singles place left for Saturday's match against the next town, and the captain asks who wants it with the fourteen of you stood round him. You've waited all season for a singles match, and the other one still in for it lost to you in three straight games last month. You tell him you're happy either way.
+facetMidAction: You tell him you're happy either way.
+facetLowTitle: Nobody Puts Bean in the Corner
+facetLow: The street party your neighbours put on every summer has a sound system on a trestle table and a dance floor of chalk squares the kids drew themselves. Nobody over twelve has been on it, and the woman three doors up who organises the whole thing has said twice that the music is for everybody. You go and dance on the chalk with the kids.
+facetLowAction: You go and dance on the chalk with the kids.
+facetLeastTitle: Top Bean
+facetLeast: Twenty of you on the stadium tour, and the guide has brought you down the tunnel and out at the edge of the pitch — the dugouts, the tarpaulin over the goalmouth, the seats going up and up in green and white. He says you've got ten minutes to go wherever you like. You walk out to the centre circle and shout your own name at the empty stands.
+facetLeastAction: You walk out to the centre circle and shout your own name at the empty stands.
+question: You've quietly been learning guitar for two years and can play a few things all the way through. Six friends have clubbed together and bought you a proper one for your birthday. They're filming you unwrap it in the garden, and they want to hear it. You...
+answerMost: tell them it's too much and ask them to stop filming
+answerHigh: thank them and put it down without playing anything
+answerMid: play one thing facing away from the six of them
+answerLow: play the song you know best and let the camera run
+answerLeast: play it standing up and take requests
 rorschachMost: a syrup pudding
 rorschachHigh: a shaded hammock
 rorschachMid: a picnic rug
@@ -46,4 +50,4 @@ rorschachLow: a nettle bed
 rorschachLeast: hailstones
 ---
 
-Barbecued Mung Beans are the Bean Zodiac's most balmy. Being around them is like a warm evening — nothing urgent, nothing sharp, and everyone slows down. Sometimes it is warmer than the moment wanted. Delivering something with a bite is not in the range.
+Sugar-Smoked Mung Beans are the Bean Zodiac's most bashful. The second anyone starts thanking them for the meal they're up and clearing plates. Sometimes a kind word said in front of other people ruins the evening. Being the one a room turns round to look at is not a minute they can get through.

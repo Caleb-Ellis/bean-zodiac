@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: sour-smoked-navy
 lastUpdated:
 bean: navy
 flavour: sour
 form: smoked
-trait: resolute
-excess: stubborn
-inverse: malleable
-quote: Not all those who wander are beans.
-creature: homing pigeon
+trait: demanding
+excess: unforgiving
+inverse: easygoing
+quote: Whatever is worth doing at all is worth beaning well.
+creature: cleaner wrasse
 dish: Smoked navy beans cured with vinegar and salt pork.
 friendlyBeans: [cannellini, black]
 friendlyForm: boiled
 antiTriple: spicy-fried-green
 antiBeans: [fava, pinto]
 antiForm: fermented
-seasonalFortune: "A season of salt pork and one direction — the cure holds its line through every month."
-fortuneMost: Refusing to turn back costs more than turning back would.
-fortuneHigh: A homing pigeon released a thousand miles from home will still find the loft.
-fortuneMid: Keep going. It's further along than it looks.
-fortuneLow: It's alright to change your mind.
-fortuneLeast: Changing course isn't a failure. It's how anybody gets anywhere.
-facetMostTitle: The Immovable Bean
-facetMost: The road you've walked to work for nine years has had the shops board up one by one, and it's a mile of boarded-up fronts now. Everybody you know goes the new way along the canal. You take the old road again.
-facetMostAction: You take the old road again.
-facetHighTitle: The Straight and Beanow
-facetHigh: Four years of the same two hours on the water every morning, and you're eight weeks off the start of the crossing. Two friends have told you this year to ease off and enjoy yourself while you can. You're out there again before six.
-facetHighAction: You're out there again before six.
-facetMidTitle: Stay the Bean
-facetMid: Your bike is fifteen years old, everyone you ride with is on something lighter, and the man in the shop keeps telling you what a new frame would do for your times. You have the old one serviced again.
-facetMidAction: You have the old one serviced again.
-facetLowTitle: Putty in Your Beans
-facetLow: The trip was settled and the flights had been sitting in a tab for a week, and then a colleague spends one lunch telling you about the place she went in Albania. You book Albania.
-facetLowAction: You book Albania.
-facetLeastTitle: Play-Bean
-facetLeast: Somebody you meet on the last night of a trek spends the evening explaining why the part-time degree you're two years into is a waste of your time and money. You email the university from the airport in the morning.
-facetLeastAction: You email the university from the airport in the morning.
-question: Fifteen years teaching the same evening class, and the numbers have dropped to four. What happens to the class?
-answerMost: it runs exactly as it always has, four or forty
-answerHigh: it keeps going, because that's what you do
-answerMid: it carries on, and the four get asked what would bring people back
-answerLow: it runs out to Christmas
-answerLeast: it gets handed over
+seasonalFortune: "A season of salt pork and high expectations — the vinegar asks more of everything in the pot."
+fortuneMost: Never let a mistake go and people will stop trying.
+fortuneHigh: A cleaner wrasse will chase its own partner around the reef for taking one bite out of a customer.
+fortuneMid: People tend to rise to what's asked of them.
+fortuneLow: Most people are doing the best they can.
+fortuneLeast: Nobody's a perfect bean. Take them as they come.
+facetMostTitle: Total Beancall
+facetMost: A woman you worked the grape harvest with in France was the hardest worker there, and late to the vines four mornings out of thirty. Now she's applying to run a picking crew at a vineyard in Spain, and the owner rings you for a reference. You tell him about the four mornings.
+facetMostAction: You tell him about the four mornings.
+facetHighTitle: Beansmaids
+facetHigh: Your sister's wedding is tomorrow, you're in charge of the flowers, and she's asked for all white. The bouquets come out of the florist's cold room orange. The florist says orange was all the market had this week. You tell her they need to be white by the morning.
+facetHighAction: You tell her they need to be white by the morning.
+facetMidTitle: Bean or No Bean
+facetMid: A year ago you and a friend shook on getting matching tattoos if you both finished your first marathon. You both did. Now you're at the tattoo studio with the design printed out, and he's saying he's not sure. You remind him you shook on it.
+facetMidAction: You remind him you shook on it.
+facetLowTitle: Take It Beasy
+facetLow: It's Halloween, and you've volunteered as one of two zombies in the basement of a haunted house. An hour in, with the queue still around the block, the other zombie asks if you'd mind doing the scares on your own so he can go and meet his friends. You tell him to go.
+facetLowAction: You tell him to go.
+facetLeastTitle: The Big Beanbowski
+facetLeast: On your last day on a Greek island, you've paid a man with a boat to take you to the best snorkelling coves. By eleven he's tied up outside his cousin's taverna and sat down to eat. You order lunch.
+facetLeastAction: You order lunch.
+question: You've practised every night for three months to play a piece on the piano at your mother's sixtieth, with a friend on violin. The party's in a week, and he still hasn't learned his part. You...
+answerMost: tell him you'll play the piece without him
+answerHigh: book three rehearsals and send him the times
+answerMid: ask him to learn the first half by the weekend
+answerLow: cut his part down to just the tune
+answerLeast: tell him he'll be fine on the night
 rorschachMost: a seized bolt
 rorschachHigh: a lodestone
 rorschachMid: a tent peg
@@ -50,4 +50,4 @@ rorschachLow: a wax stub
 rorschachLeast: a bent wire
 ---
 
-Cured Navy Beans are the Bean Zodiac's most resolute. Fifteen years on the same road, the same commitment, and the direction has not needed renegotiating once. Sometimes the road stopped going anywhere a while back. Drifting somewhere new on a whim they have never done.
+Cured Navy Beans are the Bean Zodiac's most demanding. The Saturday football team they coach has stopped expecting to lose, because nobody is allowed to walk back after a missed tackle. The friend who forgot the airport pickup once has heard about it at every birthday since. Accepting "close enough" is something they have never once managed.

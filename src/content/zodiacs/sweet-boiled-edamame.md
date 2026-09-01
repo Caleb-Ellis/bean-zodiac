@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: check all
 slug: sweet-boiled-edamame
 lastUpdated: 
 bean: edamame
 flavour: sweet
 form: boiled
-trait: dependable
-excess: predictable
-inverse: unreliable
-quote: The strength of a bean lies not in its weight, but in its reliability.
-creature: shire horse
+trait: nourishing
+excess: stodgy
+inverse: neglectful
+quote: Give us this day our daily bean.
+creature: oilbird
 dish: Zunda - boiled edamame mashed with sugar.
 friendlyBeans: [navy, cannellini]
 friendlyForm: dried
 antiTriple: spicy-roasted-green
 antiBeans: [pinto, chickpea]
 antiForm: fried
-seasonalFortune: "A season of zunda and kept hours: the pot is ready when it said."
-fortuneMost: Nobody thanks the tap for running.
-fortuneHigh: A shire horse pulls the same load every day without being asked.
-fortuneMid: Being counted on is worth the dullness.
-fortuneLow: Do it differently this once.
-fortuneLeast: A thing dropped early beats a thing finished out of duty.
-facetMostTitle: The Usual Beanspects
-facetMost: The year's rota is up with your name in every slot the other four didn't want, bank holidays included. Nobody asked, and you'd decided this was the year you stopped. The woman who does it offers to print another. You initial both bank holidays.
-facetMostAction: You initial both bank holidays.
-facetHighTitle: Steady Beaneddie
-facetHigh: You said you'd do the food for the eighty of them, so nobody else has brought anything. The wholesaler rang last night to say the meat isn't coming. It's half six and the doors have just opened. You go in with two trolleys and do the whole eighty yourself.
-facetHighAction: You go in with two trolleys and do the whole eighty yourself.
-facetMidTitle: Old Beanliable
-facetMid: You said you'd let the plumber into your housemate's flat and his window's eight till one. She's away and there's no other key. You're on her landing at ten to eight and due in at work at nine. You ring in and say you'll be there after one.
-facetMidAction: You ring in and say you'll be there after one.
-facetLowTitle: The Unreliable Beanarrator
-facetLow: Your friend's taken you round the back of the aquarium, the quarantine tank and the round somebody does every evening at nine. You said weeks ago you'd be at her leaving drinks tonight, and there'll be a dozen there. You say you'll not make it.
-facetLowAction: You say you'll not make it.
-facetLeastTitle: Beaning in Action
-facetLeast: You told her six weeks ago you'd do the two busiest mornings on the stall, and she turned down the woman who offered because she had you. It's the first of them and the van's loaded. You ring at seven to say you're not coming.
-facetLeastAction: You ring at seven to say you're not coming.
-question: You've driven your aunt to her Tuesday class for six years. This Tuesday there's a wedding you'd like to be at. What happens?
-answerMost: she gets driven as always, and the wedding is turned down unmentioned
-answerHigh: she gets her lift, and you go to the wedding after it
-answerMid: somebody else drives her that week
-answerLow: she sorts the Tuesday out herself
-answerLeast: the wedding happens, and the Tuesday is remembered on Wednesday
+seasonalFortune: "A season of zunda and full bowls — the pot feeds whoever turns up hungry."
+fortuneMost: Oilbird chicks are fed so much fruit they end up heavier than their parents.
+fortuneHigh: Never let a guest leave hungry.
+fortuneMid: Nobody argues well on an empty stomach.
+fortuneLow: They can feed themselves.
+fortuneLeast: Everyone knows where the fridge is.
+facetMostTitle: Wafer-Thin Bean
+facetMost: A friend is doing her first tandem skydive at ten, and the two of you are in the café at the airfield. She's managed half a slice of toast and says her stomach is in knots. You order her a plate of eggs, sausages and hash browns.
+facetMostAction: You order her a plate of eggs, sausages and hash browns.
+facetHighTitle: Bean, Glorious Bean
+facetHigh: The play a friend is stage-managing opens tomorrow night, and at eleven the cast and crew are still in the theatre running the second act. She texts that the twenty of them haven't eaten since lunch. You make a pot of chilli big enough for twenty and take it to the stage door.
+facetHighAction: You make a pot of chilli big enough for twenty and take it to the stage door.
+facetMidTitle: The Beanbox
+facetMid: Your partner's first night shift as a paramedic is twelve hours long, and they're heading out the door with their bag and nothing to eat but a coffee. You wrap up a sandwich and put it in their bag.
+facetMidAction: You wrap up a sandwich and put it in their bag.
+facetLowTitle: Hungry Like the Bean
+facetLow: You're helping out in a friend's food truck at a music festival, and since noon the two of you have served four hundred people. Neither of you has eaten since breakfast. At half past six the queue finally goes quiet, with three spare burgers left on the grill. You use the quiet to restock the napkins.
+facetLowAction: You use the quiet to restock the napkins.
+facetLeastTitle: Little Bean of Horrors
+facetLeast: Your friend's fig tree, the one she's kept going since she was nineteen, is staying with you while she travels for two months. Her note says it needs water twice a week through the summer. Your cousins have asked you to the coast for ten days. You go without asking anyone to water it.
+facetLeastAction: You go without asking anyone to water it.
+question: You're spending a whole summer's day at the lake with four friends. What food do you bring?
+answerMost: a cool box with a roast chicken and a whole cake
+answerHigh: sandwiches, fruit and a big bottle of water each
+answerMid: a bag of cherries to share
+answerLow: just your own lunch
+answerLeast: nothing, someone else will bring food
 rorschachMost: a postbox
 rorschachHigh: a work boot
 rorschachMid: a loaf
@@ -50,4 +50,4 @@ rorschachLow: a worn-out tyre
 rorschachLeast: a three-legged chair
 ---
 
-Candied Edamame are the Bean Zodiac's most dependable. If they said Thursday, it is Thursday, and in eleven years there hasn't been an exception. Sometimes the reliability is the whole of what's on offer. Surprising anybody is not really within their range.
+Candied Edamame are the Bean Zodiac's most nourishing. Stay the night and there's porridge on the stove before you're up, and a foil parcel of leftovers in your bag at the door. Sometimes there's a third helping nobody asked for. Forgetting to eat is something that has never once happened to them.

@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: bitter-roasted-cannellini
 lastUpdated: 
 bean: cannellini
@@ -16,33 +16,33 @@ friendlyForm: fried
 antiTriple: umami-smoked-fava
 antiBeans: [kidney, mung]
 antiForm: fermented
-seasonalFortune: "A season of rosemary and burnt shallot — the fire edits, and what survives is better company."
-fortuneMost: Wiping the rim again lets the meal go cold.
-fortuneHigh: A mute swan glides on feet nobody is meant to see.
-fortuneMid: The unseen work is most of it.
-fortuneLow: Use your hands.
-fortuneLeast: Rough and hot beats perfect and cold.
-facetMostTitle: The Talented Mr. Beanley
-facetMost: Your parents' fortieth is booked here for twenty-two people and the four hundred deposit does not come back. You have come in to taste the menu and the lemon sorbet is out of a tub — the manager says it is what they have always used and nobody has ever mentioned it. You cancel the whole booking.
-facetMostAction: You cancel the whole booking.
-facetHighTitle: The Age of Beanocence
-facetHigh: You are on the sorting table at the charity shop, where the bags go straight out to the rail as they come, and a wool coat has come in with two buttons off and the lining down at the back; the woman working with you has priced it at six pounds. You mend it and put it in the window at thirty-five.
-facetHighAction: You mend it and put it in the window at thirty-five.
-facetMidTitle: Beanton Abbey
-facetMid: The stone for your grandmother is being cut this month and you and your uncle have come out to the plot with the mason, who has two alphabets in a folder — a round one most people take because it reads from the path, and a narrow one with long tails. It gets cut once, and your uncle says either is fine by him. You pick the narrow one.
-facetMidAction: You pick the narrow one.
-facetLowTitle: Beanorat
-facetLow: One in the morning coming back, and the only thing open at the services is the fried chicken counter under the heat lamp; your friend says she will come off at the next junction for the place that does proper food, forty minutes out of the way, and you are both at work at eight. You get the chicken.
-facetLowAction: You get the chicken.
-facetLeastTitle: South Bean
-facetLeast: You said you would do the food for your friend's thirtieth on the beach, and you are good at this — the last one had four things on the table you had made yourself. You have turned up with two bags of ice, a box of sausages and a supermarket cake. You put the sausages and the cake out in the trays they came in.
-facetLeastAction: You put the sausages and the cake out in the trays they came in.
-question: A friend asks you to help hang three pictures in her new flat. You...
-answerMost: rehang all three and shift the sofa to suit them
-answerHigh: get the height and the spacing right, then stop
-answerMid: hang them where she wanted them, straight
-answerLow: put them on the hooks that are already there
-answerLeast: knock a nail in wherever there's a gap
+seasonalFortune: "A season of rosemary and burnt shallot — the coals throw away more than they keep, and what's left is worth it."
+fortuneMost: There is a point past which nobody else can see the difference.
+fortuneHigh: Spend the extra. It lasts.
+fortuneMid: The mute swan barely makes a sound and still has the best of the river.
+fortuneLow: The cheap one will do the job.
+fortuneLeast: Nothing eaten outdoors has ever needed improving.
+facetMostTitle: As Good as It Beans
+facetMost: Your friend has opened a shop and left you to see the sign-writer finish the front. He's packing up, and the second word sits a hair lower than the first — nobody walking past will see it. You tell him it has to come off and go on again.
+facetMostAction: You tell him it has to come off and go on again.
+facetHighTitle: Kingsbean
+facetHigh: Your friend has a custody hearing coming up and has bought a suit off the rack. He's pleased with it. The shoulders sit out past his own and the trousers break twice over his shoes. You take him back to the shop and get it altered.
+facetHighAction: You take him back to the shop and get it altered.
+facetMidTitle: Grand Beansigns
+facetMid: Your friend has moved into her first place and asked you to do the front room before her parents see it. Out on the floor is a good chair, three lamps and a box of ornaments she wants up on the shelves. You put the ornaments back in the box and the chair where the light is.
+facetMidAction: You put the ornaments back in the box and the chair where the light is.
+facetLowTitle: Bean's Table
+facetLow: Your partner has booked the place you've both been talking about for a year, and it's their treat. There's a tasting menu of things neither of you has heard of, or there's a roast chicken to share. You order the chicken.
+facetLowAction: You order the chicken.
+facetLeastTitle: Now That's What I Call Bean
+facetLeast: Somebody has handed you the speaker at a friend's leaving party and it's been quiet background music all evening. You could keep it going that way. You put on the song everybody knows the words to and turn it right up.
+facetLeastAction: You put on the song everybody knows the words to and turn it right up.
+question: You want her to walk in and stop. Your best friend has asked you to do the flowers for her wedding, handed you her card and told you to do what you like. You...
+answerMost: drive out for them yourself and start the night before
+answerHigh: use one flower in one colour all the way through
+answerMid: ask her what she'd like and order that
+answerLow: buy whatever looks good on the day
+answerLeast: buy bunches on the way and split them into jars
 rorschachMost: a filigree brooch
 rorschachHigh: a silver fork
 rorschachMid: a doily
@@ -50,4 +50,4 @@ rorschachLow: a chipped plate
 rorschachLeast: a slopped pint
 ---
 
-Wood-Fired Cannellini Beans are the Bean Zodiac's most refined. They know which glass, which knife, which of two nearly identical greens is right, and never make anyone feel tested by it. The standards can get airless. Cheerful roughness is hard for them to enjoy.
+Wood-Fired Cannellini Beans are the Bean Zodiac's most refined. They put one lamp in the corner and the whole room stops looking rented. The wrong shade of white can hold up a whole afternoon. Being pleased by something cheap and loud is a knack they never picked up.

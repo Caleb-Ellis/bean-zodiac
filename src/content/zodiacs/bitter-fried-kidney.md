@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: bitter-fried-kidney
 lastUpdated: 
 bean: kidney
@@ -7,42 +7,42 @@ flavour: bitter
 form: fried
 trait: hard-line
 excess: implacable
-inverse: accommodating
-quote: Give me liberty, or give me bean!
-creature: golden eagle
+inverse: flexible
+quote: Here I bean; I can do no other.
+creature: snapping turtle
 dish: Kidney beans crisped in bacon fat with burnt onion and cayenne.
 friendlyBeans: [navy, mung]
 friendlyForm: boiled
 antiTriple: sour-smoked-butter
 antiBeans: [cannellini, black]
 antiForm: fermented
-seasonalFortune: "A season of bacon fat and hard lines: the pan takes a position and holds it through smoke."
-fortuneMost: Hold the line on everything and the line stops meaning anything.
-fortuneHigh: A golden eagle takes a goat off a cliff face.
-fortuneMid: One hard position saves a hundred arguments.
-fortuneLow: Give ground here.
-fortuneLeast: Accommodation gets the work done.
-facetMostTitle: Moby Bean
-facetMost: The song is going in an advert for a bank if all four of you sign, and the agency want an answer by five or the slot goes to somebody else. The other three have four thousand each riding on this and two of them are behind on rent. You refuse to sign.
-facetMostAction: You refuse to sign.
-facetHighTitle: High Bean
-facetHigh: You run the under-thirteens, and the boy who told the referee what he told him is not playing the cup game — you said so on the night. His dad has apologised twice, four of the parents have got up a case for him, and he is the only one in the side who scores. You leave him out.
-facetHighAction: You leave him out.
-facetMidTitle: The Fountain Bean
-facetMid: You volunteer on the Saturday show at the planetarium, and the manager has walked you round the console and the running order — forty minutes, the last five his, where the star signs go up and the families hear what month they were born under. He wants that bit off you tonight. You tell him the star signs are not going in your forty minutes.
-facetMidAction: You tell him the star signs are not going in your forty minutes.
-facetLowTitle: Bean the Parents
-facetLow: You have run the quiz here every month for two years and the one rule you ever made is no phones, and the team by the door have plainly looked up the Booker winner on the last round, with the room having its best night in months. You mark it right.
-facetLowAction: You mark it right.
-facetLeastTitle: Yes, Beanister
-facetLeast: Eight of you have a week here and you are the only one who has been before, so when they went round the pitches you said plainly that the north field floods — and they have all gone for the north field anyway, for the view off it. You put your tent up next to theirs.
-facetLeastAction: You put your tent up next to theirs.
-question: The reference for the man who left is going round to be signed, and you don't believe the middle paragraph. He's in the room. You...
-answerMost: refuse it, and say in front of him which paragraph is untrue
-answerHigh: refuse to sign while that paragraph stands
-answerMid: sign it with the middle paragraph struck out
-answerLow: put your name to it, and say your piece to him afterwards
-answerLeast: let it through to keep the afternoon pleasant
+seasonalFortune: "A season of burnt onion and bacon fat — the pan takes its position early and nothing in it moves after."
+fortuneMost: Win them all and you'll have nobody left to disagree with.
+fortuneHigh: A snapping turtle keeps hold, and lets the rest of itself be lifted out of the water.
+fortuneMid: Say it once, and then don't keep saying it.
+fortuneLow: Most rules were written for a situation that's moved on.
+fortuneLeast: A recipe you've never changed is a recipe you've stopped tasting.
+facetMostTitle: Cape Bean
+facetMost: Your brother borrowed nine thousand from you eight years ago and it never came back, and you haven't spoken since. His wife has found you outside the hall where they're naming the baby, and she's asking you in for the hour. You tell her you're not coming in.
+facetMostAction: You tell her you're not coming in.
+facetHighTitle: To Kill a Mockingbean
+facetHigh: Your friend has put you down as her referee for fostering, and the form is on the café table between you. It asks whether you have any concerns. Last winter she was drinking from eleven in the morning; she stopped in the spring, and she has told you what to write. You write down the drinking.
+facetHighAction: You write down the drinking.
+facetMidTitle: Beanlash
+facetMid: You've been doing maths with your friend's son twice a week since the spring, and the exam is tomorrow morning. He's got the practice paper in front of him and he's frightened, and he asks you to just tell him the answers so he can learn them tonight. You tell him you'll do the working with him instead.
+facetMidAction: You tell him you'll do the working with him instead.
+facetLowTitle: Ferris Beanler's Day Off
+facetLow: You're on the desk at the pool, and the rule on the board is that under-eights swim with an adult in the water. A man has a cast to the elbow, his daughter is seven and has done her hundred metres, and the session is half an hour. You let them in and stand on the poolside yourself.
+facetLowAction: You let them in and stand on the poolside yourself.
+facetLeastTitle: Sliding Beans
+facetLeast: Your old housemate took money out of the tin four years ago, and you were the one who said she wasn't coming back — the other three went along with it because you said it. She's at the door now with a bag and nowhere to be. You let her in and tell the others four years was enough.
+facetLeastAction: You let her in and tell the others four years was enough.
+question: You want the trip to happen. You told the parents nobody goes who hasn't passed the swim test, and one family have paid in full for a place for a daughter who has failed it twice. It's four days on the water. You...
+answerMost: give her place to somebody else
+answerHigh: tell them the test stands
+answerMid: offer her a place on next year's trip
+answerLow: let her come and keep her out of the water
+answerLeast: take the swim test out of it and let her come
 rorschachMost: a fortress wall
 rorschachHigh: a picket line
 rorschachMid: two cliffs
@@ -50,4 +50,4 @@ rorschachLow: a stile in a hedge
 rorschachLeast: a laid table
 ---
 
-Scorched Kidney Beans are the Bean Zodiac's most hard-line. They will not sign the thing they don't believe, whatever it costs, and the refusal holds under pressure. There's no version of them that meets you halfway to keep an evening pleasant. Sometimes halfway was right.
+Scorched Kidney Beans are the Bean Zodiac's most hard-line. You'll get the same answer in April that you got in November, in the same words, and they aren't enjoying it either. Sometimes the reason for it went years ago and the position stayed. Saying out loud that they've changed their mind is a sentence they don't seem to own.

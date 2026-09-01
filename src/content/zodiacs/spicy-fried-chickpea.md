@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: spicy-fried-chickpea
 lastUpdated:
 bean: chickpea
@@ -16,28 +16,33 @@ friendlyForm: roasted
 antiTriple: bitter-fermented-black
 antiBeans: [butter, pinto]
 antiForm: dried
-seasonalFortune: "A season of cumin and unplanned heat — the pan starts before the recipe is read."
-fortuneMost: Every idea gets acted on and none get finished.
-fortuneHigh: An impala breaks whichever way comes first.
-fortuneMid: Half the good evenings started as no plan.
-fortuneLow: Put it in the calendar.
-fortuneLeast: Looking forward to it is having it twice.
-facetMostTitle: Jackson Beanock
-facetMost: There are eleven things on the go and a fortnight ago there were four. You have started a course, bought a kiln, agreed to run the raffle and put a deposit on a caravan. Somebody asks what you are working on and you cannot pick.
-facetHighTitle: Spontaneous Beanbustion
-facetHigh: You pass the barber's, look at it for about a second, go in, and come out with the whole lot taken off.
-facetMidTitle: On a Bean
-facetMid: Given a free evening and nothing at all in it, you get in the car and drive to the coast. Nobody is told you have gone until you are most of the way there.
-facetLowTitle: With Beanice Aforethought
-facetLow: A room is still going at that price and the weekend away could be booked tonight. You put it in the calendar to look at properly on some other, better day.
-facetLeastTitle: Beaned to the Minute
-facetLeast: The proposal has a date, a place, a photographer in a hedge and a contingency for rain. It has had four months of work and it will go exactly as written.
-question: It's a hot Saturday and the reservoir looks swimmable from the road — a path down the bank, the water flat and brown. What happens?
-answerMost: three swims get planned before noon and none of them happen
-answerHigh: you're in the water ten minutes after seeing it
-answerMid: you walk down the bank first, then get in
-answerLow: you come back next Saturday, with the right things brought
-answerLeast: you don't go in until you've found out whether it's allowed
+seasonalFortune: "A season of lime and short notice — the year fills up with things nobody arranged, and empties just as fast."
+fortuneMost: Too much in the pan and nothing browns.
+fortuneHigh: The impala leaves the ground before it has chosen where to land.
+fortuneMid: Go now, and tell them afterwards.
+fortuneLow: Some of the best evenings were arranged weeks ahead.
+fortuneLeast: The looking forward is half the trip.
+facetMostTitle: Everything Everywhere All at Bean
+facetMost: You took the storage unit for one month and you're still paying for it. There's a half-built canoe in there, a drum kit and a screen-printing rig, and you've come on a Sunday to empty it and stop the payments. The man clearing out the unit next door is selling his whole beekeeping setup — the hives, the suit, the smoker — cheap. You buy the hives and put them in beside the canoe.
+facetMostAction: You buy the hives and put them in beside the canoe.
+facetHighTitle: Married at First Bean
+facetHigh: You're in the corridor at the register office with a friend who's giving notice for her own wedding. The registrar comes out to say a slot at noon today has come free, and asks if anyone there wants it. You and your partner have been saying 'one day' for years, and nobody in either family knows you've talked about it at all. You ring your partner and take the noon slot.
+facetHighAction: You ring your partner and take the noon slot.
+facetMidTitle: Planes, Trains and Automobeans
+facetMid: You're on a long coach trip to stay with a friend who's expecting you tonight. It pulls in for a rest stop in a town you'd never heard of, where there's a lively market, people on stilts wearing masks, and a live orchestra playing. The next coach through isn't until tomorrow. You take your bag out of the hold and see what's going on.
+facetMidAction: You take your bag out of the hold and see what's going on.
+facetLowTitle: Beaning for Godot
+facetLow: A friend's father runs a bakery and you've come at four in the morning to watch — the proving room, the ovens, the whole morning's bread going in at once. He says if you come back tomorrow you can make a batch yourself, mixing to cooling, and he'll stand over you while you do it. You've nothing on tomorrow. You tell him you'll come once you've read up on it properly.
+facetLowAction: You tell him you'll come once you've read up on it properly.
+facetLeastTitle: Ocean's Elebean
+facetLeast: You've planned this eclipse for years — the field picked off a shadow map, a backup field further south in case of cloud, the filters taped and tested, and the friends you came with told where to stand and when. Totality lasts two minutes, and the next one near here is a decade off. The people in the next tent along say they've found a better spot up on the ridge, and they're leaving before dawn. You tell them you'll be in the field you picked.
+facetLeastAction: You tell them you'll be in the field you picked.
+question: You've wanted to build something with your hands all year. A workshop two doors down from you is closing, and everything it isn't taking is stacked outside for free — an oak door, floorboards, half a rowing boat. You...
+answerMost: take the lot, and start on the boards before the door is done
+answerHigh: wheel the half boat home and start stripping it that afternoon
+answerMid: take the door and worry about what it's for later
+answerLow: measure the space at home before you take anything
+answerLeast: leave it, and buy new timber once you've drawn a plan
 rorschachMost: thrown gravel
 rorschachHigh: a sneeze
 rorschachMid: a handful of confetti
@@ -45,4 +50,4 @@ rorschachLow: a set table
 rorschachLeast: a filled-in crossword
 ---
 
-Red-Hot Chickpeas are the Bean Zodiac's most spontaneous. Somebody mentions the sea at four and by six there are six people in a car with no bookings. Occasionally there is nowhere to sleep. Planning a weekend in advance takes the whole point out of it.
+Red-Hot Chickpeas are the Bean Zodiac's most spontaneous. They get talking to someone in a queue and by the afternoon there is a table of you eating in a stranger's kitchen. Whatever they arranged in advance is the first thing to go. Knowing on Monday what Saturday holds is a comfort that has never worked on them.

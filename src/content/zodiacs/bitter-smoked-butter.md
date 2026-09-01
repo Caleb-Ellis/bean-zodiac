@@ -1,43 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: redo rorschachs
 slug: bitter-smoked-butter
 lastUpdated: 
 bean: butter
 flavour: bitter
 form: smoked
-trait: still
-excess: inert
-inverse: restless
-quote: Let sleeping beans lie.
-creature: stick insect
+trait: becalming
+excess: sedating
+inverse: stirring
+quote: Music has charms to soothe a savage bean.
+creature: stable goat
 dish: Charcoal-smoked butter beans with olive oil and burnt rosemary.
 friendlyBeans: [black, navy]
 friendlyForm: boiled
 antiTriple: spicy-fried-green
 antiBeans: [fava, pinto]
 antiForm: roasted
-seasonalFortune: "A season of cold smoke and unmoving air. Nothing here is in a hurry to arrive."
-fortuneMost: Anything that stays put long enough gets built around.
-fortuneHigh: Don't move. It'll come to you.
-fortuneMid: A stick insect stays put until the bird gives up.
-fortuneLow: A short walk would do you good.
-fortuneLeast: Book something mad and go.
-facetMostTitle: The Bean Sleep
-facetMost: Six hours on the canal bank and the float has not moved once. Neither have you. A man walking the towpath asks whether you have caught anything, and it takes you a moment to work out how to answer him at all.
-facetHighTitle: Still Bean
-facetHigh: A deer comes out of the bracken thirty feet off across the moor and has not seen you yet. You stay exactly as you are. You will stay that way until it wanders back into the bracken, however long that takes.
-facetMidTitle: The Bean Stands Still
-facetMid: Nobody in the hospice room has said anything for twenty minutes and the woman in the bed is asleep. You sit where you are and let it stay quiet.
-facetLowTitle: Beansomnia
-facetLow: Nothing to do but watch the sky until the birds come back, and you have swept the loft out twice already.
-facetLeastTitle: Born to Bean
-facetLeast: Two hours into a five-hour drive and everybody else wants a proper stop at the services. You are back at the car with the engine running before the coffees have cooled.
-question: There's a room in your house where time doesn't pass — you can sit in it as long as you like and lose none of the day. You...
-answerMost: sit in it most of the day and let everything else wait
-answerHigh: sit in it an hour, then come out
-answerMid: go in when you need a minute to yourself
-answerLow: look in now and again
-answerLeast: never use it — you'd rather be getting on
+seasonalFortune: "A season of burnt rosemary and low smoke — whatever comes in shouting goes out settled."
+fortuneMost: Nothing boils over, and nothing gets cooked either.
+fortuneHigh: Ask what they've had to eat.
+fortuneMid: The stable goat does nothing at all, and the racehorse stops kicking the door.
+fortuneLow: Let them be angry a bit longer.
+fortuneLeast: One good argument gets more done than a month of being reasonable.
+facetMostTitle: Valley of the Beans
+facetMost: The garage charged your housemate four hundred for work she never agreed to. They shut at six and she has her coat on to go and have it out. She is furious, which she almost never is. You ask her to sit down and give it until the weekend.
+facetMostAction: You ask her to sit down and give it until the weekend.
+facetHighTitle: The Bean Whisperer
+facetHigh: Your cousin's wedding, and the groom's father has just joked in his speech that the bride's family paid for nothing. The bride's brother is on his feet, coming down the top table past the cake. You reach him first and ask him to help you move the cake for the dancing.
+facetHighAction: You reach him first and ask him to help you move the cake for the dancing.
+facetMidTitle: The Joy of Beaning
+facetMid: One week left of the pottery class, and the woman at the wheel beside you has put a thumb through the bowl she is making for her mother. It is the last firing. You tell her it will fire fine and carry it over to the kiln.
+facetMidAction: You tell her it will fire fine and carry it over to the kiln.
+facetLowTitle: Dead Beans Society
+facetLow: You are at the count with a friend standing for the council — bundles of a hundred, two boxes still to come. She is sixty votes behind and has gone to sit by the door. You go over and walk her back for the last two boxes.
+facetLowAction: You go over and walk her back for the last two boxes.
+facetLeastTitle: Bravebean
+facetLeast: Thirty people in a hired hall for your friend's thirtieth, an hour in, everyone sitting round the edges in their coats while the playlist plays to nobody. She has gone outside. You put a different song on and get eight people up and dancing.
+facetLeastAction: You put a different song on and get eight people up and dancing.
+question: You want the doubles trophy, and the final has gone to a deciding set on a hot afternoon. The umpire has called your partner's shot out, the other pair are waiting on the baseline, and he is still arguing. You...
+answerMost: agree it was probably out
+answerHigh: ask the umpire for a minute and walk him back to the baseline
+answerMid: pick the ball up and give him the serve
+answerLow: say you saw it in as well
+answerLeast: tell him he was robbed, and to hit the next one at them
 rorschachMost: a boulder in a field
 rorschachHigh: a heron on a bank
 rorschachMid: a sleeping dog
@@ -45,4 +50,4 @@ rorschachLow: a rumpled bed
 rorschachLeast: a wasp at a window
 ---
 
-Charcoal Butter Beans are the Bean Zodiac's most still. They can sit an hour without reaching for anything, and being near them slows your breathing without your consent. Sometimes the stillness lasts past when something needed doing. Fidgeting, pacing, needing to move — none of it visits them.
+Charcoal Butter Beans are the Bean Zodiac's most becalming. Someone arrives at the door still shaking and is describing their neighbour's guttering twenty minutes later, with no idea how they got there. Sometimes the visitor leaves calm and no closer to sorting out what brought them. Getting a room's blood up is a trick they have never had.

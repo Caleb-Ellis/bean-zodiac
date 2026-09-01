@@ -1,49 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
-# should be admiring / covetous / unimpressed
+# TODO: check all
 slug: sour-smoked-cannellini
 lastUpdated:
 bean: cannellini
 flavour: sour
 form: smoked
-trait: piercing
-excess: lacerating
-inverse: blunted
-quote: The truth will bean you free.
-creature: shrike
+trait: admiring
+excess: covetous
+inverse: unimpressed
+quote: A bean of beauty is a joy for ever.
+creature: decorator crab
 dish: Cannellini cured with smoked lemon and caper.
 friendlyBeans: [edamame, black]
 friendlyForm: dried
 antiTriple: sweet-roasted-adzuki
 antiBeans: [chickpea, kidney]
 antiForm: fried
-seasonalFortune: "A season of smoked lemon and fine points — the cure finds the seam and opens it."
-fortuneMost: A true thing aimed well takes years to heal.
-fortuneHigh: Ask the question nobody will.
-fortuneMid: A shrike keeps what it catches on a thorn.
-fortuneLow: Blunt it a little.
-fortuneLeast: A blunt tool is safer to hand round.
-facetMostTitle: Death by a Thousand Beans
-facetMost: Four days into a walking week that has gone wrong in every way possible, and the six of you are on the wall outside the bunkhouse arguing about the maps and the buses again. Nobody has been ready to leave before ten on a single morning, and the same person is holding everybody up each time. You say out loud which one of them that is.
-facetMostAction: You say out loud which one of them that is.
-facetHighTitle: Cut to the Bean
-facetHigh: Your friend is about to sign for the phone and the two years that come with it, and the man behind the counter has said the word free four times. You ask him what the handset costs on its own.
-facetHighAction: You ask him what the handset costs on its own.
-facetMidTitle: Pins and Beanles
-facetMid: The new window display has been up a fortnight and the manager is telling the four of you on the rota that people just are not coming in this year. There is a closed sign on the back of the door that nobody has turned round. You tell her it is the sign, not the year.
-facetMidAction: You tell her it is the sign, not the year.
-facetLowTitle: Bean Blade
-facetLow: You have been coming to see your friend's brother once a month for two years, and in the visiting hall today he has the appeal worked out on three sheets of paper. Two minutes in you can see where it stops, and he asks what you think. You tell him it sounds like it could work.
-facetLowAction: You tell him it sounds like it could work.
-facetLeastTitle: The Beanter Knife
-facetLeast: Everyone in the writing class reads out and everyone else says one thing about it, and the piece before yours does not work anywhere while the woman who wrote it sits with her pen up ready. You say the first paragraph has a good rhythm to it.
-facetLeastAction: You say the first paragraph has a good rhythm to it.
-question: At the club's annual meeting somebody lays out the plan for next season, and there's one thing in it that will sink the whole thing. You...
-answerMost: name it in six words, in front of the room
-answerHigh: name the flaw plainly, so it can't be missed
-answerMid: name it, and say what would fix it
-answerLow: raise it as a question rather than a flaw
-answerLeast: leave it, and hope somebody else spots it
+seasonalFortune: "A season of capers and smoked lemon — the cure is somebody's careful work, and the season says whose."
+fortuneMost: What you look at longest is what you end up wanting.
+fortuneHigh: Tell them which part was the good part.
+fortuneMid: A decorator crab picks its cover from the best of the reef.
+fortuneLow: You're allowed to find it fine.
+fortuneLeast: The second-best of anything is usually enough.
+facetMostTitle: The Talented Mr Beanley
+facetMost: You came to the auction for a chest of drawers, but it's the painted tea set you haven't stopped looking at. The woman next to you says it was her grandmother's, that an uncle sold it off, and that she can go to two hundred. The bidding comes down to the two of you and stops at two hundred. You put your hand up again.
+facetMostAction: You put your hand up again.
+facetHighTitle: A Star is Bean
+facetHigh: You've played every game this season and the five-a-side final is at the weekend, with only five shirts. A friend who joined halfway through has been better than you for weeks — she actually passes first time — and she's the one being left out. The man who runs the team is writing it down now. You tell him she's the better player and should have your shirt.
+facetHighAction: You tell him she's the better player and should have your shirt.
+facetMidTitle: Four Weddings and a Beaneral
+facetMid: Your cousin's wedding, and the best man's speech had a long bit about the two of them missing the last bus in the rain, which got the only real laugh of the day. Afterwards he's outside on his own, certain he made a mess of it. You tell him the bus part was the best thing anybody said.
+facetMidAction: You tell him the bus part was the best thing anybody said.
+facetLowTitle: The Devil Wears Beanda
+facetLow: A friend who has talked about this place for a year drives you out two hours before dawn to see the fog sitting in the valley below the ridge. It comes in exactly as she promised and she keeps looking over at you. You tell her it's a nice view.
+facetLowAction: You tell her it's a nice view.
+facetLeastTitle: Not Another Teen Bean
+facetLeast: The last room on the ghost tour is the cold one at the top of the stairs, and the guide has everybody stand still while the door swings shut on its own. Two of the eleven say they can feel it. The guide asks the group what they made of that. You say it's the draught off the stairs.
+facetLeastAction: You say it's the draught off the stairs.
+question: Your friend has covered her hallway with thirty of her own paintings, and the small grey one by the door is better than what the city gallery hangs. You have an empty wall at home. She says she only does them in the evenings. You...
+answerMost: ask what she'd want for the grey one
+answerHigh: tell her the grey one belongs in a gallery
+answerMid: say you like the grey one, and ask when she painted it
+answerLow: say the whole wall looks good
+answerLeast: ask what she's going to do with thirty paintings
 rorschachMost: a shard of glass
 rorschachHigh: a thorn on a branch
 rorschachMid: a drawing pin
@@ -51,4 +50,4 @@ rorschachLow: a butter knife
 rorschachLeast: a rounded pebble
 ---
 
-Cured Cannellini Beans are the Bean Zodiac's most piercing. They name the flaw in the plan in six words, and everyone knows at once that it is the flaw. The six words sometimes go further in than the plan needed. Making a criticism dull enough to bear isn't their instinct.
+Cured Cannellini Beans are the Bean Zodiac's most admiring. Long after the dinner they can still name what you did to the carrots and why it worked. Sometimes it slides into wanting the recipe, the kitchen and the life that came with it. Looking at something good and having nothing to say about it is not an experience they have.

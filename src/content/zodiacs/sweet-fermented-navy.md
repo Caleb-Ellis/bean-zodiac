@@ -7,7 +7,7 @@ flavour: sweet
 form: fermented
 trait: homespun
 excess: provincial
-inverse: worldly
+inverse: urbane
 quote: A bean in time saves nine.
 creature: bantam
 dish: Navy bean miso ice cream with maple.

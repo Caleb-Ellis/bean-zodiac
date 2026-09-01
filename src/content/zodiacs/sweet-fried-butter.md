@@ -1,43 +1,48 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: check all
 slug: sweet-fried-butter
 lastUpdated: 
 bean: butter
 flavour: sweet
 form: fried
-trait: sunny
-excess: pollyannaish
-inverse: gloomy
-quote: In the middle of every difficulty lies a beany opportunity.
-creature: canary
+trait: obliging
+excess: fawning
+inverse: choosy
+quote: Your wish is my bean.
+creature: honeyguide
 dish: Butter beans caramelised in brown butter and honey.
 friendlyBeans: [adzuki, chickpea]
 friendlyForm: fermented
 antiTriple: bitter-fermented-black
 antiBeans: [navy, cannellini]
 antiForm: smoked
-seasonalFortune: "A season of brown butter and honey — the pan cannot be talked into pessimism."
-fortuneMost: Insist it's fine often enough and the bad news stops arriving.
-fortuneHigh: A canary sings back at anything that sings first.
-fortuneMid: Somebody has to say the good thing first.
-fortuneLow: Tell them it's bad; they'll be relieved.
-fortuneLeast: A bad day doesn't need fixing.
-facetMostTitle: Silver Linings Playbean
-facetMost: The roof has gone, the insurance will not cover it, and the family are stood in the garden looking up at the hole. You start on how much light that room will get once the work is done. You mean every word.
-facetHighTitle: Beany Side Up
-facetHigh: Four in the morning, rain coming sideways, half the floats off the road. You sing on the doorsteps of the milk round, and by the end of the street two people have got up early to talk to you.
-facetMidTitle: Here Comes the Bean
-facetMid: Rain on the pier with everything shut and the sea the colour of a shed, and you get chips and say it is nice really.
-facetLowTitle: Beany Sunday
-facetLow: At the rescue kennels to choose one, and there are forty of them in there. All the way home you think about the ones you left.
-facetLeastTitle: Under a Bean Cloud
-facetLeast: The roads are all gritted and the lorry is back in the yard early. Somebody says that went well, and you tell them what it will be like when the weather really turns.
-question: Rain has washed the camping weekend out and you're all sat in the car deciding what to do. You...
-answerMost: insist it's better this way, over the top of everyone's disappointment
-answerHigh: find the version of the weekend that still works, and mean it
-answerMid: point out one good thing and get on with the drive
-answerLow: agree it's a washout
-answerLeast: say the whole weekend is ruined and let that sit
+seasonalFortune: "A season of brown butter and honey — the pan coats whatever is held out to it, and nothing is kept back for later."
+fortuneMost: Nobody thanks the chair that was already pulled out.
+fortuneHigh: A honeyguide will lead a person two miles through the bush to a bees' nest, and wait around afterwards for the wax.
+fortuneMid: Ten minutes of yours can save somebody an afternoon.
+fortuneLow: The second person they ask will say yes too.
+fortuneLeast: Order what you want. It isn't a group decision.
+facetMostTitle: Bean Our Guest
+facetMost: You're eight days into the month in Japan you spent two years saving for. The man in the next bunk at the guesthouse has had his bag taken with his passport in it, and says twice that he's fine and the embassy will sort it in four days. You cancel your nights in Kyoto and tell him you're staying until he's out.
+facetMostAction: You cancel your nights in Kyoto and tell him you're staying until he's out.
+facetHighTitle: I'll Bean There for You
+facetHigh: A friend of yours has spent four months on other people's sofas, and the letting agent will take her only if somebody goes on the lease as guarantor. It means her rent is legally yours for a year if she stops paying. She asks you in the agent's office with the form already printed. You sign it there.
+facetHighAction: You sign it there.
+facetMidTitle: Pay It Beanward
+facetMid: Week six of the evening Spanish class you pay for yourself, and a man who joined late is three weeks behind everyone. The teacher asks whether anybody will pair up with him and go back over the past tense instead of starting the new unit. You put your hand up.
+facetMidAction: You put your hand up.
+facetLowTitle: The Sorting Bean
+facetLow: Your friend's grandmother has died, and the family have said to take anything you want from the house before the clearance company come at the end of the week. Five rooms of furniture and forty years of records, and they keep suggesting things — the dresser, the big mirror, a box of the crockery. You take one green glass bowl and nothing else.
+facetLowAction: You take one green glass bowl and nothing else.
+facetLeastTitle: Have It Your Bean
+facetLeast: The bike in the window is your size, and your housemate who works in the shop can put her staff discount on it — four hundred off. You've spent eight months saving for a road bike with drop handlebars, and that one has straight ones. You thank her and order the drop-bar one at full price.
+facetLeastAction: You thank her and order the drop-bar one at full price.
+question: You've started charging for the bowls you turn, and six of them are due, paid for, in three weeks. A woman messages asking for eight as favours at her wedding next month — free, but she says every guest will ask who made them. You...
+answerMost: say yes, and thank her for thinking of you
+answerHigh: agree to the eight, and let the paid six run late
+answerMid: offer to turn two of them instead of eight
+answerLow: tell her what you'd charge for eight
+answerLeast: would rather spend the month on the six you're being paid for
 rorschachMost: a smiley badge
 rorschachHigh: a washing line
 rorschachMid: a beach towel
@@ -45,4 +50,4 @@ rorschachLow: a drawn blind
 rorschachLeast: a boarded shop
 ---
 
-Caramelised Butter Beans are the Bean Zodiac's most sunny. They find the workable angle on a bad situation and mean it, and the room follows them there. Sometimes the angle ignores what is actually happening. Sitting in a genuinely dark mood is a skill they lack.
+Caramelised Butter Beans are the Bean Zodiac's most obliging. Ask if they're free on Saturday and they've already cancelled the dentist, before you've said what for. Sometimes they are still washing up in a kitchen everybody else has left. Saying what they'd actually prefer is a decision they will hand to anybody else in the room.
