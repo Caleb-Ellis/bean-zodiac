@@ -10,11 +10,11 @@ inverse: unappeasable
 quote: Forgive them, for they know not what they bean.
 creature: golden retriever
 dish: Butter beans simmered in maple with butter and cream.
-friendlyBeans: [navy, mung]
+friendlyBeans: [mung, kidney]
 friendlyForm: dried
 antiTriple: spicy-fried-green
-antiBeans: [fava, pinto]
-antiForm: smoked
+antiBeans: [fava, edamame]
+antiForm: fermented
 seasonalFortune: "A season of maple and long simmering — the pot lets go of what was scorched into it."
 fortuneMost: Forgive too quickly and nothing will change.
 fortuneHigh: Forgiveness is the choice to let go of resentment and set yourself free from the past.

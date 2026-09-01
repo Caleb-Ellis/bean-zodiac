@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sweet-roasted-pinto
 lastUpdated: 
 bean: pinto
@@ -11,10 +11,10 @@ inverse: straitlaced
 quote: I solemnly swear that my beans are up to no good.
 creature: imp
 dish: Pinto beans roasted with piloncillo and orange.
-friendlyBeans: [adzuki, fava]
+friendlyBeans: [green, fava]
 friendlyForm: fermented
-antiTriple: spicy-dried-kidney
-antiBeans: [navy, chickpea]
+antiTriple: bitter-dried-kidney
+antiBeans: [adzuki, mung]
 antiForm: boiled
 seasonalFortune: "A season of piloncillo and orange — the oven has done something and won't say what."
 fortuneMost: Stir enough of it and somebody eventually gets hurt.

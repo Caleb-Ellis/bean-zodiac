@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-roasted-adzuki
 lastUpdated:
 bean: adzuki
@@ -13,9 +13,9 @@ creature: trumpeter swan
 dish: Adzuki roasted in peri-peri butter with lemon zest.
 friendlyBeans: [pinto, butter]
 friendlyForm: fried
-antiTriple: bitter-dried-kidney
-antiBeans: [black, fava]
-antiForm: fried
+antiTriple: bitter-dried-cannellini
+antiBeans: [black, green]
+antiForm: smoked
 seasonalFortune: "A season of peri-peri butter and lifted glasses — the fire celebrates before the food is ready."
 fortuneMost: A trumpeter swan can be heard two miles off, wanted or not.
 fortuneHigh: Make a fuss of it.

@@ -1,0 +1,468 @@
+# TRAIT AUDIT — does the trait/excess/inverse triple intersect all three of its axes?
+#
+# A triple is authored, not derived, but it has to read as a plausible collision of the
+# bean, the flavour and the form. Nothing checked that until this file. Diagnostic only:
+# nothing here rewrites anything. Sheets and the report: `node scripts/trait-audit.mjs`.
+#
+# COLUMNS
+#   b / f / m   bean, flavour, form — 0-3 each
+#   min         the headline. A sum hides the real failure: a fine trait that ignores
+#               one axis completely. A triple is only as good as its weakest axis.
+#   exc / inv   ok | weak | wrong
+#   note        which axis is weakest, and why
+#
+# THE 0-3 SCALE
+#   3  load-bearing. Take the axis away and the trait stops making sense.
+#   2  present and consistent, but would survive a swap to one neighbour on this axis.
+#   1  compatible but generic — several values on this axis would serve equally.
+#   0  absent, or contradicted: the trait belongs to a different value on the axis.
+#
+#   EXCESS — the same quality overdone. Not a different vice, not the trait plus an
+#   intensifier. Test: does it still describe someone doing the trait, past the point
+#   where it serves them?
+#   INVERSE — a disposition someone could hold and defend, not the trait's absence.
+#   Test: could facetLeast be written as a person choosing it, with its own freedom
+#   and its own price?
+#
+# SCORED COMPARATIVELY, NEVER ONE ENTRY AT A TIME. An absolute judgement on a single
+# adjective is noise — any word can be argued into any cell. Each score comes from a
+# reading that holds two axes fixed and varies the third: 30 column readings (12 beans,
+# one preparation) for b, 12 grid readings (one bean's 5x6) for f and m.
+#
+# NO STRUCTURAL SIGNAL SCORES ANYTHING HERE. Against the 21.9% base approved rate,
+# "trait lifted verbatim from a parent's list" is 30% approved and "over-/self- excess"
+# is 40% — both fire MORE on approved. Bare-negation inverse is 17%, shared stem 21%.
+# They print as context on the sheets and stay out of the score. Anchor 4 below is a
+# verbatim lift and a 3/3/3.
+#
+# ============ THE ANCHORS — what a 3 looks like, taken from approved entries ============
+# Approval is the spec. These eleven were read first and the scale was set to them, so a
+# draft scoring 1 means "unlike these", not "unlike a rule I invented". Spread over all
+# 5 flavours, all 6 forms, 8 beans.
+#
+#  1. spicy-dried-navy — tough / closed-off / skittish
+#     FACETS.md's own worked example. Navy stores well and never fails; spicy is heat
+#     demanding your whole attention; dried alone among the forms UNDERGOES NOTHING.
+#     Tough is heat taken with no visible change — remove any axis and it collapses.
+#     Excess: toughness past its use, not a new vice. Inverse: skittish is a person.
+#
+#  2. spicy-boiled-navy — rigid / obstinate / yielding
+#     Same bean, same flavour, form swapped, and the trait moves — which is the whole
+#     test. THE FORM IS LOAD-BEARING BY CONTRAST, not agreement: boiled is immersion,
+#     where everything softens, and rigid is what navy does in that pot instead. A 3
+#     does not require the trait to agree with its axis, only to need it. (The inverse
+#     is boiled's own positiveTrait — the form's virtue is what refusing it costs.)
+#
+#  3. bitter-dried-cannellini — ascetic / self-denying / hedonistic
+#     Three-way agreement, each irreplaceable: cannellini is "the refusal of the
+#     unnecessary", dried takes away "only what is inessential", bitter is the flavour
+#     children reject and cultivated palates seek. Ascetic is all three at once.
+#
+#  4. umami-boiled-chickpea — adaptable / shapeless / set
+#     Lifted verbatim from the bean's list and still a 3/3/3, which is why the verbatim
+#     check scores nothing. The bean file's own line is that a chickpea "holds its shape
+#     in a slow braise or dissolves into something entirely new" — the braise IS boiled,
+#     and umami is the slowness that gives it time to choose. Excess "shapeless" is the
+#     adapting continued past the point of having a self.
+#
+#  5. sour-fried-cannellini — meticulous / obsessive / sloppy
+#     Cannellini is exacting; sour is incisive. The form is what makes it cost something:
+#     "oil offers no second attempt". Meticulous under fried is care that has to be right
+#     the first time, which is a different creature from meticulous under boiled.
+#
+#  6. bitter-fried-edamame — decisive / peremptory / dithering
+#     The second verbatim lift (from the form) that is still a 3. Edamame "reaches
+#     conclusions while others are still framing the question"; fried is "the doing is
+#     the thinking"; bitter is what makes it cold rather than eager. Excess "peremptory"
+#     keeps the quality and removes the room for anyone else.
+#
+#  7. umami-roasted-adzuki — warm / presumptuous / frosty
+#     Roasted develops outward "where everyone can see"; umami is depth arrived at
+#     slowly; adzuki convenes. Warm is the convening turned outward and left to deepen.
+#     Excess is the good test: presumptuous is warmth that has stopped asking, not a
+#     separate fault.
+#
+#  8. sweet-smoked-butter — hazy / befogged / crisp
+#     Anchors the flavour as TEMPER. Smoked supplies the haze; butter supplies the lack
+#     of hurry; sweet is the only reason it is comfortable instead of sinister — the
+#     same cell under bitter is eerie (bitter-smoked-green), and it is the flavour alone
+#     that separates them.
+#
+#  9. umami-smoked-edamame — prescient / fatalistic / blindsided
+#     Smoked's own line is that what a smoked bean says "surfaces in the listener's mind
+#     hours later"; edamame sees what is there and skips the preamble; umami is the
+#     depth that makes it earned rather than lucky.
+#
+# 10. sweet-roasted-kidney — cherishing / possessive / uncaring
+#     Kidney protects and stands between; roasted does it in the open; sweet makes it
+#     affection rather than guard duty. Excess "possessive" is the bean's own shadow
+#     reached by continuing the trait, which is exactly the relation excess should have.
+#
+# 11. bitter-fermented-pinto — artistic / precious / philistine
+#     Fermented is transformation from within, in conditions no one sees; pinto turns
+#     "the swirling interior landscape into something others can touch"; bitter is the
+#     acquired taste that stops it being merely expressive. Excess "precious" is the
+#     interior work valued past what it made.
+#
+# =======================================================================================
+slug	bean	flavour	form	trait	excess	inverse	b	f	m	min	exc	inv	approved	note
+spicy-boiled-cannellini	cannellini	spicy	boiled	painstaking	laborious	perfunctory	3	0	3	0	weak	ok	n	painstaking has no spice in it at all; exc: laborious is a near-synonym
+sweet-dried-mung	mung	sweet	dried	tender	tremulous	hard	3	3	0	0	weak	ok	n	TENDERNESS IS THE ONE THING DRYING REMOVES ("the moisture that made the Bean soft") and the trait never registers it
+sour-smoked-navy	navy	sour	smoked	resolute	stubborn	malleable	2	1	1	1	ok	ok	n	bean: resolute is BLACK's own positiveTrait | resolute is BLACK's own positiveTrait; neither sour nor smoke earns it
+spicy-boiled-chickpea	chickpea	spicy	boiled	resourceful	opportunistic	helpless	2	1	1	1	ok	weak	n	bean: resourceful is EDAMAME's own positiveTrait | resourceful is the bean's own word and neither axis adds to it
+bitter-boiled-pinto	pinto	bitter	boiled	contemplative	abstracted	unreflective	1	2	2	1	weak	weak	n	bean: contemplative belongs to black or butter; nothing in it is the Dreamer | exc: abstracted is a different state; inv is a bare negation
+bitter-fried-mung	mung	bitter	fried	austere	callous	saccharine	1	3	1	1	weak	ok	n	bean: austerity contradicts the Healer's nurture and the entry never registers it | austerity owes nothing to hot oil; dried owns this. exc: callous names cruelty
+bitter-smoked-fava	fava	bitter	smoked	otherworldly	unearthly	earthbound	1	1	3	1	weak	ok	n	bean: the Daredevil has no business being otherworldly; pinto or mung own it | otherworldly owes nothing to bitter; exc: unearthly is a near-synonym
+sour-boiled-black	black	sour	boiled	methodical	mechanical	haphazard	2	1	2	1	ok	ok	n	bean: methodical is navy's or edamame's | methodical owes nothing to sour; any flavour would do
+sour-boiled-mung	mung	sour	boiled	impartial	detached	biased	1	2	2	1	ok	weak	n	bean: impartiality is chickpea's mediating or cannellini's judgement, not the Healer's | inv: biased is a fault, not a chosen stance
+sour-fried-navy	navy	sour	fried	particular	finicky	unfussy	2	2	1	1	weak	ok	n	bean: particular is cannellini's | particularity is slow and owes nothing to the pan; exc: finicky is a near-synonym
+sour-smoked-fava	fava	sour	smoked	clear-eyed	merciless	squeamish	2	1	2	1	weak	ok	n	bean: clear-eyed is black's or edamame's | clear-eyed is BITTER's own positiveTrait; exc: merciless is a different vice
+spicy-boiled-adzuki	adzuki	spicy	boiled	spirited	rowdy	listless	3	1	1	1	ok	ok	n	spirited is SOUR's own positiveTrait; boiled does nothing
+sweet-fermented-kidney	kidney	sweet	fermented	sympathetic	engrossed	unsympathetic	1	3	1	1	weak	weak	n	bean: sympathetic is mung's, and mung is in this column | sympathy faces outward, fermentation does not; and it near-duplicates compassionate
+sweet-fried-edamame	edamame	sweet	fried	motivated	compulsive	unmotivated	2	1	2	1	ok	weak	n	bean: motivated is abstract and would sit on green | motivated is abstract and owes nothing to sweet
+sweet-smoked-fava	fava	sweet	smoked	dazzling	glaring	lacklustre	2	2	1	1	weak	ok	n	bean: dazzling is pinto's or adzuki's | dazzle is direct light, smoke diffuses it; the clash goes unregistered
+umami-boiled-adzuki	adzuki	umami	boiled	affectionate	needy	chilly	2	1	2	1	ok	ok	n	bean: affectionate is kidney's or mung's | affectionate is SWEET's own positiveTrait
+umami-boiled-cannellini	cannellini	umami	boiled	conscientious	guilt-ridden	negligent	2	1	2	1	ok	ok	n	bean: conscientious is navy's dutiful, and navy is in this column | conscientious owes nothing to umami
+umami-fermented-edamame	edamame	umami	fermented	observant	hypervigilant	unobservant	1	2	2	1	ok	weak	n	bean: observant is BLACK's own positiveTrait and black is in this column | observant is black's own word; inv is a bare negation
+umami-fermented-green	green	umami	fermented	creative	self-indulgent	sterile	1	1	3	1	ok	weak	n	bean: creative is pinto's whole identity, and pinto is in this column | creative is broad and owes nothing to umami
+umami-fried-edamame	edamame	umami	fried	keen	voracious	uninterested	2	1	2	1	ok	weak	n	bean: keen is green's eagerness | keenness is spicy's appetite, not umami's depth
+umami-fried-green	green	umami	fried	accomplished	self-satisfied	unproven	1	3	1	1	ok	weak	n	bean: accomplishment reverses green's "show up before you're ready" and never registers it | accomplishment is slow, fried is not, and the clash goes unregistered
+umami-fried-kidney	kidney	umami	fried	stalwart	unbudging	undependable	2	2	1	1	weak	weak	n	bean: stalwart is navy's | stalwart is long-haul, fried is one motion; exc: unbudging is a near-synonym
+umami-roasted-edamame	edamame	umami	roasted	attentive	hovering	absentminded	1	2	2	1	ok	weak	n	bean: attentive is MUNG's own positiveTrait, mung is in this column, and unsentimental cuts against it | inv: absentminded is a capacity, not a stance
+bitter-boiled-adzuki	adzuki	bitter	boiled	ceremonious	pompous	offhand	3	2	1	1	ok	ok	n	form: ceremony is not immersion; would sit as well on roasted or dried
+bitter-boiled-fava	fava	bitter	boiled	dauntless	foolhardy	fainthearted	3	1	2	1	ok	ok	n	dauntless is the bean's own word; bitter adds nothing
+bitter-dried-butter	butter	bitter	dried	tranquil	sedate	rattled	3	1	2	1	weak	ok	n	placid/tranquil/still are three near-synonyms in one bitter row; bitter is not separating
+bitter-dried-green	green	bitter	dried	honed	narrow	unpractised	1	2	3	1	weak	weak	n	bean: honed is refinement earned slowly; green is eager and unpolished | exc: narrow is a different fault; inv: unpractised is a skill
+bitter-fried-navy	navy	bitter	fried	incisive	cutting	woolly	1	2	3	1	weak	ok	n	bean: incisive is edamame's or black's; the Keeper is not sharp | incisive is SOUR's own positiveTrait; exc: cutting is the same metaphor one notch on
+bitter-roasted-green	green	bitter	roasted	brisk	abrupt	dawdling	3	2	1	1	weak	ok	n	brisk is quick and clipped, roasting is slow and patient; the clash goes unregistered
+bitter-smoked-butter	butter	bitter	smoked	still	inert	restless	3	1	2	1	ok	ok	n	see bitter-dried-butter: the flavour is doing no separating work
+sour-boiled-edamame	edamame	sour	boiled	logical	unfeeling	illogical	3	2	1	1	weak	weak	n	logic owes nothing to immersion; exc: unfeeling names a coldness the trait never claimed
+sour-boiled-navy	navy	sour	boiled	literal-minded	wooden	elliptical	3	2	1	1	weak	ok	n	literal-mindedness owes nothing to immersion; exc: wooden names manner
+sour-fermented-green	green	sour	fermented	quirky	weird	conventional	2	1	3	1	ok	ok	n	bean: quirky is pinto's | quirk is the form's business, not sour's
+sour-roasted-black	black	sour	roasted	earnest	pious	facetious	1	2	3	1	weak	ok	n	bean: earnestness is not the Observer's; black is discreet and withholding | exc: pious is a different vice
+sour-roasted-chickpea	chickpea	sour	roasted	open-minded	uncritical	bigoted	3	1	2	1	ok	weak	n	open-mindedness owes nothing to acid; inv: bigoted is a moral verdict, not a disposition
+sour-roasted-kidney	kidney	sour	roasted	fair	legalistic	unjust	1	3	2	1	ok	weak	n	bean: the Protector takes sides by definition; fairness is chickpea's or navy's | inv: unjust is a moral verdict
+sour-smoked-mung	mung	sour	smoked	revealing	exposing	concealing	2	3	1	1	weak	ok	n	bean: revealing is pinto's expressiveness | revealing is the opposite of smoke's concealment and never registers it
+spicy-dried-cannellini	cannellini	spicy	dried	sure	infallible	erratic	2	1	3	1	ok	ok	n	bean: sure is navy's or fava's | sure owes nothing to spicy; dried carries the whole trait
+spicy-dried-mung	mung	spicy	dried	piquant	overpowering	insipid	1	3	2	1	ok	weak	n	bean: piquant names a taste and carries no bean at all | piquant names a taste, not a way of being; inv: insipid is an absence
+spicy-fermented-butter	butter	spicy	fermented	eccentric	bizarre	orthodox	1	2	3	1	weak	ok	n	bean: eccentricity is pinto's or green's; nothing about the Pacifist is odd | exc: bizarre is an intensifier
+spicy-roasted-black	black	spicy	roasted	magnetic	mesmerising	repellent	1	2	3	1	weak	ok	n	bean: magnetism is the opposite of the Observer's discretion | exc: mesmerising is an intensifier
+spicy-smoked-chickpea	chickpea	spicy	smoked	frenetic	frazzled	unhurried	2	3	1	1	weak	ok	n	bean: frenetic is green's restlessness | frenetic fights smoke's slowness and never registers it
+spicy-smoked-edamame	edamame	spicy	smoked	feisty	scrappy	docile	2	3	1	1	weak	ok	n	bean: feisty is green's or kidney's | feisty is loud and direct; smoke is neither and the clash goes unregistered
+sweet-boiled-cannellini	cannellini	sweet	boiled	kind	permissive	unkind	1	3	2	1	ok	weak	n	bean: kindness has nothing to do with the Curator; mung or butter own it | inv: unkind is a bare negation and reads as a slur
+sweet-boiled-edamame	edamame	sweet	boiled	dependable	predictable	unreliable	1	2	3	1	weak	weak	n	bean: dependable is NAVY's own positiveTrait and navy is in this column | exc: predictable restates rather than overdoes; inv is a bare negation
+sweet-dried-adzuki	adzuki	sweet	dried	devoted	idolatrous	uncommitted	1	2	3	1	ok	ok	n	bean: devoted is KIDNEY's own positiveTrait and kidney is in this column
+sweet-dried-cannellini	cannellini	sweet	dried	exquisite	ornamental	rough-and-ready	3	1	2	1	ok	ok	y	exquisite is bean-plus-bitter; sweet contributes little
+sweet-fermented-edamame	edamame	sweet	fermented	practised	rote	unrehearsed	2	1	3	1	ok	weak	n	bean: practised is thin and unanchored | practised is a skill, not a disposition (FACETS); sweet adds nothing
+umami-boiled-green	green	umami	boiled	prolific	unedited	barren	3	1	2	1	ok	weak	n	bean: pick one and three more appear | prolific is the bean's own fecundity; umami adds nothing
+umami-fermented-cannellini	cannellini	umami	fermented	idealistic	quixotic	disillusioned	2	1	3	1	ok	ok	n	bean: idealistic is fava's or pinto's | idealistic owes nothing to umami; the form carries it
+umami-fermented-chickpea	chickpea	umami	fermented	innovative	gimmicky	stale	2	1	3	1	ok	ok	y	bean: innovative is pinto's inventive | innovation owes nothing to umami; sour or spicy would serve
+umami-fried-adzuki	adzuki	umami	fried	passionate	combustible	dispassionate	2	1	3	1	ok	weak	n	bean: passionate is kidney's | passionate belongs to spicy; inv is a bare negation
+umami-fried-chickpea	chickpea	umami	fried	proactive	meddlesome	reactive	2	1	3	1	ok	ok	y	bean: proactive is edamame's or green's | proactive owes nothing to umami; the form carries it
+umami-fried-mung	mung	umami	fried	purposeful	grim	purposeless	2	1	3	1	weak	weak	n	bean: purposeful is edamame's practicality | purpose owes nothing to umami; exc: grim is a mood; inv is a bare negation
+umami-roasted-butter	butter	umami	roasted	receptive	porous	closed	3	2	1	1	ok	ok	n	receptive takes in, roasted radiates out; the clash goes unregistered
+umami-roasted-green	green	umami	roasted	curious	nosy	uninquiring	3	1	2	1	ok	weak	n	curious is the bean's own word; umami adds nothing
+umami-roasted-mung	mung	umami	roasted	melancholy	despondent	breezy	2	3	1	1	weak	ok	n	bean: melancholy is the flavour's shadow, not a bean disposition | melancholy contradicts roasting's outward flourishing without registering it
+umami-roasted-navy	navy	umami	roasted	wistful	yearning	forward-looking	2	3	1	1	weak	ok	n	bean: wistful is pinto's or adzuki's | wistfulness contradicts roasting's outward flourishing without registering it
+bitter-boiled-chickpea	chickpea	bitter	boiled	conciliatory	appeasing	combative	3	1	3	1	ok	ok	n	conciliation is sweet's ground; bitter is cold and supercilious
+bitter-dried-adzuki	adzuki	bitter	dried	selective	exclusionary	indiscriminate	1	3	3	1	ok	weak	n	bean: selectivity is cannellini's whole business (the Curator edits ruthlessly) | inv: indiscriminate is the absence of selecting
+bitter-dried-kidney	kidney	bitter	dried	hardy	unyielding	frail	3	1	3	1	ok	weak	n	hardiness owes nothing to bitter; inv: frail is a condition, not a stance
+bitter-dried-navy	navy	bitter	dried	steady	inflexible	vacillating	3	1	3	1	ok	ok	n	steady is BOILED's own positiveTrait sitting on dried; bitter adds nothing
+bitter-fried-black	black	bitter	fried	forensic	inquisitorial	cursory	3	3	1	1	ok	ok	n	form: forensic work is slow; fried does nothing and the trait never registers the clash
+bitter-fried-green	green	bitter	fried	impatient	precipitate	long-suffering	3	1	3	1	ok	ok	n	impatience owes nothing to bitter; it is bean plus form
+bitter-roasted-navy	navy	bitter	roasted	prudent	miserly	profligate	3	3	1	1	weak	ok	n	prudence refuses what roasting does and never registers it; exc: miserly names money
+bitter-smoked-chickpea	chickpea	bitter	smoked	liminal	unmoored	planted	3	1	3	1	ok	ok	n	liminality owes nothing to bitter; the form carries the whole trait
+bitter-smoked-mung	mung	bitter	smoked	ethereal	wraithlike	earthy	3	1	3	1	weak	ok	n	ethereality owes nothing to bitter; exc: wraithlike is a near-synonym
+sour-boiled-cannellini	cannellini	sour	boiled	precise	hairsplitting	approximate	3	3	1	1	ok	ok	n	form: precision owes nothing to immersion
+sour-boiled-green	green	sour	boiled	outspoken	indiscreet	silent	3	3	1	1	ok	weak	n	outspokenness owes nothing to immersion; inv: silent is an absence
+sour-fermented-butter	butter	sour	fermented	understated	invisible	showy	3	1	3	1	ok	ok	n	understatement is bitter/smoked territory, not sour
+sour-fried-butter	butter	sour	fried	composed	phlegmatic	jumpy	3	1	3	1	ok	ok	y	composed is boiled's own word; the form carries it by contrast
+sour-roasted-mung	mung	sour	roasted	solicitous	smothering	neglectful	3	1	3	1	ok	ok	n	solicitude is sweet's ground; sour adds nothing
+sour-smoked-butter	butter	sour	smoked	quiet	mute	clamorous	3	1	3	1	weak	ok	y	exc: mute is an absence; sour does nothing for quiet
+sour-smoked-kidney	kidney	sour	smoked	searing	withering	coddling	3	3	1	1	ok	ok	n	searing is direct fire; smoke's whole mechanism is that the flame is elsewhere
+sour-smoked-pinto	pinto	sour	smoked	allusive	riddling	unambiguous	3	1	3	1	ok	ok	y	allusion owes nothing to acid; the form carries the whole trait
+spicy-dried-fava	fava	spicy	dried	audacious	outrageous	cowed	3	3	1	1	weak	ok	n	audacity owes nothing to drying; exc: outrageous is a near-synonym
+spicy-dried-pinto	pinto	spicy	dried	hot-blooded	unhinged	tempered	3	3	1	1	weak	ok	n	hot-blooded is wet and immediate; drying removes exactly that
+spicy-roasted-butter	butter	spicy	roasted	indulgent	dissolute	puritanical	3	1	3	1	ok	ok	n	indulgent is the bean's own shadow and sweet's ground; spicy adds nothing
+spicy-smoked-green	green	spicy	smoked	footloose	adrift	anchored	3	1	3	1	ok	ok	n	footloose owes nothing to heat; the form carries the whole trait
+sweet-boiled-adzuki	adzuki	sweet	boiled	joyful	euphoric	cheerless	3	3	1	1	weak	weak	n	form: joy that sustains is a stretch the word does not carry
+sweet-boiled-green	green	sweet	boiled	playful	frivolous	grave	3	3	1	1	ok	ok	n	play owes nothing to immersion
+sweet-dried-fava	fava	sweet	dried	indomitable	unrelenting	defeated	3	1	3	1	weak	weak	n	indomitable owes nothing to sweet; exc: unrelenting is a near-synonym
+sweet-dried-green	green	sweet	dried	familiar	overfamiliar	strange	1	3	3	1	weak	ok	y	bean: familiarity is the opposite of green's newness; navy or butter own it | exc: overfamiliar is the trait plus "over-"
+sweet-fermented-black	black	sweet	fermented	pensive	moping	blithe	3	1	3	1	ok	ok	n	pensive is bitter/umami territory; sweet contributes nothing
+sweet-fermented-mung	mung	sweet	fermented	gentle	timid	brutish	3	3	1	1	weak	ok	n	gentleness owes nothing to fermentation; and nurturing/tender/gentle are three near-synonyms in one row
+sweet-fried-butter	butter	sweet	fried	sunny	pollyannaish	gloomy	3	3	1	1	ok	ok	n	form: sunny owes nothing to the pan
+sweet-fried-fava	fava	sweet	fried	daring	devil-may-care	risk-averse	3	1	3	1	ok	ok	y	daring is the bean's own word; sweet adds nothing
+sweet-fried-kidney	kidney	sweet	fried	doting	spoiling	distant	3	3	1	1	ok	ok	n	doting is continuous, fried is a single motion
+sweet-roasted-cannellini	cannellini	sweet	roasted	welcoming	insistent	forbidding	1	3	3	1	ok	ok	n	bean: welcoming is chickpea's hospitable, and chickpea is in this column
+sweet-smoked-black	black	sweet	smoked	mystical	occult	rationalist	3	1	3	1	ok	ok	n	mystical owes nothing to sweet; bitter or umami would serve
+umami-dried-butter	butter	umami	dried	mellow	sluggish	jagged	3	3	1	1	ok	ok	n	form: mellow fights dried, which is spare and hard, without registering it
+umami-dried-chickpea	chickpea	umami	dried	substantive	heavy-going	insubstantial	1	3	3	1	ok	weak	n	bean: substance is the opposite of the Connector's adaptability; edamame is in this column with it | inv: insubstantial is a bare negation
+umami-fermented-fava	fava	umami	fermented	rebellious	insurgent	obedient	3	1	3	1	weak	ok	y	rebellion belongs to spicy or sour; exc: insurgent is the same word louder
+umami-fried-black	black	umami	fried	focused	fixated	unfocused	3	1	3	1	ok	weak	y	focus is spicy's business, not umami's; inv is a bare negation
+umami-fried-butter	butter	umami	fried	settled	sedentary	unsettled	3	3	1	1	ok	weak	n	settled fights fried and never registers it; inv is a bare negation
+umami-fried-pinto	pinto	umami	fried	instinctive	unreasoning	calculated	3	1	3	1	weak	ok	n	instinct owes nothing to umami; exc: unreasoning is a bare negation used as an excess
+umami-roasted-fava	fava	umami	roasted	defiant	insubordinate	submissive	3	1	3	1	ok	ok	n	defiant is the bean's own word; umami adds nothing
+bitter-roasted-mung	mung	bitter	roasted	temperate	abstemious	intemperate	2	2	2	2	weak	weak	n	bean: temperate is butter's or navy's | exc: abstemious is a near-synonym; inv is a bare negation
+sour-fermented-chickpea	chickpea	sour	fermented	clever	cunning	dull	2	2	2	2	weak	weak	n	bean: clever is edamame's | exc: cunning adds motive; inv: dull is a capacity
+sour-fried-pinto	pinto	sour	fried	open	artless	guarded	2	2	2	2	weak	ok	n	bean: open is thin and would sit on chickpea | open near-duplicates candid two cells away; exc: artless names naivety
+spicy-boiled-fava	fava	spicy	boiled	adamant	intransigent	wavering	2	2	2	2	weak	ok	n	bean: adamant is navy's rigidity | exc: intransigent is a near-synonym
+sweet-fried-chickpea	chickpea	sweet	fried	funny	clownish	mirthless	2	2	2	2	ok	weak	n	bean: funny is thin; adzuki or pinto would carry it | funny/fun adjacent in one grid; inv: mirthless is an absence
+sweet-roasted-chickpea	chickpea	sweet	roasted	fun	exhausting	dreary	2	2	2	2	ok	ok	n	bean: fun is barely a disposition | see sweet-fried-chickpea: fun and funny are not two traits
+bitter-boiled-edamame	edamame	bitter	boiled	analytical	overanalytical	impressionistic	2	3	2	2	weak	ok	y	bean: analytical drifts to black's weighing | exc: overanalytical is the trait plus "over-", the intensifier failure at its purest
+bitter-boiled-green	green	bitter	boiled	inquisitive	prying	incurious	3	2	2	2	ok	weak	y	inv: incurious is a bare negation
+bitter-boiled-kidney	kidney	bitter	boiled	forbearing	martyred	intolerant	2	2	3	2	ok	ok	n	bean: forbearing is butter's accepting more than kidney's tenacity
+bitter-boiled-mung	mung	bitter	boiled	careful	fretful	careless	2	2	3	2	ok	weak	y	bean: careful would sit as well on cannellini or navy | inv: careless is a bare negation
+bitter-boiled-navy	navy	bitter	boiled	upright	sanctimonious	crooked	3	2	2	2	ok	ok	n	trait is the bean's own word
+bitter-dried-chickpea	chickpea	bitter	dried	circumspect	wary	heedless	2	3	2	2	weak	ok	n	bean: circumspect is black's | exc: wary is a near-synonym, not circumspection overdone
+bitter-fermented-adzuki	adzuki	bitter	fermented	antiquarian	fusty	faddish	2	2	3	2	ok	ok	n	bean: antiquarian could as easily be navy's keeping | flavour: umami's aged depth would serve as well
+bitter-fermented-kidney	kidney	bitter	fermented	vigilant	paranoid	oblivious	3	2	2	2	ok	weak	n	inv: oblivious is an absence
+bitter-fried-adzuki	adzuki	bitter	fried	droll	flippant	humourless	2	3	2	2	ok	weak	n	bean: droll is edamame's or black's | inv: humourless is an absence, hard to write as chosen
+bitter-fried-cannellini	cannellini	bitter	fried	exacting	perfectionist	slapdash	3	2	2	2	ok	ok	n	
+bitter-roasted-adzuki	adzuki	bitter	roasted	polished	slick	rough	2	2	3	2	ok	ok	n	bean: polished is cannellini's | flavour: cultivated, but sour or umami polish too
+bitter-roasted-butter	butter	bitter	roasted	nonchalant	blasé	fussy	3	2	2	2	weak	ok	n	exc: blase is a near-synonym
+bitter-roasted-kidney	kidney	bitter	roasted	proud	vainglorious	self-effacing	2	2	3	2	ok	ok	n	bean: proud is fava's arrogance
+bitter-smoked-adzuki	adzuki	bitter	smoked	oracular	portentous	plainspoken	2	2	3	2	ok	ok	n	bean: oracular is black's or pinto's | flavour: clear-eyed only loosely; the form carries it
+bitter-smoked-cannellini	cannellini	bitter	smoked	hermetic	reclusive	public	2	2	3	2	weak	ok	n	bean: hermetic is black's | exc: reclusive is a near-synonym
+bitter-smoked-kidney	kidney	bitter	smoked	haunting	harrowing	forgettable	2	2	3	2	ok	weak	y	bean: the protector who will not leave; defensible | inv: forgettable is an absence
+sour-boiled-butter	butter	sour	boiled	honest	tactless	evasive	2	3	2	2	ok	ok	n	bean: honest could be any bean; the axis is not anchored
+sour-boiled-chickpea	chickpea	sour	boiled	fair-minded	noncommittal	partisan	3	2	2	2	weak	ok	n	exc: noncommittal arrives from the bean's shadow, not from fairness overdone
+sour-boiled-kidney	kidney	sour	boiled	trustworthy	beholden	faithless	2	2	3	2	weak	ok	n	bean: loyal is navy's word too; trustworthy does not separate them | exc: beholden reverses who owes whom; trust overdone is being taken for granted
+sour-boiled-pinto	pinto	sour	boiled	candid	raw	embellished	2	3	2	2	ok	ok	n	
+sour-dried-butter	butter	sour	dried	plain	drab	ornate	2	2	3	2	weak	ok	n	bean: plain is unpretentious, which is chickpea's word | exc: drab is an aesthetic judgement, not plainness overdone
+sour-dried-chickpea	chickpea	sour	dried	wry	arch	unamused	2	2	3	2	ok	weak	n	bean: wry is edamame's or black's | inv: unamused is an absence
+sour-fermented-cannellini	cannellini	sour	fermented	discerning	snobbish	easy-to-please	3	2	2	2	ok	ok	y	discerning is bitter's own word; sour only half-earns it
+sour-fermented-pinto	pinto	sour	fermented	sardonic	jaundiced	ingenuous	2	3	2	2	ok	ok	n	bean: sardonic is bitter's own register, worked by edamame elsewhere
+sour-fried-fava	fava	sour	fried	swift	impetuous	irresolute	2	2	3	2	ok	weak	n	bean: swift is green's | inv: irresolute is a bare negation
+sour-smoked-adzuki	adzuki	sour	smoked	knowing	insinuating	unwitting	2	2	3	2	ok	weak	n	inv: unwitting cannot be chosen
+spicy-dried-adzuki	adzuki	spicy	dried	avid	insatiable	sated	2	3	2	2	ok	ok	n	bean: avid would sit on green | form: dried is about not needing, avid is hunger sustained
+spicy-fermented-cannellini	cannellini	spicy	fermented	singular	idiosyncratic	derivative	2	2	3	2	weak	ok	n	bean: distinctive is pinto's word; refinement is only adjacent | exc: idiosyncratic is a near-synonym, not singular overdone
+spicy-fermented-chickpea	chickpea	spicy	fermented	offbeat	outlandish	staid	2	2	3	2	weak	ok	y	bean: offbeat is pinto's | exc: outlandish is an intensifier
+spicy-fermented-edamame	edamame	spicy	fermented	inventive	baroque	imitative	2	2	3	2	ok	ok	n	bean: inventive is PINTO's own positiveTrait
+spicy-fermented-green	green	spicy	fermented	maverick	anarchic	conforming	2	2	3	2	weak	ok	n	bean: maverick is fava's | exc: anarchic is a different scale
+spicy-fried-black	black	spicy	fried	relentless	remorseless	relenting	2	3	2	2	ok	weak	n	bean: relentless is kidney's tenacity | inv: relenting is a bare stem-negation
+spicy-roasted-green	green	spicy	roasted	high-spirited	boisterous	dispirited	3	2	2	2	ok	weak	n	inv: dispirited is a state that happens to you
+spicy-roasted-navy	navy	spicy	roasted	staunch	diehard	fickle	3	2	2	2	weak	ok	n	exc: diehard names a person, not a degree
+spicy-smoked-adzuki	adzuki	spicy	smoked	transfixing	hypnotic	unremarkable	2	3	2	2	weak	weak	n	bean: transfixing is pinto's | exc: hypnotic is an intensifier; inv: unremarkable is not chosen
+spicy-smoked-cannellini	cannellini	spicy	smoked	arresting	confronting	unnoticeable	2	3	2	2	weak	weak	n	bean: arresting is pinto's or adzuki's | exc: confronting names the subject's aggression, not the effect's intensity
+spicy-smoked-mung	mung	spicy	smoked	bewitching	ensnaring	charmless	2	2	3	2	ok	weak	n	bean: bewitching is pinto's | inv: charmless is an absence
+spicy-smoked-navy	navy	spicy	smoked	steadfast	entrenched	wishy-washy	3	2	2	2	ok	ok	y	staunch/steadfast/resolute/firm are four near-duplicates in this grid
+sweet-boiled-black	black	sweet	boiled	constant	unchanging	fitful	2	2	3	2	weak	ok	n	bean: constant is navy's dependability, and navy is in this same column | exc: unchanging restates constant rather than overdoing it
+sweet-boiled-fava	fava	sweet	boiled	encouraging	pushy	discouraging	2	3	2	2	ok	weak	n	bean: championing is kidney's; courage lent to others is the defensible reach | inv: discouraging is a bare negation
+sweet-boiled-pinto	pinto	sweet	boiled	daydreamy	absent	grounded	3	2	2	2	weak	ok	n	exc: absent is an absence
+sweet-dried-black	black	sweet	dried	abiding	immutable	fleeting	2	2	3	2	weak	ok	n	bean: abiding is navy's enduring | exc: immutable restates abiding
+sweet-dried-butter	butter	sweet	dried	serene	somnolent	turbulent	3	2	2	2	ok	ok	y	
+sweet-dried-chickpea	chickpea	sweet	dried	wholesome	sanitised	unsavoury	2	3	2	2	ok	ok	n	bean: wholesome is mung's or navy's
+sweet-fermented-cannellini	cannellini	sweet	fermented	diplomatic	duplicitous	gauche	2	3	2	2	weak	ok	n	bean: diplomatic is chickpea's mediating, and chickpea is in this column | exc: diplomacy overdone is appeasing, not duplicitous
+sweet-fermented-chickpea	chickpea	sweet	fermented	empathetic	enmeshed	cold-hearted	2	3	2	2	ok	ok	n	bean: empathetic is mung's
+sweet-fermented-fava	fava	sweet	fermented	visionary	utopian	shortsighted	2	2	3	2	ok	weak	n	bean: visionary is pinto's imaginative | inv: shortsighted is a capacity
+sweet-fermented-green	green	sweet	fermented	whimsical	twee	humdrum	2	2	3	2	ok	ok	n	bean: whimsical is pinto's
+sweet-fried-cannellini	cannellini	sweet	fried	lavish	extravagant	stingy	2	3	2	2	weak	ok	n	bean: lavish is adzuki's excess | exc: extravagant is a near-synonym
+sweet-fried-mung	mung	sweet	fried	openhanded	prodigal	tight-fisted	2	3	2	2	ok	ok	n	bean: openhanded is adzuki's generosity
+sweet-fried-navy	navy	sweet	fried	romantic	starry-eyed	hard-headed	2	3	2	2	ok	ok	n	bean: romantic is pinto's or kidney's; the reach from loyalty is thin
+sweet-roasted-edamame	edamame	sweet	roasted	considerate	self-sacrificing	thoughtless	2	3	2	2	ok	ok	y	bean: considerate is mung's, and unsentimental cuts against it
+sweet-smoked-green	green	sweet	smoked	iridescent	gaudy	monochrome	2	2	3	2	ok	ok	n	bean: distinctive is pinto's word
+umami-boiled-kidney	kidney	umami	boiled	disciplined	regimented	undisciplined	2	2	3	2	ok	weak	n	bean: disciplined is navy's | inv: undisciplined is a bare negation
+umami-fermented-butter	butter	umami	fermented	reflective	paralysed	unconsidered	2	2	3	2	weak	weak	n	bean: reflective is black's, and black is in this column with introspective | exc: paralysed is a different failure; inv: unconsidered is an absence
+umami-fermented-mung	mung	umami	fermented	poetic	florid	unlyrical	2	2	3	2	ok	weak	n	bean: poetic is pinto's | inv: unlyrical is a bare negation and a skill
+umami-fermented-pinto	pinto	umami	fermented	inward	shut-in	outward	2	2	3	2	ok	weak	n	bean: inward is black's word and the form's; the Dreamer only half-owns it | trait is the form's own word; inv: outward is a bare directional negation
+umami-fried-cannellini	cannellini	umami	fried	principled	doctrinaire	expedient	2	2	3	2	ok	ok	n	bean: principled is navy's uprightness
+bitter-boiled-black	black	bitter	boiled	measured	plodding	hasty	3	2	3	2	ok	ok	y	
+bitter-boiled-butter	butter	bitter	boiled	placid	impassive	agitated	3	2	3	2	ok	ok	y	
+bitter-boiled-cannellini	cannellini	bitter	boiled	judicious	overcautious	rash	3	3	2	2	ok	ok	n	
+bitter-dried-fava	fava	bitter	dried	steely	pitiless	pliant	3	2	3	2	weak	ok	n	exc: pitiless names cruelty; steeliness overdone is unbending
+bitter-dried-mung	mung	bitter	dried	clinical	cold	mawkish	2	3	3	2	weak	ok	n	bean: clinical is edamame's unsentimental, though the healer-as-clinician reads | exc: cold is the flavour's own generic shadow, not clinical overdone
+bitter-dried-pinto	pinto	bitter	dried	cryptic	impenetrable	obvious	2	3	3	2	weak	ok	n	bean: cryptic is black's opacity | exc: impenetrable is an intensifier
+bitter-fermented-black	black	bitter	fermented	ruminative	morbid	unthinking	3	2	3	2	weak	weak	n	exc: morbid changes the subject, not the degree; inv: unthinking is an absence
+bitter-fermented-butter	butter	bitter	fermented	philosophical	abstruse	prosaic	2	3	3	2	ok	ok	n	bean: philosophical would sit on black
+bitter-fermented-chickpea	chickpea	bitter	fermented	interpretive	tendentious	literal	3	2	3	2	ok	ok	n	
+bitter-fermented-edamame	edamame	bitter	fermented	rational	bloodless	irrational	3	3	2	2	ok	weak	y	inv: irrational is a bare negation nobody holds by choice
+bitter-fermented-fava	fava	bitter	fermented	questioning	disputatious	credulous	3	3	2	2	ok	ok	n	
+bitter-fermented-green	green	bitter	fermented	speculative	fantastical	unimaginative	3	2	3	2	ok	weak	n	inv: unimaginative is a capacity
+bitter-fermented-mung	mung	bitter	fermented	intuitive	superstitious	imperceptive	3	2	3	2	ok	weak	y	inv: imperceptive is a capacity
+bitter-fermented-navy	navy	bitter	fermented	bookish	cloistered	unread	2	3	3	2	ok	weak	n	bean: bookish is cannellini's | inv: unread is an absence and a skill
+bitter-fried-butter	butter	bitter	fried	deadpan	affectless	histrionic	3	3	2	2	weak	ok	n	exc: affectless is a different condition
+bitter-roasted-black	black	bitter	roasted	poised	aloof	flustered	3	2	3	2	weak	ok	n	exc: aloof is bitter's shadow, a different fault from poise overdone
+bitter-roasted-cannellini	cannellini	bitter	roasted	refined	fastidious	coarse	3	3	2	2	ok	ok	n	
+bitter-roasted-chickpea	chickpea	bitter	roasted	cosmopolitan	rootless	parochial	3	3	2	2	weak	ok	n	exc: rootless names a lack; cosmopolitanism overdone is affected
+bitter-roasted-fava	fava	bitter	roasted	shameless	brazen	sheepish	3	2	3	2	weak	ok	n	exc: brazen is a near-synonym
+bitter-smoked-black	black	bitter	smoked	inscrutable	opaque	legible	3	2	3	2	ok	ok	n	
+bitter-smoked-edamame	edamame	bitter	smoked	reticent	withholding	voluble	3	2	3	2	ok	ok	n	
+bitter-smoked-green	green	bitter	smoked	eerie	unnerving	mundane	2	3	3	2	ok	ok	y	bean: a reach, but the bean that goes woody unpicked has an unsettling aliveness
+bitter-smoked-navy	navy	bitter	smoked	watchful	unsleeping	inattentive	3	2	3	2	weak	weak	n	exc: unsleeping intensifies duration; inv is a bare negation
+bitter-smoked-pinto	pinto	bitter	smoked	intricate	labyrinthine	rudimentary	3	2	3	2	ok	ok	y	
+sour-boiled-adzuki	adzuki	sour	boiled	sincere	overearnest	insincere	3	3	2	2	ok	weak	n	inv: insincere is a vice, not a defensible pole
+sour-boiled-fava	fava	sour	boiled	righteous	self-righteous	unprincipled	3	3	2	2	weak	ok	n	exc: self-righteous is the trait plus "self-"
+sour-dried-adzuki	adzuki	sour	dried	tart	caustic	syrupy	2	3	3	2	ok	ok	n	bean: the sweet bean turned tart is a good inversion | trait restates the flavour word; thin as a disposition
+sour-dried-fava	fava	sour	dried	acerbic	scathing	emollient	2	3	3	2	ok	ok	y	bean: acerbity is not courage; edamame or cannellini own it
+sour-dried-green	green	sour	dried	bracing	jarring	soporific	3	3	2	2	weak	ok	n	exc: jarring is a near-synonym
+sour-dried-navy	navy	sour	dried	firm	immovable	pliable	3	2	3	2	weak	ok	n	exc: immovable is a near-synonym
+sour-fermented-adzuki	adzuki	sour	fermented	self-aware	self-conscious	unperceptive	2	3	3	2	ok	weak	y	inv: unperceptive is an absence
+sour-fermented-black	black	sour	fermented	perceptive	suspicious	undiscerning	3	3	2	2	ok	weak	n	inv: undiscerning is an absence
+sour-fermented-edamame	edamame	sour	fermented	sceptical	cynical	trusting	3	3	2	2	ok	ok	n	
+sour-fermented-kidney	kidney	sour	fermented	tested	hardened	untried	3	2	3	2	ok	weak	n	inv: untried is a status, not a disposition
+sour-fermented-mung	mung	sour	fermented	diagnostic	pathologising	palliative	3	3	2	2	ok	ok	n	excess/inverse repaired: pathologising is diagnosis past its use; palliative is a healer who treats without investigating
+sour-fermented-navy	navy	sour	fermented	scrupulous	punctilious	unscrupulous	3	3	2	2	weak	weak	n	exc: punctilious is a near-synonym; inv: unscrupulous is a vice, not a pole
+sour-fried-adzuki	adzuki	sour	fried	quick-witted	sharp-tongued	slow-witted	2	3	3	2	weak	weak	n	bean: quick-witted is green's or edamame's | exc: sharp-tongued swaps speed for cruelty; inv: slow-witted is a capacity
+sour-fried-black	black	sour	fried	clipped	curt	discursive	3	2	3	2	ok	ok	n	
+sour-fried-chickpea	chickpea	sour	fried	nimble	slippery	ponderous	3	2	3	2	ok	ok	n	
+sour-fried-green	green	sour	fried	impulsive	hotheaded	deliberative	3	2	3	2	ok	ok	n	
+sour-fried-mung	mung	sour	fried	self-deprecating	self-abasing	boastful	3	3	2	2	ok	ok	y	
+sour-roasted-adzuki	adzuki	sour	roasted	grateful	indebted	entitled	3	2	3	2	ok	ok	n	RE-PICKED (your line): flavour 2 — sweet would carry grateful too; sour supplies only the saying-it-out-loud
+sour-roasted-cannellini	cannellini	sour	roasted	frank	brutal	coy	2	3	3	2	ok	ok	n	bean: frank is edamame's
+sour-roasted-fava	fava	sour	roasted	authentic	unfiltered	posed	2	3	3	2	ok	ok	n	bean: authentic is thin and would sit on pinto
+sour-roasted-green	green	sour	roasted	ebullient	manic	subdued	3	2	3	2	weak	ok	n	trait is the bean's own word; exc: manic names a state, not ebullience overdone
+sour-smoked-cannellini	cannellini	sour	smoked	admiring	covetous	unimpressed	3	2	3	2	ok	ok	n	RE-PICKED (your line): flavour 2 — admiration is warmer than acid; sour earns it only through discrimination
+sour-smoked-chickpea	chickpea	sour	smoked	attuned	hypersensitive	tone-deaf	3	2	3	2	ok	weak	n	inv: tone-deaf is a capacity
+sour-smoked-green	green	sour	smoked	pungent	acrid	bland	2	3	3	2	ok	ok	n	bean: pungent is mung's or the spice's, not the fresh bean's
+spicy-boiled-edamame	edamame	spicy	boiled	industrious	workaholic	idle	3	2	3	2	ok	ok	n	
+spicy-boiled-green	green	spicy	boiled	zealous	fanatical	apathetic	3	3	2	2	ok	ok	n	
+spicy-boiled-kidney	kidney	spicy	boiled	dogged	monomaniacal	faltering	3	2	3	2	weak	weak	n	exc: monomaniacal is a different scale; inv: faltering happens to you
+spicy-boiled-mung	mung	spicy	boiled	tireless	unresting	flagging	3	2	3	2	weak	weak	n	exc: unresting is a near-synonym; inv: flagging happens to you
+spicy-boiled-pinto	pinto	spicy	boiled	brimming	overflowing	empty	3	2	3	2	weak	weak	n	exc: overflowing is the same metaphor one notch on; inv: empty is an absence
+spicy-dried-butter	butter	spicy	dried	taut	brittle	slack	2	3	3	2	ok	ok	n	bean: taut fights the bean, but that is what spicy plus dried does to a Pacifist
+spicy-dried-chickpea	chickpea	spicy	dried	conductive	incendiary	insulating	3	3	2	2	ok	ok	n	bean: the Connector literally conducts
+spicy-dried-edamame	edamame	spicy	dried	mordant	venomous	toothless	3	2	3	2	ok	ok	n	mordant is bitter's ground more than spicy's
+spicy-dried-green	green	spicy	dried	electric	jangling	flat	3	3	2	2	weak	ok	n	exc: jangling is a sensation, not electricity overdone
+spicy-fermented-adzuki	adzuki	spicy	fermented	rhapsodic	delirious	matter-of-fact	3	3	2	2	ok	ok	n	
+spicy-fermented-black	black	spicy	fermented	mysterious	unfathomable	self-evident	3	2	3	2	weak	ok	y	exc: unfathomable is an intensifier
+spicy-fermented-kidney	kidney	spicy	fermented	intense	overwhelming	lukewarm	3	3	2	2	ok	ok	y	
+spicy-fried-cannellini	cannellini	spicy	fried	driven	consumed	aimless	2	3	3	2	ok	ok	n	bean: driven is fava's ambition
+spicy-fried-mung	mung	spicy	fried	urgent	frantic	leisurely	2	3	3	2	ok	ok	n	bean: urgent is green's
+spicy-roasted-adzuki	adzuki	spicy	roasted	exultant	triumphalist	joyless	3	2	3	2	ok	weak	n	inv: joyless is an absence
+spicy-roasted-cannellini	cannellini	spicy	roasted	charismatic	messianic	colourless	2	3	3	2	ok	weak	n	bean: charisma is adzuki's or pinto's | inv: colourless is an absence
+spicy-roasted-chickpea	chickpea	spicy	roasted	gregarious	overbearing	withdrawn	3	2	3	2	ok	ok	n	
+spicy-roasted-edamame	edamame	spicy	roasted	confident	cocksure	diffident	3	2	3	2	ok	ok	n	
+spicy-roasted-kidney	kidney	spicy	roasted	emotive	melodramatic	unexpressive	3	2	3	2	ok	weak	n	inv: unexpressive is a bare negation
+spicy-roasted-mung	mung	spicy	roasted	demonstrative	gushing	unemotional	2	3	3	2	ok	weak	y	bean: demonstrative is pinto's | inv: unemotional is a bare negation
+spicy-smoked-fava	fava	spicy	smoked	wild	riotous	checked	3	3	2	2	weak	ok	n	exc: riotous is a near-synonym
+sweet-boiled-kidney	kidney	sweet	boiled	compassionate	pitying	hard-hearted	2	3	3	2	ok	ok	n	bean: compassionate is mung's
+sweet-boiled-navy	navy	sweet	boiled	provident	hoarding	improvident	3	2	3	2	ok	weak	n	inv: improvident is a bare negation
+sweet-dried-kidney	kidney	sweet	dried	adoring	worshipful	unloving	3	3	2	2	ok	weak	n	inv: unloving is a bare negation
+sweet-fermented-adzuki	adzuki	sweet	fermented	sentimental	maudlin	hard-nosed	3	3	2	2	ok	ok	y	
+sweet-fermented-butter	butter	sweet	fermented	silly	ridiculous	stern	2	3	3	2	weak	ok	n	bean: silly is green's or pinto's | exc: ridiculous is an intensifier
+sweet-fermented-pinto	pinto	sweet	fermented	fanciful	delusional	concrete	3	2	3	2	weak	ok	n	exc: delusional is a clinical register; fancy overdone is silly
+sweet-fried-adzuki	adzuki	sweet	fried	jubilant	rapturous	sombre	3	3	2	2	weak	ok	y	exc: rapturous is just more jubilant
+sweet-fried-black	black	sweet	fried	ardent	feverish	tepid	2	3	3	2	ok	ok	n	bean: ardent is kidney's passion, and kidney is in this column
+sweet-roasted-black	black	sweet	roasted	gracious	unctuous	graceless	2	3	3	2	ok	weak	n	bean: gracious is cannellini's decorous | inv: graceless is an absence and reads as an insult
+sweet-roasted-butter	butter	sweet	roasted	lighthearted	unserious	weighty	3	3	2	2	ok	ok	y	
+sweet-roasted-green	green	sweet	roasted	buoyant	bumptious	deflated	3	3	2	2	ok	weak	n	inv: deflated is something done to you
+sweet-roasted-mung	mung	sweet	roasted	cosseting	infantilising	spartan	3	3	2	2	ok	ok	n	
+sweet-roasted-pinto	pinto	sweet	roasted	mischievous	troublemaking	straitlaced	3	3	2	2	weak	ok	n	exc: troublemaking names an activity, not the disposition overdone
+sweet-smoked-adzuki	adzuki	sweet	smoked	luminous	blinding	dim	3	2	3	2	ok	weak	y	inv: dim is an absence and reads as a slur
+sweet-smoked-cannellini	cannellini	sweet	smoked	delicate	dainty	robust	3	2	3	2	ok	ok	n	excess/inverse repaired: dainty is delicacy gone precious; robust is a defensible preference for the sturdy
+sweet-smoked-kidney	kidney	sweet	smoked	enamoured	besotted	cold-eyed	3	3	2	2	weak	ok	n	exc: besotted is a near-synonym. NOTE: this whole sweet row is six near-synonyms of love; the form axis is barely separating them
+sweet-smoked-navy	navy	sweet	smoked	lingering	clinging	vanishing	3	2	3	2	ok	weak	n	trait is the form's own word; inv: vanishing is an absence
+sweet-smoked-pinto	pinto	sweet	smoked	dreamlike	hallucinatory	stark	3	2	3	2	ok	ok	y	
+umami-boiled-edamame	edamame	umami	boiled	dedicated	self-forgetting	indifferent	2	3	3	2	ok	ok	n	bean: dedicated is kidney's or navy's
+umami-boiled-pinto	pinto	umami	boiled	musing	woolgathering	workaday	3	3	2	2	ok	ok	n	near-duplicates contemplative and daydreamy elsewhere in this grid
+umami-dried-adzuki	adzuki	umami	dried	reverential	awestruck	profane	3	2	3	2	weak	ok	n	exc: awestruck is reverence's sincere peak, not reverence gone wrong
+umami-dried-black	black	umami	dried	profound	unplumbable	shallow	3	3	2	2	weak	ok	n	exc: unplumbable is an intensifier
+umami-dried-cannellini	cannellini	umami	dried	distinguished	grand	undistinguished	3	2	3	2	weak	weak	n	exc: grand is a different quality; inv is a bare negation
+umami-dried-edamame	edamame	umami	dried	foundational	monolithic	peripheral	2	3	3	2	ok	ok	n	bean: foundational is navy's
+umami-dried-fava	fava	umami	dried	formidable	fearsome	unimposing	3	2	3	2	weak	weak	n	exc: fearsome is a near-synonym; inv: unimposing is an absence
+umami-dried-green	green	umami	dried	potent	concentrated	feeble	2	3	3	2	weak	weak	n	bean: vital is kidney's word; green's aliveness is only adjacent | exc: concentrated is the FORM'S OWN POSITIVE TRAIT, a virtue not an overdoing
+umami-dried-kidney	kidney	umami	dried	faithful	blind	disloyal	2	3	3	2	ok	ok	n	bean: faithful is navy's loyalty, and navy is in this column
+umami-dried-mung	mung	umami	dried	restorative	enabling	depleting	3	3	2	2	ok	weak	n	trait is the bean's own word and near-duplicates replenishing next door; inv duplicates its neighbour's too
+umami-fermented-adzuki	adzuki	umami	fermented	elegiac	funereal	forgetful	3	3	2	2	ok	ok	n	bean: the commemorative bean turned to mourning
+umami-fermented-black	black	umami	fermented	introspective	self-absorbed	unexamined	3	2	3	2	ok	weak	n	inv: unexamined is an absence
+umami-fried-fava	fava	umami	fried	assured	overconfident	unsure	3	3	2	2	weak	weak	n	exc: overconfident is the trait plus "over-"; inv is a bare negation
+umami-fried-navy	navy	umami	fried	authoritative	autocratic	uncertain	3	2	3	2	ok	weak	n	inv: uncertain is a state, not a stance
+umami-roasted-black	black	umami	roasted	insightful	omniscient	unseeing	3	3	2	2	weak	weak	n	exc: omniscient is a different claim; inv: unseeing is an absence
+umami-roasted-chickpea	chickpea	umami	roasted	tolerant	laissez-faire	censorious	3	3	2	2	ok	ok	y	
+umami-roasted-kidney	kidney	umami	roasted	openhearted	defenceless	walled	3	2	3	2	ok	ok	n	
+umami-roasted-pinto	pinto	umami	roasted	expansive	grandiose	tight-lipped	3	2	3	2	ok	ok	y	
+umami-smoked-adzuki	adzuki	umami	smoked	hallowed	untouchable	commonplace	3	2	3	2	ok	ok	n	
+umami-smoked-black	black	umami	smoked	solemn	sepulchral	jocular	3	3	2	2	ok	ok	n	
+umami-smoked-green	green	umami	smoked	budding	unripe	withered	3	3	2	2	weak	ok	n	bean: it flowers fast | exc: unripe restates the trait's incompleteness as a fault
+umami-smoked-kidney	kidney	umami	smoked	mournful	inconsolable	untouched	2	3	3	2	ok	ok	n	bean: mournful is the flavour's shadow; adzuki's elegiac owns this ground
+umami-smoked-navy	navy	umami	smoked	timeless	ossified	dated	3	3	2	2	ok	weak	n	inv: dated is a verdict from outside
+umami-smoked-pinto	pinto	umami	smoked	atmospheric	fog-bound	blank	3	2	3	2	ok	weak	n	inv: blank is an absence
+bitter-dried-black	black	bitter	dried	laconic	monosyllabic	garrulous	3	3	3	3	ok	ok	n	
+bitter-dried-cannellini	cannellini	bitter	dried	ascetic	self-denying	hedonistic	3	3	3	3	ok	ok	y	ANCHOR
+bitter-dried-edamame	edamame	bitter	dried	terse	brusque	verbose	3	3	3	3	ok	ok	y	
+bitter-fermented-cannellini	cannellini	bitter	fermented	contrite	self-flagellating	impenitent	3	3	3	3	ok	ok	n	RE-PICKED (your line): remorse worked privately, under its own power, and never finished
+bitter-fermented-pinto	pinto	bitter	fermented	artistic	precious	philistine	3	3	3	3	ok	ok	y	ANCHOR
+bitter-fried-chickpea	chickpea	bitter	fried	shrewd	calculating	gullible	3	3	3	3	ok	ok	y	
+bitter-fried-edamame	edamame	bitter	fried	decisive	peremptory	dithering	3	3	3	3	ok	ok	y	ANCHOR
+bitter-fried-fava	fava	bitter	fried	ambitious	grasping	content	3	3	3	3	ok	ok	n	RE-PICKED (your line): the bean-s own word, taken coldly and acted on with no second attempt
+bitter-fried-kidney	kidney	bitter	fried	hard-line	implacable	accommodating	3	3	3	3	ok	ok	n	
+bitter-fried-pinto	pinto	bitter	fried	satirical	mocking	reverent	3	3	3	3	weak	ok	n	exc: mockery is cruder, not more; the excess changes satire's target rather than its degree
+bitter-roasted-edamame	edamame	bitter	roasted	witty	glib	leaden	3	3	3	3	ok	ok	y	
+bitter-roasted-pinto	pinto	bitter	roasted	stylish	affected	dowdy	3	3	3	3	ok	ok	n	
+sour-dried-black	black	sour	dried	flinty	stony	soft	3	3	3	3	weak	ok	n	exc: stony is an intensifier of flinty
+sour-dried-cannellini	cannellini	sour	dried	stringent	draconian	lax	3	3	3	3	ok	ok	n	
+sour-dried-edamame	edamame	sour	dried	pointed	barbed	vague	3	3	3	3	ok	ok	n	
+sour-dried-kidney	kidney	sour	dried	fierce	savage	meek	3	3	3	3	ok	ok	y	
+sour-dried-mung	mung	sour	dried	astringent	harsh	soothing	3	3	3	3	weak	ok	n	bean: the healing bean that stings is a real inversion | exc: harsh is a generic intensifier
+sour-dried-pinto	pinto	sour	dried	epigrammatic	gnomic	rambling	3	3	3	3	weak	ok	n	exc: gnomic names obscurity; the epigram overdone is too pat
+sour-fermented-fava	fava	sour	fermented	contrarian	perverse	conformist	3	3	3	3	ok	ok	n	
+sour-fried-cannellini	cannellini	sour	fried	meticulous	obsessive	sloppy	3	3	3	3	ok	ok	y	ANCHOR
+sour-fried-edamame	edamame	sour	fried	blunt	rude	mealy-mouthed	3	3	3	3	ok	ok	n	
+sour-fried-kidney	kidney	sour	fried	challenging	belligerent	acquiescent	3	3	3	3	ok	ok	n	
+sour-roasted-butter	butter	sour	roasted	guileless	naive	scheming	3	3	3	3	ok	ok	y	
+sour-roasted-edamame	edamame	sour	roasted	forthright	abrasive	equivocal	3	3	3	3	ok	ok	n	
+sour-roasted-navy	navy	sour	roasted	indignant	incandescent	inured	3	3	3	3	ok	ok	n	RE-PICKED (your line): the Keeper-s systems, said out loud, in full view
+sour-roasted-pinto	pinto	sour	roasted	irreverent	sacrilegious	deferential	3	3	3	3	weak	ok	n	exc: sacrilegious is the same word in a louder register
+sour-smoked-black	black	sour	smoked	penetrating	invasive	superficial	3	3	3	3	ok	ok	n	
+sour-smoked-edamame	edamame	sour	smoked	surgical	ruthless	heavy-handed	3	3	3	3	ok	ok	y	ANCHOR
+spicy-boiled-black	black	spicy	boiled	gritty	self-punishing	fragile	3	3	3	3	ok	weak	y	inv: fragile is a condition more than a stance
+spicy-boiled-butter	butter	spicy	boiled	stoic	repressed	whiny	3	3	3	3	ok	ok	y	
+spicy-boiled-navy	navy	spicy	boiled	rigid	obstinate	yielding	3	3	3	3	ok	ok	y	ANCHOR
+spicy-dried-black	black	spicy	dried	contained	bottled	spilling	3	3	3	3	ok	ok	n	
+spicy-dried-kidney	kidney	spicy	dried	primed	volatile	unready	3	3	3	3	ok	weak	n	inv: unready is a status
+spicy-dried-navy	navy	spicy	dried	tough	closed-off	skittish	3	3	3	3	ok	ok	y	ANCHOR
+spicy-fermented-fava	fava	spicy	fermented	subversive	seditious	compliant	3	3	3	3	weak	ok	n	exc: seditious is the same word in a louder register
+spicy-fermented-mung	mung	spicy	fermented	absorbed	engulfed	distracted	3	3	3	3	ok	ok	y	
+spicy-fermented-navy	navy	spicy	fermented	single-minded	narrow-minded	scattered	3	3	3	3	weak	ok	y	exc: narrow-minded is about opinion, single-minded about focus; the excess changes the subject
+spicy-fermented-pinto	pinto	spicy	fermented	mercurial	capricious	stolid	3	3	3	3	weak	ok	n	exc: capricious is a near-synonym
+spicy-fried-adzuki	adzuki	spicy	fried	irrepressible	uncontrollable	quelled	3	3	3	3	ok	ok	y	
+spicy-fried-butter	butter	spicy	fried	game	gung-ho	reluctant	3	3	3	3	ok	ok	y	bean: the Pacifist who says yes
+spicy-fried-chickpea	chickpea	spicy	fried	spontaneous	scattershot	premeditated	3	3	3	3	ok	ok	n	
+spicy-fried-edamame	edamame	spicy	fried	emphatic	strident	hedging	3	3	3	3	ok	ok	n	
+spicy-fried-fava	fava	spicy	fried	headlong	breakneck	hesitant	3	3	3	3	ok	ok	y	
+spicy-fried-green	green	spicy	fried	headstrong	wilful	biddable	3	3	3	3	ok	ok	y	
+spicy-fried-kidney	kidney	spicy	fried	ferocious	rabid	tame	3	3	3	3	weak	ok	n	exc: rabid is animal madness, not ferocity overdone
+spicy-fried-navy	navy	spicy	fried	commanding	domineering	unassertive	3	3	3	3	ok	weak	y	inv: unassertive is a bare negation
+spicy-fried-pinto	pinto	spicy	fried	kinetic	frenzied	static	3	3	3	3	ok	weak	n	inv: static is an absence
+spicy-roasted-fava	fava	spicy	roasted	competitive	cutthroat	collaborative	3	3	3	3	ok	ok	n	RE-PICKED (your line): the contest needs the audience roasting supplies
+spicy-roasted-pinto	pinto	spicy	roasted	flamboyant	garish	muted	3	3	3	3	ok	ok	n	
+spicy-smoked-black	black	spicy	smoked	smouldering	seething	extinguished	3	3	3	3	ok	weak	n	inv: extinguished is an absence
+spicy-smoked-butter	butter	spicy	smoked	sensuous	voluptuary	numb	3	3	3	3	ok	ok	n	RE-PICKED (your line): sensuous is butter texture, spicy attention and smoke-as-atmosphere at once
+spicy-smoked-kidney	kidney	spicy	smoked	consuming	devouring	casual	3	3	3	3	weak	ok	n	exc: devouring is a near-synonym
+spicy-smoked-pinto	pinto	spicy	smoked	spellbinding	bewildering	unvarnished	3	3	3	3	weak	weak	y	exc: bewildering loses the audience, spellbinding overdone holds harder; inv: unvarnished names plainness of style, not failure to hold (trait-neighbours.tsv still records the older, better "pedestrian")
+sweet-boiled-butter	butter	sweet	boiled	forgiving	excusing	unappeasable	3	3	3	3	ok	ok	y	
+sweet-boiled-chickpea	chickpea	sweet	boiled	agreeable	obsequious	disagreeable	3	3	3	3	ok	weak	y	inv: disagreeable is a bare negation
+sweet-boiled-mung	mung	sweet	boiled	nurturing	overprotective	depriving	3	3	3	3	weak	ok	n	trait is the bean's own word; exc: overprotective drifts to protection, which is kidney's business
+sweet-dried-edamame	edamame	sweet	dried	straightforward	simplistic	convoluted	3	3	3	3	ok	ok	y	
+sweet-dried-navy	navy	sweet	dried	dutiful	servile	derelict	3	3	3	3	ok	ok	y	
+sweet-dried-pinto	pinto	sweet	dried	storied	mythologising	unremembered	3	3	3	3	ok	weak	y	inv: unremembered is done to you, not chosen
+sweet-fermented-navy	navy	sweet	fermented	homespun	provincial	worldly	3	3	3	3	weak	ok	n	exc: provincial names outlook; homespun overdone is twee
+sweet-fried-green	green	sweet	fried	giddy	hysterical	sensible	3	3	3	3	ok	ok	y	
+sweet-fried-pinto	pinto	sweet	fried	effusive	unstoppered	reserved	3	3	3	3	weak	ok	n	exc: unstoppered restates the trait as a metaphor
+sweet-roasted-adzuki	adzuki	sweet	roasted	convivial	bacchanalian	antisocial	3	3	3	3	ok	ok	n	
+sweet-roasted-fava	fava	sweet	roasted	emboldening	inciting	dampening	3	3	3	3	ok	ok	n	
+sweet-roasted-kidney	kidney	sweet	roasted	cherishing	possessive	uncaring	3	3	3	3	ok	ok	y	ANCHOR
+sweet-roasted-navy	navy	sweet	roasted	neighbourly	intrusive	standoffish	3	3	3	3	ok	ok	y	
+sweet-smoked-butter	butter	sweet	smoked	hazy	befogged	crisp	3	3	3	3	ok	ok	y	ANCHOR
+sweet-smoked-chickpea	chickpea	sweet	smoked	charming	ingratiating	off-putting	3	3	3	3	ok	weak	n	inv: off-putting is a verdict from outside
+sweet-smoked-edamame	edamame	sweet	smoked	disarming	placating	bristling	3	3	3	3	ok	ok	y	
+sweet-smoked-mung	mung	sweet	smoked	bashful	mortified	unabashed	3	3	3	3	ok	ok	n	RE-PICKED (your line): warm shyness, not cold — sweet is what stops it being aloof
+umami-boiled-black	black	umami	boiled	patient	passive	restive	3	3	3	3	ok	ok	n	
+umami-boiled-butter	butter	umami	boiled	restful	slumberous	wearying	3	3	3	3	ok	ok	y	
+umami-boiled-chickpea	chickpea	umami	boiled	adaptable	shapeless	set	3	3	3	3	ok	ok	y	ANCHOR
+umami-boiled-fava	fava	umami	boiled	resolved	fixed	undecided	3	3	3	3	weak	weak	n	exc: fixed restates resolved; inv: undecided is a state, not a stance
+umami-boiled-mung	mung	umami	boiled	replenishing	self-depleting	draining	3	3	3	3	ok	ok	n	
+umami-boiled-navy	navy	umami	boiled	custodial	proprietorial	abdicating	3	3	3	3	ok	ok	n	
+umami-dried-navy	navy	umami	dried	enduring	interminable	transient	3	3	3	3	ok	ok	y	
+umami-dried-pinto	pinto	umami	dried	layered	overwrought	reductive	3	3	3	3	ok	ok	y	
+umami-fermented-kidney	kidney	umami	fermented	rooted	stuck	uprooted	3	3	3	3	ok	weak	n	inv: uprooted is done to you
+umami-fermented-navy	navy	umami	fermented	deliberate	glacial	precipitous	3	3	3	3	ok	ok	y	
+umami-roasted-adzuki	adzuki	umami	roasted	warm	presumptuous	frosty	3	3	3	3	ok	ok	y	ANCHOR
+umami-roasted-cannellini	cannellini	umami	roasted	confiding	oversharing	secretive	3	3	3	3	ok	ok	y	
+umami-smoked-butter	butter	umami	smoked	languid	enervated	galvanised	3	3	3	3	weak	ok	n	exc: enervated is a condition, not languor overdone
+umami-smoked-cannellini	cannellini	umami	smoked	regal	imperious	lowly	3	3	3	3	ok	weak	y	inv: lowly is a station, not a disposition
+umami-smoked-chickpea	chickpea	umami	smoked	humble	self-erasing	swaggering	3	3	3	3	ok	ok	n	RE-PICKED (your line): unpretentious bean, unassuming flavour, work with no visible signature
+umami-smoked-edamame	edamame	umami	smoked	prescient	fatalistic	blindsided	3	3	3	3	ok	weak	y	ANCHOR for the trait; inv: blindsided is passive, something done to you
+umami-smoked-fava	fava	umami	smoked	primal	feral	civilised	3	3	3	3	ok	ok	n	
+umami-smoked-mung	mung	umami	smoked	steeped	saturated	thin	3	3	3	3	weak	ok	n	bean: soak it overnight and it sprouts | exc: saturated is a near-synonym

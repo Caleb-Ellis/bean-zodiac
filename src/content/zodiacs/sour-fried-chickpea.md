@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-fried-chickpea
 lastUpdated: 
 bean: chickpea
@@ -11,10 +11,10 @@ inverse: ponderous
 quote: It is not the strongest bean that survives, nor the most intelligent, but the one most responsive to change.
 creature: gecko
 dish: Crispy chickpeas with sumac, lemon, and fried garlic.
-friendlyBeans: [adzuki, kidney]
+friendlyBeans: [adzuki, mung]
 friendlyForm: roasted
 antiTriple: umami-fermented-black
-antiBeans: [navy, cannellini]
+antiBeans: [butter, navy]
 antiForm: dried
 seasonalFortune: "A season of sumac and quick hands: the chickpea is out of the oil before it catches."
 fortuneMost: A gecko drops its tail and grows back a poorer one.

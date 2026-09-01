@@ -12,9 +12,9 @@ creature: bactrian camel
 dish: Kuru fasulye - butter beans braised with Aleppo pepper and onion.
 friendlyBeans: [mung, navy]
 friendlyForm: dried
-antiTriple: sour-smoked-green
-antiBeans: [fava, pinto]
-antiForm: fried
+antiTriple: sour-smoked-fava
+antiBeans: [pinto, edamame]
+antiForm: fermented
 seasonalFortune: "A season of Aleppo pepper and held breath — the pot carries heat without ever mentioning it."
 fortuneMost: Left to bottle up, it'll explode eventually.
 fortuneHigh: Do what needs doing and skip the fuss.

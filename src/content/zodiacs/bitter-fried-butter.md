@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: bitter-fried-butter
 lastUpdated: 
 bean: butter
@@ -11,11 +11,11 @@ inverse: histrionic
 quote: Whatever, it's beans.
 creature: bullfrog
 dish: Butter beans seared hard in brown butter with sage.
-friendlyBeans: [mung, kidney]
+friendlyBeans: [mung, chickpea]
 friendlyForm: boiled
-antiTriple: umami-fermented-adzuki
-antiBeans: [black, pinto]
-antiForm: dried
+antiTriple: spicy-fermented-pinto
+antiBeans: [cannellini, black]
+antiForm: smoked
 seasonalFortune: "A season of brown butter and flat delivery. The pan does something drastic and mentions none of it."
 fortuneMost: A joke told with a straight face can land as contempt.
 fortuneHigh: A bullfrog fills the whole pond without moving.

@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: umami-boiled-pinto
 lastUpdated:
 bean: pinto
@@ -12,10 +12,10 @@ quote: I wandered lonely as a bean.
 creature: grey whale
 dish: Pinto beans simmered in mushroom dashi with epazote.
 friendlyBeans: [black, chickpea]
-friendlyForm: smoked
+friendlyForm: roasted
 antiTriple: sweet-fried-kidney
-antiBeans: [edamame, mung]
-antiForm: dried
+antiBeans: [mung, cannellini]
+antiForm: smoked
 seasonalFortune: "A season of epazote and rising steam — the broth thinks about something and doesn't say."
 fortuneMost: Muse long enough and the ordinary jobs pile up unattended.
 fortuneHigh: A grey whale swims the whole coast on last year's feeding.

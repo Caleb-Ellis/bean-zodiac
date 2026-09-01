@@ -12,9 +12,9 @@ creature: ghost bat
 dish: Kidney beans smoked over mesquite with chocolate and chilli.
 friendlyBeans: [mung, chickpea]
 friendlyForm: boiled
-antiTriple: sour-fermented-edamame
-antiBeans: [fava, pinto]
-antiForm: roasted
+antiTriple: sour-fried-edamame
+antiBeans: [fava, butter]
+antiForm: fermented
 seasonalFortune: "A season of mesquite and old chocolate; the smoke stays long after the pot has left."
 fortuneMost: You never hear the ghost bat arrive, only that it's gone.
 fortuneHigh: Say the thing that lingers.

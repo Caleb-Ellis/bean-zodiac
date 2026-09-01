@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-fried-edamame
 lastUpdated:
 bean: edamame
@@ -13,9 +13,9 @@ creature: howler monkey
 dish: Edamame stir-fried in chilli oil with garlic.
 friendlyBeans: [chickpea, pinto]
 friendlyForm: fermented
-antiTriple: umami-smoked-mung
-antiBeans: [black, kidney]
-antiForm: fermented
+antiTriple: umami-smoked-black
+antiBeans: [mung, kidney]
+antiForm: boiled
 seasonalFortune: "A season of chilli oil and underlined statements: the pod says it once, at volume."
 fortuneMost: A howler monkey is heard three miles off and moves nothing.
 fortuneHigh: State it plainly while everyone else hedges.

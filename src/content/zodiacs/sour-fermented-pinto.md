@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-fermented-pinto
 lastUpdated: 
 bean: pinto
@@ -13,8 +13,8 @@ creature: hyena
 dish: Pinto beans en escabeche with carrot and pickled onion.
 friendlyBeans: [chickpea, fava]
 friendlyForm: roasted
-antiTriple: sweet-dried-cannellini
-antiBeans: [black, mung]
+antiTriple: sweet-dried-kidney
+antiBeans: [navy, butter]
 antiForm: boiled
 seasonalFortune: "A season of escabeche and dry commentary — the pickle has opinions about everyone at the table."
 fortuneMost: Expect the worst of people and they oblige.

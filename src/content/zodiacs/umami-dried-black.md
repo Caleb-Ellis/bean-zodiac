@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: rerun script
 slug: umami-dried-black
 lastUpdated:
 bean: black
@@ -11,7 +11,7 @@ inverse: shallow
 quote: Deep calls to bean.
 creature: sperm whale
 dish: Aged black beans with dried shiitake and dark soy.
-friendlyBeans: [cannellini, edamame]
+friendlyBeans: [edamame, cannellini]
 friendlyForm: smoked
 antiTriple: sweet-roasted-chickpea
 antiBeans: [kidney, pinto]

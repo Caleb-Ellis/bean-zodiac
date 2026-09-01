@@ -13,7 +13,7 @@ dish: Edamame simmered in gyokuro with sea salt.
 friendlyBeans: [cannellini, black]
 friendlyForm: smoked
 antiTriple: sweet-roasted-adzuki
-antiBeans: [kidney, chickpea]
+antiBeans: [kidney, mung]
 antiForm: fried
 seasonalFortune: "A season of cold tea and counted minutes: the pod gives up its logic, not its warmth."
 fortuneMost: The raven toils to open the sea shell, working up an appetite it will not sate.

@@ -12,9 +12,9 @@ creature: luna moth
 dish: Barbecued butter beans with brown sugar over hickory.
 friendlyBeans: [black, mung]
 friendlyForm: fermented
-antiTriple: spicy-roasted-pinto
-antiBeans: [green, adzuki]
-antiForm: fried
+antiTriple: spicy-fried-green
+antiBeans: [pinto, cannellini]
+antiForm: roasted
 seasonalFortune: "A season of brown sugar and hickory — the afternoon blurs pleasantly and stays blurred."
 fortuneMost: The luna moth moves toward all lights, drifting everywhere and going nowhere.
 fortuneHigh: Make no plans. Set no alarms.

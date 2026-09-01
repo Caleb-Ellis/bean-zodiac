@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sweet-fermented-chickpea
 lastUpdated: 
 bean: chickpea
@@ -13,8 +13,8 @@ creature: beluga
 dish: Chickpea amazake with cinnamon.
 friendlyBeans: [mung, kidney]
 friendlyForm: smoked
-antiTriple: sour-dried-edamame
-antiBeans: [cannellini, navy]
+antiTriple: bitter-dried-cannellini
+antiBeans: [navy, black]
 antiForm: boiled
 seasonalFortune: "A season of amazake and cinnamon — the crock takes on whatever the kitchen was feeling."
 fortuneMost: A beluga hears the whole pod through the ice and can't stop.

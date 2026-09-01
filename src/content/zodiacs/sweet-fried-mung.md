@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sweet-fried-mung
 lastUpdated:
 bean: mung
@@ -13,8 +13,8 @@ creature: cleaner shrimp
 dish: Mung bean pancake fried and drenched in palm syrup.
 friendlyBeans: [kidney, butter]
 friendlyForm: boiled
-antiTriple: sour-roasted-edamame
-antiBeans: [pinto, fava]
+antiTriple: sour-dried-edamame
+antiBeans: [pinto, black]
 antiForm: fermented
 seasonalFortune: "A season of palm syrup and full plates: the pancake is handed to everyone."
 fortuneMost: Give it all away and there's nothing to give next time.

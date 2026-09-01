@@ -12,9 +12,9 @@ creature: capuchin
 dish: Mung fritters fried and doused in tamarind water.
 friendlyBeans: [kidney, chickpea]
 friendlyForm: roasted
-antiTriple: bitter-dried-edamame
-antiBeans: [black, fava]
-antiForm: fermented
+antiTriple: spicy-fermented-edamame
+antiBeans: [pinto, navy]
+antiForm: dried
 seasonalFortune: "A season of tamarind water and small claims — the fritter apologises for a dish needing none."
 fortuneMost: Discount yourself often enough and the price will stick.
 fortuneHigh: Capuchin monkeys are experts at making their falls look intentional.

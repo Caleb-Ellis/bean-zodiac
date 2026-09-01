@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-dried-edamame
 lastUpdated: 
 bean: edamame
@@ -13,9 +13,9 @@ creature: scorpion
 dish: Dried soybeans with mala salt and Sichuan peppercorn.
 friendlyBeans: [cannellini, fava]
 friendlyForm: fermented
-antiTriple: umami-boiled-adzuki
-antiBeans: [butter, mung]
-antiForm: roasted
+antiTriple: umami-boiled-mung
+antiBeans: [adzuki, kidney]
+antiForm: smoked
 seasonalFortune: "A season of mala salt and dry bite: the soybean answers sharply and does not soften."
 fortuneMost: A scorpion's tail curls over its own back first.
 fortuneHigh: Deliver the dry line where it'll be understood.

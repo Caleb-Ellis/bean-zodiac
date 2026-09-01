@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { getBeanYear, type ZodiacId } from "../../../lib/zodiac";
+import { getBeanYear, getZodiacMetadataForDate, type ZodiacId } from "../../../lib/zodiac";
 import { type AllZodiacData } from "../../../lib/data";
 import { useStore } from "../../../store";
 import { useUiStore } from "../../../store/ui";
@@ -13,8 +13,13 @@ import {
 } from "../../../lib/spiritBean";
 import SpiritPanel, { type DisplayValues } from "./SpiritPanel";
 import Timeline from "./Timeline";
-import { YearFilterBar, YearNavButton } from "./YearFilter";
-import { formatDate, getAllSeasonsForBeanYear, zodiacParts } from "./helpers";
+import { SeasonFilterBar, SeasonNavButton } from "./YearFilter";
+import {
+  formatDate,
+  getAllSeasonsForBeanYear,
+  zodiacParts,
+  type SeasonFilter,
+} from "./helpers";
 
 function scoresToDisplay(scores: SpiritBeanScores): DisplayValues {
   return {
@@ -46,56 +51,61 @@ interface Props {
   claimedSlug: ZodiacId;
 }
 
-const _currentBeanYear = getBeanYear(new Date());
+const _currentSeasonKey = formatDate(getZodiacMetadataForDate(new Date()).startDate);
 
 export default function Beanstalk({ nodes, currentScores, data, claimedSlug }: Props) {
   const [claimedFlavourId, claimedFormId, claimedBeanId] = zodiacParts(claimedSlug);
   const claimedOn = useStore((s) => s.claimed?.on ?? null);
 
-  const beanYears = useMemo<number[]>(() => {
+  const today = formatDate(new Date());
+
+  // Seasons with history, plus the current one, oldest first.
+  const seasons = useMemo<SeasonFilter[]>(() => {
     const yearSet = new Set<number>([getBeanYear(new Date())]);
     for (const node of nodes) {
       const [y, m, d] = node.date.split("-").map(Number);
       yearSet.add(getBeanYear(new Date(y, m - 1, d)));
     }
-    return Array.from(yearSet).sort((a, b) => a - b);
-  }, [nodes]);
+    return Array.from(yearSet)
+      .sort((a, b) => a - b)
+      .flatMap((year) => getAllSeasonsForBeanYear(year))
+      .filter(
+        (season) =>
+          season.startDateStr <= today &&
+          (season.key === _currentSeasonKey ||
+            nodes.some((n) => n.date >= season.startDateStr && n.date <= season.endDateStr)),
+      );
+  }, [nodes, today]);
 
-  const [selectedBeanYear, setSelectedBeanYear] = useState<number>(_currentBeanYear);
+  const [selectedSeasonKey, setSelectedSeasonKey] = useState<string>(_currentSeasonKey);
 
-  const yearSeasons = useMemo(() => getAllSeasonsForBeanYear(selectedBeanYear), [selectedBeanYear]);
+  const selectedSeason =
+    seasons.find((s) => s.key === selectedSeasonKey) ?? seasons[seasons.length - 1];
 
-  const today = formatDate(new Date());
+  const sections = useMemo(() => {
+    if (!selectedSeason) return [];
+    const sectionNodes = nodes
+      .filter((n) => n.date >= selectedSeason.startDateStr && n.date <= selectedSeason.endDateStr)
+      .reverse();
+    return [{ season: selectedSeason, nodes: sectionNodes, startIdx: 0 }];
+  }, [selectedSeason, nodes]);
 
-  const yearSections = useMemo(() => {
-    if (yearSeasons.length === 0) return [];
-    const yearStart = yearSeasons[0]!.startDateStr;
-    const yearEnd = yearSeasons[yearSeasons.length - 1]!.endDateStr;
-    const nodesInYear = nodes.filter((n) => n.date >= yearStart && n.date <= yearEnd);
-    const visibleSeasons = yearSeasons.filter((season) => season.startDateStr <= today);
-    let idx = 0;
-    return [...visibleSeasons].reverse().map((season) => {
-      const sectionNodes = nodesInYear
-        .filter((n) => n.date >= season.startDateStr && n.date <= season.endDateStr)
-        .slice()
-        .reverse();
-      const startIdx = idx;
-      idx += sectionNodes.length;
-      return { season, nodes: sectionNodes, startIdx };
-    });
-  }, [yearSeasons, nodes, today]);
-
-  const fortuneNodesInYear = useMemo(
-    () => yearSections.flatMap((s) => s.nodes),
-    [yearSections],
-  );
+  const fortuneNodes = useMemo(() => sections.flatMap((s) => s.nodes), [sections]);
 
   // ---------- spirit display lerping ----------
 
-  const currentDisplay = useMemo(() => scoresToDisplay(currentScores), [currentScores]);
-  const currentSpiritId = useMemo(
-    () => spiritZodiacIdFromDisplay(currentDisplay),
-    [currentDisplay],
+  // Resting scores: as of the selected season's end, or today for the current season.
+  const seasonScores = useMemo(
+    () =>
+      !selectedSeason || selectedSeason.key === _currentSeasonKey
+        ? currentScores
+        : computeSpiritBeanScores(claimedSlug, selectedSeason.endDateStr),
+    [selectedSeason, currentScores, claimedSlug],
+  );
+  const seasonDisplay = useMemo(() => scoresToDisplay(seasonScores), [seasonScores]);
+  const seasonSpiritId = useMemo(
+    () => spiritZodiacIdFromDisplay(seasonDisplay),
+    [seasonDisplay],
   );
 
   const bornDisplay = useMemo(
@@ -107,45 +117,45 @@ export default function Beanstalk({ nodes, currentScores, data, claimedSlug }: P
     [bornDisplay],
   );
 
-  const showBorn = selectedBeanYear === beanYears[0];
-  const bornIdx = fortuneNodesInYear.length;
+  const showBorn = selectedSeason !== undefined && selectedSeason === seasons[0];
+  const bornIdx = fortuneNodes.length;
 
   const [activeIdx, setActiveIdx] = useState<number | null>(null);
   const radarExpanded = useUiStore((s) => s.radarExpanded);
   const setRadarExpanded = useUiStore((s) => s.setRadarExpanded);
 
-  const [display, setDisplay] = useState<DisplayValues>(currentDisplay);
+  const [display, setDisplay] = useState<DisplayValues>(seasonDisplay);
 
-  const displayRef = useRef<DisplayValues>(currentDisplay);
-  const targetRef = useRef<DisplayValues>(currentDisplay);
+  const displayRef = useRef<DisplayValues>(seasonDisplay);
+  const targetRef = useRef<DisplayValues>(seasonDisplay);
   const rafRef = useRef<number>(0);
   const topRef = useRef<HTMLDivElement>(null);
 
-  // reset highlight when year changes
+  // reset highlight when season changes
   useEffect(() => {
     setActiveIdx(null);
-  }, [selectedBeanYear]);
+  }, [selectedSeasonKey]);
 
   const bornActive = showBorn && activeIdx === bornIdx;
   const activeFortuneNode =
     activeIdx !== null && activeIdx < bornIdx
-      ? (fortuneNodesInYear[activeIdx] ?? null)
+      ? (fortuneNodes[activeIdx] ?? null)
       : null;
 
-  // animate display values toward target when activeIdx or current scores change
+  // animate display values toward target when activeIdx or the season's scores change
   useEffect(() => {
     targetRef.current = bornActive
       ? bornDisplay
       : activeFortuneNode
         ? scoresToDisplay(activeFortuneNode.scores)
-        : currentDisplay;
+        : seasonDisplay;
 
     cancelAnimationFrame(rafRef.current);
     const step = () => {
       const next: DisplayValues = {
-        flavour: lerpArr(displayRef.current.flavour, targetRef.current.flavour, 0.15),
-        form: lerpArr(displayRef.current.form, targetRef.current.form, 0.15),
-        bean: lerpArr(displayRef.current.bean, targetRef.current.bean, 0.15),
+        flavour: lerpArr(displayRef.current.flavour, targetRef.current.flavour, 0.07),
+        form: lerpArr(displayRef.current.form, targetRef.current.form, 0.07),
+        bean: lerpArr(displayRef.current.bean, targetRef.current.bean, 0.07),
         flavourHighlight: targetRef.current.flavourHighlight,
         formHighlight: targetRef.current.formHighlight,
         beanHighlight: targetRef.current.beanHighlight,
@@ -162,7 +172,7 @@ export default function Beanstalk({ nodes, currentScores, data, claimedSlug }: P
     };
     rafRef.current = requestAnimationFrame(step);
     return () => cancelAnimationFrame(rafRef.current);
-  }, [activeIdx]);
+  }, [activeIdx, seasonDisplay]);
 
   if (nodes.length === 0) {
     return (
@@ -172,29 +182,29 @@ export default function Beanstalk({ nodes, currentScores, data, claimedSlug }: P
     );
   }
 
-  const handleYearSelect = (year: number) => {
-    setSelectedBeanYear(year);
+  const handleSeasonSelect = (key: string) => {
+    setSelectedSeasonKey(key);
     topRef.current?.scrollIntoView({ behavior: "instant" });
   };
 
   const toggleRadar = () => setRadarExpanded(!radarExpanded);
 
-  const selectedYearIdx = beanYears.indexOf(selectedBeanYear);
-  const prevYear = beanYears[selectedYearIdx - 1] ?? null;
-  const nextYear = beanYears[selectedYearIdx + 1] ?? null;
+  const selectedIdx = selectedSeason ? seasons.indexOf(selectedSeason) : -1;
+  const prevSeason = seasons[selectedIdx - 1] ?? null;
+  const nextSeason = seasons[selectedIdx + 1] ?? null;
 
   const spiritId = bornActive
     ? bornSpiritId
-    : (activeFortuneNode?.spiritZodiacId ?? currentSpiritId);
+    : (activeFortuneNode?.spiritZodiacId ?? seasonSpiritId);
 
   return (
     <div className="w-full flex flex-col sm:gap-4" ref={topRef}>
       <h2 className="text-2xl sm:text-4xl text-center font-bold mb-4">Timeline</h2>
-      <YearFilterBar
-        beanYears={beanYears}
-        selectedBeanYear={selectedBeanYear}
+      <SeasonFilterBar
+        seasons={seasons}
+        selectedKey={selectedSeason?.key ?? selectedSeasonKey}
         data={data}
-        onSelect={handleYearSelect}
+        onSelect={handleSeasonSelect}
       />
       <div className="w-full flex flex-col lg:flex-row gap-8 lg:gap-16 items-start">
         <SpiritPanel
@@ -210,8 +220,8 @@ export default function Beanstalk({ nodes, currentScores, data, claimedSlug }: P
         <div className="flex-1 min-w-0 flex flex-col">
           <Timeline
             data={data}
-            yearSections={yearSections}
-            fortuneNodesInYear={fortuneNodesInYear}
+            yearSections={sections}
+            fortuneNodesInYear={fortuneNodes}
             activeIdx={activeIdx}
             onActiveIdxChange={setActiveIdx}
             radarExpanded={radarExpanded}
@@ -223,22 +233,22 @@ export default function Beanstalk({ nodes, currentScores, data, claimedSlug }: P
             claimedOn={claimedOn}
           />
           <div className="flex justify-between gap-4 mt-8">
-            {prevYear !== null ? (
-              <YearNavButton
-                year={prevYear}
+            {prevSeason !== null ? (
+              <SeasonNavButton
+                season={prevSeason}
                 direction="prev"
                 data={data}
-                onSelect={handleYearSelect}
+                onSelect={handleSeasonSelect}
               />
             ) : (
               <div />
             )}
-            {nextYear !== null ? (
-              <YearNavButton
-                year={nextYear}
+            {nextSeason !== null ? (
+              <SeasonNavButton
+                season={nextSeason}
                 direction="next"
                 data={data}
-                onSelect={handleYearSelect}
+                onSelect={handleSeasonSelect}
               />
             ) : (
               <div />

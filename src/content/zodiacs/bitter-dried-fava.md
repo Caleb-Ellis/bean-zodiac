@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: bitter-dried-fava
 lastUpdated: 
 bean: fava
@@ -11,10 +11,10 @@ inverse: pliant
 quote: That which does not bean me makes me stronger.
 creature: iron wolf
 dish: Dried fava ground into ta'amiya batter with bitter parsley stems.
-friendlyBeans: [pinto, edamame]
-friendlyForm: fermented
-antiTriple: umami-smoked-mung
-antiBeans: [chickpea, adzuki]
+friendlyBeans: [pinto, green]
+friendlyForm: fried
+antiTriple: sweet-boiled-mung
+antiBeans: [kidney, butter]
 antiForm: roasted
 seasonalFortune: "A season of split skins and cold resolve — the pantry hardens what it cannot soften."
 fortuneMost: Hardness with nothing behind it is just cruelty.

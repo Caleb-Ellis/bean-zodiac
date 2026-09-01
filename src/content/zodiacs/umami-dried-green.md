@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: umami-dried-green
 lastUpdated:
 bean: green
@@ -13,9 +13,9 @@ creature: minotaur
 dish: Dried green beans with dried anchovy and sesame.
 friendlyBeans: [fava, kidney]
 friendlyForm: fried
-antiTriple: sweet-boiled-butter
-antiBeans: [navy, adzuki]
-antiForm: smoked
+antiTriple: bitter-boiled-butter
+antiBeans: [mung, adzuki]
+antiForm: roasted
 seasonalFortune: "A season of dried anchovy and small doses; a little of this changes everything."
 fortuneMost: Concentrated enough and a spoonful is too much.
 fortuneHigh: A minotaur fills the whole maze by standing in it.

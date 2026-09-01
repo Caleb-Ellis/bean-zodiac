@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: rerun script
 slug: bitter-dried-mung
 lastUpdated: 
 bean: mung
@@ -11,10 +11,10 @@ inverse: mawkish
 quote: First, do no harm to beans.
 creature: mantis
 dish: Mangodi - sun-dried mung dumplings simmered with fenugreek.
-friendlyBeans: [cannellini, butter]
-friendlyForm: smoked
-antiTriple: sweet-fried-adzuki
-antiBeans: [fava, chickpea]
+friendlyBeans: [cannellini, kidney]
+friendlyForm: boiled
+antiTriple: sour-roasted-adzuki
+antiBeans: [pinto, fava]
 antiForm: fermented
 seasonalFortune: "A season of dust and dried remedy: the store heals without warmth, and the cure holds."
 fortuneMost: Precision without warmth reads as contempt.

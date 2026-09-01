@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: bitter-smoked-navy
 lastUpdated:
 bean: navy
@@ -13,9 +13,9 @@ creature: night heron
 dish: Navy beans smoked over charcoal with wormwood and salt pork.
 friendlyBeans: [black, cannellini]
 friendlyForm: dried
-antiTriple: spicy-roasted-pinto
-antiBeans: [fava, green]
-antiForm: fried
+antiTriple: spicy-roasted-green
+antiBeans: [fava, chickpea]
+antiForm: fermented
 seasonalFortune: "A season of wormwood and standing watch: the smoke keeps the pantry while the kitchen sleeps."
 fortuneMost: Never sleep on watch and the watching becomes the whole night.
 fortuneHigh: A night heron fishes the bank while everything else roosts.

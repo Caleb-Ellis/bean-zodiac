@@ -10,11 +10,11 @@ inverse: hedonistic
 quote: Simplicity is the ultimate bean.
 creature: camel
 dish: Dried cannellini cooked with cardoon and rosemary ash.
-friendlyBeans: [edamame, black]
-friendlyForm: fermented
-antiTriple: umami-boiled-adzuki
-antiBeans: [butter, kidney]
-antiForm: roasted
+friendlyBeans: [edamame, navy]
+friendlyForm: smoked
+antiTriple: umami-roasted-chickpea
+antiBeans: [adzuki, butter]
+antiForm: boiled
 seasonalFortune: "A season of empty rooms and rationed oil; the pantry subtracts until only the necessary remains."
 fortuneMost: Why reject things that are doing no harm?
 fortuneHigh: Throw half of it out.

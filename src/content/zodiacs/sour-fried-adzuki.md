@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-fried-adzuki
 lastUpdated: 
 bean: adzuki
@@ -13,8 +13,8 @@ creature: vervet
 dish: Adzuki fried with black vinegar and a spoon of sugar.
 friendlyBeans: [chickpea, green]
 friendlyForm: roasted
-antiTriple: bitter-fermented-black
-antiBeans: [edamame, butter]
+antiTriple: umami-fermented-black
+antiBeans: [butter, cannellini]
 antiForm: dried
 seasonalFortune: "A season of black vinegar and fast returns — the pan answers before the question finishes."
 fortuneMost: The fastest thing available to say is usually the cruellest.

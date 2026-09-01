@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-smoked-green
 lastUpdated: 
 bean: green
@@ -11,11 +11,11 @@ inverse: bland
 quote: A bean by any other name would smell as sweet.
 creature: polecat
 dish: Smoked green beans cured in cider vinegar with dill.
-friendlyBeans: [fava, kidney]
+friendlyBeans: [kidney, fava]
 friendlyForm: fried
 antiTriple: umami-boiled-butter
 antiBeans: [navy, mung]
-antiForm: dried
+antiForm: roasted
 seasonalFortune: "A season of cider vinegar and carrying smell — the kitchen knows before the door opens."
 fortuneMost: Strong enough and the flavour is all anyone can taste.
 fortuneHigh: A polecat clears a barn without touching anything.

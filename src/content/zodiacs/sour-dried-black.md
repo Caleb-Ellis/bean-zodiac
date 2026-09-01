@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-dried-black
 lastUpdated: 
 bean: black
@@ -11,10 +11,10 @@ inverse: soft
 quote: I am made of sterner bean.
 creature: shrew
 dish: Dried black beans with amchur and dried lime.
-friendlyBeans: [edamame, cannellini]
+friendlyBeans: [edamame, navy]
 friendlyForm: boiled
-antiTriple: spicy-roasted-pinto
-antiBeans: [chickpea, adzuki]
+antiTriple: bitter-roasted-chickpea
+antiBeans: [kidney, mung]
 antiForm: fried
 seasonalFortune: "A season of amchur and hard ground: nothing here gives, and nothing pretends to."
 fortuneMost: Refuse enough times and they stop offering.

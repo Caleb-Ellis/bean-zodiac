@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: rerun script
 slug: umami-boiled-black
 lastUpdated:
 bean: black
@@ -11,11 +11,11 @@ inverse: restive
 quote: Patience is bitter, but its bean is sweet.
 creature: grey crane
 dish: Black bean broth with kombu and dried shiitake.
-friendlyBeans: [navy, edamame]
+friendlyBeans: [navy, cannellini]
 friendlyForm: smoked
-antiTriple: sweet-fried-chickpea
-antiBeans: [green, adzuki]
-antiForm: roasted
+antiTriple: sweet-roasted-chickpea
+antiBeans: [green, pinto]
+antiForm: fried
 seasonalFortune: "A season of dried shiitake and long waiting: the stock is in no hurry whatever."
 fortuneMost: Waiting long enough turns into not deciding.
 fortuneHigh: A grey crane waits for the fish to come to it.

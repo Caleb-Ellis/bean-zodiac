@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sweet-boiled-pinto
 lastUpdated: 
 bean: pinto
@@ -11,10 +11,10 @@ inverse: grounded
 quote: I have bean a dreamer. I have joined the great company of those who make the imagination of mankind rich.
 creature: butterfly
 dish: Pinto bean empanada filling simmered with piloncillo.
-friendlyBeans: [adzuki, mung]
-friendlyForm: fermented
-antiTriple: spicy-dried-edamame
-antiBeans: [green, kidney]
+friendlyBeans: [adzuki, butter]
+friendlyForm: roasted
+antiTriple: bitter-dried-edamame
+antiBeans: [cannellini, kidney]
 antiForm: fried
 seasonalFortune: "A season of piloncillo and drifting steam — the pot is elsewhere and sweetening anyway."
 fortuneMost: Drift far enough off and the day happens without anybody in it.

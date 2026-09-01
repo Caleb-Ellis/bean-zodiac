@@ -1,0 +1,51 @@
+# Sense-families over all 360 traits. A family = traits a reader could confuse.
+# Neighbours in trait-neighbours.tsv are generated from these: your neighbours are the
+# other members of every family you belong to. A trait may sit in two families where it
+# genuinely straddles; that is the point, not an error.
+# family	traits (trait/short-slug, short = 2+2+3 of flavour-form-bean)
+calm	placid/bibobut, tranquil/bidrbut, still/bismbut, serene/swdrbut, restful/umbobut, composed/sofrbut, settled/umfrbut, mellow/umdrbut, languid/umsmbut, patient/umbobla, quiet/sosmbut
+endurance	stoic/spbobut, gritty/spbobla, hardy/bidrkid, tough/spdrnav, steely/bidrfav, tested/sofekid, dogged/spbokid, indomitable/swdrfav, tireless/spbomun, relentless/spfrbla, forbearing/bibokid
+immovable	rigid/spbonav, firm/sodrnav, steadfast/spsmnav, staunch/spronav, resolute/sosmnav, resolved/umbofav, steady/bidrnav, adamant/spbofav, stalwart/umfrkid, single-minded/spfenav
+lasting	constant/swbobla, abiding/swdrbla, enduring/umdrnav, timeless/umsmnav, lingering/swsmnav, faithful/umdrkid, rooted/umfekid
+duty	dependable/swboeda, dutiful/swdrnav, trustworthy/sobokid, upright/bibonav, principled/umfrcan, scrupulous/sofenav, conscientious/umbocan, custodial/umbonav, provident/swbonav, disciplined/umbokid
+sees-into	perceptive/sofebla, penetrating/sosmbla, insightful/umrobla, discerning/sofecan, intuitive/bifemun, prescient/umsmeda, knowing/sosmadz, clear-eyed/sosmfav, attuned/sosmchi, observant/umfeeda, shrewd/bifrchi
+examines	analytical/biboeda, forensic/bifrbla, diagnostic/sofemun, methodical/sobobla, rational/bifeeda, logical/soboeda, sceptical/sofeeda, interpretive/bifechi
+precise	precise/sobocan, surgical/sosmeda, meticulous/sofrcan, painstaking/spbocan, exacting/bifrcan, stringent/sodrcan, particular/sofrnav, clinical/bidrmun, honed/bidrgre
+watches	watchful/bismnav, vigilant/bifekid, attentive/umroeda, careful/bibomun, circumspect/bidrchi, prudent/bironav, judicious/bibocan, measured/bibobla, temperate/biromun, deliberate/umfenav
+inward-thought	contemplative/bibopin, ruminative/bifebla, introspective/umfebla, reflective/umfebut, musing/umbopin, pensive/swfebla, philosophical/bifebut, speculative/bifegre, self-aware/sofeadz, inward/umfepin
+withholding	laconic/bidrbla, terse/bidreda, reticent/bismeda, understated/sofebut, clipped/sofrbla, inscrutable/bismbla, hermetic/bismcan, cryptic/bidrpin, plain/sodrbut, quiet/sosmbut
+plain-speech	blunt/sofreda, frank/sorocan, forthright/soroeda, outspoken/sobogre, candid/sobopin, honest/sobobut, emphatic/spfreda, pointed/sodreda, incisive/bifrnav, literal-minded/sobonav, straightforward/swdreda
+open-hearted-speech	sincere/soboadz, guileless/sorobut, open/sofrpin, revealing/sosmmun, confiding/umrocan, earnest/sorobla, authentic/sorofav
+acid	acerbic/sodrfav, mordant/spdreda, astringent/sodrmun, tart/sodradz, flinty/sodrbla, searing/sosmkid, pungent/sosmgre, bracing/sodrgre, piquant/spdrmun, fierce/sodrkid
+wit	wry/sodrchi, sardonic/sofepin, satirical/bifrpin, droll/bifradz, witty/biroeda, quick-witted/sofradz, clever/sofechi, epigrammatic/sodrpin, funny/swfrchi, irreverent/soropin
+love	adoring/swdrkid, enamoured/swsmkid, doting/swfrkid, cherishing/swrokid, devoted/swdradz, ardent/swfrbla, passionate/umfradz, romantic/swfrnav, sentimental/swfeadz
+care	compassionate/swbokid, sympathetic/swfekid, empathetic/swfechi, tender/swdrmun, gentle/swfemun, nurturing/swbomun, cosseting/swromun, solicitous/soromun, considerate/swroeda, restorative/umdrmun, replenishing/umbomun
+warmth	warm/umroadz, affectionate/umboadz, kind/swbocan, openhearted/umrokid, gracious/swrobla, welcoming/swrocan, neighbourly/swronav, convivial/swroadz, charming/swsmchi, agreeable/swbochi
+smoothing	conciliatory/bibochi, diplomatic/swfecan, tolerant/umrochi, forgiving/swbobut, receptive/umrobut, disarming/swsmeda, fair-minded/sobochi, impartial/sobomun, fair/sorokid, open-minded/sorochi
+joy	joyful/swboadz, jubilant/swfradz, exultant/sproadz, buoyant/swrogre, giddy/swfrgre, high-spirited/sprogre, ebullient/sorogre, spirited/spboadz, irrepressible/spfradz, rhapsodic/spfeadz
+light-hearted	playful/swbogre, lighthearted/swrobut, silly/swfebut, sunny/swfrbut, mischievous/swropin, whimsical/swfegre, fun/swrochi
+heat	intense/spfekid, ferocious/spfrkid, consuming/spsmkid, smouldering/spsmbla, emotive/sprokid, hot-blooded/spdrpin, wild/spsmfav, feisty/spsmeda, zealous/spbogre
+drive	urgent/spfrmun, kinetic/spfrpin, electric/spdrgre, driven/spfrcan, avid/spdradz, keen/umfreda, absorbed/spfemun, brimming/spbopin, frenetic/spsmchi, focused/umfrbla
+coiled	primed/spdrkid, contained/spdrbla, taut/spdrbut
+risk	daring/swfrfav, dauntless/bibofav, audacious/spdrfav, headlong/spfrfav, headstrong/spfrgre, impulsive/sofrgre, spontaneous/spfrchi, game/spfrbut, impatient/bifrgre, swift/sofrfav, brisk/birogre, footloose/spsmgre
+ambition	ambitious/bifrfav, competitive/sprofav, motivated/swfreda, purposeful/umfrmun, accomplished/umfrgre, industrious/spboeda, dedicated/umboeda
+opposition	defiant/umrofav, rebellious/umfefav, subversive/spfefav, contrarian/sofefav, challenging/sofrkid, maverick/spfegre, shameless/birofav, hard-line/bifrkid, righteous/sobofav, indignant/soronav
+authority	commanding/spfrnav, authoritative/umfrnav, assured/umfrfav, confident/sproeda, sure/spdrcan, decisive/bifreda, proud/birokid, regal/umsmcan, distinguished/umdrcan, formidable/umdrfav
+curiosity	curious/umrogre, inquisitive/bibogre, questioning/bifefav, speculative/bifegre, keen/umfreda
+invention	creative/umfegre, inventive/spfeeda, innovative/umfechi, visionary/swfefav, idealistic/umfecan, prolific/umbogre, artistic/bifepin, budding/umsmgre
+reverie	fanciful/swfepin, daydreamy/swbopin, whimsical/swfegre, dreamlike/swsmpin, poetic/umfemun, musing/umbopin
+odd	eccentric/spfebut, offbeat/spfechi, quirky/sofegre, singular/spfecan, maverick/spfegre, mercurial/spfepin
+uncanny	eerie/bismgre, otherworldly/bismfav, ethereal/bismmun, mystical/swsmbla, oracular/bismadz, liminal/bismchi, hallowed/umsmadz, primal/umsmfav, mysterious/spfebla, haunting/bismkid, atmospheric/umsmpin, solemn/umsmbla
+captivating	spellbinding/spsmpin, bewitching/spsmmun, transfixing/spsmadz, magnetic/sprobla, charismatic/sprocan, arresting/spsmcan, dazzling/swsmfav, luminous/swsmadz, iridescent/swsmgre
+indirect	allusive/sosmpin, hazy/swsmbut, cryptic/bidrpin, intricate/bismpin, layered/umdrpin, interpretive/bifechi
+fine	refined/birocan, exquisite/swdrcan, polished/biroadz, delicate/swsmcan, stylish/biropin, distinguished/umdrcan
+pared	ascetic/bidrcan, selective/bidradz, austere/bifrmun, clinical/bidrmun, temperate/biromun, plain/sodrbut, honed/bidrgre
+showy	lavish/swfrcan, flamboyant/spropin, expansive/umropin, effusive/swfrpin, demonstrative/spromun, gregarious/sprochi
+humility	humble/umsmchi, self-deprecating/sofrmun, bashful/swsmmun, guileless/sorobut, wholesome/swdrchi, homespun/swfenav, familiar/swdrgre
+remorse-gratitude	grateful/soroadz, contrite/bifecan, reverential/umdradz, admiring/sosmcan, ceremonious/biboadz
+mourning	mournful/umsmkid, elegiac/umfeadz, melancholy/umromun, wistful/umronav, pensive/swfebla, solemn/umsmbla, storied/swdrpin
+depth	profound/umdrbla, substantive/umdrchi, foundational/umdreda, potent/umdrgre, steeped/umsmmun, layered/umdrpin
+adaptable	adaptable/umbochi, nimble/sofrchi, cosmopolitan/birochi, proactive/umfrchi, practised/swfeeda, conductive/spdrchi, resourceful/spbochi, instinctive/umfrpin
+appetite	sensuous/spsmbut, indulgent/sprobut, openhanded/swfrmun, lavish/swfrcan
+detached	nonchalant/birobut, deadpan/bifrbut, poised/birobla, antiquarian/bifeadz, bookish/bifenav
+encouraging	emboldening/swrofav, encouraging/swbofav

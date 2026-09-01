@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: rerun script
 slug: spicy-smoked-cannellini
 lastUpdated:
 bean: cannellini
@@ -11,11 +11,11 @@ inverse: unnoticeable
 quote: You had me at bean.
 creature: coral snake
 dish: Cannellini smoked with chipotle, rosemary, and burnt tomato.
-friendlyBeans: [edamame, navy]
+friendlyBeans: [navy, edamame]
 friendlyForm: dried
-antiTriple: sweet-fried-adzuki
-antiBeans: [chickpea, kidney]
-antiForm: roasted
+antiTriple: sweet-roasted-adzuki
+antiBeans: [butter, green]
+antiForm: fermented
 seasonalFortune: "A season of burnt tomato and sudden attention: the smoke stops the conversation mid-sentence."
 fortuneMost: A coral snake's colours are a warning nobody ignores.
 fortuneHigh: Make them look.

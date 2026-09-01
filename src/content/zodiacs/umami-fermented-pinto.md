@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: umami-fermented-pinto
 lastUpdated:
 bean: pinto
@@ -12,10 +12,10 @@ quote: Look into thy bean and write.
 creature: hermit thrush
 dish: Pinto beans in miso-chile paste.
 friendlyBeans: [green, fava]
-friendlyForm: smoked
-antiTriple: sweet-boiled-chickpea
-antiBeans: [cannellini, mung]
-antiForm: smoked
+friendlyForm: roasted
+antiTriple: sweet-dried-chickpea
+antiBeans: [navy, mung]
+antiForm: boiled
 seasonalFortune: "A season of miso-chile paste and closed rooms — the colour goes in, not out."
 fortuneMost: Turn inward far enough and the door swells shut.
 fortuneHigh: A hermit thrush sings its best song where nobody is.

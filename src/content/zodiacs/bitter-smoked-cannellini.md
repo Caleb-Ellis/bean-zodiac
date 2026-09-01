@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: bitter-smoked-cannellini
 lastUpdated: 
 bean: cannellini
@@ -11,10 +11,10 @@ inverse: public
 quote: I want to bean alone.
 creature: snail
 dish: Cannellini cold-smoked over vine cuttings with bitter herbs.
-friendlyBeans: [edamame, black]
+friendlyBeans: [black, edamame]
 friendlyForm: dried
 antiTriple: sweet-roasted-chickpea
-antiBeans: [adzuki, green]
+antiBeans: [adzuki, pinto]
 antiForm: fried
 seasonalFortune: "A season of vine cuttings and shut doors — the smoke works alone and shares no method."
 fortuneMost: Stop answering and eventually nobody knocks.

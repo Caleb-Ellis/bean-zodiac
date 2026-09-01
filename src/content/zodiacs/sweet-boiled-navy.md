@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sweet-boiled-navy
 lastUpdated: 
 bean: navy
@@ -13,9 +13,9 @@ creature: chipmunk
 dish: Boston baked navy beans simmered long with molasses.
 friendlyBeans: [cannellini, black]
 friendlyForm: dried
-antiTriple: spicy-roasted-green
-antiBeans: [pinto, fava]
-antiForm: fried
+antiTriple: spicy-roasted-pinto
+antiBeans: [green, fava]
+antiForm: smoked
 seasonalFortune: "A season of molasses and long baking — the pot puts away enough for later."
 fortuneMost: Store enough of it and the storing becomes the point.
 fortuneHigh: A chipmunk fills its cheeks past any sensible amount.

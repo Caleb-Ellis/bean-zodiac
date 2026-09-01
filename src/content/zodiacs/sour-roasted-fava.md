@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-roasted-fava
 lastUpdated: 
 bean: fava
@@ -11,10 +11,10 @@ inverse: posed
 quote: To be yourself in a world that is constantly trying to make you something else is the greatest bean.
 creature: wolf
 dish: Roast fava with chimichurri rojo and smoked paprika.
-friendlyBeans: [pinto, mung]
+friendlyBeans: [green, pinto]
 friendlyForm: fermented
 antiTriple: umami-dried-navy
-antiBeans: [cannellini, black]
+antiBeans: [mung, cannellini]
 antiForm: smoked
 seasonalFortune: "A season of smoked paprika and no performance — the fire is exactly as hot as it looks."
 fortuneMost: Say exactly what's felt and somebody always pays for it.

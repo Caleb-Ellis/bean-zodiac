@@ -10,10 +10,10 @@ inverse: distracted
 quote: The chains of beans are too light to be felt until they are too heavy to be broken.
 creature: caddisfly
 dish: Bindaetteok - mung bean pancake with kimchi and gochugaru.
-friendlyBeans: [kidney, butter]
+friendlyBeans: [butter, kidney]
 friendlyForm: smoked
 antiTriple: sour-fried-edamame
-antiBeans: [fava, green]
+antiBeans: [green, fava]
 antiForm: dried
 seasonalFortune: "A season of bindaetteok and closed doors: the batter forgets there is a kitchen around it."
 fortuneMost: Passion is the fire that drives us. Obsession is the fire that consumes us.

@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: rerun script
 slug: umami-fermented-kidney
 lastUpdated: 
 bean: kidney
@@ -11,10 +11,10 @@ inverse: uprooted
 quote: Bloom where you are beaned.
 creature: burrowing owl
 dish: Kidney beans stewed in red miso.
-friendlyBeans: [mung, butter]
+friendlyBeans: [mung, black]
 friendlyForm: dried
 antiTriple: sour-smoked-green
-antiBeans: [chickpea, edamame]
+antiBeans: [chickpea, adzuki]
 antiForm: fried
 seasonalFortune: "A season of red miso stew and deep ground — the pot is not going anywhere."
 fortuneMost: Roots go deep enough and moving becomes unthinkable.

@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: rerun script
 slug: bitter-dried-black
 lastUpdated: 
 bean: black
@@ -11,10 +11,10 @@ inverse: garrulous
 quote: Speech is silver; bean is golden.
 creature: bittern
 dish: Sun-dried black beans ground with cacao and chile de árbol into mole powder.
-friendlyBeans: [navy, edamame]
+friendlyBeans: [edamame, navy]
 friendlyForm: boiled
-antiTriple: spicy-roasted-pinto
-antiBeans: [kidney, chickpea]
+antiTriple: spicy-roasted-chickpea
+antiBeans: [pinto, mung]
 antiForm: fried
 seasonalFortune: "A season of dry shelves and few words — the bean says less each week and means more."
 fortuneMost: One-word answers make people stop asking anything.

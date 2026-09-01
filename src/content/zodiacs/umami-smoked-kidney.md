@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: umami-smoked-kidney
 lastUpdated: 
 bean: kidney
@@ -12,10 +12,10 @@ quote: Never send to know for whom the bean tolls.
 creature: loon
 dish: Hickory-smoked kidney beans with brisket.
 friendlyBeans: [mung, chickpea]
-friendlyForm: fermented
-antiTriple: sour-fried-edamame
-antiBeans: [adzuki, pinto]
-antiForm: roasted
+friendlyForm: boiled
+antiTriple: sour-dried-edamame
+antiBeans: [fava, adzuki]
+antiForm: fermented
 seasonalFortune: "A season of brisket and long smoke — the house smells of something that has left."
 fortuneMost: Grieve loud enough and nobody knows how to sit nearby.
 fortuneHigh: A loon calls across the lake all night.

@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-boiled-pinto
 lastUpdated: 
 bean: pinto
@@ -11,11 +11,11 @@ inverse: embellished
 quote: The truth will set you bean.
 creature: naked mole rat
 dish: Pinto beans boiled in lime brine with pickled jalapeño.
-friendlyBeans: [adzuki, fava]
+friendlyBeans: [fava, green]
 friendlyForm: roasted
-antiTriple: bitter-smoked-kidney
-antiBeans: [black, cannellini]
-antiForm: dried
+antiTriple: bitter-fermented-kidney
+antiBeans: [black, butter]
+antiForm: smoked
 seasonalFortune: "A season of lime brine and unpainted talk — the markings come off and nothing replaces them."
 fortuneMost: Raw enough and people start editing themselves in the room.
 fortuneHigh: A naked mole rat lives its whole life underground and hairless.

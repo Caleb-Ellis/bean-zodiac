@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-dried-pinto
 lastUpdated:
 bean: pinto
@@ -14,8 +14,8 @@ dish: Dried pinto beans with dried tomatillo and lime powder.
 friendlyBeans: [adzuki, fava]
 friendlyForm: fermented
 antiTriple: sweet-boiled-kidney
-antiBeans: [mung, navy]
-antiForm: roasted
+antiBeans: [mung, butter]
+antiForm: smoked
 seasonalFortune: "A season of dried tomatillo and short sayings — the pantry speaks once, and closes."
 fortuneMost: Compress it far enough and nobody can unpack it.
 fortuneHigh: A wren is tiny and heard across the whole garden.

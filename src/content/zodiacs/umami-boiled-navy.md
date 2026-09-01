@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: umami-boiled-navy
 lastUpdated:
 bean: navy
@@ -11,10 +11,10 @@ inverse: abdicating
 quote: Am I my bean's keeper?
 creature: hermit crab
 dish: Navy beans simmered in dashi with dried scallop.
-friendlyBeans: [cannellini, edamame]
+friendlyBeans: [edamame, cannellini]
 friendlyForm: dried
-antiTriple: spicy-smoked-pinto
-antiBeans: [green, butter]
+antiTriple: sweet-smoked-pinto
+antiBeans: [green, chickpea]
 antiForm: roasted
 seasonalFortune: "A season of dried scallop and held keys — the stockpot is somebody's responsibility all year."
 fortuneMost: Mind it closely enough and it becomes yours instead of theirs.

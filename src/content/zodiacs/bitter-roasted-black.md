@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: bitter-roasted-black
 lastUpdated: 
 bean: black
@@ -11,10 +11,10 @@ inverse: flustered
 quote: Elegance is not about being noticed, it's about being bean.
 creature: flamingo
 dish: Black beans roasted over oak with charred poblano.
-friendlyBeans: [adzuki, butter]
+friendlyBeans: [pinto, adzuki]
 friendlyForm: fermented
-antiTriple: spicy-fried-mung
-antiBeans: [green, chickpea]
+antiTriple: spicy-fried-green
+antiBeans: [mung, fava]
 antiForm: smoked
 seasonalFortune: "A season of oak smoke and steady hands: the coals never see the bean flinch."
 fortuneMost: Perfect composure reads as not caring.

@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-fermented-adzuki
 lastUpdated: 
 bean: adzuki
@@ -11,8 +11,8 @@ inverse: matter-of-fact
 quote: Sing in me, Muse, and through me tell the bean.
 creature: song thrush
 dish: Adzuki fermented in kimchi brine with gochugaru.
-friendlyBeans: [pinto, fava]
-friendlyForm: roasted
+friendlyBeans: [pinto, mung]
+friendlyForm: smoked
 antiTriple: bitter-dried-cannellini
 antiBeans: [navy, edamame]
 antiForm: boiled

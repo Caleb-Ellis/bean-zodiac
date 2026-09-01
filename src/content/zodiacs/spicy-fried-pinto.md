@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: rerun script
 slug: spicy-fried-pinto
 lastUpdated:
 bean: pinto
@@ -11,10 +11,10 @@ inverse: static
 quote: A bean in motion stays in motion.
 creature: squirrel monkey
 dish: Pinto beans refried with chile de árbol.
-friendlyBeans: [green, fava]
-friendlyForm: roasted
+friendlyBeans: [fava, mung]
+friendlyForm: fermented
 antiTriple: umami-boiled-black
-antiBeans: [kidney, adzuki]
+antiBeans: [butter, kidney]
 antiForm: dried
 seasonalFortune: "A season of chile de árbol and constant motion — nothing in the pan sits still."
 fortuneMost: Never still and half the motion goes nowhere.

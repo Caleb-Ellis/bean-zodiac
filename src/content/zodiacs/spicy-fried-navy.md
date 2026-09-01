@@ -12,9 +12,9 @@ creature: silverback
 dish: Navy beans fried with hot paprika and bacon.
 friendlyBeans: [cannellini, adzuki]
 friendlyForm: dried
-antiTriple: bitter-fermented-green
-antiBeans: [fava, butter]
-antiForm: smoked
+antiTriple: bitter-smoked-butter
+antiBeans: [green, fava]
+antiForm: fermented
 seasonalFortune: "A season of hot paprika and given orders: the bean runs the kitchen for a while."
 fortuneMost: If you take control, you will have to see it through to the end.
 fortuneHigh: The silverback settles it by standing up.

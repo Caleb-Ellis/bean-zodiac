@@ -10,11 +10,11 @@ inverse: frosty
 quote: There's no better feeling in the world than a warm bean on your lap.
 creature: golden labrador
 dish: Adzuki roasted in rendered duck fat with soy.
-friendlyBeans: [butter, chickpea]
+friendlyBeans: [pinto, chickpea]
 friendlyForm: fried
-antiTriple: bitter-dried-black
-antiBeans: [cannellini, edamame]
-antiForm: smoked
+antiTriple: bitter-fermented-cannellini
+antiBeans: [black, mung]
+antiForm: dried
 seasonalFortune: "A season of duck fat and soy — the aroma permeates and warms the air."
 fortuneMost: The hand lands on the shoulder before the name is known.
 fortuneHigh: Give them a hug!

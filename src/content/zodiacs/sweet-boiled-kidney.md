@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: rerun script
 slug: sweet-boiled-kidney
 lastUpdated: 
 bean: kidney
@@ -12,10 +12,10 @@ quote: If you want others to be happy, practise bean. If you want to be happy, p
 creature: elephant
 dish: Kidney beans simmered in coconut milk and palm sugar.
 friendlyBeans: [mung, butter]
-friendlyForm: smoked
-antiTriple: spicy-fermented-fava
-antiBeans: [green, edamame]
-antiForm: smoked
+friendlyForm: dried
+antiTriple: spicy-smoked-fava
+antiBeans: [green, adzuki]
+antiForm: fried
 seasonalFortune: "A season of coconut milk and palm sugar — the pot sweetens what the winter made hard."
 fortuneMost: Pity somebody enough and they become somebody to be pitied.
 fortuneHigh: An elephant stands over a fallen one for hours.

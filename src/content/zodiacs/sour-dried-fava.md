@@ -12,9 +12,9 @@ creature: wasp
 dish: Dried fava with sumac and dehydrated onion.
 friendlyBeans: [green, pinto]
 friendlyForm: fried
-antiTriple: sweet-boiled-butter
-antiBeans: [chickpea, mung]
-antiForm: smoked
+antiTriple: bitter-boiled-chickpea
+antiBeans: [adzuki, mung]
+antiForm: roasted
 seasonalFortune: "A season of sumac and hard edges — the store says the difficult thing, then dries."
 fortuneMost: Acid eats through the dish and bowl both.
 fortuneHigh: The wasp keeps stinging long after the threat has faded.

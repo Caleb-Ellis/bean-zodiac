@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sweet-fermented-green
 lastUpdated:
 bean: green
@@ -11,10 +11,10 @@ inverse: humdrum
 quote: One bean that I had a long time ago.
 creature: pixie
 dish: Green bean doenjang muchim with honey and sesame.
-friendlyBeans: [fava, chickpea]
-friendlyForm: fried
-antiTriple: umami-boiled-navy
-antiBeans: [butter, black]
+friendlyBeans: [fava, pinto]
+friendlyForm: roasted
+antiTriple: bitter-boiled-kidney
+antiBeans: [butter, cannellini]
 antiForm: dried
 seasonalFortune: "A season of doenjang and honey; the muchim goes somewhere odd and sweet."
 fortuneMost: Charm laid on thick starts to look like decoration.

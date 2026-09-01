@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: rerun script
 slug: sour-fried-green
 lastUpdated: 
 bean: green
@@ -11,11 +11,11 @@ inverse: deliberative
 quote: Bean first, and think afterwards is not a bad motto.
 creature: jackrabbit
 dish: Green beans flash-fried agrodolce with pine nuts and currants.
-friendlyBeans: [chickpea, kidney]
+friendlyBeans: [kidney, chickpea]
 friendlyForm: roasted
 antiTriple: umami-dried-cannellini
-antiBeans: [black, navy]
-antiForm: boiled
+antiBeans: [black, butter]
+antiForm: smoked
 seasonalFortune: "A season of pine nuts and sudden vinegar — the pan acts, then discovers why."
 fortuneMost: Act first every time and half of it needs undoing.
 fortuneHigh: A jackrabbit breaks before it knows what moved.

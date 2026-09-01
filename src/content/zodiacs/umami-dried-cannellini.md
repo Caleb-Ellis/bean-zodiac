@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: umami-dried-cannellini
 lastUpdated:
 bean: cannellini
@@ -13,8 +13,8 @@ creature: stag
 dish: Dried cannellini stewed on an aged prosciutto bone.
 friendlyBeans: [edamame, navy]
 friendlyForm: boiled
-antiTriple: sweet-fermented-adzuki
-antiBeans: [kidney, chickpea]
+antiTriple: sweet-fried-adzuki
+antiBeans: [chickpea, kidney]
 antiForm: roasted
 seasonalFortune: "A season of prosciutto bone and long provenance: the pantry keeps company with better things."
 fortuneMost: Antlers that wide must be carried through every low door.

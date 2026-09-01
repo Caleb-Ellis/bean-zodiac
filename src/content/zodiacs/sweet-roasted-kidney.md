@@ -14,7 +14,7 @@ friendlyBeans: [mung, butter]
 friendlyForm: boiled
 antiTriple: sour-dried-edamame
 antiBeans: [fava, cannellini]
-antiForm: smoked
+antiForm: fermented
 seasonalFortune: "A season of brown sugar and mustard glaze — the oven holds its people close, sometimes tightly."
 fortuneMost: You would keep them in your pocket if they fit.
 fortuneHigh: The gorilla puts itself between its family and the dark.

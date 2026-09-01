@@ -11,10 +11,10 @@ quote: First, do no bean.
 creature: kingfisher
 dish: Smoked edamame cured in ponzu.
 friendlyBeans: [cannellini, black]
-friendlyForm: dried
-antiTriple: sweet-boiled-mung
+friendlyForm: fermented
+antiTriple: sweet-roasted-kidney
 antiBeans: [adzuki, chickpea]
-antiForm: roasted
+antiForm: fried
 seasonalFortune: "A season of ponzu and exact incisions — the cure removes precisely what was wrong."
 fortuneMost: The right call can still be a cruel one.
 fortuneHigh: A kingfisher spends far more time watching than diving.

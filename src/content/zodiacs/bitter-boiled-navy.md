@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: bitter-boiled-navy
 lastUpdated: 
 bean: navy
@@ -13,9 +13,9 @@ creature: emperor penguin
 dish: Navy bean soup steeped with bay, wormwood, and salt pork.
 friendlyBeans: [cannellini, edamame]
 friendlyForm: dried
-antiTriple: spicy-fermented-pinto
-antiBeans: [chickpea, fava]
-antiForm: smoked
+antiTriple: spicy-smoked-pinto
+antiBeans: [chickpea, green]
+antiForm: fermented
 seasonalFortune: "A season of plain bay and straight measures. The pot does what was agreed, at the hour agreed."
 fortuneMost: Be right about the principle often enough and nobody confides anything.
 fortuneHigh: An emperor penguin stands through the whole winter holding the egg.

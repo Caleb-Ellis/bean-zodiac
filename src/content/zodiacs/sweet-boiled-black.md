@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sweet-boiled-black
 lastUpdated: 
 bean: black
@@ -12,9 +12,9 @@ quote: The bean that matters most is not the one you were born with, but the one
 creature: carp
 dish: Black bean sweet soup with rock sugar and tangerine peel.
 friendlyBeans: [navy, butter]
-friendlyForm: dried
+friendlyForm: smoked
 antiTriple: spicy-fried-green
-antiBeans: [pinto, fava]
+antiBeans: [fava, pinto]
 antiForm: roasted
 seasonalFortune: "A season of rock sugar and tangerine peel: the pot has done this every year."
 fortuneMost: Staying the same is a decision nobody notices being made.

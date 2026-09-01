@@ -10,10 +10,10 @@ inverse: agitated
 quote: Keep calm and carry beans.
 creature: capybara
 dish: Butter beans poached in olive oil with bay and blanched dandelion greens.
-friendlyBeans: [black, mung]
-friendlyForm: dried
+friendlyBeans: [mung, black]
+friendlyForm: smoked
 antiTriple: spicy-fried-green
-antiBeans: [fava, pinto]
+antiBeans: [pinto, fava]
 antiForm: roasted
 seasonalFortune: "A season of steady water and unbothered fat. Nothing in the pot rises to meet a raised voice."
 fortuneMost: Numbness is as much a cage as a shield.

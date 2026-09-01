@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-fried-fava
 lastUpdated: 
 bean: fava
@@ -11,11 +11,11 @@ inverse: irresolute
 quote: Fortune favours the bean.
 creature: gannet
 dish: Fava fried with lemon, mint, and pecorino.
-friendlyBeans: [green, chickpea]
+friendlyBeans: [chickpea, green]
 friendlyForm: fermented
-antiTriple: bitter-boiled-navy
-antiBeans: [black, butter]
-antiForm: smoked
+antiTriple: bitter-smoked-cannellini
+antiBeans: [black, mung]
+antiForm: boiled
 seasonalFortune: "A season of mint and hot pecorino; the pod goes in without checking the temperature."
 fortuneMost: Move first every time and half the moves are wasted.
 fortuneHigh: A gannet folds and hits the water at ninety.

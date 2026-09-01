@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: umami-roasted-black
 lastUpdated:
 bean: black
@@ -11,10 +11,10 @@ inverse: unseeing
 quote: The only true wisdom is knowing you know nothing about beans.
 creature: snowy owl
 dish: Black beans roasted in bacon fat with garlic.
-friendlyBeans: [adzuki, butter]
+friendlyBeans: [butter, pinto]
 friendlyForm: fermented
 antiTriple: spicy-fried-kidney
-antiBeans: [mung, green]
+antiBeans: [edamame, green]
 antiForm: boiled
 seasonalFortune: "A season of bacon fat and garlic: the roast understands the dinner better than the cook."
 fortuneMost: Seeing through everybody is lonely work.

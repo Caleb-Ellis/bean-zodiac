@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sweet-boiled-fava
 lastUpdated: 
 bean: fava
@@ -11,11 +11,11 @@ inverse: discouraging
 quote: As we let our own bean shine, we unconsciously give others permission to do the same.
 creature: sheepdog
 dish: Fava simmered with honey and orange blossom.
-friendlyBeans: [kidney, chickpea]
-friendlyForm: roasted
-antiTriple: spicy-smoked-cannellini
-antiBeans: [green, edamame]
-antiForm: fermented
+friendlyBeans: [chickpea, mung]
+friendlyForm: smoked
+antiTriple: spicy-fermented-cannellini
+antiBeans: [edamame, pinto]
+antiForm: fried
 seasonalFortune: "A season of orange blossom and warm urging — the pot talks the table into seconds."
 fortuneMost: Push somebody hard enough and they stop saying how it's going.
 fortuneHigh: A sheepdog moves the whole flock without touching one.

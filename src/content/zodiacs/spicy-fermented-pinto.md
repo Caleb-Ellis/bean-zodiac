@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-fermented-pinto
 lastUpdated: 
 bean: pinto
@@ -11,10 +11,10 @@ inverse: stolid
 quote: Nothing endures but bean.
 creature: anole
 dish: Pinto beans fermented with chile and lime.
-friendlyBeans: [chickpea, green]
+friendlyBeans: [chickpea, mung]
 friendlyForm: roasted
 antiTriple: sweet-dried-black
-antiBeans: [edamame, cannellini]
+antiBeans: [navy, kidney]
 antiForm: boiled
 seasonalFortune: "A season of chile and lime — the mash changes its mind weekly and never explains."
 fortuneMost: Change with every hour and nobody can plan around it.

@@ -11,9 +11,9 @@ quote: Life is like a box of beans — you never know what you're gonna get.
 creature: ammonite
 dish: Dried pinto beans with aged cotija and epazote.
 friendlyBeans: [fava, black]
-friendlyForm: roasted
+friendlyForm: smoked
 antiTriple: sweet-fried-chickpea
-antiBeans: [kidney, butter]
+antiBeans: [edamame, navy]
 antiForm: boiled
 seasonalFortune: "A season of aged cotija and epazote — the flavour keeps opening onto further flavour."
 fortuneMost: Do not go so deep that no one can reach you.

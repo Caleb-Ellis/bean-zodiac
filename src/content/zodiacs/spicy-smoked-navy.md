@@ -10,11 +10,11 @@ inverse: wishy-washy
 quote: I shall not be beaned.
 creature: draught horse
 dish: Navy beans smoked over hickory with chipotle and maple.
-friendlyBeans: [edamame, cannellini]
-friendlyForm: boiled
-antiTriple: sour-fermented-fava
+friendlyBeans: [cannellini, black]
+friendlyForm: dried
+antiTriple: sour-fried-fava
 antiBeans: [green, chickpea]
-antiForm: fried
+antiForm: roasted
 seasonalFortune: "A season of hickory and maple: the smoke keeps the same watch it kept last year."
 fortuneMost: The draught horse pulls diligently until it drops and is disposed.
 fortuneHigh: Outlast them all.

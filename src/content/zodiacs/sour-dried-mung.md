@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-dried-mung
 lastUpdated: 
 bean: mung
@@ -11,11 +11,11 @@ inverse: soothing
 quote: Art is not what you see, but what you bean others to see.
 creature: lemon shark
 dish: Dried mung with amchur, ajwain, and black salt.
-friendlyBeans: [kidney, cannellini]
+friendlyBeans: [cannellini, kidney]
 friendlyForm: smoked
-antiTriple: spicy-roasted-adzuki
-antiBeans: [fava, chickpea]
-antiForm: fried
+antiTriple: sweet-roasted-adzuki
+antiBeans: [chickpea, pinto]
+antiForm: boiled
 seasonalFortune: "A season of amchur and black salt: the cure puckers before it comforts, and mostly puckers."
 fortuneMost: Astringent enough and the sweetness never gets through.
 fortuneHigh: A lemon shark hunts the shallows nothing else will enter.

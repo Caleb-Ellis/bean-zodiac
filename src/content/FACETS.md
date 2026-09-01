@@ -171,16 +171,16 @@ Fill the 25 rows into the batch file and run `plan` (Part 3) before any prose ex
   aisle, a cinema row, a doorstep, a hotel breakfast room, a friend's kitchen.
 - **No *niche* hobby premises.** Caving, reef-keeping, metal detecting, competitive
   dog agility: Resist collapses into "I'm not that person" and the vote is lost.
-  Ordinary pastimes are fine and always were — tennis, bouldering, sewing,
-  five-a-side, running, an evening class. The bar is not whether it is a hobby but
+  Ordinary pastimes are fine and always were — tennis, bouldering, sewing, running,
+  an evening class. The bar is not whether it is a hobby but
   **whether the reader can picture themselves doing the act**. If the scene needs a
   world the reader has never been near, rebuild it; if it needs an afternoon anyone
   might have had, use it.
 - **Nothing that reads as an expertise test.** If Resist means "I wouldn't be able
   to" rather than "I wouldn't", rebuild it. This is the rule the hobby line is
   really serving — laying a hedge with a billhook fails it, playing a match does not.
-- **No prop that presumes the reader's circumstances** — a garden, a car, cash in
-  hand, children, a spare room. A slightly general phrase beats a concrete one the
+- **No prop that presumes the reader's circumstances** — A slightly general phrase
+  beats a concrete one the
   reader can't stand inside. (This qualifies concreteness, it doesn't cancel it:
   still name real words, objects and moves rather than outcome-phrases like "settle
   it in a line". And a car that belongs to somebody named on the page is fine.)

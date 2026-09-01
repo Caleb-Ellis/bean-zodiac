@@ -10,11 +10,11 @@ inverse: skittish
 quote: In matters of principle, stand like a bean.
 creature: grey wolf
 dish: Dried navy beans with cayenne and dried thyme.
-friendlyBeans: [edamame, cannellini]
+friendlyBeans: [cannellini, black]
 friendlyForm: boiled
-antiTriple: bitter-fried-chickpea
-antiBeans: [green, kidney]
-antiForm: smoked
+antiTriple: bitter-fried-green
+antiBeans: [chickpea, mung]
+antiForm: roasted
 seasonalFortune: "A season of cayenne and dried thyme — the store meets the cold without changing expression."
 fortuneMost: A bean dried hard enough will never soften.
 fortuneHigh: Say it once, make it known.

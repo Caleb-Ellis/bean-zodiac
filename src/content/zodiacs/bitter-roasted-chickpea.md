@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: bitter-roasted-chickpea
 lastUpdated:
 bean: chickpea
@@ -11,10 +11,10 @@ inverse: parochial
 quote: I am a citizen of the bean.
 creature: arctic tern
 dish: Wood-fired chickpeas with za'atar and charred lemon.
-friendlyBeans: [adzuki, pinto]
+friendlyBeans: [adzuki, butter]
 friendlyForm: fried
-antiTriple: sour-fermented-black
-antiBeans: [cannellini, fava]
+antiTriple: sour-fermented-cannellini
+antiBeans: [edamame, black]
 antiForm: dried
 seasonalFortune: "A season of za'atar and charred lemon: the fire speaks four kitchens and belongs to none."
 fortuneMost: An arctic tern gets two summers and nests properly in neither.

@@ -10,10 +10,10 @@ inverse: hard-nosed
 quote: I kept the bean. I kept everything.
 creature: whooper swan
 dish: Adzuki fermented with rice koji into amazake paste.
-friendlyBeans: [pinto, chickpea]
+friendlyBeans: [pinto, green]
 friendlyForm: smoked
-antiTriple: sour-dried-edamame
-antiBeans: [navy, cannellini]
+antiTriple: sour-dried-cannellini
+antiBeans: [navy, edamame]
 antiForm: fried
 seasonalFortune: "A season of rice koji and kept memory — the amazake tastes of a specific year."
 fortuneMost: The whooper swan keeps calling across the ice, long after the flock has gone.

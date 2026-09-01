@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: umami-smoked-mung
 lastUpdated:
 bean: mung
@@ -13,7 +13,7 @@ creature: tea frog
 dish: Hickory-smoked mung with ghee and cumin.
 friendlyBeans: [butter, kidney]
 friendlyForm: boiled
-antiTriple: spicy-roasted-fava
+antiTriple: spicy-roasted-pinto
 antiBeans: [edamame, green]
 antiForm: fried
 seasonalFortune: "A season of rice-husk smoke and long soaking — what mends here arrives after the room empties."

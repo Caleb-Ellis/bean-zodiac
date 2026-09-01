@@ -10,11 +10,11 @@ inverse: sensible
 quote: I'm beaning in the rain!
 creature: otter pup
 dish: Green bean tempura with maple glaze.
-friendlyBeans: [fava, chickpea]
+friendlyBeans: [fava, mung]
 friendlyForm: smoked
 antiTriple: umami-boiled-butter
-antiBeans: [black, kidney]
-antiForm: dried
+antiBeans: [black, navy]
+antiForm: fermented
 seasonalFortune: "A season of maple glaze and rising fizz; the tempura cannot stop popping."
 fortuneMost: There are genuine laughs and there are nervous laughs – people can easily spot the difference.
 fortuneHigh: An otter pup plays until it falls asleep. What a life!

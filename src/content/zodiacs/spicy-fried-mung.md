@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-fried-mung
 lastUpdated:
 bean: mung
@@ -13,9 +13,9 @@ creature: swift
 dish: Mung vada fried with green chilli and ginger.
 friendlyBeans: [kidney, chickpea]
 friendlyForm: boiled
-antiTriple: sour-dried-fava
-antiBeans: [edamame, navy]
-antiForm: fermented
+antiTriple: sour-fermented-fava
+antiBeans: [edamame, pinto]
+antiForm: dried
 seasonalFortune: "A season of green chilli and immediate need — the vada is wanted now, not later."
 fortuneMost: Treat it all as urgent and the urgent thing gets missed.
 fortuneHigh: A swift eats, mates and sleeps without landing.

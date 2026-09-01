@@ -10,11 +10,11 @@ inverse: leaden
 quote: A bean is a terrible thing to waste.
 creature: laughing kookaburra
 dish: Edamame roasted in the pod over embers with matcha salt.
-friendlyBeans: [chickpea, pinto]
+friendlyBeans: [pinto, cannellini]
 friendlyForm: fried
-antiTriple: sweet-boiled-kidney
-antiBeans: [mung, black]
-antiForm: smoked
+antiTriple: umami-boiled-mung
+antiBeans: [butter, kidney]
+antiForm: fermented
 seasonalFortune: "A season of matcha salt and dry embers — the pod is quicker than the fire deserves."
 fortuneMost: Win the laugh, lose the argument, call it a draw.
 fortuneHigh: Fear not at whom the kookaburra laughs — it laughs at thee.

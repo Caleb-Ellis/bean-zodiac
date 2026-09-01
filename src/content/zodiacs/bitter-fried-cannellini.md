@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: bitter-fried-cannellini
 lastUpdated: 
 bean: cannellini
@@ -11,10 +11,10 @@ inverse: slapdash
 quote: Good enough is the enemy of the bean.
 creature: weaverbird
 dish: Cannellini fried with capers and blackened lemon.
-friendlyBeans: [edamame, navy]
+friendlyBeans: [navy, edamame]
 friendlyForm: dried
 antiTriple: umami-fermented-adzuki
-antiBeans: [butter, black]
+antiBeans: [chickpea, pinto]
 antiForm: smoked
 seasonalFortune: "A season of blackened lemon and counted seconds — the pan forgives nothing; the failures burn."
 fortuneMost: Rebuild it enough times and the season's gone.

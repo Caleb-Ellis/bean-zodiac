@@ -10,11 +10,11 @@ inverse: scheming
 quote: To bean or not to bean — actually, yes, obviously. Why would you not.
 creature: duckling
 dish: Roasted butter beans with chimichurri and charred lemon.
-friendlyBeans: [adzuki, chickpea]
+friendlyBeans: [adzuki, mung]
 friendlyForm: boiled
-antiTriple: bitter-fermented-cannellini
-antiBeans: [edamame, black]
-antiForm: smoked
+antiTriple: bitter-smoked-cannellini
+antiBeans: [black, edamame]
+antiForm: dried
 seasonalFortune: "A season of charred lemon and no strategy — the fire has nothing hidden behind it."
 fortuneMost: The duckling walks toward every open hand.
 fortuneHigh: Peeled garlic holds no secrets.

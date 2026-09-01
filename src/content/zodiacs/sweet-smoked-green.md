@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sweet-smoked-green
 lastUpdated:
 bean: green
@@ -13,8 +13,8 @@ creature: scarab
 dish: Green beans barbecued with maple and bacon.
 friendlyBeans: [pinto, fava]
 friendlyForm: fried
-antiTriple: umami-boiled-butter
-antiBeans: [navy, adzuki]
+antiTriple: umami-boiled-cannellini
+antiBeans: [butter, navy]
 antiForm: dried
 seasonalFortune: "A season of maple and bacon; the smoke changes colour depending where you stand."
 fortuneMost: Shine hard enough and people only see the shine.

@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sweet-fermented-navy
 lastUpdated: 
 bean: navy
@@ -7,15 +7,15 @@ flavour: sweet
 form: fermented
 trait: homespun
 excess: provincial
-inverse: worldly
+inverse: urbane
 quote: A bean in time saves nine.
 creature: bantam
 dish: Navy bean miso ice cream with maple.
-friendlyBeans: [adzuki, cannellini]
+friendlyBeans: [cannellini, adzuki]
 friendlyForm: dried
-antiTriple: bitter-smoked-fava
+antiTriple: spicy-roasted-chickpea
 antiBeans: [green, kidney]
-antiForm: roasted
+antiForm: smoked
 seasonalFortune: "A season of maple and barley koji — the crock tastes of one house only."
 fortuneMost: Keep to your own patch and the world shrinks to fit it.
 fortuneHigh: A bantam runs the whole yard from the smallest body in it.

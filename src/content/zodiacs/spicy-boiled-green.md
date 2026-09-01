@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-boiled-green
 lastUpdated:
 bean: green
@@ -13,8 +13,8 @@ creature: fox terrier
 dish: Green beans braised with berbere and tomato.
 friendlyBeans: [chickpea, fava]
 friendlyForm: fried
-antiTriple: sour-dried-black
-antiBeans: [butter, edamame]
+antiTriple: sour-fermented-cannellini
+antiBeans: [navy, black]
 antiForm: smoked
 seasonalFortune: "A season of berbere and rising conviction; the pot believes in this dinner entirely."
 fortuneMost: Believe in it hard enough and doubters turn into enemies.

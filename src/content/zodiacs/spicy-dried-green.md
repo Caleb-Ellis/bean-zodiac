@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-dried-green
 lastUpdated: 
 bean: green
@@ -11,11 +11,11 @@ inverse: flat
 quote: Energy cannot be beaned — it can only be transformed.
 creature: eel
 dish: Gan bian si ji dou - dry-fried green beans with chilli and ya cai.
-friendlyBeans: [chickpea, kidney]
-friendlyForm: fermented
-antiTriple: umami-smoked-mung
-antiBeans: [butter, navy]
-antiForm: boiled
+friendlyBeans: [kidney, fava]
+friendlyForm: fried
+antiTriple: umami-boiled-butter
+antiBeans: [mung, black]
+antiForm: smoked
 seasonalFortune: "A season of dry-fried heat and standing current; the vine crackles long after the cutting."
 fortuneMost: Live at that pitch and the quiet hours feel like failure.
 fortuneHigh: An eel puts out enough charge to stun a horse.

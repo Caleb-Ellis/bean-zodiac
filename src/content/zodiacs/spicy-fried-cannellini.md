@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: rerun script
 slug: spicy-fried-cannellini
 lastUpdated:
 bean: cannellini
@@ -13,9 +13,9 @@ creature: husky
 dish: Cannellini fried in peperoncino garlic oil.
 friendlyBeans: [navy, edamame]
 friendlyForm: dried
-antiTriple: sweet-fermented-butter
-antiBeans: [adzuki, black]
-antiForm: roasted
+antiTriple: umami-fermented-adzuki
+antiBeans: [butter, pinto]
+antiForm: boiled
 seasonalFortune: "A season of peperoncino oil and forward motion: the pan works toward something and won't stop."
 fortuneMost: Ambition eats the years it was meant to buy.
 fortuneHigh: A husky will run until it's told to stop.

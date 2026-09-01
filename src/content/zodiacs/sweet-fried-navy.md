@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sweet-fried-navy
 lastUpdated:
 bean: navy
@@ -14,7 +14,7 @@ dish: Navy beans fried and glazed with molasses butter.
 friendlyBeans: [cannellini, black]
 friendlyForm: dried
 antiTriple: bitter-smoked-fava
-antiBeans: [butter, mung]
+antiBeans: [kidney, mung]
 antiForm: fermented
 seasonalFortune: "A season of molasses butter and long looks — the glaze has somebody particular in mind."
 fortuneMost: Love the idea of it enough and the real one disappoints.

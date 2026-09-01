@@ -16,25 +16,25 @@ import type { FormId } from "../../../lib/zodiac";
 // Wheel centre
 const CX = 100;
 const CY = 100;
-// Form ring radii (inner ring)
-const FORM_R1 = 15;
-const FORM_R2 = 35;
-// Flavour ring radii (middle ring)
-const FLAVOUR_R1 = 37;
-const FLAVOUR_R2 = 55;
+// Flavour ring radii (inner ring)
+const FLAVOUR_R1 = 16;
+const FLAVOUR_R2 = 34;
+// Form ring radii (middle ring)
+const FORM_R1 = 36;
+const FORM_R2 = 55;
 // Bean ring radii
 const BEAN_R1 = 57;
 const BEAN_R2 = 83;
 // Angular gap between segments
 const GAP = 1.1;
 const EASING = "cubic-bezier(0.4, 0, 0.1, 1)";
-const TRANSITION_INNER = `transform 2.5s ${EASING} 0ms`;
-const TRANSITION_MIDDLE = `transform 2.5s ${EASING} 0ms`;
-const TRANSITION_OUTER = `transform 2.5s ${EASING} 0ms`;
-// Idle spin: inner (form, 1yr/rev) at 1rev/min; outer/middle scaled by real cycle lengths
-const IDLE_INNER_DPMs = 360 / 60000;          // 1 yr  → 1 rev/min
-const IDLE_OUTER_DPMs = IDLE_INNER_DPMs / 12; // 12 yr → 1 rev/12min
-const IDLE_MIDDLE_DPMs = IDLE_INNER_DPMs / 10; // 10 yr → 1 rev/10min
+const TRANSITION_FLAVOUR = `transform 2.5s ${EASING} 0ms`;
+const TRANSITION_FORM = `transform 2.5s ${EASING} 0ms`;
+const TRANSITION_BEAN = `transform 2.5s ${EASING} 0ms`;
+// Idle spin: form (middle ring, 1yr/rev) at 1rev/min; bean/flavour scaled by real cycle lengths
+const IDLE_FORM_DPMs = 360 / 60000;            // 1 yr  → 1 rev/min
+const IDLE_BEAN_DPMs = IDLE_FORM_DPMs / 12;    // 12 yr → 1 rev/12min
+const IDLE_FLAVOUR_DPMs = IDLE_FORM_DPMs / 10; // 10 yr → 1 rev/10min
 const ACTIVE_DARK = "#27272a";
 
 // Segment widths (degrees)
@@ -188,11 +188,11 @@ export default function ZodiacWheel({
   beansVisible,
 }: Props) {
   const {
-    absOuter,
-    absInner,
-    absCentre,
-    targetOuter,
-    targetInner,
+    absBean,
+    absFlavour,
+    absForm,
+    targetBean,
+    targetFlavour,
     targetForm,
     beanIdx,
     flavourIdx,
@@ -201,12 +201,12 @@ export default function ZodiacWheel({
 
   const centreColor = "#ffffff";
 
-  const prevAbsOuter = useRef(absOuter);
-  const prevAbsInner = useRef(absInner);
-  const prevAbsCentre = useRef(absCentre);
+  const prevAbsBean = useRef(absBean);
+  const prevAbsFlavour = useRef(absFlavour);
+  const prevAbsForm = useRef(absForm);
 
-  const [outerRot, setOuterRot] = useState(targetOuter);
-  const [innerRot, setInnerRot] = useState(targetInner);
+  const [beanRot, setBeanRot] = useState(targetBean);
+  const [flavourRot, setFlavourRot] = useState(targetFlavour);
   const [formRot, setFormRot] = useState(targetForm);
   const [activeBeanIdx, setActiveBeanIdx] = useState(beanIdx);
   const [activeFlavourIdx, setActiveFlavourIdx] = useState(flavourIdx);
@@ -216,15 +216,15 @@ export default function ZodiacWheel({
   const [formActive, setFormActive] = useState(false);
   const [centreActive, setCentreActive] = useState(false);
 
-  const outerRef = useRef<SVGGElement>(null);
-  const middleRef = useRef<SVGGElement>(null);
-  const innerRef = useRef<SVGGElement>(null);
+  const beanRef = useRef<SVGGElement>(null);
+  const flavourRef = useRef<SVGGElement>(null);
+  const formRef = useRef<SVGGElement>(null);
   const idleRaf = useRef(0);
-  const idleAngle = useRef({ outer: 0, middle: 0, inner: 0 });
+  const idleAngle = useRef({ bean: 0, flavour: 0, form: 0 });
   const idlePrevTime = useRef(0);
   const prevIdleRef = useRef(false);
 
-  // Must be declared before the absOuter/absInner/absCentre effects so that
+  // Must be declared before the absBean/absFlavour/absForm effects so that
   // prevAbs refs are neutralised before those effects read them on the same commit.
   //
   // The idle=true branch always starts the rAF and returns its own cleanup so
@@ -233,22 +233,22 @@ export default function ZodiacWheel({
     if (idle) {
       prevIdleRef.current = true;
       idleAngle.current = {
-        outer: ((outerRot % 360) + 360) % 360,
-        middle: ((innerRot % 360) + 360) % 360,
-        inner: ((formRot % 360) + 360) % 360,
+        bean: ((beanRot % 360) + 360) % 360,
+        flavour: ((flavourRot % 360) + 360) % 360,
+        form: ((formRot % 360) + 360) % 360,
       };
       idlePrevTime.current = 0;
       const tick = (t: number) => {
         if (idlePrevTime.current) {
           const dt = t - idlePrevTime.current;
-          idleAngle.current.outer += dt * IDLE_OUTER_DPMs;
-          idleAngle.current.middle += dt * IDLE_MIDDLE_DPMs;
-          idleAngle.current.inner += dt * IDLE_INNER_DPMs;
+          idleAngle.current.bean += dt * IDLE_BEAN_DPMs;
+          idleAngle.current.flavour += dt * IDLE_FLAVOUR_DPMs;
+          idleAngle.current.form += dt * IDLE_FORM_DPMs;
         }
         idlePrevTime.current = t;
-        if (outerRef.current) outerRef.current.style.transform = `rotate(${idleAngle.current.outer}deg)`;
-        if (middleRef.current) middleRef.current.style.transform = `rotate(${idleAngle.current.middle}deg)`;
-        if (innerRef.current) innerRef.current.style.transform = `rotate(${idleAngle.current.inner}deg)`;
+        if (beanRef.current) beanRef.current.style.transform = `rotate(${idleAngle.current.bean}deg)`;
+        if (flavourRef.current) flavourRef.current.style.transform = `rotate(${idleAngle.current.flavour}deg)`;
+        if (formRef.current) formRef.current.style.transform = `rotate(${idleAngle.current.form}deg)`;
         idleRaf.current = requestAnimationFrame(tick);
       };
       idleRaf.current = requestAnimationFrame(tick);
@@ -258,40 +258,40 @@ export default function ZodiacWheel({
     // idle is false — rAF was already cancelled by the cleanup from the idle=true effect.
     if (prevIdleRef.current) {
       prevIdleRef.current = false;
-      const { outer: curOuter, middle: curMiddle, inner: curInner } = idleAngle.current;
-      const normOuter = ((curOuter % 360) + 360) % 360;
-      const normMiddle = ((curMiddle % 360) + 360) % 360;
-      const normInner = ((curInner % 360) + 360) % 360;
+      const { bean: curBean, flavour: curFlavour, form: curForm } = idleAngle.current;
+      const normBean = ((curBean % 360) + 360) % 360;
+      const normFlavour = ((curFlavour % 360) + 360) % 360;
+      const normForm = ((curForm % 360) + 360) % 360;
       // Zero out the abs deltas so the abs effects below become no-ops this commit.
-      prevAbsOuter.current = absOuter;
-      prevAbsInner.current = absInner;
-      prevAbsCentre.current = absCentre;
+      prevAbsBean.current = absBean;
+      prevAbsFlavour.current = absFlavour;
+      prevAbsForm.current = absForm;
       // CSS transition starts from the DOM's current position (rAF's last frame).
       // Spin at least 180° so the wheel always reads as "kicking back to life",
       // even when a ring happens to be sitting near its target.
-      setOuterRot(curOuter + capDelta(atLeast180(((targetOuter - normOuter) + 360) % 360), 900));
-      setInnerRot(curMiddle + capDelta(atLeast180(((targetInner - normMiddle) + 360) % 360), 990));
-      setFormRot(curInner + capDelta(atLeast180(((targetForm - normInner) + 360) % 360), 1080));
+      setBeanRot(curBean + capDelta(atLeast180(((targetBean - normBean) + 360) % 360), 900));
+      setFlavourRot(curFlavour + capDelta(atLeast180(((targetFlavour - normFlavour) + 360) % 360), 990));
+      setFormRot(curForm + capDelta(atLeast180(((targetForm - normForm) + 360) % 360), 1080));
     }
   }, [idle]); // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => {
-    const delta = absOuter - prevAbsOuter.current;
-    setOuterRot((r) => r + capDelta(delta, 540));
-    prevAbsOuter.current = absOuter;
-  }, [absOuter]);
+    const delta = absBean - prevAbsBean.current;
+    setBeanRot((r) => r + capDelta(delta, 540));
+    prevAbsBean.current = absBean;
+  }, [absBean]);
 
   useEffect(() => {
-    const delta = absInner - prevAbsInner.current;
-    setInnerRot((r) => r + capDelta(delta, 630));
-    prevAbsInner.current = absInner;
-  }, [absInner]);
+    const delta = absFlavour - prevAbsFlavour.current;
+    setFlavourRot((r) => r + capDelta(delta, 630));
+    prevAbsFlavour.current = absFlavour;
+  }, [absFlavour]);
 
   useEffect(() => {
-    const delta = absCentre - prevAbsCentre.current;
+    const delta = absForm - prevAbsForm.current;
     setFormRot((r) => r + capDelta(delta, 720));
-    prevAbsCentre.current = absCentre;
-  }, [absCentre]);
+    prevAbsForm.current = absForm;
+  }, [absForm]);
 
   useEffect(() => {
     setBeanActive(false);
@@ -305,8 +305,8 @@ export default function ZodiacWheel({
       setActiveFormIdx(formIdx);
       setBeanActive(true);
     }, 2700);
-    const t2 = setTimeout(() => setFlavourActive(true), 2850);
-    const t3 = setTimeout(() => setFormActive(true), 3000);
+    const t2 = setTimeout(() => setFormActive(true), 2850);
+    const t3 = setTimeout(() => setFlavourActive(true), 3000);
     const t4 = setTimeout(() => setCentreActive(true), 3150);
     return () => {
       clearTimeout(t1);
@@ -350,11 +350,11 @@ export default function ZodiacWheel({
 
       {/* Outer bean ring — rotates once per 12 years */}
       <g
-        ref={outerRef}
+        ref={beanRef}
         style={{
           transformOrigin: `${CX}px ${CY}px`,
-          transform: `rotate(${outerRot}deg)`,
-          transition: idle ? "none" : TRANSITION_OUTER,
+          transform: `rotate(${beanRot}deg)`,
+          transition: idle ? "none" : TRANSITION_BEAN,
           willChange: "transform",
         }}
       >
@@ -390,13 +390,13 @@ export default function ZodiacWheel({
         })}
       </g>
 
-      {/* Inner form ring — rotates once every year */}
+      {/* Middle form ring — rotates once every year */}
       <g
-        ref={innerRef}
+        ref={formRef}
         style={{
           transformOrigin: `${CX}px ${CY}px`,
           transform: `rotate(${formRot}deg)`,
-          transition: idle ? "none" : TRANSITION_INNER,
+          transition: idle ? "none" : TRANSITION_FORM,
           willChange: "transform",
         }}
       >
@@ -432,13 +432,13 @@ export default function ZodiacWheel({
         })}
       </g>
 
-      {/* Middle flavour ring — rotates once every 10 years */}
+      {/* Inner flavour ring — rotates once every 10 years */}
       <g
-        ref={middleRef}
+        ref={flavourRef}
         style={{
           transformOrigin: `${CX}px ${CY}px`,
-          transform: `rotate(${innerRot}deg)`,
-          transition: idle ? "none" : TRANSITION_MIDDLE,
+          transform: `rotate(${flavourRot}deg)`,
+          transition: idle ? "none" : TRANSITION_FLAVOUR,
           willChange: "transform",
         }}
       >
@@ -592,24 +592,24 @@ function computeTargets(date: Date) {
   const yearEnd = new Date(beanYear + 1, m, d).getTime();
   const beanFrac = (date.getTime() - yearStart) / (yearEnd - yearStart);
 
-  const absOuter = (beanYear - REF + beanFrac) * BEAN_SEG;
-  const absInner = (beanYear - REF + beanFrac) * (FLAVOUR_SEG / YEARS_PER_FLAVOUR);
-  const absCentre = (beanYear - REF + beanFrac) * 360;
+  const absBean = (beanYear - REF + beanFrac) * BEAN_SEG;
+  const absFlavour = (beanYear - REF + beanFrac) * (FLAVOUR_SEG / YEARS_PER_FLAVOUR);
+  const absForm = (beanYear - REF + beanFrac) * 360;
 
-  const modOuter = ((absOuter % 360) + 360) % 360;
-  const modInner = ((absInner % 360) + 360) % 360;
-  const modCentre = ((absCentre % 360) + 360) % 360;
+  const modBean = ((absBean % 360) + 360) % 360;
+  const modFlavour = ((absFlavour % 360) + 360) % 360;
+  const modForm = ((absForm % 360) + 360) % 360;
 
   return {
-    absOuter,
-    absInner,
-    absCentre,
-    targetOuter: modOuter - BEAN_SEG / 2,
-    targetInner: modInner - FLAVOUR_SEG / 2,
-    targetCentre: modCentre,
-    targetForm: modCentre - FORM_SEG / 2,
-    beanIdx: Math.floor(modOuter / BEAN_SEG),
-    flavourIdx: Math.floor(modInner / FLAVOUR_SEG),
+    absBean,
+    absFlavour,
+    absForm,
+    targetBean: modBean - BEAN_SEG / 2,
+    targetFlavour: modFlavour - FLAVOUR_SEG / 2,
+    targetCentre: modForm,
+    targetForm: modForm - FORM_SEG / 2,
+    beanIdx: Math.floor(modBean / BEAN_SEG),
+    flavourIdx: Math.floor(modFlavour / FLAVOUR_SEG),
     formIdx: FORM_ORDER.indexOf(getFormIdForDate(date)),
   };
 }

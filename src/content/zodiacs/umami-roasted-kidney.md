@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: rerun script
 slug: umami-roasted-kidney
 lastUpdated: 
 bean: kidney
@@ -12,9 +12,9 @@ quote: I wear my bean upon my sleeve.
 creature: great pyrenees
 dish: Kidney beans roasted in beef dripping with onion.
 friendlyBeans: [mung, butter]
-friendlyForm: boiled
-antiTriple: sour-smoked-black
-antiBeans: [edamame, cannellini]
+friendlyForm: fried
+antiTriple: sour-smoked-edamame
+antiBeans: [black, cannellini]
 antiForm: fermented
 seasonalFortune: "A season of beef dripping and onion — the tray holds nothing back, and nothing back."
 fortuneMost: Open to everybody and anybody can walk in.

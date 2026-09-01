@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: rerun script
 slug: bitter-fermented-green
 lastUpdated: 
 bean: green
@@ -11,7 +11,7 @@ inverse: unimaginative
 quote: Imagination is more important than bean.
 creature: cuttlefish
 dish: Green beans lacto-fermented with grapefruit peel and dill.
-friendlyBeans: [kidney, fava]
+friendlyBeans: [fava, kidney]
 friendlyForm: fried
 antiTriple: umami-dried-butter
 antiBeans: [navy, cannellini]

@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-fermented-fava
 lastUpdated: 
 bean: fava
@@ -11,9 +11,9 @@ inverse: conformist
 quote: Whenever you find yourself on the side of the majority, it is time to bean and reflect.
 creature: crab
 dish: Fava pickled with lemon and coriander seed.
-friendlyBeans: [green, butter]
+friendlyBeans: [green, pinto]
 friendlyForm: fried
-antiTriple: umami-boiled-navy
+antiTriple: bitter-boiled-navy
 antiBeans: [cannellini, black]
 antiForm: dried
 seasonalFortune: "A season of coriander seed and refusal — the pickle sours against whatever the kitchen prefers."

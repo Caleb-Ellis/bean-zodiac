@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-roasted-cannellini
 lastUpdated: 
 bean: cannellini
@@ -13,9 +13,9 @@ creature: shoebill
 dish: Cannellini roasted, then dressed in salsa verde.
 friendlyBeans: [navy, edamame]
 friendlyForm: fried
-antiTriple: umami-fermented-kidney
-antiBeans: [chickpea, mung]
-antiForm: boiled
+antiTriple: spicy-boiled-kidney
+antiBeans: [fava, green]
+antiForm: fermented
 seasonalFortune: "A season of salsa verde and flat statements: the roast says the true thing, unsoftened."
 fortuneMost: A shoebill stares straight at you and doesn't blink.
 fortuneHigh: Give them the real answer.

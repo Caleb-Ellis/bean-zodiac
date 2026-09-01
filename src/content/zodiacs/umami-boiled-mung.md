@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: rerun script
 slug: umami-boiled-mung
 lastUpdated:
 bean: mung
@@ -13,9 +13,9 @@ creature: earthworm
 dish: Mung simmered in kombu dashi with ginger.
 friendlyBeans: [kidney, butter]
 friendlyForm: smoked
-antiTriple: sour-roasted-edamame
-antiBeans: [green, pinto]
-antiForm: fried
+antiTriple: sour-fried-adzuki
+antiBeans: [edamame, fava]
+antiForm: roasted
 seasonalFortune: "A season of kombu and ginger: the broth refills whoever comes in empty."
 fortuneMost: Pour enough out and the well takes years to come back.
 fortuneHigh: An earthworm turns the whole field over without being seen.

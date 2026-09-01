@@ -10,11 +10,11 @@ inverse: derelict
 quote: Ask not what your bean can do for you — ask what you can do for your bean.
 creature: draft horse
 dish: Navy beans dried and rolled in maple sugar.
-friendlyBeans: [edamame, cannellini]
+friendlyBeans: [cannellini, edamame]
 friendlyForm: boiled
-antiTriple: spicy-roasted-fava
-antiBeans: [chickpea, adzuki]
-antiForm: smoked
+antiTriple: spicy-fried-fava
+antiBeans: [green, adzuki]
+antiForm: roasted
 seasonalFortune: "A season of maple sugar and kept rota — the store shows up, rolled and ready."
 fortuneMost: There is no greater symbol than a uniform pressed and hung.
 fortuneHigh: The thankless jobs must be done.

@@ -1,20 +1,20 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-fermented-mung
-lastUpdated: 
+lastUpdated:
 bean: mung
 flavour: sour
 form: fermented
 trait: diagnostic
-excess: reductive
-inverse: unquestioning
+excess: pathologising
+inverse: palliative
 quote: The first step is admitting you have a bean.
 creature: leech
 dish: Mung sprouts pickled with green chilli and lime.
 friendlyBeans: [kidney, butter]
 friendlyForm: smoked
-antiTriple: spicy-dried-edamame
-antiBeans: [navy, fava]
+antiTriple: sweet-boiled-navy
+antiBeans: [chickpea, adzuki]
 antiForm: roasted
 seasonalFortune: "A season of green chilli and clear reading — the jar names the ailment before the kitchen does."
 fortuneMost: Reduce it enough and the person disappears into the diagnosis.

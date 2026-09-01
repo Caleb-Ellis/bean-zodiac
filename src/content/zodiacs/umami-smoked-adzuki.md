@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: umami-smoked-adzuki
 lastUpdated:
 bean: adzuki
@@ -11,11 +11,11 @@ inverse: commonplace
 quote: We hold these beans to be self-evident.
 creature: white stag
 dish: Hickory-smoked adzuki with soy and molasses.
-friendlyBeans: [black, navy]
-friendlyForm: roasted
-antiTriple: spicy-roasted-fava
-antiBeans: [pinto, edamame]
-antiForm: fried
+friendlyBeans: [black, mung]
+friendlyForm: fermented
+antiTriple: spicy-fried-kidney
+antiBeans: [edamame, pinto]
+antiForm: roasted
 seasonalFortune: "A season of hickory and molasses — the smoke makes the ordinary meal feel observed."
 fortuneMost: Put it on a shelf that high and nobody uses it.
 fortuneHigh: A white stag is spared by every hunter who sees one.

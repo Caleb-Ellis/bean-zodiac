@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: umami-boiled-kidney
 lastUpdated:
 bean: kidney
@@ -11,11 +11,11 @@ inverse: undisciplined
 quote: We are what we repeatedly bean. Excellence, then, is not an act, but a habit.
 creature: warhorse
 dish: Kidney beans simmered in mushroom dashi.
-friendlyBeans: [cannellini, mung]
+friendlyBeans: [mung, cannellini]
 friendlyForm: dried
-antiTriple: sweet-roasted-green
-antiBeans: [fava, chickpea]
-antiForm: smoked
+antiTriple: spicy-fermented-fava
+antiBeans: [green, adzuki]
+antiForm: roasted
 seasonalFortune: "A season of mushroom dashi and kept hours — the stock is made the same way daily."
 fortuneMost: Keep the routine hard enough and the routine takes over.
 fortuneHigh: A warhorse holds formation with everything going off around it.

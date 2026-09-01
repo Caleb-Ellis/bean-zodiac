@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-boiled-edamame
 lastUpdated:
 bean: edamame
@@ -11,10 +11,10 @@ inverse: idle
 quote: Genius is one per cent inspiration and ninety-nine per cent beans.
 creature: beaver
 dish: Edamame braised in doubanjiang broth.
-friendlyBeans: [chickpea, navy]
-friendlyForm: roasted
-antiTriple: sour-smoked-pinto
-antiBeans: [butter, fava]
+friendlyBeans: [navy, chickpea]
+friendlyForm: dried
+antiTriple: sour-smoked-butter
+antiBeans: [pinto, black]
 antiForm: fermented
 seasonalFortune: "A season of doubanjiang and steady labour: the broth never stops, and neither does the kitchen."
 fortuneMost: There is always another job, and the season goes by.

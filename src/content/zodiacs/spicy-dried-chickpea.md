@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-dried-chickpea
 lastUpdated:
 bean: chickpea
@@ -11,11 +11,11 @@ inverse: insulating
 quote: It only takes a bean to start a great fire.
 creature: electric eel
 dish: Dried chickpeas with Kashmiri chilli and hing.
-friendlyBeans: [adzuki, pinto]
+friendlyBeans: [green, adzuki]
 friendlyForm: fried
-antiTriple: bitter-fermented-butter
-antiBeans: [cannellini, black]
-antiForm: boiled
+antiTriple: bitter-boiled-black
+antiBeans: [edamame, butter]
+antiForm: fermented
 seasonalFortune: "A season of Kashmiri chilli and live air — the heat moves between rooms without touching them."
 fortuneMost: Passing the charge along starts fires nobody sees.
 fortuneHigh: Pass the good news on.

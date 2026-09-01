@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-fermented-black
 lastUpdated: 
 bean: black
@@ -11,10 +11,10 @@ inverse: undiscerning
 quote: We don't see things as they are, we see them as bean.
 creature: harpy eagle
 dish: Black beans pickled with jalapeño and Mexican oregano.
-friendlyBeans: [pinto, butter]
+friendlyBeans: [pinto, mung]
 friendlyForm: smoked
 antiTriple: spicy-fried-chickpea
-antiBeans: [adzuki, cannellini]
+antiBeans: [adzuki, navy]
 antiForm: boiled
 seasonalFortune: "A season of jalapeño brine and quiet noticing: the pickle sees the kitchen better than it's seen."
 fortuneMost: Everything has a motive once somebody goes looking.

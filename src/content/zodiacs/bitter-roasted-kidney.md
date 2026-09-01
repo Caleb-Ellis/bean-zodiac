@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: bitter-roasted-kidney
 lastUpdated: 
 bean: kidney
@@ -13,8 +13,8 @@ creature: indian peafowl
 dish: Kidney beans roasted with ancho, coffee, and cacao.
 friendlyBeans: [mung, butter]
 friendlyForm: fermented
-antiTriple: sour-smoked-edamame
-antiBeans: [cannellini, navy]
+antiTriple: sour-smoked-black
+antiBeans: [edamame, fava]
 antiForm: dried
 seasonalFortune: "A season of ancho and coffee smoke: the bean carries its colour where everyone can see it."
 fortuneMost: Pride grows until it needs an audience to stand up.

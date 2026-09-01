@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: rerun script
 slug: sour-dried-cannellini
 lastUpdated: 
 bean: cannellini
@@ -14,8 +14,8 @@ dish: Dried cannellini with dried lemon peel and oregano.
 friendlyBeans: [edamame, black]
 friendlyForm: smoked
 antiTriple: umami-roasted-adzuki
-antiBeans: [pinto, butter]
-antiForm: fried
+antiBeans: [pinto, fava]
+antiForm: fermented
 seasonalFortune: "A season of dried peel and strict measures: the store admits nothing it cannot justify."
 fortuneMost: Standards that never bend get obeyed and hated.
 fortuneHigh: Hold the line on this one.

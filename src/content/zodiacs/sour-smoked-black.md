@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-smoked-black
 lastUpdated:
 bean: black
@@ -13,8 +13,8 @@ creature: lynx
 dish: Smoked black beans cured with lime and chipotle vinegar.
 friendlyBeans: [cannellini, navy]
 friendlyForm: dried
-antiTriple: sweet-roasted-chickpea
-antiBeans: [pinto, green]
+antiTriple: spicy-roasted-pinto
+antiBeans: [chickpea, kidney]
 antiForm: fried
 seasonalFortune: "A season of chipotle vinegar and long looking: the smoke reaches what the brine could not."
 fortuneMost: A lynx watches you long before you know it's there.

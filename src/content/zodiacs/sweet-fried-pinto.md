@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sweet-fried-pinto
 lastUpdated: 
 bean: pinto
@@ -13,8 +13,8 @@ creature: budgerigar
 dish: Pinto sopapilla fried and drizzled with honey.
 friendlyBeans: [adzuki, fava]
 friendlyForm: fermented
-antiTriple: spicy-dried-black
-antiBeans: [kidney, navy]
+antiTriple: umami-dried-black
+antiBeans: [kidney, butter]
 antiForm: boiled
 seasonalFortune: "A season of honey and split sopapillas — everything inside comes out at once, gladly."
 fortuneMost: Say all of it at once and none of it lands.

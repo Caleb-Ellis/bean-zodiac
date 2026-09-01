@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: bitter-smoked-adzuki
 lastUpdated: 
 bean: adzuki
@@ -13,9 +13,9 @@ creature: python
 dish: Smoked adzuki with black garlic and charred citrus.
 friendlyBeans: [black, mung]
 friendlyForm: roasted
-antiTriple: spicy-fried-edamame
-antiBeans: [kidney, pinto]
-antiForm: roasted
+antiTriple: sour-fried-kidney
+antiBeans: [pinto, fava]
+antiForm: boiled
 seasonalFortune: "A season of black garlic and charred citrus — the smoke says something understood only later."
 fortuneMost: Said gravely enough, everything sounds like a warning.
 fortuneHigh: Tell them what's coming.

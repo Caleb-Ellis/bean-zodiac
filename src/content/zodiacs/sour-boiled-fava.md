@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-boiled-fava
 lastUpdated: 
 bean: fava
@@ -11,10 +11,10 @@ inverse: unprincipled
 quote: Injustice anywhere is a threat to beans everywhere.
 creature: ibex
 dish: Fava boiled with green almond and verjuice.
-friendlyBeans: [pinto, green]
+friendlyBeans: [pinto, kidney]
 friendlyForm: fried
-antiTriple: bitter-smoked-cannellini
-antiBeans: [mung, butter]
+antiTriple: bitter-smoked-butter
+antiBeans: [black, mung]
 antiForm: fermented
 seasonalFortune: "A season of verjuice and green almond — the pot knows what is owed and collects it."
 fortuneMost: Being right about the principle costs somebody the favour.

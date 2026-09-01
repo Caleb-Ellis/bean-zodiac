@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-roasted-green
 lastUpdated: 
 bean: green
@@ -11,10 +11,10 @@ inverse: subdued
 quote: Nothing great in the world was ever achieved without beans!
 creature: sea lion
 dish: Blistered green beans with chimichurri and toasted almond.
-friendlyBeans: [chickpea, kidney]
+friendlyBeans: [kidney, chickpea]
 friendlyForm: fried
 antiTriple: umami-boiled-cannellini
-antiBeans: [butter, navy]
+antiBeans: [navy, mung]
 antiForm: dried
 seasonalFortune: "A season of toasted almond and rising noise; the blistering is loud and glad about it."
 fortuneMost: Full volume all the time leaves nowhere to go.

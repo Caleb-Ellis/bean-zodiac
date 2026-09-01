@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-fermented-kidney
 lastUpdated: 
 bean: kidney
@@ -11,10 +11,10 @@ inverse: untried
 quote: That which does not bean us makes us stronger.
 creature: boar
 dish: Kidney beans pickled with tamarind and mustard seed.
-friendlyBeans: [mung, pinto]
+friendlyBeans: [mung, navy]
 friendlyForm: boiled
 antiTriple: bitter-smoked-chickpea
-antiBeans: [adzuki, pinto]
+antiBeans: [adzuki, cannellini]
 antiForm: dried
 seasonalFortune: "A season of mustard seed and old scars — the brine has survived this exact winter before."
 fortuneMost: Come through enough of it and softness starts to look like weakness.

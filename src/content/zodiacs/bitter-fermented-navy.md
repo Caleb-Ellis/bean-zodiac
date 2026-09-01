@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: rerun script
 slug: bitter-fermented-navy
 lastUpdated: 
 bean: navy
@@ -13,8 +13,8 @@ creature: silverfish
 dish: Navy bean miso aged three years on barley koji.
 friendlyBeans: [black, mung]
 friendlyForm: dried
-antiTriple: spicy-roasted-chickpea
-antiBeans: [fava, green]
+antiTriple: spicy-fried-chickpea
+antiBeans: [fava, butter]
 antiForm: smoked
 seasonalFortune: "A season of three-year miso and closed doors. The barley koji keeps its own quiet library."
 fortuneMost: Read enough about it and the doing never starts.

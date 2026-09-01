@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sweet-roasted-green
 lastUpdated: 
 bean: green
@@ -11,11 +11,11 @@ inverse: deflated
 quote: Always look on the bright side of bean.
 creature: porpoise
 dish: Green beans roasted with maple and toasted hazelnut.
-friendlyBeans: [fava, edamame]
+friendlyBeans: [edamame, fava]
 friendlyForm: fried
-antiTriple: umami-boiled-mung
-antiBeans: [butter, navy]
-antiForm: smoked
+antiTriple: umami-boiled-butter
+antiBeans: [navy, kidney]
+antiForm: fermented
 seasonalFortune: "A season of maple and toasted hazelnut; the tray lifts whatever room it enters."
 fortuneMost: Bounce back too fast and nobody believes it landed.
 fortuneHigh: A porpoise rides the bow wave of a boat going somewhere else.

@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: umami-smoked-fava
 lastUpdated:
 bean: fava
@@ -11,10 +11,10 @@ inverse: civilised
 quote: In the beginning, there was bean.
 creature: dire wolf
 dish: Hickory-smoked fava with lardo.
-friendlyBeans: [green, kidney]
+friendlyBeans: [green, pinto]
 friendlyForm: fried
 antiTriple: sweet-boiled-navy
-antiBeans: [mung, chickpea]
+antiBeans: [chickpea, mung]
 antiForm: dried
 seasonalFortune: "A season of lardo and old fire — the smoke predates the kitchen it fills."
 fortuneMost: A dire wolf answers before manners get a word in.

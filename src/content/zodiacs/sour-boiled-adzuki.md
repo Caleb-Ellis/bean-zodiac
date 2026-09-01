@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-boiled-adzuki
 lastUpdated: 
 bean: adzuki
@@ -13,9 +13,9 @@ creature: flat-coated retriever
 dish: Adzuki simmered in umeboshi brine with shiso.
 friendlyBeans: [navy, butter]
 friendlyForm: roasted
-antiTriple: bitter-smoked-black
-antiBeans: [mung, fava]
-antiForm: fermented
+antiTriple: bitter-fermented-black
+antiBeans: [green, edamame]
+antiForm: smoked
 seasonalFortune: "A season of ume brine and plain thanks — the pot means every word it says."
 fortuneMost: Mean it too hard and people brace for the speech.
 fortuneHigh: Mean exactly what you say.

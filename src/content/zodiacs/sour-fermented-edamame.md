@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-fermented-edamame
 lastUpdated: 
 bean: edamame
@@ -11,10 +11,10 @@ inverse: trusting
 quote: The first bean principle is that you must not fool yourself — and you are the easiest bean to fool.
 creature: hooded crow
 dish: Edamame quick-pickled in rice vinegar with kombu.
-friendlyBeans: [green, fava]
-friendlyForm: smoked
-antiTriple: sweet-boiled-mung
-antiBeans: [adzuki, kidney]
+friendlyBeans: [fava, butter]
+friendlyForm: dried
+antiTriple: umami-boiled-mung
+antiBeans: [adzuki, chickpea]
 antiForm: fried
 seasonalFortune: "A season of kombu and rice vinegar: the jar believes nothing until the acid confirms it."
 fortuneMost: Test everything against the stone and the meal comes late.

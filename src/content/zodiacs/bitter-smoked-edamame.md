@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: bitter-smoked-edamame
 lastUpdated: 
 bean: edamame
@@ -11,11 +11,11 @@ inverse: voluble
 quote: Better to remain silent and be bean than to speak and to remove all doubt.
 creature: clam
 dish: Edamame smoked over cherry wood with matcha salt.
-friendlyBeans: [cannellini, fava]
+friendlyBeans: [black, cannellini]
 friendlyForm: dried
 antiTriple: sweet-roasted-pinto
-antiBeans: [adzuki, chickpea]
-antiForm: boiled
+antiBeans: [chickpea, kidney]
+antiForm: fried
 seasonalFortune: "A season of cherry wood and withheld salt — the pod keeps most of what it learned."
 fortuneMost: Hold enough back and people give up guessing.
 fortuneHigh: Keep what was told in confidence.

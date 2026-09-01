@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: umami-smoked-navy
 lastUpdated: 
 bean: navy
@@ -13,9 +13,9 @@ creature: aldabra tortoise
 dish: Hickory-smoked navy beans with salt pork.
 friendlyBeans: [cannellini, edamame]
 friendlyForm: dried
-antiTriple: spicy-fried-pinto
-antiBeans: [chickpea, fava]
-antiForm: roasted
+antiTriple: spicy-roasted-fava
+antiBeans: [chickpea, green]
+antiForm: fried
 seasonalFortune: "A season of salt pork and unchanged method: the smokehouse keeps a year without dates."
 fortuneMost: Unchanging enough and the invitations quietly stop.
 fortuneHigh: An aldabra tortoise outlives everyone who named it.

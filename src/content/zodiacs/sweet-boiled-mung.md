@@ -1,43 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: sweet-boiled-mung
 lastUpdated: 
 bean: mung
 flavour: sweet
 form: boiled
-trait: nurturing
-excess: overprotective
-inverse: depriving
-quote: It takes a village to raise a bean.
-creature: hen
+trait: receptive
+excess: needy
+inverse: self-sufficient
+quote: I have always depended on the kindness of beans.
+creature: sea sponge
 dish: Tau suan - mung beans simmered in pandan syrup.
-friendlyBeans: [butter, chickpea]
+friendlyBeans: [kidney, chickpea]
 friendlyForm: smoked
-antiTriple: spicy-fried-pinto
-antiBeans: [green, fava]
-antiForm: fermented
-seasonalFortune: "A season of pandan syrup and low flame: the pot feeds whoever arrives depleted."
-fortuneMost: Protect somebody enough and they never learn the ground.
-fortuneHigh: A hen puts the whole brood under her.
-fortuneMid: Looking after people is real work.
-fortuneLow: Nobody melts in the rain.
-fortuneLeast: Going without teaches quickly.
-facetMostTitle: Beangled
-facetMost: The lodger is twenty-four and has a job and a life of her own. There is a plate for her at seven whether she wants it or not.
-facetHighTitle: Call the Midbean
-facetHigh: A foal has come and is not up yet and the mare is fretting, and you are down on the straw with a towel doing the slow business of getting it dry.
-facetMidTitle: Tender Loving Beans
-facetMid: First morning at the new school and he has the bag and the shoes and does not want you at the gate. You walk him to the corner. You stop there, and you watch the rest of it from the corner.
-facetLowTitle: Hard Bean Times
-facetLow: Your son has run the sourdough into the ground three times now and is asking you what he is doing wrong, and you have the answer in about four words. You tell him it will come, and you go back to the paper.
-facetLeastTitle: Angela's Beans
-facetLeast: She has asked to go round the block on the bike on her own, and you say she will be fine and go back inside.
-question: Your nephew has moved into your spare room for a month while he finds work. What does the month look like?
-answerMost: meals at six, his washing done, and the job hunt run for him
-answerHigh: fed and warm, and asked on the Sunday how the week went
-answerMid: a meal when you're cooking anyway, and the room left alone
-answerLow: a key of his own
-answerLeast: a fortnight, and the fridge is his own problem
+antiTriple: spicy-roasted-green
+antiBeans: [edamame, black]
+antiForm: fried
+seasonalFortune: "A season of pandan syrup and slow heat — what goes into the pot hard comes out tasting of everything around it."
+fortuneMost: Enough hands under you and your own feet go soft.
+fortuneHigh: Let somebody look after you.
+fortuneMid: A sea sponge pulls the whole tide through itself and keeps what it can use.
+fortuneLow: You're allowed to say you've got it.
+fortuneLeast: Doing it yourself takes longer, and it's yours at the end.
+facetMostTitle: Help! I Need Somebean
+facetMost: You've been ten days at a silent retreat where somebody else decides when you eat, when you sit and when you sleep. On the last morning they hand back your phone and your wallet, and the man who runs it mentions that the next retreat starts tomorrow and already has a waiting list. You ask him for the first place on that list.
+facetMostAction: You ask him for the first place on that list.
+facetHighTitle: Let the Right Bean In
+facetHigh: Three days into a trip abroad your bag has gone with your passport and your money in it, and the embassy can't get papers to you before the end of the week. A couple you met at the hostel the night before offer to move their flights and stay on with you, which costs them the rest of their holiday and the change fee. You tell them to ring the airline.
+facetHighAction: You tell them to ring the airline.
+facetMidTitle: Save the Last Bean
+facetMid: You joined the swing dance class as a complete beginner and you've worked your way up into the intermediate group. At the break the teacher says your lead is pushing rather than guiding, and offers to take you back through the basics with the beginners' class for a few weeks. You go back down to the beginners.
+facetMidAction: You go back down to the beginners.
+facetLowTitle: Storage Beans
+facetLow: It's the first time you've had a table at the Sunday market, and the friend who got you the pitch has spent the setup hour telling you which end the buyers start at and what sells before noon. Ten minutes before the doors open she looks over your price cards and offers to reprice the whole table. You tell her you'll leave the prices as they are.
+facetLowAction: You tell her you'll leave the prices as they are.
+facetLeastTitle: Cinderella Bean
+facetLeast: You've had no work since the spring and the rent is covered to the end of the month and no further. You go in on a Thursday to ask about volunteering at the food pantry in the church hall on your street. The man running it works out where you are inside a minute, packs a box of tins and bread and puts it in your hands. You hand the box back and ask for a shift instead.
+facetLeastAction: You hand the box back and ask for a shift instead.
+question: You're a few hundred short of the studio time for your band's first record. Someone with a big following turns up at the back of your gig, says they've been sent a clip of you, and offers to post the whole thing to their audience with your payment link. You...
+answerMost: ask them to run the whole thing and hold the money
+answerHigh: give them the link and let them write the post
+answerMid: send the link with the words you want used
+answerLow: post it again yourself
+answerLeast: turn it down and save for it yourself
 rorschachMost: an umbrella over a pram
 rorschachHigh: a feeding bottle
 rorschachMid: a watering can
@@ -45,4 +50,4 @@ rorschachLow: a bare cupboard
 rorschachLeast: a locked biscuit tin
 ---
 
-Candied Mung Beans are the Bean Zodiac's most nurturing. Whoever is under their roof gets fed, warmed, and asked the right question at the right time. Sometimes the care keeps someone smaller than they need to be. Letting somebody struggle usefully is beyond them.
+Candied Mung Beans are the Bean Zodiac's most receptive. Lend them a book you loved and they come back with a question about it you can't answer. A decision they've already made still gets taken to somebody else first. Handling a bad week entirely on their own is not a thing they'd see the point of.

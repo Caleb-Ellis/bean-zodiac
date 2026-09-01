@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-roasted-edamame
 lastUpdated:
 bean: edamame
@@ -11,7 +11,7 @@ inverse: diffident
 quote: Whether you think you bean or you think you can't, you're right.
 creature: stallion
 dish: Edamame roasted in the pod with chilli salt and lime.
-friendlyBeans: [cannellini, navy]
+friendlyBeans: [cannellini, pinto]
 friendlyForm: fermented
 antiTriple: umami-smoked-mung
 antiBeans: [kidney, butter]

@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-smoked-chickpea
 lastUpdated:
 bean: chickpea
@@ -11,11 +11,11 @@ inverse: tone-deaf
 quote: The most important thing in communication is to hear what isn't being beaned.
 creature: brown bat
 dish: Smoked chickpeas cured with sumac and preserved lemon.
-friendlyBeans: [adzuki, mung]
+friendlyBeans: [mung, adzuki]
 friendlyForm: roasted
-antiTriple: spicy-fermented-navy
-antiBeans: [edamame, fava]
-antiForm: roasted
+antiTriple: spicy-fermented-edamame
+antiBeans: [pinto, fava]
+antiForm: dried
 seasonalFortune: "A season of sumac and read rooms: the smoke matches the mood before the mood declares itself."
 fortuneMost: Hear everything and none of it can be put down.
 fortuneHigh: A brown bat hears every moth in the barn.

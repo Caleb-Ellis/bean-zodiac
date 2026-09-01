@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: umami-smoked-pinto
 lastUpdated:
 bean: pinto
@@ -11,9 +11,9 @@ inverse: blank
 quote: Wherever you go, there you bean.
 creature: heron
 dish: Hickory-smoked pinto beans with pork shoulder.
-friendlyBeans: [adzuki, fava]
+friendlyBeans: [fava, black]
 friendlyForm: roasted
-antiTriple: sweet-fried-mung
+antiTriple: sweet-dried-mung
 antiBeans: [kidney, butter]
 antiForm: boiled
 seasonalFortune: "A season of pork shoulder and hanging haze — the evening acquires a mood nobody chose."

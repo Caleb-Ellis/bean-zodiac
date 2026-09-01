@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: rerun script
 slug: sour-dried-butter
 lastUpdated: 
 bean: butter
@@ -13,8 +13,8 @@ creature: house sparrow
 dish: Dried butter beans with sun-dried tomato and vinegar powder.
 friendlyBeans: [navy, black]
 friendlyForm: boiled
-antiTriple: bitter-fried-pinto
-antiBeans: [mung, green]
+antiTriple: spicy-roasted-pinto
+antiBeans: [green, chickpea]
 antiForm: smoked
 seasonalFortune: "A season of vinegar powder and bare shelves — the pantry offers exactly what it is."
 fortuneMost: Plain enough for long enough and nobody looks twice.

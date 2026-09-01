@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sweet-roasted-black
 lastUpdated: 
 bean: black
@@ -13,9 +13,9 @@ creature: sika deer
 dish: Black beans roasted in a honey-soy glaze.
 friendlyBeans: [adzuki, navy]
 friendlyForm: smoked
-antiTriple: sour-fried-mung
-antiBeans: [green, kidney]
-antiForm: dried
+antiTriple: spicy-fried-kidney
+antiBeans: [green, mung]
+antiForm: fermented
 seasonalFortune: "A season of honey-soy and good manners: the tray arrives correctly and thanks everyone."
 fortuneMost: Politeness laid on thick reads as a con.
 fortuneHigh: Thank the person nobody thanks.

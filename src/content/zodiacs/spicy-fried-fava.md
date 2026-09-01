@@ -12,9 +12,9 @@ creature: swordfish
 dish: Fava fried with harissa and coriander.
 friendlyBeans: [green, kidney]
 friendlyForm: fermented
-antiTriple: sweet-boiled-cannellini
-antiBeans: [black, mung]
-antiForm: dried
+antiTriple: sweet-roasted-mung
+antiBeans: [black, adzuki]
+antiForm: smoked
 seasonalFortune: "A season of harissa and no brakes — the bean meets the oil at speed."
 fortuneMost: A swordfish that swims only at full speed will spear something it didn't mean to.
 fortuneHigh: Sprint at full speed!

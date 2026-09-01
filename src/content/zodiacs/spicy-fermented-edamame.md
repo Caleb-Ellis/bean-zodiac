@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-fermented-edamame
 lastUpdated: 
 bean: edamame
@@ -11,11 +11,11 @@ inverse: imitative
 quote: I'm a great bean believer in luck, and I find the harder I work, the more I have of it.
 creature: kea
 dish: Edamame kimchi with gochugaru and fish sauce.
-friendlyBeans: [fava, black]
+friendlyBeans: [fava, pinto]
 friendlyForm: smoked
-antiTriple: sweet-boiled-mung
+antiTriple: umami-dried-mung
 antiBeans: [chickpea, navy]
-antiForm: dried
+antiForm: boiled
 seasonalFortune: "A season of gochugaru and new machinery: the kimchi solves something nobody had bothered solving."
 fortuneMost: Four elegant solutions and the plain job still in pieces.
 fortuneHigh: A kea takes a car apart to see how it's made.

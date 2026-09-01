@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sweet-fermented-cannellini
 lastUpdated:
 bean: cannellini
@@ -11,8 +11,8 @@ inverse: gauche
 quote: Let us never negotiate out of bean. But let us never fear to negotiate.
 creature: ringdove
 dish: Cannellini fermented with honey into sweet white miso.
-friendlyBeans: [edamame, black]
-friendlyForm: dried
+friendlyBeans: [black, edamame]
+friendlyForm: smoked
 antiTriple: spicy-roasted-adzuki
 antiBeans: [chickpea, kidney]
 antiForm: fried

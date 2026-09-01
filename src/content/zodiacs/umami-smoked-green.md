@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: umami-smoked-green
 lastUpdated:
 bean: green
@@ -13,9 +13,9 @@ creature: fawn
 dish: Hickory-smoked green beans with bacon and onion.
 friendlyBeans: [fava, kidney]
 friendlyForm: fried
-antiTriple: sour-boiled-butter
-antiBeans: [navy, cannellini]
-antiForm: roasted
+antiTriple: bitter-boiled-butter
+antiBeans: [navy, pinto]
+antiForm: dried
 seasonalFortune: "A season of bacon and onion; something is starting here that has not finished starting."
 fortuneMost: Wait to be ready and the season passes.
 fortuneHigh: A fawn stands within the hour and follows.

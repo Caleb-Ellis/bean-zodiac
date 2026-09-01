@@ -10,9 +10,9 @@ inverse: tight-lipped
 quote: Do I contradict myself? Very well then, I contain beans.
 creature: blue whale
 dish: Pinto beans roasted in lard with epazote.
-friendlyBeans: [adzuki, green]
+friendlyBeans: [fava, green]
 friendlyForm: fermented
-antiTriple: sweet-dried-cannellini
+antiTriple: sweet-dried-kidney
 antiBeans: [black, navy]
 antiForm: smoked
 seasonalFortune: "A season of lard and epazote — the flavour spreads further than the pan explains."

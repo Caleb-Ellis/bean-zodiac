@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: rerun script
 slug: umami-dried-adzuki
 lastUpdated:
 bean: adzuki
@@ -13,8 +13,8 @@ creature: sacred ibis
 dish: Aged dried adzuki with dried scallop and soy.
 friendlyBeans: [navy, black]
 friendlyForm: boiled
-antiTriple: spicy-fermented-mung
-antiBeans: [kidney, butter]
+antiTriple: spicy-roasted-pinto
+antiBeans: [kidney, fava]
 antiForm: fried
 seasonalFortune: "A season of dried scallop and old soy — the pantry keeps things it will not open."
 fortuneMost: Sacred ibises were mummified by the million.

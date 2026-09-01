@@ -12,9 +12,9 @@ creature: aye-aye
 dish: Green beans smoked over hay with juniper.
 friendlyBeans: [fava, kidney]
 friendlyForm: fried
-antiTriple: umami-boiled-butter
-antiBeans: [navy, cannellini]
-antiForm: dried
+antiTriple: umami-boiled-navy
+antiBeans: [butter, cannellini]
+antiForm: roasted
 seasonalFortune: "A season of hay smoke and juniper — the bean tastes like a field that isn't there."
 fortuneMost: It has awoken, and it is hungry...
 fortuneHigh: Trust the hunch you cannot make sense of.

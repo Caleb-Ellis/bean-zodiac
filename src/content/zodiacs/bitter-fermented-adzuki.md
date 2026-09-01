@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: bitter-fermented-adzuki
 lastUpdated: 
 bean: adzuki
@@ -13,7 +13,7 @@ creature: pack rat
 dish: Adzuki koji paste aged with dried orange peel.
 friendlyBeans: [pinto, green]
 friendlyForm: roasted
-antiTriple: sour-dried-navy
+antiTriple: sweet-fried-chickpea
 antiBeans: [edamame, cannellini]
 antiForm: boiled
 seasonalFortune: "A season of old crocks and kept dates — the paste remembers a calendar the kitchen abandoned."

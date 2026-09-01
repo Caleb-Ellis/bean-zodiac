@@ -10,7 +10,7 @@ inverse: reluctant
 quote: The world is charged with the grandeur of the bean.
 creature: brown bear
 dish: Butter beans fried with Calabrian chilli and breadcrumb.
-friendlyBeans: [mung, adzuki]
+friendlyBeans: [fava, adzuki]
 friendlyForm: roasted
 antiTriple: bitter-fermented-black
 antiBeans: [cannellini, navy]

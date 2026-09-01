@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-dried-kidney
 lastUpdated:
 bean: kidney
@@ -11,11 +11,11 @@ inverse: unready
 quote: Anger is an acid that can do more harm to the bean in which it is stored than to anything on which it is poured.
 creature: cobra
 dish: Dried kidney beans with dried chipotle and cumin.
-friendlyBeans: [mung, green]
+friendlyBeans: [mung, chickpea]
 friendlyForm: boiled
 antiTriple: sour-smoked-pinto
-antiBeans: [adzuki, butter]
-antiForm: fermented
+antiBeans: [fava, butter]
+antiForm: roasted
 seasonalFortune: "A season of dried chipotle and cocked triggers — the pantry waits, loaded, for a reason."
 fortuneMost: Stay ready for long enough and the readiness becomes the strain.
 fortuneHigh: A cobra rises before it has decided anything.

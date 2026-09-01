@@ -12,9 +12,9 @@ creature: octopus
 dish: Chickpeas simmered in dashi with soy and ginger.
 friendlyBeans: [mung, adzuki]
 friendlyForm: smoked
-antiTriple: sweet-fermented-fava
-antiBeans: [green, cannellini]
-antiForm: fried
+antiTriple: sweet-fermented-edamame
+antiBeans: [green, navy]
+antiForm: dried
 seasonalFortune: "A season of ginger and soy — the stock takes the shape of whichever bowl."
 fortuneMost: A strange place is coming, somewhere you can't read the signs.
 fortuneHigh: Listen to the rhythm and dance to it.

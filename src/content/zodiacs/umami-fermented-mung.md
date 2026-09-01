@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: umami-fermented-mung
 lastUpdated: 
 bean: mung
@@ -11,11 +11,11 @@ inverse: unlyrical
 quote: A bean should be more careful of his learning than of the pebble in his shoe.
 creature: nightingale
 dish: Mung miso with ginger and shiso.
-friendlyBeans: [kidney, chickpea]
-friendlyForm: roasted
-antiTriple: sour-dried-edamame
-antiBeans: [navy, fava]
-antiForm: smoked
+friendlyBeans: [kidney, butter]
+friendlyForm: smoked
+antiTriple: sour-dried-fava
+antiBeans: [navy, black]
+antiForm: boiled
 seasonalFortune: "A season of ginger and shiso: the miso says it beautifully or not at all."
 fortuneMost: Beautiful enough and nobody can tell what was meant.
 fortuneHigh: A nightingale sings all night to an empty wood.

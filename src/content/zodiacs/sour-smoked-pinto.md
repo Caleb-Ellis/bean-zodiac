@@ -1,19 +1,19 @@
 ---
 slug: sour-smoked-pinto
-lastUpdated: 2026-08-07
+lastUpdated: 2026-09-01
 bean: pinto
 flavour: sour
 form: smoked
-trait: allusive
+trait: figurative
 excess: riddling
 inverse: unambiguous
 quote: Tell all the truth but tell it beaned.
 creature: firefly
 dish: Smoked pinto beans cured with lime over pecan.
-friendlyBeans: [fava, adzuki]
-friendlyForm: fermented
-antiTriple: sweet-dried-kidney
-antiBeans: [butter, mung]
+friendlyBeans: [fava, butter]
+friendlyForm: roasted
+antiTriple: spicy-fried-chickpea
+antiBeans: [kidney, edamame]
 antiForm: boiled
 seasonalFortune: "A season of pecan smoke and half-said things — the flavour hints, and the hint lands later."
 fortuneMost: Say it well enough and nobody will know you said it.
@@ -49,4 +49,4 @@ rorschachLow: an island
 rorschachLeast: a megaphone
 ---
 
-Cured Pinto Beans are the Bean Zodiac's most allusive. They answer the question with a half-remembered film and it lands more precisely than a plain answer would have. Sometimes only they know what was meant. Stating a thing outright would feel like turning the lights on.
+Cured Pinto Beans are the Bean Zodiac's most figurative. They answer the question with a half-remembered film and it lands more precisely than a plain answer would have. Sometimes only they know what was meant. Stating a thing outright would feel like turning the lights on.

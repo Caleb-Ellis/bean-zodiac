@@ -10,11 +10,11 @@ inverse: sloppy
 quote: For every bean, there is a season, and a proper form.
 creature: satin bowerbird
 dish: Fagioli al limone con capperi - cannellini pan-fried with capers and lemon zest.
-friendlyBeans: [edamame, mung]
+friendlyBeans: [navy, edamame]
 friendlyForm: dried
-antiTriple: umami-fermented-adzuki
-antiBeans: [butter, pinto]
-antiForm: smoked
+antiTriple: umami-fermented-butter
+antiBeans: [black, adzuki]
+antiForm: roasted
 seasonalFortune: "A season of caper and lemon zest — every element placed, and the placing takes the season."
 fortuneMost: One crooked twig ruins the satin bowerbird's nest.
 fortuneHigh: Wipe the rim before you hand it over.

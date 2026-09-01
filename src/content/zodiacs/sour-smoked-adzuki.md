@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-smoked-adzuki
 lastUpdated: 
 bean: adzuki
@@ -12,10 +12,10 @@ quote: Beware the bean of March.
 creature: grey parrot
 dish: Cured adzuki smoked over cherry wood with ume.
 friendlyBeans: [black, mung]
-friendlyForm: fermented
-antiTriple: sweet-roasted-kidney
-antiBeans: [edamame, navy]
-antiForm: fried
+friendlyForm: roasted
+antiTriple: spicy-fried-kidney
+antiBeans: [fava, navy]
+antiForm: boiled
 seasonalFortune: "A season of cherry smoke and ume — the cure knew before the kitchen was told."
 fortuneMost: A hint dropped often enough is just a threat.
 fortuneHigh: A grey parrot repeats the row it heard through the wall.

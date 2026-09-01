@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-roasted-kidney
 lastUpdated:
 bean: kidney
@@ -11,11 +11,11 @@ inverse: unexpressive
 quote: The bean is not a logical faculty; it is a faculty of what it wants.
 creature: gibbon
 dish: Kidney beans roasted with hot smoked paprika and garlic.
-friendlyBeans: [mung, chickpea]
+friendlyBeans: [butter, mung]
 friendlyForm: boiled
-antiTriple: sour-fried-black
+antiTriple: bitter-dried-black
 antiBeans: [edamame, green]
-antiForm: dried
+antiForm: fried
 seasonalFortune: "A season of hot smoked paprika and full feeling — the roast is never merely warm."
 fortuneMost: Feel it that loudly and people brace instead of listening.
 fortuneHigh: A gibbon calls across the valley and the whole forest answers.

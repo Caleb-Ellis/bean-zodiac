@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sweet-smoked-navy
 lastUpdated:
 bean: navy
@@ -11,11 +11,11 @@ inverse: vanishing
 quote: Some beans linger.
 creature: alley cat
 dish: Smoked baked navy beans with molasses and brown sugar.
-friendlyBeans: [cannellini, black]
+friendlyBeans: [cannellini, edamame]
 friendlyForm: dried
-antiTriple: spicy-roasted-green
-antiBeans: [pinto, chickpea]
-antiForm: fried
+antiTriple: bitter-fried-green
+antiBeans: [chickpea, mung]
+antiForm: roasted
 seasonalFortune: "A season of molasses and low heat — the smell stays in the house for weeks."
 fortuneMost: Stay too long and the welcome turns into waiting.
 fortuneHigh: An alley cat comes back to the door it was once fed at.

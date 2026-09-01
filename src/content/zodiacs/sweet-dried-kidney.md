@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: rerun script
 slug: sweet-dried-kidney
 lastUpdated:
 bean: kidney
@@ -11,7 +11,7 @@ inverse: unloving
 quote: The course of true love never did bean smooth.
 creature: lovebird
 dish: Kidney bean dried with palm sugar.
-friendlyBeans: [butter, mung]
+friendlyBeans: [mung, chickpea]
 friendlyForm: boiled
 antiTriple: sour-smoked-fava
 antiBeans: [pinto, edamame]

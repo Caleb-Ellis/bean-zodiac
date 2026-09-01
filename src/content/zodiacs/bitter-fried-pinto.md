@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: bitter-fried-pinto
 lastUpdated:
 bean: pinto
@@ -13,8 +13,8 @@ creature: starling
 dish: Refried pinto beans caught dark in the pan with chile negro.
 friendlyBeans: [adzuki, fava]
 friendlyForm: roasted
-antiTriple: sweet-dried-cannellini
-antiBeans: [mung, navy]
+antiTriple: sweet-dried-navy
+antiBeans: [mung, cannellini]
 antiForm: boiled
 seasonalFortune: "A season of chile negro and sharp mimicry — the refry mocks the dish it came from."
 fortuneMost: Mock everything and nothing is left worth defending.

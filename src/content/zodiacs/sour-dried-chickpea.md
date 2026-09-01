@@ -1,17 +1,17 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-dried-chickpea
 lastUpdated: 
 bean: chickpea
 flavour: sour
 form: dried
 trait: wry
-excess: arch
+excess: snide
 inverse: unamused
 quote: History doesn't repeat itself, but it does bean.
 creature: western jackdaw
 dish: Dried chickpeas with anardana and pomegranate powder.
-friendlyBeans: [green, adzuki]
+friendlyBeans: [adzuki, pinto]
 friendlyForm: roasted
 antiTriple: bitter-fermented-mung
 antiBeans: [kidney, butter]

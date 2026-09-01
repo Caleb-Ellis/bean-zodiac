@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-dried-adzuki
 lastUpdated: 
 bean: adzuki
@@ -13,8 +13,8 @@ creature: lemon tetra
 dish: Dried adzuki with dehydrated ume and shiso salt.
 friendlyBeans: [edamame, black]
 friendlyForm: smoked
-antiTriple: bitter-fermented-mung
-antiBeans: [kidney, chickpea]
+antiTriple: umami-fried-mung
+antiBeans: [kidney, butter]
 antiForm: boiled
 seasonalFortune: "A season of dried ume and sharp weather — the sweetness arrives late and armed."
 fortuneMost: Sharp answers get remembered longer than the point they made.

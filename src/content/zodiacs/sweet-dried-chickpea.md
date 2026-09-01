@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sweet-dried-chickpea
 lastUpdated:
 bean: chickpea
@@ -13,9 +13,9 @@ creature: shetland pony
 dish: Sugar-panned chickpeas with cardamom.
 friendlyBeans: [adzuki, mung]
 friendlyForm: boiled
-antiTriple: bitter-fermented-pinto
-antiBeans: [black, fava]
-antiForm: smoked
+antiTriple: sour-fermented-pinto
+antiBeans: [fava, kidney]
+antiForm: roasted
 seasonalFortune: "A season of cardamom sugar and plain goodness — nothing here needs explaining to anyone's mother."
 fortuneMost: A shetland pony is safe with anybody's children and gets ridden nowhere.
 fortuneHigh: Keep it clean and they'll ask you to speak.

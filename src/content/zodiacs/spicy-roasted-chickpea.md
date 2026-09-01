@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-roasted-chickpea
 lastUpdated:
 bean: chickpea
@@ -13,9 +13,9 @@ creature: parakeet
 dish: Peri-peri chickpeas roasted crisp with lemon and paprika.
 friendlyBeans: [butter, adzuki]
 friendlyForm: fried
-antiTriple: bitter-dried-edamame
-antiBeans: [cannellini, black]
-antiForm: fermented
+antiTriple: sour-fermented-edamame
+antiBeans: [black, cannellini]
+antiForm: smoked
 seasonalFortune: "A season of lemon and paprika: the tray goes round and nobody is left out."
 fortuneMost: Fill every hour with people and there's nobody to be quiet with.
 fortuneHigh: A parakeet is never the only one talking and never minds.

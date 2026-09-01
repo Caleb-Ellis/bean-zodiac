@@ -10,10 +10,10 @@ inverse: weighty
 quote: A day without beans is like a day without sunshine, so bring extra beans.
 creature: finch
 dish: Butter beans roasted with maple and rosemary.
-friendlyBeans: [pinto, mung]
+friendlyBeans: [pinto, adzuki]
 friendlyForm: fried
-antiTriple: spicy-smoked-cannellini
-antiBeans: [black, fava]
+antiTriple: sour-smoked-cannellini
+antiBeans: [black, kidney]
 antiForm: dried
 seasonalFortune: "A season of maple and rosemary — the oven takes nothing about this evening seriously."
 fortuneMost: A finch gets into the hall, and nobody truly wants it caught.

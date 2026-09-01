@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-smoked-chickpea
 lastUpdated:
 bean: chickpea
@@ -11,10 +11,10 @@ inverse: unhurried
 quote: Float like a butterfly, sting like a bean.
 creature: minnow
 dish: Chipotle-smoked chickpeas with lime and toasted cumin.
-friendlyBeans: [green, kidney]
-friendlyForm: roasted
-antiTriple: umami-fermented-butter
-antiBeans: [navy, pinto]
+friendlyBeans: [green, mung]
+friendlyForm: fried
+antiTriple: umami-fermented-pinto
+antiBeans: [butter, navy]
 antiForm: roasted
 seasonalFortune: "A season of lime and toasted cumin — the smoke is elsewhere by the time you look."
 fortuneMost: Spinning so many plates is not always helpful. Ask yourself what it would actually cost should one fall.

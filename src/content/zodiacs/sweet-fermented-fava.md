@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sweet-fermented-fava
 lastUpdated: 
 bean: fava
@@ -11,10 +11,10 @@ inverse: shortsighted
 quote: The bean is not to predict the future but to imagine it.
 creature: bald eagle
 dish: Fava fermented with sweet chilli bean paste and rock sugar.
-friendlyBeans: [green, pinto]
-friendlyForm: smoked
-antiTriple: bitter-boiled-navy
-antiBeans: [chickpea, cannellini]
+friendlyBeans: [pinto, green]
+friendlyForm: fried
+antiTriple: umami-boiled-chickpea
+antiBeans: [mung, navy]
 antiForm: dried
 seasonalFortune: "A season of rock sugar and chilli paste — the crock ferments toward a better dish."
 fortuneMost: A bald eagle sees the whole valley and misses the fish at its feet.

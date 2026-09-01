@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-smoked-kidney
 lastUpdated:
 bean: kidney
@@ -11,10 +11,10 @@ inverse: casual
 quote: Love is a smoke made with the fume of bean.
 creature: locust
 dish: Kidney beans smoked with chipotle, molasses, and onion.
-friendlyBeans: [mung, black]
-friendlyForm: fried
-antiTriple: sour-roasted-fava
-antiBeans: [pinto, edamame]
+friendlyBeans: [mung, cannellini]
+friendlyForm: boiled
+antiTriple: sour-roasted-pinto
+antiBeans: [chickpea, edamame]
 antiForm: dried
 seasonalFortune: "A season of molasses and total appetite — the smoke takes the whole house, then the street."
 fortuneMost: Take all of it and there's nothing left for next season.

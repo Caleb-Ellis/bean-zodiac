@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: bitter-roasted-pinto
 lastUpdated: 
 bean: pinto
@@ -13,9 +13,9 @@ creature: bird of paradise
 dish: Pinto beans roasted in the coals with charred spring onion and lime.
 friendlyBeans: [chickpea, adzuki]
 friendlyForm: smoked
-antiTriple: sweet-boiled-navy
-antiBeans: [kidney, edamame]
-antiForm: dried
+antiTriple: sweet-dried-edamame
+antiBeans: [navy, black]
+antiForm: boiled
 seasonalFortune: "A season of charred spring onion and worn markings — the coals make a costume of the skin."
 fortuneMost: Style laid on that thick hides whoever is wearing it.
 fortuneHigh: A bird of paradise clears a stage in the leaf litter and dances on it.

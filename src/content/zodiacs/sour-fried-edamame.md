@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-fried-edamame
 lastUpdated: 
 bean: edamame
@@ -13,9 +13,9 @@ creature: ox
 dish: Edamame stir-fried with black vinegar and chilli.
 friendlyBeans: [fava, pinto]
 friendlyForm: fermented
-antiTriple: sweet-smoked-kidney
-antiBeans: [black, mung]
-antiForm: fermented
+antiTriple: sweet-smoked-black
+antiBeans: [kidney, mung]
+antiForm: boiled
 seasonalFortune: "A season of black vinegar and no cushioning — the pan says it and moves on."
 fortuneMost: The whole truth is more than most people can take at once.
 fortuneHigh: Straight through, and stop when the row ends.

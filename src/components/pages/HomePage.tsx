@@ -12,8 +12,17 @@ interface Props {
   showQuote?: boolean;
 }
 
-export default function HomePage({ data, showContent, showFortune, showQuote }: Props) {
-  const [date] = useState(() => new Date());
+export default function HomePage({
+  data,
+  showContent,
+  showFortune,
+  showQuote,
+}: Props) {
+  const [date] = useState(() => {
+    const d = new Date();
+    d.setDate(d.getDate());
+    return d;
+  });
   const [claimedSlug] = useState<ZodiacId | null>(
     () => useStore.getState().claimed?.id ?? null,
   );

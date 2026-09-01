@@ -10,11 +10,11 @@ inverse: fragile
 quote: It does not matter how slowly you go as long as you do not bean.
 creature: warthog
 dish: Black beans braised with chipotle and toasted cumin.
-friendlyBeans: [navy, mung]
+friendlyBeans: [mung, kidney]
 friendlyForm: smoked
 antiTriple: sour-roasted-pinto
-antiBeans: [cannellini, green]
-antiForm: smoked
+antiBeans: [chickpea, green]
+antiForm: fried
 seasonalFortune: "A season of chipotle and slow grinding: the pot outlasts the fuel it was given."
 fortuneMost: A bean can get used to anything, even things that do it harm.
 fortuneHigh: The warthog will eventually run toward what chases it.

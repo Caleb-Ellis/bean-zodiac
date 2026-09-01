@@ -1,43 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: sour-dried-edamame
 lastUpdated: 
 bean: edamame
 flavour: sour
 form: dried
-trait: pointed
-excess: barbed
-inverse: vague
-quote: The pen is mightier than the bean.
-creature: stingray
+trait: unsentimental
+excess: mercenary
+inverse: attached
+quote: It's not personal, Sonny. It's strictly beans.
+creature: hermit crab
 dish: Dried edamame with yuzu peel and salt.
-friendlyBeans: [fava, cannellini]
+friendlyBeans: [cannellini, fava]
 friendlyForm: fermented
-antiTriple: umami-boiled-kidney
-antiBeans: [mung, adzuki]
+antiTriple: umami-boiled-adzuki
+antiBeans: [pinto, chickpea]
 antiForm: roasted
-seasonalFortune: "A season of dried yuzu and short remarks: the salt lands where it was aimed."
-fortuneMost: A small wound outlives the point it was making.
-fortuneHigh: Aim at the thing, not the person holding it.
-fortuneMid: A stingray lies flat and lets the water pass over.
-fortuneLow: Go round to it instead of straight at it.
-fortuneLeast: Vague and kind gets somebody through the week.
-facetMostTitle: Mean Beans
-facetMost: The reference has to be honest and it is. You write that he was punctual. You write that he was popular with the team and never once off sick. You write nothing at all about the work, and anybody who reads references will read that.
-facetHighTitle: Point Bean
-facetHigh: The toast is going well and you land the line about his first marriage, which gets the laugh from the room and also gets exactly where you had aimed it.
-facetMidTitle: Straight to the Bean
-facetMid: Given a school report to write for a boy who has done nothing whatever all year, you use a single sentence, and that sentence does the whole job.
-facetLowTitle: Bean Fog
-facetLow: The leaving card comes round and there is half a page still empty. You put your name and best wishes and pass it on.
-facetLeastTitle: Cloud Cuckoo Bean
-facetLeast: Somebody asks straight out what you thought of the meeting. You call it interesting, allow that some good points were made, and observe that there is a lot to think about. You could not name one of them under oath.
-question: A colleague is telling the table he'll have the app finished by Christmas. Nobody has asked who pays for the servers. You...
-answerMost: "put it to him in front of them: has he priced the servers"
-answerHigh: ask who pays for the servers
-answerMid: catch him afterwards and ask what the servers cost
-answerLow: grant that the app is worth doing
-answerLeast: tell him it sounds like a good idea
+seasonalFortune: "A season of yuzu peel and salt — the water goes, the flavour stays, and nothing is kept for the sake of keeping it."
+fortuneMost: A good price is poor company.
+fortuneHigh: Get rid of it. It's only a thing.
+fortuneMid: The hermit crab leaves its shell the moment a better one turns up.
+fortuneLow: Some things are only worth something to you.
+fortuneLeast: Keep everything. You never know.
+facetMostTitle: Cash in the Beantic
+facetMost: Your friend's mother is moving into a smaller place and has told the two of you to take anything you want out of the boxes going to the charity shop. Under the tablecloths is a camera worth about a month's rent. You sell the camera in town and keep what it went for.
+facetMostAction: You sell the camera in town and keep what it went for.
+facetHighTitle: Any Given Beanday
+facetHigh: The Sunday team you helped start is borrowing players every week to get eleven out, and losing heavily. Next season's fees are due and last year's kit is still unpaid. After the last game everyone in the changing room is talking about who they can sign. You say the club should fold, and ask for a show of hands.
+facetHighAction: You say the club should fold, and ask for a show of hands.
+facetMidTitle: Changing Beans
+facetMid: The flat you've just moved into has a mural of the seafront down the length of the hallway. The man across the landing tells you the woman before you painted it over a summer, and that people used to knock to see it. You buy the paint and cover the mural.
+facetMidAction: You buy the paint and cover the mural.
+facetLowTitle: My Best Friend's Beanding
+facetLow: The night before your friend's wedding her mother has the seating plan out on the floor, everyone's name on a sticky label. You're on a table with your friend's colleagues, who you liked when you met them. The people you shared a house with at nineteen are on the far table, and you've little in common with them now. You move your label to the far table.
+facetLowAction: You move your label to the far table.
+facetLeastTitle: Wish You Were Bean
+facetLeast: The guesthouse you go back to with your partner every summer has changed hands — new paint in your room, and the dining room is a lounge now. Over breakfast your partner shows you a place along the coast with a balcony, the same money, for next year. You go down and book the same room again.
+facetLeastAction: You go down and book the same room again.
+question: You and your partner are moving into a flat smaller than either of yours and the van comes on Saturday. Between you there are two sofas, two kitchen tables, and the armchair you've had since you were eighteen. You...
+answerMost: sell the armchair and put the money towards a new sofa
+answerHigh: put both sofas out for collection
+answerMid: take one of the kitchen tables to the recycling centre
+answerLow: measure up to see if the armchair fits
+answerLeast: keep both sofas, both tables and the armchair
 rorschachMost: a fishhook
 rorschachHigh: a dart
 rorschachMid: a spade blade
@@ -45,4 +50,4 @@ rorschachLow: a blunt pencil
 rorschachLeast: a puddle
 ---
 
-Dehydrated Edamame are the Bean Zodiac's most pointed. One question, aimed exactly where the plan is weakest, and the answer decides the meeting. The aim occasionally draws blood nobody needed spilt. Circling a problem gently for ten minutes is time they won't spend.
+Dehydrated Edamame are the Bean Zodiac's most unsentimental. A friend in pieces over a lost necklace gets a hug and then the number for the insurance. Sometimes they'll take the better offer from somebody who was counting on them. Hanging onto a thing for the sake of who gave it is a comfort they don't get.

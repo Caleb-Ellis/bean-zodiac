@@ -10,11 +10,11 @@ inverse: careless
 quote: Measure twice, bean once.
 creature: deer
 dish: Mung dal boiled with neem leaf and turmeric.
-friendlyBeans: [kidney, chickpea]
+friendlyBeans: [cannellini, kidney]
 friendlyForm: smoked
-antiTriple: sour-fried-fava
-antiBeans: [green, edamame]
-antiForm: roasted
+antiTriple: spicy-roasted-fava
+antiBeans: [edamame, adzuki]
+antiForm: fried
 seasonalFortune: "A season of neem and slow skimming: the pot removes what harms before it adds what heals."
 fortuneMost: A deer stops dead at a sound that turns out to be nothing.
 fortuneHigh: You can't be too careful with this one.

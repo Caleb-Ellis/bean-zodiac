@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-dried-black
 lastUpdated: 
 bean: black
@@ -11,10 +11,10 @@ inverse: spilling
 quote: Where there's smoke, there's bean.
 creature: pufferfish
 dish: Dry-fried black beans with facing-heaven chillies.
-friendlyBeans: [edamame, navy]
+friendlyBeans: [navy, edamame]
 friendlyForm: boiled
 antiTriple: sour-roasted-pinto
-antiBeans: [chickpea, green]
+antiBeans: [chickpea, mung]
 antiForm: fried
 seasonalFortune: "A season of facing-heaven chillies and shut lids: the heat waits, dry and undiminished."
 fortuneMost: A pufferfish swells to twice its size when cornered.

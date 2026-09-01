@@ -1,8 +1,4 @@
-import {
-  getZodiacMetadataForDate,
-  type QualityId,
-  type ZodiacId,
-} from "./zodiac";
+import { getZodiacMetadataForDate, type ZodiacId } from "./zodiac";
 import {
   computeSpiritBeanScores,
   SPIRIT_BEAN_RING,
@@ -25,8 +21,8 @@ export type SeasonSummary = {
 };
 
 // Entry-count thresholds that decide how rich the recap is. Below LOW it's a
-// single flavourless line; below FULL a single observation; at/above FULL the
-// whole spread.
+// single flavourless line; below FULL the largest ring movement plus the
+// open/closed lean; at/above FULL the whole spread.
 const SEASON_LOW_ENTRIES = 7;
 const SEASON_FULL_ENTRIES = 14;
 
@@ -85,264 +81,347 @@ type Rng = () => number;
 const pick = <T>(rng: Rng, arr: readonly T[]): T =>
   arr[Math.floor(rng() * arr.length)]!;
 
-// Fortune tiers appear at different rates (see qualityFromSlot in lib/fortune:
-// heirloom 1, market 2, garden 3, stale 2, rotten 1 of 9), so a rarer tier
-// carries more signal when it recurs. Weight = inverse of that frequency,
-// scaled by 2 to stay integral. Only the ratios matter downstream.
-const TIER_WEIGHT: Record<QualityId, number> = {
-  heirloom: 18,
-  market: 9,
-  garden: 6,
-  stale: 9,
-  rotten: 18,
-};
-
 // --- Copy pools (pick one at random; snapshotted onto the summary) ---
 
-// Spirit drift is keyed to the specific attribute (flavour/form/bean) that moved
-// most — each id gets its own self-contained lines, evoking that
-// attribute's trait cluster as a vibe/feeling (never naming the bean/flavour/form
-// itself). TOWARD = the attribute that rose most; AWAY = the one that receded
-// most. ids are unique across all three rings, so one flat map per direction.
+// Spirit drift is keyed to the attribute that moved most in each ring. Each id
+// gets its own self-contained lines, evoking its traits as a loose,
+// horoscope-ish feeling (never naming the bean/flavour/form itself). Every ring
+// speaks in its own shape so the three lines never echo one another: a flavour
+// is the mood of the season in you, a form is what the season did to you, a
+// bean is who you were to other people. TOWARD = the attribute that rose most;
+// AWAY = the one that receded most. ids are unique across all three rings, so
+// one flat map per direction.
 const DRIFT_TOWARD_BY_ID: Record<string, readonly string[]> = {
   // Flavours
   bitter: [
-    "You grew harder to please, and quietly proud of it.",
-    "A cool, discerning eye settled over you; nothing passed unexamined.",
-    "You developed a taste for the complicated, and little patience for the simple.",
+    "A drier humour came over you, amused by more and impressed by less.",
+    "Your tastes turned particular, and the obvious lost its charm.",
+    "A cool clarity came in with the season, not always kind but rarely fooled.",
+    "A wry mood kept you company, and little slipped past it.",
+    "A certain coolness crept into your moods, and you didn't mind it.",
   ],
   sour: [
-    "A sharp clarity took you; you cut to the honest truth of things.",
-    "You grew precise and unsparing, unwilling to sweeten what needed saying.",
-    "Everything came into focus, edged and lively, and you said what you meant.",
+    "An honest, bracing mood came over you, and things got said.",
+    "The fog lifted this season, and much that was muddled came clear.",
+    "A spirited edge crept into your voice, and not everyone thanked you for it.",
+    "A candid mood ran through the season, with little patience for pretence.",
+    "Your moods turned brisk and a little tart, and truth came easier than tact.",
   ],
   spicy: [
-    "A heat rose in you that no room could politely overlook.",
-    "You lived at full pitch, vivid and immediate and impossible to half-attend.",
-    "The heat burned the hesitation out of you, and you moved while it was still hot.",
+    "A fire ran through your season, and everything burned a little brighter.",
+    "Everything felt urgent and bright, and you felt it all at full strength.",
+    "A fervent mood swept you along, sometimes further than you meant to go.",
+    "Your feelings ran hot this season, quick to flare and slow to fade.",
+    "An intensity came over you that was thrilling, and sometimes too much.",
   ],
   sweet: [
-    "An easy joy settled over you, generous and unhurried.",
-    "You gave freely and worried little, and comfort came without effort.",
-    "Life felt lighter in your hands; you leaned into pleasure and ease.",
+    "A warm, affectionate mood followed you through the season.",
+    "Your spirits lifted, and you were glad to be of use.",
+    "A soft-heartedness came over you, sometimes a little too eager to please.",
+    "A fond, easy mood kept you afloat, perhaps a little too comfortably.",
+    "Kindness came naturally this season, and reassurance came with it.",
   ],
   umami: [
-    "A deep, unhurried warmth grew in you, satisfied with slow and simple things.",
-    "You sank into richness, in no rush, wanting for little.",
-    "Something warm and full settled in you, deep enough to rest in.",
+    "A mellow mood sank into you, content with what was already there.",
+    "Your season ran deep rather than bright, and satisfied you in quiet ways.",
+    "A wistful richness came over you, and old things meant more than new ones.",
+    "A low, full feeling hummed beneath your days, and you were in no rush to change it.",
+    "Your moods grew quiet and rich, with a trace of something like longing.",
   ],
   // Forms
   boiled: [
-    "You grew patient and steady, a sustaining presence for those around you.",
-    "A composed calm held you, receptive and slow, if a little heavy to move.",
-    "You softened and gave yourself over, tending things gently and asking little.",
+    "Something in you softened this season, and gave itself over.",
+    "The season slowed you, and a quiet composure came with it.",
+    "You became more yielding this season, and steadier for it.",
+    "The season wore your hard edges soft, though at times it left you heavy.",
+    "Something in you went still, and took in whatever the season brought.",
   ],
   dried: [
-    "You drew inward, austere and self-contained, needing no one.",
-    "A stoic, concentrated resolve hardened in you, unyielding and spare.",
-    "You pared life down to essentials and bore it alone, without complaint.",
+    "The season drew the excess out of you, leaving something sparer.",
+    "Something in you hardened and held, and would not easily bend.",
+    "You became more self-contained, and needed less than before.",
+    "The season concentrated you, though what hardens can also crack.",
+    "Something in you learned to wait, intact, for as long as it took.",
   ],
   fermented: [
-    "You turned inward and worked in the dark, arriving somewhere entirely your own.",
-    "A slow, unwitnessed change took you, and you were in no hurry to explain it.",
-    "You reached conclusions by your own route, singular enough that few could follow.",
+    "Something in you changed out of sight, in its own time.",
+    "The season turned you inward, toward work no one else could see.",
+    "You became stranger this season, in ways only you could follow.",
+    "Something was quietly brewing in you, and it wasn't ready to be shared.",
+    "The season let you become something of your own making, if a little hard to reach.",
   ],
   fried: [
-    "You moved decisively, passionate and quick, easily lit.",
-    "A bold, restless energy drove you, ready to act before the doubt set in.",
-    "You ran hot and certain, throwing yourself at things with full force.",
+    "The season sparked something in you, and you acted before thinking twice.",
+    "Something in you caught light, and there was no taking it back.",
+    "You were changed quickly this season, all at once and for good.",
+    "The season made you decisive, sometimes before you were ready.",
+    "Something in you went all in, with no way back and no wish for one.",
   ],
   roasted: [
-    "You expanded into the open, becoming more plainly what you already were.",
-    "A radiant confidence settled over you; you registered before you spoke.",
-    "You flourished outward, drawing people in without trying to.",
+    "The season brought you out, and you became more fully yourself.",
+    "Something in you ripened and glowed where anyone could see.",
+    "You flourished this season, perhaps a little past the point of done.",
+    "The season drew you outward, and you took up more room in the world.",
+    "Something in you came into full colour, hard to miss and hard to contain.",
   ],
   smoked: [
-    "You worked indirectly, and rooms changed without anyone naming the cause.",
-    "A lingering quality settled over you; what you said surfaced in others hours later.",
-    "You moved at a slant, suggesting rather than stating, and it carried further that way.",
+    "Something in you went hazy and hard to pin down.",
+    "The season changed you in ways no one could quite put a finger on.",
+    "You became more of a suggestion than a statement.",
+    "Something of you lingered in places long after you had left them.",
+    "The season blurred your edges, and you drifted a little from your moorings.",
   ],
   // Beans
   adzuki: [
-    "A celebratory joy carried you, generous and light on your feet.",
-    "You felt lucky and glad, giving freely and sidestepping whatever weighed things down.",
-    "You gathered people and marked the occasions others let pass unnoticed.",
+    "You became the one who gathered people, and gave them a reason to celebrate.",
+    "Those around you found a little more luck in your company.",
+    "You marked the moments others let slip by, and made them count.",
+    "People felt the festive pull of you, generous perhaps to a fault.",
+    "You kept the mood light for everyone, even when something heavier waited.",
   ],
   black: [
-    "You grew watchful and discreet, trusting only what you had tested yourself.",
-    "A penetrating quiet settled in you; you saw much and gave away little.",
-    "You held your own shape, resolute and unhurried, keeping your counsel.",
+    "Others found you watchful, and harder to read.",
+    "You kept your own counsel, and people wondered what you saw.",
+    "You noticed more than you let on, and gave little away.",
+    "People sensed a quiet resolve in you, though few got close enough to know it.",
+    "You trusted others slowly, and only once they had proven themselves.",
   ],
   butter: [
-    "A deep ease took you, peaceful and content, indulging small pleasures.",
-    "You let the current carry you, unbothered and calm, asking nothing of anyone.",
-    "You settled into contentment, easygoing to the point of stillness.",
+    "Others found a calm in you that lowered the temperature of any room.",
+    "You forgave easily, and asked little of anyone.",
+    "People drifted toward your company, and left more at peace.",
+    "Little rattled you, and those around you rested easier for it.",
+    "You were content to let others be, and perhaps too content to stay put.",
   ],
   cannellini: [
-    "You grew refined and exacting, gracious but hard to satisfy.",
-    "An elegant, discerning eye settled over you; only the well-made would do.",
-    "You held yourself to a fine standard, poised and quietly demanding.",
+    "You grew choosy about who and what you made room for.",
+    "Others sensed your standards rising, and not everyone met them.",
+    "You quietly let go of what didn't belong, and kept only what did.",
+    "People found you gracious, if a little hard to satisfy.",
+    "You brought polish to everything you touched, and noticed every flaw.",
   ],
   chickpea: [
-    "You grew adaptable and warm, easy company wherever you landed.",
-    "A sociable, resourceful ease carried you, at home in any room, tied to none.",
-    "You bent with the season, sociable and quick, keeping your options open.",
+    "You became a bridge between people, at home in almost any company.",
+    "Others found you easy to be around, and quick to make room for them.",
+    "You brought people together who might never have met halfway.",
+    "You fit in wherever you went, though you rarely stayed put for long.",
+    "People felt welcome around you, though you may have been a little too eager to be liked.",
   ],
   edamame: [
-    "You grew practical and direct, quick to the point and quicker to move on.",
-    "A sharp, no-nonsense clarity took you; you had little time for the roundabout.",
-    "You cut straight to what mattered, plain-spoken and fast.",
+    "People came to you for what worked, and you had little patience for the rest.",
+    "You got to the point with others, and moved on quickly.",
+    "Others found you capable and plain-spoken, sometimes a little curt.",
+    "You saw what was needed and did it, without much fuss.",
+    "People found you unsentimental, and useful in a pinch.",
   ],
   fava: [
-    "A daring courage took you, bold enough to go first and ask later.",
-    "You pioneered, unafraid, drawn to the untried edge.",
-    "You leapt where others hesitated, hungry for the new and the risky.",
+    "Others watched you go first, into things they would not have tried.",
+    "You were drawn to the hard way, and people admired the nerve of it.",
+    "You dared more than most around you, not always wisely.",
+    "People found you undaunted, and a little defiant with it.",
+    "You reached higher than others expected, and let them know it.",
   ],
   green: [
-    "A fresh, restless energy filled you, enthusiastic and quick to hope.",
-    "You bounded through the season optimistic and bright, hungry for what's next.",
-    "You crackled with enthusiasm, never quite able to sit still.",
+    "You were first to begin things, often before anyone else was ready.",
+    "Others caught your enthusiasm, even after you had moved on to something new.",
+    "People found you hopeful and quick, always halfway into the next thing.",
+    "You started more than you finished, and brought others along for the beginning.",
+    "Those around you felt your eagerness, bright and hard to keep up with.",
   ],
   kidney: [
-    "A fierce, protective passion drove you, tenacious to the point of overreach.",
-    "You poured your whole vitality into things, guarding what you loved and letting go of nothing.",
-    "You held on hard, unrelenting, stretched thin by caring so much.",
+    "You stood up for the people you loved, fiercely and without being asked.",
+    "Others felt your devotion, and knew you would not let go easily.",
+    "You championed those around you, sometimes at your own cost.",
+    "People found you tenacious in their defence, and a little possessive with it.",
+    "You gave everything to the people who mattered, and stretched yourself thin.",
   ],
   mung: [
-    "A gentle, healing impulse grew in you, tender toward yourself and others.",
-    "You turned nurturing and soft, mending quietly, if unsure of your own worth.",
-    "You gave care freely and asked nothing back, whoever happened to be taking.",
+    "People came to you to mend, and left a little lighter.",
+    "You tended to others quietly, and asked for nothing back.",
+    "Those around you felt cared for, even when you doubted your own worth.",
+    "You gave your care freely, perhaps to some who only took.",
+    "Others found you gentle and attentive, and easy to lean on.",
   ],
   navy: [
-    "You grew principled and steadfast, loyal and immovable once set.",
-    "A dependable, enduring resolve settled in you, holding firm to what you believe.",
-    "You stood by your word, reliable to a fault, slow to bend.",
+    "People could count on you this season, whatever came.",
+    "You kept your word to others, even when it cost you.",
+    "Others found you loyal and upright, if slow to bend.",
+    "You did right by people without needing to be asked.",
+    "Those around you leaned on your reliability, and sometimes chafed at your rules.",
   ],
   pinto: [
-    "A creative, spontaneous surge took you, expressive and quick to feel.",
-    "You lived imaginatively and openly, wearing every feeling where it could be seen.",
-    "You followed invention where it led — vivid, unguarded, unmistakably your own.",
+    "People saw every feeling on your face this season.",
+    "You shared your inner world freely, and others found it hard to forget.",
+    "Others found you imaginative, and unmistakably yourself.",
+    "You made your feelings known, perhaps with a little too much flourish.",
+    "People were drawn into your imaginings, worries and all.",
   ],
 };
 
 const DRIFT_AWAY_BY_ID: Record<string, readonly string[]> = {
   // Flavours
   bitter: [
-    "You softened, less quick to judge and readier to be pleased.",
-    "The cool distance in you thawed; you stopped weighing everything so finely.",
-    "You let go of needing it all refined, and took things as they came.",
+    "The dryness went out of your humour, and you were easier to please.",
+    "Your cool reserve thawed, and simple things began to charm you again.",
+    "You let go of your wry distance, and liked the world better up close.",
+    "A kinder mood crept in, slower to weigh and quicker to enjoy.",
+    "Your moods lost their cool edge, and delight came more easily.",
   ],
   sour: [
-    "You dulled your edge, less need to name every hard truth.",
-    "The sharpness in you eased; you let some things stay comfortably unsaid.",
-    "You traded precision for gentleness, and stopped cutting so close to the bone.",
+    "Your edge dulled this season, and more went gently unsaid.",
+    "The urge to set things straight faded, and you let the muddle be.",
+    "A gentler mood took some of the bite from your words.",
+    "Your candour softened, and you found comfort in a little tact.",
+    "The bracing air of your moods gave way to something milder.",
   ],
   spicy: [
-    "The heat in you banked low; you stopped needing to be noticed.",
-    "You cooled from the vivid to the calm, easier to overlook and glad of it.",
-    "The urgency left you, and hesitation stopped feeling like something to burn off.",
+    "The heat went out of your moods, and the season passed at a lower flame.",
+    "You felt things more quietly, and fewer of them demanded your attention.",
+    "The fire in you cooled to embers, and the days grew gentler for it.",
+    "Your moods lost their urgency, and nothing needed doing right this minute.",
+    "A cooler temper took hold, less easily stirred and slower to flare.",
   ],
   sweet: [
-    "The easy sweetness left you; you took things more seriously.",
-    "You grew less content to coast, and traded comfort for effort.",
-    "The unhurried joy in you sharpened into something more deliberate.",
+    "The fondness thinned from your moods, and kind words came more slowly.",
+    "Your spirits sat lower, and you stopped smoothing every rough edge.",
+    "The easy affection faded, and you kept more of your heart to yourself.",
+    "A plainer mood replaced the comfort, less cushioned and more awake.",
+    "Your good cheer grew choosier about where it went.",
   ],
   umami: [
-    "The slow warmth in you cooled; you grew restless for something brighter.",
-    "You lost your taste for the deep and lingering, and quickened your pace.",
-    "The rich contentment thinned, and you reached past comfort for edge.",
+    "The mellow mood lifted, and you went looking for something new.",
+    "You grew less wistful, and stopped dwelling on what was done.",
+    "Your moods ran brighter and shallower, and you rather liked the change.",
+    "The old longing loosened its hold, and the days felt lighter.",
+    "A quicker, brighter mood took the place of the slow one.",
   ],
   // Forms
   boiled: [
-    "The patient calm in you gave way to something quicker and less settled.",
-    "You grew restless with steadiness, less content to yield and sustain.",
-    "The quiet, composed heaviness lifted; you wanted motion, not the still pot.",
+    "The softness in you firmed, and you wanted more motion than rest.",
+    "Something that had gone still in you began to stir.",
+    "The season lifted a heaviness you had been carrying.",
+    "You became less yielding, and your composure gave way to something livelier.",
+    "The patience in you thinned, and stillness began to chafe.",
   ],
   dried: [
-    "The austere solitude in you softened; you opened back toward company.",
-    "You loosened your stoic grip, less unyielding, more willing to lean on others.",
-    "The spare, self-contained hardness thawed into something warmer.",
+    "Something hard in you softened, and let a little give back in.",
+    "The season loosened your grip on doing it all alone.",
+    "You became less unbending, and found the give surprisingly easy.",
+    "Something sparse in you filled out, and you let yourself need things.",
+    "Whatever had hardened in you began to thaw.",
   ],
   fermented: [
-    "The private work in you surfaced; you rejoined the ordinary and plain.",
-    "You grew less inward and less singular, content to arrive where others already were.",
-    "The slow self-made transformation stalled, and you took the well-trodden route instead.",
+    "The private change in you surfaced, and you rejoined the ordinary.",
+    "Something that had been working away in you went quiet.",
+    "The season drew you out of yourself and back into the everyday.",
+    "You became less singular, more content to arrive where others already stood.",
+    "Whatever was turning in you came to rest, and you took the well-worn path.",
   ],
   fried: [
-    "The restless fire in you settled; you grew slower to act and quicker to weigh.",
-    "You cooled from bold to measured, less easily provoked, more considered.",
-    "The urgent energy banked, and you stopped rushing headlong at everything.",
+    "The spark in you cooled, and you gave things a second thought.",
+    "The season taught you to hesitate, and to keep a way back.",
+    "Something in you stopped rushing to commit.",
+    "You became slower to act, and more inclined to wait and see.",
+    "What had flared in you burned down, leaving room to reconsider.",
   ],
   roasted: [
-    "The radiance in you dimmed; you took up less room and preferred it.",
-    "You grew less expansive, less magnetic, no longer developing where it showed.",
-    "The outward glow banked low, and you kept more of yourself to yourself.",
+    "The glow in you dimmed, and you took up less room.",
+    "The season drew you back in, away from the spotlight.",
+    "Something in you stopped reaching outward, and kept more to itself.",
+    "You flourished less visibly this season, and preferred it that way.",
+    "Whatever had been expanding in you drew quietly back.",
   ],
   smoked: [
-    "The haze around you cleared; you said things outright and they landed at once.",
-    "You grew less indirect, working in plain sight rather than at one remove.",
-    "The lingering suggestion in you faded into something stated and finished.",
+    "The haze around you cleared, and you came into focus.",
+    "The season brought you out of the shadows and into plain view.",
+    "Something in you stopped hinting and started saying.",
+    "You became easier to place, and easier to find.",
+    "Whatever had been drifting in you found its footing again.",
   ],
   // Beans
   adzuki: [
-    "The festive lightness left you; you grew steadier, readier to sit with the hard.",
-    "You stopped sidestepping the difficult, trading celebration for something graver.",
-    "The easy, lucky joy in you quieted into something more grounded.",
+    "You gathered people less, and let the occasions pass more quietly.",
+    "Those around you found you graver, and more willing to sit with hard things.",
+    "The festive spirit you brought to others quieted.",
+    "You stopped keeping everyone's spirits up, and let things be as they were.",
+    "People found you readier to face what you might once have celebrated past.",
   ],
   black: [
-    "The guarded watchfulness in you eased; you let others closer.",
-    "You grew less discreet and more open, no longer keeping so much to yourself.",
-    "The habit of testing everything yourself softened into something more trusting.",
+    "You let people a little closer, and showed more of what lay beneath.",
+    "Others found you easier to read, and easier to reach.",
+    "You kept less to yourself, and trusted a little sooner.",
+    "The watchful distance you kept from others began to close.",
+    "People saw more of you this season than they had before.",
   ],
   butter: [
-    "The easy stillness in you stirred; you grew restless for something to do.",
-    "You traded contentment for drive, less willing to simply drift.",
-    "The peaceful inertia lifted, and you reached for motion and purpose.",
+    "You were quicker to stir, and people felt the change in you.",
+    "Others found you less willing to let things slide.",
+    "The calm you offered others gave way to a new sense of purpose.",
+    "You asked more of the people around you, and of yourself.",
+    "You stopped keeping the peace for everyone, and made a little noise.",
   ],
   cannellini: [
-    "The exacting polish in you relaxed; you forgave the flawed and the rough.",
-    "You grew less perfectionist, content with good enough and glad of it.",
-    "The refined demand softened into ease and acceptance.",
+    "You made more allowance for the rough edges in others.",
+    "Others found your standards gentler, and easier to meet.",
+    "You made room for more people and things, flaws and all.",
+    "You stopped waiting for everything to be just right.",
+    "People found you readier to accept good enough, and glad of it.",
   ],
   chickpea: [
-    "The easy adaptability in you settled; you committed where before you'd have drifted.",
-    "You grew less restless and more rooted, ready to stay rather than move on.",
-    "The open-ended sociability narrowed into something steadier and chosen.",
+    "You chose your company more carefully, and stayed where you landed.",
+    "Others found you less willing to bend to suit the room.",
+    "You connected fewer people, and committed more to a few.",
+    "You stopped trying to fit everywhere, and found where you belonged.",
+    "People found you more rooted, and less easily swayed by the crowd.",
   ],
   edamame: [
-    "The blunt efficiency in you softened; you slowed down and lingered longer.",
-    "You grew less dismissive and more patient, willing to sit with the roundabout.",
-    "The sharp practicality eased into something gentler and less hurried.",
+    "You gave people more of your time, and less of your verdict.",
+    "Others found you gentler, and slower to wave things away.",
+    "You let conversations wander, and found something in them.",
+    "You worried less about what was useful, and more about how people felt.",
+    "People found you more patient with the long way round.",
   ],
   fava: [
-    "The reckless daring in you steadied; you grew careful where you'd have charged.",
-    "You traded boldness for caution, content to let others go first.",
-    "The pioneering fire banked, and you found comfort in the known.",
+    "You let others go first, and were glad to.",
+    "People found you more careful, and less inclined to push your luck.",
+    "You chose the safer path, and those around you breathed easier.",
+    "The daring others knew in you gave way to caution.",
+    "You aimed a little lower, and found it suited you.",
   ],
   green: [
-    "The restless energy in you settled; you grew calmer and content to stay put.",
-    "You cooled from eager to steady, less hurried toward the next bright thing.",
-    "The fresh optimism mellowed into something quieter and more grounded.",
+    "You started fewer things, and saw more of them through.",
+    "Others found you calmer, and more content to stay put.",
+    "You let others lead the way, and followed at your own pace.",
+    "People found you less eager for what came next, and more present in what was.",
+    "The spark others knew in you quieted.",
   ],
   kidney: [
-    "The fierce grip in you loosened; you learned to let some things go.",
-    "You grew less overextended, guarding less and resting more.",
-    "The relentless passion eased into something calmer and better paced.",
+    "You held the people you love a little more loosely.",
+    "Others found you less guarded on their behalf, and more at rest.",
+    "You let people fight some of their own battles.",
+    "You gave a little less of yourself away, and kept something back for yourself.",
+    "People found you less ready to leap to their defence.",
   ],
   mung: [
-    "The tender uncertainty in you firmed; you grew surer and less easily shaken.",
-    "You needed less mending, steadier in yourself and quicker to trust it.",
-    "The gentle insecurity gave way to something more confident and rooted.",
+    "You gave less of yourself away, and noticed who had only been taking.",
+    "Others found you surer of yourself, and harder to take for granted.",
+    "You tended to your own needs, and let others mind theirs.",
+    "People found you less willing to be everyone's comfort.",
+    "You stopped doubting your place among others.",
   ],
   navy: [
-    "The rigid resolve in you softened; you grew willing to bend where you'd have held.",
-    "You loosened your grip on the rules, less unyielding, more forgiving.",
-    "The immovable steadfastness eased into something more flexible.",
+    "You bent the rules for others more readily.",
+    "People found you more flexible, and less certain of what was right.",
+    "You let others do things their own way.",
+    "Others found you easier to sway, and less set in your ways.",
+    "You held people to fewer rules, and yourself to fewer still.",
   ],
   pinto: [
-    "The vivid feeling in you settled; you grew steadier and less easily swept up.",
-    "You reined in the spontaneous, more composed, less at the mercy of a mood.",
-    "The unguarded expressiveness quieted into something more measured.",
+    "You kept more of your feelings to yourself.",
+    "Others found you more even, and less swept up in every mood.",
+    "You shared less of your inner world, and lived more quietly within it.",
+    "People found you less dramatic, and more at ease.",
+    "You let fewer feelings show, and kept the rest for yourself.",
   ],
 };
 
@@ -368,27 +447,6 @@ const LEAN_BALANCED: readonly string[] = [
   "You held the middle, as quick to welcome as to refuse.",
   "The season found you poised, letting some in and turning some away.",
   "You kept an even hand, neither arms folded nor flung wide.",
-];
-
-// Accepted tiers cluster on the honest middle (market + garden).
-const QUALITY_POSITIVE: readonly string[] = [
-  "You felt level-headed, taking things at their honest weight.",
-  "You favoured the steady and the true, wary of the extremes.",
-  "You were drawn to what sat right, plain and well-set.",
-];
-
-// Accepted tiers cluster on the off-tiers (stale + rotten).
-const QUALITY_INVERSE: readonly string[] = [
-  "You felt off-kilter, drawn to what ran against the grain.",
-  "You favoured the contrary — the faded, the spoiled, the sharp.",
-  "You were drawn to turbulence, to what unsettled more than it soothed.",
-];
-
-// Accepted tiers cluster on the excess (heirloom).
-const QUALITY_EXCESS: readonly string[] = [
-  "You felt intense, reaching for everything at full pitch.",
-  "You favoured the over-the-top, nothing done by halves.",
-  "You were drawn to excess, to the brimming and the extreme.",
 ];
 
 // A handful of entries — not enough to read a trend, just faint signal.
@@ -430,46 +488,45 @@ const BRIDGE_FAR: readonly string[] = [
   "This season you rejected your {claimed} nature, and adopted a {drift} one.",
 ];
 
+// Traits are authored content, so a template can't know whether the word landing
+// in its slot takes "a" or "an". Any indefinite article immediately before a
+// token is absorbed into the substitution and re-chosen from the trait itself.
+// Safe as a plain vowel test: no trait is multi-word or starts with a silent h.
+function fillTraits(template: string, values: Record<string, string>): string {
+  return template.replace(
+    /(\b[Aa] )?\{(claimed|drift)\}/g,
+    (_match, article: string | undefined, key: string) => {
+      const value = values[key]!;
+      if (!article) return value;
+      const an = /^[aeiou]/i.test(value);
+      return `${article.startsWith("A") ? (an ? "An" : "A") : an ? "an" : "a"} ${value}`;
+    },
+  );
+}
+
 // A single attribute's net movement, keyed by its id.
 type Mover = { delta: number; id: string };
 
-// The attributes (across all three rings) that rose most and receded most.
-function extremeMovers(
-  before: ReturnType<typeof computeSpiritBeanScores>,
-  after: ReturnType<typeof computeSpiritBeanScores>,
+// One ring's most-risen and most-receded attributes. Ties break at random
+// (season-seeded): an accept-only season leaves many ids on the same delta, and
+// a first-index tiebreak would always name the first id in the ring.
+function ringMovers(
+  rng: Rng,
+  ring: readonly string[],
+  before: number[],
+  after: number[],
 ): { top: Mover; bottom: Mover } {
-  const rings: {
-    ring: readonly string[];
-    before: number[];
-    after: number[];
-  }[] = [
-    {
-      ring: SPIRIT_FLAVOUR_RING,
-      before: before.flavourValues,
-      after: after.flavourValues,
-    },
-    {
-      ring: SPIRIT_FORM_RING,
-      before: before.formValues,
-      after: after.formValues,
-    },
-    {
-      ring: SPIRIT_BEAN_RING,
-      before: before.beanValues,
-      after: after.beanValues,
-    },
-  ];
-
-  let top: Mover | null = null;
-  let bottom: Mover | null = null;
-  for (const { ring, before: b, after: a } of rings) {
-    ring.forEach((id, i) => {
-      const delta = (a[i] ?? 0) - (b[i] ?? 0);
-      if (!top || delta > top.delta) top = { delta, id };
-      if (!bottom || delta < bottom.delta) bottom = { delta, id };
-    });
+  const movers = shuffle(
+    rng,
+    ring.map((id, i) => ({ id, delta: (after[i] ?? 0) - (before[i] ?? 0) })),
+  );
+  let top = movers[0]!;
+  let bottom = movers[0]!;
+  for (const m of movers) {
+    if (m.delta > top.delta) top = m;
+    if (m.delta < bottom.delta) bottom = m;
   }
-  return { top: top!, bottom: bottom! };
+  return { top, bottom };
 }
 
 // The zodiac the season drifted *toward*: in each ring, the attribute that rose
@@ -566,23 +623,9 @@ export function getSeasonSummary(
 }
 
 type WindowEntry = {
-  qualityId: QualityId;
   score: number;
   variant?: RitualVariant;
 };
-
-// A candidate observation carries its salience so the most extreme signals can
-// be favoured when only one can show (mid tier). Salience is normalised to
-// roughly 0..1 across the heterogeneous signals so they're comparable.
-type Candidate = { text: string; salience: number };
-
-// Spirit-drift deltas accrue a few points per accepted entry; ~20 over a full
-// season is already a pronounced swing, so normalise magnitude against it.
-const DRIFT_NORM = 20;
-
-// A balanced open/closed season is the *absence* of a lean, so it carries only
-// faint signal — low enough to lose to any real drift/lean when they compete.
-const BALANCED_SALIENCE = 0.15;
 
 // In-place Fisher-Yates using the season-seeded rng, so a given season always
 // renders its observations in the same (but non-fixed) order.
@@ -609,40 +652,28 @@ function buildObservations(
   const count = windowEntries.length;
   if (count < SEASON_LOW_ENTRIES) return [pick(rng, LOW_TEXTS)];
 
-  // --- Spirit drift: the most- and least-moved attributes ---
-  // Net movement = cumulative scores at its end minus those the day
-  // before it began.
+  // --- Spirit drift: one line per ring ---
+  // Net movement = cumulative scores at its end minus those the day before it
+  // began. Two rings speak for what rose most; one, chosen at random, for what
+  // receded most.
   const before = computeSpiritBeanScores(claimedSlug, dayBefore(prevStart));
   const after = computeSpiritBeanScores(claimedSlug, prevEnd);
-  const { top, bottom } = extremeMovers(before, after);
-
-  const towardPool = DRIFT_TOWARD_BY_ID[top.id];
-  const toward: Candidate | null = towardPool
-    ? {
-        text: pick(rng, towardPool),
-        salience: Math.min(1, top.delta / DRIFT_NORM),
-      }
-    : null;
-
-  const awayPool = DRIFT_AWAY_BY_ID[bottom.id];
-  const away: Candidate | null = awayPool
-    ? {
-        text: pick(rng, awayPool),
-        salience: Math.min(1, -bottom.delta / DRIFT_NORM),
-      }
-    : null;
-
-  // Below the full threshold, just the single most extreme drift observation.
-  if (count < SEASON_FULL_ENTRIES) {
-    const best = [toward, away]
-      .filter((c): c is Candidate => c != null)
-      .sort((a, b) => b.salience - a.salience)[0];
-    return best ? [best.text] : [];
-  }
-
-  const candidates: Candidate[] = [];
-  if (toward) candidates.push(toward);
-  if (away) candidates.push(away);
+  const rings = [
+    ringMovers(
+      rng,
+      SPIRIT_FLAVOUR_RING,
+      before.flavourValues,
+      after.flavourValues,
+    ),
+    ringMovers(rng, SPIRIT_FORM_RING, before.formValues, after.formValues),
+    ringMovers(rng, SPIRIT_BEAN_RING, before.beanValues, after.beanValues),
+  ];
+  const recedingRing = Math.floor(rng() * rings.length);
+  const movements = rings.map(({ top, bottom }, i) =>
+    i === recedingRing
+      ? { text: pick(rng, DRIFT_AWAY_BY_ID[bottom.id]!), delta: bottom.delta }
+      : { text: pick(rng, DRIFT_TOWARD_BY_ID[top.id]!), delta: top.delta },
+  );
 
   // --- Open vs closed: facet Accept/Resist balance (facet rituals only) ---
   const facet = windowEntries.filter(
@@ -651,55 +682,31 @@ function buildObservations(
   const accepts = facet.filter((e) => e.score > 0).length;
   const resists = facet.filter((e) => e.score < 0).length;
   const facetTotal = accepts + resists;
+  let lean: string | null = null;
   if (facetTotal > 0) {
-    const lean = (accepts - resists) / facetTotal;
-    if (lean > 0.2)
-      candidates.push({ text: pick(rng, LEAN_OPEN), salience: Math.abs(lean) });
-    else if (lean < -0.2)
-      candidates.push({
-        text: pick(rng, LEAN_CLOSED),
-        salience: Math.abs(lean),
-      });
-    else
-      candidates.push({
-        text: pick(rng, LEAN_BALANCED),
-        salience: BALANCED_SALIENCE,
-      });
+    const balance = (accepts - resists) / facetTotal;
+    lean = pick(
+      rng,
+      balance > 0.2 ? LEAN_OPEN : balance < -0.2 ? LEAN_CLOSED : LEAN_BALANCED,
+    );
   }
 
-  // --- Quality lean: where the accepted tiers cluster (rarity-weighted) ---
-  // "Accepted" = facet Accepts plus every question/rorschach pick (those always
-  // count as +1 and carry the answered tier as qualityId).
-  const accepted = windowEntries.filter((e) => e.score > 0);
-  if (accepted.length > 0) {
-    let positive = 0;
-    let inverse = 0;
-    let excess = 0;
-    for (const e of accepted) {
-      const w = TIER_WEIGHT[e.qualityId];
-      if (e.qualityId === "heirloom") excess += w;
-      else if (e.qualityId === "market" || e.qualityId === "garden")
-        positive += w;
-      else inverse += w; // stale, rotten
-    }
-    const total = positive + inverse + excess;
-    const sorted = [excess, inverse, positive].sort((a, b) => b - a);
-    // How decisively the winning cluster leads the runner-up (0..1).
-    const salience = total > 0 ? (sorted[0]! - sorted[1]!) / total : 0;
-    const max = sorted[0];
-    if (max === excess)
-      candidates.push({ text: pick(rng, QUALITY_EXCESS), salience });
-    else if (max === inverse)
-      candidates.push({ text: pick(rng, QUALITY_INVERSE), salience });
-    else candidates.push({ text: pick(rng, QUALITY_POSITIVE), salience });
-  }
+  // Below the full threshold, only the ring that moved furthest speaks. Deltas
+  // share one score scale across rings, so they compare directly.
+  const full = count >= SEASON_FULL_ENTRIES;
+  const shown = full
+    ? movements
+    : [
+        movements.reduce((a, b) =>
+          Math.abs(b.delta) > Math.abs(a.delta) ? b : a,
+        ),
+      ];
+  const lines = shown.map((m) => m.text);
+  if (lean) lines.push(lean);
 
-  // Keep the three most salient signals, then randomise their order so
-  // successive seasons don't share a fixed silhouette.
-  const top3 = [...candidates]
-    .sort((a, b) => b.salience - a.salience)
-    .slice(0, 3);
-  const observations = shuffle(rng, top3).map((c) => c.text);
+  // Randomise the order so successive seasons don't share a fixed silhouette.
+  const observations = shuffle(rng, lines);
+  if (!full) return observations;
 
   // --- Season bridge (pinned last): how far the season carried you from your
   // claimed self ---
@@ -715,9 +722,10 @@ function buildObservations(
         : drift.divergence >= SEASON_DRIFT_THRESHOLD
           ? BRIDGE_FAR
           : BRIDGE_NEAR;
-    const line = pick(rng, pool)
-      .replaceAll("{claimed}", claimedTrait)
-      .replaceAll("{drift}", driftTrait);
+    const line = fillTraits(pick(rng, pool), {
+      claimed: claimedTrait,
+      drift: driftTrait,
+    });
     observations.push(line);
   }
 

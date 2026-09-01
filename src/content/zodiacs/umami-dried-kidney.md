@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: umami-dried-kidney
 lastUpdated: 
 bean: kidney
@@ -11,10 +11,10 @@ inverse: disloyal
 quote: The bean that burns twice as bright burns half as long.
 creature: collie
 dish: Dried kidney beans with aged ham hock.
-friendlyBeans: [mung, cannellini]
+friendlyBeans: [mung, navy]
 friendlyForm: fermented
-antiTriple: sour-smoked-pinto
-antiBeans: [fava, butter]
+antiTriple: sour-smoked-fava
+antiBeans: [pinto, butter]
 antiForm: roasted
 seasonalFortune: "A season of aged ham hock and long keeping — the store is still where you left it."
 fortuneMost: Stay loyal past the evidence and the loyalty does the damage.

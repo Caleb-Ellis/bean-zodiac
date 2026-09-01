@@ -10,11 +10,11 @@ inverse: unemotional
 quote: Love is that condition in which the happiness of another bean is essential to your own.
 creature: prairie dog
 dish: Mung roasted with chilli, curry leaf, and coconut.
-friendlyBeans: [butter, pinto]
-friendlyForm: boiled
-antiTriple: sour-dried-edamame
-antiBeans: [fava, navy]
-antiForm: fried
+friendlyBeans: [chickpea, butter]
+friendlyForm: fermented
+antiTriple: sour-fried-edamame
+antiBeans: [black, fava]
+antiForm: smoked
 seasonalFortune: "A season of coconut and open arms: the tray offers itself to everyone, repeatedly."
 fortuneMost: Prairie dogs kiss every time they meet, occasion or no.
 fortuneHigh: Make your feelings known!

@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: rerun script
 slug: umami-dried-fava
 lastUpdated: 
 bean: fava
@@ -13,9 +13,9 @@ creature: cassowary
 dish: Aged dried fava with cured lardo.
 friendlyBeans: [edamame, pinto]
 friendlyForm: fermented
-antiTriple: sweet-roasted-adzuki
-antiBeans: [mung, chickpea]
-antiForm: boiled
+antiTriple: sweet-boiled-mung
+antiBeans: [butter, chickpea]
+antiForm: smoked
 seasonalFortune: "A season of cured lardo and standing bulk — the pantry is not to be argued with."
 fortuneMost: A cassowary clears a path nobody dares to use.
 fortuneHigh: Stand where they can see you.

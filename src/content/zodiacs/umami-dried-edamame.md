@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: umami-dried-edamame
 lastUpdated:
 bean: edamame
@@ -13,8 +13,8 @@ creature: mammoth turtle
 dish: Dried soybeans aged into yuba with soy.
 friendlyBeans: [cannellini, navy]
 friendlyForm: boiled
-antiTriple: sweet-smoked-mung
-antiBeans: [adzuki, chickpea]
+antiTriple: sweet-roasted-mung
+antiBeans: [adzuki, kidney]
 antiForm: fermented
 seasonalFortune: "A season of yuba and old soy: everything later in the year rests on this."
 fortuneMost: A mammoth turtle carries the whole house and never puts it down.

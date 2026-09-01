@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: umami-fried-navy
 lastUpdated:
 bean: navy
@@ -11,11 +11,11 @@ inverse: uncertain
 quote: The buck beans here.
 creature: condor
 dish: Navy bean croquettes with bacon dashi.
-friendlyBeans: [cannellini, adzuki]
-friendlyForm: dried
-antiTriple: bitter-fermented-fava
-antiBeans: [butter, kidney]
-antiForm: smoked
+friendlyBeans: [adzuki, cannellini]
+friendlyForm: boiled
+antiTriple: bitter-smoked-fava
+antiBeans: [butter, green]
+antiForm: fermented
 seasonalFortune: "A season of bacon dashi and settled matters — the croquette decides and the kitchen agrees."
 fortuneMost: Decide everything and eventually the questions stop coming.
 fortuneHigh: A condor holds the thermal nobody else can reach.

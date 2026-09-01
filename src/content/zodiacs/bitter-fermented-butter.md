@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: rerun script
 slug: bitter-fermented-butter
 lastUpdated:
 bean: butter
@@ -13,9 +13,9 @@ creature: great grey owl
 dish: Butter beans cultured in whey with wormwood and bay.
 friendlyBeans: [mung, pinto]
 friendlyForm: smoked
-antiTriple: spicy-fried-edamame
-antiBeans: [navy, cannellini]
-antiForm: dried
+antiTriple: spicy-dried-navy
+antiBeans: [edamame, kidney]
+antiForm: fried
 seasonalFortune: "A season of whey and long questions. The crock arrives at answers the kitchen never asked for."
 fortuneMost: An answer nobody can follow is no answer at all.
 fortuneHigh: Ask the bigger question.

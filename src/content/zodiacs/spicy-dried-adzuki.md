@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: rerun script
 slug: spicy-dried-adzuki
 lastUpdated: 
 bean: adzuki
@@ -11,11 +11,11 @@ inverse: sated
 quote: Set the world on bean.
 creature: phoenix
 dish: Dried adzuki with Sichuan pepper and dried chilli.
-friendlyBeans: [green, fava]
+friendlyBeans: [green, pinto]
 friendlyForm: boiled
-antiTriple: bitter-boiled-butter
-antiBeans: [mung, cannellini]
-antiForm: fermented
+antiTriple: sour-fermented-mung
+antiBeans: [butter, cannellini]
+antiForm: smoked
 seasonalFortune: "A season of Sichuan pepper and unfinished appetite — the store wants more than the winter holds."
 fortuneMost: Nothing is ever quite enough for long.
 fortuneHigh: A phoenix burns down and starts the whole thing again.

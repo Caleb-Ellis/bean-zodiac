@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: umami-fried-cannellini
 lastUpdated:
 bean: cannellini
@@ -11,10 +11,10 @@ inverse: expedient
 quote: The arc of the bean universe is long, but it bends toward justice.
 creature: elk
 dish: Cannellini fritters with anchovy and parmesan.
-friendlyBeans: [navy, edamame]
+friendlyBeans: [navy, green]
 friendlyForm: dried
-antiTriple: sweet-fermented-adzuki
-antiBeans: [butter, pinto]
+antiTriple: sweet-fermented-butter
+antiBeans: [adzuki, black]
 antiForm: roasted
 seasonalFortune: "A season of anchovy and parmesan: the fritter refuses the shortcut it was offered."
 fortuneMost: A rule kept in every case eventually breaks somebody.

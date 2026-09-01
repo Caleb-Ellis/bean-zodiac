@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-roasted-pinto
 lastUpdated: 
 bean: pinto
@@ -11,11 +11,11 @@ inverse: muted
 quote: Consistency is the last refuge of the bean-less.
 creature: mandarin duck
 dish: Pinto beans roasted with guajillo, lime, and cumin.
-friendlyBeans: [fava, chickpea]
+friendlyBeans: [adzuki, fava]
 friendlyForm: fermented
-antiTriple: sweet-fried-kidney
-antiBeans: [edamame, cannellini]
-antiForm: smoked
+antiTriple: umami-boiled-kidney
+antiBeans: [navy, edamame]
+antiForm: dried
 seasonalFortune: "A season of guajillo and loud colour — the tray dresses for an audience that arrives."
 fortuneMost: Bright enough and nobody sees what's underneath it.
 fortuneHigh: A mandarin duck is painted like nothing else on the water.

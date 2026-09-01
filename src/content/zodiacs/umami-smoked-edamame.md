@@ -12,9 +12,9 @@ creature: augur owl
 dish: Hickory-smoked edamame with dark soy.
 friendlyBeans: [cannellini, black]
 friendlyForm: fermented
-antiTriple: sweet-roasted-kidney
-antiBeans: [adzuki, mung]
-antiForm: boiled
+antiTriple: spicy-roasted-adzuki
+antiBeans: [kidney, mung]
+antiForm: fried
 seasonalFortune: "A season of dark soy and read weather: the smoke knows how this ends."
 fortuneMost: The augur owl predicts a cold winter, colder than it could ever handle.
 fortuneHigh: Reach for the umbrella while the sky is still blue.

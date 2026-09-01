@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-fried-kidney
 lastUpdated: 
 bean: kidney
@@ -11,11 +11,11 @@ inverse: tame
 quote: Hell hath no fury like a bean scorned.
 creature: tasmanian devil
 dish: Kidney beans fried with cayenne and onion.
-friendlyBeans: [mung, chickpea]
+friendlyBeans: [mung, butter]
 friendlyForm: boiled
-antiTriple: sour-smoked-edamame
-antiBeans: [fava, pinto]
-antiForm: fermented
+antiTriple: sour-fermented-edamame
+antiBeans: [black, navy]
+antiForm: smoked
 seasonalFortune: "A season of screaming oil and bared teeth — the pot turns red before anyone asks; the scorch stays."
 fortuneMost: All that ferocity and the small thing gets torn up with the big.
 fortuneHigh: A tasmanian devil takes on carrion twice its size.

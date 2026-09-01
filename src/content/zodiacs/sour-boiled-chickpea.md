@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-boiled-chickpea
 lastUpdated:
 bean: chickpea
@@ -11,10 +11,10 @@ inverse: partisan
 quote: There are two sides to every bean.
 creature: pied avocet
 dish: Chickpeas simmered with preserved lemon and sumac.
-friendlyBeans: [kidney, mung]
+friendlyBeans: [adzuki, kidney]
 friendlyForm: roasted
-antiTriple: bitter-fermented-fava
-antiBeans: [black, edamame]
+antiTriple: bitter-fermented-black
+antiBeans: [edamame, cannellini]
 antiForm: smoked
 seasonalFortune: "A season of preserved lemon and even hands — the pot weighs both sides and salts them equally."
 fortuneMost: Weigh both sides forever and one side stops asking.

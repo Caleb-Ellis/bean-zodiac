@@ -12,9 +12,9 @@ creature: basilisk
 dish: Hickory-smoked cannellini with pancetta.
 friendlyBeans: [edamame, navy]
 friendlyForm: dried
-antiTriple: sweet-roasted-adzuki
-antiBeans: [chickpea, kidney]
-antiForm: fried
+antiTriple: sweet-fried-kidney
+antiBeans: [chickpea, adzuki]
+antiForm: roasted
 seasonalFortune: "A season of pancetta and hickory: the tray carries itself as though watched."
 fortuneMost: The road clears wherever the basilisk goes. It always travels alone.
 fortuneHigh: The day tilts toward grace.

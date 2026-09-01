@@ -11,8 +11,8 @@ quote: Joy to the bean.
 creature: skylark
 dish: Taiyaki - caramelised adzuki paste fried in batter.
 friendlyBeans: [chickpea, green]
-friendlyForm: roasted
-antiTriple: bitter-fermented-black
+friendlyForm: fermented
+antiTriple: umami-smoked-black
 antiBeans: [cannellini, butter]
 antiForm: boiled
 seasonalFortune: "A season of taiyaki and hot batter — the fryer is celebrating and everyone is invited."

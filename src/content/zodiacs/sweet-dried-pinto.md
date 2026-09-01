@@ -10,11 +10,11 @@ inverse: unremembered
 quote: After all, tomorrow is another bean.
 creature: thunderbird
 dish: Pinto dulce dried with piloncillo and cinnamon.
-friendlyBeans: [fava, adzuki]
+friendlyBeans: [black, fava]
 friendlyForm: roasted
-antiTriple: bitter-fried-kidney
-antiBeans: [mung, cannellini]
-antiForm: boiled
+antiTriple: bitter-boiled-kidney
+antiBeans: [mung, chickpea]
+antiForm: smoked
 seasonalFortune: "A season of piloncillo and cinnamon — every dulce carries a version of the same story."
 fortuneMost: Each telling adds a little more sugar, until it tastes of nothing else.
 fortuneHigh: Tell it while the people in it are still here.

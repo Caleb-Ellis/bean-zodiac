@@ -1,48 +1,48 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: check all
 slug: umami-roasted-fava
 lastUpdated:
 bean: fava
 flavour: umami
 form: roasted
-trait: defiant
+trait: unrepentant
 excess: insubordinate
 inverse: submissive
-quote: They tried to bury us. They didn't know we were beans.
-creature: mustang
+quote: Regrets, I've had a few, but then again, too few to bean.
+creature: herring gull
 dish: Fava roasted in rendered lamb fat with mint.
-friendlyBeans: [green, chickpea]
-friendlyForm: fried
-antiTriple: bitter-boiled-mung
-antiBeans: [navy, kidney]
+friendlyBeans: [green, butter]
+friendlyForm: fermented
+antiTriple: bitter-boiled-navy
+antiBeans: [mung, cannellini]
 antiForm: dried
-seasonalFortune: "A season of lamb fat and mint — the tray does it its own way, loudly."
-fortuneMost: A mustang can be caught and still never ridden.
-fortuneHigh: Refuse it outright.
-fortuneMid: Saying no once saves saying it ten times.
-fortuneLow: Do as asked this once.
-fortuneLeast: Going along costs less than it looks.
-facetMostTitle: Mutiny on the Beanty
-facetMost: You went over the hoardings when the club sold the training ground, and the ban says one more and the season ticket goes. The sale fell through a month ago. The ticket is your dad's name as well as yours, thirty years of it, and you are both in the ground. You go over at half time.
-facetMostAction: You go over at half time.
-facetHighTitle: I Will Beanvive
-facetHigh: You reported the missing edge protection on the third floor and the site manager has taken your shifts off you for it and told the gang why, and another turn-up and it is for good. You sign in at seven and start work.
-facetHighAction: You sign in at seven and start work.
-facetMidTitle: Won't Bean Down
-facetMid: The security man at the door says bags from other shops go behind his desk and he can have you out if they do not, and you have one from the shop up the road. You put it back on your shoulder and walk in.
-facetMidAction: You put it back on your shoulder and walk in.
-facetLowTitle: The Bean Servant
-facetLow: Second day of a trial you have been called up for, and the notebooks are numbered and collected in every night. The witness said the man had done this before, and the judge has told the twelve of you to strike that or the trial starts again. It is the only thing you have heard that explains anything. You put a line through your note.
-facetLowAction: You put a line through your note.
-facetLeastTitle: Whatever You Bean
-facetLeast: You are marshalling the road closure on a half marathon and control says on the radio that nobody crosses until the sweeper van is through, another forty minutes. A woman with a pushchair says her mum's christening is at eleven, four streets away. You tell her to wait for the van.
-facetLeastAction: You tell her to wait for the van.
-question: You've asked twice about the missing float money and been told to leave it. The manager says the matter is closed. You...
-answerMost: take it to the owner, and stop taking the manager's instructions at all
-answerHigh: put the question to him in writing
-answerMid: write down what he tells you
-answerLow: stop asking, and tell the assistant manager what you found
-answerLeast: drop the float money as told
+seasonalFortune: "A season of lamb fat and mint — the tray comes out darker than asked for, and goes to the table as it is."
+fortuneMost: Refuse everything they ask and one of them will have been worth doing.
+fortuneHigh: Say you'd do it again.
+fortuneMid: The herring gull takes the sandwich off the table and is back on the railing before you've stood up.
+fortuneLow: Taking it back is lighter than carrying it.
+fortuneLeast: Somebody has to do as they're told; it might as well be you.
+facetMostTitle: Rebean Without a Cause
+facetMost: You fought in a competition your coach told you to stay out of, and you were stopped in the second round. He's taken you off the squad for the season and told the gym why. Entries for the regional championship are still open, and they go in under a gym. You put his gym's name on your entry and send it.
+facetMostAction: You put his gym's name on your entry and send it.
+facetHighTitle: Sorry Seems to Bean the Hardest Word
+facetHigh: At your sister's engagement party you told her fiancé's parents that the two of them had already been to a register office. She'd asked you to keep that to yourself. She says you can come to the wedding if you write to his parents and apologise. You tell her you're not writing it.
+facetHighAction: You tell her you're not writing it.
+facetMidTitle: Goodbeans
+facetMid: A friend left her dog with you for the week, and you let it off the lead on the beach even though she'd said not to. It was gone twenty minutes and came back soaked and filthy. She's home now, and she asks you straight out whether you let it off. You tell her the dog needed the run.
+facetMidAction: You tell her the dog needed the run.
+facetLowTitle: Beanhemian Rhapsody
+facetLow: The band you're in won four hours of studio time at a local competition, and it's the only recording you'll ever have of these songs. Partway through, the engineer says the guitar part is dragging the chorus and should come out. It's the part you wrote. You tell him to take it out.
+facetLowAction: You tell him to take it out.
+facetLeastTitle: Teacher's Bean
+facetLeast: It's your first life drawing class, and you've spent the evening working out how it goes — the quick poses first, the tutor moving behind the boards, nobody talking. The long pose has given you a drawing you like. The tutor stops behind you, says the shoulders are wrong and you should start it again. You rub the whole thing out.
+facetLeastAction: You rub the whole thing out.
+question: Your housemate cancelled the walking trip she'd been saving for when her hours were cut. You paid the balance yourself and left her the flights to cover. She's found out, and says you had no right to touch her booking. You...
+answerMost: book the flights as well and tell her after
+answerHigh: tell her you'd pay it again tomorrow
+answerMid: say you did it because she'd have gone if she could
+answerLow: say you should have asked first, and pay it anyway
+answerLeast: cancel what you paid for and tell her you were out of order
 rorschachMost: a bucking horse
 rorschachHigh: a thistle
 rorschachMid: a jammed lock
@@ -50,4 +50,4 @@ rorschachLow: a lowered flag
 rorschachLeast: a doormat
 ---
 
-Rendered Fava Beans are the Bean Zodiac's most defiant. Told to drop it, they do not drop it, and the thing that was going to be buried isn't. Sometimes it is defiance with no cause left in it. Doing as they're told smoothly has never happened.
+Rendered Fava Beans are the Bean Zodiac's most unrepentant. Told at the table that what they said about your flat was unfair, they agree it was unfair and say it again. Sometimes it stops mattering who was right, only that nobody gets to say so. Saying they were out of order and meaning it is not in them.

@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: bitter-boiled-kidney
 lastUpdated:
 bean: kidney
@@ -13,9 +13,9 @@ creature: musk ox
 dish: Kidney beans simmered with cacao nib and dried chilli, unsweetened.
 friendlyBeans: [mung, butter]
 friendlyForm: fermented
-antiTriple: sour-roasted-fava
-antiBeans: [green, edamame]
-antiForm: fried
+antiTriple: sour-smoked-edamame
+antiBeans: [green, fava]
+antiForm: dried
 seasonalFortune: "A season of long simmering and unpaid patience — the pot holds shape through hours nobody watches; it costs."
 fortuneMost: Bear enough of it and the bearing becomes the point.
 fortuneHigh: A musk ox stands in the storm facing into it.

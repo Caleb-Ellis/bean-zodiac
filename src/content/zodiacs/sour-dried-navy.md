@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-dried-navy
 lastUpdated:
 bean: navy
@@ -11,10 +11,10 @@ inverse: pliable
 quote: Rules are for the guidance of wise beans and the obedience of fools.
 creature: rhinoceros
 dish: Dried navy beans with dried apple and cider vinegar powder.
-friendlyBeans: [butter, black]
+friendlyBeans: [cannellini, butter]
 friendlyForm: boiled
-antiTriple: bitter-fried-pinto
-antiBeans: [fava, green]
+antiTriple: spicy-fried-kidney
+antiBeans: [green, fava]
 antiForm: smoked
 seasonalFortune: "A season of dried apple and fixed rations — the store keeps its shape through every thaw."
 fortuneMost: Immovable enough and the argument stops being about the thing.

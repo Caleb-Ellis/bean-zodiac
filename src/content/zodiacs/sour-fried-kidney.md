@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-fried-kidney
 lastUpdated: 
 bean: kidney
@@ -11,11 +11,11 @@ inverse: acquiescent
 quote: In the beginning was the bean, and the bean was with argument, and the bean was argument.
 creature: magpie
 dish: Kidney beans fried with tamarind chutney and onion seed.
-friendlyBeans: [chickpea, green]
+friendlyBeans: [mung, pinto]
 friendlyForm: fermented
-antiTriple: bitter-smoked-black
+antiTriple: bitter-dried-butter
 antiBeans: [edamame, cannellini]
-antiForm: dried
+antiForm: smoked
 seasonalFortune: "A season of tamarind chutney and raised stakes: the pan asks the kitchen to prove itself."
 fortuneMost: Argue with everything and the good argument gets missed.
 fortuneHigh: A magpie mobs a hawk twice its size.

@@ -13,7 +13,7 @@ dish: Butter beans simmered in dashi with bonito.
 friendlyBeans: [black, navy]
 friendlyForm: smoked
 antiTriple: sweet-fried-green
-antiBeans: [kidney, pinto]
+antiBeans: [pinto, adzuki]
 antiForm: roasted
 seasonalFortune: "A season of bonito and low flame — the pot restores anyone who sits near it."
 fortuneMost: Excess rest can fog the mind.

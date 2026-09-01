@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo rorschachs
+# TODO: rerun script
 slug: bitter-smoked-black
 lastUpdated: 
 bean: black
@@ -11,10 +11,10 @@ inverse: legible
 quote: A riddle wrapped in a mystery inside a bean.
 creature: giant squid
 dish: Black beans smoked over binchotan with dried avocado leaf.
-friendlyBeans: [edamame, cannellini]
+friendlyBeans: [cannellini, mung]
 friendlyForm: fermented
 antiTriple: spicy-roasted-green
-antiBeans: [chickpea, kidney]
+antiBeans: [pinto, kidney]
 antiForm: fried
 seasonalFortune: "A season of binchotan and closed answers: the bean darkens and explains nothing about the darkening."
 fortuneMost: Nobody saw a live giant squid until this century.

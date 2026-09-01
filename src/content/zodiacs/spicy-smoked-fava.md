@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-smoked-fava
 lastUpdated:
 bean: fava
@@ -11,11 +11,11 @@ inverse: checked
 quote: Born free, as bean as the wind blows.
 creature: wild stallion
 dish: Fava smoked over oak with chipotle and coriander.
-friendlyBeans: [green, black]
-friendlyForm: fermented
-antiTriple: sweet-boiled-navy
-antiBeans: [mung, kidney]
-antiForm: roasted
+friendlyBeans: [green, chickpea]
+friendlyForm: fried
+antiTriple: sweet-roasted-butter
+antiBeans: [mung, adzuki]
+antiForm: boiled
 seasonalFortune: "A season of oak smoke and slipped reins — the fire goes wherever the wind allows."
 fortuneMost: A wild stallion runs the herd off a good pasture.
 fortuneHigh: Let it get out of hand a little.

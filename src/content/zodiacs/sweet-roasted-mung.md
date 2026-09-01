@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sweet-roasted-mung
 lastUpdated:
 bean: mung
@@ -13,8 +13,8 @@ creature: marmoset
 dish: Mung roasted with coconut sugar and lime leaf.
 friendlyBeans: [kidney, butter]
 friendlyForm: boiled
-antiTriple: sour-fermented-green
-antiBeans: [edamame, fava]
+antiTriple: sour-fried-fava
+antiBeans: [edamame, navy]
 antiForm: dried
 seasonalFortune: "A season of coconut sugar and lime leaf: the tray tucks the household in."
 fortuneMost: Cosset somebody long enough and they stay small.

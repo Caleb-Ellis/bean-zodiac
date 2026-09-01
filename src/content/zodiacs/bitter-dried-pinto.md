@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: bitter-dried-pinto
 lastUpdated: 
 bean: pinto
@@ -11,11 +11,11 @@ inverse: obvious
 quote: Any sufficiently advanced bean is indistinguishable from magic.
 creature: sphinx
 dish: Dried pinto beans with avocado leaf and Mexican oregano.
-friendlyBeans: [black, fava]
+friendlyBeans: [black, green]
 friendlyForm: fermented
-antiTriple: sweet-boiled-kidney
-antiBeans: [butter, mung]
-antiForm: fried
+antiTriple: sweet-fried-kidney
+antiBeans: [mung, cannellini]
+antiForm: boiled
 seasonalFortune: "A season of faded markings and locked jars — the pattern goes inward where nobody can read it."
 fortuneMost: Obscure enough and nobody can disagree with it.
 fortuneHigh: A sphinx asks the question and eats the wrong answer.

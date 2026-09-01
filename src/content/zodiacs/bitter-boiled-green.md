@@ -12,9 +12,9 @@ creature: coati
 dish: Green beans braised soft with fenugreek leaf and green tea.
 friendlyBeans: [fava, kidney]
 friendlyForm: fried
-antiTriple: umami-dried-butter
+antiTriple: umami-fermented-butter
 antiBeans: [edamame, navy]
-antiForm: smoked
+antiForm: dried
 seasonalFortune: "A season of green tea and open lids; the pot asks more questions than the kitchen answers."
 fortuneMost: Nose in everything, the coati often gets bitten.
 fortuneHigh: Go to the source, not the summary of it.

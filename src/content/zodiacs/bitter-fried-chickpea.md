@@ -13,7 +13,7 @@ dish: Chickpeas fried in ghee with charred curry leaf and asafoetida.
 friendlyBeans: [adzuki, green]
 friendlyForm: roasted
 antiTriple: umami-fermented-cannellini
-antiBeans: [butter, edamame]
+antiBeans: [edamame, navy]
 antiForm: dried
 seasonalFortune: "A season of hot ghee and quick reckonings: the chickpea knows the price before the pan does."
 fortuneMost: Suspicion often creates what it suspects.

@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-dried-green
 lastUpdated: 
 bean: green
@@ -14,8 +14,8 @@ dish: Dried green beans rehydrated in vinegar with dill seed.
 friendlyBeans: [fava, edamame]
 friendlyForm: fried
 antiTriple: umami-boiled-butter
-antiBeans: [black, pinto]
-antiForm: fermented
+antiBeans: [cannellini, black]
+antiForm: smoked
 seasonalFortune: "A season of dill seed and cold vinegar; the pantry wakes the kitchen without being asked."
 fortuneMost: Bracing wears thin on people who wanted comfort.
 fortuneHigh: An arctic fox stays out in weather that kills.

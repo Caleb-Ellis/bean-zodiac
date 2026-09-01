@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: bitter-fermented-black
 lastUpdated: 
 bean: black
@@ -13,9 +13,9 @@ creature: highland cow
 dish: Douchi - salted fermented black beans with young ginger.
 friendlyBeans: [butter, pinto]
 friendlyForm: smoked
-antiTriple: sweet-fried-navy
-antiBeans: [kidney, chickpea]
-antiForm: dried
+antiTriple: sweet-boiled-kidney
+antiBeans: [navy, chickpea]
+antiForm: fried
 seasonalFortune: "A season of dark jars and slow turning: the ferment thinks in a cellar nobody visits."
 fortuneMost: A highland cow brings the same mouthful back up all day.
 fortuneHigh: Sit with it a while longer.

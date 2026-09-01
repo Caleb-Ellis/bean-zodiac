@@ -11,9 +11,9 @@ quote: I am the one true bean.
 creature: salmon
 dish: Navy beans fermented in brine with chilli and garlic.
 friendlyBeans: [cannellini, edamame]
-friendlyForm: dried
-antiTriple: bitter-smoked-adzuki
-antiBeans: [chickpea, green]
+friendlyForm: boiled
+antiTriple: sour-smoked-green
+antiBeans: [chickpea, pinto]
 antiForm: fried
 seasonalFortune: "A season of brine and one purpose — the crock ferments toward a single agreed result."
 fortuneMost: The salmon swims up the whole river, only to spawn once, and die.

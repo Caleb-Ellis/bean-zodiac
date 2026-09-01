@@ -10,10 +10,10 @@ inverse: irrational
 quote: The body is not the master of the mind, any more than the mind is the master of the bean.
 creature: carrion crow
 dish: Natto with karashi mustard and shiso.
-friendlyBeans: [fava, black]
+friendlyBeans: [fava, cannellini]
 friendlyForm: dried
-antiTriple: umami-boiled-kidney
-antiBeans: [navy, mung]
+antiTriple: spicy-boiled-kidney
+antiBeans: [mung, chickpea]
 antiForm: roasted
 seasonalFortune: "A season of natto and cold reason — the ferment proves its case and offers no comfort."
 fortuneMost: Facts and figures will never describe how it feels.

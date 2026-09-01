@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-roasted-cannellini
 lastUpdated:
 bean: cannellini
@@ -11,11 +11,11 @@ inverse: colourless
 quote: The bean enters the room before you do.
 creature: dolphin
 dish: Cannellini roasted with bird's eye chilli, oregano, and garlic.
-friendlyBeans: [navy, black]
-friendlyForm: fried
-antiTriple: sweet-fermented-kidney
-antiBeans: [fava, mung]
-antiForm: fried
+friendlyBeans: [black, edamame]
+friendlyForm: smoked
+antiTriple: sweet-fried-fava
+antiBeans: [kidney, mung]
+antiForm: fermented
 seasonalFortune: "A season of bird's eye chilli and gathered attention — the roast is why people came."
 fortuneMost: A crowd repeats the loudest voice back to itself.
 fortuneHigh: Speak plainly and they'll follow.

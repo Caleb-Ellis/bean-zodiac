@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-roasted-pinto
 lastUpdated: 
 bean: pinto
@@ -13,8 +13,8 @@ creature: monkey
 dish: Roasted pinto beans with chimichurri and charred spring onion.
 friendlyBeans: [fava, butter]
 friendlyForm: fermented
-antiTriple: spicy-fried-navy
-antiBeans: [edamame, kidney]
+antiTriple: sweet-fried-navy
+antiBeans: [kidney, edamame]
 antiForm: boiled
 seasonalFortune: "A season of charred spring onion and cheerful blasphemy — the fire laughs at the recipe."
 fortuneMost: Take nothing seriously and nothing can be built.

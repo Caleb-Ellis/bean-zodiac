@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sweet-fermented-butter
 lastUpdated:
 bean: butter
@@ -11,11 +11,11 @@ inverse: stern
 quote: The bean abides.
 creature: goose chick
 dish: Butter beans in a sweet doenjang glaze.
-friendlyBeans: [pinto, black]
+friendlyBeans: [pinto, adzuki]
 friendlyForm: roasted
-antiTriple: spicy-dried-cannellini
-antiBeans: [navy, chickpea]
-antiForm: fried
+antiTriple: spicy-fried-chickpea
+antiBeans: [navy, cannellini]
+antiForm: dried
 seasonalFortune: "A season of sweet doenjang and small nonsense — the glaze is not a serious glaze."
 fortuneMost: Nobody takes a goose chick seriously, however hard it tries.
 fortuneHigh: Do the daft version.

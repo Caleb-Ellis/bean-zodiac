@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sweet-smoked-chickpea
 lastUpdated:
 bean: chickpea
@@ -13,9 +13,9 @@ creature: red panda
 dish: Barbecued chickpeas with date molasses.
 friendlyBeans: [adzuki, kidney]
 friendlyForm: roasted
-antiTriple: sour-fermented-cannellini
-antiBeans: [edamame, navy]
-antiForm: boiled
+antiTriple: sour-fermented-fava
+antiBeans: [pinto, edamame]
+antiForm: dried
 seasonalFortune: "A season of date molasses and easy welcome — the smoke wins the room without trying."
 fortuneMost: Three true compliments in four minutes, none of them free.
 fortuneHigh: Praise the quiet one, then change the subject.

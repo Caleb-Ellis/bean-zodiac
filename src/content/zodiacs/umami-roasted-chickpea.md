@@ -1,47 +1,48 @@
 ---
+# TODO: check all
 slug: umami-roasted-chickpea
-lastUpdated: 2026-08-03
+lastUpdated:
 bean: chickpea
 flavour: umami
 form: roasted
-trait: tolerant
-excess: laissez-faire
-inverse: censorious
-quote: In the practice of tolerance, one's bean is the best teacher.
-creature: zebu
+trait: mediating
+excess: meddling
+inverse: uninvolved
+quote: A bean divided against itself cannot stand.
+creature: army ant
 dish: Chickpeas roasted in schmaltz with cumin.
-friendlyBeans: [adzuki, butter]
+friendlyBeans: [adzuki, mung]
 friendlyForm: fried
-antiTriple: sour-fermented-navy
-antiBeans: [black, cannellini]
+antiTriple: sour-fermented-edamame
+antiBeans: [navy, black]
 antiForm: dried
-seasonalFortune: "A season of schmaltz and cumin — the tray makes room for every strange addition."
-fortuneMost: You let it go and let it go, and now it's the arrangement.
-fortuneHigh: Leave people to their own mess.
-fortuneMid: A zebu stands in the heat and lets the flies have their share.
-fortuneLow: Say the small thing the first time, not the fourth.
-fortuneLeast: Not everything earns the benefit of the doubt.
-facetMostTitle: Let It Bean
-facetMost: You let your spare room to a lodger who is two months behind on the rent, with people round until three twice in a fortnight. The lodger asks whether things are all right as they are. You say they're fine.
-facetMostAction: You say they're fine.
-facetHighTitle: Live and Let Bean
-facetHigh: Your seventeen-year-old rolls a sleeve up at a family lunch and there is a tattoo on the forearm nobody knew about. Their grandparent looks straight at you, waiting for you to deal with it. You say it's their arm, and pass the potatoes.
-facetHighAction: You say it's their arm, and pass the potatoes.
-facetMidTitle: Ebony and Beanvery
-facetMid: You sit on the committee that decides who gets the village hall, and a ghost-hunting group has applied for it overnight. Two members want it turned down on principle. You vote to let them have it.
-facetMidAction: You vote to let them have it.
-facetLowTitle: The Beanfinder General
-facetLow: The plot beside yours on the allotments has gone to seed, nobody has worked it in a month, and the weeds are coming through into your beds. You catch the person it belongs to filling a can at the tap, and tell them the couch grass is halfway into your onions.
-facetLowAction: You catch the person it belongs to filling a can at the tap, and tell them the couch grass is halfway into your onions.
-facetLeastTitle: The Bean Purge
-facetLeast: A book you think is genuinely poisonous has been left face-up on the kitchen table of a house you are staying in, and whoever is reading it is through the wall. Somebody asks what you make of it. You say what you think of the book, and of anyone who takes it seriously.
-facetLeastAction: You say what you think of the book, and of anyone who takes it seriously.
-question: The flat below have started band practice on Wednesday nights, and it's affecting your sleep. Another neighbour's at the door with a petition for them to stop. You...
-answerMost: say it doesn't bother you, and carry on sleeping in the spare room
-answerHigh: don't sign, and say it's one night a week and they're young
-answerMid: don't sign, but ask them downstairs to wrap up by ten
-answerLow: sign it quietly
-answerLeast: sign it, and file your own noise complaint
+seasonalFortune: "A season of schmaltz and cumin — the fat carries the spice, and nothing in the tray tastes like it did alone."
+fortuneMost: Stand between two people long enough and neither will speak to the other without you.
+fortuneHigh: Army ants make a bridge out of their own bodies and hold it until the whole column is across.
+fortuneMid: Mention the one who isn't there.
+fortuneLow: Most people can sort it out between the two of them.
+fortuneLeast: Plenty of quarrels mend themselves if nobody helps.
+facetMostTitle: The Parent Bean
+facetMost: Your friend and the man he started a band with fell out over money when it broke up, and haven't spoken in three years. The other one plays under a different name now, which is the only reason your friend agreed to come — you told him it was a band you'd heard good things about. The doors have opened and the queue is moving. You get him inside before you tell him who's playing.
+facetMostAction: You get him inside before you tell him who's playing.
+facetHighTitle: The Beangotiator
+facetHigh: Your oldest friend's wedding is at noon and the cars go from the house at eleven. An hour ago her mother and her sister had a row in the kitchen that everyone upstairs heard, and the sister is out in the drive in her car now with her bag in the boot and the engine running. Her mother says she didn't mean a word of it and can't be the one to go out there. You get in beside the sister and tell her what her mother said.
+facetHighAction: You get in beside the sister and tell her what her mother said.
+facetMidTitle: Guess Who's Coming to Beanner
+facetMid: Two dogs have gone at each other on the grass by the tennis courts and the smaller one is bleeding from the ear. The man whose dog did it has it back on the lead and is walking off towards the gate, and the woman with the hurt one is shouting after him about the vet's bill with her child beside her in tears. You were on the bench and saw the whole thing. You go after him and ask him to come back and give her his number.
+facetMidAction: You go after him and ask him to come back and give her his number.
+facetLowTitle: The Postbean Always Rings Twice
+facetLow: You're labouring for the summer on a house conversion, carrying things up to whoever needs them. The plasterer and the electrician stopped speaking when the first-floor rooms had to be done twice over, and neither will stand in a room with the other, so the work up there has halted. At lunch the plasterer asks you to take an offer to him — he'll wait on the back bedroom if the electrician does the hall this week. The electrician is sitting on the wall outside. You tell the plasterer to go out and say it to him himself.
+facetLowAction: You tell the plasterer to go out and say it to him himself.
+facetLeastTitle: Whose Bean Is It Anyway?
+facetLeast: You're a week into a rented house on an island with friends, and the boat back runs twice a week. Two of the group were together until the spring, and tonight in the kitchen they start on each other in front of everybody. Both of them have been giving you their side all week out on the walks, and both now want you to say which one of them is being unreasonable. You tell them both to leave you out of it.
+facetLeastAction: You tell them both to leave you out of it.
+question: Your mother and her brother haven't spoken in two years, and she's said he isn't invited to her sixtieth. You want them both there. He swims at the same pool as you, and in the changing room afterwards he asks how she is. You...
+answerMost: tell him when it is, and to come anyway
+answerHigh: tell him about the sixtieth, and ask if he'd take a call from her
+answerMid: ask him what he'd want said to her
+answerLow: ask about his swimming instead
+answerLeast: tell him you'd rather not be in the middle of it
 rorschachMost: an overgrown hedge
 rorschachHigh: a warming fire
 rorschachMid: a bowl of noodles
@@ -49,4 +50,4 @@ rorschachLow: a scrubbing brush
 rorschachLeast: a judge in a wig
 ---
 
-Rendered Chickpeas are the Bean Zodiac's most tolerant. The strange flatmate, the difficult uncle, the friend in a bad phase — all of them get room. Sometimes the room gets used badly. Judging somebody out loud is a thing they would rather not.
+Rendered Chickpeas are the Bean Zodiac's most mediating. The friend who stopped answering and the friend who gave up trying are both at your birthday, and neither can say how that happened. A quarrel dying quietly on its own will get a date and a venue. Leaving two people to fall out in peace is more than they can sit through.

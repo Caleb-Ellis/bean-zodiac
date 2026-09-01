@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-smoked-adzuki
 lastUpdated: 
 bean: adzuki
@@ -13,9 +13,9 @@ creature: king cobra
 dish: Adzuki smoked over mesquite with piloncillo and chipotle.
 friendlyBeans: [black, green]
 friendlyForm: roasted
-antiTriple: sweet-roasted-pinto
-antiBeans: [navy, butter]
-antiForm: boiled
+antiTriple: sweet-fried-fava
+antiBeans: [navy, kidney]
+antiForm: fermented
 seasonalFortune: "A season of mesquite and piloncillo — the smoke holds the room where it stands."
 fortuneMost: How it was said gets remembered; what was said doesn't.
 fortuneHigh: Take the floor and hold it.

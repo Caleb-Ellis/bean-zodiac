@@ -10,11 +10,11 @@ inverse: yielding
 quote: An immovable bean meets an unstoppable force.
 creature: hippopotamus
 dish: Navy beans braised with cayenne and smoked ham hock.
-friendlyBeans: [black, cannellini]
+friendlyBeans: [black, edamame]
 friendlyForm: dried
-antiTriple: sour-fried-green
-antiBeans: [fava, pinto]
-antiForm: smoked
+antiTriple: sour-smoked-fava
+antiBeans: [green, pinto]
+antiForm: fried
 seasonalFortune: "A season of ham hock and settled weight — the pot stays where it is through everything."
 fortuneMost: The gate has rusted shut.
 fortuneHigh: The hippopotamus always gets its way.

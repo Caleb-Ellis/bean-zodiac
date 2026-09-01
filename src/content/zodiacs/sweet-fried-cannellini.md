@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sweet-fried-cannellini
 lastUpdated:
 bean: cannellini
@@ -11,11 +11,11 @@ inverse: stingy
 quote: I have nothing to declare except my bean.
 creature: swallowtail
 dish: Cannellini fried and glazed with vanilla caramel.
-friendlyBeans: [navy, edamame]
+friendlyBeans: [navy, pinto]
 friendlyForm: dried
 antiTriple: umami-fermented-adzuki
-antiBeans: [butter, black]
-antiForm: boiled
+antiBeans: [black, butter]
+antiForm: smoked
 seasonalFortune: "A season of vanilla caramel and open hands: the glaze is applied without counting."
 fortuneMost: Spend it all and the next occasion has nothing left.
 fortuneHigh: Buy the good one and hand it over.

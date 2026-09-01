@@ -10,11 +10,11 @@ inverse: easy-to-please
 quote: The bean you refuse is as important as the bean you accept.
 creature: oystercatcher
 dish: Cannellini in giardiniera with celery and hot vinegar.
-friendlyBeans: [edamame, navy]
+friendlyBeans: [edamame, black]
 friendlyForm: dried
-antiTriple: umami-roasted-adzuki
-antiBeans: [chickpea, butter]
-antiForm: boiled
+antiTriple: sweet-roasted-adzuki
+antiBeans: [kidney, green]
+antiForm: fried
 seasonalFortune: "A season of giardiniera and narrow taste: the brine takes some vegetables and refuses the rest."
 fortuneMost: To be too hard to please is to be too easy to disappoint.
 fortuneHigh: Pay more for the good one.

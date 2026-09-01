@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-fermented-cannellini
 lastUpdated: 
 bean: cannellini
@@ -11,11 +11,11 @@ inverse: derivative
 quote: The bean who follows the crowd will usually get no further than the crowd.
 creature: okapi
 dish: Cannellini fermented with Calabrian chilli.
-friendlyBeans: [black, edamame]
+friendlyBeans: [pinto, black]
 friendlyForm: dried
-antiTriple: sweet-fried-chickpea
+antiTriple: sweet-boiled-chickpea
 antiBeans: [adzuki, kidney]
-antiForm: dried
+antiForm: fried
 seasonalFortune: "A season of Calabrian chilli and one recipe: nobody else ferments it quite this way."
 fortuneMost: There's no herd anywhere that fits an okapi.
 fortuneHigh: Work to your own method.

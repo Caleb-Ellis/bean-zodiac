@@ -10,11 +10,11 @@ inverse: self-evident
 quote: I am not strange, I am just a bean.
 creature: black panther
 dish: Fermented black beans with chilli and crushed garlic.
-friendlyBeans: [mung, butter]
+friendlyBeans: [pinto, mung]
 friendlyForm: smoked
-antiTriple: sour-roasted-navy
-antiBeans: [chickpea, kidney]
-antiForm: boiled
+antiTriple: sweet-fried-chickpea
+antiBeans: [navy, green]
+antiForm: dried
 seasonalFortune: "A season of fermention and closed cellars: the heat comes from somewhere unexplained."
 fortuneMost: They might still introduce you as somebody they don't really know.
 fortuneHigh: Say less than you know.

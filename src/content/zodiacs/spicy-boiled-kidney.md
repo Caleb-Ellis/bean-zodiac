@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-boiled-kidney
 lastUpdated: 
 bean: kidney
@@ -11,10 +11,10 @@ inverse: faltering
 quote: It's not whether you get knocked down, it's whether you bean up.
 creature: terrier
 dish: Rajma masala - kidney beans in spiced onion-tomato gravy.
-friendlyBeans: [mung, butter]
+friendlyBeans: [mung, adzuki]
 friendlyForm: roasted
-antiTriple: sour-fermented-pinto
-antiBeans: [edamame, green]
+antiTriple: sour-fermented-edamame
+antiBeans: [pinto, butter]
 antiForm: smoked
 seasonalFortune: "A season of rajma and long pursuit — the gravy works on one thing until it yields."
 fortuneMost: Chase one thing long enough and everything else quietly leaves.

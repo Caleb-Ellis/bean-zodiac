@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-roasted-edamame
 lastUpdated: 
 bean: edamame
@@ -13,9 +13,9 @@ creature: mastiff
 dish: Roasted edamame with ponzu and coriander.
 friendlyBeans: [pinto, navy]
 friendlyForm: fried
-antiTriple: sweet-smoked-black
-antiBeans: [kidney, mung]
-antiForm: dried
+antiTriple: umami-smoked-mung
+antiBeans: [kidney, fava]
+antiForm: fermented
 seasonalFortune: "A season of ponzu and coriander: the pod states its position where the whole table hears."
 fortuneMost: Say it in the open often enough and the crowd thins.
 fortuneHigh: A mastiff at the gate doesn't pretend to be a hedge.

@@ -10,10 +10,10 @@ inverse: lukewarm
 quote: One passion, one purpose — and a bean becomes invincible.
 creature: peregrine
 dish: Kidney beans fermented with gochujang.
-friendlyBeans: [mung, chickpea]
+friendlyBeans: [chickpea, green]
 friendlyForm: fried
-antiTriple: sour-roasted-edamame
-antiBeans: [cannellini, butter]
+antiTriple: bitter-roasted-cannellini
+antiBeans: [edamame, butter]
 antiForm: dried
 seasonalFortune: "A season of gochujang and unbroken heat — nothing here is done by halves; it wears people out."
 fortuneMost: A border collie with no flock will herd the shadows.

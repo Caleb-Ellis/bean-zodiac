@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sweet-fried-black
 lastUpdated: 
 bean: black
@@ -13,9 +13,9 @@ creature: cardinal
 dish: Black bean doughnuts fried and rolled in cinnamon sugar.
 friendlyBeans: [green, kidney]
 friendlyForm: fermented
-antiTriple: umami-fermented-butter
-antiBeans: [adzuki, pinto]
-antiForm: smoked
+antiTriple: umami-boiled-butter
+antiBeans: [pinto, edamame]
+antiForm: roasted
 seasonalFortune: "A season of cinnamon sugar and high heat: the doughnut burns for something specific."
 fortuneMost: A cardinal stays bright red all winter and cannot hide.
 fortuneHigh: Say the warm thing first.

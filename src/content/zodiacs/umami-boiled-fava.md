@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: umami-boiled-fava
 lastUpdated: 
 bean: fava
@@ -12,10 +12,10 @@ quote: Screw your courage to the beaning-place.
 creature: bison
 dish: Fava simmered in dashi with wakame.
 friendlyBeans: [edamame, black]
-friendlyForm: fermented
-antiTriple: sweet-fried-chickpea
-antiBeans: [adzuki, mung]
-antiForm: roasted
+friendlyForm: smoked
+antiTriple: sweet-roasted-adzuki
+antiBeans: [green, mung]
+antiForm: fermented
 seasonalFortune: "A season of wakame and settled purpose — the dashi decided in autumn and never revisited."
 fortuneMost: A bison walks straight into the blizzard and out the far side.
 fortuneHigh: Decide it and stop revisiting.

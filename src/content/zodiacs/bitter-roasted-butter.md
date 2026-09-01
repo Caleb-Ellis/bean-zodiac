@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: bitter-roasted-butter
 lastUpdated: 
 bean: butter
@@ -13,8 +13,8 @@ creature: quokka
 dish: Butter beans blistered in the wood oven with radicchio and lemon.
 friendlyBeans: [adzuki, pinto]
 friendlyForm: fermented
-antiTriple: spicy-fried-kidney
-antiBeans: [green, mung]
+antiTriple: sour-fried-cannellini
+antiBeans: [green, navy]
 antiForm: dried
 seasonalFortune: "A season of slow blistering and borrowed ease. The oven works; the bean takes the credit."
 fortuneMost: Quokkas smile at everything, including whatever is eating them.

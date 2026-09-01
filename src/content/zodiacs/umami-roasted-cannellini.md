@@ -12,8 +12,8 @@ creature: dove
 dish: Cannellini roasted in duck fat with rosemary.
 friendlyBeans: [navy, pinto]
 friendlyForm: fried
-antiTriple: spicy-fermented-fava
-antiBeans: [black, kidney]
+antiTriple: spicy-fermented-black
+antiBeans: [mung, fava]
 antiForm: smoked
 seasonalFortune: "A season of duck fat and rosemary: the roast tells the table something it kept."
 fortuneMost: The dove coos from the nest — the whole forest hears.

@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: umami-boiled-edamame
 lastUpdated: 
 bean: edamame
@@ -13,9 +13,9 @@ creature: retriever
 dish: Edamame ohitashi steeped in cold dashi.
 friendlyBeans: [cannellini, navy]
 friendlyForm: dried
-antiTriple: sweet-roasted-adzuki
-antiBeans: [chickpea, green]
-antiForm: smoked
+antiTriple: sweet-roasted-green
+antiBeans: [adzuki, pinto]
+antiForm: fried
 seasonalFortune: "A season of ohitashi and steady tending: the pod stays with the task all winter."
 fortuneMost: Give enough of yourself away and leaving feels like betrayal.
 fortuneHigh: A retriever holds the bird until the hand comes.

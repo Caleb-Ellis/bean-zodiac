@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-fermented-fava
 lastUpdated:
 bean: fava
@@ -11,11 +11,11 @@ inverse: compliant
 quote: The most bean act in a conformist world is to think for yourself.
 creature: mole
 dish: Fava fermented into chilli bean paste with broad bean koji.
-friendlyBeans: [green, butter]
-friendlyForm: smoked
-antiTriple: umami-boiled-navy
-antiBeans: [cannellini, mung]
-antiForm: dried
+friendlyBeans: [butter, kidney]
+friendlyForm: fried
+antiTriple: sweet-dried-navy
+antiBeans: [cannellini, black]
+antiForm: boiled
 seasonalFortune: "A season of broad bean koji and quiet undermining — the paste rewrites the dish from inside."
 fortuneMost: A mole works under the lawn until the whole thing gives.
 fortuneHigh: Change it from the inside and say nothing.

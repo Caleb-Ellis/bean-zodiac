@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: umami-fermented-adzuki
 lastUpdated:
 bean: adzuki
@@ -11,10 +11,10 @@ inverse: forgetful
 quote: Do not go gentle into that good bean.
 creature: mourning dove
 dish: Adzuki miso aged on barley koji.
-friendlyBeans: [pinto, fava]
-friendlyForm: smoked
-antiTriple: bitter-dried-cannellini
-antiBeans: [navy, edamame]
+friendlyBeans: [pinto, chickpea]
+friendlyForm: roasted
+antiTriple: sour-dried-edamame
+antiBeans: [navy, cannellini]
 antiForm: boiled
 seasonalFortune: "A season of barley koji and remembered years — the miso tastes of what has gone."
 fortuneMost: Mourn everything and the good years get remembered as losses.

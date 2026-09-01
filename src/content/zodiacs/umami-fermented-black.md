@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: umami-fermented-black
 lastUpdated:
 bean: black
@@ -11,11 +11,11 @@ inverse: unexamined
 quote: Who looks outside, dreams; who looks inside, awakens the bean.
 creature: turtle
 dish: Black bean and shiitake stew thickened with red miso.
-friendlyBeans: [fava, pinto]
+friendlyBeans: [pinto, green]
 friendlyForm: smoked
-antiTriple: sweet-fried-chickpea
-antiBeans: [adzuki, kidney]
-antiForm: roasted
+antiTriple: sweet-boiled-chickpea
+antiBeans: [kidney, butter]
+antiForm: fried
 seasonalFortune: "A season of red miso and shuttered cellars: the ferment turns inward and stays there."
 fortuneMost: Look inward long enough and everybody else becomes scenery.
 fortuneHigh: Work out what you actually think.

@@ -12,8 +12,8 @@ creature: falcon
 dish: Blistered edamame in scorched garlic oil and yuzu kosho.
 friendlyBeans: [fava, green]
 friendlyForm: dried
-antiTriple: umami-boiled-mung
-antiBeans: [butter, adzuki]
+antiTriple: umami-smoked-mung
+antiBeans: [adzuki, butter]
 antiForm: fermented
 seasonalFortune: "A season of scorched garlic and settled arguments — the bean decides and never revisits."
 fortuneMost: In our rushing, we break our own lives.

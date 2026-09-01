@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: spicy-fried-black
 lastUpdated: 
 bean: black
@@ -13,9 +13,9 @@ creature: mako shark
 dish: Black beans fried with chipotle and garlic.
 friendlyBeans: [navy, kidney]
 friendlyForm: fermented
-antiTriple: umami-roasted-butter
-antiBeans: [mung, pinto]
-antiForm: fermented
+antiTriple: umami-boiled-butter
+antiBeans: [mung, adzuki]
+antiForm: dried
 seasonalFortune: "A season of chipotle and unbroken heat: the pan does not tire before the cook does."
 fortuneMost: Nothing finished ever counts for long.
 fortuneHigh: A mako has to keep swimming to breathe.

@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: bitter-fermented-fava
 lastUpdated: 
 bean: fava
@@ -14,7 +14,7 @@ dish: Doubanjiang aged from fava beans with bitter chilli skins.
 friendlyBeans: [green, pinto]
 friendlyForm: fried
 antiTriple: sweet-boiled-navy
-antiBeans: [butter, black]
+antiBeans: [kidney, black]
 antiForm: dried
 seasonalFortune: "A season of chilli skins and open arguments; the paste disputes the recipe it was given."
 fortuneMost: Question everything and nothing ever gets agreed.

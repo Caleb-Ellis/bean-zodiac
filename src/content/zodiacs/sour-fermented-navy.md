@@ -1,5 +1,5 @@
 ---
-# TODO: tidy facets, redo fortunes, redo rorschachs
+# TODO: rerun script
 slug: sour-fermented-navy
 lastUpdated: 
 bean: navy
@@ -13,9 +13,9 @@ creature: harvester ant
 dish: Navy beans in mustard pickle with cider vinegar.
 friendlyBeans: [cannellini, edamame]
 friendlyForm: dried
-antiTriple: sweet-fried-fava
-antiBeans: [green, butter]
-antiForm: smoked
+antiTriple: bitter-smoked-fava
+antiBeans: [green, pinto]
+antiForm: fried
 seasonalFortune: "A season of mustard pickle and kept accounts: nothing enters the jar unmeasured or unrecorded."
 fortuneMost: Get every detail right and nobody notices any of them.
 fortuneHigh: A harvester ant sorts every seed by size.

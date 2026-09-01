@@ -10,11 +10,11 @@ inverse: dim
 quote: We are all in the bean, but some of us are looking at the stars.
 creature: anglerfish
 dish: Barbecued adzuki with maple smoke and mirin.
-friendlyBeans: [black, mung]
+friendlyBeans: [black, pinto]
 friendlyForm: roasted
-antiTriple: sour-roasted-pinto
-antiBeans: [fava, kidney]
-antiForm: fried
+antiTriple: spicy-fried-navy
+antiBeans: [edamame, kidney]
+antiForm: boiled
 seasonalFortune: "A season of maple smoke and mirin — the tray glows before anyone has lit anything."
 fortuneMost: Down in the dark, nobody ever sees the anglerfish — only the lamp.
 fortuneHigh: The wary will tell you their secret.
