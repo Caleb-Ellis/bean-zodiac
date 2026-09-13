@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: umami-smoked-black
 lastUpdated:
 bean: black
@@ -13,36 +13,33 @@ creature: horned owl
 dish: Hickory-smoked black beans with cumin and bacon.
 friendlyBeans: [edamame, cannellini]
 friendlyForm: dried
-antiTriple: sweet-roasted-adzuki
-antiBeans: [chickpea, pinto]
-antiForm: fried
 seasonalFortune: "A season of cumin and hickory smoke — nothing in it gets laughed off."
-fortuneMost: Meet everything gravely and people stop bringing you their news.
-fortuneHigh: A horned owl calls at dusk, and every small thing under the trees holds still.
-fortuneMid: Don't make it easier than it is.
-fortuneLow: The laugh at the back of the room is doing a job.
+fortuneMost: Take everything gravely, and people stop bringing you their good news.
+fortuneHigh: When the horned owl calls, the whole wood goes quiet.
+fortuneMid: Some things deserve a straight face.
+fortuneLow: A joke won't break anything.
 fortuneLeast: People remember who made them laugh on a bad day.
 facetMostTitle: Beans from the Crypt
-facetMost: Your brother gets one visit a month and this is it — the locker, the tabard, forty minutes at a fixed table. Your mum's told all of you to keep it light because it's his little boy's birthday this week. Since he went in she's been to the doctor twice about her chest and stopped using the stairs. You tell him about the stairs.
-facetMostAction: You tell him about the stairs.
-facetHighTitle: The Last Bean Post
-facetHigh: The press has stamped brake discs since 1971 and goes off for good at two o'clock; party hats have been brought in for a photograph in front of it, and the man who has run it since he was seventeen is at the back with his coat on. You ask him to be the one who switches it off.
-facetHighAction: You ask him to be the one who switches it off.
-facetMidTitle: Two Beans' Silence
-facetMid: Open night at the observatory, and a volunteer has wound the dome round by hand for the eight of you. The logbook has a line in pencil for every night since 1928 — date, seeing, who was at the eyepiece — and he says one of you can write tonight's, which the others are laughing about. You fill in every column the way the old pages have them.
-facetMidAction: You fill in every column the way the old pages have them.
+facetMost: It's your friend's thirtieth, and her birthday lunch is at the café in a cathedral crypt, where the tables stand on old gravestones. The one under her chair is for a woman who died at thirty, and you haven't stopped looking at it since the starters. You read the stone out to the table.
+facetMostAction: You read the stone out to the table.
+facetHighTitle: Saving Private Bean
+facetHigh: The man who taught your Thursday pottery class died at the weekend, and his wife has asked you to tell the others. They've got the wheels going and the radio on, laughing, waiting for him to turn up. You turn the radio off and wait for every wheel to stop.
+facetHighAction: You turn the radio off and wait for every wheel to stop.
+facetMidTitle: Three Beans and a Baby
+facetMid: You're on the sea wall with ice creams when a friend mentions she's named you in her will as guardian to her kids, and laughs that it'll never come to that. You put your ice cream down and thank her.
+facetMidAction: You put your ice cream down and thank her.
 facetLowTitle: Laughter in the Bean
-facetLow: Your friend goes up for her black belt in ten minutes, her sixth year of trying, and she's sat in the changing room being told to breathe by everybody who comes past. Two years ago she caught the man who runs the class across the nose and he had to stop the session. You remind her about his nose.
-facetLowAction: You remind her about his nose.
+facetLow: Your sister is testing for her black belt in a few minutes, and everybody who walks past the changing room tells her to breathe. At her last test she caught the instructor across the nose, and he spent the rest of it holding a bag of frozen peas to his face. You remind her about the peas.
+facetLowAction: You remind her about the peas.
 facetLeastTitle: A Beany Thing Happened
-facetLeast: Your dad has got you and your two sisters round the table to say he's selling the house you all grew up in. He's written down what he wants to say so he gets it right, and there's a cake in the middle of the table. You ask whether the cake means it's already sold.
-facetLeastAction: You ask whether the cake means it's already sold.
-question: You've wanted to go down the show cave since you were a kid. Forty feet under, the guide turns every light off and asks the twelve of you for thirty seconds of proper dark, and somebody behind you starts making ghost noises. You...
-answerMost: turn round and tell them to grow up
-answerHigh: put a hand on the rock and wait it out
-answerMid: ask the guide afterwards how deep the dark goes
-answerLow: whisper something to the person next to you
-answerLeast: do a better ghost noise
+facetLeast: Past midnight at the hospital, a surgeon draws your appendix on the back of a form to show you why it has to come out before morning. Your partner is beside the bed, gripping your hand. You ask if you can keep it in a jar.
+facetLeastAction: You ask if you can keep it in a jar.
+question: What do you want played at your funeral?
+answerMost: Mozart's Requiem, every last movement
+answerHigh: Amazing Grace, on the bagpipes
+answerMid: Hallelujah, the Jeff Buckley one
+answerLow: Here Comes the Sun
+answerLeast: Another One Bites the Dust
 rorschachMost: a tomb
 rorschachHigh: a church bell
 rorschachMid: a bowler hat

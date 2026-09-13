@@ -11,11 +11,8 @@ inverse: conforming
 quote: Here's to the crazy beans, the misfits, the rebels, the troublemakers.
 creature: duck-billed platypus
 dish: Green bean kimchi with gochugaru and salted shrimp.
-friendlyBeans: [fava, adzuki]
+friendlyBeans: [fava, kidney]
 friendlyForm: roasted
-antiTriple: umami-boiled-navy
-antiBeans: [cannellini, black]
-antiForm: dried
 seasonalFortune: "A season of salted shrimp and broken rules; the crock ferments against every instruction given."
 fortuneMost: Do it your own way for long enough and it stops being a choice.
 fortuneHigh: A platypus hunts with its eyes shut and finds everything by feel.

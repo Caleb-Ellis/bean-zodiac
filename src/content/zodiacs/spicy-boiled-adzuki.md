@@ -13,9 +13,6 @@ creature: bonobo
 dish: Adzuki braised with gochugaru and young ginger.
 friendlyBeans: [kidney, mung]
 friendlyForm: roasted
-antiTriple: sour-smoked-cannellini
-antiBeans: [edamame, black]
-antiForm: fermented
 seasonalFortune: "A season of gochugaru and long braising — the pot stays at a boil, and keeps asking for more."
 fortuneMost: Keep the party going long enough and it stops being a party.
 fortuneHigh: Stay for the encore.

@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: spicy-dried-kidney
 lastUpdated:
 bean: kidney
@@ -13,31 +13,33 @@ creature: cobra
 dish: Dried kidney beans with dried chipotle and cumin.
 friendlyBeans: [mung, chickpea]
 friendlyForm: boiled
-antiTriple: sour-smoked-pinto
-antiBeans: [fava, butter]
-antiForm: roasted
 seasonalFortune: "A season of dried chipotle and cocked triggers — the pantry waits, loaded, for a reason."
-fortuneMost: Stay ready for long enough and the readiness becomes the strain.
-fortuneHigh: A cobra rises before it has decided anything.
-fortuneMid: Being prepared costs little.
-fortuneLow: Stand down for now.
-fortuneLeast: Unreadiness is survivable.
-facetMostTitle: Powder Bean
-facetMost: The lifeboat pager has gone four times this month and three of them were nothing, and your boots are by the door with the keys inside them. A car backfires on the hill outside and you are already up and reaching for the boots before you have thought about it.
+fortuneMost: Jump at every shadow and you'll be worn out before the real thing comes.
+fortuneHigh: Be ready to go at a moment's notice.
+fortuneMid: The cobra rests coiled, so it never has far to go.
+fortuneLow: Most things can wait until you've finished your coffee.
+fortuneLeast: Some of the best things happen when you're not ready for them.
+facetMostTitle: Beanie Get Your Gun
+facetMost: It's your younger sister's birthday, at a club, and a man puts his hand on her back to squeeze past her to the bar. She hasn't even turned round. You go straight across the dance floor and grab his wrist.
+facetMostAction: You go straight across the dance floor and grab his wrist.
 facetHighTitle: Beany to Rumble
-facetHigh: Second leg of the relay, and she is coming round the bend fast, and your hand is back before she is anywhere near the box.
+facetHigh: The power's out across the whole city in a heatwave, and your grandmother lives alone on the twelfth floor. You've kept her spare key and a torch by your door for exactly this. You grab the key and head straight over.
+facetHighAction: You grab the key and head straight over.
 facetMidTitle: Start Me Bean
-facetMid: A quiz buzzer is under your palm and the question is only half out. You have the answer already, and you go, with the rest of the table looking at you.
-facetLowTitle: Ethelred the Beany
-facetLow: A bag by the door has been packed for the hospital and the dates are close now. The wrong things are in that bag, and you have not been through them.
-facetLeastTitle: Caught Beaning
-facetLeast: Somebody has said your name for the reading and you are three rows back with your coat on your knees, and the book is at home, and it is a page you have not looked at.
-question: The bag by your door has been packed for a year. The phone goes at midnight. What happens?
-answerMost: you're gone before you've asked who's calling or why
-answerHigh: you're out of the door inside two minutes
-answerMid: you dress, ring back to find out what's wanted, then go
-answerLow: you say you'll come in the morning
-answerLeast: twenty minutes go on finding your keys
+facetMid: Your friend's son is having his birthday party at the swimming pool, with a crowd of kids in the shallow end and a lifeguard up on the high chair. You're sitting at the side with the other adults, fully dressed. You take your shoes and socks off, just in case.
+facetMidAction: You take your shoes and socks off, just in case.
+facetLowTitle: The Big Beanowski
+facetLow: The fire alarm goes off in your hotel at two in the morning, for the second night running. Last night it was nothing. You get fully dressed before you go down.
+facetLowAction: You get fully dressed before you go down.
+facetLeastTitle: Sleeping Beanuty
+facetLeast: Four days on a sleeper train, and the woman sharing your cabin has brought a kettle, a bag full of instant noodles and her own pillow. She asks what you've packed, and you've brought a book and a toothbrush. You tell her you'll buy what you need at the stations.
+facetLeastAction: You tell her you'll buy what you need at the stations.
+question: A friend who lives across town texts you at one in the morning — "can you call me?" — and then nothing. You...
+answerMost: get a taxi to their place before trying to call
+answerHigh: call straight back, already pulling your shoes on
+answerMid: call back to see what's wrong
+answerLow: text back asking if everything's okay
+answerLeast: leave it until the morning
 rorschachMost: a spitting chip pan
 rorschachHigh: a set mousetrap
 rorschachMid: a laid fire

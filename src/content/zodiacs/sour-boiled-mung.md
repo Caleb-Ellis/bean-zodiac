@@ -13,9 +13,6 @@ creature: burying beetle
 dish: Mung dal boiled with kokum and curry leaf.
 friendlyBeans: [butter, kidney]
 friendlyForm: smoked
-antiTriple: bitter-dried-cannellini
-antiBeans: [edamame, green]
-antiForm: fried
 seasonalFortune: "A season of kokum and curry leaf — whatever is tipped into the pot, the dal doesn't change colour."
 fortuneMost: When nothing shocks you, it's hard to notice what should.
 fortuneHigh: A burying beetle raises its young inside a dead mouse.

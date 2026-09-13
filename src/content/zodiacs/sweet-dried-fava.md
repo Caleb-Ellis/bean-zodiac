@@ -13,9 +13,6 @@ creature: albatross
 dish: Fava praline with orange blossom.
 friendlyBeans: [edamame, pinto]
 friendlyForm: fermented
-antiTriple: bitter-smoked-mung
-antiBeans: [chickpea, adzuki]
-antiForm: roasted
 seasonalFortune: "A season of orange blossom praline and faith that keeps — the sugar sets once and holds for years."
 fortuneMost: Belief in someone can become one more thing they have to live up to.
 fortuneHigh: Stay in their corner, win or lose.

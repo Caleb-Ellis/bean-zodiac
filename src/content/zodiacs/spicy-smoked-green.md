@@ -13,9 +13,6 @@ creature: starling
 dish: Green beans smoked, then tossed in chipotle butter.
 friendlyBeans: [adzuki, fava]
 friendlyForm: roasted
-antiTriple: umami-dried-navy
-antiBeans: [pinto, black]
-antiForm: boiled
 seasonalFortune: "A season of chipotle butter and catching moods — the smoke gets into everyone's clothes, even the ones who never went near the fire."
 fortuneMost: Stir a crowd up and it won't settle when you do.
 fortuneHigh: One starling turns, and the whole flock turns with it.

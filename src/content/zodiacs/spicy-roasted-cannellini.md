@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: spicy-roasted-cannellini
 lastUpdated:
 bean: cannellini
@@ -13,36 +13,33 @@ creature: dolphin
 dish: Cannellini roasted with bird's eye chilli, oregano, and garlic.
 friendlyBeans: [black, edamame]
 friendlyForm: smoked
-antiTriple: sweet-fried-fava
-antiBeans: [kidney, mung]
-antiForm: fermented
 seasonalFortune: "A season of bird's eye chilli and gathered attention — the roast is why people came."
-fortuneMost: A crowd repeats the loudest voice back to itself.
-fortuneHigh: Speak plainly and they'll follow.
-fortuneMid: A dolphin brings the whole pod over to look.
-fortuneLow: Nobody needs a speech here.
-fortuneLeast: Being forgettable is a kind of freedom.
-facetMostTitle: Beanessiah
-facetMost: Nine people have given you their Saturdays since the spring to turn the warehouse into something the town can use, on nothing but you saying it'd work. Two have said they can't keep doing it and the floor's still bare. You ask them all for four more Saturdays.
-facetMostAction: You ask them all for four more Saturdays.
+fortuneMost: When they start believing in you instead of the plan, the plan's in trouble.
+fortuneHigh: Walk in like they've been waiting for you.
+fortuneMid: When one dolphin turns, the whole pod turns with it.
+fortuneLow: Let someone else have the floor.
+fortuneLeast: Plain white beans go with everything.
+facetMostTitle: Jesus Christ Superbean
+facetMost: Two friends have quit their jobs to open a bakery with you in the old bank in town, because you said it would work. The bakery isn't paying any of you yet. Now another friend has written her resignation, and asks whether she should hand it in. You tell her to hand it in.
+facetMostAction: You tell her to hand it in.
 facetHighTitle: A Bean Is Born
-facetHigh: Your friend's three months off finishing the nursing degree, with the withdrawal form filled in on the table in front of her. Three people have told her this week not to send it and she filled it in anyway. You tell her she's going to be the one they put the frightened ones with.
-facetHighAction: You tell her she's going to be the one they put the frightened ones with.
-facetMidTitle: Star Beanlity
-facetMid: It's the last hour and the hammer only comes down once. Lot nine's two weeks in a flat outside Almería, stuck at forty pounds, and the night's for a roof on the boxing club. You stand up and tell the room what forty pounds is buying them.
-facetMidAction: You stand up and tell the room what forty pounds is buying them.
+facetHigh: Your friend's band is playing its first gig in the back room of a restaurant, and everyone at the tables is on their phones. Between songs she looks over at you. You get up and pull the people at the nearest table up to dance.
+facetHighAction: You get up and pull the people at the nearest table up to dance.
+facetMidTitle: Friday Night Beans
+facetMid: At half time the under-tens football team your friend coaches is losing badly, some of them are crying, and your friend, who asked you along to help, is looking at you. You tell them the next goal is the only one that counts.
+facetMidAction: You tell them the next goal is the only one that counts.
 facetLowTitle: Beanagnolia
-facetLow: Your friend's got forty tickets left for the night she's put on, and the eight in the group chat do whatever you tell them. She asks you to sell it to them. You send them the date, the address and the price.
-facetLowAction: You send them the date, the address and the price.
+facetLow: Families are walking along the kennels at the open day of the dog rescue where you volunteer. Nobody has stopped all day for the old greyhound at the end, and the manager asks you to talk him up to the next family. You tell them his age and that he's house-trained.
+facetLowAction: You tell them his age and that he's house-trained.
 facetLeastTitle: Invisible Bean
-facetLeast: The club runs on two staff for thirty kids, and the trip to the coast comes out of a fund that's spent this year or handed back. Three names on the sheet. The worker says they'll go if you ask them. You pin the sheet up by the door.
-facetLeastAction: You pin the sheet up by the door.
-question: When you explain a plan, people believe in it. They always have. You...
-answerMost: keep going until they believe in you rather than the plan
-answerHigh: put it across so they can see the thing working
-answerMid: explain it straight and answer the questions
-answerLow: hand the paper out and let it speak
-answerLeast: read the figures out flat
+facetLeast: You're an extra on a film for the day, in a crowd scene at a train station. Between takes the director walks along the crowd looking for someone to give a line to, which pays more and gets your face in the film. You step back behind the man in front of you.
+facetLeastAction: You step back behind the man in front of you.
+question: You're stuck in a lift with six strangers for an hour before the engineer gets there. Which one are you?
+answerMost: the one they'd all follow out through the roof hatch
+answerHigh: the one who gets everyone singing
+answerMid: the one chatting to whoever's next to you
+answerLow: the one who answers when spoken to
+answerLeast: the one nobody remembers was there
 rorschachMost: a haloed head
 rorschachHigh: a chandelier
 rorschachMid: a market stall

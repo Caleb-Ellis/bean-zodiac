@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: spicy-smoked-cannellini
 lastUpdated:
 bean: cannellini
@@ -11,38 +11,35 @@ inverse: unnoticeable
 quote: You had me at bean.
 creature: coral snake
 dish: Cannellini smoked with chipotle, rosemary, and burnt tomato.
-friendlyBeans: [navy, edamame]
+friendlyBeans: [black, edamame]
 friendlyForm: dried
-antiTriple: sweet-roasted-adzuki
-antiBeans: [butter, green]
-antiForm: fermented
 seasonalFortune: "A season of burnt tomato and sudden attention: the smoke stops the conversation mid-sentence."
-fortuneMost: A coral snake's colours are a warning nobody ignores.
-fortuneHigh: Make them look.
-fortuneMid: One red thread wakes the whole dish.
-fortuneLow: Turn it down a notch.
-fortuneLeast: Not being watched is a relief.
-facetMostTitle: Beanin Your Face
-facetMost: You've made the film for her fortieth and it's going up in front of eighty people. Her dad left when she was nine and the family line is he isn't talked about. You put the one photograph of him holding her in the middle of it.
-facetMostAction: You put the one photograph of him holding her in the middle of it.
-facetHighTitle: Stopped in Your Beans
-facetHigh: The three of you have the underpass for the weekend and the council's said what you like. Everyone expects the river and the herons. You put the underpass in flat black and leave one white square at the far end.
-facetHighAction: You put the underpass in flat black and leave one white square at the far end.
-facetMidTitle: The Double Bean
-facetMid: The lift's been out nine weeks and the board by the doors is three sheets of someone's paragraphs and a photocopied letter. You've been asked to put something up. You put up one sheet with the number of days and nothing else.
-facetMidAction: You put up one sheet with the number of days and nothing else.
-facetLowTitle: Passed Bean
-facetLow: The guide takes you past the passage they don't open to the public, and at the bottom he puts every lamp out for a minute. Everyone says dark when he asks. You had your eyes shut the whole time and it made no difference. You say dark as well.
-facetLowAction: You say dark as well.
-facetLeastTitle: Beander the Radar
-facetLeast: Twelve of you have a wall each in the room above the shop and the hanging's tonight. You've brought a photograph of your mother's hands that'll take the room off everyone else, and a print of the harbour that won't. You hang the harbour.
-facetLeastAction: You hang the harbour.
-question: Rooms go quiet for a second when you walk into them. They always have. You...
-answerMost: use the second to say the thing that changes the meeting
-answerHigh: let it pass and get on with why you came
-answerMid: say hello to somebody so the room starts up again
-answerLow: come in late so that it doesn't happen
-answerLeast: use the side door and get to your seat unnoticed
+fortuneMost: Stop people in their tracks too often and they'll start taking the long way around.
+fortuneHigh: Give them something to stare at.
+fortuneMid: A coral snake's colours stop a hawk before it strikes.
+fortuneLow: Let something else catch the eye.
+fortuneLeast: Nobody notices the white bean in the soup, but the soup is better for it.
+facetMostTitle: Three Beanboards Outside Ebbing, Missouri
+facetMost: The owner of the empty shop on your corner has said you can use its window for the month. The council has just refused a crossing outside the school at the end of the road, and the councillor who signed the letter lives on your street. You fill the window with his letter, blown up, and his signature circled in red.
+facetMostAction: You fill the window with his letter, blown up, and his signature circled in red.
+facetHighTitle: The Bean with the Dragon Tattoo
+facetHigh: You're getting your first tattoo, a dark red poppy about the size of your palm. The artist suggests the top of your arm, where a T-shirt sleeve will hide it at job interviews and family dinners. You have it done on the side of your neck.
+facetHighAction: You have it done on the side of your neck.
+facetMidTitle: Beanlander
+facetMid: A friend is helping you set up a dating profile, and she's put a photo of you grinning on a beach first. You've also got a black-and-white close-up of you staring straight into the camera, unsmiling. You put the close-up first.
+facetMidAction: You put the close-up first.
+facetLowTitle: Scent of a Bean
+facetLow: A friend who makes perfume in her spare room has offered to mix you a bottle of your own. Her shelf is full of oud, leather and tuberose, the kind of scents that make strangers turn around in the street. You ask her for something that smells of clean laundry.
+facetLowAction: You ask her for something that smells of clean laundry.
+facetLeastTitle: The Bean Who Wasn't There
+facetLeast: A friend has got you into the after-party of a film premiere. Every guest arrives down a grand staircase into the ballroom, and everyone below looks up to see who it is. A waiter shows you a service door behind the stairs that comes out by the bar. You go in through the service door.
+facetLeastAction: You go in through the service door.
+question: Your town has voted to put up a statue of you in the main square. How do you want it done?
+answerMost: naked, looking every passer-by in the eye
+answerHigh: in a long black coat, up on a tall plinth
+answerMid: sitting on a bench, with room beside you
+answerLow: life-size, off in a corner under the trees
+answerLeast: a small plaque with your name, low down on a wall
 rorschachMost: a raised barrier
 rorschachHigh: a warning sign
 rorschachMid: a fire alarm

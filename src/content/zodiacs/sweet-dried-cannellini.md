@@ -13,9 +13,6 @@ creature: ermine
 dish: Cannellini glacé with vanilla and lemon peel.
 friendlyBeans: [edamame, navy]
 friendlyForm: boiled
-antiTriple: spicy-roasted-adzuki
-antiBeans: [chickpea, kidney]
-antiForm: fried
 seasonalFortune: "A season of vanilla sugar and candied peel — everything keeps, and everything is kept, and nothing is used up."
 fortuneMost: Keep it perfect and nobody will use it.
 fortuneHigh: Put it back where it lives.

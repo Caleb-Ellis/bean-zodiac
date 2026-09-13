@@ -13,9 +13,6 @@ creature: kiwi
 dish: Black bean soup finished with lime and pickled red onion.
 friendlyBeans: [navy, pinto]
 friendlyForm: smoked
-antiTriple: bitter-fried-chickpea
-antiBeans: [mung, adzuki]
-antiForm: roasted
 seasonalFortune: "A season of lime and pickled onion — the first answer is never the one the season is after."
 fortuneMost: Past a certain point the questions stop being about the answer.
 fortuneHigh: A kiwi smells the worm through the soil and puts its whole bill in after it.

@@ -11,6 +11,7 @@ interface Props {
 
 function toPoint(
   value: number,
+  minVal: number,
   maxVal: number,
   index: number,
   total: number,
@@ -19,13 +20,13 @@ function toPoint(
   radius: number,
 ): [number, number] {
   const angle = (index / total) * 2 * Math.PI - Math.PI / 2;
-  const r = (value / maxVal) * radius;
+  const r = ((value - minVal) / (maxVal - minVal)) * radius;
   return [cx + r * Math.cos(angle), cy + r * Math.sin(angle)];
 }
 
 function gridRing(level: number, total: number, cx: number, cy: number, radius: number): string {
   return Array.from({ length: total }, (_, i) => {
-    const [x, y] = toPoint(level, 1, i, total, cx, cy, radius);
+    const [x, y] = toPoint(level, 0, 1, i, total, cx, cy, radius);
     return `${x},${y}`;
   }).join(" ");
 }
@@ -45,9 +46,11 @@ export default function SpiritBeanRadar({
   const cy = 150;
   const maxRadius = 88;
   const labelRadius = 106;
+  // Centre is min(0, lowest): negative scores stretch the scale inward.
+  const minVal = Math.min(...values, 0);
   const maxVal = Math.max(...values, 48);
 
-  const dataPoints = values.map((v, i) => toPoint(v, maxVal, i, n, cx, cy, maxRadius));
+  const dataPoints = values.map((v, i) => toPoint(v, minVal, maxVal, i, n, cx, cy, maxRadius));
   const polygonPoints = dataPoints.map(([x, y]) => `${x},${y}`).join(" ");
 
   return (

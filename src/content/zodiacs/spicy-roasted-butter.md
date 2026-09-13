@@ -13,9 +13,6 @@ creature: waxwing
 dish: Butter beans roasted in piri-piri oil with red pepper and bay.
 friendlyBeans: [adzuki, chickpea]
 friendlyForm: fried
-antiTriple: bitter-smoked-cannellini
-antiBeans: [navy, edamame]
-antiForm: dried
 seasonalFortune: "A season of piri-piri oil and loosened belts: the tray is scraped clean and nobody's going home."
 fortuneMost: Waxwings gorge on fermented rowan berries until they can't fly straight.
 fortuneHigh: Turn the music up!

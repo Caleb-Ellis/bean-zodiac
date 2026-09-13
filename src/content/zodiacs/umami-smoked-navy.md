@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: umami-smoked-navy
 lastUpdated: 
 bean: navy
@@ -13,31 +13,33 @@ creature: aldabra tortoise
 dish: Hickory-smoked navy beans with salt pork.
 friendlyBeans: [cannellini, edamame]
 friendlyForm: dried
-antiTriple: spicy-roasted-fava
-antiBeans: [chickpea, green]
-antiForm: fried
 seasonalFortune: "A season of salt pork and unchanged method: the smokehouse keeps a year without dates."
-fortuneMost: Unchanging enough and the invitations quietly stop.
-fortuneHigh: An aldabra tortoise outlives everyone who named it.
-fortuneMid: Old ways hold up better than expected.
-fortuneLow: Try the new version.
-fortuneLeast: Being dated is only being from somewhere.
+fortuneMost: The aldabra tortoise stays exactly as it is while the island changes around it.
+fortuneHigh: Always go for the classic.
+fortuneMid: A plain white shirt is never out of fashion.
+fortuneLow: Not every new thing is a fad.
+fortuneLeast: It's no bad thing to look like the year you're living in.
 facetMostTitle: Jurassic Bean
-facetMost: Your suit is the one you have had since you were twenty-six and the coat is a shape nobody has worn in thirty years. You have it pressed, and you get to the wedding early.
+facetMost: You still don't have a smartphone, and when your best friend's engagement party changed venue on the group chat, you missed the speeches. The next day she brings round her old phone, all set up for you. You give it back to her.
+facetMostAction: You give it back to her.
 facetHighTitle: As Bean Goes By
-facetHigh: A stew is made the way it has always been made. The proportions have not moved in forty years. Everybody asks you for that stew, and you have never written the recipe down.
-facetMidTitle: For All Beantime
-facetMid: There is a tool roll your father put together and you have added nothing to it in all the years you have had it, and two of the handles have been rewrapped. It does everything you have ever needed it to do.
+facetHigh: The band for your wedding asks what you want for the first dance. Nearly every couple this year has had the song that was number one all summer, and your family will be watching the video for decades. You ask for a jazz standard from the forties.
+facetHighAction: You ask for a jazz standard from the forties.
+facetMidTitle: Toy Bean Story
+facetMid: Your nephew is turning five, and the woman in the toy shop says every child his age wants the talking robot from this year's big cartoon. He'll open his presents in front of all his friends. You buy him a wooden train set.
+facetMidAction: You buy him a wooden train set.
 facetLowTitle: This Year's Bean Model
-facetLow: A new way of jointing has come in and everybody swears by it, and you try it on shelving nobody will look at.
-facetLeastTitle: A Museum Bean
-facetLeast: Somebody has told you about the colour and the cut and you have gone and got the lot of it. In two years it will be the thing that dates a photograph.
-question: Your coat is thirty years old, the recipes are your grandmother's, and your niece is showing you what everyone's wearing now. You...
-answerMost: keep the coat and the recipes, and hear nothing about the rest
-answerHigh: wear the coat, because it worked then and works now
-answerMid: wear the coat, and try one thing she's shown you
-answerLow: buy the jacket she points at
-answerLeast: put the coat in the loft and go by what she says
+facetLow: You're adopting a scruffy terrier from the shelter, and you can call him anything you like. The volunteers named him after the lead in this year's big TV show, and the dog in the next pen is called the same thing. You keep the name.
+facetLowAction: You keep the name.
+facetLeastTitle: I Know What You Did Last Bean
+facetLeast: You've booked in for your first tattoo. The artist's book has the anchors, swallows and roses sailors have had for a century, and a page of the small design she's done on nearly everyone who's come in this year. You pick this year's design.
+facetLeastAction: You pick this year's design.
+question: Fifty years from now, a stranger finds a photo of you from today. What gives away when it was taken?
+answerMost: they'd guess it was decades older than it is
+answerHigh: nothing — it could be from any decade
+answerMid: the haircut, maybe
+answerLow: the jacket everybody's wearing this year
+answerLeast: the outfit, the hair, the filter and the pose
 rorschachMost: a fossil
 rorschachHigh: a tortoise shell
 rorschachMid: a stone bridge

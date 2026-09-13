@@ -12,9 +12,6 @@ creature: macaque
 dish: Adzuki pickled in ume vinegar with shiso.
 friendlyBeans: [pinto, green]
 friendlyForm: smoked
-antiTriple: bitter-dried-navy
-antiBeans: [cannellini, kidney]
-antiForm: boiled
 seasonalFortune: "A season of ume vinegar and long mirrors — the jar knows exactly what it has become."
 fortuneMost: Would we be happier in a world without mirrors?
 fortuneHigh: Stare too long in the pond and you might forget to drink.

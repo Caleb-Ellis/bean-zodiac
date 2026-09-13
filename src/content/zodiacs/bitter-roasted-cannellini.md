@@ -11,11 +11,8 @@ inverse: coarse
 quote: A bean by any other name would taste as fine.
 creature: mute swan
 dish: Cannellini roasted under coals with rosemary and burnt shallot.
-friendlyBeans: [navy, edamame]
+friendlyBeans: [black, navy]
 friendlyForm: fried
-antiTriple: spicy-fermented-kidney
-antiBeans: [chickpea, mung]
-antiForm: smoked
 seasonalFortune: "A season of rosemary and burnt shallot — the coals throw away more than they keep, and what's left is worth it."
 fortuneMost: There is a point past which nobody else can see the difference.
 fortuneHigh: Spend the extra. It lasts.

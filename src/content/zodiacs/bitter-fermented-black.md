@@ -1,48 +1,45 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: bitter-fermented-black
 lastUpdated: 
 bean: black
 flavour: bitter
 form: fermented
-trait: ruminative
-excess: morbid
+trait: reflective
+excess: ruminative
 inverse: unthinking
 quote: Whatever our beans are made of, his and mine are the same.
 creature: highland cow
 dish: Douchi - salted fermented black beans with young ginger.
-friendlyBeans: [butter, pinto]
+friendlyBeans: [butter, mung]
 friendlyForm: smoked
-antiTriple: sweet-boiled-kidney
-antiBeans: [navy, chickpea]
-antiForm: fried
 seasonalFortune: "A season of dark jars and slow turning: the ferment thinks in a cellar nobody visits."
-fortuneMost: A highland cow brings the same mouthful back up all day.
-fortuneHigh: Sit with it a while longer.
-fortuneMid: The problem looks different after a walk.
-fortuneLow: Stop turning it over.
-fortuneLeast: The first thought was fine.
+fortuneMost: Dwell on the worst long enough, and it starts to feel likely.
+fortuneHigh: The highland cow chews everything twice, and gets by on the toughest grass.
+fortuneMid: Some things only make sense the second time around.
+fortuneLow: You're allowed to stop thinking about it.
+fortuneLeast: There's no need to dig up what's already been buried.
 facetMostTitle: The Beanams Family
-facetMost: Three months ago, in your brother's kitchen, you talked him out of the flat he was buying. The block has gone up eleven per cent since and he is still renting. You run six laps most evenings and you have spent every one of them this fortnight going back through what you said, for the sentence that did it. You go back to the first thing you said to him.
-facetMostAction: You go back to the first thing you said to him.
+facetMost: It's your parents' anniversary party and you're giving the speech. You've written some jokes about how they met, but since your dad's heart scare in the spring you've thought of little else but how many more of these there'll be. You tell the guests to make the most of this one, because it might be the last.
+facetMostAction: You tell the guests to make the most of this one, because it might be the last.
 facetHighTitle: Bean and Punishment
-facetHigh: You gave a statement in March about the van that killed a cyclist at the junction, and you have gone back over the four seconds so often that you are now certain its indicator was on, which the statement does not say. The coroner is finding today and the cyclist's family are three rows behind you. You tell him the statement was wrong about the indicator.
-facetHighAction: You tell him the statement was wrong about the indicator.
+facetHigh: You're at the airport to see off an ex who's moving abroad. You stayed friends after the breakup, but when you ended it you told them they'd never once put you first, and you've gone over that line most weeks since. At security, you ask them if what you said back then was fair.
+facetHighAction: At security, you ask them if what you said back then was fair.
 facetMidTitle: Manchester by the Bean
-facetMid: At Sunday lunch your friend said, in front of the others, that you have always had somebody to fall back on, and everybody laughed and it moved on; four days later you are on the bus and still on that sentence. You text her to ask what she meant by it.
-facetMidAction: You text her to ask what she meant by it.
+facetMid: At a friend's rooftop birthday, somebody mentions that your old flatmate has just got married, and most of your old friends were there. Nobody invited you. On the way home, you look up the photos from the wedding.
+facetMidAction: On the way home, you look up the photos from the wedding.
 facetLowTitle: Night of the Living Bean
-facetLow: You have been on the same twenty minutes of a row with your sister all week and meant to read her messages again on the way. Down in the catacombs there is no signal for the hour, and a guide is explaining which vault was sealed last and what happened to the families living in them. You ask him how many of them were living down here.
-facetLowAction: You ask him how many of them were living down here.
+facetLow: A friend talks you into seeing a palm reader at the street market. She studies your hand for a long moment, then says only that you should call home more. Your friend wants to pick over what that meant. You ask your friend where she wants to get dinner.
+facetLowAction: You ask your friend where she wants to get dinner.
 facetLeastTitle: Beaniocracy
-facetLeast: Two years ago your friend asked you to come to Lisbon with her for the year and you said no the same afternoon, and in the park she has just told you about the flat over the bakery and the four people she still speaks to every week, and asked if you ever wonder. You tell her you have not thought about it once.
-facetLeastAction: You tell her you have not thought about it once.
-question: On Monday your manager said, in passing, that you're very literal. It's Thursday. You...
-answerMost: keep at it until you've built a case for being pushed out
-answerHigh: turn it over again and get to what he actually meant
-answerMid: think it through once more, then leave it
-answerLow: put it out of your mind after the first day
-answerLeast: forget he said it by lunchtime
+facetLeast: You've been knocked out of a TV quiz show in the first round, on a capital city you definitely knew. In the green room, a producer offers to show you the clip before it goes out. You say no thanks, and ask if there are any sandwiches left.
+facetLeastAction: You say no thanks, and ask if there are any sandwiches left.
+question: You're on a long walk on your own, with no headphones. What's on your mind?
+answerMost: who would come to your funeral
+answerHigh: a friendship that ended badly, and whose fault it was
+answerMid: something you said yesterday that came out wrong
+answerLow: where to stop for lunch
+answerLeast: the view, mostly
 rorschachMost: a hanging carcass
 rorschachHigh: a grey beard
 rorschachMid: a rain cloud
@@ -50,4 +47,4 @@ rorschachLow: a shaggy rug
 rorschachLeast: a sandbag
 ---
 
-Cultured Black Beans are the Bean Zodiac's most ruminative. A conversation from Tuesday gets turned over again on Sunday, and the third turn finds something true. Occasionally the turning goes somewhere dark and stays. Doing a thing and never revisiting it is not a skill they possess.
+Cultured Black Beans are the Bean Zodiac's most reflective. A conversation from Tuesday gets turned over again on Sunday, and the third turn finds something true. Occasionally the turning goes somewhere dark and stays. Doing a thing and never revisiting it is not a skill they possess.

@@ -12,9 +12,6 @@ creature: nautilus
 dish: Pinto beans smoked over pecan with charred serrano.
 friendlyBeans: [fava, green]
 friendlyForm: roasted
-antiTriple: sweet-boiled-kidney
-antiBeans: [navy, chickpea]
-antiForm: dried
 seasonalFortune: "A season of pecan smoke and turning patterns — the flavour folds into itself and keeps folding."
 fortuneMost: The nautilus shell spirals ever inward, endless beautiful chambers...
 fortuneHigh: A maze is a lovely place to visit, so long as you don't get lost.

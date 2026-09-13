@@ -13,9 +13,6 @@ creature: asian elephant
 dish: Zenzai - adzuki simmered with sugar until glossy, served with mochi.
 friendlyBeans: [butter, navy]
 friendlyForm: dried
-antiTriple: spicy-fried-fava
-antiBeans: [green, pinto]
-antiForm: smoked
 seasonalFortune: "A season of zenzai and bowls passed round in the cold — nobody gets up from the table sadder than they sat down."
 fortuneMost: Add the sugar too soon and the beans stay hard.
 fortuneHigh: An Asian elephant comforts an upset friend by putting its trunk in her mouth.

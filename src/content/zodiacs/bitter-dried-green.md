@@ -13,9 +13,6 @@ creature: poison dart frog
 dish: Leather britches - air-dried green beans with rue and salt pork.
 friendlyBeans: [pinto, fava]
 friendlyForm: fried
-antiTriple: umami-boiled-chickpea
-antiBeans: [butter, adzuki]
-antiForm: roasted
 seasonalFortune: "A season of rue and salt pork — nothing is cut with anything, and the ones who stay for it stay for good."
 fortuneMost: A poison dart frog advertises itself, and nothing tries it twice.
 fortuneHigh: Give them the strong version.

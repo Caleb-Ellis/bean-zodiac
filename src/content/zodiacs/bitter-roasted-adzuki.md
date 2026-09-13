@@ -13,9 +13,6 @@ creature: frigatebird
 dish: Wood-roasted adzuki with hojicha and black sesame.
 friendlyBeans: [chickpea, butter]
 friendlyForm: fried
-antiTriple: sour-boiled-navy
-antiBeans: [edamame, kidney]
-antiForm: dried
 seasonalFortune: "A season of hojicha and low light — nobody has to sit through the awkward part, and nobody sees who arranged that."
 fortuneMost: A frigatebird takes the fish from another bird in mid-air and never gets its feathers wet.
 fortuneHigh: Make the introduction before anybody has to ask.

@@ -2,6 +2,7 @@
 slug: umami
 name: Umami
 tagline: The Flavour that sinks in.
+vibe: they're in their own world – you might be part of it
 positiveTraits: [deep, mellow, resonant, gratifying, unassuming]
 negativeTraits: [melancholic, stagnant]
 ---

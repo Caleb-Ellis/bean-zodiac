@@ -13,9 +13,6 @@ creature: bowhead whale
 dish: Green beans dried and candied in maple crystal.
 friendlyBeans: [fava, edamame]
 friendlyForm: fried
-antiTriple: bitter-fermented-pinto
-antiBeans: [butter, mung]
-antiForm: smoked
 seasonalFortune: "A season of maple crystal and long keeping — what was put up years ago comes out of the jar tasting new."
 fortuneMost: Keep the enthusiasm forever and you keep the beginner's mistakes too.
 fortuneHigh: A bowhead whale lives two hundred years and sings a new song most of them.

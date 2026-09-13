@@ -11,11 +11,8 @@ inverse: offhand
 quote: They also serve who only stand and bean.
 creature: osprey
 dish: Adzuki simmered with dried tangerine peel and chrysanthemum until the broth turns dark.
-friendlyBeans: [black, navy]
+friendlyBeans: [black, butter]
 friendlyForm: dried
-antiTriple: sour-fried-edamame
-antiBeans: [green, fava]
-antiForm: fermented
 seasonalFortune: "A season of chrysanthemum and a dark broth — nothing about it is new, and the table fills anyway."
 fortuneMost: Keep something up long enough and nobody can remember what it was for.
 fortuneHigh: Be the one who turns up again.

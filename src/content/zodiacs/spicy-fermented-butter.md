@@ -13,9 +13,6 @@ creature: ring-tailed lemur
 dish: Butter beans in kimchi with mu radish.
 friendlyBeans: [pinto, mung]
 friendlyForm: smoked
-antiTriple: sour-fried-navy
-antiBeans: [cannellini, chickpea]
-antiForm: dried
 seasonalFortune: "A season of perilla and unbroken attention — the crock watches its own bubbles rise for weeks."
 fortuneMost: Watch the stars too long and you'll walk into a lamp post.
 fortuneHigh: Let yourself be amazed.

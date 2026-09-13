@@ -11,11 +11,8 @@ inverse: unaligned
 quote: Here I bean, I can do no other.
 creature: siamang
 dish: Navy beans roasted with cayenne, thyme, and molasses.
-friendlyBeans: [cannellini, black]
+friendlyBeans: [cannellini, kidney]
 friendlyForm: dried
-antiTriple: bitter-fermented-green
-antiBeans: [pinto, fava]
-antiForm: fried
 seasonalFortune: "A season of cayenne and flown colours — the bean declares itself before anyone asks."
 fortuneMost: Shout for your side long enough and you'll be shouting alone.
 fortuneHigh: Stand up and be counted.

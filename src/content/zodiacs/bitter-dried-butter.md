@@ -13,36 +13,33 @@ creature: limpet
 dish: Dried butter beans stewed with black kale and burnt garlic.
 friendlyBeans: [adzuki, black]
 friendlyForm: boiled
-antiTriple: spicy-fried-green
-antiBeans: [chickpea, pinto]
-antiForm: roasted
 seasonalFortune: "A season of black kale and burnt garlic — one day tastes like the next, and the pot is no worse for it."
-fortuneMost: Give the same answer to everything and people stop asking.
-fortuneHigh: A limpet comes back to the same inch of rock every tide.
-fortuneMid: Turn up the same as you did last time.
-fortuneLow: It's alright to be worse company than usual.
-fortuneLeast: Some of the best company runs hot and cold.
+fortuneMost: Stay level through everything and people stop checking on you.
+fortuneHigh: Chill.
+fortuneMid: The limpet goes out with the tide and comes back to the same inch of rock.
+fortuneLow: Some days show on a person.
+fortuneLeast: Nobody who runs hot and cold is ever boring.
 facetMostTitle: Dawn of the Bean
-facetMost: You and three friends saved two years for this trip, and you have walked up in the dark to watch the sun come up over the desert. The three of them are crying and taking photographs. You look at it for a minute and say it's nice.
-facetMostAction: You look at it for a minute and say it's nice.
+facetMost: You and the teammate you were put with this morning have just won the rolling jackpot on a live television quiz, and the audience is on its feet. She's on her knees with her hands over her face. The host turns to you and waits. You say it's a good result and ask what happens next.
+facetMostAction: You say it's a good result and ask what happens next.
 facetHighTitle: The Bean Also Rises
-facetHigh: Two days ago the job you built the last eight months around went to somebody else. Every week you go to the same Spanish class and stay for the half hour afterwards where the tutor lets people just talk. You go, and you stay for the half hour.
-facetHighAction: You go, and you stay for the half hour.
+facetHigh: Two days ago the job you'd spent months applying for went to somebody else. Every Wednesday you do the late feed at the city farm down by the railway, and the others who do it with you all know about the job. One of them says nobody would mind if you sat this week out. You go in and do the feed.
+facetHighAction: You go in and do the feed.
 facetMidTitle: The Iceman Beaneth
-facetMid: Walking home, the woman you've been seeing three months says she can never tell what mood you're in — it's the same face at the door every time, and it worries her. You tell her this is the mood, and there isn't another one.
+facetMid: The woman you've been seeing a few months has paid a man on the promenade to draw the two of you, and he keeps asking you to give him something — happy, sad, anything at all. She laughs and says she's never been able to tell what mood you're in either. You tell her this is the mood, and there isn't another one.
 facetMidAction: You tell her this is the mood, and there isn't another one.
 facetLowTitle: Beanstruck
-facetLow: Your friend has spent a year on her first show, and tonight is the opening with forty people in it. You found out this afternoon you're being let go at the end of the month. She asks how you are. You tell her you're in a foul mood and it's nothing to do with her show.
-facetLowAction: You tell her you're in a foul mood and it's nothing to do with her show.
+facetLow: It's the last night of a week away with three friends, and the table by the harbour you've all been talking about since you arrived is booked for eight. One of them made a joke at breakfast about your driving and it's sat wrong with you all day. You tell them to go without you.
+facetLowAction: You tell them to go without you.
 facetLeastTitle: The Bean Picture Show
 facetLeast: A friend who restores old films has got you into the archive — the vaults at four degrees, reels in tins to the ceiling. You have been checking the time since you got here. She threads up ten minutes of home footage from sixty years ago, no names on the tin. You tell her you'd have left ten minutes ago and now you can't stop crying.
 facetLeastAction: You tell her you'd have left ten minutes ago and now you can't stop crying.
-question: One of them knows the man on the gate, so the eight of you have the whole pool to yourselves for an hour before the lido opens. An hour ago you found out you didn't get the flat you'd already told everyone you'd got. You...
-answerMost: do a steady thirty lengths and get out on the hour
-answerHigh: get in with the rest of them and think about the flat tomorrow
-answerMid: stay in the pool for twenty minutes of it
-answerLow: tell them at the gate about the flat first
-answerLeast: give the hour up and let them get on with it
+question: You've been waiting a month to hear about the summer job on the island ferries. The message comes through while the six of you are lying out by the river in the heat, the food just unpacked — you've got it. You...
+answerMost: put the phone down and doze in the sun
+answerHigh: say you got it, and get on with your lunch
+answerMid: ask somebody to take a picture of the six of you
+answerLow: get in the river with your clothes on
+answerLeast: pack the picnic up and turn the day into a night out
 rorschachMost: a becalmed boat
 rorschachHigh: a slung hammock
 rorschachMid: two haystacks

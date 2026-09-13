@@ -2,6 +2,7 @@
 slug: sweet
 name: Sweet
 tagline: The Flavour that just feels good.
+vibe: they welcome everyone – doesn't matter who
 positiveTraits: [warm, reassuring, affectionate, buoyant, obliging]
 negativeTraits: [cloying, complacent]
 ---

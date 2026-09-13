@@ -11,11 +11,8 @@ inverse: galvanised
 quote: Slow and bean wins the race.
 creature: leopard
 dish: Hickory-smoked butter beans with ham hock.
-friendlyBeans: [black, mung]
+friendlyBeans: [mung, black]
 friendlyForm: boiled
-antiTriple: spicy-fried-green
-antiBeans: [kidney, adzuki]
-antiForm: roasted
 seasonalFortune: "A season of ham hock and slow smoke — nothing this month intends to hurry."
 fortuneMost: Rest long enough and getting up becomes the hard part.
 fortuneHigh: There is no rush on any of it.

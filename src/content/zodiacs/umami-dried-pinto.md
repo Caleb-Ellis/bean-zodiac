@@ -12,9 +12,6 @@ creature: ammonite
 dish: Dried pinto beans with aged cotija and epazote.
 friendlyBeans: [fava, black]
 friendlyForm: smoked
-antiTriple: sweet-fried-chickpea
-antiBeans: [edamame, navy]
-antiForm: boiled
 seasonalFortune: "A season of aged cotija and epazote — the flavour keeps opening onto further flavour."
 fortuneMost: Do not go so deep that no one can reach you.
 fortuneHigh: There's something completely different underneath the surface.

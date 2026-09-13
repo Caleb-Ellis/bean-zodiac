@@ -13,9 +13,6 @@ creature: túngara frog
 dish: Pinto bean tempura with epazote salt.
 friendlyBeans: [fava, adzuki]
 friendlyForm: roasted
-antiTriple: bitter-boiled-black
-antiBeans: [butter, navy]
-antiForm: dried
 seasonalFortune: "A season of epazote salt and thin batter — the coating hides nothing, and the heat brings it all up at once."
 fortuneMost: Make enough of a moment and the moment is what people remember.
 fortuneHigh: The túngara frog keeps calling, even though the bats hunt by listening for it.

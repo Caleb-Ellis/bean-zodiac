@@ -13,9 +13,6 @@ creature: blue-footed booby
 dish: Roasted chickpeas with chimichurri and sherry vinegar.
 friendlyBeans: [butter, adzuki]
 friendlyForm: fried
-antiTriple: bitter-fermented-edamame
-antiBeans: [cannellini, black]
-antiForm: dried
 seasonalFortune: "A season of sherry vinegar and loud tables — the chickpeas pop and split in the oven, and nobody minds the noise."
 fortuneMost: Bring it up over dinner and nobody finishes their plate.
 fortuneHigh: A blue-footed booby will dance for anyone who stops to look.

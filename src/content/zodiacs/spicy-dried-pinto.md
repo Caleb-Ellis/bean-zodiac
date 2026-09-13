@@ -11,11 +11,8 @@ inverse: tempered
 quote: Rage, rage against the dying of the bean.
 creature: red stag
 dish: Dried pinto beans with chile de árbol and dried oregano.
-friendlyBeans: [green, fava]
+friendlyBeans: [adzuki, green]
 friendlyForm: roasted
-antiTriple: umami-boiled-navy
-antiBeans: [cannellini, edamame]
-antiForm: fried
 seasonalFortune: "A season of guajillo and full hearts — nothing in the pot is allowed to go lukewarm."
 fortuneMost: A rutting stag will fight until its antlers snap.
 fortuneHigh: Say it like you mean it!

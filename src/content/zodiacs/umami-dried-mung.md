@@ -11,11 +11,8 @@ inverse: softening
 quote: As iron sharpens iron, so one bean sharpens another.
 creature: cheetah
 dish: Dried mung with dried shrimp and curry leaf.
-friendlyBeans: [kidney, butter]
-friendlyForm: boiled
-antiTriple: spicy-roasted-chickpea
-antiBeans: [adzuki, pinto]
-antiForm: fried
+friendlyBeans: [butter, kidney]
+friendlyForm: fermented
 seasonalFortune: "A season of dried shrimp and curry leaf — the pantry gives what will be wanted in the cold, not what would be nice now."
 fortuneMost: Make it hard enough for long enough and they'll stop coming to you at all.
 fortuneHigh: A cheetah brings her cubs live prey and lets them lose it.

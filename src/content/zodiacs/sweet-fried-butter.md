@@ -12,10 +12,7 @@ quote: Your wish is my bean.
 creature: honeyguide
 dish: Butter beans caramelised in brown butter and honey.
 friendlyBeans: [chickpea, adzuki]
-friendlyForm: roasted
-antiTriple: bitter-fermented-black
-antiBeans: [cannellini, edamame]
-antiForm: smoked
+friendlyForm: boiled
 seasonalFortune: "A season of brown butter and honey — the pan coats whatever is held out to it, and nothing is kept back for later."
 fortuneMost: Nobody thanks the chair that was already pulled out.
 fortuneHigh: A honeyguide will lead a person two miles through the bush to a bees' nest, and wait around afterwards for the wax.

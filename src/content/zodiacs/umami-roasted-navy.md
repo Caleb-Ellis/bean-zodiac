@@ -13,9 +13,6 @@ creature: loggerhead
 dish: Navy beans roasted in salt pork fat with bay.
 friendlyBeans: [black, cannellini]
 friendlyForm: boiled
-antiTriple: spicy-smoked-fava
-antiBeans: [green, pinto]
-antiForm: fried
 seasonalFortune: "A season of salt pork fat and bay — the smell reaches the table before the dish does, and everyone is younger for a minute."
 fortuneMost: You can visit the old days. You cannot move back in.
 fortuneHigh: The loggerhead crosses an ocean to lay on the beach she hatched on.

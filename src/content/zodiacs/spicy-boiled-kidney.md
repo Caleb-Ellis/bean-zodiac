@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: spicy-boiled-kidney
 lastUpdated: 
 bean: kidney
@@ -8,36 +8,38 @@ form: boiled
 trait: dogged
 excess: monomaniacal
 inverse: faltering
-quote: It's not whether you get knocked down, it's whether you bean up.
+quote: It's not whether you get beaned down, it's whether you bean up.
 creature: terrier
 dish: Rajma masala - kidney beans in spiced onion-tomato gravy.
-friendlyBeans: [mung, adzuki]
+friendlyBeans: [mung, chickpea]
 friendlyForm: roasted
-antiTriple: sour-fermented-edamame
-antiBeans: [pinto, butter]
-antiForm: smoked
 seasonalFortune: "A season of rajma and long pursuit — the gravy works on one thing until it yields."
-fortuneMost: Chase one thing long enough and everything else quietly leaves.
-fortuneHigh: A terrier will not let go once it has hold.
-fortuneMid: Persistence beats brilliance most weeks.
-fortuneLow: Put it down for a day.
-fortuneLeast: Giving up early frees the year.
+fortuneMost: Win it late enough and there's nobody left to tell.
+fortuneHigh: The terrier does not dig faster than the fox. It digs longer.
+fortuneMid: Give it a half hour longer today.
+fortuneLow: Set it down and go outside for an hour.
+fortuneLeast: The ones who stopped are mostly glad they did.
 facetMostTitle: The Beaniator
-facetMost: Nine refusals over the footpath and the tenth letter is written. The bike you were restoring has been under a sheet two years. You post the letter and order another copy of the deposited plan.
+facetMost: Twice the boat has lifted you out of the strait short of the far side, and the physio says your shoulder has one more swim like that in it before surgery. The man who runs the boat wants paying now for a summer slot. You pay him for it.
+facetMostAction: You pay him for it.
 facetHighTitle: The Beanitive
-facetHigh: Two hours of Portuguese every night for four years and you can hold a proper conversation in it now, which was the whole point. You open the grammar book again at the first chapter.
-facetMidTitle: Never Bean Up
-facetMid: The crossing petition needs six hundred names and you have four hundred and ten of them, and you are back outside the shop with the clipboard on the second morning running, in the same spot, asking a lot of the same people again.
-facetLowTitle: The Beanler
-facetLow: The motorbike is in pieces on the garage floor. The carburettor has beaten you twice. You put the sheet back over it.
-facetLeastTitle: Throw in the Bean
-facetLeast: Eleven miles into a swim you trained a year for, with the boat alongside and the water flat and nothing at all wrong. You take hold of the ladder and call it there.
-question: Your claim has been turned down nine times by the insurer, and the tenth letter is due to go on Tuesday. You...
-answerMost: send the tenth, with the eleventh drafted the same night
-answerHigh: post the tenth on the Tuesday, as the nine went
-answerMid: post it with the one new document you've turned up
-answerLow: give it this one more, then let it go
-answerLeast: let the claim drop
+facetHigh: Your friend came out of hospital unable to find words, and the therapy stopped when the funding ran out. Most weeks since, the two of you have worked the same page of the picture book at her table. She got through it once, in the spring, and not since. You open the book at that page again.
+facetHighAction: You open the book at that page again.
+facetMidTitle: The Old Man and the Bean
+facetMid: Your jam stall at the Saturday market has never once covered what it costs to make and sell. You said you'd give it at least a year, but it's been nine straight months in the red. You keep setting up at the market until the year is up.
+facetMidAction: You keep setting up at the market until the year is up.
+facetLowTitle: Let It Bean
+facetLow: The county record office has had your Saturdays all year, and the marriage that would place your father's family is in the one year of the register that burned. The archivist offers to order copies in from another county, at a month's wait and your own expense. You turn the order down.
+facetLowAction: You turn the order down.
+facetLeastTitle: The Beanliness of the Long-Distance Runner
+facetLeast: A week's trial in the kitchen of the restaurant you've wanted to cook at since you were nineteen, in a borrowed apron with another cook's name in the collar. Tonight is the service the head chef watches. Nothing has gone wrong. You take the apron off and tell him you're going.
+facetLeastAction: You take the apron off and tell him you're going.
+question: You want the under-13s you coach to still have a team next year. They haven't won a game all season, half the squad has stopped coming to Thursday training, and the parents are asking what the point is. You...
+answerMost: tell the parents you'll be running it next year with or without them
+answerHigh: run Thursday training for whoever still turns up
+answerMid: drop Thursday training and keep the team going for the games
+answerLow: see the season out and not take it on again
+answerLeast: pull the team before the next game
 rorschachMost: a tangle of barbed wire
 rorschachHigh: a burr
 rorschachMid: a crab

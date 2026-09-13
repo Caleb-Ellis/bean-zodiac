@@ -11,10 +11,7 @@ quote: In any bean moment of decision, the best thing you can do is the right th
 creature: falcon
 dish: Blistered edamame in scorched garlic oil and yuzu kosho.
 friendlyBeans: [fava, green]
-friendlyForm: dried
-antiTriple: umami-smoked-mung
-antiBeans: [adzuki, butter]
-antiForm: fermented
+friendlyForm: fermented
 seasonalFortune: "A season of scorched garlic and settled arguments — the bean decides and never revisits."
 fortuneMost: In our rushing, we break our own lives.
 fortuneHigh: The falcon never second-guesses its target.

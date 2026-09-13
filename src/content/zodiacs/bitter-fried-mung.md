@@ -13,9 +13,6 @@ creature: oxpecker
 dish: Mung sprouts flash-fried with charred shallot and bitter gourd.
 friendlyBeans: [kidney, chickpea]
 friendlyForm: smoked
-antiTriple: sweet-dried-butter
-antiBeans: [adzuki, black]
-antiForm: boiled
 seasonalFortune: "A season of charred shallot and quick hands — what needs mending is mended in a minute, ready or not."
 fortuneMost: Help given fast enough starts to feel like being got rid of.
 fortuneHigh: Don't wait for anyone to feel ready.

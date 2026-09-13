@@ -11,11 +11,8 @@ inverse: dampening
 quote: You gain strength, courage, and confidence by every bean in which you really stop to look fear in the face.
 creature: lioness
 dish: Fava roasted with date syrup and sesame.
-friendlyBeans: [pinto, edamame]
+friendlyBeans: [pinto, green]
 friendlyForm: fried
-antiTriple: bitter-boiled-navy
-antiBeans: [mung, chickpea]
-antiForm: fermented
 seasonalFortune: "A season of date syrup and warm nerve — the timid end up at the front."
 fortuneMost: You can talk somebody into something they have to finish alone.
 fortuneHigh: The lioness makes the first run, and the young ones learn that it can be done.

@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: umami-fermented-black
 lastUpdated:
 bean: black
@@ -11,38 +11,35 @@ inverse: unexamined
 quote: Who looks outside, dreams; who looks inside, awakens the bean.
 creature: turtle
 dish: Black bean and shiitake stew thickened with red miso.
-friendlyBeans: [pinto, green]
+friendlyBeans: [pinto, fava]
 friendlyForm: smoked
-antiTriple: sweet-boiled-chickpea
-antiBeans: [kidney, butter]
-antiForm: fried
 seasonalFortune: "A season of red miso and shuttered cellars: the ferment turns inward and stays there."
 fortuneMost: Look inward long enough and everybody else becomes scenery.
-fortuneHigh: Work out what you actually think.
-fortuneMid: A turtle takes its whole house wherever it goes.
-fortuneLow: Say the half-formed version.
-fortuneLeast: An unexamined life is still a life.
+fortuneHigh: The turtle carries its house everywhere, and goes in whenever it likes.
+fortuneMid: It's worth asking yourself why, now and then.
+fortuneLow: Sometimes a bad mood is just a bad mood.
+fortuneLeast: The unexamined life is perfectly worth living.
 facetMostTitle: Sunset Beanevard
-facetMost: Your friend has the bakery lease with a space for your name and wants an answer this week. It isn't the four thousand stopping you, it's not knowing whether you want the bakery or want to be someone who has one. You won't sign until you know.
-facetMostAction: You won't sign until you know.
+facetMost: Your friend has asked you up to the headland to scatter her dad's ashes. The whole way up, you've been thinking about your own dad, and why the two of you barely speak. When the ashes are gone, she asks if you'd like to say anything. You talk about your own dad.
+facetMostAction: You talk about your own dad.
 facetHighTitle: The Diving Bean and the Butterfly
-facetHigh: He rented a house for his thirtieth, his sister and four people he's met since he moved, and you pulled out saying it was money. After the swim he asks if you'd come next time. You say it was never money — you'd have been the one nobody knew.
-facetHighAction: You say it was never money — you'd have been the one nobody knew.
+facetHigh: At a festival, the band you've waited years to see have just started when they play a song you haven't heard since school. You're suddenly crying, and not the happy kind. You go and sit on the grass behind the crowd until you've worked out why.
+facetHighAction: You go and sit on the grass behind the crowd until you've worked out why.
 facetMidTitle: Beanside Out
-facetMid: The woman showing you round has the ledger open at where the bodies came from, the workhouse and the gallows, and she asks what brought you. Your mum had eighteen months of spinal surgery and you never asked what they were holding. You say that's why.
-facetMidAction: You say that's why.
+facetMid: Moving day, and the flat you've shared with two friends for years is empty. They both cried on the way out the door. The agent is waiting for your keys, and you feel almost nothing. You decide it'll probably hit you later.
+facetMidAction: You decide it'll probably hit you later.
 facetLowTitle: Along for the Bean
-facetLow: The last box on the food bank's volunteer form asks why you want to do this, with eight lines under it. You write that you've got Thursdays free.
-facetLowAction: You write that you've got Thursdays free.
-facetLeastTitle: Don't Bean, Don't Tell
-facetLeast: You came about not sleeping. The nurse reads the nine questions out and scores them, and what your score gets you is six weeks of talking or a prescription. She asks what's underneath it. You say you'd rather it just stopped than know why.
-facetLeastAction: You say you'd rather it just stopped than know why.
-question: You snapped at your partner last night because the bin hadn't been put out. You...
-answerMost: work out exactly why, and talk them through every step of it
-answerHigh: work out what it was really about, then apologise
-answerMid: apologise, knowing roughly why
-answerLow: apologise for snapping
-answerLeast: put it down to a bad night and move on
+facetLow: On a long walk down the coast, you've booked a night at a monastery that takes in guests. After supper one of the monks hands everybody a card with a question to sleep on. Yours asks what you're walking away from. You use it as a bookmark.
+facetLowAction: You use it as a bookmark.
+facetLeastTitle: The Beantrix
+facetLeast: You've bitten your nails since you were small, and one session with a hypnotherapist has stopped it dead. At the door she says there's usually something underneath a habit like that, and offers another session to find out what. You tell her you're just happy to have stopped.
+facetLeastAction: You tell her you're just happy to have stopped.
+question: If you kept a diary, what would most of it be about?
+answerMost: you, and other people only when they've made you feel something
+answerHigh: how you felt each day, and why
+answerMid: what happened, and whether it was a good day
+answerLow: where you went and who you saw
+answerLeast: what you had for dinner
 rorschachMost: a compact mirror
 rorschachHigh: a walnut
 rorschachMid: an open diary

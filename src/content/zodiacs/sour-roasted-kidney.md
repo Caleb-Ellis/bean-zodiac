@@ -13,9 +13,6 @@ creature: lapwing
 dish: Roasted kidney beans with chimichurri and pickled red onion.
 friendlyBeans: [mung, green]
 friendlyForm: fried
-antiTriple: bitter-dried-edamame
-antiBeans: [navy, cannellini]
-antiForm: smoked
 seasonalFortune: "A season of chimichurri and placards — the oven door opens and the whole street has to take a side."
 fortuneMost: Refuse every middle ground and you'll have nowhere left to stand.
 fortuneHigh: A lapwing will dive at a fox to defend a nest that isn't its own.

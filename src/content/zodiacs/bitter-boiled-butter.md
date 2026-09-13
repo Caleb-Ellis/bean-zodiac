@@ -12,9 +12,6 @@ creature: capybara
 dish: Butter beans poached in olive oil with bay and blanched dandelion greens.
 friendlyBeans: [mung, black]
 friendlyForm: smoked
-antiTriple: spicy-fried-green
-antiBeans: [pinto, fava]
-antiForm: roasted
 seasonalFortune: "A season of steady water and unbothered fat. Nothing in the pot rises to meet a raised voice."
 fortuneMost: Numbness is as much a cage as a shield.
 fortuneHigh: Don't get up.

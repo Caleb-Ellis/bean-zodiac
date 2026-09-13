@@ -13,9 +13,6 @@ creature: marine iguana
 dish: Green beans roasted in bacon drippings with shallot.
 friendlyBeans: [fava, adzuki]
 friendlyForm: fried
-antiTriple: bitter-boiled-black
-antiBeans: [butter, navy]
-antiForm: smoked
 seasonalFortune: "A season of bacon drippings and shallot — nothing in the pan is rare, and the whole house comes in anyway."
 fortuneMost: Say it was perfect and they'll never tell you what went wrong.
 fortuneHigh: The marine iguana lies out on the black rock until the last of the heat has gone out of it.

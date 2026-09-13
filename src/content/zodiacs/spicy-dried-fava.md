@@ -13,9 +13,6 @@ creature: yak
 dish: Lan hua dou - dried fava with chilli and Sichuan peppercorn.
 friendlyBeans: [black, edamame]
 friendlyForm: fermented
-antiTriple: sour-boiled-butter
-antiBeans: [mung, pinto]
-antiForm: roasted
 seasonalFortune: "A season of Sichuan peppercorn and rough weather — the dried bean has seen worse and barely notices."
 fortuneMost: Hard hands can't feel what they're holding.
 fortuneHigh: A yak sleeps out on the mountain at forty below.

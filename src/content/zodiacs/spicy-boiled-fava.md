@@ -11,11 +11,8 @@ inverse: wavering
 quote: I am not a bean to be argued out of what I know to be right.
 creature: mule
 dish: Fava braised with harissa and preserved lemon.
-friendlyBeans: [butter, green]
+friendlyBeans: [pinto, butter]
 friendlyForm: fried
-antiTriple: sour-smoked-pinto
-antiBeans: [cannellini, adzuki]
-antiForm: roasted
 seasonalFortune: "A season of harissa and fixed opinion — the braise will not be talked down."
 fortuneMost: Refuse to move and the argument outlives the reason for it.
 fortuneHigh: A mule stops and no amount of pulling helps.

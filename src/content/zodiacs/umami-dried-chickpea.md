@@ -13,9 +13,6 @@ creature: barn owl
 dish: Dried chickpeas cooked with dried porcini.
 friendlyBeans: [butter, adzuki]
 friendlyForm: boiled
-antiTriple: bitter-fermented-mung
-antiBeans: [black, fava]
-antiForm: smoked
 seasonalFortune: "A season of dried porcini and no questions — the store gives out what it has to whoever turns up, and is empty by spring."
 fortuneMost: Say yes enough times and it stops being a favour.
 fortuneHigh: A barn owl chick will pass food down the nest to a hungrier one, with nothing in it for itself.

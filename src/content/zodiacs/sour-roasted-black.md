@@ -13,9 +13,6 @@ creature: pistol shrimp
 dish: Black beans roasted and dressed with parsley, garlic, and vinegar.
 friendlyBeans: [pinto, adzuki]
 friendlyForm: fried
-antiTriple: sweet-boiled-mung
-antiBeans: [kidney, edamame]
-antiForm: fermented
 seasonalFortune: "A season of raw garlic and short answers — the vinegar goes straight at the flaw and says so where everyone can hear."
 fortuneMost: Enough true things at once and it stops being honesty.
 fortuneHigh: Say it in one sentence.

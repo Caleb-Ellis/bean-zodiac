@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: spicy-fried-edamame
 lastUpdated:
 bean: edamame
@@ -13,36 +13,33 @@ creature: howler monkey
 dish: Edamame stir-fried in chilli oil with garlic.
 friendlyBeans: [chickpea, pinto]
 friendlyForm: fermented
-antiTriple: umami-smoked-black
-antiBeans: [mung, kidney]
-antiForm: boiled
 seasonalFortune: "A season of chilli oil and underlined statements: the pod says it once, at volume."
-fortuneMost: A howler monkey is heard three miles off and moves nothing.
-fortuneHigh: State it plainly while everyone else hedges.
-fortuneMid: Emphasis is worth more spent rarely.
-fortuneLow: Not being sure is worth saying.
-fortuneLeast: The bold move can wait a night.
-facetMostTitle: All Beans
-facetMost: Your cousin started at the works canteen a month ago and you have come in on your break. She mentions, on the way past with her tray, that she got through her probation. You stand up and tell the four tables round you what she has done.
-facetMostAction: You stand up and tell the four tables round you what she has done.
-facetHighTitle: The Exclamation Bean
-facetHigh: You have a paddle and a limit at the saleroom, the clock you came for has gone past what the two other bidders will do, and the hammer binds the second it falls. You call the next bid out across the room.
-facetHighAction: You call the next bid out across the room.
-facetMidTitle: Underbeaned Twice
-facetMid: The man behind the counter at the phone shop has worked through three insurance add-ons that your colleague has already turned down twice, and she has stopped arguing with him. You tell him she said no and to put the basic one through.
-facetMidAction: You tell him she said no and to put the basic one through.
-facetLowTitle: Hedging Beans
-facetLow: You have trained at the club four years and a newer member asks you outright, before the grading, whether she is ready for it, and you think clearly that she is not. You say gradings are hard to call and a lot of it is the day you have.
-facetLowAction: You say gradings are hard to call and a lot of it is the day you have.
-facetLeastTitle: On the Other Bean
-facetLeast: The strand test is done and there is ninety minutes under foil ahead of you. The colourist stops before the bleach goes on and asks whether you are sure, because after this there is no going back to what you walked in with. You tell her to go with whatever she thinks.
-facetLeastAction: You tell her to go with whatever she thinks.
-question: You're driving the van on Sunday, it leaves at six, and two of the five going have already asked whether it could be seven. You...
-answerMost: send all five the six in capitals, and again on Saturday night
-answerHigh: tell the two that six doesn't move
-answerMid: give them five minutes' grace and no more
-answerLow: leave it at about six
-answerLeast: make it seven and say no more about it
+fortuneMost: When everything is shouted, nothing gets heard.
+fortuneHigh: A howler monkey tells the whole forest where it stands.
+fortuneMid: Say it plainly, and say it once.
+fortuneLow: There's nothing wrong with starting a sentence with "I think".
+fortuneLeast: Sitting on the fence gives you a good view of both sides.
+facetMostTitle: The Girl with the Bean Tattoo
+facetMost: A friend is getting her boyfriend's name tattooed on her wrist, three months after they met. You told her what you thought on the walk over, and she said she'd heard you. Now she's in the chair and the artist has the needle ready. You tell her again, louder this time, that it's a terrible idea.
+facetMostAction: You tell her again, louder this time, that it's a terrible idea.
+facetHighTitle: 12 Angry Beans
+facetHigh: You're on a jury, and the twelve of you go round the table for a first vote. Everybody before you says "probably guilty" or "leaning that way". You've been sure the man in the dock did it for days. You say guilty, and that you haven't a shred of doubt.
+facetHighAction: You say guilty, and that you haven't a shred of doubt.
+facetMidTitle: Say Bean to the Dress
+facetMid: You're at a bridal shop with a friend, waiting outside the changing rooms, when a woman you've never met steps out in a plain ivory dress. Her mother and sister can't agree about it, so she turns and asks you. It really suits her. You tell her that's the one.
+facetMidAction: You tell her that's the one.
+facetLowTitle: It's Beanplicated
+facetLow: You and a friend have a table at a free trial night for a restaurant that opens next week. After dinner the chef comes out and asks which of two desserts should go on the menu, the lemon tart or the chocolate mousse. You liked the tart much more. You say probably the tart, but the mousse was lovely too.
+facetLowAction: You say probably the tart, but the mousse was lovely too.
+facetLeastTitle: Bean Me Maybe
+facetLeast: A local news crew is stopping people outside the station, and the reporter holds a microphone out to you. She asks whether the council should go ahead and knock down the town's old pier. You'd like it to stay. You tell her there are good arguments either way.
+facetLeastAction: You tell her there are good arguments either way.
+question: The little guesthouse by the sea was the best week you've had in years, and the owner has shyly asked if you'd leave a review. You...
+answerMost: write the review in capitals and post it on every booking site
+answerHigh: give it five stars under a headline that just says "book it"
+answerMid: leave five stars and a line about the view
+answerLow: say it was lovely, though it might not be for everyone
+answerLeast: say it depends what you're looking for
 rorschachMost: a wall of speakers
 rorschachHigh: a banner across a street
 rorschachMid: a nailed-up notice

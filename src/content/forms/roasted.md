@@ -2,6 +2,7 @@
 slug: roasted
 name: Roasted
 tagline: The Form that radiates.
+reactivity: gives it back out — brighter
 positiveTraits: [expansive, radiant, forthcoming, flourishing, magnetic]
 negativeTraits: [unrestrained, ostentatious]
 ---

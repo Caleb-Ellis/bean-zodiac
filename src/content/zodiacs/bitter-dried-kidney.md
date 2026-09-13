@@ -11,11 +11,8 @@ inverse: perishable
 quote: Age cannot wither her, nor custom stale her infinite beans.
 creature: tardigrade
 dish: Dried kidney beans with charred bitter melon and mustard oil.
-friendlyBeans: [mung, butter]
+friendlyBeans: [mung, navy]
 friendlyForm: boiled
-antiTriple: sour-smoked-pinto
-antiBeans: [chickpea, adzuki]
-antiForm: fermented
 seasonalFortune: "A season of mustard oil and hard skins — the sack wears through long before what's inside it does."
 fortuneMost: Hold a shape for thirty years and it stops being a choice.
 fortuneHigh: A tardigrade dries out completely and comes back years later when the water returns.

@@ -11,11 +11,8 @@ inverse: self-sufficient
 quote: I have always depended on the kindness of beans.
 creature: sea sponge
 dish: Tau suan - mung beans simmered in pandan syrup.
-friendlyBeans: [kidney, chickpea]
+friendlyBeans: [butter, chickpea]
 friendlyForm: smoked
-antiTriple: spicy-roasted-green
-antiBeans: [edamame, black]
-antiForm: fried
 seasonalFortune: "A season of pandan syrup and slow heat — what goes into the pot hard comes out tasting of everything around it."
 fortuneMost: Enough hands under you and your own feet go soft.
 fortuneHigh: Let somebody look after you.

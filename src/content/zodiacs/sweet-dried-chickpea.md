@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sweet-dried-chickpea
 lastUpdated:
 bean: chickpea
@@ -13,36 +13,33 @@ creature: shetland pony
 dish: Sugar-panned chickpeas with cardamom.
 friendlyBeans: [adzuki, mung]
 friendlyForm: boiled
-antiTriple: sour-fermented-pinto
-antiBeans: [fava, kidney]
-antiForm: roasted
 seasonalFortune: "A season of cardamom sugar and plain goodness — nothing here needs explaining to anyone's mother."
-fortuneMost: A shetland pony is safe with anybody's children and gets ridden nowhere.
-fortuneHigh: Keep it clean and they'll ask you to speak.
-fortuneMid: The kind version and the true version are usually both available.
-fortuneLow: Nobody needs the joke cleaned up.
-fortuneLeast: Go for the long walk and tell nobody where.
-facetMostTitle: Sanitised for Your Beantection
-facetMost: Your friend's new girlfriend asks what the six of you were like at university and you have the whole afternoon in the garden to tell her, and there was the year one of you was very ill and another one left because of it. You give her the funny version.
-facetMostAction: You give her the funny version.
+fortuneMost: Leave out all the bad bits and nobody will believe the good ones.
+fortuneHigh: Nothing beats good clean fun.
+fortuneMid: A shetland pony will carry child after child and never throw one.
+fortuneLow: A little mud never hurt anyone.
+fortuneLeast: Clean living makes for a dull memoir.
+facetMostTitle: Mary Beanins
+facetMost: You've been minding your niece's class hamster over the holidays, and it dies the night before she comes to collect it. She's promised her whole class she's bringing it back. You go to the pet shop and buy one that looks the same.
+facetMostAction: You go to the pet shop and buy one that looks the same.
 facetHighTitle: The Beantons
-facetHigh: Your grandad's stone goes to the mason this week and whatever is on it is cut once. Your aunt has found a verse that would suit anybody. He answered the phone the same way for forty years. You have that cut instead.
-facetHighAction: You have that cut instead.
+facetHigh: Everyone who's done a speech at your friend's thirtieth has roasted her — the ex who dumped her by text, the night she was sick on the bus — and got big laughs. You're up next. You tell them she's the kindest person you know.
+facetHighAction: You tell them she's the kindest person you know.
 facetMidTitle: Little Bean on the Prairie
-facetMid: The card has to go today to get there for your aunt's birthday, the queue in the post office is out to the door, and she has not replied to one in four years. You queue, buy the stamp, and post it.
-facetMidAction: You queue, buy the stamp, and post it.
+facetMid: It's the last night of the festival and your friends are off to the dance tent until sunrise. In the next field there's a barn dance with a fiddle band, and nobody else wants to go. You go to the barn dance on your own.
+facetMidAction: You go to the barn dance on your own.
 facetLowTitle: Reservoir Beans
-facetLow: The man behind the counter turns the light off over each table as it finishes, so the room goes dark in sections, and yours is the last one lit. Somebody tells the joke that is nearly too much and the other three are still deciding. You laugh before you have decided anything.
-facetLowAction: You laugh before you have decided anything.
+facetLow: It's your first dinner with your partner's parents, and over dessert their dad tells a really filthy joke about a nun. Their mum puts her head in her hands. You laugh out loud.
+facetLowAction: You laugh out loud.
 facetLeastTitle: Bean Taste
-facetLeast: Four in the morning in the back of a taxi with your friend, and she asks what actually happened after she left. What happened does not make you look good and two of the people in it are her friends. You tell her the whole night, starting with the worst part.
-facetLeastAction: You tell her the whole night, starting with the worst part.
-question: Your nephew is doing a school project on his grandad and asks you what he was like. Grandad drank, told jokes, and left for two years. You...
-answerMost: hand him the jokes and leave the drink and the two years out
-answerHigh: tell it kindly including the drink
-answerMid: hand him all three
-answerLow: say it flat — the drink, the leaving, the jokes
-answerLeast: lead with the drink and the two years
+facetLeast: Taped under a drawer of the desk you got from a house clearance is a married woman's diary from the seventies, mostly about the man next door. Your housemate says to give it back. You read her the steamiest page out loud.
+facetLeastAction: You read her the steamiest page out loud.
+question: Your local café is letting one regular paint its back wall, and they've picked you. The owner says it's entirely up to you, and it'll be up for years. What do you paint?
+answerMost: a rainbow over a field of smiling sunflowers
+answerHigh: the regulars around one long table, sharing lunch
+answerMid: the street outside on a sunny morning
+answerLow: the queue outside the kebab shop at closing time
+answerLeast: a nude, stretched out along the counter
 rorschachMost: carbolic soap
 rorschachHigh: a milk jug
 rorschachMid: a pulled carrot

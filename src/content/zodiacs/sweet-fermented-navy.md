@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sweet-fermented-navy
 lastUpdated: 
 bean: navy
@@ -11,38 +11,35 @@ inverse: urbane
 quote: A bean in time saves nine.
 creature: bantam
 dish: Navy bean miso ice cream with maple.
-friendlyBeans: [cannellini, adzuki]
+friendlyBeans: [kidney, cannellini]
 friendlyForm: dried
-antiTriple: spicy-roasted-chickpea
-antiBeans: [green, kidney]
-antiForm: smoked
 seasonalFortune: "A season of maple and barley koji — the crock tastes of one house only."
 fortuneMost: Keep to your own patch and the world shrinks to fit it.
-fortuneHigh: A bantam runs the whole yard from the smallest body in it.
-fortuneMid: Home cooking beats the restaurant most nights.
-fortuneLow: Go somewhere unfamiliar.
-fortuneLeast: The wider world has better recipes.
+fortuneHigh: Make it from scratch.
+fortuneMid: A bantam hen never strays far from the coop, and never needs to.
+fortuneLow: Order the dish you can't pronounce.
+fortuneLeast: The finest beans in the world were grown a long way from here.
 facetMostTitle: Bean Fuzz
-facetMost: Your friend chose the place for her birthday and booked it, and the bread that comes out is the thing they are known for, and she is watching you eat. You tell the table that yours is better and how long you prove it for.
-facetMostAction: You tell the table that yours is better and how long you prove it for.
-facetHighTitle: Little Beans
-facetHigh: The last man in the county who repairs these has your grandmother's machine on his bench with the case off, and he retires in March and is training nobody, so the part gets made now or the machine goes. You tell him to make the part.
-facetHighAction: You tell him to make the part.
-facetMidTitle: Bean Sweet Bean
-facetMid: Everything on the gift table at your cousin's christening is a box or a bag from a shop, and the blanket you have brought took you four months, and it gets opened in front of the room. You put it on the table with your name on it.
-facetMidAction: You put it on the table with your name on it.
-facetLowTitle: All My Worldly Beans
-facetLow: Your partner puts a jar of the sauce in the trolley on the Friday shop, and you make it from scratch every week and the two hours on the hob are the part you like. You put the jar through the till with the rest.
-facetLowAction: You put the jar through the till with the rest.
-facetLeastTitle: The Jet Bean Set
-facetLeast: Bag drop at five in the morning, and you are three kilos over, and the desk wants forty pounds or you repack it there. What is over is the jars and the starter you were taking out to a friend. You put the jars in the bin by the desk.
-facetLeastAction: You put the jars in the bin by the desk.
-question: Your friend has a spare ticket for a fortnight in Naples and has offered it to you. Sunday is bread day and the jars are on the windowsill. You...
-answerMost: turn it down, and put the Sunday bread on
-answerHigh: turn it down — the fortnight at home is the good one
-answerMid: go for a week and come home for the second week
-answerLow: go, and think about the house while you're there
-answerLeast: take the fortnight and ask what else she has booked
+facetMost: On the train home from your last interview, the company rings to offer you the job you've wanted for years — in the city. Everyone you love lives within a few streets of your parents' house, and you've never seen the appeal of cities. You turn the job down.
+facetMostAction: You turn the job down.
+facetHighTitle: Little House on the Beanrie
+facetHigh: For your thirtieth, your friends want to pay for a private room at the cocktail bar everyone in town is trying to get into. Your dad has offered a barbecue in his back garden, with the potato salad he makes for every birthday. You tell your friends you'd rather have the barbecue.
+facetHighAction: You tell your friends you'd rather have the barbecue.
+facetMidTitle: Bean of Green Gables
+facetMid: Your cousin's wedding is at a grand old hotel in the city, and the invitation says smart dress. The best thing you own is a shirt your grandmother sewed for you, a bit old-fashioned at the collar, and there's still time to buy something new. You wear the shirt your grandmother made.
+facetMidAction: You wear the shirt your grandmother made.
+facetLowTitle: Lost in Beanslation
+facetLow: It's the last night of a week in Tokyo with friends, and they want to go back to the burger place by the hotel with the menu in English. The man on the hotel desk has drawn you a map to a tiny bar under the railway, where the owner plays records from his own collection. You go to the bar on your own.
+facetLowAction: You go to the bar on your own.
+facetLeastTitle: Breakfast at Beanfany's
+facetLeast: You're home for the holidays and bump into two friends from school outside the bakery on your old main street. One of them laughs and says you sound like a city person now — the old accent has nearly gone. It would be easy to slip back into it. You keep talking the way you do now.
+facetLeastAction: You keep talking the way you do now.
+question: Your partner's parents are flying in from Paris, and you're in charge of dinner the night they arrive. What's the plan?
+answerMost: a roast with no garlic in anything
+answerHigh: a chicken pie with home-made pastry
+answerMid: a beef stew and a baguette from a French bakery
+answerLow: a coq au vin, first time trying it
+answerLeast: a table at the best French restaurant in town
 rorschachMost: a village with one street
 rorschachHigh: a patchwork quilt
 rorschachMid: a home-baked loaf

@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: bitter-fried-pinto
 lastUpdated:
 bean: pinto
@@ -11,33 +11,35 @@ inverse: reverent
 quote: Irreverence is the champion of liberty and its only sure bean.
 creature: starling
 dish: Refried pinto beans caught dark in the pan with chile negro.
-friendlyBeans: [adzuki, fava]
+friendlyBeans: [adzuki, chickpea]
 friendlyForm: roasted
-antiTriple: sweet-dried-navy
-antiBeans: [mung, cannellini]
-antiForm: boiled
 seasonalFortune: "A season of chile negro and sharp mimicry — the refry mocks the dish it came from."
-fortuneMost: Mock everything and nothing is left worth defending.
-fortuneHigh: A starling mimics the car alarm better than the car does.
-fortuneMid: The joke lands the criticism painlessly.
-fortuneLow: Drop the joke for this one.
-fortuneLeast: Reverence is what keeps some things alive.
-facetMostTitle: Mock the Bean
-facetMost: Two minutes of the impression and his whole management style is finished as a going concern. He is in the doorway behind you. There are four more minutes of material to come.
+fortuneMost: Be funny about all of it and people stop telling you the real things.
+fortuneHigh: Make the joke. It's the shortest way to say what's wrong.
+fortuneMid: A starling learns the car alarm, then sets the whole street looking.
+fortuneLow: Give this one a straight answer.
+fortuneLeast: It's alright to love something without taking it apart.
+facetMostTitle: Gulliver's Beans
+facetMost: Your friend's been on the picket at the biscuit factory five weeks with no pay, and you're there with him. The union rep answers every question the same way — we are in robust dialogue. He leaves the megaphone on a crate and goes to take a call. You pick it up and do him for the whole picket, robust dialogue and all.
+facetMostAction: You pick it up and do him for the whole picket, robust dialogue and all.
 facetHighTitle: Dr. Strangebean
-facetHigh: Somebody in a hard hat says the word journey in the company video, and you say the next line before he does, and you get it word for word.
+facetHigh: In a yard by the station your friend is buying a car, the cash in an envelope in his jacket. The man selling it keeps saying he's not really a car person, he just looks after them. Two more of the same model sit behind him, same sticker in the window. You ask him what else he just looks after.
+facetHighAction: You ask him what else he just looks after.
 facetMidTitle: Beanimal Farm
-facetMid: In the town square a statue flinches whenever anybody reads the inscription aloud, and you read that inscription out at full volume, every single time, whoever you happen to be walking past with.
-facetLowTitle: Songs of Beans
-facetLow: The founder's portrait hangs at the top of the stairs and there is a great deal to be said about the moustache and about the spaniel he is holding and about the curtain behind him. You go up past it and say none of it.
+facetMid: You work shifts at a bakery collective, its principles painted up by the ovens — nobody here gives orders is one of them. You're on trial and the woman who trained you decides whether you're kept on. She tells you to get the trays out of the top oven. You say nobody here gives orders, and get the trays out.
+facetMidAction: You say nobody here gives orders, and get the trays out.
+facetLowTitle: Ziggy Beandust
+facetLow: It's the first proper support slot your housemate's band has had, and he's built a persona for it — the hat, the voice between songs, telling everybody they've been a beautiful crowd. The headliner's crew are breaking the riser down in the loading bay, and he asks you straight how it went. You tell him the third song sounded enormous and leave the hat alone.
+facetLowAction: You tell him the third song sounded enormous and leave the hat alone.
 facetLeastTitle: Beanelujah
-facetLeast: Somebody has to give the eulogy and the man was difficult. You stand up. You say he gave everything to the place, and mean it.
-question: Your manager has said 'let's circle back on that' four times this morning. You...
-answerMost: do him at lunch, phrase and walk and the way he talks about his boy
-answerHigh: do two minutes of him and finish the phrase off for good
-answerMid: use the phrase back at him once, deadpan
-answerLow: point out that he says it a lot
-answerLeast: let the phrase go by
+facetLeast: You've been at every lunchtime recital at the church, and the organist takes you up the stone stairs into the loft — the mirror over the keys, a mug on the bench saying ORGAN DONOR. The organ's being rebuilt in the spring and won't sound like this again. He asks what you make of it. You tell him it's the best thing you've ever heard.
+facetLeastAction: You tell him it's the best thing you've ever heard.
+question: Your cousin's deciding whether to move here and you want her to love the place, so you've brought her on the evening ghost walk. The guide has a cape, calls the five of you travellers, and asks at every doorway who dares go in. You...
+answerMost: take over at the next doorway and do the walk as him
+answerHigh: say who dares go in before he does
+answerMid: call your cousin traveller once
+answerLow: ask him how long he's been doing the walks
+answerLeast: clap him at the end and tell him the doorways got you
 rorschachMost: a gargoyle
 rorschachHigh: a jester's cap
 rorschachMid: a puppet on a stand

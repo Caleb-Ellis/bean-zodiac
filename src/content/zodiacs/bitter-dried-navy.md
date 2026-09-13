@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: bitter-dried-navy
 lastUpdated: 
 bean: navy
@@ -11,38 +11,35 @@ inverse: pragmatic
 quote: Money can't buy me bean.
 creature: zebra
 dish: Dried navy beans with juniper, bay, and blackened onion.
-friendlyBeans: [edamame, chickpea]
+friendlyBeans: [kidney, edamame]
 friendlyForm: boiled
-antiTriple: sweet-fermented-butter
-antiBeans: [mung, green]
-antiForm: smoked
 seasonalFortune: "A season of scorched onion and unsalted water — nothing sweetens it, and nothing offered on the side gets into the pot."
-fortuneMost: Clean hands are easy to admire and hard to sit next to.
-fortuneHigh: Say no to the one who can help you.
-fortuneMid: A zebra will let you feed it for years and still not be ridden.
-fortuneLow: A favour is usually just a favour.
-fortuneLeast: A word from the right person is worth a year of waiting your turn.
-facetMostTitle: Mary Poppinbeans
-facetMost: A friend who works at the restaurant has put the six of you down as her cousins, which gets you the family rate and which she isn't allowed to do. The manager brings the bill to the table. You tell him she's not your cousin.
-facetMostAction: You tell him she's not your cousin.
-facetHighTitle: Erin Brockobean
-facetHigh: Twelve of you have objected to the tower going up next door, which takes the light off every flat on this side. The developer's agent has come to you alone and offered you one of the new flats at their cost, and says the other eleven objections won't hold without yours. You tell her you're keeping yours in.
-facetHighAction: You tell her you're keeping yours in.
+fortuneMost: The one who can't be bought is rarely invited back.
+fortuneHigh: Turn it down while it's still worth something.
+fortuneMid: A zebra will take the apple and still not let you near it.
+fortuneLow: You're allowed to let someone make it easier.
+fortuneLeast: The bean that gets picked is the bean nearest the hand.
+facetMostTitle: Beany Poppins
+facetMost: Your family have agreed the gold coins in your uncle's loft never existed, because declaring them brings a tax bill and your cousin needs her share for a deposit. The solicitor handling the estate reads back what was in the house. You tell her about the coins.
+facetMostAction: You tell her about the coins.
+facetHighTitle: Erin Beanovich
+facetHigh: Everybody in your building has objected to the tower next door, which takes the light off every flat facing it. The developer's agent has come to you alone and offered you one of the new flats at the price it cost to build, if you withdraw your objection. You turn down the flat.
+facetHighAction: You turn down the flat.
 facetMidTitle: Bean and Order
-facetMid: The written test at the end of the forklift course is the only thing between you and the warehouse job. The trainer says he'll be outside for ten minutes and that nobody checks bags, and the other four get their notes out. You answer it from memory.
-facetMidAction: You answer it from memory.
+facetMid: The forklift course ends in a written test, and the warehouse job depends on passing it. The trainer marks it in front of you, says you're two answers short, and goes for a coffee so you can have another look. You hand the test back as it is.
+facetMidAction: You hand the test back as it is.
 facetLowTitle: Trading Beans
-facetLow: Your friend's mum works the desk at the surgery and rings to say two slots a day are held back for cancellations, and one going in the morning has your name on it. The wait otherwise is three weeks and you've had the pain a month. You take the slot.
-facetLowAction: You take the slot.
+facetLow: Your friend's mum works the desk at the doctor's, where a few appointments a day are held back for cancellations. You've had a pain in your side since the spring and nothing on offer until the autumn. She rings to say tomorrow's is yours. You take the appointment.
+facetLowAction: You take the appointment.
 facetLeastTitle: The Beanfather
-facetLeast: Your band wants the main-stage slot at the festival, and the man who books it drinks with your cousin. After the gig your cousin takes you through to the room where the line-up actually gets decided, by whoever happens to be standing in it. You get your cousin to introduce you.
-facetLeastAction: You get your cousin to introduce you.
-question: You want to run the marathon; you've missed the ballot four years running. The club's spare place is meant to go to whoever came third over the winter. You came sixth, and at training the man who runs it tells the group it's yours. You...
-answerMost: tell him in front of the group that it's third's place
-answerHigh: tell him to give it to whoever came third
-answerMid: say you'd rather earn it
-answerLow: say yes if third doesn't want it
-answerLeast: take it, and get straight into training
+facetLeast: The building firm turned your application down without an interview. At your friend's wedding the man who owns it turns out to be the groom's uncle, and he does the hiring himself. Between courses you go and ask him to look at your application again.
+facetLeastAction: Between courses you go and ask him to look at your application again.
+question: You want one of the cheap studios in the old mill. They go to whoever's been waiting longest, and you only joined the list in the summer. At the meeting the woman who runs the building tells everyone the next one is yours. You...
+answerMost: say in front of everyone that it isn't hers to hand out
+answerHigh: tell her to give it to whoever's been waiting longest
+answerMid: ask her to put it to the room first
+answerLow: take it, and tell everyone when you joined the list
+answerLeast: take it, and offer to help her run the place
 rorschachMost: an anvil
 rorschachHigh: an ox at plough
 rorschachMid: a worn path

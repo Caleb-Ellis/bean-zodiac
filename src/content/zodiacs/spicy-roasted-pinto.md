@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: spicy-roasted-pinto
 lastUpdated: 
 bean: pinto
@@ -13,36 +13,33 @@ creature: mandarin duck
 dish: Pinto beans roasted with guajillo, lime, and cumin.
 friendlyBeans: [adzuki, fava]
 friendlyForm: fermented
-antiTriple: umami-boiled-kidney
-antiBeans: [navy, edamame]
-antiForm: dried
 seasonalFortune: "A season of guajillo and loud colour — the tray dresses for an audience that arrives."
-fortuneMost: Bright enough and nobody sees what's underneath it.
-fortuneHigh: A mandarin duck is painted like nothing else on the water.
-fortuneMid: Colour lifts an ordinary day.
-fortuneLow: Tone it down tonight.
-fortuneLeast: Muted things last longer in the eye.
+fortuneMost: Mix every colour and you get brown.
+fortuneHigh: Go on, show off!
+fortuneMid: The mandarin duck wears its best colours just to paddle about the pond.
+fortuneLow: One bright thing is plenty.
+fortuneLeast: A bean doesn't need its spots to flavour the pot.
 facetMostTitle: Glitter and Be Bean
-facetMost: Your friend is collecting on the pavement outside the shops for the hospice her mum was in, and she has a bucket and a laminated sign. You have come with a costume, a speaker and twenty minutes of material, and she has asked you twice to just rattle the bucket today. You put the speaker down and start.
-facetMostAction: You put the speaker down and start.
-facetHighTitle: Peabean
-facetHigh: Your oldest friend is getting married and said wear what you like, and what you have had made will be the brightest thing in that room by a distance — she saw it on the hanger and said, carefully, that this was a lot. Every photograph on every wall in her family will have it in, for good. You wear it.
-facetHighAction: You wear it.
+facetMost: Your grandmother left word that nobody was to wear black to her funeral. Your cousins have gone for a yellow tie and a flowery dress, and you're doing one of the readings from the front. You turn up in a gold sequinned suit.
+facetMostAction: You turn up in a gold sequinned suit.
+facetHighTitle: The Great Beansby
+facetHigh: Your friend has gone all out on a 1920s party for her birthday, with a jazz band, and everybody is standing round the edge of the dance floor holding a drink. She keeps glancing at the empty floor. You go out and dance on your own in the middle of the floor.
+facetHighAction: You go out and dance on your own in the middle of the floor.
 facetMidTitle: Bean That Jazz
-facetMid: Six of you have a cottage for the weekend, it is nobody's birthday, and the plan for tonight is a takeaway and cards — and you have a case of costumes in the boot that nobody asked for. You put them out on the sofa.
-facetMidAction: You put them out on the sofa.
-facetLowTitle: Beanet Please
-facetLow: Your friend knows the magician and has taken you round the back before the second half — the table, the gimmick, the whole of how the trick is done. He says he needs somebody up out of the seats for it and would rather it were you than a stranger. You tell him to pick somebody else.
+facetMid: Your partner's parents have come for dinner for the first time, and they've been polite and a little stiff all evening. You've made crêpes for dessert, and the brandy is out on the counter. You set the crêpes alight at the table.
+facetMidAction: You set the crêpes alight at the table.
+facetLowTitle: The Perks of Being a Beanflower
+facetLow: Your housemate has a magic show on at a small theatre in town, and in the interval he takes you backstage. He shows you the box with the false bottom and how the vanishing act in the second half works. He needs somebody from the audience for it, and would rather it were you than a stranger. You tell him to pick somebody else.
 facetLowAction: You tell him to pick somebody else.
 facetLeastTitle: Shades of Bean
-facetLeast: Every year you have booked a room and asked thirty people, and every year they have come — and this one you have booked nothing and told nobody. You buy one ticket for the four o'clock showing and go in.
-facetLeastAction: You buy one ticket for the four o'clock showing and go in.
-question: Film night at a friend's on a Tuesday, eight people, and you've brought the good coat. You...
-answerMost: keep the coat on, do the voices, and take the choosing of the film
-answerHigh: come in wearing it and tell the story with the sound effects
-answerMid: hang the coat up and be good company
-answerLow: keep to the film and let others talk
-answerLeast: sit where the light doesn't reach you
+facetLeast: A woman from work has got you a place on her dance school's float in the carnival parade. In the tent behind it there are rails of feathered costumes and a table of glitter and face paint, and people are gluing gems onto each other's cheeks. You ride the float in the clothes you came in.
+facetLeastAction: You ride the float in the clothes you came in.
+question: A tailor offers to make you one outfit, anything you like, for free — but you'll have to wear it every day for a year. What do you ask for?
+answerMost: orange tartan with a purple fur collar
+answerHigh: a suit in emerald green velvet
+answerMid: a navy suit with a hot pink lining
+answerLow: dark jeans and a crisp white shirt
+answerLeast: grey trousers and a grey jumper
 rorschachMost: a feathered headdress
 rorschachHigh: a fancy hat
 rorschachMid: a swirl of icing

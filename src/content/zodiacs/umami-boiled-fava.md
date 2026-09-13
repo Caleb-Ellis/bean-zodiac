@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: umami-boiled-fava
 lastUpdated: 
 bean: fava
@@ -12,32 +12,34 @@ quote: Screw your courage to the beaning-place.
 creature: bison
 dish: Fava simmered in dashi with wakame.
 friendlyBeans: [edamame, black]
-friendlyForm: smoked
-antiTriple: sweet-roasted-adzuki
-antiBeans: [green, mung]
-antiForm: fermented
+friendlyForm: fermented
 seasonalFortune: "A season of wakame and settled purpose — the dashi decided in autumn and never revisited."
-fortuneMost: A bison walks straight into the blizzard and out the far side.
-fortuneHigh: Decide it and stop revisiting.
-fortuneMid: A settled question frees the whole week.
-fortuneLow: Leave it open a while longer.
-fortuneLeast: Undecided is a fair answer for now.
-facetMostTitle: The Beanixer
-facetMost: You decided about the move four years ago and nothing since has been allowed to touch that — not the job, not her mother being ill, not the survey. Somebody asks whether it is still the right call. You tell them it is the call, which is a different answer.
+fortuneMost: Stand firm long enough and you'll forget what you were standing for.
+fortuneHigh: A bison heads into a storm, not away from it, and is out the other side first.
+fortuneMid: Sleep on it once, not every night.
+fortuneLow: You're allowed to change your mind.
+fortuneLeast: Both roads will wait while you decide.
+facetMostTitle: The Sword in the Bean
+facetMost: You gave up flying for good a few years back. Your best friend has just had a baby over in Canada, and says she'd understand if you flew out, just this once. The other way is ten days on a cargo ship. You book a cabin on the ship.
+facetMostAction: You book a cabin on the ship.
 facetHighTitle: Once Upon a Bean in the West
-facetHigh: That decision took a fortnight, it is made, and you have told the people it affects. Two of them have come back at you since and neither has moved you an inch.
+facetHigh: You quit your job a year ago to open a little bakery, and it's only just covering the rent. A café chain has offered to buy the lease off you for more than you've put into it. You tell them it's not for sale.
+facetHighAction: You tell them it's not for sale.
 facetMidTitle: Decision at Beandown
-facetMid: A choice, and a week to make it in, and you make it on the second day and spend the other five getting on with things.
+facetMid: You've decided you're not getting a dog until you have a garden. A friend's dog has had puppies, and at her barbecue the last one nobody's claimed falls asleep on your foot. She says it's yours if you want it. You tell her you're waiting for the garden.
+facetMidAction: You tell her you're waiting for the garden.
 facetLowTitle: Choose Your Own Beanventure
-facetLow: You have chosen the course and paid the deposit on it. You have started looking at what else was on the list.
+facetLow: For years you've been saying you'll cut your hair really short, and you've finally booked it in. In the chair, the hairdresser gathers it all into a ponytail and holds the scissors up to it. She asks if you're sure. You tell her just a trim this time.
+facetLowAction: You tell her just a trim this time.
 facetLeastTitle: Beaned and Confused
-facetLeast: It is between the two of them and has been between the two of them for five months. There is a spreadsheet. Both are still open, both are getting worse the longer this goes on, and you are no closer than you were in the first week.
-question: You decided years ago that you'd leave the town at forty. You're thirty-nine, and the promotion has come up. You...
-answerMost: turn the promotion down without opening the question again
-answerHigh: turn it down, and say why — that the leaving stands
-answerMid: accept it for the year, with the leaving still on
-answerLow: move into the job, and let forty go past
-answerLeast: take the job, and open the whole question again
+facetLeast: You've been on two first dates this month and would happily see either of them again. Both have messaged tonight to ask what you're doing on Saturday. You tell them both you'll let them know.
+facetLeastAction: You tell them both you'll let them know.
+question: One night a door appears in your hallway. Through it is your life as it would be if you'd made every big decision the other way, and it closes for good at sunrise. You...
+answerMost: shut it without looking through
+answerHigh: have a look, then shut it
+answerMid: step through for an hour, then come home
+answerLow: go through and ask the other you which life is better
+answerLeast: wedge it open so it can't close
 rorschachMost: a granite block
 rorschachHigh: a set jaw
 rorschachMid: a driven post

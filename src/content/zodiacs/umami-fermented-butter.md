@@ -13,9 +13,6 @@ creature: wood frog
 dish: Butter beans folded through white miso butter.
 friendlyBeans: [mung, adzuki]
 friendlyForm: dried
-antiTriple: spicy-fried-kidney
-antiBeans: [green, chickpea]
-antiForm: smoked
 seasonalFortune: "A season of white miso and a closed crock — the store is doing nothing anyone can see, and nothing is marked with a date."
 fortuneMost: A wood frog freezes through until there's no heartbeat in it at all, and not every one thaws.
 fortuneHigh: Don't touch it for another year.

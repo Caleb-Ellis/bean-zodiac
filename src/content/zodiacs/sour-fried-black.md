@@ -11,11 +11,8 @@ inverse: discursive
 quote: Elementary, my dear Bean.
 creature: mongoose
 dish: Black beans fried with lime and pickled shallot.
-friendlyBeans: [green, kidney]
+friendlyBeans: [green, adzuki]
 friendlyForm: fermented
-antiTriple: umami-roasted-butter
-antiBeans: [pinto, mung]
-antiForm: smoked
 seasonalFortune: "A season of lime and pickled shallot — the oil is ready before the question is finished."
 fortuneMost: Being quick is no reason to make others feel slow.
 fortuneHigh: A mongoose is out of the way before the cobra has struck.

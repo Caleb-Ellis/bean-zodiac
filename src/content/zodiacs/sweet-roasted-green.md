@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sweet-roasted-green
 lastUpdated: 
 bean: green
@@ -13,36 +13,33 @@ creature: porpoise
 dish: Green beans roasted with maple and toasted hazelnut.
 friendlyBeans: [edamame, fava]
 friendlyForm: fried
-antiTriple: umami-boiled-butter
-antiBeans: [navy, kidney]
-antiForm: fermented
 seasonalFortune: "A season of maple and toasted hazelnut; the tray lifts whatever room it enters."
-fortuneMost: Bounce back too fast and nobody believes it landed.
-fortuneHigh: A porpoise rides the bow wave of a boat going somewhere else.
-fortuneMid: Optimism does real work.
-fortuneLow: Let it be bad for an hour.
-fortuneLeast: Flat is allowed.
-facetMostTitle: Too Big for His Beans
-facetMost: Seven of you have had the place by the sea a week, and on the last morning the owner has emailed a list — the burn in the sofa, the mark on the wall — and the four hundred pound deposit is not coming back. Your friend paid that deposit, and she is stood in the kitchen holding her phone. You get the other five out to the beach.
-facetMostAction: You get the other five out to the beach.
+fortuneMost: Not everybody who's down wants cheering up.
+fortuneHigh: Dust yourself off and go again.
+fortuneMid: A porpoise can dive deep, but it always comes back up for air.
+fortuneLow: A bad day doesn't need turning into a good one.
+fortuneLeast: There's no shame in staying down for a bit.
+facetMostTitle: Anchorbean
+facetMost: It's opening night at your friend's restaurant, and halfway through the main course the power goes out. A full room of diners are sitting in the dark, and your friend is in the kitchen on the phone to an electrician. You stand on a chair and tell everyone the drinks are on the house.
+facetMostAction: You stand on a chair and tell everyone the drinks are on the house.
 facetHighTitle: Float On, Bean
-facetHigh: Sixty people have turned up for your friend's sponsored walk with four thousand pounds pledged on it, and the police have shut the river path this morning because the water is over it, though the reservoir track above it is open. There is no second date, and the money goes on today. They are stood about in the rain. You get the sixty of them round the reservoir instead.
-facetHighAction: You get the sixty of them round the reservoir instead.
-facetMidTitle: Beaning on Air
-facetMid: You booked this weeks ago for her birthday and forty minutes in the projector has gone; they are refunding everybody, the one across town has a late showing, and she has said twice that it does not matter. You get two for the late showing across town.
-facetMidAction: You get two for the late showing across town.
-facetLowTitle: The Beaned Balloon
-facetLow: At six you were told the shop you work in is shutting in the spring and all nine of you are out. Forty of you were sent back to your seats in the first two minutes and your friend is still up there conducting an orchestra. They come out wanting to go on somewhere. You tell them you have been thinking about the shop all night.
-facetLowAction: You tell them you have been thinking about the shop all night.
+facetHigh: A day into a canoe trip down the river, you and a friend capsize and lose the bag with the tent and all the food in it. Your friend is sitting dripping on the bank, looking up trains home. You turn the canoe the right way up and tell them to get back in.
+facetHighAction: You turn the canoe the right way up and tell them to get back in.
+facetMidTitle: Walking on Beanshine
+facetMid: You'd trained all spring for a half marathon, then twisted your ankle the week before. On the morning of the race it's sunny, and the friends you trained with are lining up without you. You go down to the finish line to cheer them in.
+facetMidAction: You go down to the finish line to cheer them in.
+facetLowTitle: Beanside Out
+facetLow: You've been knocked out of a TV quiz show on the very first question. Backstage, a producer points a camera at you for the bit they'll show as you walk off, and asks how you're feeling. You tell the camera you're really disappointed.
+facetLowAction: You tell the camera you're really disappointed.
 facetLeastTitle: Let Down, Bean
-facetLeast: You went to the open day for the course you have been meaning to apply to for two years and they said the funding has gone for next year and it is fourteen thousand now, and on the train back your partner is saying there will be a way round it. You tell her you are not applying.
-facetLeastAction: You tell her you are not applying.
-question: The gig has cancelled on the morning of it, and the four of you took the day off for it. You...
-answerMost: have the day replanned and the three of them signed up to it
-answerHigh: be over it by lunch, and get the four of you out doing something
-answerMid: be annoyed for an hour, then put the afternoon to use
-answerLow: keep the day off quietly
-answerLeast: write the day off
+facetLeast: The band you play in with some friends has its first festival slot, on the little stage behind the food vans, and hardly anyone comes. On the drive home the others are already talking about which festivals to try for next summer. You tell them you're done with the band.
+facetLeastAction: You tell them you're done with the band.
+question: Your offer on a flat has fallen through the day before you were due to get the keys, and you'd already told everyone. You...
+answerMost: throw the housewarming party anyway, at your current place
+answerHigh: book viewings for the weekend
+answerMid: tell everyone it clearly wasn't meant to be
+answerLow: stop looking at listings for a while
+answerLeast: decide you'll just stay where you are
 rorschachMost: a puffed chest
 rorschachHigh: a bobbing cork
 rorschachMid: a rising loaf

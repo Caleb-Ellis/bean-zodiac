@@ -13,9 +13,6 @@ creature: african wild dog
 dish: Chana masala - chickpeas braised in spiced onion-tomato gravy.
 friendlyBeans: [adzuki, green]
 friendlyForm: fried
-antiTriple: sour-dried-black
-antiBeans: [cannellini, fava]
-antiForm: fermented
 seasonalFortune: "A season of chana masala and rolled-up sleeves — nobody stirs the big pot alone."
 fortuneMost: Push people to pitch in and they'll find somewhere else to be.
 fortuneHigh: All hands on deck!

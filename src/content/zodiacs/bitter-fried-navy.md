@@ -13,9 +13,6 @@ creature: guard bee
 dish: Navy beans pan-scorched with rosemary and burnt garlic oil.
 friendlyBeans: [cannellini, edamame]
 friendlyForm: dried
-antiTriple: sweet-smoked-mung
-antiBeans: [butter, fava]
-antiForm: fermented
 seasonalFortune: "A season of burnt garlic and no allowances — the pan gives everything the same heat, and what can't take it doesn't come out."
 fortuneMost: Make an example of enough people and the rest learn to hide it.
 fortuneHigh: A guard bee smells every bee that lands and turns back the ones from another hive.

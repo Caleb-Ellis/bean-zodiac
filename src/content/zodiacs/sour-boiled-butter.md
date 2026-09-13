@@ -11,11 +11,8 @@ inverse: defensive
 quote: A foolish consistency is the hobgoblin of little beans.
 creature: blue tit
 dish: Avgolemono - butter bean soup with dill and lemon.
-friendlyBeans: [navy, chickpea]
+friendlyBeans: [chickpea, navy]
 friendlyForm: dried
-antiTriple: bitter-smoked-green
-antiBeans: [fava, pinto]
-antiForm: fried
 seasonalFortune: "A season of dill and lemon — the soup takes whatever the cook says last, and is better for most of it."
 fortuneMost: One blue tit watched another open a milk bottle, and within a year every bird in the country was doing it.
 fortuneHigh: Change your mind out loud.

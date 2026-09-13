@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: umami-boiled-pinto
 lastUpdated:
 bean: pinto
@@ -12,32 +12,34 @@ quote: I wandered lonely as a bean.
 creature: grey whale
 dish: Pinto beans simmered in mushroom dashi with epazote.
 friendlyBeans: [black, chickpea]
-friendlyForm: roasted
-antiTriple: sweet-fried-kidney
-antiBeans: [mung, cannellini]
-antiForm: smoked
-seasonalFortune: "A season of epazote and rising steam — the broth thinks about something and doesn't say."
-fortuneMost: Muse long enough and the ordinary jobs pile up unattended.
-fortuneHigh: A grey whale swims the whole coast on last year's feeding.
-fortuneMid: Thinking sideways solves what effort can't.
-fortuneLow: Do the workaday thing.
-fortuneLeast: The ordinary jobs are their own rest.
+friendlyForm: smoked
+seasonalFortune: "A season of epazote and slow steam — the pot turns one thought over and over."
+fortuneMost: Drift off too often, and life will carry on without you.
+fortuneHigh: Follow that thought wherever it goes.
+fortuneMid: A grey whale sifts the same patch of seabed for hours, a mouthful at a time.
+fortuneLow: The question will keep; the dishes won't.
+fortuneLeast: An honest day's work clears the head better than any amount of thinking.
 facetMostTitle: The Secret Life of Walter Beanty
-facetMost: A question has been turning over in you since midweek and it is attached to nothing whatever, and somebody has just asked what you are thinking.
+facetMost: Your oldest friend is saying her vows at the front of the church, and you're in the second row. The saint in the stained-glass window above her is holding what looks like a frying pan. You spend the vows wondering what the frying pan is for.
+facetMostAction: You spend the vows wondering what the frying pan is for.
 facetHighTitle: Ways of Beaning
-facetHigh: Your phone is ringing and the number showing on it is your own. You do not answer, and you think about that number on and off for about a week.
+facetHigh: You and your dad have tickets for a sold-out exhibition, and an hour to get round it. In the first room there's a small painting of a woman at a window, looking at something outside the frame. Your dad has already moved on to the next room. You stay, wondering what the woman in the painting can see.
+facetHighAction: You stay, wondering what the woman in the painting can see.
 facetMidTitle: Clair de Beane
-facetMid: A walk from the house takes forty minutes and you have done it a thousand times and could go round with your eyes shut. You do that walk working at something that will never be the slightest use to anybody, and you are still at it coming back up the lane.
-facetLowTitle: Working Bean
-facetLow: It has been a day of jobs and errands and the list is done and the car is taxed. You have a bath and get an early night.
-facetLeastTitle: Clocking Bean
-facetLeast: An afternoon has nothing in it and a question you had put down is still lying there where you left it, and you do the shed out and get the tins in order instead.
-question: Somebody asks what you're thinking about. Since Tuesday it's been why people keep the houses they grew up in on street view. You...
-answerMost: take them through the street view question for the whole afternoon
-answerHigh: tell them what you've been turning over since Tuesday
-answerMid: hand them the short version and ask what they make of it
-answerLow: talk about the weekend instead
-answerLeast: admit there's been nothing much going on in there
+facetMid: Everyone else on the camping trip is asleep in their tents, and it's your turn to keep the fire going. It's getting low, and the moon has come up over the lake, bright enough to throw your shadow. You let the fire wait a minute while you wonder who else is awake looking at the moon.
+facetMidAction: You let the fire wait a minute while you wonder who else is awake looking at the moon.
+facetLowTitle: Beanbledon
+facetLow: You and your sister are one point from taking the set in a doubles match at the park courts. On the next court, a man is telling his partner that pigeons can see a little way into the future. Your sister is bouncing the ball to serve. You get your racket up and watch the ball.
+facetLowAction: You get your racket up and watch the ball.
+facetLeastTitle: Bean the Builder
+facetLeast: On a tour of the old town hall, the man who looks after the clock takes your group up the tower to wind it. The beams up there are covered in names and dates carved by the keepers before him. He hands you the crank. You ask him how many turns the clock needs.
+facetLeastAction: You ask him how many turns the clock needs.
+question: What are you thinking about in the shower?
+answerMost: couldn't tell you, but the water's gone cold
+answerHigh: whether fish ever get thirsty
+answerMid: why a film you liked ended the way it did
+answerLow: what you need to get done today
+answerLeast: shampoo, then conditioner, then out
 rorschachMost: a dandelion clock
 rorschachHigh: a window seat
 rorschachMid: a half-read book

@@ -11,11 +11,8 @@ inverse: direct
 quote: Don't tell me the moon is shining; show me the glint of light on broken bean.
 creature: plover
 dish: Smoked chickpea hummus with aubergine ash.
-friendlyBeans: [green, adzuki]
+friendlyBeans: [adzuki, cannellini]
 friendlyForm: roasted
-antiTriple: sour-fermented-edamame
-antiBeans: [pinto, navy]
-antiForm: dried
 seasonalFortune: "A season of aubergine ash and borrowed smoke — nothing in the bowl ever went near the flame, and all of it tastes of it."
 fortuneMost: Make them work for it every time, and eventually they stop asking.
 fortuneHigh: A plover drags a wing along the ground to walk the fox away from the nest.

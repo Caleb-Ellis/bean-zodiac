@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: umami-fermented-adzuki
 lastUpdated:
 bean: adzuki
@@ -13,31 +13,33 @@ creature: mourning dove
 dish: Adzuki miso aged on barley koji.
 friendlyBeans: [pinto, chickpea]
 friendlyForm: roasted
-antiTriple: sour-dried-edamame
-antiBeans: [navy, cannellini]
-antiForm: boiled
 seasonalFortune: "A season of barley koji and remembered years — the miso tastes of what has gone."
-fortuneMost: Mourn everything and the good years get remembered as losses.
-fortuneHigh: Say what they were like.
-fortuneMid: A mourning dove calls the same note in every weather.
-fortuneLow: Let it go by unmarked.
-fortuneLeast: Forgetting is how anybody carries on.
+fortuneMost: A house kept exactly as they left it stops being a house.
+fortuneHigh: Don't let it finish without you there.
+fortuneMid: A mourning dove comes back to the branch after the nest has gone.
+fortuneLow: Some things are allowed to just stop.
+fortuneLeast: Nothing minds being forgotten.
 facetMostTitle: Death of a Beansman
-facetMost: The reservoir has dropped far enough that the drowned village is showing again — garden walls, a road, the step of the church. You go down and stand in it, and you cannot shake it off for days afterwards.
+facetMost: They're bringing down the cooling towers at the power station, and half the town is out on the far bank to watch, with a coffee van and a loudspeaker counting down. Your father worked there, and most of the fathers on your road did too. You turn round and ask the people behind you to be quiet for it.
+facetMostAction: You turn round and ask the people behind you to be quiet for it.
 facetHighTitle: Beanegy Written in a Country Farmyard
-facetHigh: The quarry your father worked in is a climbing centre now, with a cafe where the weighbridge used to stand and chalk on everything. You walk the floor of it telling your son which building was which.
+facetHigh: The churchyard on the edge of the village is having its headstones laid flat, after one went over on a child in the summer. Once they're down the writing faces the ground for good. Nobody of yours is buried here — you only cut through on the way to the shop. You go home for paper and copy down the ones that can still be read.
+facetHighAction: You go home for paper and copy down the ones that can still be read.
 facetMidTitle: Remembrance of Beans Past
-facetMid: Three resoles in and the cobbler tells you this is the last one these boots will take. You have it done anyway.
+facetMid: Sunday is the last service at the restaurant you cook in, and the kitchen is sold off on Monday morning. Nobody's saying much about it, with a full book on Saturday still to get through. The first menu is pinned up by the pass, and the beef pie on it came off years ago. The staff meal is yours to cook. You make the beef pie.
+facetMidAction: You make the beef pie.
 facetLowTitle: Fifty First Beans
-facetLow: Two years of paying for a storage unit you have not opened. You take out the three things you actually want and book the rest for collection.
+facetLow: The pool where you learned to swim shuts at the end of the month, and they've opened it for a last night with everybody in at once. The manager is at the desk giving out the old brass locker tags to keep, and the one on your wrist counts. You swim your lengths and give your tag back.
+facetLowAction: You swim your lengths and give your tag back.
 facetLeastTitle: The Bean Identity
-facetLeast: A jumper is going round in the laundrette machine that is not yours. It takes a minute to be certain — and then you realise it is, and that you had forgotten owning it.
-question: They're pulling down the cinema you grew up going to, and it comes down on Monday. You...
-answerMost: go every day of the week it takes to come down
-answerHigh: go on the Sunday and have a proper last look round
-answerMid: drive past on the Monday and stop for a minute
-answerLow: read about it and leave it at that
-answerLeast: let the week go by without going
+facetLeast: A tin bricked into the school wall the year you started has come out with the roof, and everybody's letter to themselves is still folded inside. People are finding their own and going off into corners to read them. A woman from the local paper asks whether anybody will read theirs out loud. You hand her yours without opening it.
+facetLeastAction: You hand her yours without opening it.
+question: Your friend died in the spring, and his brother has brought his bike round for you to have. It's better than the one you ride to work every day, and your friend's name is still taped along the top tube. You...
+answerMost: hang it on the wall at home and keep riding yours
+answerHigh: ride it with his name left where it is
+answerMid: ride it to work until the tape wears off
+answerLow: have it resprayed the colour you want
+answerLeast: sell it and put the money toward a trip
 rorschachMost: a draped coffin
 rorschachHigh: a funeral urn
 rorschachMid: a framed photo

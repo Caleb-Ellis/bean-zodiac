@@ -13,9 +13,6 @@ creature: peahen
 dish: Navy beans brined, then boiled with cider vinegar and mustard.
 friendlyBeans: [edamame, cannellini]
 friendlyForm: dried
-antiTriple: bitter-smoked-green
-antiBeans: [mung, chickpea]
-antiForm: fermented
 seasonalFortune: "A season of cider vinegar and mustard — the pot serves the beans as they are, with nothing on top."
 fortuneMost: Strip it down far enough and the kindness goes too.
 fortuneHigh: No need to dress it up.

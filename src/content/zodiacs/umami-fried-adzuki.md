@@ -13,9 +13,6 @@ creature: sea slug
 dish: Adzuki tempura with soy salt.
 friendlyBeans: [chickpea, green]
 friendlyForm: roasted
-antiTriple: bitter-fermented-black
-antiBeans: [butter, cannellini]
-antiForm: dried
 seasonalFortune: "A season of soy salt and thin batter — what goes in the oil comes out showing everything, and none of it goes back."
 fortuneMost: A sea slug has no shell and is the brightest thing on the reef.
 fortuneHigh: Say it before you've worked out how it'll land.

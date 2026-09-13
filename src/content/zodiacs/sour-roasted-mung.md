@@ -13,9 +13,6 @@ creature: giraffe
 dish: Roasted mung with coriander chutney and lime.
 friendlyBeans: [cannellini, butter]
 friendlyForm: smoked
-antiTriple: sweet-fried-fava
-antiBeans: [edamame, green]
-antiForm: dried
 seasonalFortune: "A season of lime and plain words — the sting comes first, and the healing after."
 fortuneMost: Say it straight every time and people will stop asking.
 fortuneHigh: Don't sugar-coat it.

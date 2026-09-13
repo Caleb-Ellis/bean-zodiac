@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: spicy-fried-kidney
 lastUpdated: 
 bean: kidney
@@ -13,31 +13,33 @@ creature: tasmanian devil
 dish: Kidney beans fried with cayenne and onion.
 friendlyBeans: [mung, butter]
 friendlyForm: boiled
-antiTriple: sour-fermented-edamame
-antiBeans: [black, navy]
-antiForm: smoked
 seasonalFortune: "A season of screaming oil and bared teeth — the pot turns red before anyone asks; the scorch stays."
-fortuneMost: All that ferocity and the small thing gets torn up with the big.
-fortuneHigh: A tasmanian devil takes on carrion twice its size.
-fortuneMid: Fight for it when it matters.
-fortuneLow: The small slight isn't worth it.
-fortuneLeast: Tameness keeps a household running.
-facetMostTitle: Rabean
-facetMost: Your mother has been spoken to badly at a counter and is telling you about it in the car park. You are back through the doors before she finishes. You want the man's name, and you want his manager's name too.
-facetHighTitle: Unleashed Bean
-facetHigh: On the green a dog has gone for a smaller one and the owner is laughing about it with somebody, and the smaller one belongs to a woman on her own with a lead in her hand. You are across the grass telling him exactly what happens if he does not get hold of it.
-facetMidTitle: Bared Beans
-facetMid: Six years, and a friend has been let go by message. You have it up on the screen and are asking who signed it.
+fortuneMost: Swing at everything and sooner or later you'll hit a friend.
+fortuneHigh: Bite back, and bite hard!
+fortuneMid: A Tasmanian devil will scream at anything that comes near its dinner.
+fortuneLow: You can let them have this one.
+fortuneLeast: There's no shame in turning the other cheek.
+facetMostTitle: 28 Beans Later
+facetMost: Front row at a comedy club, and the comedian has picked on your friend — her haircut, her job, the date she's brought. She's laughing along with everybody else. You climb onto the stage and take the microphone off him.
+facetMostAction: You climb onto the stage and take the microphone off him.
+facetHighTitle: A Very Particular Set of Beans
+facetHigh: You're out swimming with your partner when a man lifts their bag off the towels and starts walking up the beach with it. Their phone and keys are in it. You're out of the water and after him.
+facetHighAction: You're out of the water and after him.
+facetMidTitle: Sister Bean
+facetMid: Your little sister has posted a video of herself singing at her first open mic, and a man she doesn't know has commented "maybe stick to the day job". You reply telling him nobody asked.
+facetMidAction: You reply telling him nobody asked.
 facetLowTitle: The Taming of the Bean
-facetLow: Somebody has cut in ahead at the plant sale. A whole queue is watching. You look at the woman beside you and pull a face at her.
+facetLow: You've gone with a friend to hold her hand while she gets her first tattoo. The artist sighs every time she flinches, and tells her to keep still or it'll come out crooked. You squeeze her hand and tell her she's doing fine.
+facetLowAction: You squeeze her hand and tell her she's doing fine.
 facetLeastTitle: Beanhoven
-facetLeast: A driver has taken your wing mirror off and got out of his van blaming you, with a road full of people watching. You allow that these things happen, and you are apologising by the end of it.
-question: You've an appraisal with the same manager on Friday. She's just been let go over a missing till float she says she never touched. You...
-answerMost: put it round the group with nothing checked
-answerHigh: ring the manager that night and say what you make of it
-answerMid: ask her about the float, and offer to write something
-answerLow: call it unfair and wait to hear more
-answerLeast: keep out of it until Friday is done
+facetLeast: You've brought your mum to the fish market before dawn to watch them auction the tuna. She stops in the aisle for a photo, and a man pushing a trolley of ice shouts at her to move, calling her a stupid tourist. You apologise to him for her.
+facetLeastAction: You apologise to him for her.
+question: What kind of guard dog would you make?
+answerMost: the kind that bites the postman
+answerHigh: the kind that goes for anyone who climbs the fence
+answerMid: the kind that growls at strangers through the gate
+answerLow: the kind that barks once and goes back to sleep
+answerLeast: the kind that rolls over for the burglar
 rorschachMost: bared teeth
 rorschachHigh: a bear trap
 rorschachMid: a cornered rat

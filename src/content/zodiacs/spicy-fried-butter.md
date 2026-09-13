@@ -10,11 +10,8 @@ inverse: reluctant
 quote: The world is charged with the grandeur of the bean.
 creature: brown bear
 dish: Butter beans fried with Calabrian chilli and breadcrumb.
-friendlyBeans: [fava, adzuki]
+friendlyBeans: [chickpea, adzuki]
 friendlyForm: roasted
-antiTriple: bitter-fermented-black
-antiBeans: [cannellini, navy]
-antiForm: smoked
 seasonalFortune: "A season of Calabrian chilli and sudden waking — even the slow fat is moving now."
 fortuneMost: A quick yes will incur a heavy debt.
 fortuneHigh: Just do it!

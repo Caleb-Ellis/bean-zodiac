@@ -10,11 +10,8 @@ inverse: philistine
 quote: Every bean is an artist. The problem is how to remain an artist once we grow up.
 creature: lyrebird
 dish: Pinto mash brined in tepache with hoja santa.
-friendlyBeans: [chickpea, adzuki]
+friendlyBeans: [adzuki, chickpea]
 friendlyForm: roasted
-antiTriple: umami-boiled-black
-antiBeans: [navy, butter]
-antiForm: dried
 seasonalFortune: "A season of hoja santa and private colour — the mash makes something the kitchen cannot name."
 fortuneMost: The last coat of paint will take the longest if you let it.
 fortuneHigh: You can find beauty wherever your eye settles.

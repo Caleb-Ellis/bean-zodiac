@@ -12,9 +12,6 @@ creature: puppy
 dish: Edamame smoked with maple and soy.
 friendlyBeans: [cannellini, black]
 friendlyForm: dried
-antiTriple: spicy-fried-pinto
-antiBeans: [green, kidney]
-antiForm: roasted
 seasonalFortune: "A season of maple and soy: the smoke settles arguments the kitchen forgot it was having."
 fortuneMost: The puppy licks the hands of everyone, even those who mean it harm.
 fortuneHigh: Ask the question that gets them talking.

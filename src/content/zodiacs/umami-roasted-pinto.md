@@ -12,9 +12,6 @@ creature: blue whale
 dish: Pinto beans roasted in lard with epazote.
 friendlyBeans: [fava, green]
 friendlyForm: fermented
-antiTriple: sweet-dried-kidney
-antiBeans: [black, navy]
-antiForm: smoked
 seasonalFortune: "A season of lard and epazote — the flavour spreads further than the pan explains."
 fortuneMost: Crossing an entire ocean, the blue whale's song is heard by nobody.
 fortuneHigh: Say the whole idea out loud and see who listens.

@@ -10,11 +10,8 @@ inverse: unvarnished
 quote: Double, double toil and bean.
 creature: peacock spider
 dish: Texas smoked pinto beans with brisket drippings and chipotle.
-friendlyBeans: [black, butter]
+friendlyBeans: [cannellini, black]
 friendlyForm: fermented
-antiTriple: sweet-dried-green
-antiBeans: [kidney, navy]
-antiForm: roasted
 seasonalFortune: "A season of sublime brisket and held gazes — the smoke will tell a story."
 fortuneMost: A peacock spider's dance is always beautiful, but its mate may still eat him.
 fortuneHigh: Dazzled hearts open minds.

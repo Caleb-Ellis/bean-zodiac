@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sour-fried-kidney
 lastUpdated: 
 bean: kidney
@@ -11,38 +11,35 @@ inverse: acquiescent
 quote: In the beginning was the bean, and the bean was with argument, and the bean was argument.
 creature: magpie
 dish: Kidney beans fried with tamarind chutney and onion seed.
-friendlyBeans: [mung, pinto]
+friendlyBeans: [pinto, green]
 friendlyForm: fermented
-antiTriple: bitter-dried-butter
-antiBeans: [edamame, cannellini]
-antiForm: smoked
 seasonalFortune: "A season of tamarind chutney and raised stakes: the pan asks the kitchen to prove itself."
-fortuneMost: Argue with everything and the good argument gets missed.
-fortuneHigh: A magpie mobs a hawk twice its size.
-fortuneMid: The challenge is worth making once.
-fortuneLow: Let it stand this time.
-fortuneLeast: Agreement gets more done than combat.
-facetMostTitle: Roadbean
-facetMost: A woman two chairs along says her cousin was seen in twenty minutes at the walk-in centre across town and this place is a disgrace. She is waiting to be called for a scan and her hands have not been still since you sat down. You ask her what time her cousin actually went in.
-facetMostAction: You ask her what time her cousin actually went in.
-facetHighTitle: The Beantlet
-facetHigh: The developer's man tells the meeting the ecology survey found no bats in the barn, and you have the survey open in front of you at the line saying the roof was never accessed. They vote at the end of the night, and a permission once granted is granted. You make him read the paragraph out.
+fortuneMost: A magpie will see off a cat, a hawk, and a crow that was only passing.
+fortuneHigh: Make them back it up.
+fortuneMid: Nobody minds being asked how they know.
+fortuneLow: Most of what gets said is near enough true.
+fortuneLeast: Plenty of wrong things go on being wrong quite happily.
+facetMostTitle: The Spanish Beanquisition
+facetMost: The penalty given against your Sunday football team wasn't a penalty, and you said so at the time. The man who gave it referees for nothing because nobody else will, and your own players have gone back to their positions. At half time you take him through it again.
+facetMostAction: At half time you take him through it again.
+facetHighTitle: Erin Brockobean
+facetHigh: The barn behind your street is coming down for housing, and the developer's man tells the planning committee the ecology survey found no bats in it. You have the survey open on your knee at the paragraph saying the roof was never accessed. They vote tonight, and a permission once granted is granted. You make him read the paragraph out.
 facetHighAction: You make him read the paragraph out.
-facetMidTitle: The Beanenger
-facetMid: Somebody at your table says the recycling all goes in the same lorry as everything else, and the four of them nod along at it. You ask him who told him that.
-facetMidAction: You ask him who told him that.
-facetLowTitle: As You Bean
-facetLow: A friend has got you into the store rooms behind the gallery — the trays, the accession numbers, the things that never go on show. The curator pulls out a drawer and says the brooch in it came off a wreck, which you happen to know was disproved years ago. You tell her it is a beautiful thing and ask what else is in the drawer.
-facetLowAction: You tell her it is a beautiful thing and ask what else is in the drawer.
-facetLeastTitle: Whatever You Say, Bean
-facetLeast: Your friend is telling the six of them about the night the van broke down, which you were there for, and in the version he is giving it is him who got underneath and found the split hose. You laugh in the right place and let him get to the end of it.
-facetLeastAction: You laugh in the right place and let him get to the end of it.
-question: At the tail end of a work lunch somebody says the trains were better before they were sold off. Nobody has asked him to back it up. You...
-answerMost: keep after it until he either proves it or drops it
-answerHigh: make him say what he's going on, and hold him to it
-answerMid: want to know which line he means
-answerLow: doubt it out loud
-answerLeast: let the claim stand
+facetMidTitle: Citation Beaneded
+facetMid: A friend has bought a car off a man in a car park, cash, and he's driving it across the country tomorrow to start a new job. He says the seller told him the cambelt was changed last year. You ask him whether there's a bill for it.
+facetMidAction: You ask him whether there's a bill for it.
+facetLowTitle: The Sound of Beanlence
+facetLow: A friend who works at the museum has got you into the store rooms. She slides out a drawer and says the brooch in it came off a wreck, and that it's going in the new display with that on the label. The wreck story was disproved years ago. You tell her it's a beautiful thing and ask what else is in the drawer.
+facetLowAction: You tell her it's a beautiful thing and ask what else is in the drawer.
+facetLeastTitle: Live and Let Bean
+facetLeast: Your brother has brought you along to meet the people he's just started working with, and at the bowling alley he tells them about the night the van broke down. In his telling it's him who got underneath and found the split hose. It was you. You laugh in the right place and tell them the best part is still coming.
+facetLeastAction: You laugh in the right place and tell them the best part is still coming.
+question: Ten weeks of evening class and your bench is finished but for the oil. The tutor, whose own bench has stood in the workshop corner all term, says the joints will open inside a year and hands you a chisel to take them apart. You...
+answerMost: tell him to take his own apart first
+answerHigh: have him stand on yours before you touch it
+answerMid: ask which of the joints he means
+answerLow: start on the joints and ask what you got wrong
+answerLeast: hand him the chisel
 rorschachMost: a raised fist
 rorschachHigh: a knight's helm
 rorschachMid: a raised drawbridge

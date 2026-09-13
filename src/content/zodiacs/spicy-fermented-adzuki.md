@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: spicy-fermented-adzuki
 lastUpdated: 
 bean: adzuki
@@ -13,36 +13,33 @@ creature: song thrush
 dish: Adzuki fermented in kimchi brine with gochugaru.
 friendlyBeans: [pinto, mung]
 friendlyForm: smoked
-antiTriple: bitter-dried-cannellini
-antiBeans: [navy, edamame]
-antiForm: boiled
 seasonalFortune: "A season of kimchi brine and rising song — the crock celebrates something only it can hear."
-fortuneMost: Rave about everything and nobody can tell what's loved.
-fortuneHigh: Go on about it at length.
-fortuneMid: A song thrush repeats every phrase until the wood knows it.
-fortuneLow: Just say what happened.
-fortuneLeast: Fine is a real answer.
-facetMostTitle: Beanirious
-facetMost: You are on the local station for two minutes, live, to say where your friend's fundraiser is and what time the doors open. The presenter has just played a record you have not heard since you were fifteen, and he opens by asking what you made of it. You use the two minutes on the record.
-facetMostAction: You use the two minutes on the record.
+fortuneMost: Rave about everything, and nobody will know what you really love.
+fortuneHigh: Sing its praises.
+fortuneMid: A song thrush sings every phrase twice, in case you missed it.
+fortuneLow: Just tell them what happened.
+fortuneLeast: A good thing said plainly is still a good thing.
+facetMostTitle: Four Weddings and a Bean
+facetMost: Your best friend has asked you to read a short poem at their wedding, one they chose themselves. At the lectern you look up and see the two of them holding hands in the light from the windows, and it all overwhelms you. You put the poem down and tell everyone how beautiful they look together.
+facetMostAction: You put the poem down and tell everyone how beautiful they look together.
 facetHighTitle: Beanian Rhapsody
-facetHigh: The man behind the counter has put on the record you have been trying to find for four years, and your friend has her coat back on and is stood by the door with a train at six. You go through the whole of the second side with him.
-facetHighAction: You go through the whole of the second side with him.
-facetMidTitle: Bean Rapture
-facetMid: It is the public night at the observatory and there is one telescope, twenty seconds each, and nine people still waiting on the steps behind you. Saturn comes up in the eyepiece with the rings on the slant. You stand aside and tell the woman behind you what she is about to see.
-facetMidAction: You stand aside and tell the woman behind you what she is about to see.
-facetLowTitle: The Bean Truth
-facetLow: Your friend has driven an hour to get you out to the reservoir before dusk for the starlings, and they come in over the water for twenty minutes and it is the best thing you have seen all year; walking back to the car she asks what you thought. You tell her it was worth the drive.
-facetLowAction: You tell her it was worth the drive.
-facetLeastTitle: Same Old Bean, Same Old Bean
-facetLeast: Dolphins came up alongside for ten minutes an hour out and the whole deck was up at the rail for them. Your dad rings while you are still out on the water and asks what you have been up to. You say you are on the ferry and it is a calm crossing.
-facetLeastAction: You say you are on the ferry and it is a calm crossing.
-question: At the fair a machine plays back the last thing that made you happy, out loud, to everyone queueing behind you. You...
-answerMost: feed the machine again and talk the whole queue through it
-answerHigh: let it run, and tell them why that bit matters
-answerMid: stand there while it plays and say it was a good day
-answerLow: collect your ticket
-answerLeast: say that's about right and get on
+facetHigh: A woman is playing the cello at the bottom of the escalators in the metro station, and it has stopped you dead. You're already late to meet a friend, and your train is pulling in. You stay to tell her it's the most beautiful thing you've ever heard.
+facetHighAction: You stay to tell her it's the most beautiful thing you've ever heard.
+facetMidTitle: Eat Pray Bean
+facetMid: In a tiny pizzeria in Naples, the old man who made your pizza is leaning on the oven, watching you take the first bite. It's the best pizza you've ever had. He raises his eyebrows at you across the counter. You put your hand on your heart.
+facetMidAction: You put your hand on your heart.
+facetLowTitle: Just the Facts, Bean
+facetLow: A friend who builds props has snuck you onto the set of a huge fantasy film after everyone's gone home — a castle hall with a stone throne and banners hanging from the rafters. She's watching your face, waiting for your reaction. You ask her how long the hall took to build.
+facetLowAction: You ask her how long the hall took to build.
+facetLeastTitle: Nothing to Bean Here
+facetLeast: On a whale-watching boat, a humpback surfaces right beside you, close enough to hear it breathe. The woman next to you at the rail grabs your arm and asks if you can believe it. You tell her they have to come up for air every few minutes.
+facetLeastAction: You tell her they have to come up for air every few minutes.
+question: Your friend's son has grown up somewhere hot and has never seen snow. The forecast says it's coming tonight, and he asks you what it's like. You tell him...
+answerMost: it's the sky coming down to tuck the whole world in
+answerHigh: it's soft and sparkly, and it squeaks when you walk on it
+answerMid: it's cold and fluffy, and great for snowballs
+answerLow: it's cold, and it gets your socks wet
+answerLeast: it's rain that froze on the way down
 rorschachMost: a supernova
 rorschachHigh: a spray of blossom
 rorschachMid: a party popper

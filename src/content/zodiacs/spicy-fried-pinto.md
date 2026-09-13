@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: spicy-fried-pinto
 lastUpdated:
 bean: pinto
@@ -11,33 +11,35 @@ inverse: static
 quote: A bean in motion stays in motion.
 creature: squirrel monkey
 dish: Pinto beans refried with chile de árbol.
-friendlyBeans: [fava, mung]
+friendlyBeans: [fava, adzuki]
 friendlyForm: fermented
-antiTriple: umami-boiled-black
-antiBeans: [butter, kidney]
-antiForm: dried
 seasonalFortune: "A season of chile de árbol and constant motion — nothing in the pan sits still."
-fortuneMost: Never still and half the motion goes nowhere.
-fortuneHigh: A squirrel monkey crosses the canopy without touching the ground.
-fortuneMid: Movement solves what sitting can't.
-fortuneLow: Sit down for an hour.
-fortuneLeast: Stillness gets things noticed.
-facetMostTitle: Beanzy
-facetMost: The pan is on and you are cooking standing up with both arms going, and the flat has been rearranged twice already this year. You get up four times in this conversation and could not say what for.
-facetHighTitle: Kinetic Beanergy
-facetHigh: A dance floor in that town moves faster than the people on it. You get on it early. You are the last one still on when they put the lights up and start stacking chairs round you.
-facetMidTitle: Perpetual Beantion
-facetMid: The meeting has gone forty minutes and you are up at the window, then at the board, then back to the window. The thing gets decided at some point while you are moving.
-facetLowTitle: Beantatic
-facetLow: It is a long slow afternoon in a warm room and nothing has to happen, and you last about half of it in the chair.
+fortuneMost: A feeling can't be outrun.
+fortuneHigh: Shake it off.
+fortuneMid: A squirrel monkey eats on the move, and never stays long in one tree.
+fortuneLow: Sit with it for a while.
+fortuneLeast: Stay still and the birds will come to you.
+facetMostTitle: Everything Everywhere All at Bean
+facetMost: You fly out tonight to start a new job abroad, and your closest friends have come round to the flat to say goodbye. Everything was boxed and taped up yesterday. Since your friends arrived you've opened half the boxes, repacked them, and cleaned out the fridge. You head out to the shop for more tape.
+facetMostAction: You head out to the shop for more tape.
+facetHighTitle: Singin' in the Bean
+facetHigh: Your dad rings while you're walking home in the pouring rain — the scan he's been worrying about all week has come back clear. There's a queue of people sheltering at the bus stop ahead. You dance the rest of the way home, right past the bus stop.
+facetHighAction: You dance the rest of the way home, right past the bus stop.
+facetMidTitle: Forrest Bean
+facetMid: Your partner sits down at the kitchen table, halfway through an argument about moving to their home town, and asks you to sit down too and talk it through now. You tell them you'll talk when you're back from a walk round the block.
+facetMidAction: You tell them you'll talk when you're back from a walk round the block.
+facetLowTitle: Rear Beandow
+facetLow: You've waited years to see your favourite band live, and near the end of the night they finally play the song you came for. The whole arena is on its feet, and the friend you came with is up on her seat screaming along. You stay in your seat and sing every word.
+facetLowAction: You stay in your seat and sing every word.
 facetLeastTitle: I'm Still Beanding
-facetLeast: There is a chair by the window and four hours with nothing at all in them. You sit in that chair until the light goes, and you could not tell anybody afterwards what you did with any of the four hours of it.
-question: It's a wet Sunday and there are four hours before anybody needs feeding. You...
-answerMost: shift the front room round, then the kitchen, then the shelves
-answerHigh: cook standing up and move the table while it's in the oven
-answerMid: get out for a walk in the wet
-answerLow: sit down with the paper for the four hours
-answerLeast: stay in the chair and let the afternoon go by
+facetLeast: You're on an overnight stay at the natural history museum, with sleeping bags laid out in the main hall under the whale skeleton. At midnight the staff lead a torchlit walk through the dinosaur galleries, and your friends all get up to go. You stay lying in your sleeping bag under the whale.
+facetLeastAction: You stay lying in your sleeping bag under the whale.
+question: You auditioned this morning for the lead in a play at your local theatre, and they've said they'll ring with an answer this afternoon. You're at home, waiting on the phone. You...
+answerMost: scrub the bathroom, then the oven, then go for a run
+answerHigh: go for a run with the phone in your pocket
+answerMid: pace up and down the kitchen
+answerLow: put a film on and check the phone now and then
+answerLeast: lie down with the phone on your chest
 rorschachMost: a bonfire
 rorschachHigh: a shaken pom-pom
 rorschachMid: a scribble

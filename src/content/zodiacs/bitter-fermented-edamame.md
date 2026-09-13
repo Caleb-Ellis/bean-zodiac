@@ -12,9 +12,6 @@ creature: carrion crow
 dish: Natto with karashi mustard and shiso.
 friendlyBeans: [fava, cannellini]
 friendlyForm: dried
-antiTriple: spicy-boiled-kidney
-antiBeans: [mung, chickpea]
-antiForm: roasted
 seasonalFortune: "A season of natto and cold reason — the ferment proves its case and offers no comfort."
 fortuneMost: Facts and figures will never describe how it feels.
 fortuneHigh: Now is not the time — let cooler beans prevail.

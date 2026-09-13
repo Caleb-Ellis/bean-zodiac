@@ -10,11 +10,8 @@ inverse: standoffish
 quote: Good beans make good neighbours.
 creature: house martin
 dish: Baked navy beans roasted with molasses and brown sugar.
-friendlyBeans: [cannellini, chickpea]
+friendlyBeans: [cannellini, black]
 friendlyForm: dried
-antiTriple: spicy-smoked-mung
-antiBeans: [fava, green]
-antiForm: fermented
 seasonalFortune: "A season of molasses and baked beans — the tray goes next door before it's asked."
 fortuneMost: The hedge gets cut on both sides, whether or not both sides asked.
 fortuneHigh: Share it while it's still warm.

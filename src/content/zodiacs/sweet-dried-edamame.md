@@ -12,9 +12,6 @@ creature: ewe
 dish: Dried edamame in a matcha sugar shell.
 friendlyBeans: [cannellini, navy]
 friendlyForm: boiled
-antiTriple: spicy-smoked-chickpea
-antiBeans: [mung, adzuki]
-antiForm: roasted
 seasonalFortune: "A season of matcha shell and one step: sugar, then time, then done."
 fortuneMost: Every field looks the same green to the ewe, even the bog.
 fortuneHigh: A single straight line is all it takes.

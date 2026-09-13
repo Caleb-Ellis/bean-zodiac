@@ -11,11 +11,8 @@ inverse: fleeting
 quote: The more things change, the more they bean the same.
 creature: coelacanth
 dish: Black bean brittle with brown sugar and cinnamon.
-friendlyBeans: [edamame, navy]
+friendlyBeans: [edamame, cannellini]
 friendlyForm: boiled
-antiTriple: spicy-roasted-chickpea
-antiBeans: [pinto, green]
-antiForm: fried
 seasonalFortune: "A season of brown sugar and cinnamon set hard — what's poured now keeps for years, and won't bend."
 fortuneMost: The coelacanth kept the same shape for four hundred million years, and nobody knew it was still there.
 fortuneHigh: Pick up where you left off.

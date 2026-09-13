@@ -12,9 +12,6 @@ creature: caddisfly
 dish: Bindaetteok - mung bean pancake with kimchi and gochugaru.
 friendlyBeans: [butter, kidney]
 friendlyForm: smoked
-antiTriple: sour-fried-edamame
-antiBeans: [green, fava]
-antiForm: dried
 seasonalFortune: "A season of bindaetteok and closed doors: the batter forgets there is a kitchen around it."
 fortuneMost: Passion is the fire that drives us. Obsession is the fire that consumes us.
 fortuneHigh: The caddisfly larva encases itself in silk and pebble cocoons. Busy. Safe.

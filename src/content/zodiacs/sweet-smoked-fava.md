@@ -11,11 +11,8 @@ inverse: highly-strung
 quote: Be still, and know that I am bean.
 creature: newfoundland
 dish: Fava smoked with honey over vine wood.
-friendlyBeans: [butter, black]
+friendlyBeans: [butter, kidney]
 friendlyForm: fermented
-antiTriple: sour-roasted-kidney
-antiBeans: [adzuki, chickpea]
-antiForm: fried
 seasonalFortune: "A season of honey and vine wood — what goes wrong in it goes wrong slowly, and somebody is always already standing there."
 fortuneMost: Carry it for somebody long enough and they'll forget they could.
 fortuneHigh: Stay where they can see you.

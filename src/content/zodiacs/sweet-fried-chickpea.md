@@ -13,9 +13,6 @@ creature: stoat
 dish: Chickpeas fried and tossed in cinnamon sugar.
 friendlyBeans: [adzuki, green]
 friendlyForm: roasted
-antiTriple: bitter-fermented-black
-antiBeans: [navy, cannellini]
-antiForm: dried
 seasonalFortune: "A season of cinnamon sugar and hot oil — the pan is not taking any of it seriously, and the sugar burns if nobody watches."
 fortuneMost: Play long enough and you'll be the only one still playing.
 fortuneHigh: Start the game before anybody has agreed to it.

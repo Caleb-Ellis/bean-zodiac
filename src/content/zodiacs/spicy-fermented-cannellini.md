@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: spicy-fermented-cannellini
 lastUpdated: 
 bean: cannellini
@@ -13,31 +13,33 @@ creature: okapi
 dish: Cannellini fermented with Calabrian chilli.
 friendlyBeans: [pinto, black]
 friendlyForm: dried
-antiTriple: sweet-boiled-chickpea
-antiBeans: [adzuki, kidney]
-antiForm: fried
 seasonalFortune: "A season of Calabrian chilli and one recipe: nobody else ferments it quite this way."
-fortuneMost: There's no herd anywhere that fits an okapi.
-fortuneHigh: Work to your own method.
-fortuneMid: The odd method gets copied eventually.
-fortuneLow: The common way is common for a reason.
-fortuneLeast: Learn it as it's taught.
+fortuneMost: Go far enough down your own road and nobody else will be on it.
+fortuneHigh: The okapi has zebra stripes and a giraffe's tongue, and runs with neither herd.
+fortuneMid: It doesn't have to be new to be yours.
+fortuneLow: Somebody has already worked out the best way to do this.
+fortuneLeast: Copying something good is how most good things get made.
 facetMostTitle: Mr. Bean
-facetMost: The house has no right angles in it, a staircase you designed on a beer mat, and a chimney working on a principle you had to explain to the building inspector twice. Nobody has ever built one like it and nobody is going to.
-facetHighTitle: Bean of a Kind
-facetHigh: The tune has been sung one way in that valley for two hundred years and everybody in the room knows it. You sing your way.
+facetMost: The tattoo artist has your own drawing on the lightbox, a heron with a clock for a body. Before it goes on your forearm for good, she offers to redraw it so people can actually tell it's a heron. You tell her to do it line for line as you drew it.
+facetMostAction: You tell her to do it line for line as you drew it.
+facetHighTitle: Edward Beanhands
+facetHigh: Your friend's bike shop opens at the weekend, and you've offered to do the front window. It's the first thing anyone walking past will see. The bike company has sent a display kit, the same one that's in every shop selling their bikes. You build your own display instead.
+facetHighAction: You build your own display instead.
 facetMidTitle: The One and Only Bean
-facetMid: Given a panel to inlay however you like, you do a design that means something to about four people and does not repeat itself anywhere on the surface.
-facetLowTitle: Tribute Bean
-facetLow: Note for note, in the jackets, the band does the album straight through. It is a good living, the crowd goes home happy, and you have not played a note of your own in six years.
+facetMid: Your summer job is showing visitors round an old prison, and every guide there does the same script word for word. In the records room you've found a letter one of the prisoners wrote home. When the tour gets to his cell, you read it out.
+facetMidAction: When the tour gets to his cell, you read it out.
+facetLowTitle: The Beanitation Game
+facetLow: A friend has asked you to do the music at their wedding reception. You find a list online of songs that always fill a dance floor, the same ones played at every wedding you've ever been to. You play the list from top to bottom.
+facetLowAction: You play the list from top to bottom.
 facetLeastTitle: The Bean-Off
-facetLeast: Your paintings have started to look like your teacher's, down to the way the sky is done, and somebody points this out and you carry on doing the sky that way.
-question: You've been asked to make the cake for the village show, and a photograph of last year's winner is on the table. You...
-answerMost: make something nobody will recognise as a cake
-answerHigh: make yours, which will look like nobody else's
-answerMid: bake yours, with one nod to the winner
-answerLow: work from the winner's, with a change of your own
-answerLeast: copy the winner exactly, and gladly
+facetLeast: You've just moved into a flat of your own and it's still empty. A friend's place is exactly how you'd want a home to look, with a green velvet sofa, brass lamps and old film posters up the hall. When they visit, it'll be like walking into their own flat. You order the same sofa, lamps and posters.
+facetLeastAction: You order the same sofa, lamps and posters.
+question: It's a friend's birthday and they've got a karaoke machine set up in the living room. They've put you down for Dancing Queen, and everyone's watching. You...
+answerMost: make up a new tune that nobody can sing along to
+answerHigh: turn it into a slow, quiet lullaby
+answerMid: change the last line to one of your own
+answerLow: sing along with the words on the screen
+answerLeast: copy the singer's voice and dance moves from the video
 rorschachMost: a wild head of hair
 rorschachHigh: a standing stone
 rorschachMid: a pollarded tree

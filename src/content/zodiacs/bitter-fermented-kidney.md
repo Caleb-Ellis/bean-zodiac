@@ -11,11 +11,8 @@ inverse: carefree
 quote: The only thing we have to fear is bean itself.
 creature: limpet
 dish: Kidney beans fermented into dark bean sauce with cacao and star anise.
-friendlyBeans: [mung, black]
-friendlyForm: roasted
-antiTriple: sour-smoked-edamame
-antiBeans: [adzuki, green]
-antiForm: dried
+friendlyBeans: [green, mung]
+friendlyForm: boiled
 seasonalFortune: "A season of cacao and star anise — the dark sauce is put up early, against a hard year nobody has forecast yet."
 fortuneMost: Wait long enough for the blow and you'll have taken it anyway.
 fortuneHigh: A limpet wears a scar in the rock that fits it exactly, and is back in it before the water comes.

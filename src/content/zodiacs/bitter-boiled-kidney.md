@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: bitter-boiled-kidney
 lastUpdated:
 bean: kidney
@@ -12,32 +12,34 @@ quote: Grin and bean it.
 creature: musk ox
 dish: Kidney beans simmered with cacao nib and dried chilli, unsweetened.
 friendlyBeans: [mung, butter]
-friendlyForm: fermented
-antiTriple: sour-smoked-edamame
-antiBeans: [green, fava]
-antiForm: dried
+friendlyForm: dried
 seasonalFortune: "A season of long simmering and unpaid patience — the pot holds shape through hours nobody watches; it costs."
-fortuneMost: Bear enough of it and the bearing becomes the point.
-fortuneHigh: A musk ox stands in the storm facing into it.
-fortuneMid: Patience outlasts most problems.
-fortuneLow: Say that it's too much.
-fortuneLeast: Refusing to put up with it is also an answer.
+fortuneMost: A sacrifice nobody noticed will get mentioned eventually.
+fortuneHigh: When wolves come, the musk oxen put the calves in the middle and stand.
+fortuneMid: There's usually a reason, and it's usually a dull one.
+fortuneLow: Tell them the first time it happens.
+fortuneLeast: A long cook won't fix a bad bean.
 facetMostTitle: The Passion of the Bean
-facetMost: Eleven years of putting the chairs out before orchestra rehearsal. You do it again, and mention to the clarinets how long it has been.
+facetMost: You're a month into doing nights at lambing on a farm, and the man doing them with you quit a fortnight ago, so every one since has been yours. The woman whose farm it is offers to ring an agency in the morning. You tell her not to ring anybody, and that you haven't had a night off since he went.
+facetMostAction: You tell her not to ring anybody, and that you haven't had a night off since he went.
 facetHighTitle: Long Bean's Journey Into Night
-facetHigh: At the pottery class a man has taken your wheel three evenings running, and you set up at the bad one by the window without saying anything about it.
+facetHigh: Your brother has been on your sofa since the spring, and money has twice gone off your card — he owned up to both. He's at the police station tonight after a fight, and an officer asks whether you want to make a complaint about the card. You tell the officer the card was a misunderstanding.
+facetHighAction: You tell the officer the card was a misunderstanding.
 facetMidTitle: Bridge Over Troubled Beans
-facetMid: Somebody in your five-a-side team has been late to every match. There is a different reason each time. You keep his shirt back for him and put him on at the half.
-facetLowTitle: Falling Bean
-facetLow: Whoever borrowed the shed key has had it a fortnight and there are two other plotholders standing at the taps. You ask for it back there, in front of them, and you put a number on the fortnight.
-facetLeastTitle: Beanerance
-facetLeast: A girl in the next lane at the swimming gala has false-started twice and stood the whole heat down with her, and when she goes again you tell the blocks that some people ought to be swimming in the afternoon session with the beginners.
-question: Your climbing partner has called off three Sundays running, the third by message an hour before. You...
-answerMost: go on your own, and bring the three Sundays up when he next rings
-answerHigh: take it as fine, and mean it
-answerMid: say three is two too many, then book the next one
-answerLow: stop putting Sundays in the diary
-answerLeast: look for somebody else to climb with
+facetMid: A friend's son comes to yours after school while his mother works nights, and twice he's gone off with his friends and left you walking the streets looking for him. He turns up an hour late tonight with a story about a bus, and asks you not to tell her. You tell him he rings you next time, and that she doesn't need to know.
+facetMidAction: You tell him he rings you next time, and that she doesn't need to know.
+facetLowTitle: Say Beanything
+facetLow: Since your flat share ended your uncle has had you in his spare room rent-free, while you save for a place of your own. Three times now you've come home to post addressed to you already opened on the table. He's opening another as you walk in. You tell him to leave your post alone.
+facetLowAction: You tell him to leave your post alone.
+facetLeastTitle: The Weakest Bean
+facetLeast: Six of you are booking a week in a house in Spain and the deposit is on your card. A friend dropped out days before last year's trip and left you covering his share, which he's never paid back. He messages to ask if there's a bed for him. You tell him there isn't one.
+facetLeastAction: You tell him there isn't one.
+question: You want the big wall at the summer show, not the stairwell. The painter you share a room with keeps stacking his wet canvases against yours, and two of yours are marked. You walk in and he's hanging his own work on the wall. You...
+answerMost: give him the wall, and tell him about the two he's marked
+answerHigh: hang yours in the stairwell and leave him the wall
+answerMid: ask him to leave you half of it
+answerLow: take his work down and tell him the wall was yours
+answerLeast: tell him to find another room to paint in
 rorschachMost: two full sacks
 rorschachHigh: a pack mule
 rorschachMid: a bowed branch

@@ -13,9 +13,6 @@ creature: black-footed cat
 dish: Black bean croquettes with dashi mayonnaise.
 friendlyBeans: [green, kidney]
 friendlyForm: fermented
-antiTriple: sour-roasted-butter
-antiBeans: [pinto, fava]
-antiForm: boiled
 seasonalFortune: "A season of dashi and hot fat — the croquette comes out right first time, and nobody in the kitchen learns anything."
 fortuneMost: Do a thing right enough times and you stop being there for it.
 fortuneHigh: Don't practise it. Do it.

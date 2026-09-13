@@ -13,9 +13,6 @@ creature: pangolin
 dish: Dried chickpeas toasted with fenugreek and milled into bitter besan.
 friendlyBeans: [adzuki, black]
 friendlyForm: smoked
-antiTriple: umami-fermented-fava
-antiBeans: [pinto, kidney]
-antiForm: fried
 seasonalFortune: "A season of sealed sacks and watchful doors — the store travels well because it trusts slowly."
 fortuneMost: A pangolin rolls up and is carried away whole.
 fortuneHigh: Wait for the paperwork.

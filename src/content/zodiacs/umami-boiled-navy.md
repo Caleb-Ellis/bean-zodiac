@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: umami-boiled-navy
 lastUpdated:
 bean: navy
@@ -13,31 +13,33 @@ creature: hermit crab
 dish: Navy beans simmered in dashi with dried scallop.
 friendlyBeans: [edamame, cannellini]
 friendlyForm: dried
-antiTriple: sweet-smoked-pinto
-antiBeans: [green, chickpea]
-antiForm: roasted
 seasonalFortune: "A season of dried scallop and held keys — the stockpot is somebody's responsibility all year."
-fortuneMost: Mind it closely enough and it becomes yours instead of theirs.
+fortuneMost: Look after it long enough and you'll forget it was never yours.
 fortuneHigh: A hermit crab defends a shell it did not make.
-fortuneMid: Looking after the thing is real work.
-fortuneLow: Hand the keys over.
-fortuneLeast: Somebody else will care for it differently and fine.
+fortuneMid: Leave it better than you found it.
+fortuneLow: It doesn't all have to be your job.
+fortuneLeast: Whoever picks it up next will manage just fine.
 facetMostTitle: Citizen Bean
-facetMost: A village archive is in your back room and you have catalogued the lot, and somebody from the university wants to digitise the collection and has the funding to do that properly. You say you would want to be there for all of it, and nothing comes of the offer.
+facetMost: A friend has been working overseas since last winter, and her dog has lived with you the whole time. She's at your door to take him home. You hand her a list of how he likes things done now.
+facetMostAction: You hand her a list of how he likes things done now.
 facetHighTitle: The Beantaker
-facetHigh: The club accounts have been yours eleven years. Every one of them balances. You have them ready a fortnight before anybody asks.
-facetMidTitle: The Beandian
-facetMid: The seed library needs somebody to keep it going over the cold months and nobody has said anything at three meetings running. You take the tins home.
+facetHigh: Your grandfather's house is being cleared after the funeral, and your uncles are loading everything into a van for the dump. His boxes of slides from every family holiday are going too, because nobody has room for them. You climb into the van and carry the boxes back out.
+facetHighAction: You climb into the van and carry the boxes back out.
+facetMidTitle: Guardians of the Beanlaxy
+facetMid: It's been a heatwave for weeks, and the young tree the city planted outside your building is dropping its leaves. There's a watering bag around the trunk that nobody ever fills. You carry a bucket of water down to it.
+facetMidAction: You carry a bucket of water down to it.
 facetLowTitle: The Last Bean Emperor
-facetLow: You have run the group four years and somebody keen has appeared, and you give her the folder and the passwords and stay on a term to help her through it.
+facetLow: At a festival, you offered to mind everyone's phones and wallets at the tent while your friends got a spot near the stage. Then the band you all came for walks on. You zip up the tent and run for the stage.
+facetLowAction: You zip up the tent and run for the stage.
 facetLeastTitle: Gone With the Bean
-facetLeast: You started the thing and have carried it nine years and you have had enough, and there is nobody to hand over to. You stop answering the emails, and the whole of it is gone inside a season.
-question: You've kept the club's accounts and its records for nineteen years, and a younger member has asked to take them on. You...
-answerMost: keep both, and give her the raffle to run instead
-answerHigh: keep them, since they'll still be right in twenty years
-answerMid: hand her the accounts
-answerLow: hand both over, with a folder of notes
-answerLeast: hand them over and never look at them again
+facetLeast: Since school you've paid for the server that runs the game world you and your friends built. The castle you made together is still standing, but nobody's logged on in years. When you mention the renewal, they all say they'd hate to lose it. You shut the server down.
+facetLeastAction: You shut the server down.
+question: You're moving overseas, and your younger sister is taking over your flat, including the back garden you've spent years planting up. You...
+answerMost: ask her not to change anything in it
+answerHigh: walk her around it and write down what each plant needs
+answerMid: leave her your trowel and gloves
+answerLow: tell her to grow whatever she likes in it
+answerLeast: tell her she can pave it over if she wants
 rorschachMost: a clamped lid
 rorschachHigh: a padlock
 rorschachMid: a tended allotment

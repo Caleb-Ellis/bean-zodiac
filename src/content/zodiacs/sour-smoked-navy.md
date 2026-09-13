@@ -13,9 +13,6 @@ creature: cleaner wrasse
 dish: Smoked navy beans cured with vinegar and salt pork.
 friendlyBeans: [edamame, cannellini]
 friendlyForm: dried
-antiTriple: umami-fermented-fava
-antiBeans: [adzuki, butter]
-antiForm: roasted
 seasonalFortune: "A season of salt pork and high expectations — the vinegar asks more of everything in the pot."
 fortuneMost: Never let a mistake go and people will stop trying.
 fortuneHigh: A cleaner wrasse will chase its own partner around the reef for taking one bite out of a customer.

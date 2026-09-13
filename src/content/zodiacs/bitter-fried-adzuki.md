@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: bitter-fried-adzuki
 lastUpdated: 
 bean: adzuki
@@ -12,37 +12,34 @@ quote: It is a truth universally acknowledged, that a single bean in possession 
 creature: cockatoo
 dish: Adzuki fritters flashed in sesame oil, dusted with burnt sugar and cacao.
 friendlyBeans: [chickpea, green]
-friendlyForm: fermented
-antiTriple: umami-dried-butter
-antiBeans: [navy, black]
-antiForm: boiled
+friendlyForm: roasted
 seasonalFortune: "A season of burnt sugar and cacao — nothing is served plain here, and the flourish costs more than the fritter."
-fortuneMost: Look down at enough people and there's nobody left at eye level.
-fortuneHigh: Give the small thing the big introduction.
-fortuneMid: A cockatoo will raise its crest at a noise it has heard a hundred times.
-fortuneLow: Something is coming that is exactly what it looks like.
-fortuneLeast: Nobody was ever sorry to be told a thing straight.
+fortuneMost: Look down on enough people and there's nobody left at eye level.
+fortuneHigh: The cockatoo raises its crest, and everyone turns to look.
+fortuneMid: Keep one eyebrow ready.
+fortuneLow: Nice things can just be called nice.
+fortuneLeast: It's never uncool to mean what you say.
 facetMostTitle: The Devil Wears Beans
-facetMost: Two hundred fifteen-year-olds at your old school, and you're up there talking about what you do for a living. A boy near the front asks whether you need a degree for it, which you have answered twice already. You repeat his question back to him, slowly, before you answer it.
-facetMostAction: You repeat his question back to him, slowly, before you answer it.
+facetMost: Your friend's younger brother is staying with you for his first weekend in the city. He's bought a shiny patterned shirt for tonight and already cut the tags off, and his taxi is waiting outside. He asks you how he looks. You ask him if he's playing in a wedding band.
+facetMostAction: You ask him if he's playing in a wedding band.
 facetHighTitle: The Importance of Being Bean
-facetHigh: A crew is filming a documentary about the building before it comes down. They've had the woman from the ground floor all morning — she raised three children here and cried twice — and they've filmed the bins. They want two minutes from you. You tell the camera the place made you who you are, and point at the bins.
-facetHighAction: You tell the camera the place made you who you are, and point at the bins.
+facetHigh: At your best friend's engagement party, her fiancé stands up and says he never asked anyone for her hand, so he's asking you, her oldest friend. The whole room turns to hear your answer. You ask him, with a straight face, what his prospects are.
+facetHighAction: You ask him, with a straight face, what his prospects are.
 facetMidTitle: Fleabean
-facetMid: In the changing room before five-a-side, the man who runs the team has drawn a formation on the back of an envelope and is taking all eight of you through it. You ask him whether there will be a team photo.
-facetMidAction: You ask him whether there will be a team photo.
-facetLowTitle: Bean There
-facetLow: Eight weeks of a pottery class, and the bowl you made is the first thing to come out how you wanted. The teacher holds it up in front of the other ten people and calls it the best thing made all term. She isn't being kind. You say thank you and ask her what you should try next.
-facetLowAction: You say thank you and ask her what you should try next.
+facetMid: It's the last morning of a silent retreat, and the group sits in a circle to give one word each for what the weekend did for them. So far it's been "rebirth", "home" and "light". For you, it's mostly been a cold floor and small portions. You say "transformed".
+facetMidAction: You say "transformed".
+facetLowTitle: The Disaster Bean
+facetLow: On a first date, you're at a midnight showing of a famously terrible film, where the audience shouts every line back at the screen. Your date knows all of them. Near the end there's a scene at a hospital bed that you find genuinely moving. On the walk out, you tell your date you liked that scene.
+facetLowAction: On the walk out, you tell your date you liked that scene.
 facetLeastTitle: Paddington Bean
-facetLeast: Two friends, together nine years, are getting married on a Tuesday morning, and you and one other person are the only guests. The other guest has already done the joke about them taking their time. Outside afterwards one of them asks what you thought. You tell them you've never seen either of them happier.
-facetLeastAction: You tell them you've never seen either of them happier.
-question: You want this one to last. Four months in, walking back from the river on the last warm evening of the summer, the person you've been seeing tells you it's been the best few months they've had in years. You...
-answerMost: tell them it's sweet that they keep count of these things
-answerHigh: put a hand on your heart and give a short speech of thanks
-answerMid: say it was probably just the good weather
-answerLow: say it's been the best few months you've had too
-answerLeast: tell them you want this to keep going
+facetLeast: Your friend's citizenship ceremony is in a room at the town hall, with an official who rushes the oath and a free cupcake for everyone at the end. The other friend you came with jokes that the cupcake is what they were all in it for. Outside, the friend who's just become a citizen asks what you thought. You tell them you thought the whole thing was beautiful.
+facetLeastAction: You tell them you thought the whole thing was beautiful.
+question: A friend has just run their first marathon, and sends you a photo of themselves at the finish line. What do you text back?
+answerMost: well done, I honestly didn't think you had it in you
+answerHigh: the nation salutes you
+answerMid: look at you, a real athlete now
+answerLow: congratulations, that's a huge achievement
+answerLeast: I'm so proud of you, I actually teared up
 rorschachMost: a sock puppet
 rorschachHigh: a winking face
 rorschachMid: a jacket potato

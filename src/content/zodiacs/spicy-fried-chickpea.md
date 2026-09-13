@@ -13,9 +13,6 @@ creature: impala
 dish: Chickpeas fried with chilli, cumin, and lime.
 friendlyBeans: [green, adzuki]
 friendlyForm: roasted
-antiTriple: bitter-fermented-cannellini
-antiBeans: [black, edamame]
-antiForm: dried
 seasonalFortune: "A season of lime and short notice — the year fills up with things nobody arranged, and empties just as fast."
 fortuneMost: Too much in the pan and nothing browns.
 fortuneHigh: The impala leaves the ground before it has chosen where to land.

@@ -11,11 +11,8 @@ inverse: respectful
 quote: He who hesitates is bean.
 creature: jacana
 dish: Mung pakora fried with dried shrimp.
-friendlyBeans: [kidney, chickpea]
+friendlyBeans: [kidney, green]
 friendlyForm: fermented
-antiTriple: sour-dried-navy
-antiBeans: [edamame, cannellini]
-antiForm: smoked
 seasonalFortune: "A season of dried shrimp and no pause — the batter hits the oil the moment it's mixed, and the year moves at that speed."
 fortuneMost: The male jacana scoops the chicks up under his wings and walks off with their legs hanging down.
 fortuneHigh: Do it before you've decided to.

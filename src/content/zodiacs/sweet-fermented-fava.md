@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sweet-fermented-fava
 lastUpdated: 
 bean: fava
@@ -13,36 +13,33 @@ creature: bald eagle
 dish: Fava fermented with sweet chilli bean paste and rock sugar.
 friendlyBeans: [pinto, green]
 friendlyForm: fried
-antiTriple: umami-boiled-chickpea
-antiBeans: [mung, navy]
-antiForm: dried
 seasonalFortune: "A season of rock sugar and chilli paste — the crock ferments toward a better dish."
-fortuneMost: A bald eagle sees the whole valley and misses the fish at its feet.
-fortuneHigh: Describe the whole vision out loud.
-fortuneMid: The long plan needs saying to somebody.
-fortuneLow: Look at what's in front of you.
-fortuneLeast: Small and near beats grand and far.
+fortuneMost: A plan that needs everyone to change will wait a long time.
+fortuneHigh: The bald eagle sees the fish long before the fish sees the eagle.
+fortuneMid: Picture it finished, then begin.
+fortuneLow: You don't have to know where it's all going.
+fortuneLeast: The future is mostly guesswork — what's in front of you is real.
 facetMostTitle: Brave New Bean
-facetMost: The last commercial route went in March and the town has no buses at all now. You've drawn up nine routes, a timetable, and where the sixty volunteer drivers would have to come from, and it would cost nothing to ride. You start knocking for the sixty drivers.
-facetMostAction: You start knocking for the sixty drivers.
+facetMost: You're among the first settlers to land on a new planet, and everyone's meeting in the ship's hangar to decide how things will work. Somebody suggests rationing the food until the first harvest. You stand up and propose that nobody owns anything, ever.
+facetMostAction: You stand up and propose that nobody owns anything, ever.
 facetHighTitle: I Have a Bean
-facetHigh: The beck has been in a pipe under the estate since 1964 and you can see it out — the kids in it, the willows, the flooding on Marsh Lane gone. The digger is booked for the morning, the money came out of the flood fund, and the pipe cannot go back in. You have it opened.
-facetHighAction: You have it opened.
-facetMidTitle: The Bean Picture
-facetMid: The club has four thousand pounds and everybody wants it on lane ropes and boards, which the club genuinely needs; it would also put two of the sixteen-year-olds through their teaching qualification, and in five years the club would have its own coaches. You put it into the two qualifications.
-facetMidAction: You put it into the two qualifications.
-facetLowTitle: Can't See the Bean for the Trees
-facetLow: There's nine hundred pounds left and it's either a chest freezer that would last the place ten years or filling the one you've got for the winter, and it's October with forty in most nights. You spend it on filling the freezer.
-facetLowAction: You spend it on filling the freezer.
-facetLeastTitle: The Short Bean
-facetLeast: You're on the board and they've taken you through the back — the quarantine block, the studbook, a breeding plan written out as far as 2045. There's four hundred thousand and it goes on the plan or on the cafe, and the cafe pays back inside two years. You vote for the cafe.
-facetLeastAction: You vote for the cafe.
-question: The lido has been shut nine years and the council will pay for the fence to be mended. You...
-answerMost: describe the lido in ten years, and the trains people would come in on
-answerHigh: describe what it could be by 2035, and what the first year would cost
-answerMid: ask whether the fence money could go on the pumps instead
-answerLow: get the fence mended, and ask what happens next year
-answerLeast: spend it on the fence and leave it at that
+facetHigh: You're at the auction for a perfectly decent flat you've saved up years for. The lot before it is an old chapel for the same money — no roof, pigeons everywhere — and you can already see a kitchen where the altar is. You bid on the chapel.
+facetHighAction: You bid on the chapel.
+facetMidTitle: The Beanrax
+facetMid: Your housemates want to pave over the bare back yard and put a barbecue out, ready for summer. Fruit trees would take years to give anything, and you'll probably all have moved out by then. You suggest planting fruit trees instead.
+facetMidAction: You suggest planting fruit trees instead.
+facetLowTitle: Live, Laugh, Bean
+facetLow: At your friend's wedding, every guest writes a card for the couple to open on their tenth anniversary. Everyone else at your table is writing about the house and the kids they'll have by then. You write about the speeches and the first dance.
+facetLowAction: You write about the speeches and the first dance.
+facetLeastTitle: Tomorrow Never Beans
+facetLeast: The physio has drawn up a year of exercises to get your knee back to running properly. There's a football game with friends at the weekend, and you really don't want to miss it. You ask her for something that'll just get you through the weekend.
+facetLeastAction: You ask her for something that'll just get you through the weekend.
+question: On a long train journey with nothing to read, what do you find yourself thinking about?
+answerMost: everyone you love living on the same street
+answerHigh: the café you'll open one day, down to the chairs
+answerMid: where you might be living in a few years
+answerLow: what to cook when you get in
+answerLeast: the fields going past the window
 rorschachMost: a map of nowhere
 rorschachHigh: a raised telescope
 rorschachMid: a hilltop

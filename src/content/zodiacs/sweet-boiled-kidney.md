@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sweet-boiled-kidney
 lastUpdated: 
 bean: kidney
@@ -11,38 +11,35 @@ inverse: hard-hearted
 quote: If you want others to be happy, practise bean. If you want to be happy, practise bean.
 creature: elephant
 dish: Kidney beans simmered in coconut milk and palm sugar.
-friendlyBeans: [mung, butter]
+friendlyBeans: [mung, adzuki]
 friendlyForm: dried
-antiTriple: spicy-smoked-fava
-antiBeans: [green, adzuki]
-antiForm: fried
 seasonalFortune: "A season of coconut milk and palm sugar — the pot sweetens what the winter made hard."
-fortuneMost: Pity somebody enough and they become somebody to be pitied.
-fortuneHigh: An elephant stands over a fallen one for hours.
-fortuneMid: Kindness costs less than it looks.
-fortuneLow: Treat them as capable.
-fortuneLeast: Hard-heartedness gets the difficult job done.
-facetMostTitle: Beany Party
-facetMost: Your friend has not worked since the factory shut in January and this is the first jobs fair he has come to. He gives his name in at the first stand and the woman there asks what he has been doing. Four people are behind you. You tell her what sort of a year he has had.
-facetMostAction: You tell her what sort of a year he has had.
+fortuneMost: Pity looks down, even when it means well.
+fortuneHigh: The elephant stays by the one that's fallen.
+fortuneMid: Ask how they're doing, then wait for the answer.
+fortuneLow: Not every sad story is yours to carry.
+fortuneLeast: Every family needs one dry eye.
+facetMostTitle: Les Misérabeans
+facetMost: Your friend lost his job when the factory closed last winter, and this is the first job fair he's made himself go to. At the first stand, the woman with the clipboard asks him what he's been doing since. You jump in and tell her what a hard year he's had.
+facetMostAction: You jump in and tell her what a hard year he's had.
 facetHighTitle: Schindler's Bean
-facetHigh: Your friend's dad has three days in the hospice at most, the family are doing nights, and there is nobody for tonight, and you fly in the morning on a fortnight you booked and paid for in January. You tell him you will take the night.
-facetHighAction: You tell him you will take the night.
+facetHigh: The band you came to the festival for are about to go on when you find a teenage girl crying behind the food stalls. She's lost her friends and her phone is dead. You walk her to the welfare tent, where the steward says finding them could take all night, and that she'll be fine there with him. You stay and wait with her.
+facetHighAction: You stay and wait with her.
 facetMidTitle: Kind Beans and Coronets
-facetMid: A man is waiting with his mother, who keeps getting up and asking to go home while the rest of the room looks at the floor, and the receptionist has just called your name for the appointment you waited three weeks for. You tell her to take them ahead of you.
-facetMidAction: You tell her to take them ahead of you.
+facetMid: At the salon, the trainee has cut your hair a lot shorter than you asked, and she has gone white. The owner is on her way over to see how it's looking. You tell the owner you asked for it that short.
+facetMidAction: You tell the owner you asked for it that short.
 facetLowTitle: Hard-Beaned Hannah
-facetLow: At half three a sergeant reads your brother's property back to him at the custody desk — belt, phone, eleven pounds. He starts on why he was there and what has been going on with him. You have been up since five and the car is outside. You tell him to get in the car.
+facetLow: Three in the morning at the police station, and your brother is being handed back his belt and phone in a plastic bag. Out on the steps he starts telling you what's been going on with him lately. You drove across town to collect him and you're at work in a few hours. You tell him to get in the car.
 facetLowAction: You tell him to get in the car.
 facetLeastTitle: Bean of Stone
-facetLeast: The camera goes off and it is the woman you shared a flat with for four years, on the step with a bag. She has been sleeping in her car since her landlord put her out and is asking to stay till she sorts something, and you are on a train back at nine. You talk to her through it and tell her she cannot.
-facetLeastAction: You talk to her through it and tell her she cannot.
-question: You've twenty minutes to get to the surgery when a woman stops you on the towpath and says her husband went into a home this week. She isn't crying. You...
-answerMost: take both her hands and tell her how awful it is
-answerHigh: stand there and let her say it without lightening any of it
-answerMid: say you're sorry, and ask how the week has gone
-answerLow: call it a good home
-answerLeast: tell her that's the way of it and get on up the path
+facetLeast: The woman you used to share a flat with rings you. Her landlord has put her out, she's been sleeping in her car, and she asks if she can have your sofa until she finds somewhere. You've only just got a place of your own. You say no.
+facetLeastAction: You say no.
+question: You've agreed to referee an under-tens football match, and one team is losing heavily. After another goal goes in, their goalkeeper is crying between the posts. You...
+answerMost: ask his coach to take him off for his own sake
+answerHigh: kneel down beside him and wait until he's ready to carry on
+answerMid: give him a thumbs-up before the restart
+answerLow: restart the game straight away
+answerLeast: tell him to dry his eyes and get back in goal
 rorschachMost: a weeping willow
 rorschachHigh: a hand on a shoulder
 rorschachMid: a lean-to shelter

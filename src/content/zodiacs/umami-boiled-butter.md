@@ -10,11 +10,8 @@ inverse: wearying
 quote: And miles to go before I bean.
 creature: koala
 dish: Butter beans simmered in dashi with bonito.
-friendlyBeans: [black, navy]
+friendlyBeans: [black, mung]
 friendlyForm: smoked
-antiTriple: sweet-fried-green
-antiBeans: [pinto, adzuki]
-antiForm: roasted
 seasonalFortune: "A season of bonito and low flame — the pot restores anyone who sits near it."
 fortuneMost: Excess rest can fog the mind.
 fortuneHigh: A koala sleeps twenty hours a day and seems to do well.

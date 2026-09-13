@@ -11,11 +11,8 @@ inverse: cold-eyed
 quote: Absence makes the bean grow fonder.
 creature: homing pigeon
 dish: Kidney beans in sweet barbecue sauce, smoked slow.
-friendlyBeans: [mung, navy]
+friendlyBeans: [navy, green]
 friendlyForm: boiled
-antiTriple: sour-roasted-edamame
-antiBeans: [fava, pinto]
-antiForm: fried
 seasonalFortune: "A season of sweet barbecue and slow smoke — what sits in it long enough comes out belonging to it."
 fortuneMost: Be fond of something long enough and you'll start answering for it.
 fortuneHigh: The homing pigeon crosses two hundred miles of open country to get back to the same loft.

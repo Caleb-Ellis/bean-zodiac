@@ -13,9 +13,6 @@ creature: sexton beetle
 dish: Ful medames slow-simmered with rocket and cumin oil.
 friendlyBeans: [pinto, edamame]
 friendlyForm: fermented
-antiTriple: sweet-dried-navy
-antiBeans: [butter, adzuki]
-antiForm: smoked
 seasonalFortune: "A season of cumin oil and bitter rocket — the pot shows everything that went into it, and softens none of it."
 fortuneMost: A steady hand is no comfort to the person shaking.
 fortuneHigh: Don't look away.

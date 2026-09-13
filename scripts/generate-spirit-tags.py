@@ -2,53 +2,33 @@
 """Generate spirit-tag frontmatter for every zodiac entry.
 
 For each zodiac we derive the trait-aligned fields used by the Beanstalk's
-scoring pass (see the Spirit Bean section of README.md). The model is symmetric
-— each zodiac has two poles, and each pole is a triple plus an entourage of 2
-beans and 1 form:
-
-  friendly pole : the zodiac's own slug + friendlyBeans (2) + friendlyForm (1)
-  anti pole     : antiTriple            + antiBeans (2)     + antiForm (1)
+scoring pass (see the Spirit Bean section of README.md): an entourage of 2 beans
+and 1 form that travels with the zodiac's own triple.
 
   friendlyBeans : 2 beans that align with the zodiac's trait (never its own)
-  antiBeans     : 2 beans that align with the zodiac's inverse
-  antiTriple    : the zodiac's shadow — a real `{flavour}-{form}-{bean}` slug
-                  built from the flavour, form and bean nearest the inverse
   friendlyForm  : 1 form that aligns with the trait (never its own)
-  antiForm      : 1 form that aligns with the inverse
-
-Because antiTriple carries a flavour, the anti pole gets flavour movement the
-same way the friendly pole always has — through its triple — so no separate
-flavour tag is needed. The anti-triple's bean/form are barred from antiBeans/
-antiForm, so each pole covers 3 distinct beans and 2 distinct forms.
 
 How it works: every personality adjective (the trait words on beans, flavours
-and forms, and each zodiac's authored `trait` and `inverse`) is mapped onto a
-handful of bipolar semantic axes via LEXICON below. A candidate's vector is the
-sum of its trait words. A zodiac gets *two* vectors, one per pole:
+and forms, and each zodiac's authored `trait`) is mapped onto a handful of
+bipolar semantic axes via LEXICON below. A candidate's vector is the sum of its
+trait words. A zodiac's vector is
 
-  friendly = TRAIT_WEIGHT * trait   + (bean + flavour + form)
-  anti     = TRAIT_WEIGHT * inverse - (bean + flavour + form)
+  friendly = TRAIT_WEIGHT * trait + (bean + flavour + form)
 
-The inverse is authored, not derived, so the anti pole is built from what the
-entry actually says its opposite is rather than from the negated trait — the two
-part company often enough to matter (the inverse of `responsible` is
-`unaccountable`, which is not merely "less order"). Its triple term is negated
-because the shadow is the entry's own bean/flavour/form read backwards. Both
-poles then pick the *same* way — highest cosine with their own vector — so anti
-means "genuinely like the inverse" rather than "unlike the trait", and an
-orthogonal stranger no longer qualifies. The zodiac's own bean/flavour/form is
-always excluded from its own lists.
+and the tags are the candidates with the highest cosine against it. The
+zodiac's own bean/form is always excluded from its own lists.
 
-`excess` is deliberately unused: it is the trait overshot, so it points the same
-direction the trait does and adds nothing to a cosine model.
+`excess` and `inverse` are unused: the excess is the trait overshot, so it
+points the same direction the trait does, and the tier already carries which end
+of the trait a fortune sits at.
 
-Every trait and inverse word in the corpus must appear in LEXICON — a word with
-no entry contributes a zero vector and quietly leaves that pole to its triple —
-so the run aborts, naming them, before writing anything.
+Every trait word in the corpus must appear in LEXICON — a word with no entry
+contributes a zero vector and quietly leaves the zodiac to its triple — so the
+run aborts, naming them, before writing anything.
 
 This is a deterministic heuristic, not a hand-tuned pass — the tags are a coarse
 scoring signal, not displayed copy. Re-run after editing the lexicon, or after
-changing any zodiac's trait or inverse:
+changing any zodiac's trait:
 
   python3 scripts/generate-spirit-tags.py        # rewrite all 360 files
   python3 scripts/generate-spirit-tags.py --dry  # print, don't write
@@ -80,8 +60,8 @@ AXES = [
 
 # adjective -> {axis: weight}. Covers every trait word used by the 12 beans, 5
 # flavours and 6 forms, plus every `trait` and `inverse` authored across the 360
-# zodiacs. Nothing else belongs here: main() checks the corpus against it and
-# refuses to run if a word is missing.
+# zodiacs. main() checks the traits against it and refuses to run if one is
+# missing; the inverses are unused by the tags but kept covered.
 LEXICON = {
     # --- parent words: the trait lists of the 12 beans, 5 flavours, 6 forms ---
     "accepting": {"care": 1, "social": 1, "order": -1},
@@ -153,6 +133,7 @@ LEXICON = {
     "galvanising": {"energy": 2, "express": 1, "social": 1},
     "generous": {"warmth": 2, "care": 1},
     "gratifying": {"warmth": 1, "care": 1, "mood": 1},
+    "hard-working": {"energy": 1, "stability": 1, "order": 1},
     "healing": {"care": 2},
     "heavy": {"energy": -1, "mood": -1},
     "hospitable": {"warmth": 2, "care": 1, "social": 2},
@@ -265,6 +246,7 @@ LEXICON = {
     "amenable": {"warmth": 1, "social": 1, "order": 1},
     "analytical": {"depth": 2, "refine": 1},
     "anchored": {"stability": 2, "order": 1},
+    "anodyne": {"refine": -1, "express": -2, "disclose": -1},
     "anonymous": {"express": -2, "social": -1, "disclose": -2},
     "antiquarian": {"depth": 1, "refine": 1, "order": 1},
     "antisocial": {"warmth": -1, "care": -1, "social": -2},
@@ -317,6 +299,7 @@ LEXICON = {
     "chafing": {"stability": -1, "mood": -1, "order": -2},
     "challenging": {"care": -1, "express": 1, "order": -1},
     "charismatic": {"express": 2, "social": 2},
+    "charitable": {"warmth": 2, "care": 2, "social": 1},
     "charming": {"warmth": 1, "express": 1, "social": 2},
     "checked": {"energy": -1, "stability": 1, "order": 1},
     "cherishing": {"warmth": 2, "care": 2},
@@ -680,6 +663,7 @@ LEXICON = {
     "rational": {"warmth": -1, "depth": 1, "refine": 1},
     "rationed": {"risk": -1, "care": -1, "refine": 1, "order": 1},
     "reductive": {"depth": -2, "care": -1, "refine": 1},
+    "reflective": {"energy": -1, "depth": 2, "disclose": -1},
     "regal": {"refine": 2, "express": 1, "order": 1},
     "relenting": {"energy": -1, "care": 1, "order": 1},
     "relentless": {"energy": 2, "stability": 2, "care": -1},
@@ -836,8 +820,10 @@ LEXICON = {
     "uncaring": {"warmth": -1, "care": -2},
     "unceremonious": {"refine": -1, "express": -1, "order": -2},
     "uncertain": {"stability": -1, "express": -1, "order": -1},
+    "uncharitable": {"warmth": -1, "care": -2},
     "uncomplaining": {"stability": 2, "care": 1, "express": -1, "mood": 1},
     "unconditional": {"warmth": 2, "stability": 2, "care": 2},
+    "unconventional": {"risk": 1, "express": 1, "order": -2},
     "undecided": {"stability": -1, "risk": -1, "order": -1},
     "undemanding": {"energy": -1, "care": 1, "refine": -2, "order": -1},
     "undiluted": {"energy": 1, "refine": -1, "express": 2},
@@ -918,7 +904,7 @@ LEXICON = {
     "zealous": {"energy": 2, "risk": 1, "order": 1},
 }
 
-TRAIT_WEIGHT = 3.0  # how strongly the authored trait/inverse pulls vs. the triple
+TRAIT_WEIGHT = 3.0  # how strongly the authored trait pulls vs. the triple
 
 
 def parse_frontmatter(text):
@@ -986,7 +972,7 @@ LAMBDA = 0.2
 # picked ~60 times per column, so we can't insist every pick be a genuine
 # likeness without wrecking the distribution. POLARITY is a gentle tie-breaker:
 # among candidates the usage penalty would otherwise rank together, it favours
-# ones already on the right side of zero — actually like the pole they're being
+# ones already on the right side of zero — actually like the zodiac they.re being
 # picked for — over near-orthogonal strangers. Small enough that the spread
 # stays flat; see the histogram printed at the end of a run.
 POLARITY = 0.3
@@ -995,16 +981,8 @@ POLARITY = 0.3
 def select(pole_vec, candidate_vecs, exclude, n, usage):
     """Pick the `n` candidates most like `pole_vec`, balancing usage.
 
-    Both poles call this the same way: the friendly vector picks friendly tags,
-    the anti vector picks anti tags. There is no "most opposed" mode — opposition
-    is carried by the anti vector itself, which is built from the entry's
-    authored inverse. That keeps an anti pick meaning "genuinely like the
-    inverse" instead of merely "unlike the trait", where any stranger qualifies.
-
     `exclude` is a single slug or any iterable of slugs to keep out of the
-    running — used both to bar the zodiac's own bean/form/flavour and to keep
-    the anti-triple's bean/form distinct from the anti tag picks. `usage` is
-    mutated to record the picks.
+    running — the zodiac's own bean/form. `usage` is mutated to record the picks.
     """
     barred = {exclude} if isinstance(exclude, str) else set(exclude)
     scored = []
@@ -1024,6 +1002,7 @@ def select(pole_vec, candidate_vecs, exclude, n, usage):
 
 
 OLD_TAG_RE = re.compile(r"^facet(Most|High|Mid|Low|Least)Tags:")
+# Also matches the retired anti-pole fields, so a re-run strips them.
 NEW_FIELD_RE = re.compile(
     r"^(friendlyBeans|antiBeans|friendlyFlavour|antiFlavour|antiTriple|friendlyForm|antiForm):"
 )
@@ -1038,13 +1017,9 @@ def rewrite(path, fields):
     # Find the closing frontmatter delimiter (second '---').
     delims = [i for i, l in enumerate(kept) if l.strip() == "---"]
     close = delims[1]
-    # Friendly pole first, then the anti pole, each led by its triple/beans.
     block = [
         f"friendlyBeans: [{', '.join(fields['friendlyBeans'])}]",
         f"friendlyForm: {fields['friendlyForm']}",
-        f"antiTriple: {fields['antiTriple']}",
-        f"antiBeans: [{', '.join(fields['antiBeans'])}]",
-        f"antiForm: {fields['antiForm']}",
     ]
     # Sit the block directly under `dish`, keeping the trait/inverse/excess
     # character fields and their tag expansion together. Fall back to the end of
@@ -1067,88 +1042,51 @@ def main():
     form_traits = collection_traits("forms")
 
     bean_vecs = {s: vec_from_words(t) for s, t in bean_traits.items()}
-    # Flavours aren't tagged on their own, but a zodiac's flavour shapes both of
-    # its pole vectors and the anti-triple names one, so we keep these.
+    # Flavours aren't tagged on their own, but a zodiac's flavour shapes its
+    # vector, so we keep these.
     flavour_vecs = {s: vec_from_words(t) for s, t in flavour_traits.items()}
     form_vecs = {s: vec_from_words(t) for s, t in form_traits.items()}
 
-    # Compute every zodiac's two pole vectors up front so the balancing pass can
-    # run in a stable order independent of the filesystem.
+    # Compute every zodiac's vector up front so the balancing pass can run in a
+    # stable order independent of the filesystem.
     entries = []
     unknown = {}
     for path in sorted((CONTENT / target).glob("*.md")):
         if path.name[0].isupper():
             continue
         data, _ = parse_frontmatter(path.read_text())
-        bean, flavour, form, trait, inverse = (
+        bean, flavour, form, trait = (
             data["bean"],
             data["flavour"],
             data["form"],
             data["trait"],
-            data["inverse"],
         )
-        for word in (trait, inverse):
-            if word not in LEXICON:
-                unknown.setdefault(word, []).append(path.stem)
-        # The triple's own character: what the entry is made of. It reads
-        # forwards on the friendly pole and backwards on the anti one.
+        if trait not in LEXICON:
+            unknown.setdefault(trait, []).append(path.stem)
+        # The triple's own character: what the entry is made of.
         triple = add(add(bean_vecs[bean], flavour_vecs[flavour]), form_vecs[form])
-        neg_triple = {a: -v for a, v in triple.items()}
         friendly_vec = add(triple, vec_from_words([trait]), scale=TRAIT_WEIGHT)
-        anti_vec = add(neg_triple, vec_from_words([inverse]), scale=TRAIT_WEIGHT)
-        entries.append((path, bean, flavour, form, friendly_vec, anti_vec))
+        entries.append((path, bean, form, friendly_vec))
 
-    # A word with no LEXICON entry is a silent hole — that pole falls back to its
-    # triple alone — so nothing is written until the lexicon covers the corpus.
+    # A word with no LEXICON entry is a silent hole — the zodiac falls back to
+    # its triple alone — so nothing is written until the lexicon covers the corpus.
     if unknown:
-        print(f"{len(unknown)} trait/inverse words missing from LEXICON:")
+        print(f"{len(unknown)} trait words missing from LEXICON:")
         for word, slugs in sorted(unknown.items()):
             print(f"  {word}  ({len(slugs)}x, e.g. {slugs[0]})")
         sys.exit(1)
 
-    # Separate usage counters per role so each ring spreads evenly across both
-    # its friendly and its anti columns. The anti-triple's bean/form get their
-    # own counters (suffix "t") so the triple and the anti tags each spread
-    # evenly across their ring rather than competing for the same budget.
+    # Separate usage counters per ring so each spreads evenly across the corpus.
     usage = {
-        ("bean", "f"): {s: 0 for s in bean_vecs},
-        ("bean", "a"): {s: 0 for s in bean_vecs},
-        ("bean", "t"): {s: 0 for s in bean_vecs},
-        ("flavour", "t"): {s: 0 for s in flavour_vecs},
-        ("form", "f"): {s: 0 for s in form_vecs},
-        ("form", "a"): {s: 0 for s in form_vecs},
-        ("form", "t"): {s: 0 for s in form_vecs},
+        "bean": {s: 0 for s in bean_vecs},
+        "form": {s: 0 for s in form_vecs},
     }
 
     count = 0
-    for path, bean, flavour, form, friendly_vec, anti_vec in entries:
-        # Friendly pole first, because everything it takes is then barred from
-        # the anti pole. A bean sitting on both poles is worse than a weak pick:
-        # every rule that touches either pole moves it the same way, so it rises
-        # whatever the tier and carries no signal at all.
-        f_beans = select(friendly_vec, bean_vecs, bean, 2, usage[("bean", "f")])
-        f_form = select(friendly_vec, form_vecs, form, 1, usage[("form", "f")])[0]
-        # The anti-triple is the zodiac's shadow: the flavour, form and bean
-        # nearest its inverse, assembled into a real `{flavour}-{form}-{bean}`
-        # slug. Pick it before the anti tags and bar its bean/form from them, so
-        # the anti pole itself carries 3 distinct beans and 2 distinct forms.
-        anti_bean_bar = {bean, *f_beans}
-        anti_form_bar = {form, f_form}
-        t_flavour = select(anti_vec, flavour_vecs, flavour, 1, usage[("flavour", "t")])[0]
-        t_form = select(anti_vec, form_vecs, anti_form_bar, 1, usage[("form", "t")])[0]
-        t_bean = select(anti_vec, bean_vecs, anti_bean_bar, 1, usage[("bean", "t")])[0]
-        a_beans = select(
-            anti_vec, bean_vecs, anti_bean_bar | {t_bean}, 2, usage[("bean", "a")]
-        )
-        a_form = select(
-            anti_vec, form_vecs, anti_form_bar | {t_form}, 1, usage[("form", "a")]
-        )[0]
+    for path, bean, form, friendly_vec in entries:
         fields = {
-            "friendlyBeans": f_beans,
-            "friendlyForm": f_form,
-            "antiTriple": f"{t_flavour}-{t_form}-{t_bean}",
-            "antiBeans": a_beans,
-            "antiForm": a_form,
+            "friendlyBeans": select(friendly_vec, bean_vecs, bean, 2, usage["bean"]),
+            "friendlyForm": select(friendly_vec, form_vecs, form, 1, usage["form"])[0],
         }
         if dry:
             print(path.stem, fields)
@@ -1164,13 +1102,8 @@ def main():
         print(f"  {label} (spread {spread}): " + ", ".join(f"{k}={v}" for k, v in items))
 
     print("Distribution across rings:")
-    histo("friendly beans", usage[("bean", "f")])
-    histo("anti beans    ", usage[("bean", "a")])
-    histo("triple flavour", usage[("flavour", "t")])
-    histo("triple form   ", usage[("form", "t")])
-    histo("triple bean   ", usage[("bean", "t")])
-    histo("friendly form ", usage[("form", "f")])
-    histo("anti form     ", usage[("form", "a")])
+    histo("friendly beans", usage["bean"])
+    histo("friendly form ", usage["form"])
 
 
 if __name__ == "__main__":

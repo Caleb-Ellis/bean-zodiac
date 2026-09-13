@@ -3,7 +3,8 @@ slug: navy
 name: Navy Bean
 role: The Keeper
 tagline: Still here. Still yours.
-positiveTraits: [dependable, loyal, dutiful, enduring, upright]
+goal: to hold the structure — does what's required
+positiveTraits: [dependable, hard-working, dutiful, enduring, upright]
 negativeTraits: [rigid, dogmatic]
 imageFile: navy.webp
 ---

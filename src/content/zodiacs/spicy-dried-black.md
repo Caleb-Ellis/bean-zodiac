@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: spicy-dried-black
 lastUpdated: 
 bean: black
@@ -13,31 +13,33 @@ creature: pufferfish
 dish: Dry-fried black beans with facing-heaven chillies.
 friendlyBeans: [navy, edamame]
 friendlyForm: boiled
-antiTriple: sour-roasted-pinto
-antiBeans: [chickpea, mung]
-antiForm: fried
 seasonalFortune: "A season of facing-heaven chillies and shut lids: the heat waits, dry and undiminished."
-fortuneMost: A pufferfish swells to twice its size when cornered.
-fortuneHigh: Hold it together and deal with it later.
-fortuneMid: Nothing needs saying straight away.
-fortuneLow: Small things are easier said.
-fortuneLeast: Better out than in.
+fortuneMost: What never gets said never gets settled.
+fortuneHigh: A pufferfish fills with water and holds it until the danger has passed.
+fortuneMid: Wait until your voice is steady, then say it.
+fortuneLow: Nobody minds being told you're annoyed.
+fortuneLeast: Slam the drawer. It's only a drawer.
 facetMostTitle: Beanle Rocket
-facetMost: You have been furious since the phone call on Tuesday and you have said nothing about it to anybody, including the man who caused it, and you have been perfectly pleasant to him twice since. You will not raise it. It goes in with the rest of them.
+facetMost: Your oldest friend is inside for taking out loans in other people's names, and one of them was yours. Your credit is wrecked, the bank won't hear it, and you're still furious. Visits are an hour, once a month, and you've never once raised it. You spend the hour on the football and how he's sleeping.
+facetMostAction: You spend the hour on the football and how he's sleeping.
 facetHighTitle: Under Beansure
-facetHigh: The other driver is at your window and shouting, and there is a queue building behind the two of you. You keep both hands on the wheel and your voice exactly level.
+facetHigh: You and your closest friend are getting matching tattoos, paid for weeks ago. While the tattooist sets up she tells you, relieved to have it out, that she's the one who told your boss you'd been job-hunting. That's why you were let go, and you're still out of work. You hold your arm out for the needle.
+facetHighAction: You hold your arm out for the needle.
 facetMidTitle: Message in a Beanle
-facetMid: The referee has got two decisions wrong and you are on the touchline with the other parents. You keep it to a look.
-facetLowTitle: Spilling the Beans
-facetLow: Your flatmate has left the kitchen the same way for the fourth time. You say something about it while she is still in the room.
+facetMid: You built and painted the drama group's set on your own, over weeks of evenings. At the dress rehearsal the director says it was down to the man who lent his van, and the cast applaud him. It stings more than you'd expect. You clap along with the rest of them.
+facetMidAction: You clap along with the rest of them.
+facetLowTitle: Ain't Too Proud to Bean
+facetLow: The woman who cut your hair last time took it far shorter than you'd asked, and you spent weeks explaining it. You're back in her chair anyway, because she's the only one you'll go to. She lifts the back of it and asks if you want the same again. You tell her last time came out much too short.
+facetLowAction: You tell her last time came out much too short.
 facetLeastTitle: The Dam Beansters
-facetLeast: Everything that has built up since the spring comes out in the garden centre car park, at volume, over a bag of compost that was not the problem and never had been.
-question: Your brother tells you at Sunday lunch that he's already spent the money you both put aside. You...
-answerMost: say nothing, and never bring it up again
-answerHigh: keep your face and deal with it after the meal
-answerMid: let a bit of it show, and take it up with him later
-answerLow: say straight off that you're not happy
-answerLeast: have it out with him there at the table
+facetLeast: The storage unit has to be cleared today, and you and your ex are down to the last boxes. She's been telling your friends you left because you'd met somebody else, which you hadn't. The man from the office is in the corridor with a clipboard, waiting to lock up. You call her a liar in front of the man with the clipboard.
+facetLeastAction: You call her a liar in front of the man with the clipboard.
+question: How does someone find out they've made you angry?
+answerMost: they don't, and you're warm to them for years afterwards
+answerHigh: you tell them plainly, once you're not angry any more
+answerMid: it comes out as a joke a few days later
+answerLow: they can see it on your face
+answerLeast: everyone standing there finds out at the same time they do
 rorschachMost: a naval mine
 rorschachHigh: a chestnut in its case
 rorschachMid: a sea urchin

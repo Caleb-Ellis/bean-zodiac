@@ -13,9 +13,6 @@ creature: moose
 dish: Fava miso with kombu.
 friendlyBeans: [pinto, green]
 friendlyForm: roasted
-antiTriple: sweet-boiled-mung
-antiBeans: [navy, cannellini]
-antiForm: dried
 seasonalFortune: "A season of kombu and long dark — the miso answers to nothing but itself, and takes as long as it takes."
 fortuneMost: Answer to nobody and your own word stops counting too.
 fortuneHigh: You don't need to be allowed.

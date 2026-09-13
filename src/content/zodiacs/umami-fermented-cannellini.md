@@ -13,9 +13,6 @@ creature: bar-headed goose
 dish: Cannellini purée with white miso and rosemary.
 friendlyBeans: [edamame, pinto]
 friendlyForm: dried
-antiTriple: sweet-boiled-adzuki
-antiBeans: [butter, chickpea]
-antiForm: roasted
 seasonalFortune: "A season of white miso and rosemary — the purée refines down to a flavour that fewer and fewer mouths can find."
 fortuneMost: Perfect it long enough and you'll be the only one who can enjoy it.
 fortuneHigh: The bar-headed goose crosses the Himalayas in a single day, at a height where no other bird can breathe.

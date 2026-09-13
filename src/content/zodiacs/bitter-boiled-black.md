@@ -10,11 +10,8 @@ inverse: hasty
 quote: It was the best of beans, it was the worst of beans.
 creature: grey heron
 dish: Frijoles negros steeped long with epazote and bitter orange.
-friendlyBeans: [cannellini, butter]
+friendlyBeans: [cannellini, navy]
 friendlyForm: dried
-antiTriple: spicy-fried-green
-antiBeans: [chickpea, adzuki]
-antiForm: roasted
 seasonalFortune: "A season of low heat and long weighing: the broth darkens by degrees no one can name."
 fortuneMost: The heron stands all morning in the shallows and eats better than the birds that thrash.
 fortuneHigh: A decision is simmering and you're tempted to taste it early. Let it cook itself down.
@@ -34,8 +31,8 @@ facetLowTitle: Run Bean Run
 facetLow: Your brother asks across the table whether he can put your name on the lease with his, which makes you liable for the whole year if he goes. You say yes, and tell him to put you down.
 facetLowAction: You say yes, and tell him to put you down.
 facetLeastTitle: Gone in 60 Beans
-facetLeast: Somebody shouts, and there's a woman in the canal holding on to the rope of a moored narrowboat. Four people on the towpath have their phones out. You've got your coat off and you're down the bank.
-facetLeastAction: You've got your coat off and you're down the bank.
+facetLeast: Somebody shouts, and there's a woman in the canal holding on to the rope of a moored narrowboat. Four people on the towpath have their phones out. You tear off your coat, run down the bank, and jump in.
+facetLeastAction: You tear off your coat, run down the bank, and jump in.
 question: A swarm of bees has settled in a low fork of the apple tree, a humming brown comma the size of a football, calm for now. You...
 answerMost: watch a good while, read up on who to call, and move nothing until you understand it
 answerHigh: keep a steady distance and think it through before acting

@@ -2,6 +2,7 @@
 slug: dried
 name: Dried
 tagline: The Form that outlasts.
+reactivity: keeps it — unchanged
 positiveTraits: [concentrated, self-sufficient, unwavering, spare, imperishable]
 negativeTraits: [brittle, unyielding]
 ---

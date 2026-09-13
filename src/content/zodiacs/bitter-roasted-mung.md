@@ -11,11 +11,8 @@ inverse: intemperate
 quote: Everything in bean, including moderation.
 creature: hedgehog
 dish: Mung beans roasted over embers with fenugreek and lime leaf.
-friendlyBeans: [butter, kidney]
+friendlyBeans: [kidney, butter]
 friendlyForm: boiled
-antiTriple: spicy-smoked-fava
-antiBeans: [green, edamame]
-antiForm: fermented
 seasonalFortune: "A season of embers and fenugreek — the fire holds one heat all night, and gives nothing extra to anyone who waited up."
 fortuneMost: Measure a kindness closely enough and it stops being one.
 fortuneHigh: Decide how much before anybody asks.

@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: umami-roasted-black
 lastUpdated:
 bean: black
@@ -13,36 +13,33 @@ creature: snowy owl
 dish: Black beans roasted in bacon fat with garlic.
 friendlyBeans: [butter, pinto]
 friendlyForm: fermented
-antiTriple: spicy-fried-kidney
-antiBeans: [edamame, green]
-antiForm: boiled
 seasonalFortune: "A season of bacon fat and garlic: the roast understands the dinner better than the cook."
-fortuneMost: Seeing through everybody is lonely work.
-fortuneHigh: A snowy owl hears a lemming moving under the snow.
-fortuneMid: The load-bearing detail turns up on a walk.
+fortuneMost: Nobody thanks you for being right about them.
+fortuneHigh: Look for the reason behind the reason.
+fortuneMid: The snowy owl hunts lemmings it can only hear under the snow.
 fortuneLow: Fine can just mean fine.
-fortuneLeast: People change without telling anybody.
+fortuneLeast: What you don't see can't keep you up at night.
 facetMostTitle: Bean Almighty
-facetMost: Your cousin's boyfriend says they have decided not to do presents any more, and she agrees about half a second after he does. Everybody at the barbecue thinks the two of them are wonderful and they have been together four years. You tell them both, at the table, which of them decided that.
-facetMostAction: You tell them both, at the table, which of them decided that.
-facetHighTitle: Second Bean Sight
-facetHigh: Your friend's dad has days and her brother has not been once, and she has spent the week telling everybody what that makes him. The ward sister mentioned in passing that somebody rings most nights after eleven and never leaves a name. You tell her who that is.
-facetHighAction: You tell her who that is.
+facetMost: Over Christmas dinner, your cousin's boyfriend announces they've decided not to do presents any more, and she agrees about half a second after he does. The whole family thinks they're a lovely couple. You tell them both, in front of everyone, which of them decided that.
+facetMostAction: You tell them both, in front of everyone, which of them decided that.
+facetHighTitle: Scooby-Bean
+facetHigh: Your friend and her sister haven't spoken since a fight at their mum's birthday, and your friend has told everyone she doesn't care. She shows you, laughing, that every story she posts gets viewed within a minute by an account with no name and no photo. You tell her it's her sister.
+facetHighAction: You tell her it's her sister.
 facetMidTitle: Through a Bean Darkly
-facetMid: Eleven of you out for your friend's last night and it is going well. One of them went to the bar the moment the other one came in and has not been back. The table gets sorted out for food. You put yourself in the chair between them.
-facetMidAction: You put yourself in the chair between them.
-facetLowTitle: Bean Blindness
-facetLow: The same four dealers are in every week, none of them has bid against another all morning, and twice the auctioneer has called bids that nobody in the room made, and you get the chest you came for at about what you expected. You tell your friend afterwards that you had a good day.
-facetLowAction: You tell your friend afterwards that you had a good day.
+facetMid: Your friend has been talking all week about jumping off the rocks at the lake. Now you're on the beach there with a group of friends, and she's offered twice to watch the bags while the rest of you climb up. You suggest you all just swim from the beach.
+facetMidAction: You suggest you all just swim from the beach.
+facetLowTitle: Blinded by the Bean
+facetLow: Your friend's family runs a restaurant, and you're helping out in the kitchen on a Saturday night. Halfway through, her dad, who has called out every order since the place opened, hands that job to her brother and goes to help with the dishes. Afterwards, you ask your friend whether her dad's feeling unwell.
+facetLowAction: You ask your friend whether her dad's feeling unwell.
 facetLeastTitle: Three Blind Beans
-facetLeast: Your sister rings to say your mum has been having the tests since March and that everybody has known for weeks, and you have spoken to your mum every Sunday in that time. You ask your sister why nobody told you.
-facetLeastAction: You ask your sister why nobody told you.
-question: A friend is telling you on the phone about a row with her sister, and you can see exactly what's going on. You...
-answerMost: tell her what she's really doing, and why she's always done it
-answerHigh: say her sister is frightened of her, and leave it there
-answerMid: ask the question that gets her to it herself
-answerLow: agree that the sister was out of order
-answerLeast: hear her out without forming a view
+facetLeast: Your friend has been up all night in her flower shop doing an order for a hotel, all white lilies. When you drop in with coffee, she hands you a bunch of pink peonies, your favourites, and says they're left over. You ask if the hotel will miss them.
+facetLeastAction: You ask if the hotel will miss them.
+question: At a friend's wedding, the bride's father stands up for his speech, raises his glass, says "To my daughter," and sits back down. What do you make of it?
+answerMost: he and the groom have fallen out over money
+answerHigh: he'd have cried if he'd said another word
+answerMid: he gets nervous speaking in front of people
+answerLow: short speeches are always the best ones
+answerLeast: good, the food will be out sooner
 rorschachMost: an owl's face
 rorschachHigh: a keyhole
 rorschachMid: a cracked geode

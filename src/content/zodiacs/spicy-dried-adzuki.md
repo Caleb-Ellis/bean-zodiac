@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: spicy-dried-adzuki
 lastUpdated: 
 bean: adzuki
@@ -13,36 +13,33 @@ creature: phoenix
 dish: Dried adzuki with Sichuan pepper and dried chilli.
 friendlyBeans: [green, pinto]
 friendlyForm: boiled
-antiTriple: sour-fermented-mung
-antiBeans: [butter, cannellini]
-antiForm: smoked
-seasonalFortune: "A season of Sichuan pepper and unfinished appetite — the store wants more than the winter holds."
-fortuneMost: Nothing is ever quite enough for long.
-fortuneHigh: A phoenix burns down and starts the whole thing again.
-fortuneMid: One more go usually does it.
-fortuneLow: Two things at once is plenty.
-fortuneLeast: Enough is a fine place to stop.
-facetMostTitle: Never Enough, Bean
-facetMost: Four years you've been after this pressing and it's in your hands at the counter for eighteen pounds. The man behind the counter says it came out of a house clearance that morning and there are two more boxes out the back. You ask him what else came in with it.
-facetMostAction: You ask him what else came in with it.
-facetHighTitle: Burning Beansire
-facetHigh: You came for lot forty-one and you've got it, and you'd set four hundred aside for the day with a hundred and ten of it left. Lot ninety is a box of the same thing and nobody in the room has looked at it. You put your hand up for lot ninety.
-facetHighAction: You put your hand up for lot ninety.
+seasonalFortune: "A season of Sichuan pepper and numbed lips — the heat fades fast, and the bean reaches back for the next mouthful."
+fortuneMost: Getting it is the shortest part.
+fortuneHigh: The phoenix burns itself to ash so it can have the whole thing again.
+fortuneMid: Stay for the encore.
+fortuneLow: One is a perfectly good number.
+fortuneLeast: What you wanted is allowed to be the end of it.
+facetMostTitle: 24 Hour Party Bean
+facetMost: Your closest friend flies out for good in the morning, and her leaving drinks started at six. It's half past two, the others have gone home, and she says she still hasn't packed. You start calling places to find one still open.
+facetMostAction: You start calling places to find one still open.
+facetHighTitle: Appetite for Beanstruction
+facetHigh: A house-clearance sale in a cold hall, and everything bought has to be taken away the same day. You came for the long oak table and you've got it, for more than you meant to spend. The next lot is the eight chairs that went with it, and nobody in the room lifts a hand. You put your hand up for the chairs.
+facetHighAction: You put your hand up for the chairs.
 facetMidTitle: Beany Like the Wolf
-facetMid: You've had your song and it went well and the list is closed with four still on it, and the man with the folder has said that's the last of them. You ask him to put you down again.
-facetMidAction: You ask him to put you down again.
+facetMid: You and a friend have sat on the riverbank two hours waiting for an otter, and one comes out onto the far stones and swims the whole length of the pool. Your friend is soaked to the knees and it's nearly dark, and they say that's them done. You tell them you'll try the next bend on your own.
+facetMidAction: You tell them you'll try the next bend on your own.
 facetLowTitle: La Grande Beanffe
-facetLow: Your friend's bringing out a third tray with the chicken on it and telling everybody to help themselves, and you've had two plates and it was very good. You put your plate on the stack.
-facetLowAction: You put your plate on the stack.
-facetLeastTitle: Beanough Is Beanough
-facetLeast: It's two hours in the car to get here and the room is pitch dark with a white table in the middle, and the man works the mirror on the roof so the whole town comes round on the disc — the harbour, the buses, somebody's washing. Your ticket does two turns of the table. You give the second one to the family behind you.
-facetLeastAction: You give the second one to the family behind you.
-question: Your new bike, saved for all year, is finally in the hall. What happens next?
-answerMost: you're pricing up the next bike before the month is out
-answerHigh: it gets ridden every day, and you plan where to take it
-answerMid: you ride it a lot and don't line anything up after
-answerLow: it does exactly what you wanted, and that's that
-answerLeast: you're happy with it, and stop looking at bikes altogether
+facetLow: The chef at the place you've eaten at for years is retiring, and the last service is a free-for-all — the kitchen is clearing out the fridges and sending whatever's left to every table. You've had a lot of it, you're full, and there's more coming. You ask for the bill.
+facetLowAction: You ask for the bill.
+facetLeastTitle: The Big Beanowski
+facetLeast: Two hours on the road to get here, and the room is pitch dark with a white table in the middle. The man who runs the place works a mirror up on the roof, and the whole town comes round on the disc — the harbour, the buses, somebody's washing. Your ticket buys two turns of the table, and a family is waiting outside because the room only holds so many. You give the family your second turn.
+facetLeastAction: You give the family your second turn.
+question: You always wanted to make something you could eat off. Ten weeks of evening pottery, your own tools bought in week two, and tonight the kiln comes out — your bowl is the one everybody picks up. The tutor says that's the course finished. You...
+answerMost: start pricing a wheel of your own, and somewhere to put it
+answerHigh: put your name down for the next course before you leave the room
+answerMid: ask the tutor where you could throw on a Saturday
+answerLow: take the bowl home and leave it at the ten weeks
+answerLeast: give your tools to the tutor for whoever comes next
 rorschachMost: a leaping flame
 rorschachHigh: a cockerel
 rorschachMid: a gaping mouth

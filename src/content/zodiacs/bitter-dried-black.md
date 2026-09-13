@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: bitter-dried-black
 lastUpdated: 
 bean: black
@@ -13,31 +13,33 @@ creature: bittern
 dish: Sun-dried black beans ground with cacao and chile de árbol into mole powder.
 friendlyBeans: [edamame, navy]
 friendlyForm: boiled
-antiTriple: spicy-roasted-chickpea
-antiBeans: [pinto, mung]
-antiForm: fried
-seasonalFortune: "A season of dry shelves and few words — the bean says less each week and means more."
-fortuneMost: One-word answers make people stop asking anything.
-fortuneHigh: A bittern booms across a mile of reeds and is never seen.
-fortuneMid: A single line can carry the whole answer.
-fortuneLow: Tell them the rest of it.
-fortuneLeast: A long story passes an evening.
+seasonalFortune: "A season of cacao and dried chile — everything is ground down to powder, and a spoonful seasons the whole pot."
+fortuneMost: Say one word often enough and people stop asking.
+fortuneHigh: Answer the question and nothing else.
+fortuneMid: The bittern booms twice a night and is heard a mile off.
+fortuneLow: Somebody would be glad to hear the whole story.
+fortuneLeast: Tell it the long way. That's where the good bits are.
 facetMostTitle: The Beanist
-facetMost: The locksmith has come out at midnight and wants to know what happened to the door, whether anybody tried the handle first, whether the frame has moved at all. You give him three words, then two, and let him work the rest out from the wood.
+facetMost: Six weeks away, and you're pulled out of the passport queue with your bag open on the table. The officer wants to know what you were doing out there, who you stayed with, and whether anybody asked you to carry anything home. A sentence each and you're through in a minute. You tell him work, friends, and no.
+facetMostAction: You tell him work, friends, and no.
 facetHighTitle: No Country for Old Beans
-facetHigh: Radio traffic on the callout has gone to pieces, four voices talking over one another and nobody making sense. Your transmission is nine words long and the whole hill acts on it.
+facetHigh: Your friend sold a van, and the man who bought it is taking him to court over it. You're the only person who was there — the test drive, the argument about the mileage, the money counted out on the roof of the van. The lawyer asks you to tell the room what happened that afternoon. You say the buyer drove it round the block, argued, and paid.
+facetHighAction: You say the buyer drove it round the block, argued, and paid.
 facetMidTitle: The Quiet Bean
-facetMid: Asked at the bank how the fishing went, when you were gone four days for it, you hold up two fingers and carry on loading the car.
+facetMid: You got a dog out of the canal and the local radio breakfast show has rung you about it. The presenter has two minutes to fill and keeps opening it back up, asking if the water was cold, how far out the dog was, whether you were frightened. You say it was cold, and the dog was fine.
+facetMidAction: You say it was cold, and the dog was fine.
 facetLowTitle: My Dinner with Beandre
-facetLow: Between rounds at the boxing club, in the corner with a boy you have been coaching since he was twelve, you give him the whole explanation — where his feet are wrong, what the other lad does with his shoulder, why that jab keeps landing — when one word would have done it.
+facetLow: A woman with a recorder is knocking on doors for a history project, collecting memories of the street before the flats come down. She asks you for one. She has four more doors to do before six. You give her the time the water main burst, then the fair that used to set up on the green, then the woman at number twelve who fed every cat.
+facetLowAction: You give her the time the water main burst, then the fair that used to set up on the green, then the woman at number twelve who fed every cat.
 facetLeastTitle: Talk Beany to Me
-facetLeast: Sleeper compartment, lights out, a stranger in the opposite bunk. You start talking. Somewhere past the border you are still going and he has stopped answering.
-question: Someone rings you to sort out a time to meet. How long is the call?
-answerMost: under a minute, and you're gone
-answerHigh: as long as fixing the time takes
-answerMid: the time sorted, and how they are
-answerLow: a proper catch-up, if there's time
-answerLeast: an hour, and you'd ring back later with more
+facetLeast: Speed dating in the back room of a restaurant, four minutes a table and then a bell. The woman opposite asks what you do for work, and there's a good story in how you ended up doing it. Two of the four minutes are gone already. You start with the job you had before this one.
+facetLeastAction: You start with the job you had before this one.
+question: You've driven two hours to a layby above the reservoir, and the northern lights are out over it. Your dad has never seen them and could be here in forty minutes. His phone goes to voicemail. You...
+answerMost: tell him to come now
+answerHigh: tell him the lights are out and to drive to the reservoir
+answerMid: give him the layby, and say you'll wait an hour
+answerLow: describe the lights before you tell him where you are
+answerLeast: start with the drive up and get to the lights last
 rorschachMost: a clenched jaw
 rorschachHigh: a closed book
 rorschachMid: a thumbprint

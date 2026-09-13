@@ -12,9 +12,6 @@ creature: oystercatcher
 dish: Cannellini in giardiniera with celery and hot vinegar.
 friendlyBeans: [edamame, black]
 friendlyForm: dried
-antiTriple: sweet-roasted-adzuki
-antiBeans: [kidney, green]
-antiForm: fried
 seasonalFortune: "A season of giardiniera and narrow taste: the brine takes some vegetables and refuses the rest."
 fortuneMost: To be too hard to please is to be too easy to disappoint.
 fortuneHigh: Pay more for the good one.

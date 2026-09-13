@@ -13,9 +13,6 @@ creature: army ant
 dish: Chickpeas roasted in schmaltz with cumin.
 friendlyBeans: [adzuki, mung]
 friendlyForm: fried
-antiTriple: sour-fermented-edamame
-antiBeans: [navy, black]
-antiForm: dried
 seasonalFortune: "A season of schmaltz and cumin — the fat carries the spice, and nothing in the tray tastes like it did alone."
 fortuneMost: Stand between two people long enough and neither will speak to the other without you.
 fortuneHigh: Army ants make a bridge out of their own bodies and hold it until the whole column is across.

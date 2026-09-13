@@ -13,9 +13,6 @@ creature: african lungfish
 dish: Butter beans pickled in white wine vinegar with tarragon.
 friendlyBeans: [black, pinto]
 friendlyForm: roasted
-antiTriple: spicy-fried-green
-antiBeans: [navy, chickpea]
-antiForm: dried
 seasonalFortune: "A season of tarragon and modest hopes — the jar gives back exactly what went into it."
 fortuneMost: Decide it won't work, and it won't.
 fortuneHigh: When the pond dries up, the lungfish seals itself in the mud and waits for rain.

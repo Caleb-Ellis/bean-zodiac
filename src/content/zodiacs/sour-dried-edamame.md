@@ -13,9 +13,6 @@ creature: hermit crab
 dish: Dried edamame with yuzu peel and salt.
 friendlyBeans: [cannellini, fava]
 friendlyForm: fermented
-antiTriple: umami-boiled-adzuki
-antiBeans: [pinto, chickpea]
-antiForm: roasted
 seasonalFortune: "A season of yuzu peel and salt — the water goes, the flavour stays, and nothing is kept for the sake of keeping it."
 fortuneMost: A good price is poor company.
 fortuneHigh: Get rid of it. It's only a thing.

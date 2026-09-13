@@ -11,11 +11,8 @@ inverse: extinguished
 quote: Still waters run bean.
 creature: jaguar
 dish: Black beans in chipotle adobo with epazote and smoked garlic.
-friendlyBeans: [cannellini, kidney]
+friendlyBeans: [cannellini, mung]
 friendlyForm: dried
-antiTriple: sweet-roasted-pinto
-antiBeans: [chickpea, adzuki]
-antiForm: fried
 seasonalFortune: "A season of adobo and banked fire: the heat never flares and never quite leaves."
 fortuneMost: A grudge carried long enough stops needing its reason.
 fortuneHigh: Be perfectly civil about it.

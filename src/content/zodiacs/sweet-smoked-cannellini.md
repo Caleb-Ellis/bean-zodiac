@@ -11,11 +11,8 @@ inverse: robust
 quote: Tread softly because you tread on my beans.
 creature: pond skater
 dish: Cannellini smoked with honey over apple wood.
-friendlyBeans: [edamame, black]
+friendlyBeans: [edamame, navy]
 friendlyForm: dried
-antiTriple: spicy-roasted-adzuki
-antiBeans: [green, pinto]
-antiForm: fried
 seasonalFortune: "A season of honey and apple wood — the year works at the lightest weight that will do, and some of it lands too light."
 fortuneMost: Handle a thing gently enough and it never gets handled.
 fortuneHigh: The pond skater crosses the whole pond and never once breaks the surface.

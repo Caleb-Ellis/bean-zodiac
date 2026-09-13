@@ -11,11 +11,8 @@ inverse: independent
 quote: I am the shield that guards the realms of beans.
 creature: hornbill
 dish: Kidney bean fritters with fish sauce caramel.
-friendlyBeans: [mung, chickpea]
+friendlyBeans: [chickpea, mung]
 friendlyForm: boiled
-antiTriple: sour-dried-edamame
-antiBeans: [butter, black]
-antiForm: fermented
 seasonalFortune: "A season of fish sauce caramel and quick heat — what gets said in it sets hard, and stays said."
 fortuneMost: A word kept past its use starts costing the person it was given to.
 fortuneHigh: Say it once and never make them ask again.

@@ -13,9 +13,6 @@ creature: baboon
 dish: Whole fava pods thrown on the fire, peeled hot, dressed in bitter olive oil.
 friendlyBeans: [pinto, green]
 friendlyForm: fried
-antiTriple: sweet-dried-black
-antiBeans: [cannellini, navy]
-antiForm: boiled
 seasonalFortune: "A season of whole pods and open flame; nothing here is peeled in private."
 fortuneMost: Mind nothing at all and people will start minding for you.
 fortuneHigh: Ask for it in front of everybody.

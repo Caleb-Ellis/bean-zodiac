@@ -12,9 +12,6 @@ creature: grey wolf
 dish: Dried navy beans with cayenne and dried thyme.
 friendlyBeans: [cannellini, black]
 friendlyForm: boiled
-antiTriple: bitter-fried-green
-antiBeans: [chickpea, mung]
-antiForm: roasted
 seasonalFortune: "A season of cayenne and dried thyme — the store meets the cold without changing expression."
 fortuneMost: A bean dried hard enough will never soften.
 fortuneHigh: Say it once, make it known.

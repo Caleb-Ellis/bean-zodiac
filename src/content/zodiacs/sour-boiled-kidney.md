@@ -11,11 +11,8 @@ inverse: faithless
 quote: The secret of getting ahead is getting bean.
 creature: guide dog
 dish: Kidney beans simmered with tamarind and green mango.
-friendlyBeans: [navy, butter]
+friendlyBeans: [butter, mung]
 friendlyForm: dried
-antiTriple: bitter-smoked-fava
-antiBeans: [pinto, edamame]
-antiForm: fermented
 seasonalFortune: "A season of tamarind and long simmering — what the pot is given, the pot still has."
 fortuneMost: Never let anybody down and nobody will ever let you off.
 fortuneHigh: Be the one who can be told a secret.

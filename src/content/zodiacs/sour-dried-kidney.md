@@ -10,11 +10,8 @@ inverse: meek
 quote: This isn't even my final bean!
 creature: tiger
 dish: Dried kidney beans with tamarind and chaat masala.
-friendlyBeans: [mung, green]
+friendlyBeans: [green, mung]
 friendlyForm: boiled
-antiTriple: bitter-smoked-chickpea
-antiBeans: [butter, adzuki]
-antiForm: roasted
 seasonalFortune: "A season of dried tamarind and standing heat — the store defends what it was given."
 fortuneMost: The fire is powerful, but the smoke will sting your eyes.
 fortuneHigh: Don't back down, not even a little bit.

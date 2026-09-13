@@ -11,11 +11,8 @@ inverse: neglectful
 quote: Give us this day our daily bean.
 creature: oilbird
 dish: Zunda - boiled edamame mashed with sugar.
-friendlyBeans: [butter, navy]
+friendlyBeans: [butter, kidney]
 friendlyForm: dried
-antiTriple: spicy-roasted-pinto
-antiBeans: [green, fava]
-antiForm: fried
 seasonalFortune: "A season of zunda and full bowls — the pot feeds whoever turns up hungry."
 fortuneMost: Oilbird chicks are fed so much fruit they end up heavier than their parents.
 fortuneHigh: Never let a guest leave hungry.

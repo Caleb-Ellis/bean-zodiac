@@ -13,9 +13,6 @@ creature: bighorn ram
 dish: Fava roasted with piri-piri and crushed coriander seed.
 friendlyBeans: [green, edamame]
 friendlyForm: fried
-antiTriple: sweet-boiled-kidney
-antiBeans: [mung, adzuki]
-antiForm: dried
 seasonalFortune: "A season of piri-piri and kept scores — the hottest tray on the table has to know it's the hottest."
 fortuneMost: Beat everyone and there's nobody left to play with.
 fortuneHigh: Bighorn rams charge each other head-on until one of them walks away.

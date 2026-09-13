@@ -13,9 +13,6 @@ creature: springbok
 dish: Green beans roasted in peri-peri butter with almonds.
 friendlyBeans: [mung, kidney]
 friendlyForm: fermented
-antiTriple: umami-dried-navy
-antiBeans: [cannellini, fava]
-antiForm: boiled
 seasonalFortune: "A season of peri-peri and toasted almonds — everything on the tray comes out louder than it went in."
 fortuneMost: A springbok will leap straight up in front of a lion, just to show it can.
 fortuneHigh: Make some noise!

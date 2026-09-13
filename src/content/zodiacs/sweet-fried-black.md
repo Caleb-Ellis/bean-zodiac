@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sweet-fried-black
 lastUpdated: 
 bean: black
@@ -13,36 +13,33 @@ creature: cardinal
 dish: Black bean doughnuts fried and rolled in cinnamon sugar.
 friendlyBeans: [green, kidney]
 friendlyForm: fermented
-antiTriple: umami-boiled-butter
-antiBeans: [pinto, edamame]
-antiForm: roasted
 seasonalFortune: "A season of cinnamon sugar and high heat: the doughnut burns for something specific."
-fortuneMost: A cardinal stays bright red all winter and cannot hide.
-fortuneHigh: Say the warm thing first.
-fortuneMid: One warm sentence changes a whole exchange.
-fortuneLow: Steady beats blazing here.
-fortuneLeast: Mild enthusiasm lasts longer.
-facetMostTitle: Fever Bean
-facetMost: The fund for the family fighting the ward closure is four hundred short and closes at five, and you have three thousand nine hundred saved, which is the deposit; you have already given twice, been thanked twice, and been told that is plenty. You send the whole three thousand nine hundred.
-facetMostAction: You send the whole three thousand nine hundred.
-facetHighTitle: Burning Bean
-facetHigh: You have done the Saturdays at the sanctuary for two years, and since March the feed bill has been coming out of your account, which the woman who runs it thinks is a grant. The lease on the field is up and the year would cost you the same again. You set the standing order up for another twelve months.
-facetHighAction: You set the standing order up for another twelve months.
+fortuneMost: Give one thing everything, and everything else goes without.
+fortuneHigh: The male cardinal feeds his mate seed by seed, beak to beak.
+fortuneMid: Enthusiasm is catching.
+fortuneLow: You don't have to love everything you do.
+fortuneLeast: Quite liking something is a perfectly good way to like it.
+facetMostTitle: Beanie and Clyde
+facetMost: You've been seeing someone for five weeks. Over breakfast they tell you they've been offered a job in Lisbon, and ask, half joking, if you'd come too. You hand in your notice that afternoon.
+facetMostAction: You hand in your notice that afternoon.
+facetHighTitle: The Phantom of the Beanera
+facetHigh: The musical you've loved since you were a kid is playing its last ever show tonight, and it sold out months ago. The box office will resell any tickets that get handed back. You join the queue for returns at dawn.
+facetHighAction: You join the queue for returns at dawn.
 facetMidTitle: Bean My Fire
-facetMid: Your friend's mum left your name on the door, so you have come in the players' way with the flowers, past the tuning room and the board with the running order chalked on it. Your friend does not know you are here and has three people in from her side. You leave the flowers on the table by the door with no name on them.
-facetMidAction: You leave the flowers on the table by the door with no name on them.
+facetMid: You went to the gig for the headliner, but the support act blew you away. Their singer is selling records at a table by the bar. You go over and tell her they're the best band you've heard all year.
+facetMidAction: You go over and tell her they're the best band you've heard all year.
 facetLowTitle: Cool It Now, Bean
-facetLow: Your friend is four hours into the collection in the costume, on the corner by the bank, with two hours left, nobody with him and the bucket half empty, and he asks whether you will do the second half. You put twenty in the bucket.
-facetLowAction: You put twenty in the bucket.
+facetLow: You've been seeing someone for a few months, and you like them a lot. Walking home from the cinema, they stop and tell you they love you. You tell them you really like them too.
+facetLowAction: You tell them you really like them too.
 facetLeastTitle: Cold Comfort Bean
-facetLeast: The guide worked the seam for twenty years and has taken the eight of you down in the cage and along to the face with the lamps off for a minute. At the top he says the trust has a year in it without more people, hands the forms round and points at the box by the door. You put two pounds in the box and hand the form back.
-facetLeastAction: You put two pounds in the box and hand the form back.
-question: Six weeks ago you started swimming in the river before work. You...
-answerMost: give it every evening and weekend, and drop what you had on
-answerHigh: read everything about it and go three times a week
-answerMid: fit it in when you can
-answerLow: go now and then, when the weather suits
-answerLeast: like it well enough, and leave it at that
+facetLeast: A friend who volunteers at the observatory has got you in after closing to see Saturn through the big telescope. They're hovering at your shoulder, waiting to hear what you think. You tell them it's nice.
+facetLeastAction: You tell them it's nice.
+question: A friend takes you to your first ever football match, and the home side win it in the last minute. You...
+answerMost: buy a season ticket and the shirt on the way out
+answerHigh: ask your friend when the next home game is
+answerMid: look up the players on the way home
+answerLow: say you'd come again, if they're going
+answerLeast: say it was fun, and ask where they want to eat
 rorschachMost: a lit grate
 rorschachHigh: a heart
 rorschachMid: a single rose

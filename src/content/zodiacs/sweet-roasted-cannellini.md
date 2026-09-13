@@ -11,11 +11,8 @@ inverse: parsimonious
 quote: We make a living by what we get. We make a bean by what we give.
 creature: honeypot ant
 dish: Cannellini roasted with honey, thyme, and lemon.
-friendlyBeans: [navy, butter]
+friendlyBeans: [navy, edamame]
 friendlyForm: fermented
-antiTriple: spicy-smoked-green
-antiBeans: [chickpea, adzuki]
-antiForm: fried
 seasonalFortune: "A season of honey and thyme — the oven turns out more than the table can hold, and the whole street knows what is in it."
 fortuneMost: A gift with your name on it is a bill.
 fortuneHigh: What you hand over can turn somebody's whole year.

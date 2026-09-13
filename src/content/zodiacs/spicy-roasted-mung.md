@@ -12,9 +12,6 @@ creature: prairie dog
 dish: Mung roasted with chilli, curry leaf, and coconut.
 friendlyBeans: [chickpea, butter]
 friendlyForm: fermented
-antiTriple: sour-fried-edamame
-antiBeans: [black, fava]
-antiForm: smoked
 seasonalFortune: "A season of coconut and open arms: the tray offers itself to everyone, repeatedly."
 fortuneMost: Prairie dogs kiss every time they meet, occasion or no.
 fortuneHigh: Make your feelings known!

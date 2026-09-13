@@ -11,11 +11,8 @@ inverse: utilitarian
 quote: Every bean has beauty, but not everyone sees it.
 creature: pearl oyster
 dish: Cannellini boiled with honey, vanilla, and lemon peel.
-friendlyBeans: [navy, butter]
+friendlyBeans: [butter, navy]
 friendlyForm: smoked
-antiTriple: spicy-fried-green
-antiBeans: [fava, chickpea]
-antiForm: roasted
 seasonalFortune: "A season of vanilla and lemon peel — the plainest bean in the cupboard comes out of the pot a treat."
 fortuneMost: Too much honey and nobody tastes the bean.
 fortuneHigh: Always dress up a little.

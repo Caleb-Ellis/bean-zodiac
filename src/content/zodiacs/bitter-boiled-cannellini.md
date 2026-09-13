@@ -13,9 +13,6 @@ creature: eagle owl
 dish: Zuppa di cannellini e radicchio - simmered with rosemary and bitter chicory.
 friendlyBeans: [navy, edamame]
 friendlyForm: dried
-antiTriple: sweet-roasted-fava
-antiBeans: [green, chickpea]
-antiForm: fried
 seasonalFortune: "A season of rosemary and bitter chicory — the pot decides late, and decides once."
 fortuneMost: An eagle owl waits all night for one certain kill.
 fortuneHigh: Take the night on it.

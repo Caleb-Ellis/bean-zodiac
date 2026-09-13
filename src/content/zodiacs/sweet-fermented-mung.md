@@ -13,9 +13,6 @@ creature: leafcutter ant
 dish: Sweet mung dosa from jaggery-fermented batter.
 friendlyBeans: [kidney, butter]
 friendlyForm: smoked
-antiTriple: sour-dried-edamame
-antiBeans: [fava, adzuki]
-antiForm: roasted
 seasonalFortune: "A season of jaggery and slow batter — what's left warm overnight comes up on its own, and nobody stands over it."
 fortuneMost: A life run kindly by somebody else is still run by somebody else.
 fortuneHigh: Give them the whole afternoon and none of the answers.

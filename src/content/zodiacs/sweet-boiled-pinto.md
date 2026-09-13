@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sweet-boiled-pinto
 lastUpdated: 
 bean: pinto
@@ -13,36 +13,33 @@ creature: butterfly
 dish: Pinto bean empanada filling simmered with piloncillo.
 friendlyBeans: [adzuki, butter]
 friendlyForm: roasted
-antiTriple: bitter-dried-edamame
-antiBeans: [cannellini, kidney]
-antiForm: fried
 seasonalFortune: "A season of piloncillo and drifting steam — the pot is elsewhere and sweetening anyway."
-fortuneMost: Drift far enough off and the day happens without anybody in it.
-fortuneHigh: A butterfly goes wherever the air is going.
-fortuneMid: The mind wandering is where ideas turn up.
-fortuneLow: Come back to the table.
-fortuneLeast: Grounded people catch the train.
-facetMostTitle: Bean Cadet
-facetMost: Your sister's two are in the shallow end with you and the younger one is five and cannot swim a stroke without the float. The lifeguard gets to him before you do, because you were watching the light go over the ceiling. You go back to the ceiling.
-facetMostAction: You go back to the ceiling.
+fortuneMost: Live in your head long enough and people stop knocking.
+fortuneHigh: Stop what you're doing and dream a little.
+fortuneMid: A butterfly never flies in a straight line, and still finds the flowers.
+fortuneLow: What's in front of you deserves a look too.
+fortuneLeast: Nothing you can dream up beats what's actually here.
+facetMostTitle: Ground Control to Major Bean
+facetMost: On the ferry home, your friend has finally started telling you why she left her husband. Behind her the island is getting smaller, and in your head you've already moved back there, into a hut on the beach. She asks if you're listening. You say yes, and go back to the hut.
+facetMostAction: You say yes, and go back to the hut.
 facetHighTitle: Beandream Believer
-facetHigh: Your family have four crates on at the pick-your-own and it is paid by weight. They are stood at the scales waiting, and your bag has nothing in it because of the way the sun is coming through one of the trees. You sit down under that one.
-facetHighAction: You sit down under that one.
-facetMidTitle: Head in the Beans
-facetMid: The hygienist has asked you twice now, while she is working, whether you want the guard made up for the grinding, and both times you have been somewhere else. Answering it properly means another appointment. You say yes to whichever it was.
-facetMidAction: You say yes to whichever it was.
-facetLowTitle: Beans on the Ground
-facetLow: Five in the morning at the parcel depot, two weeks in, and the cages come off the lorry and everything gets scanned twice. The driver has had the same fourteen streets for nine years and is telling you which gate sticks. You get the sheet out and go through the fourteen with him.
-facetLowAction: You get the sheet out and go through the fourteen with him.
-facetLeastTitle: Solid Bean
-facetLeast: Your neighbour is seventy and asked you to help get the last of his potatoes up, which is four hours of forking and bending down the rows, and it is the only afternoon he has anybody in all week. You work the rows with him and answer him the whole way through.
-facetLeastAction: You work the rows with him and answer him the whole way through.
-question: You've walked to the shops for bread and the walk back takes eleven minutes. What comes home with you?
-answerMost: a whole life imagined in Lisbon, and no bread
-answerHigh: the bread, and a house in Lisbon worked out down to the tiles
-answerMid: the bread, and half a plan for the spare room
-answerLow: the bread
-answerLeast: the bread, the milk and what you forgot last week
+facetHigh: You're minding your neighbour's pottery stall at the market while he gets lunch, and he's hardly sold a thing all morning. The sun's out, a busker is playing, and you've started picturing the market square as it was before cars, with horses and carts coming through. A woman is turning a jug over, looking for the price. You stay with the horses a bit longer.
+facetHighAction: You stay with the horses a bit longer.
+facetMidTitle: The Secret Life of Walter Bean
+facetMid: On jury service, a detective is reading out phone records line by line, and the case hangs on the times. Through the high window, a man on a rope is cleaning the glass of the building across the street. You watch him for a minute, wondering what the view is like from up there.
+facetMidAction: You watch him for a minute, wondering what the view is like from up there.
+facetLowTitle: Bean Here Now
+facetLow: On your first morning volunteering at the zoo, a keeper walks you round before the gates open. The giraffes are coming out into the mist, and it's beautiful. She's explaining how much hay each one gets, because soon you'll be feeding them on your own. You get your phone out and make a note of it.
+facetLowAction: You get your phone out and make a note of it.
+facetLeastTitle: Sense and Beansibility
+facetLeast: A friend has found an old lighthouse for sale for less than a flat, and an agent is showing the two of you round. There's a bucket on the stairs catching a drip. Your friend is already planning a café at the bottom and a bed up in the lamp room. You ask the agent what it would cost to fix the roof.
+facetLeastAction: You ask the agent what it would cost to fix the roof.
+question: What's on your mind while you do the washing up?
+answerMost: a whole other life abroad, while the water goes cold
+answerHigh: your speech for an award you haven't won
+answerMid: a holiday you might book this summer
+answerLow: what to cook tomorrow night
+answerLeast: the washing up
 rorschachMost: a cloud
 rorschachHigh: a balloon on a string
 rorschachMid: a pillow

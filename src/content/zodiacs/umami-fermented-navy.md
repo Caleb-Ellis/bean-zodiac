@@ -12,9 +12,6 @@ creature: stork
 dish: Navy bean miso with barley and kombu.
 friendlyBeans: [cannellini, edamame]
 friendlyForm: dried
-antiTriple: spicy-fried-green
-antiBeans: [kidney, fava]
-antiForm: smoked
 seasonalFortune: "A season of barley and kombu — the days pass slowly."
 fortuneMost: The stork stands over the water so long the fish learn to swim past it.
 fortuneHigh: Do it in order, and do it once.

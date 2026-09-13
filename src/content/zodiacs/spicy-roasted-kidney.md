@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: spicy-roasted-kidney
 lastUpdated:
 bean: kidney
@@ -11,33 +11,35 @@ inverse: unexpressive
 quote: The bean is not a logical faculty; it is a faculty of what it wants.
 creature: gibbon
 dish: Kidney beans roasted with hot smoked paprika and garlic.
-friendlyBeans: [butter, mung]
+friendlyBeans: [butter, navy]
 friendlyForm: boiled
-antiTriple: bitter-dried-black
-antiBeans: [edamame, green]
-antiForm: fried
 seasonalFortune: "A season of hot smoked paprika and full feeling — the roast is never merely warm."
-fortuneMost: Feel it that loudly and people brace instead of listening.
-fortuneHigh: A gibbon calls across the valley and the whole forest answers.
-fortuneMid: Say what it actually felt like.
-fortuneLow: Keep your face still here.
-fortuneLeast: Nothing wrong with a flat delivery.
-facetMostTitle: Beanodrama
-facetMost: A goal goes in at the last minute and you are on the seat, then the row in front. Your voice is gone before the bus.
-facetHighTitle: All the Beans
-facetHigh: The oldest one in your family stands up at the party and starts on where they all came from, and you are gone by the third sentence and you do nothing about your face.
+fortuneMost: Cry at everything and nobody will know when it's real.
+fortuneHigh: A gibbon sings its heart out every morning, and the whole forest hears it.
+fortuneMid: A few tears never hurt anyone.
+fortuneLow: Save it for the walk home.
+fortuneLeast: Quiet people feel things just as much.
+facetMostTitle: Gone with the Bean
+facetMost: Your sister announces her engagement in the family group chat, so you find out at the same moment as your cousins and an aunt you haven't spoken to in years. She's out at dinner with her fiancé, celebrating. You ring her in tears to say you thought you were closer than that.
+facetMostAction: You ring her in tears to say you thought you were closer than that.
+facetHighTitle: Beanside Out
+facetHigh: The man who attacked your friend outside a club is on trial, and she's asked you to sit with her in the public gallery for the verdict. The judge has already warned the gallery to keep quiet. The jury comes back and says guilty. You burst into tears beside her.
+facetHighAction: You burst into tears beside her.
 facetMidTitle: Bean on Fire
-facetMid: A school play, and a boy who never speaks has the last line. He gets it out. You clap for a good deal longer than the row you are sitting in.
-facetLowTitle: The Bean Stare
-facetLow: The film has done what it does to everybody and the whole cinema is sniffing in the dark around you. You watch the credits go up with your hands in your lap and your coat already on.
-facetLeastTitle: Bean a Flicker
-facetLeast: Somebody proposes at the top of the steps in front of you and she says yes and everybody around is making a great deal of noise about it. You offer congratulations in the voice you use at the post office, and you mean it warmly.
-question: Your oldest friend is giving the speech at his father's retirement do, and he's struggling to get through it. You...
-answerMost: cry, then get up and finish the speech for him
-answerHigh: cry properly, in the front row, where he can see you
-answerMid: fill up, and let it pass
-answerLow: keep your face still and clap hard at the end
-answerLeast: sit through it straight-faced
+facetMid: On the train home a man is shouting at the young woman running the snack trolley because the card machine won't take his card, and she's close to tears. Everyone else in the carriage has gone back to their phones. You catch his eye and shake your head.
+facetMidAction: You catch his eye and shake your head.
+facetLowTitle: Poker Bean
+facetLow: At a friend's fundraiser dinner they draw the raffle, and your ticket wins the top prize, a week in a villa in Portugal. You've never won anything in your life. Everyone at your table is on their feet cheering. You smile, and go up to collect the prize.
+facetLowAction: You smile, and go up to collect the prize.
+facetLeastTitle: The Remains of the Bean
+facetLeast: Your best friend has just had her first baby, a boy, and you're the first visitor in after her partner. Her partner hasn't stopped crying, the midwife is beaming, and she puts the baby straight into your arms. You tell her, quite calmly, that he's lovely.
+facetLeastAction: You tell her, quite calmly, that he's lovely.
+question: Your brother's made the final of a TV baking competition, and the family are round at your parents' to watch it go out. He's on the sofa next to you, and he's told nobody the result. They announce he's won. You...
+answerMost: make a tearful speech about how proud you are
+answerHigh: scream and throw your arms round him
+answerMid: hug him with wet eyes
+answerLow: grin and tell him well done
+answerLeast: shake his hand
 rorschachMost: a howling figure
 rorschachHigh: arms flung wide
 rorschachMid: a wrung-out cloth

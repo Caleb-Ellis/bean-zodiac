@@ -13,9 +13,6 @@ creature: sea anemone
 dish: Chickpeas roasted in honey-cinnamon glaze.
 friendlyBeans: [adzuki, mung]
 friendlyForm: fried
-antiTriple: bitter-fermented-black
-antiBeans: [fava, cannellini]
-antiForm: dried
 seasonalFortune: "A season of honey-cinnamon and long stays — the house fills with people who came for an hour, and the glaze sets hard."
 fortuneMost: Fed often enough, a guest forgets how to leave.
 fortuneHigh: A sea anemone shelters a clownfish inside stingers that kill everything else that touches them.

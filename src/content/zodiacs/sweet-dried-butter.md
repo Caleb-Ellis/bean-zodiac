@@ -10,11 +10,8 @@ inverse: turbulent
 quote: Peace begins with bean.
 creature: white crane
 dish: Sugared butter beans dried with honey and thyme.
-friendlyBeans: [black, adzuki]
+friendlyBeans: [navy, black]
 friendlyForm: boiled
-antiTriple: spicy-fried-green
-antiBeans: [chickpea, pinto]
-antiForm: roasted
 seasonalFortune: "A season of honey and thyme — the store keeps its calm through every draught."
 fortuneMost: The white crane stands so long in the shallows it forgets what it was waiting for.
 fortuneHigh: A still pond, not even a breeze.

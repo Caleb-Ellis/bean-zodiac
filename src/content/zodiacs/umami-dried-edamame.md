@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: umami-dried-edamame
 lastUpdated:
 bean: edamame
@@ -13,36 +13,33 @@ creature: mammoth turtle
 dish: Dried soybeans aged into yuba with soy.
 friendlyBeans: [cannellini, navy]
 friendlyForm: boiled
-antiTriple: sweet-roasted-mung
-antiBeans: [adzuki, kidney]
-antiForm: fermented
 seasonalFortune: "A season of yuba and old soy: everything later in the year rests on this."
-fortuneMost: A mammoth turtle carries the whole house and never puts it down.
-fortuneHigh: Write the small thing down while it's small.
-fortuneMid: What was laid down years ago holds somebody's work up.
-fortuneLow: Step out and see what stands without you.
-fortuneLeast: Let it fall this once.
-facetMostTitle: Beanhenge
-facetMost: The starter and the timings have been in your head since the bakery opened and are written down nowhere, and the owner wants them on paper so somebody can cover the fortnight you are owed. You keep it in your head and work the fortnight.
-facetMostAction: You keep it in your head and work the fortnight.
+fortuneMost: Hold something up long enough and nobody else learns how.
+fortuneHigh: Be the one they can plan around.
+fortuneMid: A mammoth turtle carries whatever climbs onto it, and doesn't change its pace.
+fortuneLow: Take the week off. It'll all be here when you get back.
+fortuneLeast: Three to a pod, and not one of them is carrying the others.
+facetMostTitle: "2001: A Space Beanyssey"
+facetMost: You've done the evening feed at the dog rescue since the day it opened — who eats what, which ones can't be put out in the yard together, which one takes her tablets in cheese. It's all in your head and nowhere else. The women who run the place have been given money for a second evening person, and it lapses unless there's something written down for her to work from. You tell them you'll carry on doing the evenings yourself.
+facetMostAction: You tell them you'll carry on doing the evenings yourself.
 facetHighTitle: The Beandation
-facetHigh: Your friend's mum died at the weekend, the funeral is in four days, and six people are each doing a bit of it — two have booked cars, nobody has rung the crematorium, nobody has ordered flowers, and your friend has not slept. You take the cars, the crematorium and the flowers off them.
-facetHighAction: You take the cars, the crematorium and the flowers off them.
+facetHigh: Your friend has bought a wreck of a sailing boat, and it's up on blocks in the yard until spring. Everyone who said they'd help is talking about the cabin and what colour to paint it. Nobody has been underneath, and the hull below the waterline is what decides whether it floats — every weekend of the winter, on your back in the cold. You tell him you'll take the hull.
+facetHighAction: You tell him you'll take the hull.
 facetMidTitle: Another Bean in the Wall
-facetMid: Your cousin has fourteen months of his sentence left and nobody else in the family has visited since Easter. Everything you have on you goes in a locker, you get a numbered table, and the hour is exactly an hour. You book the next one before you go.
-facetMidAction: You book the next one before you go.
+facetMid: Your cousin has fourteen months of his sentence left and nobody else in the family has visited since Easter. Everything you have on you goes in a locker, you get a numbered table, and the hour is exactly an hour. You book the next visit before you go.
+facetMidAction: You book the next visit before you go.
 facetLowTitle: The Beansiders
-facetLow: For three years the walking weekend was yours — the place to stay, the route, the driving. Somebody else has organised it this year, the route is longer, and nobody asked you about any of it. You get in at the back and walk the route they picked.
-facetLowAction: You get in at the back and walk the route they picked.
+facetLow: Three autumns running, the press at the cider farm was yours — loading the crush, filling the barrels, calling when a batch was done. This year the farm has taken somebody on to do it, and the yard is full of students who've never met you. The woman who owns the place hands you a crate and asks you to pick the bad apples out. You take the crate.
+facetLowAction: You take the crate.
 facetLeastTitle: Rosencrantz and Guildenstern Are Beans
-facetLeast: The astronomical society opens the dome on a Friday night and four people keep it running — one turns the dome by hand, one writes up what is worth looking at. The man on the door says two of the four are stopping, and that without two more names on the rota it shuts by spring. You tell him you will come along when you can.
-facetLeastAction: You tell him you will come along when you can.
-question: The filing system you set up in 2011 still runs the office, and the new manager wants it all moved onto software. You...
-answerMost: give her the reason it stays, and the same reason every time she asks
-answerHigh: show her what the system does that the software won't
-answerMid: hand over how it works, and offer to help with the move
-answerLow: let her move it, and keep your own copy of the index
-answerLeast: let it go — it was only ever a set of folders
+facetLeast: The astronomical society opens the dome on a Friday night and four people keep it running — one turns the dome by hand, one writes up what's worth looking at. The man on the door says two of the four are stopping, and that without two more names on the rota it shuts by spring. You tell him you'll come along when you can.
+facetLeastAction: You tell him you'll come along when you can.
+question: The Sunday league team you've played for since school is the only reason you still see half of them. The man who ran it has moved away, leaving the kit bag and the pitch booking with whoever wants them, and two of the others want to move it to Saturdays. You...
+answerMost: take it on, and keep it on Sundays
+answerHigh: put your name down for the season's pitch bookings
+answerMid: say you'll wash the kit every week
+answerLow: play whichever day they settle on
+answerLeast: make it clear you're there to play and nothing else
 rorschachMost: a dam wall
 rorschachHigh: a foundation stone
 rorschachMid: a kitchen table

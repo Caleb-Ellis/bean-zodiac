@@ -11,11 +11,8 @@ inverse: transactional
 quote: Where your bean is, there will your heart be also.
 creature: cichlid
 dish: Chickpea panisse fried with parmesan.
-friendlyBeans: [mung, green]
+friendlyBeans: [green, mung]
 friendlyForm: roasted
-antiTriple: bitter-fermented-black
-antiBeans: [edamame, navy]
-antiForm: dried
 seasonalFortune: "A season of panisse and hot oil — nothing goes into that pan by halves, and nothing comes out of it unchanged."
 fortuneMost: The cichlid carries her young in her mouth, and eats nothing until they swim out.
 fortuneHigh: Be on the hook for something.

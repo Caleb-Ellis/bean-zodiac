@@ -11,11 +11,8 @@ inverse: tentative
 quote: Give me a place to stand and I will move the bean.
 creature: red squirrel
 dish: Fava tempura with wakame salt.
-friendlyBeans: [pinto, green]
+friendlyBeans: [green, pinto]
 friendlyForm: fermented
-antiTriple: sweet-boiled-mung
-antiBeans: [butter, black]
-antiForm: smoked
 seasonalFortune: "A season of wakame salt and a full basket — nothing in it needs testing first, and the one that does looks just the same."
 fortuneMost: A red squirrel runs out to the thin end of the branch without slowing.
 fortuneHigh: Walk in and start talking.

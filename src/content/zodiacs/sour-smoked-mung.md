@@ -11,11 +11,8 @@ inverse: reassuring
 quote: The bean is out there.
 creature: anteater
 dish: Smoked mung cured with kokum over rice husk.
-friendlyBeans: [kidney, chickpea]
+friendlyBeans: [chickpea, butter]
 friendlyForm: fermented
-antiTriple: sweet-dried-adzuki
-antiBeans: [edamame, fava]
-antiForm: roasted
 seasonalFortune: "A season of kokum and gentle questions — the rice husk smoke gets into every corner of the house."
 fortuneMost: Ask one question too many and people stop answering.
 fortuneHigh: Ask what's really going on.

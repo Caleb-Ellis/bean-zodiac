@@ -11,11 +11,8 @@ inverse: coddling
 quote: Revenge is a bean best served cold.
 creature: orca
 dish: Smoked kidney beans cured with tamarind over mesquite.
-friendlyBeans: [black, navy]
+friendlyBeans: [navy, black]
 friendlyForm: boiled
-antiTriple: sweet-roasted-butter
-antiBeans: [pinto, chickpea]
-antiForm: fermented
 seasonalFortune: "A season of tamarind and long memories — the mesquite is still in the curtains a year on."
 fortuneMost: An orca that's been hit by a boat will go after boats for years.
 fortuneHigh: Remember who was there, and who wasn't.

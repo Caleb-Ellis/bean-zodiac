@@ -11,11 +11,8 @@ inverse: unaccountable
 quote: The bean stops here.
 creature: malleefowl
 dish: Wood-oven navy beans with molasses and burnt bay.
-friendlyBeans: [cannellini, mung]
+friendlyBeans: [kidney, cannellini]
 friendlyForm: boiled
-antiTriple: spicy-smoked-fava
-antiBeans: [green, black]
-antiForm: fermented
 seasonalFortune: "A season of molasses and burnt bay — nothing in the pan darkens by itself, and the year keeps the name of whoever did it."
 fortuneMost: Say the worst of it yourself and that is the part people keep.
 fortuneHigh: Put it right before anybody asks you to.

@@ -12,9 +12,6 @@ creature: thunderbird
 dish: Pinto dulce dried with piloncillo and cinnamon.
 friendlyBeans: [black, fava]
 friendlyForm: roasted
-antiTriple: bitter-boiled-kidney
-antiBeans: [mung, chickpea]
-antiForm: smoked
 seasonalFortune: "A season of piloncillo and cinnamon — every dulce carries a version of the same story."
 fortuneMost: Each telling adds a little more sugar, until it tastes of nothing else.
 fortuneHigh: Tell it while the people in it are still here.

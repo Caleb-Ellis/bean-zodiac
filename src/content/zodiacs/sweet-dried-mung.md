@@ -13,9 +13,6 @@ creature: eider duck
 dish: Moong ladoo - dried mung with jaggery and cardamom.
 friendlyBeans: [kidney, butter]
 friendlyForm: boiled
-antiTriple: sour-roasted-green
-antiBeans: [pinto, fava]
-antiForm: fried
 seasonalFortune: "A season of jaggery and cardamom — the ladoo keeps for months and is just as sweet on the last day."
 fortuneMost: Being needed is a hard thing to give up.
 fortuneHigh: Eider ducks take turns minding each other's ducklings, whatever the weather.

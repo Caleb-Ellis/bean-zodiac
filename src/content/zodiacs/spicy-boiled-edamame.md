@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: spicy-boiled-edamame
 lastUpdated:
 bean: edamame
@@ -11,33 +11,35 @@ inverse: idle
 quote: Genius is one per cent inspiration and ninety-nine per cent beans.
 creature: beaver
 dish: Edamame braised in doubanjiang broth.
-friendlyBeans: [navy, chickpea]
+friendlyBeans: [navy, kidney]
 friendlyForm: dried
-antiTriple: sour-smoked-butter
-antiBeans: [pinto, black]
-antiForm: fermented
-seasonalFortune: "A season of doubanjiang and steady labour: the broth never stops, and neither does the kitchen."
-fortuneMost: There is always another job, and the season goes by.
+seasonalFortune: "A season of doubanjiang and long heat — the pot is filled again before it has finished cooling."
+fortuneMost: Whatever you do well, you'll be asked to do again.
 fortuneHigh: A beaver dams the stream it was only passing through.
-fortuneMid: A task with an edge on it gets finished.
-fortuneLow: Knock off early.
-fortuneLeast: Cancel the thing you'd only attend out of duty.
+fortuneMid: Sitting down is harder than it looks.
+fortuneLow: Stop while there's still light in the day.
+fortuneLeast: A soaking bean is a bean at work.
 facetMostTitle: Glenbeany Glen Ross
-facetMost: The crop is in, the machine is cleaned, and nothing at all has to be done until spring. You start on the drainage instead. Somebody comes out to point out that it is dark and that you ate at eleven, and you tell them another hour.
+facetMost: It's the last night of the dig and everything is out of the ground and boxed. A digger fills the trench in at first light whatever happens, and the others are up at the farmhouse with the last of the wine. You take a headtorch back down to the trench and start digging.
+facetMostAction: You take a headtorch back down to the trench and start digging.
 facetHighTitle: The Ant and the Beanhopper
-facetHigh: Shop shuts at six and the accounts are two months behind, so you are in the back room with the books while the light is still on over the door.
+facetHigh: The house you grew up in is sold, and anything still inside when the keys go back goes with it. Your mother and your brother have had the photo albums out on the lawn since lunch, and four rooms and the loft are still full. You leave them to it and start on the loft.
+facetHighAction: You leave them to it and start on the loft.
 facetMidTitle: Whistle While You Bean
-facetMid: Given a free morning to yourself, you get the guttering done and the shed cleared out before anybody else in the house is properly up and about for the day.
-facetLowTitle: Idle Beans
-facetLow: There is a list on the side and none of it is urgent. You look at the list and put the kettle on.
+facetMid: Your team is at home and you're at the pitch an hour early with nobody else there, the goals are locked in a container at the far end, and if the nets aren't up the referee won't start. You drag both goals down the pitch and get the nets on by yourself.
+facetMidAction: You drag both goals down the pitch and get the nets on by yourself.
+facetLowTitle: How to Succeed in Business Without Really Beaning
+facetLow: You're an extra on a film, ten hours in a holding tent for one shot of a crowd on a bridge, paid by the day either way. At the lunch break a runner asks if any of the extras will shift the lighting kit, and the ones who do get asked back for the rest of the shoot. You go and get your lunch.
+facetLowAction: You go and get your lunch.
 facetLeastTitle: The Beanzy Song
-facetLeast: The whole day is yours, the weather is good, and there is plenty that needs doing. You get in the hammock at eleven and you are still in it when they get back, with no intention of moving.
-question: One dry Saturday before a fortnight of rain, and the fence panels are stacked by the shed. What happens to the Saturday?
-answerMost: the fence goes up, and the shed roof is started as well
-answerHigh: every panel is up before dark
-answerMid: the run nearest the shed gets done, and the rest waits
-answerLow: the panels go under cover, and the day goes on something else
-answerLeast: the panels stay stacked and the Saturday is spent indoors
+facetLeast: Four of you have a narrowboat for the week, and the locks at the top of the canal are a whole day of winding gates. It's the first warm morning of the trip, and today is the only day left to get up there. You lie down on the roof and tell them to wake you when there's food.
+facetLeastAction: You lie down on the roof and tell them to wake you when there's food.
+question: Last morning at the campsite by the river, and you're up first after three days of rain. The fire's drowned, last night's washing-up is in the tent porch, and the car has to move before the farmer's tractor comes. The sun is finally out. You...
+answerMost: dig a channel round all the tents to take the water off
+answerHigh: relight the fire and get the washing-up done
+answerMid: move the car out of the tractor's way
+answerLow: sit out in the sun with your boots off
+answerLeast: walk down to the river and get in
 rorschachMost: an ant colony
 rorschachHigh: a gnawed stump
 rorschachMid: a compost heap

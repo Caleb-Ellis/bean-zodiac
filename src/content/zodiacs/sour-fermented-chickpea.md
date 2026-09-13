@@ -13,9 +13,6 @@ creature: cuckoo
 dish: Chickpeas in torshi brine with turnip and beet.
 friendlyBeans: [adzuki, green]
 friendlyForm: smoked
-antiTriple: bitter-dried-cannellini
-antiBeans: [navy, mung]
-antiForm: boiled
 seasonalFortune: "A season of torshi and quiet schemes — the beet turns the whole jar pink, and nobody sees it happen."
 fortuneMost: The cuckoo lays its egg in another bird's nest, and lets them raise it.
 fortuneHigh: Nobody needs to know how it happened.

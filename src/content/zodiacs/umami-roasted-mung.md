@@ -13,9 +13,6 @@ creature: rat
 dish: Mung roasted in ghee with cumin.
 friendlyBeans: [kidney, chickpea]
 friendlyForm: smoked
-antiTriple: sour-dried-green
-antiBeans: [edamame, fava]
-antiForm: fermented
 seasonalFortune: "A season of ghee and cumin — the warmth goes straight to whatever is sore, and it is in no hurry to leave."
 fortuneMost: Cry hard enough for somebody and they'll end up comforting you.
 fortuneHigh: Say plainly that it's as bad as they think.

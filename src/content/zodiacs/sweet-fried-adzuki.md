@@ -12,9 +12,6 @@ creature: skylark
 dish: Taiyaki - caramelised adzuki paste fried in batter.
 friendlyBeans: [chickpea, green]
 friendlyForm: fermented
-antiTriple: umami-smoked-black
-antiBeans: [cannellini, butter]
-antiForm: boiled
 seasonalFortune: "A season of taiyaki and hot batter — the fryer is celebrating and everyone is invited."
 fortuneMost: The skylark sings all the way up and has nothing left at the top.
 fortuneHigh: Let there be noise!

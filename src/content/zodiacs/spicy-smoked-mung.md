@@ -13,9 +13,6 @@ creature: python
 dish: Mung smoked over rice husk with chipotle and coconut.
 friendlyBeans: [butter, kidney]
 friendlyForm: boiled
-antiTriple: sour-fermented-edamame
-antiBeans: [fava, pinto]
-antiForm: roasted
 seasonalFortune: "A season of rice husk and coconut — the smoke wraps the pot so close it never quite lifts."
 fortuneMost: A python holds its eggs the same way it holds everything else.
 fortuneHigh: Take them under your wing.

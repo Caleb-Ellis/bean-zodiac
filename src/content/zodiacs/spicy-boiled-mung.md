@@ -11,11 +11,8 @@ inverse: rationed
 quote: No one has ever become poor by beaning.
 creature: vampire bat
 dish: Mung dal braised with green chilli and mustard seed.
-friendlyBeans: [kidney, butter]
+friendlyBeans: [butter, kidney]
 friendlyForm: smoked
-antiTriple: sour-dried-edamame
-antiBeans: [cannellini, navy]
-antiForm: roasted
 seasonalFortune: "A season of mustard seed and open doors — everyone who comes is fed, and the pot goes back on the heat empty."
 fortuneMost: Give away more than you've got, and somebody else has to carry you.
 fortuneHigh: Do the part nobody thanks anyone for.

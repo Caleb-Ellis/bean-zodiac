@@ -11,11 +11,8 @@ inverse: perfunctory
 quote: Rage, rage against the dying of the bean.
 creature: capercaillie
 dish: Cannellini braised with 'nduja and peperoncino.
-friendlyBeans: [kidney, pinto]
+friendlyBeans: [navy, mung]
 friendlyForm: smoked
-antiTriple: sour-fermented-green
-antiBeans: [adzuki, butter]
-antiForm: roasted
 seasonalFortune: "A season of 'nduja and raised voices — the braise stays at a rolling boil for whatever it loves."
 fortuneMost: A capercaillie displays so hard in spring that it will chase a person out of the forest.
 fortuneHigh: Stand up for what you love!

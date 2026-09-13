@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sweet-fermented-butter
 lastUpdated:
 bean: butter
@@ -13,36 +13,33 @@ creature: goose chick
 dish: Butter beans in a sweet doenjang glaze.
 friendlyBeans: [pinto, adzuki]
 friendlyForm: roasted
-antiTriple: spicy-fried-chickpea
-antiBeans: [navy, cannellini]
-antiForm: dried
 seasonalFortune: "A season of sweet doenjang and small nonsense — the glaze is not a serious glaze."
-fortuneMost: Nobody takes a goose chick seriously, however hard it tries.
-fortuneHigh: Do the daft version.
-fortuneMid: The daft nickname is the one that sticks.
-fortuneLow: Be serious when it counts.
-fortuneLeast: Sometimes the joke can wait.
+fortuneMost: Keep playing the fool and nobody will know when you're serious.
+fortuneHigh: Wear the silly hat.
+fortuneMid: A goose chick falls over its own feet and doesn't mind who saw.
+fortuneLow: A straight face can be a kindness.
+fortuneLeast: The serious bean is the bean they send for in a crisis.
 facetMostTitle: The Naked Bean
-facetMost: The pair of you have been saying for months that you'd get the matching gravy boats done, and you've both had the drawing on your phones since June. He's got to the door and said he's not doing it. You have yours done.
-facetMostAction: You have yours done.
-facetHighTitle: Beany Synphony
-facetHigh: Four hours you've been waiting in here with your dad, and there are six other people in the room not talking to each other. There's a tank in the corner with three fish in it. You start the commentary on the fish.
-facetHighAction: You start the commentary on the fish.
+facetMost: You and your best friend have been saying for a year that you'd get matching gravy boat tattoos, and you've both kept the drawing on your phones. At the door of the tattoo studio he says he's not doing it. You get yours done anyway.
+facetMostAction: You get yours done anyway.
+facetHighTitle: Beany Symphony
+facetHigh: Your dad's cut his hand open on a tin lid, and you've been sitting in the emergency waiting room with him for hours. Nobody in there is talking to anybody, and there's a fish tank in the corner. You start narrating the fish like a nature documentary.
+facetHighAction: You start narrating the fish like a nature documentary.
 facetMidTitle: The Ministry of Beany Walks
-facetMid: You're painting your friend's shed while he's at work — he's paying for the paint and he'll be back at six — and there's enough of the green left over to do something with. You put a face on the door.
-facetMidAction: You put a face on the door.
-facetLowTitle: The Beanbull
-facetLow: It's your friend's kitchen and he's got you in for a night; there are nine tables on, the shout's been going ten minutes, and the two on the pass are betting on which table sends something back, which any other night you'd be in on. You tell them to get the food out.
-facetLowAction: You tell them to get the food out.
-facetLeastTitle: No Beansense
-facetLeast: You're driving the six of them back and they've spent an hour giving every roundabout on the route a name and a personality, and the two in the front have joined in. It's the funniest thing you've heard in months. You put the radio on and turn it up.
-facetLeastAction: You put the radio on and turn it up.
-question: Everyone is waiting in a very stiff room for the meeting to start. You...
-answerMost: do the voice, and keep doing it after it stops landing
-answerHigh: do the voice and get the room breathing again
-answerMid: say one daft thing and leave it there
-answerLow: sit it out straight-faced
-answerLeast: tell whoever started it to give over
+facetMid: They read your name out at your graduation, and you've got the walk across the stage to shake the dean's hand, with the whole hall watching and your parents filming from the balcony. You do a little skip on your way off the stage.
+facetMidAction: You do a little skip on your way off the stage.
+facetLowTitle: The Importance of Being Beanest
+facetLow: You've got a day's work as an extra on a costume drama, at a table laid for tea in the background of a garden party. The others at your table are sneaking something daft into every take, like a teacup held upside down. You hold your teacup the right way up.
+facetLowAction: You hold your teacup the right way up.
+facetLeastTitle: Twelve Angry Beans
+facetLeast: You're on a jury that's been out all afternoon deciding whether a man stole a van. One of the other jurors has drawn the judge as a walrus on the back of the evidence list, and it's going round the table with everyone in tears laughing. You ask them to put it away until there's a verdict.
+facetLeastAction: You ask them to put it away until there's a verdict.
+question: It's your first time meeting your partner's family, at a barbecue in their parents' garden, and you want to make a good impression. Your partner's little niece marches up and announces that you're a dragon. You...
+answerMost: stay a dragon right through lunch, and roar at her grandparents too
+answerHigh: roar and let her chase you round the garden
+answerMid: give her one small roar
+answerLow: tell her you're not a dragon, just a guest
+answerLeast: shake her hand and tell her your full name
 rorschachMost: a thrown custard pie
 rorschachHigh: a clown's wig
 rorschachMid: a whoopee cushion

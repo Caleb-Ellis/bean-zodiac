@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: umami-dried-adzuki
 lastUpdated:
 bean: adzuki
@@ -13,36 +13,33 @@ creature: sacred ibis
 dish: Aged dried adzuki with dried scallop and soy.
 friendlyBeans: [navy, black]
 friendlyForm: boiled
-antiTriple: spicy-roasted-pinto
-antiBeans: [kidney, fava]
-antiForm: fried
 seasonalFortune: "A season of dried scallop and old soy — the pantry keeps things it will not open."
-fortuneMost: Sacred ibises were mummified by the million.
-fortuneHigh: Take your hat off for it.
-fortuneMid: Ticket stubs outlive the trips.
-fortuneLow: It's only a thing.
+fortuneMost: Too much awe and you'll never get past the doorstep.
+fortuneHigh: Treat it like it's the only one in the world.
+fortuneMid: The sacred ibis spends its whole day with its head bowed.
+fortuneLow: Not everything needs a ceremony.
 fortuneLeast: Use the good plates for beans on toast.
 facetMostTitle: The Bean Commandments
-facetMost: Your friend asked you months ago to be the one in the room with her, and there is nobody else — her mum is four hours off. Eleven hours in, the midwife opens the door onto the corridor and says come on then. You go and stand out there.
-facetMostAction: You go and stand out there.
+facetMost: Your grandmother left you her wedding ring, and always said a ring is for wearing. It's too small for you, so the jeweller wants to cut the band and add a sliver of gold. You ask for it back as it is.
+facetMostAction: You ask for it back as it is.
 facetHighTitle: Abeaning Grace
-facetHigh: The one painting is in a room on its own and the ticket gives you ten minutes in there. The three you came with did two minutes and are out in the shop with a lift home going now, and the train instead is forty pounds. You stay in the room for the whole ten.
-facetHighAction: You stay in the room for the whole ten.
+facetHigh: You've flown across the world with two friends to climb a mountain, and the last stretch to the summit is sacred to the people who live below it. A sign asks visitors not to go any further, but nothing stops them, and your friends are carrying on up. You stay at the sign.
+facetHighAction: You stay at the sign.
 facetMidTitle: Ave Beanria
-facetMid: Eleven o'clock on the concourse, the tannoy asks for two minutes and half the station keeps walking, and your train goes from platform four in ninety seconds. You stop where you are for the whole two minutes.
-facetMidAction: You stop where you are for the whole two minutes.
+facetMid: You're on a walking holiday with a friend, staying the night at a monastery. At dinner the monks eat in silence while one of them reads aloud, and guests are told they're welcome to talk quietly at their own table. Your friend wants to plan the next day's walk. You eat in silence like the monks.
+facetMidAction: You eat in silence like the monks.
 facetLowTitle: Bad Bean Santa
-facetLow: Your friend cleans the church and has taken you through the vestry — the safe the registers live in, the little sink with the one tap, the cupboard with the communion jug and the plate in it. The flowers for the morning need water and nothing in there holds more than a cup. You fill the jug at the tap.
-facetLowAction: You fill the jug at the tap.
+facetLow: You've got a long wait for a friend in the town square, it's hot, and you've bought yourself some lunch. The only shade is the war memorial, with its wide stone steps and the wreaths laid at the top. Nobody else is sitting on it. You sit on the bottom step to eat.
+facetLowAction: You sit on the bottom step to eat.
 facetLeastTitle: Sympathy for the Beanvil
-facetLeast: Your great-aunt's funeral is being streamed because half the family are abroad and you could not get the day off, and your mum has asked you to watch it properly. You set it going and start cooking.
+facetLeast: Your great-aunt's funeral is being streamed because half the family are abroad and you couldn't get the day off, and your mum has asked you to watch it properly. You set it going and start cooking.
 facetLeastAction: You set it going and start cooking.
-question: What do you do with the oldest thing you own?
-answerMost: it's wrapped up and put away, never used
-answerHigh: taken out carefully, on the days that call for it
-answerMid: in use, and looked after
-answerLow: treated like anything else you own
-answerLeast: you'd have to think about what it even is
+question: The guide at the house of an author you love lets you into her study alone for a few minutes. Her desk, her chair and her typewriter are exactly as she left them. You...
+answerMost: stay in the doorway
+answerHigh: walk round slowly with your hands behind your back
+answerMid: run your hand along the edge of her desk
+answerLow: sit down in her chair
+answerLeast: type your name on her typewriter
 rorschachMost: a cliff shadow
 rorschachHigh: a votive candle
 rorschachMid: a gate wreath

@@ -353,6 +353,10 @@ Also retired, on top of the earlier list: **pubs and bars as the stage**, **comm
 gardens and allotments**, and repeat props generally — `src/content/TALLY.md` holds
 a per-bean table of every setting used, and is the file to check before inventing one.
 
+**Both of those are batch rules.** Rewriting a *single* question, don't consult the
+tally and don't grep the corpus for setting reuse — take the scene from the trait and
+write it. The search costs more than the collisions it prevents.
+
 ## One fantastical premise per bean
 
 The strongest entries of the pass are the impossible ones, because the five answers
@@ -478,7 +482,8 @@ If questions get another pass, the ledger is the thing to copy — the same twen
 register buckets, the same cast vocabulary (`alone, friend, stranger, group, family,
 official, neighbour, partner, colleague, housemate, child`), the same rules:
 
-- **Settings may not repeat within 10 entries**, corpus-wide.
+- **Settings may not repeat within 10 entries**, corpus-wide — checked by the ledger
+  when planning a batch, never by grepping the corpus on a single entry.
 - **A bean's questions should span several register buckets, with at least one in a
   bucket the corpus has barely used** — the facet rule is four buckets per entry, one
   thin; the question analogue is per bean, since a question has only one scene.

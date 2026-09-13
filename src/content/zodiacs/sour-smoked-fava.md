@@ -13,9 +13,6 @@ creature: rattlesnake
 dish: Smoked fava cured with verjuice and thyme.
 friendlyBeans: [green, edamame]
 friendlyForm: fermented
-antiTriple: sweet-boiled-navy
-antiBeans: [butter, mung]
-antiForm: roasted
 seasonalFortune: "A season of verjuice and thyme — the smoke reaches the house long before the fire does."
 fortuneMost: An alarm that rings every day gets slept through.
 fortuneHigh: A rattlesnake gives fair warning before it strikes.

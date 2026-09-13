@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sour-dried-green
 lastUpdated: 
 bean: green
@@ -11,33 +11,35 @@ inverse: soporific
 quote: Into each life some bean must fall.
 creature: arctic fox
 dish: Dried green beans rehydrated in vinegar with dill seed.
-friendlyBeans: [fava, edamame]
+friendlyBeans: [fava, pinto]
 friendlyForm: fried
-antiTriple: umami-boiled-butter
-antiBeans: [cannellini, black]
-antiForm: smoked
 seasonalFortune: "A season of dill seed and cold vinegar; the pantry wakes the kitchen without being asked."
-fortuneMost: Bracing wears thin on people who wanted comfort.
-fortuneHigh: An arctic fox stays out in weather that kills.
-fortuneMid: A cold start wakes everybody up.
-fortuneLow: The easy version would suit them.
-fortuneLeast: Comfort is not a lesser thing.
-facetMostTitle: Psycho Bean
-facetMost: You open the talk by telling four hundred people that most of what they came to hear is out of date, and you have eleven minutes of evidence for it. Nobody moves. Two of them will not speak to you afterwards and one offers you a job.
-facetHighTitle: Wake Up, Bean
-facetHigh: The swim is in water cold enough to take your breath and you go in every morning of the year, and you come out able to do anything at all.
-facetMidTitle: Good Beaning, Vietnam
-facetMid: Somebody wants the news gently. You give it in a single sentence, and they tell you afterwards that it helped.
-facetLowTitle: Beanullaby
-facetLow: A room has gone comfortable and there is a thing that would wake it up, and you can feel the shape of it. You let the moment go and refill the glasses instead.
+fortuneMost: A jolt is remembered longer than the reason for it.
+fortuneHigh: The arctic fox hears the lemming under the snow and drops through it headfirst.
+fortuneMid: Ask them what they're waiting for.
+fortuneLow: Some people get there in their own time.
+fortuneLeast: Nobody was ever hurried into feeling better.
+facetMostTitle: Wake Me Up Before You Go-Bean
+facetMost: Your friend had a baby in the spring and hasn't been past her own front step since. You've come round with food, and she's put him in your arms and said she might get an hour's sleep. It's the first dry day in weeks. You tell her she'll feel better outside, and start getting his coat on him.
+facetMostAction: You tell her she'll feel better outside, and start getting his coat on him.
+facetHighTitle: Good Beaning, Vietnam
+facetHigh: Your cousin's wedding, and the band's van has broken down on the motorway — they aren't coming. The stage has speakers on it and nobody up there, the food's gone, and people are putting their coats back on. The couple sit at the top table saying nothing. You plug your phone into the speakers and start pulling people out of their chairs.
+facetHighAction: You plug your phone into the speakers and start pulling people out of their chairs.
+facetMidTitle: Dead Beans Society
+facetMid: Every Wednesday you're at the homework club at the library. A boy who's come all year says he isn't putting in for the engineering apprenticeship because he won't get it, and asks you to do his maths instead. Applications close this week. You tell him nobody gets one without applying, and go and print the form.
+facetMidAction: You tell him nobody gets one without applying, and go and print the form.
+facetLowTitle: The Bean Whisperer
+facetLow: A friend works nights at a riding stables, and you've come out to sit up in the tack room while a mare foals. Around two she starts on the yard — it's lost money all year, her brother owns the other half and wants out — and asks what you'd do. You tell her nothing gets decided at two in the morning, and get her talking about the mare instead.
+facetLowAction: You tell her nothing gets decided at two in the morning, and get her talking about the mare instead.
 facetLeastTitle: Beany Hollow
-facetLeast: Your meeting has forty minutes left and you have the floor for all of them, and you take them through the appendices, one at a time, and two people at the back have stopped taking notes.
-question: Your friend's kitchen has been half-built for a year — units still boxed, wall unmarked — and you're round for the evening. You...
-answerMost: have the units out and the wall marked before the tea is made
-answerHigh: get her up and fitting the first unit that evening
-answerMid: measure the wall with her and leave the plan on the side
-answerLow: sit down to talk about the kitchen
-answerLeast: put the telly on
+facetLeast: You're helping out on the school camping trip, and at eleven the tent of nine-year-olds is still awake. One of them has started a story about the man who walks the woods, somebody is crying, and the rest want the end of it. You sit down in the doorway and tell them, in order, everything you did last weekend.
+facetLeastAction: You sit down in the doorway and tell them, in order, everything you did last weekend.
+question: Your brother's been at your parents' since the summer, out of work and not looking, and they've agreed not to push him. You want him in a room of his own before the spring, and you've got Saturday afternoon with him. You...
+answerMost: book him a room viewing for the afternoon
+answerHigh: get the first application in with him
+answerMid: ask him straight out what he wants the year to look like
+answerLow: take him for a long lunch and talk about your own year instead
+answerLeast: put a film on and let him sleep through it
 rorschachMost: a slap
 rorschachHigh: a flung bucket of water
 rorschachMid: a thorn bush

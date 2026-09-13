@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: bitter-roasted-kidney
 lastUpdated: 
 bean: kidney
@@ -13,36 +13,33 @@ creature: indian peafowl
 dish: Kidney beans roasted with ancho, coffee, and cacao.
 friendlyBeans: [mung, butter]
 friendlyForm: fermented
-antiTriple: sour-smoked-black
-antiBeans: [edamame, fava]
-antiForm: dried
 seasonalFortune: "A season of ancho and coffee smoke: the bean carries its colour where everyone can see it."
-fortuneMost: Pride grows until it needs an audience to stand up.
-fortuneHigh: A peafowl opens the whole tail whether anybody looks or not.
-fortuneMid: Take the credit plainly.
-fortuneLow: Say somebody else did it.
-fortuneLeast: Nobody minds a modest person.
+fortuneMost: A room that hasn't heard the story yet is hard to leave.
+fortuneHigh: Speak up for your own work.
+fortuneMid: The peafowl crosses the lawn with its tail down, and still nobody looks at anything else.
+fortuneLow: Let somebody else do the telling.
+fortuneLeast: Some of the best things ever made have nobody's name on them.
 facetMostTitle: Beanymandias
-facetMost: Your brother's passed his electrician's tickets after four years of night school and the table's all asking him about it. You did the same course years back, in half the time, with nobody paying for it. You start on yours.
-facetMostAction: You start on yours.
+facetMost: You and three friends spent three years getting the skate park built, and most of the fundraising was yours. The contractor pouring the last slab says you can put one line in the wet concrete before it sets. The four of you agreed the line would be the year it opens. You write your own name in instead.
+facetMostAction: You write your own name in instead.
 facetHighTitle: Pride and Beanjudice
-facetHigh: You spent a summer building the kennel runs at the shelter, on your own, with money you raised. A couple are being shown round, the girl on the desk has told them a contractor did the outside, and nobody's asked you anything. You tell them it was you.
-facetHighAction: You tell them it was you.
+facetHigh: The dish everybody orders at the restaurant where you cook is one you wrote. A food writer has come through to the pass and the owner is telling her he came up with it. He's next to you, and he decides whether you work next week. You tell her you wrote it.
+facetHighAction: You tell her you wrote it.
 facetMidTitle: The Pride of the Beankees
-facetMid: The lido's reopening after eleven years shut, and you were one of about thirty who cleared the pool, painted the block and chased the money. The woman organising the day says the board going up by the gate is being engraved this week, and that no names are going on it. You ask her to put yours on.
-facetMidAction: You ask her to put yours on.
+facetMid: You started the under-13s football team yourself and you're there every Saturday morning. A mother watching from the side says how good it is that the club put a team on for the younger ones. There's no club — you book the pitch, you buy the bibs, and nobody has ever offered to help. You tell her there's no club, just you.
+facetMidAction: You tell her there's no club, just you.
 facetLowTitle: The Perks of Being a Beanflower
-facetLow: You cooked for the eight of you on the last night away, a mutton curry you'd had on since two, and one of them says it's the best thing she's eaten all year. You tell her it's your mum's recipe.
-facetLowAction: You tell her it's your mum's recipe.
-facetLeastTitle: Beanobody
-facetLeast: The chair you made is lot forty-one at the charity sale and the auctioneer has your name and where you trained in the book in front of him; he says saying it will put a couple of hundred on the price. You tell him to put it down as anonymous.
+facetLow: The rehoming place had written the dog off — sent back by three families, and nobody could get him near a car. You've had him since winter and he'll walk past anything now. The woman who runs the place has first-time fosterers in to meet him, tells them she'd given up on him, and asks how you did it. You tell them it was mostly the dog.
+facetLowAction: You tell them it was mostly the dog.
+facetLeastTitle: The Remains of the Bean
+facetLeast: The chair you made is lot forty-one at the charity sale, and the auctioneer has your name and where you trained in the book in front of him. He says reading that out will put a couple of hundred on the price. You tell him to put it down as anonymous.
 facetLeastAction: You tell him to put it down as anonymous.
-question: You want the contract this table is deciding on, and somebody asks what you've built. The bridge everyone here drove over is yours. You...
-answerMost: walk them to the window to look at it
-answerHigh: say you built it, and how long the span took
-answerMid: name the firm and let them work it out
-answerLow: call yourself an engineer
-answerLeast: make out you did a bit of the paperwork on it
+question: You want the mechanic's job at the bike shop. Hanging over the counter is a bike you rebuilt yourself one winter, working from videos. The owner stops under it, says whoever did this knew what they were doing, and asks what you've worked on. You...
+answerMost: tell him it's yours, and that he'd be lucky to get you
+answerHigh: say you built it, and what it looked like when you got it
+answerMid: say it's your bike
+answerLow: mention that you do your own repairs
+answerLeast: ask when he'd want someone to start
 rorschachMost: a triumphal arch
 rorschachHigh: a stag in bracken
 rorschachMid: a rosette on a lapel

@@ -10,11 +10,8 @@ inverse: imperceptive
 quote: The intuitive bean is a sacred gift and the rational bean is a faithful servant.
 creature: siamese cat
 dish: Dosa batter of fermented mung with fenugreek and curry leaf.
-friendlyBeans: [kidney, butter]
+friendlyBeans: [butter, chickpea]
 friendlyForm: smoked
-antiTriple: sour-dried-edamame
-antiBeans: [navy, black]
-antiForm: fried
 seasonalFortune: "A season of curry leaf and unexplained knowing — the batter rises before the kitchen decides it should."
 fortuneMost: The siamese cat stares at the empty corner until you look too.
 fortuneHigh: You'll know before you're told.

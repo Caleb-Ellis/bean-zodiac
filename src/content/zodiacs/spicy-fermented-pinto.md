@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: spicy-fermented-pinto
 lastUpdated: 
 bean: pinto
@@ -11,33 +11,35 @@ inverse: stolid
 quote: Nothing endures but bean.
 creature: anole
 dish: Pinto beans fermented with chile and lime.
-friendlyBeans: [chickpea, mung]
+friendlyBeans: [chickpea, fava]
 friendlyForm: roasted
-antiTriple: sweet-dried-black
-antiBeans: [navy, kidney]
-antiForm: boiled
 seasonalFortune: "A season of chile and lime — the mash changes its mind weekly and never explains."
-fortuneMost: Change with every hour and nobody can plan around it.
-fortuneHigh: An anole changes colour with the branch it is on.
-fortuneMid: Flexibility beats a fixed plan.
-fortuneLow: Stay as you were.
-fortuneLeast: Stolid people are restful to work with.
-facetMostTitle: Beanaprice
-facetMost: The plan made at the start of the week is gone by the middle of it and the new one is genuinely better, and so is the one that replaces that by the weekend.
-facetHighTitle: Mercury Beaning
-facetHigh: A staircase stands in the middle of that field and goes somewhere different depending on the light. You have been up it four times this month, and never twice to the same place.
-facetMidTitle: Mood Beans
-facetMid: The holiday was booked for the coast. You have found something better inland. You change the lot and tell everybody the new one will be worth it, and you are right.
-facetLowTitle: Stone-Faced Bean
-facetLow: The route was decided and there is a nicer way that adds twenty minutes to it and you can see the turning for that road from where you are sitting in the car. You go the way that was decided and say nothing about the turning.
-facetLeastTitle: Like Beanwork
-facetLeast: You have been in the same mood since the start of the week and nothing has changed and nothing is going to.
-question: On Monday you told them the trip was Whitby. It's Thursday and you've thought of Northumberland instead. You...
-answerMost: switch it to Northumberland, and switch it again if Friday brings better
-answerHigh: switch it, because Northumberland is genuinely the better trip
-answerMid: put Northumberland to them and let them choose
-answerLow: keep Whitby, and save Northumberland for next time
-answerLeast: hold to Whitby because Whitby is what you said
+fortuneMost: Change your mind often enough and people will stop asking for it.
+fortuneHigh: Go where the mood takes you.
+fortuneMid: A green anole turns brown when it's stressed, and green again once it's forgotten why.
+fortuneLow: A passing mood doesn't need acting on.
+fortuneLeast: There's nothing dull about staying the same.
+facetMostTitle: The Beanmitments
+facetMost: You started the band and named it, and tonight's its first gig, with the room already filling up. Soundcheck went fine and nobody's fallen out. You've just gone off the whole idea. You tell your bandmates you're quitting.
+facetMostAction: You tell your bandmates you're quitting.
+facetHighTitle: Tears for Beans
+facetHigh: You're giving the eulogy at your grandfather's funeral, crying too hard to read the second page. Then you remember him falling into the pond at your cousin's wedding, still holding his drink. You start laughing, and tell everyone about the pond.
+facetHighAction: You start laughing, and tell everyone about the pond.
+facetMidTitle: Karma Chamebean
+facetMid: It's the last night of your pottery class, and after weeks of lopsided attempts you've finally thrown a bowl worth keeping. The teacher calls everyone over to look at it. Now you've gone off bowls. You squash it and start a vase.
+facetMidAction: You squash it and start a vase.
+facetLowTitle: Clifford the Big Red Bean
+facetLow: You've come to the animal shelter to take home the quiet old greyhound you haven't stopped thinking about all week. On the way past the kennels a scruffy terrier puppy flings itself at its door, and you fall for it on the spot. You sign the forms for the greyhound.
+facetLowAction: You sign the forms for the greyhound.
+facetLeastTitle: Who Wants to Be a Beanionaire?
+facetLeast: You've just won the top prize on a TV quiz show. The audience is on its feet, the floor manager behind the camera is waving both arms at you to jump about, and the host asks how it feels. You tell him "very pleased, thank you".
+facetLeastAction: You tell him "very pleased, thank you".
+question: What's your hair been like over the last few years?
+answerMost: shaved off at two in the morning, then regretted
+answerHigh: pink, then black, then pink again
+answerMid: one big change a year, then left alone
+answerLow: the same cut, a bit shorter in summer
+answerLeast: exactly how it was at school
 rorschachMost: a splash
 rorschachHigh: a shaken rug
 rorschachMid: a crumpled letter

@@ -13,9 +13,6 @@ creature: african elephant
 dish: Chickpeas stewed with escarole, garlic, and a bitter Campari finish.
 friendlyBeans: [adzuki, kidney]
 friendlyForm: roasted
-antiTriple: sour-fermented-edamame
-antiBeans: [fava, green]
-antiForm: fried
 seasonalFortune: "A season of escarole and long routes — nothing comes to the pot it hasn't cooked before, and the flavour is flatter for it."
 fortuneMost: Knowing how it ends is a poor way to watch it.
 fortuneHigh: The matriarch elephant leads the herd to a water hole she last drank from thirty years ago.

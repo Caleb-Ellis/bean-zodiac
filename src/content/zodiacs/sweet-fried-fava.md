@@ -13,9 +13,6 @@ creature: african buffalo
 dish: Fava fried and dipped in honey syrup.
 friendlyBeans: [kidney, green]
 friendlyForm: fermented
-antiTriple: umami-dried-navy
-antiBeans: [black, adzuki]
-antiForm: boiled
 seasonalFortune: "A season of hot oil and honey syrup — the pan takes the heat, and what comes out of it is for somebody else."
 fortuneMost: A rescue with an audience is a performance.
 fortuneHigh: An African buffalo will turn the whole herd for one of its own.
@@ -32,8 +29,8 @@ facetMidTitle: Sir Beanalot
 facetMid: Eight of you are sitting down to eat and the one nobody wants to sit next to has come on his own and is standing there with his coat still on. The two seats left are at either end. You take the one beside him.
 facetMidAction: You take the one beside him.
 facetLowTitle: Play It Bean
-facetLow: The lifeboat station on the front does an open evening once a month, and the crew walk you through the whole launch — the tractor, the ramp, the pagers on the wall that go off at any hour. One of them asks whether you would put your name down, and holds out the form. You take it and tell him you'll read it properly first.
-facetLowAction: You take it and tell him you'll read it properly first.
+facetLow: The lifeboat station on the front does an open evening once a month, and the crew walk you through the whole launch — the tractor, the ramp, the pagers on the wall that go off at any hour. One of them asks whether you would be interested, and holds out a form. You tell him you'll have to read about it a bit more first.
+facetLowAction: You tell him you'll have to read about it a bit more first.
 facetLeastTitle: Beanty First
 facetLeast: You have bought bread from the same stall for years, and the woman who runs it has shown you the back of it — the float, the sale-or-return crates, what a pitch costs her a week. She is away for a month in the spring and asks you to run it. You tell her to ask somebody who has done it before.
 facetLeastAction: You tell her to ask somebody who has done it before.

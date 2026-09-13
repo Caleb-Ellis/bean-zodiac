@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: umami-dried-kidney
 lastUpdated: 
 bean: kidney
@@ -12,37 +12,34 @@ quote: The bean that burns twice as bright burns half as long.
 creature: collie
 dish: Dried kidney beans with aged ham hock.
 friendlyBeans: [mung, navy]
-friendlyForm: fermented
-antiTriple: sour-smoked-fava
-antiBeans: [pinto, butter]
-antiForm: roasted
+friendlyForm: boiled
 seasonalFortune: "A season of aged ham hock and long keeping — the store is still where you left it."
-fortuneMost: Stay loyal past the evidence and the loyalty does the damage.
-fortuneHigh: A collie waits at the same gate every evening.
-fortuneMid: Faithfulness is rarer than people admit.
-fortuneLow: Ask the awkward question about them.
-fortuneLeast: Walking away is sometimes the loyal act.
+fortuneMost: Believe in somebody long enough and you stop hearing what they tell you.
+fortuneHigh: Stay where you said you'd be.
+fortuneMid: A collie will go back for the one that wandered off.
+fortuneLow: Some people don't come back.
+fortuneLeast: It's no betrayal to leave something that's finished.
 facetMostTitle: "Hachi: A Bean's Tale"
-facetMost: Your friend's been taken in over money missing from the swimming club she's treasurer of. She showed you her own statement in the spring and there were two withdrawals on it you couldn't make sense of. The officer asks whether anybody else had access to the account. You tell him you'd put your house on her.
-facetMostAction: You tell him you'd put your house on her.
-facetHighTitle: Marley & Bean
-facetHigh: Twelve of you walked out when they sacked the man on the forklift, and nine went back in this morning. The letter taped to the shutter says anybody not through the gate by noon doesn't come back at all. At half eleven the supervisor comes out to the two of you with a list of who's returning. You tell him to take your name off it.
+facetMost: Your friend has been taken in over money missing from the swimming club she's treasurer of. In the spring she showed you her bank account, and there were payments in from the club that she scrolled past. The officer taking your statement asks who else could get at the club's money. You say he's got the wrong person.
+facetMostAction: You say he's got the wrong person.
+facetHighTitle: I Am Beanacus
+facetHigh: Everyone on your shift walked out when they sacked the man on the forklift who got you taken on. Most went back in this morning. The letter on the shutter says anybody not through the gate by noon doesn't come back. The supervisor brings out a list of who's returning with your name already on it. You tell him to take your name off it.
 facetHighAction: You tell him to take your name off it.
 facetMidTitle: Stand By Your Bean
-facetMid: Five of you in the pub and the talk's gone onto a friend who isn't here — the money he still owes two of them, the state he got into at your birthday. None of it's untrue. You tell them he drove you to the hospital every night for six weeks the year your dad was ill.
-facetMidAction: You tell them he drove you to the hospital every night for six weeks the year your dad was ill.
-facetLowTitle: The Judas Bean
-facetLow: Your friend runs the ghost walk, and between stops she's shown you how it's done — the two doorways the owners let her use, the bit about the drowned girl she invented that's now in the local paper as fact. At the end a man off the walk asks you, not her, whether any of it's true. You tell him she makes most of it up.
-facetLowAction: You tell him she makes most of it up.
+facetMid: The woman who's cut your hair for years has worked out that your brother is the man who never paid her husband back. She's got plenty more — the state of his garden, the night the police came. None of it is untrue. You tell her he paid your rent for a year when you had nothing coming in.
+facetMidAction: You tell her he paid your rent for a year when you had nothing coming in.
+facetLowTitle: The Man Who Shot Liberty Beanance
+facetLow: A friend runs a ghost walk and between stops has shown you how it's done — the drowned girl she invented is now in the local paper as fact. At the end a man on the walk asks you, not her, whether any of it's true. You tell him the drowned girl never existed.
+facetLowAction: You tell him the drowned girl never existed.
 facetLeastTitle: Et Tu, Bean?
-facetLeast: You and a friend have done the sound for weddings together for six years and split everything down the middle. At the reception the groom's brother, who books about forty of them a year, says he'd put all forty your way if you were on your own. Your friend's twenty feet off at the bar. You tell him yes.
-facetLeastAction: You tell him yes.
-question: Thirty years ago you promised your friend's mother you'd keep an eye on him. He hasn't spoken to you since March. You...
-answerMost: keep going round, whatever he says at the door
-answerHigh: ring him on the Sundays, as you always have
-answerMid: send word once a month and leave it open
-answerLow: wait for him to come back to you
-answerLeast: count the promise finished
+facetLeast: You and a friend have done wedding sound for six years, split down the middle. Lately you load the van and set up alone while he turns up for the speeches. He's over at the bar. The groom's brother books weddings for a hotel group, and says he'd send them all your way if you worked alone. You shake his hand on it.
+facetLeastAction: You shake his hand on it.
+question: You and your oldest friend spent three summers on a wooden boat you meant to sail — he did the engine, you did the hull. He moved abroad in the spring and stopped answering. The yard wants it gone within the month. You...
+answerMost: keep paying the yard and carry on sanding it alone
+answerHigh: move the whole boat home yourself
+answerMid: keep the engine for him
+answerLow: let the yard take it
+answerLeast: sell it for what you can get
 rorschachMost: a graveside dog
 rorschachHigh: a worn ring
 rorschachMid: a window lamp

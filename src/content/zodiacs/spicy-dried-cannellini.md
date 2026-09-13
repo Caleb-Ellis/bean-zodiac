@@ -11,11 +11,8 @@ inverse: erratic
 quote: Bean or bean not. There is no try.
 creature: skunk
 dish: Dried cannellini with peperoncino and dried garlic.
-friendlyBeans: [edamame, navy]
+friendlyBeans: [navy, edamame]
 friendlyForm: smoked
-antiTriple: umami-roasted-chickpea
-antiBeans: [adzuki, green]
-antiForm: fermented
 seasonalFortune: "A season of dried garlic and straight answers — every jar labelled, and every label right."
 fortuneMost: If you can't be wrong, you can't be told.
 fortuneHigh: A skunk only has to warn a fox once.

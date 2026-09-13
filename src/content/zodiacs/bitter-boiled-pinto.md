@@ -1,7 +1,7 @@
 ---
 # TODO: check all
 slug: bitter-boiled-pinto
-lastUpdated: 
+lastUpdated:
 bean: pinto
 flavour: bitter
 form: boiled
@@ -13,15 +13,12 @@ creature: giant pacific octopus
 dish: Pinto beans simmered with epazote and burnt orange peel.
 friendlyBeans: [fava, black]
 friendlyForm: roasted
-antiTriple: sweet-dried-butter
-antiBeans: [navy, edamame]
-antiForm: smoked
 seasonalFortune: "A season of epazote and burnt peel — nothing that goes into the pot comes back out, and the broth goes on darkening."
 fortuneMost: The giant Pacific octopus stops eating when the eggs come, and stays with them to the end.
-fortuneHigh: Go back over the worst of it.
-fortuneMid: A bad mood can be good company.
-fortuneLow: Most of it loses its grip on its own.
-fortuneLeast: Plenty of people wake up and find it gone.
+fortuneHigh: Stew a bit more.
+fortuneMid: Misery loves company.
+fortuneLow: Time heals all wounds.
+fortuneLeast: Let yesterday be yesterday, and today be today.
 facetMostTitle: Beanchester by the Sea
 facetMost: You and four others from the drawing class put work in for the show at the town gallery, and the letter saying yours wasn't taken has been on your table three weeks. You still haven't answered anybody about it. The opening is tonight, and one of them has kept a ticket for you at the door. You sit down with the letter and read it through again.
 facetMostAction: You sit down with the letter and read it through again.
@@ -32,8 +29,8 @@ facetMidTitle: The Go-Beantween
 facetMid: Your old school is being pulled down in the autumn and today is the last day they're letting anybody walk round it. The class photographs are still up along the corridor, including the year you spent two terms not speaking to anyone in it. Your friend has gone on ahead to find the hall. You stay at the photograph and find yourself in it.
 facetMidAction: You stay at the photograph and find yourself in it.
 facetLowTitle: The Big Beanowski
-facetLow: You're helping out with a friend's theatre company, and the woman who cut your part last year is stage-managing it. Twenty minutes before the curtain, in the wings, with the sofa for the first scene stacked in beside you, she apologises properly for how she did it. You say it stopped mattering a long time ago, and pick up your end of the sofa.
-facetLowAction: You say it stopped mattering a long time ago, and pick up your end of the sofa.
+facetLow: You're helping out with a friend's theatre company, and the person stage-managing it is the one who cut your part last year. It was sudden and quite a shock when it happened. Twenty minutes before the curtain, she apologises properly for how she did it. You say it stopped mattering a long time ago.
+facetLowAction: You say it stopped mattering a long time ago.
 facetLeastTitle: No Hard Beanings
 facetLeast: Somebody you shared a flat with six years ago has driven a long way, taken a room overnight, and asked you to meet her at the hotel breakfast so she can apologise for how it ended. It did end badly, and you haven't thought about it in years. She's clearly been working on the wording. You tell her that, and ask what she's doing now.
 facetLeastAction: You tell her that, and ask what she's doing now.

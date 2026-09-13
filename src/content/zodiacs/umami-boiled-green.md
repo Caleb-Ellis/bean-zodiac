@@ -13,9 +13,6 @@ creature: sooty tern
 dish: Green bean ohitashi in dashi with sesame.
 friendlyBeans: [kidney, fava]
 friendlyForm: fried
-antiTriple: sweet-dried-cannellini
-antiBeans: [edamame, butter]
-antiForm: smoked
 seasonalFortune: "A season of sesame and deep dashi — the stock keeps giving, and the last bowl tastes the same as the first."
 fortuneMost: An uncovered well gets drunk dry by people who were never thirsty.
 fortuneHigh: Say yes to the next one too.

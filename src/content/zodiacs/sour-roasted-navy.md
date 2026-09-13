@@ -13,9 +13,6 @@ creature: blackbird
 dish: Roasted navy beans with parsley, oregano, and vinegar.
 friendlyBeans: [black, cannellini]
 friendlyForm: boiled
-antiTriple: spicy-smoked-fava
-antiBeans: [pinto, green]
-antiForm: fermented
 seasonalFortune: "A season of oregano and raised voices — the roasting tray spits at anything that touches it."
 fortuneMost: Shout about it and all anyone will remember is the shouting.
 fortuneHigh: The blackbird scolds the cat from the fence until it leaves.

@@ -13,9 +13,6 @@ creature: basset hound
 dish: Butter beans roasted in rendered lardo with sage.
 friendlyBeans: [adzuki, chickpea]
 friendlyForm: fermented
-antiTriple: spicy-dried-cannellini
-antiBeans: [fava, kidney]
-antiForm: fried
 seasonalFortune: "A season of rendered lardo and sage — the smell gets out to the street, and nobody walks past without saying something."
 fortuneMost: Shake enough hands and you'll leave without having talked to anybody.
 fortuneHigh: Be the one who says hello first.

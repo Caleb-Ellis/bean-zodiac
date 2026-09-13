@@ -10,11 +10,8 @@ inverse: unambiguous
 quote: Tell all the truth but tell it beaned.
 creature: firefly
 dish: Smoked pinto beans cured with lime over pecan.
-friendlyBeans: [fava, butter]
+friendlyBeans: [fava, adzuki]
 friendlyForm: roasted
-antiTriple: spicy-fried-chickpea
-antiBeans: [kidney, edamame]
-antiForm: boiled
 seasonalFortune: "A season of pecan smoke and half-said things — the flavour hints, and the hint lands later."
 fortuneMost: Say it well enough and nobody will know you said it.
 fortuneHigh: Offer the fuzzy version.

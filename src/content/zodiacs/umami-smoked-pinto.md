@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: umami-smoked-pinto
 lastUpdated:
 bean: pinto
@@ -11,33 +11,35 @@ inverse: blank
 quote: Wherever you go, there you bean.
 creature: heron
 dish: Hickory-smoked pinto beans with pork shoulder.
-friendlyBeans: [fava, black]
+friendlyBeans: [fava, adzuki]
 friendlyForm: roasted
-antiTriple: sweet-dried-mung
-antiBeans: [kidney, butter]
-antiForm: boiled
 seasonalFortune: "A season of pork shoulder and hanging haze — the evening acquires a mood nobody chose."
-fortuneMost: Atmosphere thick enough and nobody can find the door.
-fortuneHigh: A heron stands in the mist and is part of it.
-fortuneMid: Mood carries what argument cannot.
-fortuneLow: State the plain fact.
-fortuneLeast: A blank wall rests the eye.
+fortuneMost: Too much mood, and nobody remembers what they came for.
+fortuneHigh: Let the smoke reach the street before the guests do.
+fortuneMid: A heron stands so still in the mist it becomes part of the weather.
+fortuneLow: Good news doesn't need a backdrop.
+fortuneLeast: A bare table has room for whatever anybody brings.
 facetMostTitle: The Beanfog
-facetMost: The room you arranged had a mood in it before anybody spoke and they stayed two hours longer than they meant to. There was almost nothing to eat.
+facetMost: You've booked your dad's birthday party in an old lighthouse on the headland, lit only by candles. It's down a single-track road with no phone signal, and most of his friends are in their seventies. Your sister wants it moved to the restaurant in town while there's still time. You keep the lighthouse.
+facetMostAction: You keep the lighthouse.
 facetHighTitle: Bean Runner
-facetHigh: Fog fills one house on that road and never the empty one beside it. Nobody local will say why. You go and stand at the gate of it in the evenings and watch the windows for as long as the light lasts.
+facetHigh: You're driving a rented car back from a wedding late at night in the rain, friends dozing in the back. The friend in the passenger seat puts the radio on, a late-night football show. You change it to a slow album.
+facetHighAction: You change it to a slow album.
 facetMidTitle: Picnic at Hanging Bean
-facetMid: The playlist for the evening has taken you longer than the food did and does exactly the thing you wanted it to do. Not one person in that room notices, and the evening is nonetheless the better for it.
+facetMid: It's a friend's birthday picnic in the park, and as the sun goes down people start talking about heading off. You brought a bag of jam jars and tea lights just in case. You light them along the edge of the blanket.
+facetMidAction: You light them along the edge of the blanket.
 facetLowTitle: Blank Bean Space
-facetLow: The room needs to work for twelve people to sit and eat in. You put the chairs where the chairs go.
+facetLow: Your new flatmate has moved in with a tapestry, a dried-flower garland and a stack of framed prints, all for the big bare wall in the living room. She asks what you think. You say you like it bare.
+facetLowAction: You say you like it bare.
 facetLeastTitle: White Bean Room
-facetLeast: A room with strip lighting and eleven stackable chairs does exactly what is needed. You use the place as it is. Everybody gets what they came for and is out by half eight.
-question: Six people are coming at eight and you've an hour in an ordinary front room. You...
-answerMost: get the mood exactly right and forget there's nothing to eat
-answerHigh: arrange the room so it has a mood in it before anybody speaks
-answerMid: put the lamps on and clear the table
-answerLow: get the chairs in and the food out
-answerLeast: leave the room as it is and open the wine
+facetLeast: You've booked the room upstairs at a restaurant for your leaving drinks, and the manager's showing you round. There's a panel of dimmer settings, candles for every table and a playlist he's put together. All you want is for people to be able to hear each other. You ask for the lights up and the music off.
+facetLeastAction: You ask for the lights up and the music off.
+question: You're choosing a flat to rent, and they're all the same price. Which one do you take?
+answerMost: the attic in an old house, with sloping ceilings and no heating
+answerHigh: an old top floor with creaky boards and a view over the rooftops
+answerMid: an ordinary one, but with a window seat
+answerLow: the one nearest work, with a decent kitchen
+answerLeast: a brand-new one with white walls and plenty of storage
 rorschachMost: a fog bank
 rorschachHigh: a smoky bar
 rorschachMid: a lit lantern

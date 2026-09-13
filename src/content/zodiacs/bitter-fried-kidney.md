@@ -11,11 +11,8 @@ inverse: flexible
 quote: Here I bean; I can do no other.
 creature: snapping turtle
 dish: Kidney beans crisped in bacon fat with burnt onion and cayenne.
-friendlyBeans: [navy, chickpea]
+friendlyBeans: [navy, cannellini]
 friendlyForm: boiled
-antiTriple: sour-smoked-butter
-antiBeans: [edamame, cannellini]
-antiForm: fermented
 seasonalFortune: "A season of burnt onion and bacon fat — the pan takes its position early and nothing in it moves after."
 fortuneMost: Win them all and you'll have nobody left to disagree with.
 fortuneHigh: A snapping turtle keeps hold, and lets the rest of itself be lifted out of the water.

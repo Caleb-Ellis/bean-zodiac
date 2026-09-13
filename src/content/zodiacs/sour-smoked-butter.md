@@ -13,9 +13,6 @@ creature: kangaroo rat
 dish: Smoked butter beans cured in lemon and olive oil.
 friendlyBeans: [black, cannellini]
 friendlyForm: boiled
-antiTriple: spicy-fried-pinto
-antiBeans: [green, adzuki]
-antiForm: roasted
 seasonalFortune: "A season of lemon and cold smoke — one lemon does the whole dish and nothing goes in the bin."
 fortuneMost: Save enough on a present and it stops being one.
 fortuneHigh: A kangaroo rat never drinks. It gets its water out of dry seeds.

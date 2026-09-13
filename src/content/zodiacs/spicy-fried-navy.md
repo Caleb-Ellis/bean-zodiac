@@ -10,11 +10,8 @@ inverse: unassertive
 quote: Make it bean.
 creature: silverback
 dish: Navy beans fried with hot paprika and bacon.
-friendlyBeans: [cannellini, adzuki]
+friendlyBeans: [cannellini, mung]
 friendlyForm: dried
-antiTriple: bitter-smoked-butter
-antiBeans: [green, fava]
-antiForm: fermented
 seasonalFortune: "A season of hot paprika and given orders: the bean runs the kitchen for a while."
 fortuneMost: If you take control, you will have to see it through to the end.
 fortuneHigh: The silverback settles it by standing up.

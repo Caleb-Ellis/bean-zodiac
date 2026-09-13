@@ -1,7 +1,7 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: bitter-smoked-black
-lastUpdated: 
+lastUpdated:
 bean: black
 flavour: bitter
 form: smoked
@@ -11,33 +11,35 @@ inverse: legible
 quote: A riddle wrapped in a mystery inside a bean.
 creature: giant squid
 dish: Black beans smoked over binchotan with dried avocado leaf.
-friendlyBeans: [cannellini, mung]
+friendlyBeans: [mung, edamame]
 friendlyForm: fermented
-antiTriple: spicy-roasted-green
-antiBeans: [pinto, kidney]
-antiForm: fried
 seasonalFortune: "A season of binchotan and closed answers: the bean darkens and explains nothing about the darkening."
-fortuneMost: Nobody saw a live giant squid until this century.
-fortuneHigh: Let them guess.
-fortuneMid: You don't have to explain yourself.
-fortuneLow: Say what you think for once.
-fortuneLeast: An easy person to read is easy to like.
+fortuneMost: Stay unreadable long enough and somebody will make you up.
+fortuneHigh: The giant squid marks every whale it fights, and is never once seen doing it.
+fortuneMid: A shrug covers most questions.
+fortuneLow: Tell somebody how it actually went.
+fortuneLeast: The cook you trust is the cook who tells you what's in it.
 facetMostTitle: Mulholland Bean
-facetMost: Two hours into the drive and your passenger has run out of things to fill the silence with, and has started glancing over. Eventually she asks outright whether you are annoyed with her. You say no, and you give her absolutely nothing else to work with.
+facetMost: The two of you took the flat together three weeks ago. Your partner has been offered a job in Lisbon and has to answer tonight. She'll turn it down if you ask, and says she can't tell what you want. You tell her it's a good job and she should take it.
+facetMostAction: You tell her it's a good job and she should take it.
 facetHighTitle: The Beanstige
-facetHigh: Your face gives away nothing at all across the table, and the other side has stopped talking about the price and started talking about the delivery date instead.
+facetHigh: A year at the camera club, and the judge is going along the wall saying what's wrong with each print. At yours he says the horizon is crooked, and moves on. Your dad gave you the camera and is at the back watching you. You ask the judge which print on the wall he'd hang at home.
+facetHighAction: You ask the judge which print on the wall he'd hang at home.
 facetMidTitle: Poker Bean
-facetMid: The interviewer asks why you left the last place, and leans back to wait it out. You answer the question exactly, and nothing in the answer invites another one.
-facetLowTitle: An Open Bean
-facetLow: Your daughter brings the boyfriend round for the first time and asks you afterwards, in the kitchen, what you made of him. It was written all over your face an hour before she asked.
+facetMid: You spent most of a friend's birthday party talking to her flatmate. Your friend finds you at the market on Sunday and says he's asked her whether you'd be interested, and that she's going back to him either way. You say he seemed nice.
+facetMidAction: You say he seemed nice.
+facetLowTitle: The Beanman Show
+facetLow: Your friend has understudied the part all season and went on for the first time tonight. She's got you in past the stage door, still shaking, asking how the second act looked from out front. You tell her you were crying by the end of it.
+facetLowAction: You tell her you were crying by the end of it.
 facetLeastTitle: Clear and Present Beanger
-facetLeast: Everybody in the room can tell you have had bad news, because you have told the first three people you saw and the fourth could see it coming across the car park.
-question: For one hour a day your face shows exactly what you're feeling, and you never know which hour it will be. You...
-answerMost: stay in on your own until you're sure it has passed
-answerHigh: carry on as normal and let the hour fall where it falls
-answerMid: keep the difficult conversations for later in the day
-answerLow: tell people about it so they'll understand
-answerLeast: enjoy it, and hope somebody catches you in it
+facetLeast: Two other families were after the dog, and the rescue centre said they'd ring today. The call comes while you're at the post office counter with a parcel, five people behind you. You come off the phone and tell the man serving you that you got the dog.
+facetLeastAction: You come off the phone and tell the man serving you that you got the dog.
+question: You want to pass this time — third test, and the lessons have eaten the summer. The examiner has just failed you on the roundabout. Your housemate drove you here and is watching you cross the car park, working out how it went. You...
+answerMost: get in and ask her what she wants for lunch
+answerHigh: say you failed, and that the examiner was fair about it
+answerMid: tell her it was the roundabout, and that it's annoying
+answerLow: say you don't think you'll ever pass this
+answerLeast: swear out loud halfway across the car park
 rorschachMost: a sealed vault door
 rorschachHigh: two hunched figures
 rorschachMid: a shuttered kiosk

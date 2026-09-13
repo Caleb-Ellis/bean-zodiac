@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: umami-fried-navy
 lastUpdated:
 bean: navy
@@ -11,38 +11,35 @@ inverse: uncertain
 quote: The buck beans here.
 creature: condor
 dish: Navy bean croquettes with bacon dashi.
-friendlyBeans: [adzuki, cannellini]
+friendlyBeans: [chickpea, adzuki]
 friendlyForm: boiled
-antiTriple: bitter-smoked-fava
-antiBeans: [butter, green]
-antiForm: fermented
 seasonalFortune: "A season of bacon dashi and settled matters — the croquette decides and the kitchen agrees."
-fortuneMost: Decide everything and eventually the questions stop coming.
-fortuneHigh: A condor holds the thermal nobody else can reach.
-fortuneMid: The final word is worth giving plainly.
+fortuneMost: Always have the last word and eventually there'll be nobody left to say it to.
+fortuneHigh: When the condor lands, the smaller vultures make room.
+fortuneMid: If you know, say so.
 fortuneLow: Ask what they think.
-fortuneLeast: Uncertainty spoken out loud invites better answers.
+fortuneLeast: There's no shame in saying you don't know.
 facetMostTitle: The Beantator
-facetMost: Nine of you out looking for a man who's walked off the ward in his slippers, and you're the only one who has done a search before. The woman who farms the hill has said twice that he'll have gone down to the reservoir, because they all do. You send them all up the track.
-facetMostAction: You send them all up the track.
+facetMost: You've cut a friend's hair in your kitchen for years, and it's her wedding day. She shows you a photo of the heavy fringe she wants. The last fringe she had took her ages to grow out. You tell her she isn't having a fringe.
+facetMostAction: You tell her she isn't having a fringe.
 facetHighTitle: Air Force Bean
-facetHigh: The forecast has turned, there are six of you aboard, and there's forty minutes of water left over the bar before it shuts for the night. Two of them want to run for the harbour and two want to stand off, and you've done this passage eleven times. You tell them you're standing off till light.
-facetHighAction: You tell them you're standing off till light.
-facetMidTitle: The Last Bean Word
-facetMid: Your gran's been in nine days and they want the bed, and your mum and your aunt have been going round it since two o'clock; you're the one who's been in every day and watched her try the stairs. You tell them she's not going home.
-facetMidAction: You tell them she's not going home.
-facetLowTitle: The Beancertainty Principle
-facetLow: You've mended these machines for twenty years and your friend's brought his mum's in on the counter, and the man behind it asks you straight out whether it's worth doing; the bearing's gone and you know what that costs. You tell him to get it quoted properly.
-facetLowAction: You tell him to get it quoted properly.
+facetHigh: Somewhere over the ocean, the man across the aisle has gone grey and sweaty and stopped making sense. The crew have asked for a doctor, and nobody has come forward. Your dad has had diabetes your whole life. You tell the crew he needs sugar.
+facetHighAction: You tell the crew he needs sugar.
+facetMidTitle: Driving Miss Beanie
+facetMid: A friend is driving you both through the town you grew up in to catch the last ferry, and it's going to be close. The map on her phone says turn left at the lights. You tell her it's quicker to go right.
+facetMidAction: You tell her it's quicker to go right.
+facetLowTitle: 12 Angry Beans
+facetLow: You're on a jury, and a man's trial has come down to whether the witness in the flat below could really have heard the argument through her ceiling. You've lived in a block just like it for years, and the rest of the jury turn to you. You tell them she probably could have, but you wouldn't swear to it.
+facetLowAction: You tell them she probably could have, but you wouldn't swear to it.
 facetLeastTitle: Who's the Bean?
-facetLeast: The four of you are round the table and the solicitor has asked what's happening to the house, and she can tell you what the will allows but not what to do. You're the one your dad talked to about it in the last year. You tell them you'd rather they decided.
-facetLeastAction: You tell them you'd rather they decided.
-question: The room has been arguing about the damp for half an hour, and they turn to you because you've dealt with damp before. What does the room get?
-answerMost: the answer, and no room left for a second opinion
-answerHigh: the answer, and it stops arguing about the damp
-answerMid: what you'd do, and what you'd check first
-answerLow: two options to pick between
-answerLeast: a plain admission that you'd not want to guess
+facetLeast: You've looked after your sister's kids since they were small, and this week she's away and has left you in charge. Her teenage daughter asks to go to a gig across the city on a school night. Your sister would almost certainly say yes. You tell her to call her mum and ask.
+facetLeastAction: You tell her to call her mum and ask.
+question: It's your first barbecue at your partner's parents' house, and their dad is at the grill. You've cooked on one every summer for years, and the chicken he's about to serve looks underdone to you. You...
+answerMost: take the tongs and finish it yourself
+answerHigh: tell him it needs another ten minutes
+answerMid: cut a piece open and show him
+answerLow: ask him if he thinks it's done
+answerLeast: assume he knows his own barbecue
 rorschachMost: a heavy stamp
 rorschachHigh: a judge's bench
 rorschachMid: a signed order

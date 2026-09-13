@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sweet-boiled-navy
 lastUpdated: 
 bean: navy
@@ -13,36 +13,33 @@ creature: chipmunk
 dish: Boston baked navy beans simmered long with molasses.
 friendlyBeans: [cannellini, black]
 friendlyForm: dried
-antiTriple: spicy-roasted-pinto
-antiBeans: [green, fava]
-antiForm: smoked
 seasonalFortune: "A season of molasses and long baking — the pot puts away enough for later."
-fortuneMost: Store enough of it and the storing becomes the point.
-fortuneHigh: A chipmunk fills its cheeks past any sensible amount.
-fortuneMid: Having some put by is its own comfort.
-fortuneLow: Use it up.
-fortuneLeast: Spending it now is also a plan.
+fortuneMost: Save it for later long enough and later never comes.
+fortuneHigh: A chipmunk spends all autumn filling its burrow, so it never goes hungry in winter.
+fortuneMid: A little set aside makes the lean weeks easier.
+fortuneLow: The good china is meant to be used.
+fortuneLeast: Tomorrow can buy its own beans.
 facetMostTitle: Silas Marbean
-facetMost: You run the shelves at the food bank and there are ninety bags in the store room, more than there have been in a year. The family at the desk have three children, the woman asks whether there is any chance of a second bag, and she has used her last referral and cannot come back until the middle of next month. You give her the one.
-facetMostAction: You give her the one.
-facetHighTitle: Save It for a Rainy Bean
-facetHigh: The power has been off in the whole block since four and it is dark on the stairs by five. In your cupboard is a box of forty candles you bought two winters ago and have never needed. You go up all four floors knocking, with the box under your arm.
-facetHighAction: You go up all four floors knocking, with the box under your arm.
+facetMost: The dentist says your cracked back tooth needs a crown, or it'll have to come out. Your savings would cover the crown several times over, and you've never once taken money out of them. You ask her to take the tooth out.
+facetMostAction: You ask her to take the tooth out.
+facetHighTitle: The Bean and the Grasshopper
+facetHigh: There's talk that the warehouse where you work might close by summer, though the managers say it's only a rumour. Your friends there are booking a week in Greece together, and you've got your share ready. You put the money for Greece into savings.
+facetHighAction: You put the money for Greece into savings.
 facetMidTitle: Beanift Shop
-facetMid: You went in for one bulb because the one in the hall has gone, and the four-packs are eighty pence more than the single. You come out with two four-packs and put seven of them in the drawer.
-facetMidAction: You come out with two four-packs and put seven of them in the drawer.
-facetLowTitle: Easy Bean, Easy Go
-facetLow: There are no clocks anywhere in the casino, and the man at the window has changed up for the same four people all night without once looking at their faces. Your forty pounds for the night went in an hour, and the twenty-five left is the taxi home. You put twenty of it across the window.
-facetLowAction: You put twenty of it across the window.
-facetLeastTitle: Money for Beans
-facetLeast: It is your friend's birthday, there are eleven of you, the bill comes to four hundred and something which is what you have left for the rest of the month, and nobody has asked you to do anything about it. You put the whole bill on your card.
-facetLeastAction: You put the whole bill on your card.
-question: The freezer is full, there are two spares of everything in the cupboard, and the shop is a five-minute walk. What happens on the shop?
-answerMost: a third spare of everything comes back with you
-answerHigh: whatever has gone down to one spare gets replaced
-answerMid: the week's food, and one thing for the cupboard
-answerLow: just what's needed for the week
-answerLeast: the last of the flour gets used and nothing gets bought
+facetMid: A weekend festival in a field, with no cash machine on site, and the card readers at the stalls keep going down. On the first night, your friends are getting through their cash fast, and so are you. You fold one note into your shoe for Sunday.
+facetMidAction: You fold one note into your shoe for Sunday.
+facetLowTitle: The Bean After Tomorrow
+facetLow: You're at the supermarket, and the forecast says the town will be snowed in for days. People are filling their baskets with bread, tins and bottled water, and half the shelves are already empty. You buy what you need for dinner tonight.
+facetLowAction: You buy what you need for dinner tonight.
+facetLeastTitle: Dead Beans Society
+facetLeast: It's the last night of a trip to Tokyo. The tiny restaurant by your hotel, just a counter where the chef cooks whatever came in at the market that morning, has one seat free. It costs what you'd kept back to live on for your first week home. You take the seat.
+facetLeastAction: You take the seat.
+question: You've been granted three wishes, and you've already used two. What happens to the third?
+answerMost: kept forever, just in case
+answerHigh: kept for if someone you love falls ill
+answerMid: kept for a year, then spent if nothing's come up
+answerLow: spent on a year off, travelling
+answerLeast: spent before lunch, on whatever comes to mind
 rorschachMost: a piled-high trolley
 rorschachHigh: a stack of firewood
 rorschachMid: a laden apple tree

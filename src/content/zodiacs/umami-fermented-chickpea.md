@@ -13,9 +13,6 @@ creature: cattle egret
 dish: Chickpea miso aged twelve months.
 friendlyBeans: [adzuki, butter]
 friendlyForm: roasted
-antiTriple: bitter-dried-navy
-antiBeans: [black, edamame]
-antiForm: boiled
 seasonalFortune: "A season of twelve-month koji and salt — what was carried in from elsewhere comes out tasting like it was always here."
 fortuneMost: Fit in everywhere and nowhere has to take you in.
 fortuneHigh: The cattle egret crossed the Atlantic on its own, and now follows herds it had never seen for the insects they kick up.

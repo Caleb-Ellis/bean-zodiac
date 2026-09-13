@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: umami-dried-fava
 lastUpdated: 
 bean: fava
@@ -13,31 +13,33 @@ creature: cassowary
 dish: Aged dried fava with cured lardo.
 friendlyBeans: [edamame, pinto]
 friendlyForm: fermented
-antiTriple: sweet-boiled-mung
-antiBeans: [butter, chickpea]
-antiForm: smoked
 seasonalFortune: "A season of cured lardo and standing bulk — the pantry is not to be argued with."
-fortuneMost: A cassowary clears a path nobody dares to use.
-fortuneHigh: Stand where they can see you.
-fortuneMid: Presence settles arguments before they start.
-fortuneLow: Make yourself smaller here.
-fortuneLeast: Nobody braces around the harmless.
+fortuneMost: Nobody brings bad news to someone they're afraid of.
+fortuneHigh: Don't make yourself smaller than you are.
+fortuneMid: The cassowary walks the same path every day. Everything else in the forest plans around it.
+fortuneLow: Most things get decided without anybody standing over them.
+fortuneLeast: It's no bad thing to be easy to get at.
 facetMostTitle: Beanzilla
-facetMost: You have not raised your voice in that building in nine years and nobody has ever needed you to. A new man tried it on in his second week. What happened to him is still being described to people who were not there, and you do not think you did anything much.
+facetMost: A farm sale in the yard, the family selling up because their father has died. You came for the motorbike in the barn, and so did the two dealers by the gate — both of them shut their books when you walked in, and one wouldn't look at you. The auctioneer opens the bidding far under what the bike's worth. You put your hand up.
+facetMostAction: You put your hand up.
 facetHighTitle: Wonder Bean
-facetHigh: They have brought three of them and a barrister, and you are on your own with a folder. You take the first hour, and by the end of it they are asking what you would accept.
-facetMidTitle: The Beanolossus
-facetMid: A yard full of people who will not be told, and you say the thing once, quietly, and it gets done that afternoon.
+facetHigh: You're against the barrier at a sold-out show and the crowd has been pushing since the band came on. A woman just to your left has gone down and can't get herself up. The men beside you are already pushing out to the side, and the security behind the barrier are watching the stage. You turn round and brace against the people behind you.
+facetHighAction: You turn round and brace against the people behind you.
+facetMidTitle: Obi-Wan Kenobean
+facetMid: Dusk at a canal lock, and two narrowboats have arrived at opposite ends. Both crews are on the towpath shouting about who goes in first, with boats waiting behind them. The man off the boat coming down asks you, out of everyone else there, whether he's in the right. You tell him to let the other boat in first.
+facetMidAction: You tell him to let the other boat in first.
 facetLowTitle: Honey, I Shrunk the Beans
-facetLow: This room needs somebody to take hold of it and you can see what is wanted. You say your piece and it goes past without landing.
+facetLow: A television programme is being recorded in front of an audience, tonight about the hospital where your mother died. The floor manager is down the aisles looking for a voice that will carry. He stops at you and holds the microphone out. There's a question you'd ask — why there was one nurse on the ward at night. You tell him to pick somebody else.
+facetLowAction: You tell him to pick somebody else.
 facetLeastTitle: Beanbi
-facetLeast: A new man chairs the meeting and does not know your name, though you have done eleven years here and know how the place actually works. He asks you to keep it brief, and you keep it brief.
-question: You're across the table from the couple buying your mother's house, and they've arrived with an offer lower than the one agreed. What happens?
-answerMost: the silence sits there until they raise it themselves
-answerHigh: the agreed price is repeated once, and then you wait
-answerMid: the survey gets quoted, and the figure holds
-answerLow: the difference gets split
-answerLeast: the lower offer is taken, with thanks
+facetLeast: An otter has been showing below the bridge at first light all week, and you got up in the dark for it. Three people with long lenses have been in the hide since four. The one nearest the window puts his bag on the last seat and tells you the far end is free, where the shutter won't open. You go and sit at the far end.
+facetLeastAction: You go and sit at the far end.
+question: You've trained all autumn for a charity fight on Saturday, and you met the other man tonight. He seems all right. The weigh-in is in front of everyone who bought tickets, and the photographer wants the two of you face to face. You...
+answerMost: stay forehead to forehead until someone pulls you apart
+answerHigh: hold his eye until the photographer's finished
+answerMid: shake his hand and keep hold of it for the photo
+answerLow: square up, and laugh halfway through
+answerLeast: tell him you've been dreading this all autumn
 rorschachMost: a helmeted head
 rorschachHigh: a doorway bouncer
 rorschachMid: a standing bull

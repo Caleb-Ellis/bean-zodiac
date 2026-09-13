@@ -51,39 +51,78 @@ export const SPIRIT_BEAN_RING: BeanId[] = [
   "butter",
 ];
 
-// The scoring model is asymmetric in *direction* but symmetric in *shape*:
-// Accept is the strong signal and only ever adds; Resist only ever subtracts.
-// Which of the zodiac's two poles a choice moves depends on the tier:
-//   - "good" tiers (heirloom/market/garden) express the trait, so they move the
-//     friendly pole: the zodiac's own slug + friendlyBeans + friendlyForm.
-//   - "bad" tiers (stale/rotten) express the trait's opposite, so they move the
-//     anti pole: antiTriple + antiBeans + antiForm.
-// Each pole scores identically — a `triple` delta on that pole's flavour/form/
-// bean and a `soft` delta on its 2 beans + 1 form — so the anti pole mirrors the
-// friendly one rather than being a weaker special case. Because antiTriple
-// carries a flavour, bad tiers move the flavour ring too. Both magnitudes are
-// full (un-halved) across beans, flavour, and form.
+// Every choice moves one set: the fortune's own triple (its flavour/form/bean)
+// plus its entourage (friendlyBeans + friendlyForm). A zodiac is a single axis
+// running from its trait to its inverse, and the tier says which end the fortune
+// sits at: "good" tiers (heirloom/market/garden) express the trait, "bad" tiers
+// (stale/rotten) express the inverse. Each rule is a signed `triple` delta on
+// the triple and a `soft` delta on the 2 beans + 1 form.
+//
+// Each ritual variant has its own table, because each is a different kind of
+// evidence:
+//   - facet: the tier is dealt and the user rules on it. Accept on a good tier
+//     adds; Accept on a bad tier subtracts — you are like this zodiac's
+//     opposite, so you are away from it. Resist does the reverse, more lightly.
+//     Accept-Rotten and Resist-Heirloom say the same thing and move the same way.
+//   - question: the user picks one of five answers, so the tier *is* the
+//     answer and there is no Resist. The scale is centred — the middle answer
+//     is neutral — so answering doesn't drift the chart toward every zodiac
+//     asked about.
+//   - rorschach: the same shape as question but lower throughout — reading a
+//     blot is a looser signal than answering a question.
 type ScoreRule = {
   triple: number;
   soft: number;
-  pole: "friendly" | "anti";
 };
 
-const ACCEPT_RULES: Record<QualityId, ScoreRule> = {
-  heirloom: { triple: +4, soft: +2, pole: "friendly" },
-  market: { triple: +3, soft: +1, pole: "friendly" },
-  garden: { triple: +2, soft: +1, pole: "friendly" },
-  stale: { triple: +2, soft: 0, pole: "anti" },
-  rotten: { triple: +2, soft: +1, pole: "anti" },
+const FACET_ACCEPT_RULES: Record<QualityId, ScoreRule> = {
+  heirloom: { triple: +4, soft: +2 },
+  market: { triple: +3, soft: +1 },
+  garden: { triple: +2, soft: +1 },
+  stale: { triple: -1, soft: 0 },
+  rotten: { triple: -2, soft: -1 },
 };
 
-const RESIST_RULES: Record<QualityId, ScoreRule> = {
-  heirloom: { triple: -1, soft: 0, pole: "friendly" },
-  market: { triple: -1, soft: -1, pole: "friendly" },
-  garden: { triple: -2, soft: -1, pole: "friendly" },
-  stale: { triple: -1, soft: -1, pole: "anti" },
-  rotten: { triple: -1, soft: 0, pole: "anti" },
+const FACET_RESIST_RULES: Record<QualityId, ScoreRule> = {
+  heirloom: { triple: -1, soft: 0 },
+  market: { triple: -1, soft: -1 },
+  garden: { triple: -2, soft: -1 },
+  stale: { triple: +1, soft: +1 },
+  rotten: { triple: +1, soft: 0 },
 };
+
+const QUESTION_RULES: Record<QualityId, ScoreRule> = {
+  heirloom: { triple: +4, soft: +2 },
+  market: { triple: +3, soft: +1 },
+  garden: { triple: +2, soft: +1 },
+  stale: { triple: -1, soft: 0 },
+  rotten: { triple: -2, soft: -1 },
+};
+
+const RORSCHACH_RULES: Record<QualityId, ScoreRule> = {
+  heirloom: { triple: +1.5, soft: +0.5 },
+  market: { triple: +1, soft: 0 },
+  garden: { triple: +0.5, soft: 0 },
+  stale: { triple: -0.5, soft: 0 },
+  rotten: { triple: -1, soft: -0.5 },
+};
+
+// The rule for a scored history entry. Question and rorschach entries are
+// always recorded as accepted (score +1); only facets carry a Resist.
+function ruleFor(
+  variant: RitualVariant,
+  qualityId: QualityId,
+  accepted: boolean,
+): ScoreRule {
+  switch (variant) {
+    case "question":
+      return QUESTION_RULES[qualityId];
+    case "rorschach":
+      return RORSCHACH_RULES[qualityId];
+    case "facet":
+      return (accepted ? FACET_ACCEPT_RULES : FACET_RESIST_RULES)[qualityId];
+  }
+}
 
 export const SPIRIT_DIFF_THRESHOLD = 10;
 
@@ -132,43 +171,28 @@ export function computeSpiritBeanScores(
     const tags = SPIRIT_TAGS[entry.zodiacId];
     if (!tags) continue;
 
-    const rule = (accepted ? ACCEPT_RULES : RESIST_RULES)[entry.qualityId];
+    const rule = ruleFor(entry.ritualType, entry.qualityId, accepted);
 
-    // Rorschach answers count half — 50% of a normal score, rounded toward the
-    // choice's direction, so a non-zero rule always keeps at least a minimal
-    // nudge in its own sign. Applied identically to the triple and soft deltas.
-    const half = entry.ritualType === "rorschach";
-    const scale = (n: number) =>
-      half ? Math.sign(n) * Math.ceil(Math.abs(n) / 2) : n;
-
-    // Pick the pole this tier moves. The friendly pole is the fortune's own
-    // slug; the anti pole is its shadow (antiTriple). Both are real zodiac
-    // slugs, so the triple pass is identical for either.
-    const friendly = rule.pole === "friendly";
-    const poleSlug = friendly ? entry.zodiacId : tags.antiTriple;
-    const poleBeans = friendly ? tags.friendlyBeans : tags.antiBeans;
-    const poleForm = friendly ? tags.friendlyForm : tags.antiForm;
-
-    // Triple pass: the pole's own flavour/form/bean.
-    const [f, frm, b] = poleSlug.split("-") as [FlavourId, FormId, BeanId];
-    const triple = scale(rule.triple);
+    // Triple pass: the fortune's own flavour/form/bean.
+    const [f, frm, b] = entry.zodiacId.split("-") as [FlavourId, FormId, BeanId];
+    const triple = rule.triple;
     flavourScores[f] += triple;
     formScores[frm] += triple;
     beanScores[b] += triple;
 
-    // Soft pass: the pole's entourage — 2 beans + 1 form, at full magnitude.
-    const soft = scale(rule.soft);
+    // Soft pass: the entourage — 2 beans + 1 form.
+    const soft = rule.soft;
     if (soft !== 0) {
-      for (const id of poleBeans) beanScores[id] += soft;
-      formScores[poleForm] += soft;
+      for (const id of tags.friendlyBeans) beanScores[id] += soft;
+      formScores[tags.friendlyForm] += soft;
     }
   }
 
-  const flavourValues = SPIRIT_FLAVOUR_RING.map((id) =>
-    Math.max(0, flavourScores[id]),
-  );
-  const formValues = SPIRIT_FORM_RING.map((id) => Math.max(0, formScores[id]));
-  const beanValues = SPIRIT_BEAN_RING.map((id) => Math.max(0, beanScores[id]));
+  // Unclamped: scores can go negative, and the radars scale their centre down
+  // to meet them.
+  const flavourValues = SPIRIT_FLAVOUR_RING.map((id) => flavourScores[id]);
+  const formValues = SPIRIT_FORM_RING.map((id) => formScores[id]);
+  const beanValues = SPIRIT_BEAN_RING.map((id) => beanScores[id]);
 
   const claimedFlavourIdx = SPIRIT_FLAVOUR_RING.indexOf(claimedFlavourId);
   const claimedFormIdx = SPIRIT_FORM_RING.indexOf(claimedFormId);

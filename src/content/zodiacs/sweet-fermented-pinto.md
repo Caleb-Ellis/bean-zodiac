@@ -13,9 +13,6 @@ creature: tailorbird
 dish: Pinto beans glazed with tepache and piloncillo.
 friendlyBeans: [fava, green]
 friendlyForm: roasted
-antiTriple: bitter-dried-cannellini
-antiBeans: [navy, mung]
-antiForm: boiled
 seasonalFortune: "A season of tepache and piloncillo — the crock turns pineapple skins into something the fruit never was, and everyone asks what's in it."
 fortuneMost: A story told only to yourself has nobody to argue with it.
 fortuneHigh: The tailorbird sews two leaves together with spider silk and lives in the pocket it makes.

@@ -13,9 +13,6 @@ creature: mason bee
 dish: Mung beans smoked over rice husk with neem honey.
 friendlyBeans: [butter, kidney]
 friendlyForm: fermented
-antiTriple: sour-roasted-pinto
-antiBeans: [adzuki, fava]
-antiForm: fried
 seasonalFortune: "A season of rice husk and neem honey — the help arrives from nowhere, and nobody ever finds out who to thank."
 fortuneMost: Help enough people without giving your name and nobody knows where to find you when it's your turn.
 fortuneHigh: Fix it, and let them think it fixed itself.

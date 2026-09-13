@@ -13,9 +13,6 @@ creature: chimpanzee
 dish: Roasted adzuki tossed in chimichurri with red wine vinegar.
 friendlyBeans: [chickpea, butter]
 friendlyForm: fried
-antiTriple: bitter-dried-edamame
-antiBeans: [cannellini, black]
-antiForm: fermented
 seasonalFortune: "A season of chimichurri and raised glasses — every kindness gets toasted where everyone can hear."
 fortuneMost: A chimpanzee keeps track of every favour, and pays each one back.
 fortuneHigh: Say thank you like you mean it.

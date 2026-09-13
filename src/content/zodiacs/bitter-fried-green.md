@@ -13,9 +13,6 @@ creature: bumblebee
 dish: Green beans wok-charred with dried chilli and Sichuan pepper husk.
 friendlyBeans: [chickpea, fava]
 friendlyForm: roasted
-antiTriple: umami-dried-cannellini
-antiBeans: [black, edamame]
-antiForm: boiled
 seasonalFortune: "A season of wok char and no preamble — nothing in the pan waits to be introduced."
 fortuneMost: Make nothing of it often enough and nobody makes anything of you.
 fortuneHigh: Get straight to the good part.

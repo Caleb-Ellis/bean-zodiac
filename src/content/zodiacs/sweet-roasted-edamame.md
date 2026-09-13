@@ -12,9 +12,6 @@ creature: manatee
 dish: Edamame roasted in mirin glaze with sesame.
 friendlyBeans: [cannellini, chickpea]
 friendlyForm: fried
-antiTriple: umami-fermented-mung
-antiBeans: [green, black]
-antiForm: smoked
 seasonalFortune: "A season of mirin glaze and noticed preferences: the oven remembers who dislikes what."
 fortuneMost: You'll go without again, and nobody will know it.
 fortuneHigh: Do it before they have to ask.

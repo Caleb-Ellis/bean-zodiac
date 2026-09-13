@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: spicy-smoked-kidney
 lastUpdated:
 bean: kidney
@@ -11,33 +11,35 @@ inverse: casual
 quote: Love is a smoke made with the fume of bean.
 creature: locust
 dish: Kidney beans smoked with chipotle, molasses, and onion.
-friendlyBeans: [mung, cannellini]
+friendlyBeans: [navy, mung]
 friendlyForm: boiled
-antiTriple: sour-roasted-pinto
-antiBeans: [chickpea, edamame]
-antiForm: dried
 seasonalFortune: "A season of molasses and total appetite — the smoke takes the whole house, then the street."
-fortuneMost: Take all of it and there's nothing left for next season.
-fortuneHigh: A locust swarm eats a field down to the soil.
-fortuneMid: Wholehearted beats moderate every time.
-fortuneLow: Have a bit less of it.
-fortuneLeast: Casual interest lasts longer.
+fortuneMost: Swallow something whole and you'll never get to taste it.
+fortuneHigh: A desert locust eats its own weight every day, then flies on for more.
+fortuneMid: There's no harm in loving something more than is sensible.
+fortuneLow: A hobby is allowed to stay a hobby.
+fortuneLeast: A spoonful is enough to know the pot is good.
 facetMostTitle: The Beanunger
-facetMost: Bouldering was a thing you tried once and there is chalk in the car now and a fingerboard over the bathroom door, and two people you no longer see because they wanted a pub instead.
-facetHighTitle: All-Beaning
-facetHigh: The band was a name somebody mentioned. You have the three albums now, both live sets and the drummer's other project. You are working out whether the Hull date is drivable and back for work.
+facetMost: You and your girlfriend have been together since spring, and she's just been offered a winter at a research base in Antarctica, with no flights in or out until it's over. You have a job you love and a flat you spent years finding. The base is still hiring for its kitchen. You apply for the kitchen job.
+facetMostAction: You apply for the kitchen job.
+facetHighTitle: Addicted to Bean
+facetHigh: In January you bought a secondhand guitar, and you've played it every night since. Your friends are booking a week in Portugal this summer and need your share of the villa. It's the same money as the guitar in the music shop window, the one you keep going in to play. You buy the guitar from the window.
+facetHighAction: You buy the guitar from the window.
 facetMidTitle: Can't Get Enough Bean
-facetMid: A recipe has beaten you twice and there is no earthly reason to try it again before morning, and the kitchen is clean and put away. You are on the third batch at ten at night with the scales out and the oven back on.
-facetLowTitle: No Big Bean
-facetLow: You were four episodes into the thing everybody said you had to watch, and the log-in has gone and you have not chased it.
+facetMid: It's your cousin's wedding, and the best man is getting up to make his speech. Your football team can win the league with their last game of the season, and it's into its final minutes. You check the score on your phone under the table.
+facetMidAction: You check the score on your phone under the table.
+facetLowTitle: The Big Beanowski
+facetLow: A friend has started a team for the Tuesday night bowling league, and he needs five players to enter. You've enjoyed the few times you've been with them. He's already had a shirt printed with your name on the back. You tell him you'll come when you can.
+facetLowAction: You tell him you'll come when you can.
 facetLeastTitle: No Beans Attached
-facetLeast: Somebody you have been seeing a month asks whether you want to make it a proper thing. You are happy either way, and you tell her so. You go home to your own flat.
-question: You've been seeing somebody two months, and Saturday is free. You...
-answerMost: give her the Saturday, and the four after it
-answerHigh: spend it with her, and think about little besides all week
-answerMid: see her in the evening and keep the day for yourself
-answerLow: see her if the day works out that way
-answerLeast: hold on to the Saturday and message her Sunday
+facetLeast: You've been seeing one of the stagehands at the theatre for a few months, on and off. Tonight he's snuck you up into the fly gallery to watch the show from above, among the ropes and counterweights. Between cues he whispers that he'd like to make it a proper thing. You tell him you like things the way they are.
+facetLeastAction: You tell him you like things the way they are.
+question: You get home late from a first date that went better than you'd hoped. It turned out you've both always wanted to see Japan. You...
+answerMost: start looking at flights to Japan
+answerHigh: lie awake replaying every minute of it
+answerMid: text them to ask when you can see them again
+answerLow: leave texting them until the morning
+answerLeast: go to sleep and let them text first
 rorschachMost: a swarm
 rorschachHigh: a stripped field
 rorschachMid: a cleared table

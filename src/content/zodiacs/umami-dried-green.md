@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: umami-dried-green
 lastUpdated:
 bean: green
@@ -13,31 +13,33 @@ creature: minotaur
 dish: Dried green beans with dried anchovy and sesame.
 friendlyBeans: [fava, kidney]
 friendlyForm: fried
-antiTriple: bitter-boiled-butter
-antiBeans: [mung, adzuki]
-antiForm: roasted
-seasonalFortune: "A season of dried anchovy and small doses; a little of this changes everything."
-fortuneMost: Concentrated enough and a spoonful is too much.
+seasonalFortune: "A season of dried anchovy and small doses — a word dropped in early is still working when the season ends."
+fortuneMost: A nudge from you can knock somebody over.
 fortuneHigh: A minotaur fills the whole maze by standing in it.
-fortuneMid: A small amount does the work.
-fortuneLow: Water it down.
-fortuneLeast: Mild things get used every day.
+fortuneMid: One phone call will do it.
+fortuneLow: Most things you say will just be things you said.
+fortuneLeast: You're allowed to just be good company.
 facetMostTitle: Beanitless
-facetMost: The stock has been going down nine hours and there is a cupful left in the pan. A teaspoon of it does for the whole dish. Anybody who tries it neat has to sit down.
-facetHighTitle: Beaneye
-facetHigh: You have four minutes to say why it matters and you use two. The room does not move. Afterwards the man who was going to vote against comes and finds you, and what he quotes back is a phrase you did not know you had said.
+facetMost: Your friend has trained a year for a six-hour sea swim and the horn goes in ten minutes. She's standing on the beach in her swimming cap saying she isn't getting in, and she asks you to say something to her. You tell her she's spent your whole friendship finding reasons not to start things.
+facetMostAction: You tell her she's spent your whole friendship finding reasons not to start things.
+facetHighTitle: The Tipping Bean
+facetHigh: You help out on Sunday mornings with the under-elevens football team your neighbour coaches. One boy has stood at the back since the first session, and the others don't pass to him. While they're getting their bags he asks you whether he's any good. You tell him he's the best passer in the team and you've thought so all season.
+facetHighAction: You tell him he's the best passer in the team and you've thought so all season.
 facetMidTitle: Bean of the Tiger
-facetMid: Asked for a note on the work, you send three lines. The three lines change what the whole thing is about.
+facetMid: All summer your housemate has had a stall at the Saturday market, and she's sold almost nothing. A woman picks up a jar of her honey, asks why it costs what it does, and your housemate starts explaining about the bees. You tell the woman to taste it.
+facetMidAction: You tell the woman to taste it.
 facetLowTitle: Diary of a Wimpy Bean
-facetLow: There is a point to be made and you have made it, at length, and covered every angle of it. Somebody asks afterwards what the main thing was and you cannot pick one out for them.
-facetLeastTitle: Small Beans
-facetLeast: Your letter runs to two pages and says the same thing in four different ways, and it ends by apologising for the length, and whoever receives it will get to the bottom knowing roughly what you want but not what to do.
-question: Your niece is choosing between two courses and has asked you for one sentence of advice. You...
-answerMost: give her the sentence that decides it, whether she wanted deciding or not
-answerHigh: point her at the one she'd choose with nobody watching
-answerMid: offer a sentence, and say it's only your view
-answerLow: rate both of them good from where you sit
-answerLeast: tell her she knows better than you do
+facetLow: A greyhound you've fostered for five months is going to a new family, and they're in the hall with her lead. She can't be left alone in a house — it's what sent her back last time. They ask what she's like. You tell them she's frightened of the vacuum, she'll take a loaf off the counter, and she leans on your leg when the doorbell goes.
+facetLowAction: You tell them she's frightened of the vacuum, she'll take a loaf off the counter, and she leans on your leg when the doorbell goes.
+facetLeastTitle: The Incredible Shrinking Bean
+facetLeast: Your aunt's left you minding her tarot stall while she gets lunch. A woman comes in and sits down, turns three cards over, and asks whether they mean she should take the job abroad. She clearly just wants someone to tell her yes. You say the cards are saying it's up to her.
+facetLeastAction: You say the cards are saying it's up to her.
+question: Your friend's photographs have been in a box for four years and you want them seen. The woman who runs the gallery above the bakery is two along from you in the queue, and you've got until her coffee comes. You...
+answerMost: tell her you'll bring the box in and ask which wall she'd use
+answerHigh: say they've been in that box four years and ask her to look
+answerMid: ask whether she ever shows people who've never shown anywhere
+answerLow: mention that your friend takes photographs
+answerLeast: talk about the bakery instead
 rorschachMost: a stock cube
 rorschachHigh: a spirits bottle
 rorschachMid: a mustard pot

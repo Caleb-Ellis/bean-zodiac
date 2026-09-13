@@ -11,11 +11,8 @@ inverse: impenitent
 quote: Out, damned bean! Out, I say!
 creature: honeybee
 dish: White cannellini miso fermented with hop flowers.
-friendlyBeans: [navy, edamame]
+friendlyBeans: [chickpea, edamame]
 friendlyForm: dried
-antiTriple: umami-roasted-adzuki
-antiBeans: [black, butter]
-antiForm: boiled
 seasonalFortune: "A season of hop flowers and long amends — the bitterness goes in on purpose, and the crock takes a year to work it through."
 fortuneMost: A honeybee stings once and does not survive it.
 fortuneHigh: Go back and name the thing you did.

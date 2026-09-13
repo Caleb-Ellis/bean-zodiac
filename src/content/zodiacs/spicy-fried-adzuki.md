@@ -12,9 +12,6 @@ creature: jack russell
 dish: Adzuki fritters fried with chilli and sugar.
 friendlyBeans: [chickpea, green]
 friendlyForm: fermented
-antiTriple: bitter-smoked-black
-antiBeans: [cannellini, butter]
-antiForm: dried
 seasonalFortune: "A season of chilli and sugar — the fritter arrives sizzling."
 fortuneMost: The kettle will boil dry.
 fortuneHigh: Ask for neither permission nor forgiveness.

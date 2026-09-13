@@ -11,11 +11,8 @@ inverse: submissive
 quote: Regrets, I've had a few, but then again, too few to bean.
 creature: herring gull
 dish: Fava roasted in rendered lamb fat with mint.
-friendlyBeans: [green, butter]
+friendlyBeans: [green, pinto]
 friendlyForm: fermented
-antiTriple: bitter-boiled-navy
-antiBeans: [mung, cannellini]
-antiForm: dried
 seasonalFortune: "A season of lamb fat and mint — the tray comes out darker than asked for, and goes to the table as it is."
 fortuneMost: Refuse everything they ask and one of them will have been worth doing.
 fortuneHigh: Say you'd do it again.

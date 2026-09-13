@@ -13,9 +13,6 @@ creature: donkey
 dish: Sweet natto with mirin and brown sugar.
 friendlyBeans: [fava, black]
 friendlyForm: dried
-antiTriple: bitter-boiled-mung
-antiBeans: [chickpea, adzuki]
-antiForm: smoked
 seasonalFortune: "A season of brown sugar and long shifts — the natto ferments in the dark all day and never says a word."
 fortuneMost: A donkey hides its pain so well that nobody knows it needs help.
 fortuneHigh: Take the heavy end.

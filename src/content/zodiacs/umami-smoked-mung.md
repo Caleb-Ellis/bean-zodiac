@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: umami-smoked-mung
 lastUpdated:
 bean: mung
@@ -11,33 +11,35 @@ inverse: thin
 quote: We do not bean from experience — we bean from reflecting on experience.
 creature: tea frog
 dish: Hickory-smoked mung with ghee and cumin.
-friendlyBeans: [butter, kidney]
+friendlyBeans: [butter, black]
 friendlyForm: boiled
-antiTriple: spicy-roasted-pinto
-antiBeans: [edamame, green]
-antiForm: fried
 seasonalFortune: "A season of rice-husk smoke and long soaking — what mends here arrives after the room empties."
-fortuneMost: Steeped that long and the original flavour is gone.
-fortuneHigh: A tea frog takes the colour of the water it sits in.
-fortuneMid: Time in it is what makes the depth.
-fortuneLow: Pull it out early.
-fortuneLeast: Thin and fresh has its own virtue.
+fortuneMost: Keep every lesson and there's no room left for a new one.
+fortuneHigh: Stick with what you know.
+fortuneMid: A tea frog takes its colour from years of tea poured over it.
+fortuneLow: Not everything you grew up with needs to come with you.
+fortuneLeast: A beginner has nothing to unlearn.
 facetMostTitle: Singin' in the Bean
-facetMost: Forty years of the same practice and it is in your hands before you decide anything. Somebody shows you a better way. You watch the whole demonstration and go back to doing it your way.
-facetHighTitle: A Nice Cup of Bean
-facetHigh: The starter has been fed since before your daughter was born and it goes in the bag when you travel and it has been through three house moves. You can tell by the smell in the morning what the loaf is going to do.
-facetMidTitle: Low and Slow Bean
-facetMid: Somebody in the beginners' class asks why you hold the knife like that and you have to stop and work the answer out.
+facetMost: The new coach at your swimming club has spent all season changing your freestyle stroke for the regional relay, and in training it's been faster. Your old stroke is the one you've swum since you were small. It's the last length of the final and your teammates are screaming from the side. You go back to your old stroke.
+facetMostAction: You go back to your old stroke.
+facetHighTitle: Like Water for Beans
+facetHigh: Whenever someone in your family died, your aunt kept rice porridge going on the stove for a week, for whoever came to the door. Now your closest friend's mother has died overseas, and they couldn't get a flight home in time for the funeral. Their fridge is already full of food from other friends. You go over and put a pot of rice porridge on their stove.
+facetHighAction: You go over and put a pot of rice porridge on their stove.
+facetMidTitle: Beans on a Plane
+facetMid: When you were small and scared of thunder, your dad taught you a little rhyme to say until it passed. You're on a flight that drops suddenly over the mountains, and a few people scream. Under your breath, you say your dad's thunder rhyme.
+facetMidAction: Under your breath, you say your dad's thunder rhyme.
 facetLowTitle: Oliver Beanwist
-facetLow: A technique has come in and everybody younger is using it. You get the book out and give it an evening on a piece that does not matter.¸
+facetLow: Your brother's getting married, and you're having a suit made at the tailor's where your grandfather had all his suits made. The tailor gets down an old ledger with your grandfather's measurements in it, and a swatch of the grey wool he always chose. You pick a light blue linen.
+facetLowAction: You pick a light blue linen.
 facetLeastTitle: Bean Lizzy
-facetLeast: You have picked the thing up for the first time and there is a room of people who have done it for years. What you make is wrong in four ways, and you book the next six weeks.
-question: Forty years of the same practice is in everything you do, and a new apprentice asks whether the way she was taught is wrong. You...
-answerMost: answer out of the forty years, and never ask what she was taught
-answerHigh: answer out of the practice, without saying where it comes from
-answerMid: give her your way, then ask to see hers
-answerLow: grant that there's more than one way
-answerLeast: try her way for a week
+facetLeast: A friend's band has lost their bass player a month before their first festival, and they ask if you'd learn the bass in time. The other three have played together since school. You've never held one. You tell them you're in.
+facetLeastAction: You tell them you're in.
+question: How much of where you grew up is still in the way you talk?
+answerMost: people from anywhere else ask me to say things twice
+answerHigh: the accent, and the old sayings
+answerMid: it comes back when I call home
+answerLow: a few words I didn't know were local
+answerLeast: I pick up the accent of whoever I'm talking to
 rorschachMost: a waterlogged log
 rorschachHigh: a soaked teabag
 rorschachMid: a stewing pot

@@ -13,9 +13,6 @@ creature: barracuda
 dish: Fava smoked over olive wood with wild thyme.
 friendlyBeans: [edamame, green]
 friendlyForm: fermented
-antiTriple: sweet-boiled-adzuki
-antiBeans: [chickpea, mung]
-antiForm: roasted
 seasonalFortune: "A season of olive wood and wild thyme — the kitchen goes quiet when the dish comes out, and nobody says why."
 fortuneMost: A barracuda does not have to move for the whole reef to empty.
 fortuneHigh: Say it without the smile on the end.

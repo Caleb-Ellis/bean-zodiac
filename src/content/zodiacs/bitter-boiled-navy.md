@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: bitter-boiled-navy
 lastUpdated: 
 bean: navy
@@ -13,36 +13,33 @@ creature: emperor penguin
 dish: Navy bean soup steeped with bay, wormwood, and salt pork.
 friendlyBeans: [cannellini, edamame]
 friendlyForm: dried
-antiTriple: spicy-smoked-pinto
-antiBeans: [chickpea, green]
-antiForm: fermented
 seasonalFortune: "A season of plain bay and straight measures. The pot does what was agreed, at the hour agreed."
 fortuneMost: Be right about the principle often enough and nobody confides anything.
-fortuneHigh: An emperor penguin stands through the whole winter holding the egg.
-fortuneMid: The straight answer is worth the awkwardness.
+fortuneHigh: Do it properly, even the part no one sees.
+fortuneMid: Emperor penguins keep swapping places in the huddle, so no bird spends the whole night on the outside.
 fortuneLow: Overlook this one.
-fortuneLeast: Everybody cuts a corner somewhere.
+fortuneLeast: Most lies are told to spare somebody.
 facetMostTitle: Elmer Beantry
-facetMost: A receptionist calls a name and a man two in front of you stands up, and it is not his name — his comes after; he has been sat there since before you came in, and you are fourth in the queue, so it makes no difference to you either way. You tell her the name she called was not his.
-facetMostAction: You tell her the name she called was not his.
+facetMost: The last lot at the lifeboat fundraiser is the seascape you donated, and you're at the back of the boat shed. The auctioneer is telling the room it's an original when it's a print your grandfather had framed. The bidding is past what a print is worth, every penny goes to the station, and you could put whoever buys it straight afterwards. You call out from the back that it's a print.
+facetMostAction: You call out from the back that it's a print.
 facetHighTitle: A Bean for All Seasons
-facetHigh: At the split in the trail you went left instead of right and took about four hundred metres off, and nobody was marshalling that junction. You have come in eleventh, in a time you have been chasing for three years. The results go up on the board in ten minutes. You tell the woman doing the times that you cut the loop.
-facetHighAction: You tell the woman doing the times that you cut the loop.
+facetHigh: In the trail race you went the wrong way at the split and cut out a stretch of the course by accident, and there was nobody marshalling that junction. You have finished in a time you have chased for years. The results go up on the board in a minute. You tell the woman doing the times that you missed a stretch of the course.
+facetHighAction: You tell the woman doing the times that you missed a stretch of the course.
 facetMidTitle: The Untouchabeans
-facetMid: The answer sheets have come back round and the woman marking them has given your team the point for the shipping forecast one, which you got wrong; there are four of you, two points off the top, with a round to go. You tell her the shipping forecast one was wrong.
-facetMidAction: You tell her the shipping forecast one was wrong.
+facetMid: It's the final evening of the first aid course and the instructor has run out of time, so he is signing all of you off on the choking module without running it. You need the certificate to start volunteering at the night shelter. You tell him you haven't done the choking one.
+facetMidAction: You tell him you haven't done the choking one.
 facetLowTitle: Beanfellas
-facetLow: You are on the door of the dome and the show is a minute off starting, after which the doors lock and the projector cannot be stopped. The notice says eight and over. A teacher has thirty-one children off a coach that came two hours, and one of them is six. You let all thirty-one in.
-facetLowAction: You let all thirty-one in.
+facetLow: You're on the door of the planetarium and the show starts in a minute, after which the doors lock and the projector can't be stopped. A teacher has a coach load of schoolchildren who have been travelling all morning, and one of them is six. The notice on the door says eight and over. You let the six-year-old in with the rest.
+facetLowAction: You let the six-year-old in with the rest.
 facetLeastTitle: Bean's Eleven
-facetLeast: You are suspended for three weeks after the last game and the team are a man short again. Your friend says to put his brother's name on the sheet, because nobody checks it and nobody would know. The league takes the points off if it comes out. You write his brother's name down.
-facetLeastAction: You write his brother's name down.
-question: You've been paid for two hours you didn't work, and nobody has noticed. You...
-answerMost: hand it back at the desk, loud enough for the room to learn from
-answerHigh: take the two hours off the next timesheet
-answerMid: mention it to the supervisor when you next see her
-answerLow: keep the two hours
-answerLeast: put an extra hour on while nobody's counting
+facetLeast: The flat above yours flooded and came through your ceiling onto the carpet, and the insurer wants a photograph of everything the water ruined. Your laptop died in the spring, nothing to do with the water, and it's been in the cupboard since. If they spot one thing that wasn't the water, they can throw the whole claim out. You stand the laptop on the wet carpet and photograph it.
+facetLeastAction: You stand the laptop on the wet carpet and photograph it.
+question: The man who runs the climbing wall has given you a key so you can train in the hour before it opens, and he made it clear the arrangement ends if anyone else turns up with you. Three people from your Wednesday session have asked to come along. You...
+answerMost: tell them no, and let him know they asked
+answerHigh: tell them the key was given to you alone
+answerMid: tell them to ask him for a key of their own
+answerLow: bring one of them along the once
+answerLeast: get a second key cut and pass it round the group
 rorschachMost: a cathedral
 rorschachHigh: a standing stone
 rorschachMid: a poplar

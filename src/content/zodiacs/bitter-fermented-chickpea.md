@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: bitter-fermented-chickpea
 lastUpdated: 
 bean: chickpea
@@ -11,33 +11,35 @@ inverse: literal
 quote: There are no facts, only beans.
 creature: mockingbird
 dish: Chickpea tempeh with dandelion and bitter almond oil.
-friendlyBeans: [adzuki, green]
+friendlyBeans: [adzuki, pinto]
 friendlyForm: roasted
-antiTriple: sour-dried-navy
-antiBeans: [edamame, cannellini]
-antiForm: boiled
 seasonalFortune: "A season of borrowed cultures and read signs: the tempeh translates one kitchen into another, imperfectly."
-fortuneMost: Read enough into it and everything agrees with the reader.
-fortuneHigh: Say what you think it means.
-fortuneMid: A mockingbird sings the whole hedge back at it.
-fortuneLow: Short messages are usually just short.
-fortuneLeast: Take it at face value.
+fortuneMost: Look hard enough and every sign points where you already wanted to go.
+fortuneHigh: Read between the lines.
+fortuneMid: The mockingbird learns every song in the garden, then sings each one its own way.
+fortuneLow: What was said is usually what was meant.
+fortuneLeast: Sometimes a chickpea is just a chickpea.
 facetMostTitle: Wag the Bean
-facetMost: The will says the contents of the house go to your sister, and you have decided that a house's contents cannot reasonably include the piano, which is furniture. You can argue this for an hour. You have argued it for an hour, twice.
-facetHighTitle: Beanival
-facetHigh: Nobody in the gallery can agree what the painting is doing. You have a reading of it that fits every single thing inside the frame, right down to the dog.
+facetMost: You're on a jury, and since the first morning you've been sure the man on trial robbed the shop he worked at. The key evidence is a text he sent the night of the robbery, which just says "sorted, don't ask". You tell the other jurors it can only mean one thing.
+facetMostAction: You tell the other jurors it can only mean one thing.
+facetHighTitle: The Da Vinci Bean
+facetHigh: A few weeks after your ex ended things, a mutual friend meets you at the station with a bag of your things, everything stuffed in. Right on top, folded neatly, is the photo booth strip from your first date. You call your ex.
+facetHighAction: You call your ex.
 facetMidTitle: The Beanterpreter
-facetMid: She sends a message four words long, and you read all four of them about six times before you put the phone down.
+facetMid: It's the last night of your pottery class, and the teacher is going around the finished pieces. She's called every other bowl lovely. She turns yours over in her hands and says, smiling, "well, that's interesting". You ask her what she'd change about it.
+facetMidAction: You ask her what she'd change about it.
 facetLowTitle: Beanplane!
-facetLow: Somebody says they will be there about eight. You put eight in the diary and think no further about it at all.
+facetLow: On a long-haul flight, you ask the woman in the aisle seat if she'd swap with your partner, who's in a middle seat near the back, so the two of you can sit together. She glances down the aisle and says "sure, no problem". You wave your partner over.
+facetLowAction: You wave your partner over.
 facetLeastTitle: Amelia Beandelia
-facetLeast: The chant from the away end plainly means something and everybody round you is laughing at it. You take the words at face value and ask the man beside you what is funny.
-question: "Your sister's message about Saturday says: fine, come at eight then. You..."
-answerMost: tell her you know exactly what the fine is doing there
-answerHigh: reply to the fine rather than to the time
-answerMid: ask whether eight actually suits her
-answerLow: notice the fine, and reply about the time
-answerLeast: read it as a yes and turn up at eight
+facetLeast: It's past midnight at your birthday party when the man from the flat downstairs knocks. He's in his pyjamas, and tells you it sounds like a great party. You invite him in.
+facetLeastAction: You invite him in.
+question: You've been thinking about quitting your job, and you keep dreaming that your teeth are falling out. You...
+answerMost: decide it means you should hand your notice in
+answerHigh: look up what teeth falling out is supposed to mean
+answerMid: ask a friend what they make of it
+answerLow: put it down to eating cheese late at night
+answerLeast: check your teeth in the mirror
 rorschachMost: a fairground mirror
 rorschachHigh: a torn poster
 rorschachMid: tea leaves

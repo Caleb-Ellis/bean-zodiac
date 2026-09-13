@@ -10,11 +10,8 @@ inverse: stark
 quote: Was it a vision, or a waking bean?
 creature: moth
 dish: Barbecued pinto beans with sorghum syrup over pecan.
-friendlyBeans: [green, chickpea]
+friendlyBeans: [chickpea, green]
 friendlyForm: roasted
-antiTriple: bitter-dried-navy
-antiBeans: [edamame, cannellini]
-antiForm: boiled
 seasonalFortune: "A season of sorghum and pecan smoke — the evening does not behave like an evening."
 fortuneMost: The moth keeps to the glass long after the flame's gone out.
 fortuneHigh: Scented smoke drifts through rooms with no one in them.

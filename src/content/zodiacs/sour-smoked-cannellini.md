@@ -11,11 +11,8 @@ inverse: unimpressed
 quote: A bean of beauty is a joy for ever.
 creature: decorator crab
 dish: Cannellini cured with smoked lemon and caper.
-friendlyBeans: [edamame, navy]
+friendlyBeans: [edamame, black]
 friendlyForm: dried
-antiTriple: sweet-roasted-adzuki
-antiBeans: [chickpea, kidney]
-antiForm: fried
 seasonalFortune: "A season of capers and smoked lemon — the cure is somebody's careful work, and the season says whose."
 fortuneMost: What you look at longest is what you end up wanting.
 fortuneHigh: Tell them which part was the good part.

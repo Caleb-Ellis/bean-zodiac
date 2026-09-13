@@ -12,9 +12,6 @@ creature: bull
 dish: Green beans stir-fried with sambal and garlic.
 friendlyBeans: [fava, chickpea]
 friendlyForm: boiled
-antiTriple: bitter-dried-navy
-antiBeans: [black, cannellini]
-antiForm: fermented
 seasonalFortune: "A season of sambal and its own direction; the bean goes where it decided, hot."
 fortuneMost: The bull charges the red cloth and does not know why.
 fortuneHigh: Say your piece, then go ahead with it.

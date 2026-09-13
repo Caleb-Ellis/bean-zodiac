@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sour-smoked-black
 lastUpdated:
 bean: black
@@ -13,31 +13,33 @@ creature: lynx
 dish: Smoked black beans cured with lime and chipotle vinegar.
 friendlyBeans: [cannellini, navy]
 friendlyForm: dried
-antiTriple: spicy-roasted-pinto
-antiBeans: [chickpea, kidney]
-antiForm: fried
-seasonalFortune: "A season of chipotle vinegar and long looking: the smoke reaches what the brine could not."
-fortuneMost: A lynx watches you long before you know it's there.
-fortuneHigh: Trust the read and act on it.
-fortuneMid: Most of it shows in the first minute.
-fortuneLow: No need to look any further here.
-fortuneLeast: What you see is often all there is.
-facetMostTitle: The Lives of Beans
-facetMost: Ten minutes into the interview and the questions have stopped being about the job at all. You ask about the eighteen months that are not on the form, and then, when he has finished, about why he has just looked at the door.
-facetHighTitle: X-Bean Vision
-facetHigh: There is one line in the accounts that does not sit right with you. You go back through four years of them until you find where it started.
-facetMidTitle: See Through Bean
-facetMid: Your friend has told you what happened and left out the part where she went back. You ask about that part.
-facetLowTitle: Bean Deep
-facetLow: The estate agent gives you the tour and talks the whole way round. You look at the kitchen, agree it is a good size, and leave it there.
-facetLeastTitle: Shallow Bean
-facetLeast: The car has been making a noise for a month. You turn the radio up a bit and keep driving it.
-question: You're sat next to your friend's husband at a long lunch and he mentions, once, that work has been interesting lately. You...
-answerMost: keep at it until he tells you what he didn't mean to
-answerHigh: ask the second question, about what he meant by interesting
-answerMid: ask once more, then follow his lead
-answerLow: stay on what he offered you
-answerLeast: move on to the food and the drive over
+seasonalFortune: "A season of chipotle vinegar and slow curing — the smoke reaches what the brine only sat on."
+fortuneMost: Know somebody all the way down and they'll never relax around you again.
+fortuneHigh: The lynx hears the hare under the snow and digs where nothing shows.
+fortuneMid: Most people tell you sideways or not at all.
+fortuneLow: Take the easy explanation.
+fortuneLeast: It does you no harm to believe the nice version.
+facetMostTitle: Peeping Bean
+facetMost: You're at the solicitor's for your aunt's will, with your mother and your cousin. The flat goes to him and nothing to anybody else. He hasn't said a word all morning, or thanked anybody. Your mother is already saying it's fine, everyone's tired. You tell him, in front of your mother, that he already knew about the flat.
+facetMostAction: You tell him, in front of your mother, that he already knew about the flat.
+facetHighTitle: Under the Bean
+facetHigh: It's an hour before your friend's wedding and you're doing up the back of her dress. All morning she's been joking about the caterers. Twice now she's said, lightly, that it'll all be fine once today is over. You tell her she can still call it off.
+facetHighAction: You tell her she can still call it off.
+facetMidTitle: Little Beans Everywhere
+facetMid: Your neighbour's asked you to carry her shopping up, and the flat is spotless, not a cup in the sink. On the kitchen table is a stack of unopened post going back to the spring. She says she's been meaning to get to it. You sit down and start opening the post with her.
+facetMidAction: You sit down and start opening the post with her.
+facetLowTitle: Dear Bean
+facetLow: You're sorting donations at the charity shop on a Saturday. Someone's brought in a man's whole wardrobe, and at the bottom of the bag is a bundle of letters, the top one out of its envelope. The woman who runs the shop says to throw out whatever won't sell. You put the letters in the recycling without reading them.
+facetLowAction: You put the letters in the recycling without reading them.
+facetLeastTitle: Bean Clueless
+facetLeast: A friend you've known since school rings and asks to borrow a month's rent, to cover her until the new job starts paying. She asked you for money in the spring as well, for a course she then didn't do. You send her the money that evening.
+facetLeastAction: You send her the money that evening.
+question: You want the drummer back in your band before the gig. He quit by message — just really busy right now — the night after you cut his two songs from the set. Now he's here for his cymbals, cheerful. You...
+answerMost: tell him he wasn't busy, he was sulking
+answerHigh: put his two songs back in the set
+answerMid: say the message didn't sound like him
+answerLow: wrap the cymbals for him, and tell him the band's fine
+answerLeast: let him off the gig, and say to come back when things ease up
 rorschachMost: a knife in a loaf
 rorschachHigh: an X-ray
 rorschachMid: a letterbox slit

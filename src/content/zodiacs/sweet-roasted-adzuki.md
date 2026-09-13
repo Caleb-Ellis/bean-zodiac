@@ -13,9 +13,6 @@ creature: macaw
 dish: Miso-glazed roasted adzuki with mirin and black sesame.
 friendlyBeans: [pinto, chickpea]
 friendlyForm: fried
-antiTriple: spicy-fermented-kidney
-antiBeans: [fava, edamame]
-antiForm: smoked
 seasonalFortune: "A season of miso glaze and black sesame — the table keeps growing and nobody is ready to clear it."
 fortuneMost: The reason for the party is the first thing forgotten.
 fortuneHigh: Have them all over. Make too much food.

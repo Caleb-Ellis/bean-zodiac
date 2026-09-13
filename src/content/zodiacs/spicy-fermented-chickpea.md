@@ -12,9 +12,6 @@ creature: axolotl
 dish: Chickpeas fermented with harissa and caraway.
 friendlyBeans: [adzuki, green]
 friendlyForm: roasted
-antiTriple: bitter-dried-cannellini
-antiBeans: [navy, edamame]
-antiForm: boiled
 seasonalFortune: "A season of harissa and caraway — the jar sits permanently askew."
 fortuneMost: They will remember what you wore, and nothing you said.
 fortuneHigh: Do it the wrong way on purpose.

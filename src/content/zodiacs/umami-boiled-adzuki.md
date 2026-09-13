@@ -13,9 +13,6 @@ creature: puffin
 dish: Adzuki simmered in kombu dashi with dark soy.
 friendlyBeans: [navy, butter]
 friendlyForm: smoked
-antiTriple: sweet-fried-green
-antiBeans: [kidney, fava]
-antiForm: roasted
 seasonalFortune: "A season of kombu and dark soy — the old pot goes back on the heat, and everything that ever went in it comes up again."
 fortuneMost: Keep a thing going long enough and you'll be the only one keeping it.
 fortuneHigh: Send the message five years late.

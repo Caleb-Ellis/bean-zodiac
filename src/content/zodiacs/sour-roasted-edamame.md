@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sour-roasted-edamame
 lastUpdated: 
 bean: edamame
@@ -13,36 +13,33 @@ creature: mastiff
 dish: Roasted edamame with ponzu and coriander.
 friendlyBeans: [pinto, navy]
 friendlyForm: fried
-antiTriple: umami-smoked-mung
-antiBeans: [kidney, fava]
-antiForm: fermented
-seasonalFortune: "A season of ponzu and coriander: the pod states its position where the whole table hears."
-fortuneMost: Say it in the open often enough and the crowd thins.
-fortuneHigh: A mastiff at the gate doesn't pretend to be a hedge.
-fortuneMid: The position said out loud is the one people plan around.
-fortuneLow: Leave the ground clear and they'll find it themselves.
-fortuneLeast: Let the other one have the last word.
+seasonalFortune: "A season of ponzu and dry heat — what everyone wants gets said out loud early, and the rest arranges itself around it."
+fortuneMost: Some people want the option, not the answer.
+fortuneHigh: Don't make them guess.
+fortuneMid: A mastiff leans on you, and there's no mistaking how much dog there is.
+fortuneLow: You don't need a position on everything.
+fortuneLeast: Nobody ever lost anything by saying they'd think about it.
 facetMostTitle: The Beanpprentice
-facetMost: Your sister asks you to be a witness twenty minutes before the ceremony, and now she and her fiancé and his brother are at the desk with you and the registrar. For a year you have been saying she is rushing it. You say so again, and then you sign.
-facetMostAction: You say so again, and then you sign.
+facetMost: A year of sweeping up at the tattoo studio, unpaid, on the owner's promise of a chair of your own by the summer. The summer has gone. It's the shop's birthday, and he introduces you to a room of his customers as the apprentice, still with a way to go. You tell him you want a date for the chair.
+facetMostAction: You tell him you want a date for the chair.
 facetHighTitle: Straight Outta Beanton
-facetHigh: Three years in the same five-a-side team, and for most of this season you have been the one sitting out the first half while the others play. The game has just finished and the whole team is still on the pitch. You tell them you want to start every week, or you are gone.
-facetHighAction: You tell them you want to start every week, or you are gone.
-facetMidTitle: On the Beancord
-facetMid: The director has moved the whole second act to the front, so your two scenes now happen before anyone in the audience knows who you are, and when he asks the thirty of you what you think everybody says it is fine, and after tonight the running order is printed. You say what it has done to your part.
-facetMidAction: You say what it has done to your part.
-facetLowTitle: It Beanpends
-facetLow: Your friend has been waiting three weeks for an answer about the weekend away for her thirtieth, and when you run into her at the market she says the place needs the final numbers now. You say you will have to see how work goes.
-facetLowAction: You say you will have to see how work goes.
-facetLeastTitle: Yes and Bean
-facetLeast: There is a man behind glass holding up fingers for the minutes you have left, and they had the developer on before you. You are on because you spoke at the meeting about the flats going up on the park, and the presenter asks straight out whether you are for it or against. You say the flats would help and that the park is worth keeping.
-facetLeastAction: You say the flats would help and that the park is worth keeping.
-question: Your cousin asks you to do the wiring for his extension. You'd want four hundred for it, and your evenings after eight. You...
-answerMost: name the four hundred, and what you made of his last job
-answerHigh: say four hundred, and nothing after eight
-answerMid: quote him the four hundred to think about
-answerLow: leave it at working something out once you've seen the extension
-answerLeast: steer off the money and leave the terms open
+facetHigh: The woman who runs the café on the corner wants a mural across her front wall, and she keeps saying how many people walk past it. Nobody has paid you to paint anything before, and there are art students who'd do it for nothing. You tell her you'd want paying for it, and the wall to yourself for a week.
+facetHighAction: You tell her you'd want paying for it, and the wall to yourself for a week.
+facetMidTitle: Bean It Like Beckham
+facetMid: Most weeks at five-a-side you sit out the first half, and you've been in this team three seasons. The whistle has gone and everybody is still on the pitch. The one who picks the side is next to you, and the people who start instead of you are friends of yours. You tell him you want to start.
+facetMidAction: You tell him you want to start.
+facetLowTitle: Sliding Beans
+facetLow: A cider maker outside town has pulled a few people in off the yard to taste two barrels — he wants drinkers, not experts. He can bottle one of them, and the other goes down the drain. He works round the circle asking which. You say there's something in both of them.
+facetLowAction: You say there's something in both of them.
+facetLeastTitle: Yes, Beanister
+facetLeast: You spoke at the meeting about the flats going up on the park, so the local radio station has you on after the developer. A man behind the glass is counting down your minutes. The presenter asks straight out whether you are for the flats or against them. You say the flats would help, and that the park is worth keeping.
+facetLeastAction: You say the flats would help, and that the park is worth keeping.
+question: Search your own name and the first thing that comes up is a photo a friend posted from her birthday — eyes half shut, mouth open. You want it gone. She loves it. You...
+answerMost: say under the post that you want it taken down
+answerHigh: message her and ask her to take it down
+answerMid: tell her the next time you see her that you'd rather it wasn't up
+answerLow: comment that you're pressing charges
+answerLeast: be the first to like it
 rorschachMost: a wire wheel
 rorschachHigh: a plain signpost
 rorschachMid: a boot on gravel

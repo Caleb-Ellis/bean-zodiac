@@ -12,9 +12,6 @@ creature: rook
 dish: Dried soybeans roasted into kinako and whisked with matcha.
 friendlyBeans: [cannellini, fava]
 friendlyForm: fermented
-antiTriple: umami-boiled-adzuki
-antiBeans: [mung, chickpea]
-antiForm: roasted
 seasonalFortune: "A season of hard pods and short sentences: nothing said twice, nothing kept that cannot keep."
 fortuneMost: Silence.
 fortuneHigh: Say less.

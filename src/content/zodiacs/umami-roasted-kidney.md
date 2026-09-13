@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: umami-roasted-kidney
 lastUpdated: 
 bean: kidney
@@ -13,31 +13,33 @@ creature: great pyrenees
 dish: Kidney beans roasted in beef dripping with onion.
 friendlyBeans: [mung, butter]
 friendlyForm: fried
-antiTriple: sour-smoked-edamame
-antiBeans: [black, cannellini]
-antiForm: fermented
-seasonalFortune: "A season of beef dripping and onion — the tray holds nothing back, and nothing back."
-fortuneMost: Open to everybody and anybody can walk in.
-fortuneHigh: A great pyrenees sleeps in the open beside the sheep.
-fortuneMid: Being easy to reach is a gift.
-fortuneLow: Keep one door shut.
-fortuneLeast: A wall is only a door you control.
-facetMostTitle: Sitting Bean
-facetMost: A man on the next pitch at the campsite has been friendly for twenty minutes and now knows about the money your brother owes you, what the second scan showed, and what you actually think of your job. You have his email written down and you are getting the photographs out.
-facetHighTitle: Open Bean Arms
-facetHigh: There is somebody new at the club stood at the edge with a drink, and you take her round and introduce everyone by name.
+seasonalFortune: "A season of beef dripping and soft onion — the tray comes out uncovered, and anyone can reach in."
+fortuneMost: Not everyone you let in will be kind to what they find.
+fortuneHigh: A great pyrenees leans its whole weight on the people it loves.
+fortuneMid: Let someone see you're having a hard day.
+fortuneLow: Keep a little back for yourself.
+fortuneLeast: Some things are nobody's business but your own.
+facetMostTitle: Beanless in Seattle
+facetMost: You've called a late-night radio show to request a song, and the host puts you on air and asks who it's for. It's for your ex, who ended things in the spring and still listens every night. You tell the host, live on air, that you'd take her back tomorrow.
+facetMostAction: You tell the host, live on air, that you'd take her back tomorrow.
+facetHighTitle: Bean Actually
+facetHigh: Your closest friend is moving to the other side of the world, and you've come to the airport to see them off. At the security gates they hug you and tell you not to make it weird. You tell them they're the best friend you've ever had.
+facetHighAction: You tell them they're the best friend you've ever had.
 facetMidTitle: My Bean Will Go On
-facetMid: The interview asks what you have found hardest. There is a safe answer to that and a true one. You give the true one, and you give the detail with it.
-facetLowTitle: The Bean Fortress
-facetLow: Your barber asks whether you are up visiting anyone, and you are, and it is a hard visit. You tell him you are up a few days and ask about the roadworks.
-facetLeastTitle: The Bean Keep
-facetLeast: Somebody you have worked beside for four years asks, meaning it, how things are at home, and things are not good at home, and you tell her fine thanks and ask about her boy.
-question: A new neighbour has come in for the first cup of tea and asks how you've been. It has been the year of the divorce. You...
-answerMost: tell her about the divorce and the money, first cup in
-answerHigh: name the divorce, and stop there
-answerMid: give her the outline, then ask about hers
-answerLow: keep it to the weather
-answerLeast: say fine, and put the kettle away
+facetMid: A friend is doing a portrait class and needs someone to sit for her homework, so you're on a stool in her flat for an hour while she draws. Halfway through, she asks what you're thinking about. It's your dad, who you haven't spoken to in a year. You tell her you were thinking about your dad.
+facetMidAction: You tell her you were thinking about your dad.
+facetLowTitle: Catch Me If You Bean
+facetLow: It's a speed-dating night, and every few minutes a bell goes and you move one table along. The woman opposite reads the question off the card between you — what scares you most? The honest answer is ending up on your own. You say spiders.
+facetLowAction: You say spiders.
+facetLeastTitle: Another Bean in the Wall
+facetLeast: You've been in the emergency waiting room since midnight with a broken wrist, and it'll be hours yet before anyone sees you. Your sister rings. She lives close by, she's still up, and she wants to come and sit with you. You tell her you're fine on your own.
+facetLeastAction: You tell her you're fine on your own.
+question: You've been seeing someone for a month. At the top of the Ferris wheel they tell you they love you, and you feel the same. You...
+answerMost: tell them nobody has ever made you feel like this
+answerHigh: say you love them too
+answerMid: say you think you might too
+answerLow: squeeze their hand, and point out the view
+answerLeast: tell them it's a bit early for that
 rorschachMost: a bared chest
 rorschachHigh: a split pomegranate
 rorschachMid: an unlocked door

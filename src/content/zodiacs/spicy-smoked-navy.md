@@ -12,9 +12,6 @@ creature: draught horse
 dish: Navy beans smoked over hickory with chipotle and maple.
 friendlyBeans: [cannellini, black]
 friendlyForm: dried
-antiTriple: sour-fried-fava
-antiBeans: [green, chickpea]
-antiForm: roasted
 seasonalFortune: "A season of hickory and maple: the smoke keeps the same watch it kept last year."
 fortuneMost: The draught horse pulls diligently until it drops and is disposed.
 fortuneHigh: Outlast them all.

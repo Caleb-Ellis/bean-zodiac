@@ -13,9 +13,6 @@ creature: tarantula
 dish: Black bean and white miso caramel tart.
 friendlyBeans: [pinto, butter]
 friendlyForm: smoked
-antiTriple: sour-fried-navy
-antiBeans: [cannellini, edamame]
-antiForm: dried
 seasonalFortune: "A season of white miso caramel and quiet soft spots — the tart is hard on top and gives at the first spoon."
 fortuneMost: Say yes to every sad face and the sad faces keep coming.
 fortuneHigh: Let your heart win this one.

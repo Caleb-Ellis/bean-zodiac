@@ -12,10 +12,7 @@ quote: Be water, my bean.
 creature: flounder
 dish: Edamame fried and glazed with mirin caramel.
 friendlyBeans: [chickpea, fava]
-friendlyForm: fermented
-antiTriple: umami-smoked-black
-antiBeans: [butter, mung]
-antiForm: boiled
+friendlyForm: roasted
 seasonalFortune: "A season of mirin and caramel — the glaze goes wherever it is poured, and thins where it is spread furthest."
 fortuneMost: A flounder will match a chessboard if you put one under it.
 fortuneHigh: Change the plan. It was only a plan.

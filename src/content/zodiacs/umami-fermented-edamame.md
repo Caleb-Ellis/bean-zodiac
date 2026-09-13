@@ -13,9 +13,6 @@ creature: woodpecker finch
 dish: Miso soup with edamame and wakame.
 friendlyBeans: [fava, black]
 friendlyForm: smoked
-antiTriple: spicy-roasted-adzuki
-antiBeans: [mung, chickpea]
-antiForm: fried
 seasonalFortune: "A season of miso and wakame — nothing that came into the kitchen leaves it."
 fortuneMost: Take every opening and people will stop leaving them.
 fortuneHigh: Make it out of what's there.

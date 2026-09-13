@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sour-fried-fava
 lastUpdated: 
 bean: fava
@@ -13,36 +13,33 @@ creature: gannet
 dish: Fava fried with lemon, mint, and pecorino.
 friendlyBeans: [chickpea, green]
 friendlyForm: fermented
-antiTriple: bitter-smoked-cannellini
-antiBeans: [black, mung]
-antiForm: boiled
-seasonalFortune: "A season of mint and hot pecorino; the pod goes in without checking the temperature."
-fortuneMost: Move first every time and half the moves are wasted.
-fortuneHigh: A gannet folds and hits the water at ninety.
-fortuneMid: First is usually good enough.
-fortuneLow: Sit on it a day.
-fortuneLeast: The slow decision holds up better.
+seasonalFortune: "A season of mint and cut lemon — the answer arrives in the same breath as the question, ready or not."
+fortuneMost: You'll be halfway down the road before you know which one it is.
+fortuneHigh: The gannet folds its wings and is under the water before the fish has turned.
+fortuneMid: Do it before you've put your coat down.
+fortuneLow: Nothing spoils overnight.
+fortuneLeast: The decision that took a week will still be right in a year.
 facetMostTitle: Romeo and Beaniet
-facetMost: Your landlord is on the doorstep saying he'll sell you the flat for what he paid for it, and there's somebody else he'll ask if you don't want it. He has not said what he paid. You say yes on the step.
+facetMost: Your landlord is on the doorstep. He'll sell you the flat you rent from him for what he paid for it, and says to take the week and think it over. He hasn't said what he paid. You say yes on the step.
 facetMostAction: You say yes on the step.
 facetHighTitle: Just Bean It
-facetHigh: The fire has jumped the road and the police are turning cars back at the junction. Four of you are in the car and everybody is talking at once. You take the forestry track on the left.
-facetHighAction: You take the forestry track on the left.
+facetHigh: An hour into your friend's tattoo, the artist says her next client has cancelled, so the chair is free after this. You've had a design saved on your phone for a year and no appointment. You tell the artist to do your design next.
+facetHighAction: You tell the artist to do your design next.
 facetMidTitle: Bean of Faith
-facetMid: The woman behind the counter is waiting, six people are queuing behind you, and your friend still hasn't looked up at the board. You order for both of you.
-facetMidAction: You order for both of you.
+facetMid: The rest of the football team are in the changing room after the game, working out who's in for next season, and the fees aren't due for a month. Your knee hasn't been right since the spring, and you've decided to stop playing. You tell them you're out.
+facetMidAction: You tell them you're out.
 facetLowTitle: The Bean Not Taken
-facetLow: The man on the ramp says there's one space left on this sailing, the next one is in four hours, and your car is third in the queue. You tell him to give it to the van behind and pull over to wait.
-facetLowAction: You tell him to give it to the van behind and pull over to wait.
+facetLow: Last week of the pottery class, and the kiln goes on at nine tonight — anything not on the shelf by then waits for the next course in the spring. Your bowl is up there glazed, but the glaze has gone thin and patchy down one side. You take the bowl back off the shelf.
+facetLowAction: You take the bowl back off the shelf.
 facetLeastTitle: Should I Bean or Should I Go
-facetLeast: You've been at the shelter forty minutes with a dog that put her head on your knee, and the woman says another family are coming to see her at four. You've wanted one for two years. You say you'd like to think about it.
+facetLeast: The dog you keep going back to at the shelter has put her head on your knee. The woman who runs it says another family are coming to see her at four, and you've wanted a dog for years. You say you'd like to think about it.
 facetLeastAction: You say you'd like to think about it.
-question: A friend rings at nine — a caravan going for four hundred, photographs on his phone, if somebody says yes tonight. What happens?
-answerMost: yes on the phone, with nothing asked about the state of it
-answerHigh: two questions asked, and yes the same night
-answerMid: yes, if the photographs are alright
-answerLow: the morning is asked for, to think it over
-answerLeast: the night goes by without an answer
+question: You want to sell the jam you've been making. There's a stall free at the Saturday market, the fee's paid on the day, and the woman who runs it says to just turn up. You...
+answerMost: say yes to Saturday without asking what the stall costs
+answerHigh: take Saturday, and spend tonight making enough to sell
+answerMid: take one of the Saturdays next month instead
+answerLow: go as a customer first and talk to the stallholders
+answerLeast: keep making it until somebody asks to buy a jar
 rorschachMost: a thrown stone
 rorschachHigh: a runner off the blocks
 rorschachMid: a diving bird

@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sour-roasted-cannellini
 lastUpdated: 
 bean: cannellini
@@ -13,36 +13,33 @@ creature: shoebill
 dish: Cannellini roasted, then dressed in salsa verde.
 friendlyBeans: [navy, edamame]
 friendlyForm: fried
-antiTriple: spicy-boiled-kidney
-antiBeans: [fava, green]
-antiForm: fermented
 seasonalFortune: "A season of salsa verde and flat statements: the roast says the true thing, unsoftened."
-fortuneMost: A shoebill stares straight at you and doesn't blink.
-fortuneHigh: Give them the real answer.
-fortuneMid: The plain answer saves a week.
-fortuneLow: Leave a little unsaid.
-fortuneLeast: A hint does the job sometimes.
-facetMostTitle: The Brutal Bean
-facetMost: Your friend has spent the evening telling the hostel kitchen how well it's going with a man who reads her messages and has stopped her seeing her sister. You tell her, in front of the other four, that he treats her badly and she knows it.
-facetMostAction: You tell her, in front of the other four, that he treats her badly and she knows it.
+fortuneMost: A truth nobody can act on is only a wound.
+fortuneHigh: Tell them the part they won't like.
+fortuneMid: The shoebill greets you with a clatter of its bill, and it means one thing only.
+fortuneLow: You're allowed to keep some of it back.
+fortuneLeast: Half the fun is making them ask twice.
+facetMostTitle: Cruel Beantentions
+facetMost: Your friend talks about her divorce on the community radio station's Sunday slot, live, and she's had you in as the guest — you were at the wedding. With the microphone open she asks whether you ever really thought the marriage would last. You tell her no, and that everybody at the wedding knew it.
+facetMostAction: You tell her no, and that everybody at the wedding knew it.
 facetHighTitle: Frankly, My Bean
-facetHigh: The consultant asks your mum whether she's been taking the tablets and she says that she has. You've emptied the bin in her kitchen twice this month. You say so, with her sitting there.
-facetHighAction: You say so, with her sitting there.
-facetMidTitle: Real Bean Talk
-facetMid: The hairdresser turns the chair round and asks whether that's what you wanted, and it's a good three inches shorter than you asked for. You tell her it's a lot shorter than you asked for.
-facetMidAction: You tell her it's a lot shorter than you asked for.
-facetLowTitle: Playing Hard to Bean
-facetLow: At your friend's first show a man asks you, with her standing right there, what you make of the big one at the end. You've thought since you walked in that it's the weakest thing in the room. You tell him the frame is beautiful.
-facetLowAction: You tell him the frame is beautiful.
+facetHigh: The contract for the flat is on the desk at the rental office and the deposit is already paid. Your oldest friend has talked about nothing else for a month, and you have known for two weeks that sharing it would finish the friendship. He hands you the pen. You tell him you can't live with him.
+facetHighAction: You tell him you can't live with him.
+facetMidTitle: To Tell the Bean
+facetMid: At the adult beginners' swimming class, which you paid for up front, the instructor has spent the whole session in the deep end with the two who can already swim, and you have been at the shallow end holding the rail. She asks the group at the end whether that was useful, and the rest of the class says it was. You tell her she hasn't been near you.
+facetMidAction: You tell her she hasn't been near you.
+facetLowTitle: Coy Story
+facetLow: Backstage at the children's puppet theatre, where you've been helping shift the set, the puppeteer has just shown you the rods and the hatch the fox comes up through. A girl who has wandered in from the audience asks you straight out whether the fox is real. You tell her the fox has been here longer than anyone in the building.
+facetLowAction: You tell her the fox has been here longer than anyone in the building.
 facetLeastTitle: Maybe Beanby
-facetLeast: Out on the balcony your housemate asks whether you'd mind if her boyfriend moved in, and says to be honest — and you would mind, because he's here five nights a week already and he leaves everything out. You tell her it's fine by you.
-facetLeastAction: You tell her it's fine by you.
-question: Your sister asks whether you think her new business idea will work, and you don't. You...
-answerMost: tell her it won't, and list what she gets wrong about herself
-answerHigh: tell her it won't work, and exactly where it goes wrong
-answerMid: name the numbers you don't believe
-answerLow: say you're not the person to ask about it
-answerLeast: say it sounds interesting and move the talk on
+facetLeast: You've been seeing someone for two months and told nobody. Your housemate has worked out there is someone, because you're never in on Thursdays, and she asks who. It's her brother. You tell her she's met him.
+facetLeastAction: You tell her she's met him.
+question: You're leaving the bakery because of how the owner shouts at the teenagers who work weekends — two walked out this spring. You need a reference from her and there's nobody else to ask. On your last morning she asks why you're going. You...
+answerMost: tell her it's her, and that she'll never keep anybody
+answerHigh: tell her it's the way she speaks to the teenagers
+answerMid: tell her the two who walked out had the right idea
+answerLow: say it's time you tried something else
+answerLeast: tell her she'll work it out, and ask her for the reference
 rorschachMost: a skull with sockets
 rorschachHigh: a bare bulb
 rorschachMid: a plain mirror

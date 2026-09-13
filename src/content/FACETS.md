@@ -122,26 +122,7 @@ worse than what it replaced. Warnings are for judging, not obeying. Reword only 
 the collision is real — the same picture, the same move, the same phrase — and never
 at the cost of clarity.
 
-## Step 3 — Check the ledger
-
-```
-node scripts/facet-ledger.mjs report          # what's used most, what's used once
-node scripts/facet-ledger.mjs check           # collapses, gaps, repeated pairs
-```
-
-Pick against the top of each list. Read the **register bucket** tally at the same
-time and decide which of the five is going into a thin bucket — decide it now, not
-after four are written.
-
-`node scripts/census-settings.mjs` counts what the corpus already uses. Treat it as
-a check against repetition, not a shopping list.
-
-`node scripts/facet-ledger.mjs free` prints the settings **not** blocked by the
-10-entry window, grouped by bucket and marked for thinness — pick from that rather
-than guessing and being refused. `plan` prints the same list when called with no file,
-and on a blocked setting it names what is still free in that bucket.
-
-## Step 4 — Choose all five scenarios before writing a word of prose
+## Step 3 — Choose all five scenarios before writing a word of prose
 
 For each, name where it happens, what structurally happens, and who else is there.
 State the stakes in a clause: if it comes out "nothing much", throw that scene away
@@ -192,18 +173,18 @@ Fill the 25 rows into the batch file and run `plan` (Part 3) before any prose ex
   actually stood in. Name a real place with real business going on.
 - **Avoid office and comms scenery** — inboxes, meetings, deadlines, the
   draft-as-document. The corpus is saturated with it.
+- **Dont be afraid of fantasy, sci-fi, and the unreal** — this is a *bean zodiac*, it
+  can be a little weird sometimes. Just don't overdo it.
 - **Five distinct settings per entry, and five distinct scenario *types*.** Five
   different rooms all asking "how much of the free thing do you take?" is one probe
   asked five times.
-- **Four distinct register buckets per entry, one of them thin.** Distinct settings
-  were not catching sameness of *register* — kitchen, party, car, pub, phone is five
-  places and one narrow world, and two thirds of the corpus sat in domestic +
-  nightlife + street. The five must span at least four of the twenty buckets, and at
-  least one must sit in a bucket the corpus has barely used. `plan` refuses the batch
-  otherwise. Bucket list in Part 3.
 - **Settings may not repeat within 10 entries**, corpus-wide. One pass produced five
   boats and six mountain huts before anyone noticed. Thin buckets are exempt — the
   point of the thin-bucket rule is to send you there.
+  - **This is a batch-planning rule, and `facet-ledger.mjs` is what enforces it.**
+    Writing a *single* entry, do not go searching the other 359 for setting or
+    scenario reuse — that search costs far more than the collisions it prevents, and
+    it has swallowed whole sessions. Take the scene from the facet titles and write.
 
 ### Raise the setting — a pass of its own
 

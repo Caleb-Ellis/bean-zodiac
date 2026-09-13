@@ -10,11 +10,8 @@ inverse: disagreeable
 quote: Piglet noticed that even though he had a very small bean, it could hold a rather large amount of gratitude.
 creature: lamb
 dish: Chickpeas simmered in sugar syrup with rosewater.
-friendlyBeans: [adzuki, butter]
+friendlyBeans: [butter, adzuki]
 friendlyForm: roasted
-antiTriple: spicy-smoked-fava
-antiBeans: [green, cannellini]
-antiForm: fermented
 seasonalFortune: "A season of rosewater and easy company — the syrup work with everything in the bowl."
 fortuneMost: The lamb follows the shepherd, right to the end.
 fortuneHigh: A "yes" that was never in doubt is worth nothing.

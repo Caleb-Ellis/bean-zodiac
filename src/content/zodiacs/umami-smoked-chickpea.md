@@ -13,9 +13,6 @@ creature: dung beetle
 dish: Hickory-smoked chickpeas with sweet paprika.
 friendlyBeans: [butter, adzuki]
 friendlyForm: roasted
-antiTriple: sour-fermented-pinto
-antiBeans: [fava, green]
-antiForm: fried
 seasonalFortune: "A season of hickory smoke and plain bowls — the depth is all borrowed from a fire that was never in the kitchen."
 fortuneMost: Pass the plate on far enough and it comes back empty.
 fortuneHigh: The dung beetle takes what nobody else wants and buries it, and the grass comes back thicker.

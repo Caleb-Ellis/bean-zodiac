@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: spicy-smoked-chickpea
 lastUpdated:
 bean: chickpea
@@ -13,36 +13,33 @@ creature: minnow
 dish: Chipotle-smoked chickpeas with lime and toasted cumin.
 friendlyBeans: [green, mung]
 friendlyForm: fried
-antiTriple: umami-fermented-pinto
-antiBeans: [butter, navy]
-antiForm: roasted
 seasonalFortune: "A season of lime and toasted cumin — the smoke is elsewhere by the time you look."
-fortuneMost: Spinning so many plates is not always helpful. Ask yourself what it would actually cost should one fall.
+fortuneMost: Try to be everywhere and you'll end up nowhere.
 fortuneHigh: Keep it up! We'll sleep when we're dead!
-fortuneMid: A shoal of minnows swirls as one – a super-organism that is greater than the sum of its parts.
-fortuneLow: Leave an hour of wiggle room.
-fortuneLeast: Make a long, slow dish and eat it without rushing.
-facetMostTitle: The Bean Thing
-facetMost: You said yes to a friend's wedding reception, your housemate's first gig and a leaving do, all in one evening in three different parts of the city. You've been at each for forty minutes, apologised at all three, and left your jacket at one of them. You get back in the taxi to go round again.
-facetMostAction: You get back in the taxi to go round again.
+fortuneMid: A minnow darts from stone to stone, and never strays far from the shallows.
+fortuneLow: Leave a gap between one plan and the next.
+fortuneLeast: Nobody ever regretted a long lunch.
+facetMostTitle: Everything Beanwhere All at Once
+facetMost: You're at a festival where the bands you came for are all playing at once, on different stages. You've lost your friends, your phone's about to die, and you haven't seen one set all the way through. Halfway through the headliner, you leave to catch the end of a set on another stage.
+facetMostAction: Halfway through the headliner, you leave to catch the end of a set on another stage.
 facetHighTitle: Quickbeanver
-facetHigh: A friend is moving flat on the same day as your gran's eightieth. You do the first two van loads, drive across town for the pudding and the photographs, and are back for the rest of the boxes by four.
-facetHighAction: You do the first two van loads, drive across town for the pudding and the photographs, and are back for the rest of the boxes by four.
-facetMidTitle: Slip Through Your Beans
-facetMid: You're on the phone to your mum with the pasta on and a friend at the door bringing back a chair. You wedge the phone under your chin, take the chair with your other hand, and keep both conversations going.
-facetMidAction: You wedge the phone under your chin, take the chair with your other hand, and keep both conversations going.
-facetLowTitle: Beanzen in Place
-facetLow: You get to your appointment forty minutes early, with a parcel to post, a library book to take back and a shirt to return, all of them within five minutes' walk. You buy a coffee and sit down in the waiting room with it.
-facetLowAction: You buy a coffee and sit down in the waiting room with it.
-facetLeastTitle: Stuck Beanfast
-facetLeast: It's the last day of a city break and you and your partner have a list of six things you both said you'd see. You do the first one, then walk the long way back along the river and read on the hotel bed.
-facetLeastAction: You do the first one, then walk the long way back along the river and read on the hotel bed.
+facetHigh: It's your housewarming, and you're doing the music, topping up drinks and introducing your work friends to your school friends. A friend pulls out a chair and tells you to sit down for five minutes. You say you'll sit down later.
+facetHighAction: You say you'll sit down later.
+facetMidTitle: Catch Me If You Bean
+facetMid: At a friend's wedding, your university friends are on one table and your old flatmates are on another, and both have saved you a seat. You split the courses between the two tables.
+facetMidAction: You split the courses between the two tables.
+facetLowTitle: Waiting for Beandot
+facetLow: You and a friend are walking down to the harbour after a day on the island. The ferry's at the end of the pier with its ramp still down, and if you ran you'd make it, but there's another in an hour. You buy an ice cream and wait for the next one.
+facetLowAction: You buy an ice cream and wait for the next one.
+facetLeastTitle: Beanfore Sunrise
+facetLeast: You've got a week off to spend in Rome. The flight takes a couple of hours, and the train takes two days, with a night in Paris on the way. You book the train.
+facetLeastAction: You book the train.
 question: What do you do while the kettle boils?
-answerMost: start a few things, get distracted, turn it on again later
-answerHigh: whatever productive tasks I can fit in the time it takes to prepare my drink
-answerMid: do some washing up, clear the dishwasher
-answerLow: scroll on my phone
-answerLeast: just wait
+answerMost: start a few jobs, finish none of them, and forget about the kettle
+answerHigh: put the dishes away and wipe down the counters
+answerMid: get the milk and a mug out
+answerLow: check my phone
+answerLeast: watch it boil
 rorschachMost: a wire tangle
 rorschachHigh: a spinning washer
 rorschachMid: a boiling kettle

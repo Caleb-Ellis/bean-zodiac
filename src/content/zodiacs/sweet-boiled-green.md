@@ -13,9 +13,6 @@ creature: red-capped manakin
 dish: Green beans boiled, then glazed in brown sugar and butter.
 friendlyBeans: [kidney, chickpea]
 friendlyForm: fried
-antiTriple: spicy-smoked-edamame
-antiBeans: [black, cannellini]
-antiForm: fermented
 seasonalFortune: "A season of brown sugar and ready yeses — everything is wonderful, and a few things really aren't."
 fortuneMost: Love everything and nobody can tell what you actually like.
 fortuneHigh: A red-capped manakin will moonwalk along a branch for anyone who stops to watch.

@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: umami-dried-cannellini
 lastUpdated:
 bean: cannellini
@@ -13,31 +13,33 @@ creature: stag
 dish: Dried cannellini stewed on an aged prosciutto bone.
 friendlyBeans: [edamame, navy]
 friendlyForm: boiled
-antiTriple: sweet-fried-adzuki
-antiBeans: [chickpea, kidney]
-antiForm: roasted
 seasonalFortune: "A season of prosciutto bone and long provenance: the pantry keeps company with better things."
-fortuneMost: Antlers that wide must be carried through every low door.
-fortuneHigh: Let somebody else mention it.
-fortuneMid: The title matters less than the work under it.
-fortuneLow: Hand the work over unsigned.
-fortuneLeast: Lead with the plain thing you did.
-facetMostTitle: Beaned Signs
-facetMost: The portrait is unveiled, the room applauds, and there is a speech about your contribution. Afterwards you correct the wording on the little brass plate underneath, twice, and ask whether the thing might hang a foot higher where the light is better.
+fortuneMost: The stag grows its antlers back heavier each year, and the trees don't move.
+fortuneHigh: Let them make the fuss.
+fortuneMid: Somebody in the room has done this longest, and it shows.
+fortuneLow: Go somewhere your work hasn't reached.
+fortuneLeast: Nobody asks the stew which bean did the work.
+facetMostTitle: Ozybeandias
+facetMost: Your two closest friends are getting married because you put them in a room together. The best man is about to stand up, and the speech he's shown you doesn't mention you. You ask him to add the part where you introduced them.
+facetMostAction: You ask him to add the part where you introduced them.
 facetHighTitle: The Beantinguished Gentleman
-facetHigh: You go up the hall in the procession, in the gown and the hat. The whole business fits you rather better than you had expected.
-facetMidTitle: Bean of Fame
-facetMid: The man on the hotel desk has decided that you are somebody, and you have not corrected him, and neither of you is exactly wrong about it.
+facetHigh: Three friends want the old launderette for a bike workshop, but the owner won't lease to anybody he hasn't heard of. He's heard of you — you had the bike shop on the corner for years — and if they fold he comes after you. You tell them to put the lease in your name.
+facetHighAction: You tell them to put the lease in your name.
+facetMidTitle: On Golden Bean
+facetMid: The campsite by the lake has been full all summer, with people turned away at the gate every evening. The woman running it remembers you rebuilt their footbridge two summers back, and points you at a pitch by the water. You take the pitch and stay the week.
+facetMidAction: You take the pitch and stay the week.
 facetLowTitle: Average Bean Joe
-facetLow: There is a queue for chips outside the ground and nobody standing in it knows what you did, and there is no reason on earth why any of them should.
+facetLow: A pottery outside town opens its wood kiln once a month and people come to see what's inside. The potter learned everything she throws from you, half of them make pots themselves, and she's going round saying who everybody is. You get in first and say you're a friend of hers.
+facetLowAction: You get in first and say you're a friend of hers.
 facetLeastTitle: Mr. Beanophane
-facetLeast: The programme has your name spelt wrong, in the smallest type, at the bottom of a list of nine. You notice, and you do not ask anybody to fix it.
-question: They're opening the new pavilion at the club you played for thirty years, and they've asked you to do it. You...
-answerMost: let them know beforehand how you'd like to be introduced
-answerHigh: say a few words that earn the fuss they're making
-answerMid: cut the ribbon and go and stand with everyone else
-answerLow: ask them not to make anything of it
-answerLeast: send your apologies and let somebody else do it
+facetLeast: The school you left at sixteen has its leavers back for an evening, and the teacher who wrote your reference asks what you've been doing since. You've turned the market stall you started into three shops. You say not much, this and that.
+facetLeastAction: You say not much, this and that.
+question: A photo of a sandwich you invented has taken over a thread about the best cheap food in the city, and nobody there knows you made it. The cafe where you cooked it has queues out the door; your place across town is empty. You...
+answerMost: ask whoever posted it to edit in who made it
+answerHigh: reply under your own name and say where you are now
+answerMid: tell whoever comes in that it was yours
+answerLow: cook it at your place and leave the thread alone
+answerLeast: let the cafe keep the queues
 rorschachMost: a coat of arms
 rorschachHigh: a framed portrait
 rorschachMid: a good suit

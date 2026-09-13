@@ -12,9 +12,6 @@ creature: cormorant
 dish: Butter beans fried agrodolce with raisin and red wine vinegar.
 friendlyBeans: [adzuki, chickpea]
 friendlyForm: boiled
-antiTriple: bitter-smoked-mung
-antiBeans: [black, fava]
-antiForm: fermented
 seasonalFortune: "A season of raisin and red wine vinegar — the whole change happens in ninety seconds and nobody looks up."
 fortuneMost: Nothing is a big deal until somebody says so.
 fortuneHigh: Get it done before anyone's had a chance to worry.

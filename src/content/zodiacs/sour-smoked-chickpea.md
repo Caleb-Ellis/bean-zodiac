@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sour-smoked-chickpea
 lastUpdated:
 bean: chickpea
@@ -13,36 +13,33 @@ creature: brown bat
 dish: Smoked chickpeas cured with sumac and preserved lemon.
 friendlyBeans: [mung, adzuki]
 friendlyForm: roasted
-antiTriple: spicy-fermented-edamame
-antiBeans: [pinto, fava]
-antiForm: dried
 seasonalFortune: "A season of sumac and read rooms: the smoke matches the mood before the mood declares itself."
-fortuneMost: Hear everything and none of it can be put down.
-fortuneHigh: A brown bat hears every moth in the barn.
-fortuneMid: Rooms go quiet two different ways.
-fortuneLow: The cheerful answer will do.
-fortuneLeast: Missing one makes for a lighter evening.
-facetMostTitle: Thin Bean
-facetMost: Your friend's texts have had full stops on the end of them for two days. She's still sending pictures of the dog, still on for the weekend, and she's answered everything the same day. You drive the forty minutes over to hers.
-facetMostAction: You drive the forty minutes over to hers.
-facetHighTitle: In Tune Bean
-facetHigh: Your friend's got the ring in his coat and both families are waiting at the far end of the pier with the camera. She's laughed all afternoon, she picked the pier herself, and she's been answering about half a beat late since lunch. You walk him back up the pier.
-facetHighAction: You walk him back up the pier.
-facetMidTitle: Read the Bean
-facetMid: You're driving the four of them back and the one behind you has gone from doing all the talking to answering only when asked, and you couldn't say when it changed; there's twenty miles left. You put the radio on for the last twenty miles.
-facetMidAction: You put the radio on for the last twenty miles.
-facetLowTitle: Out of Bean
-facetLow: It's your friend's birthday at the bowling alley and two of them came in separately and haven't spoken since; you've got the teams written out on the card already. You read the teams out.
-facetLowAction: You read the teams out.
-facetLeastTitle: Tin Bean
-facetLeast: There are twelve of you on the walk and the guide has stopped at the last close, put the lantern down, and left about eight seconds of nothing before he tells them what happened in the room above. You ask him where you can park after eight.
-facetLeastAction: You ask him where you can park after eight.
-question: You've come round to ask your brother to lend you his van on Sunday. He lets you in, quieter than usual, the football on and the plates from lunch still out. You...
-answerMost: forget the van and ask him twice what's the matter
-answerHigh: leave the van for another day and sit down with him and the football
-answerMid: wait for the football to finish, then ask
-answerLow: ask about the van in the doorway as you planned
-answerLeast: ask about the van, and talk over the football about Sunday
+fortuneMost: Watch closely enough and everyone looks unhappy.
+fortuneHigh: The brown bat catches the moth it never sees.
+fortuneMid: Check on the one who says they're fine.
+fortuneLow: A short answer is usually just a short answer.
+fortuneLeast: The last one to notice has the best evening.
+facetMostTitle: The Princess and the Bean
+facetMost: Your friend flies out tonight to live in another country. The flat at the other end is hers and she has laughed her way through the queue. At the bag drop she keeps her hand on her case after it's on the belt. You tell her not to get on the plane.
+facetMostAction: You tell her not to get on the plane.
+facetHighTitle: Sense and Beansibility
+facetHigh: It's your housemate's birthday and twenty of you are crouched behind the tables in a restaurant back room her boyfriend has booked out. She rang him from the train to ask if they could get a takeaway instead, and everyone laughed, because she doesn't know. You go out and tell her there are twenty people in there.
+facetHighAction: You go out and tell her there are twenty people in there.
+facetMidTitle: Beanside Out
+facetMid: You want the room going in this flat, and the woman showing you round talks the whole way without once saying her flatmate's name. The flatmate hasn't looked up from the television. They want an answer tonight. You go and sit with the flatmate and ask what she thinks of the place.
+facetMidAction: You go and sit with the flatmate and ask what she thinks of the place.
+facetLowTitle: Sleeping Beanty
+facetLow: You're taking a rescue dog home this afternoon. The woman who runs the kennels walks you down the back run, naming every dog as you pass, and stops at the pen next to his without a word. You ask her what he's been eating.
+facetLowAction: You ask her what he's been eating.
+facetLeastTitle: Beanthoven
+facetLeast: You've driven your friend to the prison to see her brother. The three of you sit on fixed stools at a numbered table, an officer on the door. She has run out of things to ask him and the half hour is nearly gone. You ask him whether the food in here is any good.
+facetLeastAction: You ask him whether the food in here is any good.
+question: You want the place in this band. The singer talks the whole rehearsal and has a list of songs she wants to do. The drummer says nothing and keeps going back to the same four bars. They ask what you want to start with. You...
+answerMost: say you'll leave them to it and come back another week
+answerHigh: start on the four bars the drummer keeps going back to
+answerMid: say you don't mind, and ask the drummer to choose
+answerLow: take the first one off the singer's list
+answerLeast: suggest you all learn something none of you know yet
 rorschachMost: a bristling antenna
 rorschachHigh: a tuning fork
 rorschachMid: a radio dial

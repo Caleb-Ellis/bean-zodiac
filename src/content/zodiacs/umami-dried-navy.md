@@ -12,9 +12,6 @@ creature: giant tortoise
 dish: Dried navy beans with aged salt pork and bay.
 friendlyBeans: [edamame, cannellini]
 friendlyForm: boiled
-antiTriple: spicy-smoked-chickpea
-antiBeans: [mung, adzuki]
-antiForm: fermented
 seasonalFortune: "A season of salt pork and bay — the store was here before, and remains."
 fortuneMost: The old tortoise walks the same path for a hundred years, never looking for more.
 fortuneHigh: Good things come to beans who wait.

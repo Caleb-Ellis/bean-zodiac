@@ -13,9 +13,6 @@ creature: elephant seal
 dish: Black beans blistered under peri-peri with charred lime.
 friendlyBeans: [pinto, navy]
 friendlyForm: smoked
-antiTriple: sour-fried-kidney
-antiBeans: [fava, green]
-antiForm: boiled
 seasonalFortune: "A season of charred lime and wide berths: the tray takes the whole oven, and nothing else fits."
 fortuneMost: Nothing grows in the shade of a big tree.
 fortuneHigh: Stand tall and take up space.

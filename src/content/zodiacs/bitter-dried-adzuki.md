@@ -13,9 +13,6 @@ creature: oryx
 dish: Sekihan of dried adzuki with toasted buckwheat and bitter citrus zest.
 friendlyBeans: [navy, cannellini]
 friendlyForm: boiled
-antiTriple: sweet-fried-mung
-antiBeans: [kidney, butter]
-antiForm: roasted
 seasonalFortune: "A season of toasted buckwheat and bitter zest — the harvest comes in whole and the year lives off a corner of it."
 fortuneMost: Go without long enough and going without becomes the treat.
 fortuneHigh: Take the small one on purpose.

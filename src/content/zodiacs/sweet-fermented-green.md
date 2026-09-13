@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sweet-fermented-green
 lastUpdated:
 bean: green
@@ -13,31 +13,33 @@ creature: pixie
 dish: Green bean doenjang muchim with honey and sesame.
 friendlyBeans: [fava, pinto]
 friendlyForm: roasted
-antiTriple: bitter-boiled-kidney
-antiBeans: [butter, cannellini]
-antiForm: dried
 seasonalFortune: "A season of doenjang and honey; the muchim goes somewhere odd and sweet."
-fortuneMost: Charm laid on thick starts to look like decoration.
-fortuneHigh: A pixie moves the keys and watches the search.
-fortuneMid: The small odd touch is remembered.
-fortuneLow: Leave it plain.
-fortuneLeast: Plain things wear better.
+fortuneMost: Put a bow on everything and nothing looks like a present.
+fortuneHigh: Put googly eyes on something.
+fortuneMid: A pixie plaits the horse's mane while the farm sleeps.
+fortuneLow: Not everything has to be an adventure.
+fortuneLeast: Plain bread has fed more people than cake ever will.
 facetMostTitle: Bean and Sebastian
-facetMost: There is a fairy door at the bottom of the garden. You put a small letter behind it, and you have been doing this eleven years and the children are twenty-two and nineteen.
+facetMost: Your two oldest friends have asked you to lead their wedding ceremony, and they'd like it short and simple. You've written it in the voice of their dog, who'll be in the front row in a little bow tie. You do the whole ceremony in the dog's voice.
+facetMostAction: You do the whole ceremony in the dog's voice.
 facetHighTitle: Peter Bean
-facetHigh: The cake needed to be a cake and you have made a whole scene of it, with a pond, a duck, and a tiny man fishing who is recognisably your father-in-law, hat and expression included.
-facetMidTitle: A Flight of Beancy
-facetMid: Your parcel gets wrapped in newspaper with a drawing on it, and the drawing takes longer than choosing the present did.
+facetHigh: The lift in your building has stopped between floors with you, a neighbour and her little boy inside. The alarm button just rings and rings, and he's started to cry. You tell him the lift is really a rocket, and it's about to take off.
+facetHighAction: You tell him the lift is really a rocket, and it's about to take off.
+facetMidTitle: Beanmélie
+facetMid: You're in hospital for a few nights after having your appendix out, and the nurses want you walking the corridor with your drip stand. It squeaks, and it keeps pulling to the left. You give the drip stand a name.
+facetMidAction: You give the drip stand a name.
 facetLowTitle: Another Bean in Paradise
-facetLow: That room could take something odd in the corner by the window and you have the thing to put there. You stand it up, look at it, put the thing back in the box, and the corner stays empty.
-facetLeastTitle: Bean Old Story
-facetLeast: An invitation has to go out and it wants a date, a place and a time, and that is what goes on it. Somebody asks whether you might add a little drawing to the card, and you say people only need the details.
-question: You're wrapping a present for your niece's first day at school. You...
-answerMost: write a poem, name the pencil case, and hold a small ceremony at the door
-answerHigh: put in a note from the pencil case, written in its own voice
-answerMid: wrap the present and draw the card yourself
-answerLow: wrap the present nicely and write her name on it
-answerLeast: hand it over in the bag it came in
+facetLow: Your cousin is renovating a house, and before the plaster goes on she's asked everyone to write something on the bare brick for whoever knocks the wall down in a hundred years. Her brother has drawn a spaceship, and her partner has written a note to the next owners' cat. You write your name and the date.
+facetLowAction: You write your name and the date.
+facetLeastTitle: Normal Beans
+facetLeast: A friend has talked you into a murder-mystery weekend at a country house, with actors playing the butler and the cook. Your character card says you're a disgraced opera singer with a secret, and the other guests come down to dinner in costume and doing voices. You go down to dinner as yourself.
+facetLeastAction: You go down to dinner as yourself.
+question: A paint company is letting you name its new colour, a deep mossy green. What do you call it?
+answerMost: Mrs Toad's Best Sunday Hat
+answerHigh: Frog in a Hurry
+answerMid: Mossy Log
+answerLow: Forest Floor
+answerLeast: Dark Green
 rorschachMost: an iced gingerbread house
 rorschachHigh: a paper snowflake
 rorschachMid: a garden gnome

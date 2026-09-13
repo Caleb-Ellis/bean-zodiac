@@ -13,9 +13,6 @@ creature: badger
 dish: Cannellini in kombu and parmesan-rind broth.
 friendlyBeans: [edamame, navy]
 friendlyForm: dried
-antiTriple: sweet-roasted-adzuki
-antiBeans: [green, chickpea]
-antiForm: fermented
 seasonalFortune: "A season of parmesan rind and careful keeping — nothing is thrown out, and what flavoured this broth will flavour the next one."
 fortuneMost: Wrap it carefully enough and you'll never use it again.
 fortuneHigh: The badger inherits a sett and spends its life enlarging it.

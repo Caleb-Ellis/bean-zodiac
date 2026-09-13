@@ -13,9 +13,6 @@ creature: raccoon
 dish: Edamame in the pod with chipotle salt and mesquite smoke.
 friendlyBeans: [fava, black]
 friendlyForm: roasted
-antiTriple: sweet-boiled-chickpea
-antiBeans: [mung, pinto]
-antiForm: fermented
 seasonalFortune: "A season of mesquite smoke and muttered objections — the pod strains at its seams, and something gives."
 fortuneMost: Mutineers still have to sail the ship.
 fortuneHigh: Don't accept 'because I said so' as an answer.

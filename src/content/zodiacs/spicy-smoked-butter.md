@@ -13,9 +13,6 @@ creature: pig
 dish: Butter beans smoked over pecan with chipotle and oregano.
 friendlyBeans: [black, pinto]
 friendlyForm: roasted
-antiTriple: sour-boiled-navy
-antiBeans: [edamame, cannellini]
-antiForm: fried
 seasonalFortune: "A season of pecan smoke and long lunches — every taste lingers, and nobody hurries the plate."
 fortuneMost: The more you indulge, the less you'll taste.
 fortuneHigh: On a hot day, a pig will find the coolest mud and lie in it all afternoon.

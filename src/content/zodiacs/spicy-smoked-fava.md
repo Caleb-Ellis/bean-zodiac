@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: spicy-smoked-fava
 lastUpdated:
 bean: fava
@@ -13,36 +13,33 @@ creature: wild stallion
 dish: Fava smoked over oak with chipotle and coriander.
 friendlyBeans: [green, chickpea]
 friendlyForm: fried
-antiTriple: sweet-roasted-butter
-antiBeans: [mung, adzuki]
-antiForm: boiled
 seasonalFortune: "A season of oak smoke and slipped reins — the fire goes wherever the wind allows."
-fortuneMost: A wild stallion runs the herd off a good pasture.
-fortuneHigh: Let it get out of hand a little.
-fortuneMid: Nights that go wrong make the best telling.
-fortuneLow: Rein it back in.
-fortuneLeast: A checked temper keeps its friends.
-facetMostTitle: Beaniot
-facetMost: Five of you walking back along the river at two in the morning, and you have been in once already. The one who followed you in is on the bank, phone gone, shaking. There is a higher wall further up. You climb up and go in off it.
-facetMostAction: You climb up and go in off it.
-facetHighTitle: Beanno Holds Barred
-facetHigh: Your last train home goes from platform two in three minutes, and on platform six there is one running till three in the morning to a town neither you nor your friend knows, and you are both at work at eight. You take her arm and go for platform six.
-facetHighAction: You take her arm and go for platform six.
-facetMidTitle: Off the Beansh
-facetMid: The museum stores are closed to the public and the curator has six of you down there among drawers of tagged bones and a whale jaw. She says twice that nothing gets touched, then turns to answer somebody. You lay your palm flat on the jaw.
-facetMidAction: You lay your palm flat on the jaw.
-facetLowTitle: Held in Bean
-facetLow: Your friend is two hundred up and about to put all two hundred on one number and wants you in with him, and you have fifty in your hand that is the last of your money this month. You put ten down and keep the rest.
-facetLowAction: You put ten down and keep the rest.
-facetLeastTitle: Reined In, Bean
-facetLeast: The medium works a room above a pub and gets her answers out of the room — she throws a question out, somebody answers it for her, and it comes back to them as hers. She stops on you and says she has somebody with an M. There is an M you could give her, and twenty people have turned round. You tell her it means nothing to you.
-facetLeastAction: You tell her it means nothing to you.
-question: The wedding band has stopped and the bar is shut, but somebody has a speaker and the field behind the marquee is empty. You...
-answerMost: keep the field going till it's light, the speaker up on a car roof
-answerHigh: stay out with whoever stays, and dance until the speaker dies
-answerMid: stay in the field an hour, then turn in
-answerLow: help carry the speaker out and go up
-answerLeast: go up when the band stops
+fortuneMost: Everyone loves the wild one until the damage bill arrives.
+fortuneHigh: A wild stallion throws off every saddle anyone puts on it.
+fortuneMid: Let it get out of hand a little.
+fortuneLow: Leave while it's still fun.
+fortuneLeast: The well-worn path still gets you to the view.
+facetMostTitle: The Beanover
+facetMost: It's the last night of your best friend's bachelor weekend, and in the small hours he says he's had enough and wants his bed. On the walk back past the harbour, there's a party boat about to leave that won't be back until lunchtime. His wedding is that afternoon. You walk him onto the boat.
+facetMostAction: You walk him onto the boat.
+facetHighTitle: Wild at Bean
+facetHigh: You're driving a friend back from a music festival late at night. At the turn for home she says she isn't ready for it to be over. The road straight on runs all night to the coast, and you both have work in the morning. You drive past the turn.
+facetHighAction: You drive past the turn.
+facetMidTitle: Singin' in the Bean
+facetMid: You're on your way back from a friend's in your good shoes when a summer downpour hits. Everyone else on the street has crammed into a bus shelter to wait it out. You take your shoes off and walk on through the puddles.
+facetMidAction: You take your shoes off and walk on through the puddles.
+facetLowTitle: Beanse and Sensibility
+facetLow: Your sister's kids are having a mud fight at the bottom of her garden, and they're shouting for you to come and join in. You're dressed for a christening in an hour. You stand on the path and referee.
+facetLowAction: You stand on the path and referee.
+facetLeastTitle: The Remains of the Bean
+facetLeast: You're picking up shifts with a catering company, and tonight it's a masked ball at a mansion. At midnight the host hands out masks to the staff and tells everyone to come and dance, and the head waiter is first onto the floor. You carry your tray of empty glasses down to the kitchen.
+facetLeastAction: You carry your tray of empty glasses down to the kitchen.
+question: How do your big nights out usually end?
+answerMost: on a roof at sunrise, with a crowd collected along the way
+answerHigh: at an after-party in a stranger's flat across town
+answerMid: later than planned, with pizza on the walk home
+answerLow: home by one, with a glass of water by the bed
+answerLeast: as the sober one, driving everyone home
 rorschachMost: a stampede
 rorschachHigh: a loose bull
 rorschachMid: an untrimmed hedge

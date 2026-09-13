@@ -13,9 +13,6 @@ creature: fig wasp
 dish: Butter beans tempura-fried with kombu salt.
 friendlyBeans: [chickpea, adzuki]
 friendlyForm: roasted
-antiTriple: bitter-smoked-cannellini
-antiBeans: [black, green]
-antiForm: fermented
 seasonalFortune: "A season of kombu salt and deep heat — the year holds nothing back, and the batter sets before anybody thinks better of it."
 fortuneMost: Go all in on everything, and you'll be spent before the year is.
 fortuneHigh: The fig wasp breaks off her own wings going into the fig, and never needs them again.

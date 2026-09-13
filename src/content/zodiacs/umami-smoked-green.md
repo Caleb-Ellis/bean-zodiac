@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: umami-smoked-green
 lastUpdated:
 bean: green
@@ -13,36 +13,33 @@ creature: fawn
 dish: Hickory-smoked green beans with bacon and onion.
 friendlyBeans: [fava, kidney]
 friendlyForm: fried
-antiTriple: bitter-boiled-butter
-antiBeans: [navy, pinto]
-antiForm: dried
 seasonalFortune: "A season of bacon and onion; something is starting here that has not finished starting."
-fortuneMost: Wait to be ready and the season passes.
-fortuneHigh: A fawn stands within the hour and follows.
-fortuneMid: Half-formed is still worth showing.
-fortuneLow: Another season won't hurt.
-fortuneLeast: Ripeness comes when it comes.
-facetMostTitle: Nipped in the Bean
-facetMost: One season carrying the balls for the juniors, and you have never run a session on your own. The coach is leaving, the only other offer is a woman who coached at a club for years and can only do alternate weeks, and the parents are on the court deciding it tonight. You tell them you will take the juniors for the season.
-facetMostAction: You tell them you will take the juniors for the season.
+fortuneMost: Show it too soon and that's the version they'll remember.
+fortuneHigh: A fawn walks within an hour of being born, wobbling the whole way.
+fortuneMid: Ask the question a beginner would ask.
+fortuneLow: There's no rush to start anything new.
+fortuneLeast: An old dog's old tricks still earn a treat.
+facetMostTitle: School of Bean
+facetMost: Your friend's band is booked for a wedding at the weekend, and their bass player has broken his wrist. You've been learning bass since the spring, and you can get through three of their songs. You tell them you'll play the wedding.
+facetMostAction: You tell them you'll play the wedding.
 facetHighTitle: Spring Beanwakening
-facetHigh: The drivetime presenter has not turned up, and the manager is in the studio door with the running order. You have had the two-in-the-morning slot on the community station for four months and nobody is awake for it; this one goes out across the county in ten minutes. You take the chair and open the mic.
-facetHighAction: You take the chair and open the mic.
+facetHigh: The surf school on the beach runs a beginners' lesson every morning of your week away, right in front of everyone on their towels. Everybody else in it is about ten years old. You sign up for the week.
+facetHighAction: You sign up for the week.
 facetMidTitle: Nothing Bean Can Stay
-facetMid: Your partner's mum does not speak much English, and you have spent a year on her language so you could talk to her without help. You have one sentence ready — that the house always smells of her cooking — and at the barbecue your partner is stood next to you offering to say it for you. You say it to her mum yourself, and get it wrong twice.
-facetMidAction: You say it to her mum yourself, and get it wrong twice.
+facetMid: Your partner's mum doesn't speak much English, and you've been learning her language for a year. At her birthday lunch, with the whole family at the table, you want to tell her the food is wonderful, and your partner starts translating for you. You say it to her yourself, in her language.
+facetMidAction: You say it to her yourself, in her language.
 facetLowTitle: Autumn Beans
-facetLow: You have been at the astronomy class two years and have never once had the chair at the big telescope; tonight is the open night, forty people are queuing up the steps for Saturn, and the man who runs it stands up and tells you to take it and bring them up one at a time. You give him the chair back.
-facetLowAction: You give him the chair back.
+facetLow: You've been baking bread at home for a while, and bringing loaves in for the baker at the end of your street to try. He shows you around the back — the big ovens, the racks of dough proving overnight — and offers you Saturday mornings working alongside him. You tell him you'd rather keep it as a hobby.
+facetLowAction: You tell him you'd rather keep it as a hobby.
 facetLeastTitle: The Last Beanleaf
-facetLeast: Your friend's daughter has started a sewing course and has asked what to buy, and your machine and the box of thread have been in the loft six years while you have gone on telling people you will get back to it. You give her the machine and the thread and tell her to keep them.
-facetLeastAction: You give her the machine and the thread and tell her to keep them.
-question: The song is half written — one verse, no second — and the open mic is on Thursday. You...
-answerMost: play it Thursday with the second verse still missing
-answerHigh: play the verse you have, and say the rest is coming
-answerMid: finish it first, and play it next month
-answerLow: keep it back until it's right
-answerLeast: leave it unfinished and play the covers you know
+facetLeast: Your grandmother is moving into a care home, and her piano is the one you had lessons on as a kid. You've been saying for years that you'll start playing again. Your mum says you can have the piano, or the house clearance people take it at the end of the week. You tell your mum to let them take it.
+facetLeastAction: You tell your mum to let them take it.
+question: What are you learning at the moment?
+answerMost: pottery, a month in, and already selling the mugs
+answerHigh: the cello, and I'm the worst in the class
+answerMid: a few chords on a friend's old guitar
+answerLow: nothing new, just getting better at what I do
+answerLeast: I think I've learned what I'm going to
 rorschachMost: a hard apple
 rorschachHigh: a seed pod
 rorschachMid: a potted cutting

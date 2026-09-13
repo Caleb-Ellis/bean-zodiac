@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sour-fermented-edamame
 lastUpdated: 
 bean: edamame
@@ -13,31 +13,33 @@ creature: hooded crow
 dish: Edamame quick-pickled in rice vinegar with kombu.
 friendlyBeans: [fava, butter]
 friendlyForm: dried
-antiTriple: umami-boiled-mung
-antiBeans: [adzuki, chickpea]
-antiForm: fried
 seasonalFortune: "A season of kombu and rice vinegar: the jar believes nothing until the acid confirms it."
-fortuneMost: Test everything against the stone and the meal comes late.
-fortuneHigh: Ask who benefits, then wait for the whole answer.
-fortuneMid: A hooded crow drops a shell on rocks to open it.
-fortuneLow: Believing the simple account costs nothing.
-fortuneLeast: Most people are just what they appear, and tired.
+fortuneMost: Doubt everybody and you'll be right often enough to keep at it.
+fortuneHigh: A hooded crow will sit on the wire above the roadkill for an hour before it comes down.
+fortuneMid: Have a look yourself before you say yes.
+fortuneLow: Most of what you're told is just true.
+fortuneLeast: Believe the first answer and get your evening back.
 facetMostTitle: The Bean Wire
-facetMost: The appeal has a photograph, a number, and a story about a village well. You want the accounts. You get the accounts, and then you want to know what the chief executive is paid, and by then you have stopped meaning to give anything at all.
+facetMost: A boatyard down the coast has taken your brother on as a paid apprentice — two years, tools covered — and he's already handed his notice in. You've read the contract and there's nothing wrong with it. At the open day he takes you over to meet the man who owns the yard. You ask the owner how many of last year's apprentices are still working there.
+facetMostAction: You ask the owner how many of last year's apprentices are still working there.
 facetHighTitle: Beanbusters
-facetHigh: A man on the doorstep has a laminated badge and a very good manner about him. You ask which company he is from, then you ring the company while he stands there waiting.
+facetHigh: The open-water race starts at ten and the bank is full of people pulling wetsuits on. The organiser says the water was tested this week and came back clean. A treatment works half a mile upstream was in the paper this summer for discharging sewage, and going up there and back means missing the start. You go up the bank to look at the outflow yourself.
+facetHighAction: You go up the bank to look at the outflow yourself.
 facetMidTitle: Show Me the Bean
-facetMid: Told the tablets cleared her back up in a fortnight, you ask what else she changed in that same fortnight, and she has to stop and think about it.
-facetLowTitle: Bean Faith
-facetLow: Your daughter's new one seems fine and everybody who has met him says he is fine. You take him as he comes.
-facetLeastTitle: The Bean Fall
-facetLeast: An email says the parcel could not be delivered and there is a link in it to rearrange. You click the link, put the card details in, and think nothing more about it until the bank rings.
-question: The hall's treasurer says the roof fund stands at nine thousand and the roof will cost eight. Nobody has seen a statement in two years. You...
-answerMost: take it that the nine thousand is gone, whatever a statement would show
-answerHigh: ask to see the statement before the roof is booked
-answerMid: want to know where the nine thousand came from
-answerLow: let the nine thousand stand and get the work booked
-answerLeast: believe him, because he's the treasurer
+facetMid: Your friend's dog stopped barking after she paid a lot of money for a trainer, and she's booked another block of sessions. At the park she's telling you she's going to put his name up in her building. The buzzer in her hallway has been broken since around the same time, so nobody's been ringing it. You ask her which week the barking actually stopped.
+facetMidAction: You ask her which week the barking actually stopped.
+facetLowTitle: I Want to Beanlieve
+facetLow: You left your jacket on the last train, and lost property turns out to be a long room of shelves behind the ticket hall — umbrellas, a cello, somebody's bag of shopping. The man brings your jacket out and says it came in with the pockets empty. The two hundred dollars you'd folded into the inside pocket isn't there. You take the jacket and thank him for finding it.
+facetLowAction: You take the jacket and thank him for finding it.
+facetLeastTitle: Miracle on 34th Bean
+facetLeast: One of the group you're camping with — somebody you only ever see on these trips — comes back to the fire with a bag of mushrooms out of the pine wood behind the site. She's frying them in butter, and says the dangerous ones are a different colour underneath, and she's picked them since she was small. She hands you a plate. You eat the mushrooms.
+facetLeastAction: You eat the mushrooms.
+question: Now you've got a place of your own, your aunt is giving you the painting from her hall you've wanted since you were small. She says the artist put it into your great-grandmother's hands himself, in a room she can name. There's no signature on the canvas. You...
+answerMost: tell her somebody made the story up
+answerHigh: take it to somebody who can date the canvas
+answerMid: ask her who told her the story
+answerLow: repeat the story to everyone who asks about it
+answerLeast: write the story out and tape it to the back
 rorschachMost: a spiked wall top
 rorschachHigh: a raised hood
 rorschachMid: a squint

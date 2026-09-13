@@ -11,11 +11,8 @@ inverse: delegating
 quote: It's not that I'm so smart, it's just that I stay with beans longer.
 creature: treecreeper
 dish: Edamame roasted in rendered pork fat with soy.
-friendlyBeans: [black, navy]
+friendlyBeans: [cannellini, black]
 friendlyForm: fried
-antiTriple: sweet-smoked-mung
-antiBeans: [kidney, adzuki]
-antiForm: boiled
 seasonalFortune: "A season of pork fat and a slow oven — nothing leaves the tray until it has been turned four times."
 fortuneMost: Stand over a thing long enough and it becomes yours again.
 fortuneHigh: Take the boring half yourself.

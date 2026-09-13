@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: umami-fried-cannellini
 lastUpdated:
 bean: cannellini
@@ -11,33 +11,35 @@ inverse: expedient
 quote: The arc of the bean universe is long, but it bends toward justice.
 creature: elk
 dish: Cannellini fritters with anchovy and parmesan.
-friendlyBeans: [navy, green]
+friendlyBeans: [navy, edamame]
 friendlyForm: dried
-antiTriple: sweet-fermented-butter
-antiBeans: [adzuki, black]
-antiForm: roasted
 seasonalFortune: "A season of anchovy and parmesan: the fritter refuses the shortcut it was offered."
 fortuneMost: A rule kept in every case eventually breaks somebody.
-fortuneHigh: Do the right thing the long way.
-fortuneMid: An elk will not be moved off a trail it knows.
-fortuneLow: The old line may fence the wrong yard now.
-fortuneLeast: Take the shortcut this once.
+fortuneHigh: When wolves rush an elk, the one that stands its ground is usually left alone.
+fortuneMid: Pick the one line that matters, and hold it.
+fortuneLow: Not every rule is worth the fuss.
+fortuneLeast: There's no shame in doing what works.
 facetMostTitle: Das Beanital
-facetMost: Nine years since you last went into that shop, over something the owner said, and the owner has since sold up and died. The new people know nothing about any of it. You still walk the extra half mile to the other one.
+facetMost: Your best friend is getting married at an art gallery, and you're doing a reading. The gallery staff went on strike this morning, and there's a picket line across the front steps. One of the strikers tells you to go on in, it's a wedding. You call your friend and tell her someone else will have to do the reading.
+facetMostAction: You call your friend and tell her someone else will have to do the reading.
 facetHighTitle: On the Waterbean
-facetHigh: Refereeing your own club, you give the penalty against them in the last minute, and the whole touchline lets you know about it for a fortnight.
-facetMidTitle: A Bean in the Sand
-facetMid: The supplier is cheap because of where he gets the stuff. You find out where, you stop using him, and it costs you the contract.
-facetLowTitle: Whatever Beans
-facetLow: The claim form has a box for a receipt you no longer have, for a coffee you definitely bought and definitely paid for. You put the number in and move on.
+facetHigh: Jury duty, and everyone else in the room wants to find the defendant guilty of the burglary and go home. You're not convinced by the one witness who says she saw him at the house. The foreman asks if anyone's still undecided. You put your hand up.
+facetHighAction: You put your hand up.
+facetMidTitle: The Untouchabeans
+facetMid: The movers have half your flat in the van when the one in charge says it'll be a lot cheaper if you pay cash, off the books. The difference would cover your first month's bills at the new place. You tell him you'll pay by card.
+facetMidAction: You tell him you'll pay by card.
+facetLowTitle: Bend It Like Beanham
+facetLow: You haven't eaten meat since you were a teenager. It's your first time meeting your partner's family, at a long table outside their grandmother's house in the hills, and she's been cooking rabbit stew since dawn. She puts the first bowl down in front of you. You eat it.
+facetLowAction: You eat it.
 facetLeastTitle: By Any Beans Necessary
-facetLeast: There is one space left in the car park and a badge in the glovebox that is not yours and never was, and you put it up on the dash and go in.
-question: You've been offered good work, and the company behind it turns out to make cluster munitions. You...
-answerMost: turn it down, and tell the friend who put you forward exactly why
-answerHigh: turn it down, without making a speech about it
-answerMid: turn it down, and say you're too busy
-answerLow: take it, and give some of the fee away
-answerLeast: take it — the work is the work
+facetLeast: It's the hottest day of the year, and the hotel across the street has a rooftop pool for guests only. You and a friend walk into the lobby in your swimsuits. The man at the front desk asks which room you're in. You make up a room number.
+facetLeastAction: You make up a room number.
+question: Your best friend has found the perfect flat, but the agency can't get a reference out of her old landlord. She asks if you'll take their call and pretend to be him. You...
+answerMost: tell her you're surprised she'd even ask
+answerHigh: offer to vouch for her as a friend instead
+answerMid: take the call, but only say what you know is true about her
+answerLow: ask her what he'd say, and say that
+answerLeast: tell them she's the best tenant you've ever had
 rorschachMost: two stone tablets
 rorschachHigh: a rule book
 rorschachMid: a signed pledge

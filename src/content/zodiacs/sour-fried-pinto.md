@@ -11,11 +11,8 @@ inverse: guarded
 quote: First thought, best bean.
 creature: jay
 dish: Pinto beans fried with tomatillo and lime.
-friendlyBeans: [adzuki, fava]
+friendlyBeans: [adzuki, mung]
 friendlyForm: fermented
-antiTriple: bitter-dried-black
-antiBeans: [edamame, cannellini]
-antiForm: smoked
 seasonalFortune: "A season of tomatillo and off-the-cuff remarks — the bean hits the hot oil and says whatever it's thinking."
 fortuneMost: A jay will scream at a sleeping owl until it wakes up.
 fortuneHigh: Say it now, however it comes out.

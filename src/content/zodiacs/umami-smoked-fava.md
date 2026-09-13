@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: umami-smoked-fava
 lastUpdated:
 bean: fava
@@ -11,33 +11,35 @@ inverse: civilised
 quote: In the beginning, there was bean.
 creature: dire wolf
 dish: Hickory-smoked fava with lardo.
-friendlyBeans: [green, pinto]
+friendlyBeans: [green, kidney]
 friendlyForm: fried
-antiTriple: sweet-boiled-navy
-antiBeans: [chickpea, mung]
-antiForm: dried
 seasonalFortune: "A season of lardo and old fire — the smoke predates the kitchen it fills."
-fortuneMost: A dire wolf answers before manners get a word in.
-fortuneHigh: Eat with your hands and don't apologise.
-fortuneMid: The old instinct is usually right.
-fortuneLow: Use the fork.
-fortuneLeast: Manners were invented for a reason.
+fortuneMost: Bite once and nobody forgets it.
+fortuneHigh: The dire wolf ate first, and never once said grace.
+fortuneMid: Stand in the rain for a minute.
+fortuneLow: Wait to be seated.
+fortuneLeast: Soap, chairs and shoes were all excellent ideas.
 facetMostTitle: The Jungle Bean
-facetMost: Somebody put a hand on your son and the thing that came up in you had no words in it at all. You do not remember the middle part. Three people had hold of you by the end, and what frightens you now is how good it felt at the time.
+facetMost: You've spent a month walking the coast on your own, sleeping out wherever you stop and washing in the sea, and you've never felt better. The bus back to the city leaves the harbour in the morning, and your job starts again on Monday. You ring your manager and tell them you won't be coming back.
+facetMostAction: You ring your manager and tell them you won't be coming back.
 facetHighTitle: Beanal Scream
-facetHigh: The weather has come in, the tent has gone, you are wet through and a long way from down. Something in you takes over, and walks you down, and does not consult you at any point.
+facetHigh: At a wedding, while the groom is out on the terrace, one of his friends has had too much to drink and keeps pulling your friend onto the dance floor by the arm. She's told him no twice. You take hold of his wrist and lift it off her.
+facetHighAction: You take hold of his wrist and lift it off her.
 facetMidTitle: Call of the Bean
-facetMid: The first proper food in two days, and you eat it standing up with your hands, and you are not embarrassed about that afterwards.
+facetMid: You're meeting your partner's parents for the first time, and they've made whole crabs for dinner, with a little silver pick and a pair of crackers laid by every plate. Everybody else is getting on neatly with the picks, and you've been at one claw for ages with almost nothing to show for it. You put the pick down and use your fingers.
+facetMidAction: You put the pick down and use your fingers.
 facetLowTitle: My Fair Beany
-facetLow: A dog has gone for another one and everybody has frozen where they stand. You feel the shout coming and you keep it in.
-facetLeastTitle: Sunday Beanest
-facetLeast: There is a version of this evening where you say what you actually feel about him and the table finds out, and you pass the potatoes. You ask about the drive down, and you are still asking when the plates go out.
-question: The reception is in a marquee, and outside the storm has put the sea over the wall. You...
-answerMost: go out in your suit and come back in with the sea on you
-answerHigh: go out and stand in the weather for as long as the storm runs
-answerMid: watch it from the marquee door
-answerLow: stay in where it's dry
-answerLeast: draw the flap across and carry on with dinner
+facetLow: Your boss has taken you as her guest into the members' enclosure at the races, where everyone is in hats and a steward has already asked one man to keep his voice down. The horse you've put money on is coming up the last stretch, neck and neck. All around you, people are clapping politely. You clap politely too.
+facetLowAction: You clap politely too.
+facetLeastTitle: Downton Beanby
+facetLeast: You're canoeing out to an island on a lake with some friends for the weekend, to sleep under a tarp and eat out of the pan. There's room in the canoe for one small bag each, and it'll be cold after dark. You pack a tablecloth and proper wine glasses.
+facetLeastAction: You pack a tablecloth and proper wine glasses.
+question: Walking alone through the woods at dusk, you come round a bend and a stag is standing on the path ahead, looking straight at you. You...
+answerMost: leave the path and follow it into the trees
+answerHigh: walk slowly toward it, as close as it'll let you
+answerMid: freeze where you are
+answerLow: take a photo of it on your phone
+answerLeast: turn round and go back the way you came
 rorschachMost: a wolf's head
 rorschachHigh: a thorn ball
 rorschachMid: a scrubbing brush

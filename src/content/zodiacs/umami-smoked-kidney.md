@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: umami-smoked-kidney
 lastUpdated: 
 bean: kidney
@@ -13,36 +13,33 @@ creature: loon
 dish: Hickory-smoked kidney beans with brisket.
 friendlyBeans: [mung, chickpea]
 friendlyForm: boiled
-antiTriple: sour-dried-edamame
-antiBeans: [fava, adzuki]
-antiForm: fermented
 seasonalFortune: "A season of brisket and long smoke — the house smells of something that has left."
-fortuneMost: Grieve loud enough and nobody knows how to sit nearby.
-fortuneHigh: A loon calls across the lake all night.
-fortuneMid: Sadness said out loud gets lighter.
-fortuneLow: Talk about something ordinary.
-fortuneLeast: Not feeling it is allowed too.
+fortuneMost: Turn away every comfort and soon none will be offered.
+fortuneHigh: Grieve for as long as it takes.
+fortuneMid: A loon wails across the lake at night, calling for its mate.
+fortuneLow: It's alright to laugh at a wake.
+fortuneLeast: Life's too short to spend it mourning.
 facetMostTitle: Bean Me a River
-facetMost: Your dad's room is as he left it eighteen months ago, down to the paper folded on the arm of the chair and his watch on the sill, and the rent on the flat comes out of your wages. Your sister has asked twice about clearing it. You wind the watch again and shut the door.
-facetMostAction: You wind the watch again and shut the door.
+facetMost: Your dog died three years ago, and your partner has driven you out to a rescue centre without saying why. A volunteer brings in a scruffy terrier with the same lopsided ears yours had, and the adoption form only needs your signature. You tell them you're never having another dog.
+facetMostAction: You tell them you're never having another dog.
 facetHighTitle: Bean Memoriam
-facetHigh: You're on your feet at your brother's wedding with a hundred and forty people waiting for the funny bit. Your dad has been dead two years and he is the reason the two of you are like this. You spend most of the two minutes on him.
-facetHighAction: You spend most of the two minutes on him.
+facetHigh: It's a friend's birthday at a karaoke bar, and she's up on the table in a paper crown. Then somebody puts on Sweet Caroline, the song your uncle belted out at every family wedding until he died last year. You take the mic and say this one's for your uncle.
+facetHighAction: You take the mic and say this one's for your uncle.
 facetMidTitle: Beans in Heaven
-facetMid: Your gran has been gone a year, and you're in the supermarket with your partner when you pass the custard creams she kept in the tin by the kettle. You put a packet in the trolley.
-facetMidAction: You put a packet in the trolley.
-facetLowTitle: No Tearbeans
-facetLow: Eleven of you are out on the water to scatter your uncle's ashes and the boat is rolling. Your cousins are in bits. You find you're thinking about the drive back, and you take the urn when it comes round and pass it on.
-facetLowAction: You find you're thinking about the drive back, and you take the urn when it comes round and pass it on.
-facetLeastTitle: The Unbeaned Mover
-facetLeast: Your friend rings to say her mum died in the night, and you're on the phone to her for half an hour. When you put it down you finish making your dinner and eat it in front of the telly.
-facetLeastAction: When you put it down you finish making your dinner and eat it in front of the telly.
-question: One hour a year, on the day they died, you can hear the voice of somebody you've lost. Everybody can. You...
-answerMost: take the hour, and keep the whole week round it clear
-answerHigh: take the hour, and tell people afterwards whose voice it was
-answerMid: use it some years and not others
-answerLow: let the hour go by and think of them on your own
-answerLeast: let the day pass like any other
+facetMid: Your late grandfather's car has sold, and the man who bought it is on the doorstep with the money. The Johnny Cash tape your grandfather always played is still in the stereo. You take the tape out before you hand over the keys.
+facetMidAction: You take the tape out before you hand over the keys.
+facetLowTitle: Always Look on the Bright Bean of Life
+facetLow: The couple who bought your parents' house, the one you grew up in, have invited you round to see what they've done with it. Your old bedroom is an office now, and the kitchen wall with your height marks pencilled on it has been knocked through. You ask them who their builder was.
+facetLowAction: You ask them who their builder was.
+facetLeastTitle: The Unbearable Lightness of Beaning
+facetLeast: You're at the airport for the week in Lisbon you booked with your partner, who's meant to be meeting you at the gate. They ring to say they aren't coming, and that they're leaving you. Boarding has started. You get on the plane.
+facetLeastAction: You get on the plane.
+question: How long would a friend's number stay in your phone after they died?
+answerMost: for good, and you'd text it on their birthday
+answerHigh: for good
+answerMid: until the number gets given to someone else
+answerLow: until your next clear-out of contacts
+answerLeast: until after the funeral
 rorschachMost: a veiled figure
 rorschachHigh: a streaked window
 rorschachMid: a wilted wreath

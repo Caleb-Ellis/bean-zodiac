@@ -11,11 +11,8 @@ inverse: empty
 quote: I am not moody — I am a bean with feelings.
 creature: cicada
 dish: Frijoles charros - pinto beans braised with chorizo and jalapeño.
-friendlyBeans: [chickpea, adzuki]
+friendlyBeans: [green, chickpea]
 friendlyForm: roasted
-antiTriple: bitter-dried-edamame
-antiBeans: [fava, butter]
-antiForm: smoked
 seasonalFortune: "A season of chorizo and rising liquid — the pot fills faster than the table can drink."
 fortuneMost: Full to the brim and it goes everywhere but the glass.
 fortuneHigh: A cicada spends years underground for three loud weeks.

@@ -11,11 +11,8 @@ inverse: tinkering
 quote: The bean is cast.
 creature: archerfish
 dish: Edamame tempura with tentsuyu.
-friendlyBeans: [cannellini, fava]
+friendlyBeans: [cannellini, navy]
 friendlyForm: dried
-antiTriple: bitter-smoked-butter
-antiBeans: [mung, kidney]
-antiForm: fermented
 seasonalFortune: "A season of tentsuyu and a hot pan — the year answers a question once, and will not be asked it twice."
 fortuneMost: Finish it too fast and you'll be living with it a long while.
 fortuneHigh: Decide it, and don't open it again.

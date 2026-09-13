@@ -13,9 +13,6 @@ creature: barnacle
 dish: Green bean tempura with grated daikon and dashi.
 friendlyBeans: [chickpea, kidney]
 friendlyForm: smoked
-antiTriple: bitter-fermented-butter
-antiBeans: [cannellini, black]
-antiForm: boiled
 seasonalFortune: "A season of dashi and held ground — whatever's loose in the year drifts until it fetches up against the one thing that hasn't moved."
 fortuneMost: A good spot will hold you long after it's stopped being one.
 fortuneHigh: A barnacle cements its head to the rock and feeds from that one spot for life.

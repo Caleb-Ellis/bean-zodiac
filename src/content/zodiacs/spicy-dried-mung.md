@@ -13,9 +13,6 @@ creature: leech
 dish: Dried mung with dried red chilli and curry leaf.
 friendlyBeans: [kidney, butter]
 friendlyForm: smoked
-antiTriple: sour-roasted-adzuki
-antiBeans: [pinto, fava]
-antiForm: boiled
 seasonalFortune: "A season of ginger and dried chilli — none of it goes down easy, and the fever breaks."
 fortuneMost: Tough love without the love is just being harsh.
 fortuneHigh: A leech's bite can save a reattached finger.

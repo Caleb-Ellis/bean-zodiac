@@ -11,11 +11,8 @@ inverse: uncommitted
 quote: Thou shalt have no other beans before me.
 creature: gentoo penguin
 dish: Amanatto - dried adzuki candied slowly and rolled in sugar.
-friendlyBeans: [navy, cannellini]
+friendlyBeans: [navy, kidney]
 friendlyForm: boiled
-antiTriple: spicy-fried-pinto
-antiBeans: [green, kidney]
-antiForm: smoked
 seasonalFortune: "A season of amanatto and kept vows — each bean rolled in sugar by hand, more than it needs."
 fortuneMost: Nobody can live up to being worshipped.
 fortuneHigh: Make a promise and keep it.

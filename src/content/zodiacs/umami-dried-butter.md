@@ -11,11 +11,8 @@ inverse: striving
 quote: We must cultivate our beans.
 creature: sea otter
 dish: Dried butter beans aged with parmesan rind.
-friendlyBeans: [black, edamame]
+friendlyBeans: [mung, black]
 friendlyForm: boiled
-antiTriple: spicy-fried-kidney
-antiBeans: [chickpea, green]
-antiForm: roasted
 seasonalFortune: "A season of parmesan rind and full shelves — nothing in the store wants replacing, and nothing in it gets looked at twice."
 fortuneMost: Say it's fine often enough and you'll stop checking.
 fortuneHigh: Keep the old one. It still works.

@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sweet-smoked-green
 lastUpdated:
 bean: green
@@ -13,31 +13,33 @@ creature: scarab
 dish: Green beans barbecued with maple and bacon.
 friendlyBeans: [pinto, fava]
 friendlyForm: fried
-antiTriple: umami-boiled-cannellini
-antiBeans: [butter, navy]
-antiForm: dried
 seasonalFortune: "A season of maple and bacon; the smoke changes colour depending where you stand."
-fortuneMost: Shine hard enough and people only see the shine.
-fortuneHigh: A scarab is metal green and does nothing to earn it.
-fortuneMid: A bit of colour lifts a plain day.
-fortuneLow: Wear the plain one.
-fortuneLeast: Grey is restful to look at.
+fortuneMost: The more there is to look at, the less anybody sees.
+fortuneHigh: Show them a side they haven't seen yet.
+fortuneMid: A rose chafer looks dull in the shade and emerald in the sun.
+fortuneLow: Turn up the way they remember you.
+fortuneLeast: The plain bean is the bean that goes with everything.
 facetMostTitle: All That Beanters
-facetMost: The front room has the green wall, the orange chair, the beads and the lamp with the fringe. Everything in it is a good thing on its own. Somebody stands in the doorway and you can watch them trying to find somewhere to put their eyes.
-facetHighTitle: Beanidescent
-facetHigh: The scarf is four colours that should not work together and you have known that since you bought it. You wear it constantly.
-facetMidTitle: Beanimmer
-facetMid: That cake could be iced in one colour and be perfectly good, and what you do instead takes a whole afternoon and three shades and gets photographed by everybody who comes in.
+facetMost: An old friend from school has died. His family have asked everyone coming to the funeral to wear something bright, because he always did, and his mother is at the door greeting people. You wear a gold jacket, a pink shirt and green trousers, all together.
+facetMostAction: You wear a gold jacket, a pink shirt and green trousers, all together.
+facetHighTitle: Blue Is the Warmest Bean
+facetHigh: You've worn your hair the same way since school. In a few days you start a new job, and however you look on the first day is how they'll know you. The hairdresser asks if it's the usual. You ask her to dye it green.
+facetHighAction: You ask her to dye it green.
+facetMidTitle: Pleasantbeanville
+facetMid: Every other candidate in the waiting room is in navy or black, and so are you. It's the second interview for a job you really want, and there's a yellow silk scarf in your bag. You put the scarf on before they call your name.
+facetMidAction: You put the scarf on before they call your name.
 facetLowTitle: Beananhattan
-facetLow: There is a bright one and a plain one, and the bright one is better made, and you buy the plain one, because you will get more use out of it.
-facetLeastTitle: Bean and White
-facetLeast: Your wardrobe is navy, grey, black, and one white shirt for the funerals. Somebody asks whether you own anything with a colour in it, and you look, properly, for the first time in years, and you find that you do not.
-question: It's the monthly meet-up in the church hall and your wardrobe is full. What do you wear?
-answerMost: the gold coat, the boots and the hat, to a church hall
-answerHigh: something nobody there has seen you in, and it works
-answerMid: the new jacket over what you always wear
-answerLow: what you wore to it last month
-answerLeast: the same black jumper as every month
+facetLow: You and your partner are at the jeweller choosing wedding rings, and yours can be anything you like. There's a plain gold band, and one with a line of tiny green stones set all the way round that catches the light when you move your hand. You'll wear it every day for the rest of your life. You pick the plain gold band.
+facetLowAction: You pick the plain gold band.
+facetLeastTitle: Fifty Shades of Bean
+facetLeast: A friend who works at a paint factory takes you through to the mixing room, where a machine will match any colour you hold up to it — a leaf, a bus ticket, the inside of a shell. You've just moved into a new flat, and she'll mix whatever you want for it, free. You ask for white, for every room.
+facetLeastAction: You ask for white, for every room.
+question: What's in your wardrobe?
+answerMost: leopard print, sequins and neon, usually worn all at once
+answerHigh: a new favourite colour every few months
+answerMid: mostly black, plus whatever colour you're into this year
+answerLow: navy and grey, and a green shirt with the tags still on
+answerLeast: a stack of identical grey jumpers
 rorschachMost: a spilled palette
 rorschachHigh: a beetle's back
 rorschachMid: a button tin

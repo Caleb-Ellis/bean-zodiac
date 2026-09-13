@@ -4,17 +4,14 @@ lastUpdated: 2026-08-12
 bean: navy
 flavour: spicy
 form: boiled
-trait: rigid
-excess: obstinate
+trait: resolute
+excess: rigid
 inverse: yielding
 quote: An immovable bean meets an unstoppable force.
 creature: hippopotamus
 dish: Navy beans braised with cayenne and smoked ham hock.
 friendlyBeans: [black, edamame]
 friendlyForm: dried
-antiTriple: sour-smoked-fava
-antiBeans: [green, pinto]
-antiForm: fried
 seasonalFortune: "A season of ham hock and settled weight — the pot stays where it is through everything."
 fortuneMost: The gate has rusted shut.
 fortuneHigh: The hippopotamus always gets its way.

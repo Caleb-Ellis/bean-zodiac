@@ -13,9 +13,6 @@ creature: honey badger
 dish: Dried butter beans with chilli flake and numbing pepper oil.
 friendlyBeans: [black, navy]
 friendlyForm: boiled
-antiTriple: bitter-fried-green
-antiBeans: [chickpea, fava]
-antiForm: smoked
 seasonalFortune: "A season of numbing pepper and sharp tongues — the heat arrives, and the bean doesn't feel a thing."
 fortuneMost: Shrug everything off and soon nobody will tell you anything.
 fortuneHigh: The honey badger raids the hive and doesn't mind the stings.
