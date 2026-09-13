@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sour-fried-adzuki
 lastUpdated: 
 bean: adzuki
@@ -17,27 +17,32 @@ antiTriple: umami-fermented-black
 antiBeans: [butter, cannellini]
 antiForm: dried
 seasonalFortune: "A season of black vinegar and fast returns — the pan answers before the question finishes."
-fortuneMost: The fastest thing available to say is usually the cruellest.
-fortuneHigh: Get it out while it's still funny.
-fortuneMid: A vervet has a different alarm call for every predator.
-fortuneLow: Leave a beat before answering.
-fortuneLeast: The slow answer is the one they trust.
-facetMostTitle: Beanthers
-facetMost: Your team is stuck on the last lock of the escape room with nine minutes on the clock, and somebody suggests the thing you have already tried twice. What you come back with lands, and nobody suggests anything else for the rest of the hour.
-facetHighTitle: Beanlighting
-facetHigh: Pulled up on stage, asked where you are from, and the room is not expecting much. Your answer gets the biggest laugh of the night, and he has to work to win them back.
+fortuneMost: Nobody relaxes around the quickest person in the room.
+fortuneHigh: The vervet calls the second it sees the eagle, and the whole troop is up in the trees.
+fortuneMid: Say it before you've had a chance to improve it.
+fortuneLow: An answer is allowed to take a moment.
+fortuneLeast: The best thing you'll ever say will come to you on the stairs.
+facetMostTitle: Cat on a Hot Bean Roof
+facetMost: Your sister's baby is being named, and your brother-in-law's father has read a speech off his phone and called the baby the wrong name the whole way through. Everyone's been kind about it. He sits down beside you with his plate and asks, quietly, whether that was alright. You give him the wrong name back, in his voice.
+facetMostAction: You give him the wrong name back, in his voice.
+facetHighTitle: Beancast News
+facetHigh: The swimming pool shuts at the end of the summer unless the club raises the money, and three minutes on the local station is the only airtime you'll get. The presenter thanks you, calls it the rowing club, and there's a second of dead air. You say the rowing club can have the money if they'll take the pool as well.
+facetHighAction: You say the rowing club can have the money if they'll take the pool as well.
 facetMidTitle: The Thin Bean
-facetMid: The tutor gets your name wrong at evening class and is halfway through apologising when you have something back, and the whole room loosens.
+facetMid: First tattoo, and the artist has pressed the stencil onto your forearm and stepped back to look at it. It's crooked, and she sees it the same second you do and swears. There are two hours in the chair ahead of you. You tell her you'll spend the rest of your life with your head tilted.
+facetMidAction: You tell her you'll spend the rest of your life with your head tilted.
 facetLowTitle: Bean & Ted's Excellent Adventure
-facetLow: The man at the betting shop counter has a long theory about the third race. You follow it a beat behind, work out what he means, and put your line on.
-facetLeastTitle: The Three Beans
-facetLeast: Poolside, a swimmer makes a joke about your whistle and goes back to his lengths. You get it about four seconds later, and laugh then.
-question: In the barber's chair, half way through, he makes a remark at the expense of your hairline. You...
-answerMost: come straight back with something sharper about his
-answerHigh: come back with a better line about his
-answerMid: laugh, and give him a mild one in return
-answerLow: laugh and let it go
-answerLeast: tell him honestly that it's been going for years
+facetLow: A friend has got you in on the night shift at the bakery where she works, and at four in the morning she and the two men she works with are still going, joke on top of joke. One of them makes a crack at your expense and the other two laugh. You ask him what the joke is.
+facetLowAction: You ask him what the joke is.
+facetLeastTitle: Beanpin
+facetLeast: A friend's birthday at the bowling alley, and your run-up has become the evening's material — your housemate does it back at you every time you get up, and two of the others have their own versions now. It's your go, and they're waiting for the comeback. You tell them you're trying to make the ball curve at the end, and show them the grip.
+facetLeastAction: You tell them you're trying to make the ball curve at the end, and show them the grip.
+question: First Sunday lunch with your partner's family, and you want them to like you. Your partner warned you the grandmother goes for everyone once. The bread knife is in your hand when she asks whether you're making sandwiches or roofing a shed. You...
+answerMost: say out loud what your partner warned you about her
+answerHigh: ask whether she's got a spirit level you could borrow
+answerMid: say hers can be as thin as she likes
+answerLow: hand her the knife
+answerLeast: work out a good one later in the meal, and say it then
 rorschachMost: a nettle sting
 rorschachHigh: a struck match
 rorschachMid: a mouth mid-word

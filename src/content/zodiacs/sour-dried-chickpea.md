@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sour-dried-chickpea
 lastUpdated: 
 bean: chickpea
@@ -17,27 +17,32 @@ antiTriple: bitter-fermented-mung
 antiBeans: [kidney, butter]
 antiForm: boiled
 seasonalFortune: "A season of anardana and raised eyebrows — the pantry finds the whole business faintly funny."
-fortuneMost: Nothing said arrives at face value any more.
-fortuneHigh: Let the pause do the work.
-fortuneMid: A jackdaw takes the bright thing and finds it only bright.
-fortuneLow: Sit through the story without commenting.
-fortuneLeast: Some news wants a plain face.
+fortuneMost: There's a laugh you can get that costs you the person.
+fortuneHigh: A jackdaw pairs for life and spends that life shouting at its partner.
+fortuneMid: Bad evenings go faster with somebody making remarks about them.
+fortuneLow: Take the good news as good news.
+fortuneLeast: A straight answer gets you home sooner.
 facetMostTitle: Gosford Bean
-facetMost: Every sentence this evening has had a second meaning folded into it and about half the table has caught about half of them. Somebody asks you, straight, whether you actually like the food. You give an answer they will be turning over in the car.
+facetMost: Your old school's centenary film is being shot in the hall, former pupils interviewed one at a time on camera. The teacher who ran your year is in the front row waiting his turn, close enough to hear, and he's everybody's favourite. The interviewer asks what he taught you. You answer that he prepared you for every unreasonable person you've met since.
+facetMostAction: You answer that he prepared you for every unreasonable person you've met since.
 facetHighTitle: The Royal Tenenbeans
-facetHigh: The consultant says the words nobody wants to hear, and after a moment you observe that this has rather done for the holiday in June.
+facetHigh: Your mother waited until everybody had arrived to say she's sold the house, and the buyers come Sunday to measure up. Your brother flew in for this. Nobody in the kitchen has spoken for a while. You say somebody should get a photo of the three of you in here while it's still her kitchen.
+facetHighAction: You say somebody should get a photo of the three of you in here while it's still her kitchen.
 facetMidTitle: Moonrise Beandom
-facetMid: Told the coach will be another two hours yet, you observe that this is easily the best part of the outing so far. You mean it slightly, and the driver hears you.
+facetMid: A boy has walked off from the caravan park, and half the site is out in a line across the field with a whistle each. The woman beside you hasn't spoken since you set off. You tell her the boy will hear this many adults blowing whistles and stay exactly where he is.
+facetMidAction: You tell her the boy will hear this many adults blowing whistles and stay exactly where he is.
 facetLowTitle: Bean Victoria
-facetLow: The best man is doing the joke about the stag weekend, and it is not a good joke and will not be getting better. You wait for the thing to be over.
+facetLow: A painter is posing your partner's mother and her two grown children around an armchair in his studio, all looking slightly away from one another. Your partner's brother catches your eye, waiting for you to say something. Their mother has gone quiet and is trying not to cry. You tell him you think the painting will be the best thing she owns.
+facetLowAction: You tell him you think the painting will be the best thing she owns.
 facetLeastTitle: Grumpy Old Beans
-facetLeast: Somebody at the tip makes the remark about the weather that every single person there makes. You say yes, it is, and you carry on loading up the boot of the car.
-question: Your cake for the school fair has come out of the oven flat as a plate, and your daughter walks in as you're looking at it. You...
-answerMost: give it a funeral on the spot, with a few words said over it
-answerHigh: hand her a slice and call it the new recipe
-answerMid: laugh at it, then say you'll start the next one
-answerLow: put the tin in the sink
-answerLeast: work out what the oven did
+facetLeast: Your friend has come home to find his bedroom filled to the ceiling with scrunched-up newspaper, his flight tonight and his passport somewhere under it. His three housemates are in the doorway filming his face. You start hauling armfuls of it out past them.
+facetLeastAction: You start hauling armfuls of it out past them.
+question: Your father has wanted to see a total eclipse his whole life. The two of you drove all night to stand in a field for it, and the cloud never lifts. The light goes, comes back, a few people clap, and he says nothing. You...
+answerMost: wonder out loud what the clapping is for
+answerHigh: say you both drove all night to watch a cloud go slightly darker
+answerMid: ask him whether that counts
+answerLow: tell him you're sorry it clouded over
+answerLeast: find out when the next one comes past here
 rorschachMost: a raised eyebrow
 rorschachHigh: a nudge in the ribs
 rorschachMid: a cat's whiskers

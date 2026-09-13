@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: bitter-fried-cannellini
 lastUpdated: 
 bean: cannellini
@@ -17,27 +17,32 @@ antiTriple: umami-fermented-adzuki
 antiBeans: [chickpea, pinto]
 antiForm: smoked
 seasonalFortune: "A season of blackened lemon and counted seconds — the pan forgives nothing; the failures burn."
-fortuneMost: Rebuild it enough times and the season's gone.
-fortuneHigh: A weaverbird ties every knot in its nest with its beak.
-fortuneMid: High standards get better work sent in.
-fortuneLow: Good enough is good enough here.
-fortuneLeast: Nobody notices the difference.
+fortuneMost: A weaverbird will tear down a finished nest and start the whole thing again.
+fortuneHigh: Close enough isn't good enough.
+fortuneMid: Taste it once more before it goes out.
+fortuneLow: Most people won't look that closely.
+fortuneLeast: A split bean tastes the same as a whole one.
 facetMostTitle: The Beaning
-facetMost: Forty-one of the mirror glazes are perfect and the forty-second has a bloom on it. Not one of them goes out. The whole batch goes in the bin and you start again from the chocolate at two in the morning, on your own.
+facetMost: Your sister's bookshop opens in the morning, and you've spent the evening painting its name across the front window. Past midnight, you notice one letter leans a little more than the others. Nobody could tell from the street. You scrape the whole window clean and start again.
+facetMostAction: You scrape the whole window clean and start again.
 facetHighTitle: Jiro Dreams of Beans
-facetHigh: Three courses of the wall are up and one stone sits proud of the line. You take out the two above and re-lay them.
+facetHigh: You're doing your best friend's make-up on her wedding morning, and the photographer is calling for her outside. One eyeliner flick sits a little higher than the other. She says it looks fine. You wipe it off and do it again.
+facetHighAction: You wipe it off and do it again.
 facetMidTitle: The Great British Bean Off
-facetMid: The swan's wing has a flat facet that only shows from the doorway, and you go back at it with the chisel while the guests are arriving.
+facetMid: Your friends are holding a bake-off in a friend's back garden, and her mum is judging. Your lemon cake has come out a little lopsided, though the sponge is perfect, and she's making her way down the table towards it. You level the top off with a bread knife.
+facetMidAction: You level the top off with a bread knife.
 facetLowTitle: Beaniled It!
-facetLow: Two shelves of the unit have gone in the wrong way round and putting that right means taking the whole thing apart. The unit stays as it is, and the books go on.
+facetLow: It's the last night of your pottery class, and whatever's on the kiln shelf by the end of it gets fired. Your bowl, the one thing you'll take home from the course, has a dent in the rim. There's just about time to wet the clay and smooth the dent out. You put the bowl on the shelf as it is.
+facetLowAction: You put the bowl on the shelf as it is.
 facetLeastTitle: Bean 9 from Outer Space
-facetLeast: Cutting in round the ceiling is the slow part and there is football on at three. You do it fast, you do it wobbly, and you paint over the wobble in the same colour.
-question: Proofs of the programme have come back and the type on the back page sits a shade low. You...
-answerMost: hold the whole run until the back page is right
-answerHigh: send it back to be reset, and check the rest again
-answerMid: have that page fixed and let the others go
-answerLow: notice it and sign the proof off anyway
-answerLeast: sign it off without looking past the front
+facetLeast: Your flatmate is shooting a sci-fi short in their parents' garage for a film night at a cinema in town, and you've made the spaceship out of a colander and tinfoil. The fishing line holding it up shows in every shot, and hiding it would mean moving all the lamps. You tell them to keep filming.
+facetLeastAction: You tell them to keep filming.
+question: A new stretch of pavement has gone down outside your building and the concrete is still wet. Nobody's around, and you want your initials in it for good. You...
+answerMost: smooth them over and start again because one letter wobbles
+answerHigh: fetch a ruler from inside to keep the lines straight
+answerMid: press them in slowly with the tip of a key
+answerLow: draw them quickly with your finger
+answerLeast: scuff them in with the toe of your shoe
 rorschachMost: a piped wedding cake
 rorschachHigh: a dovetail joint
 rorschachMid: a wig block

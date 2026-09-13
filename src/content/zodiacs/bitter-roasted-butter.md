@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: bitter-roasted-butter
 lastUpdated: 
 bean: butter
@@ -22,22 +22,27 @@ fortuneHigh: It's not the disaster they're calling it.
 fortuneMid: Most of what gets worried about sorts itself.
 fortuneLow: Some things do deserve a bit of fuss.
 fortuneLeast: Worriers spot things first.
-facetMostTitle: Bored to Beans
-facetMost: The balloon is coming down faster than the pilot would like and he has asked everybody to brace against the basket wall. You know those fields from up here already. You carry on looking at them all the way in.
-facetHighTitle: Easy Bean
-facetHigh: The gather slides off the end of the iron and lands on the workshop floor in a puddle that is still orange. You shrug, pick the iron back up, and go to the furnace for more.
+facetMostTitle: Easy Come, Easy Bean
+facetMost: A friend left her camera with you — a whole trip on the card, copied nowhere else. You put it in a bag with wet swimming things, and the shop can't get anything off it. She's on her way over. You tell her there'll be copies of most of them somewhere.
+facetMostAction: You tell her there'll be copies of most of them somewhere.
+facetHighTitle: The Big Lebeanski
+facetHigh: The supply boat turned back in the weather and won't try again for two weeks, so the store at the research station has to stretch that far. The other person out here has every tin on the table, sorting them into days. You take the tomatoes and the sardines and cook them both.
+facetHighAction: You take the tomatoes and the sardines and cook them both.
 facetMidTitle: Don't Worry Beanling
-facetMid: Nobody at lost property has handed in a coat like that. You say fair enough and walk out into the rain in your shirt.
-facetLowTitle: Anxious Beanle
-facetLow: Third week without rain and the reservoir is down as far as the old bridge, and you have started reading about it in the evenings.
-facetLeastTitle: Beanic Room
-facetLeast: Four moves up the climbing wall with a rope on, and the man below has already told you the knot is fine. You have had him check it twice. You are going to ask him again before you move your foot off the hold.
-question: The panel emails to say you didn't get the job you'd been shortlisted for. You...
-answerMost: shrug it off and never think about why
-answerHigh: read it, shrug, put the kettle on
-answerMid: let it sit badly for the afternoon
-answerLow: go back over the interview in your head
-answerLeast: ring the panel to ask exactly what went wrong
+facetMid: The tattoo is finished and the man who did it isn't happy — the second line of lettering sits lower than the first, and he'll redo that for nothing once you've healed. Otherwise it stays like that on your forearm for good. He picks up the wrap. You hold your arm out for it.
+facetMidAction: You hold your arm out for it.
+facetLowTitle: Goldilocks and the Three Beans
+facetLow: Half an hour into the eye test, the optician is flicking between two lenses asking which is clearer, and they've got close enough that you can't tell them apart. He says either will do and reaches for the form. It's the pair you'll be wearing every day. You ask him to run the last two again.
+facetLowAction: You ask him to run the last two again.
+facetLeastTitle: The Grand Beandapest Hotel
+facetLeast: Your friend's shop opens in the morning, and you and two of his friends have spent the evening stencilling his name onto the board over the door. The last two letters are crowded against the end where the stencil slipped, and the paint is still wet. The others are washing the brushes. You wipe those two letters off and set the stencil up again.
+facetLeastAction: You wipe those two letters off and set the stencil up again.
+question: Your band finally paid for a day in a studio, and there's an hour of it left with one song still to do. The engineer plays back what you've just sung — good, except your voice goes flat in the last chorus. You...
+answerMost: ask what time you have to be out
+answerHigh: keep it and use the hour on the last song
+answerMid: do the last chorus over
+answerLow: sing the whole song through again
+answerLeast: sing it until the chorus is right, and let the last song go
 rorschachMost: a slouched sunbather
 rorschachHigh: a lounging cat
 rorschachMid: a sofa with a throw

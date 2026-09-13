@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: bitter-roasted-black
 lastUpdated: 
 bean: black
@@ -17,27 +17,32 @@ antiTriple: spicy-fried-green
 antiBeans: [mung, fava]
 antiForm: smoked
 seasonalFortune: "A season of oak smoke and steady hands: the coals never see the bean flinch."
-fortuneMost: Perfect composure reads as not caring.
-fortuneHigh: A flamingo sleeps standing in cold water on one leg.
-fortuneMid: Showing nothing is the whole performance.
-fortuneLow: Let them see you rattled.
-fortuneLeast: Getting flustered is honest.
+fortuneMost: Give nothing away and nobody thinks to ask.
+fortuneHigh: Finish the sentence you were on.
+fortuneMid: The flamingo feeds with its head upside down and comes up clean.
+fortuneLow: Looking like hard work is no crime.
+fortuneLeast: Going to pieces is how people know to come over.
 facetMostTitle: The Remains of the Bean
-facetMost: The ferry is two hours late, the terminal is out of coffee, and a queue of people is going up one at a time at the desk. You stay in your seat with your book, and you do not look up when the shouting starts.
+facetMost: Two of your oldest friends walk into your birthday dinner, having driven across the country. Your partner set this up months ago and is watching your face, because the face is the whole present. You stand up, hug each of them, and ask how the drive was.
+facetMostAction: You stand up, hug each of them, and ask how the drive was.
 facetHighTitle: Breakfast at Beany's
-facetHigh: The microphone dies halfway through your reading and the room goes awkward. You wait it out, get it back, and carry on from the word you lost.
+facetHigh: You're live on the radio breakfast show, talking about the swimming club you help run, when the presenter says the club's money has gone missing and asks whether it was you. You say no, and tell him where the accounts are kept and who checks them.
+facetHighAction: You say no, and tell him where the accounts are kept and who checks them.
 facetMidTitle: The Bean Wears Prada
-facetMid: Halfway up the fell in weather nobody dressed for, and the group has started arguing about whether to turn back. You get the map out and put your finger on exactly where all of you are.
+facetMid: A friend's first exhibition — a room of her big charcoal drawings. A man next to you, not knowing you know her, says loudly there isn't an original idea on the walls. She heard it, and she's looking over. You tell him which drawing you'd buy, and why.
+facetMidAction: You tell him which drawing you'd buy, and why.
 facetLowTitle: Fawlty Beans
-facetLow: The pan catches, the smoke alarm goes, and there are guests in the next room. You swear loudly enough for all of them to hear it.
+facetLow: The cook has walked out mid-service at the small hotel where you're staying, and the woman who runs it has you carrying plates. Food is coming up faster than you can read the orders, and the dining room is full. You tell her, in front of the tables, that you can't keep up.
+facetLowAction: You tell her, in front of the tables, that you can't keep up.
 facetLeastTitle: Beanet Jones' Diary
-facetLeast: You knock a full glass of red into the host's lap and go to pieces about it — apologising over the top of her, fetching the wrong cloth, apologising again.
-question: You're carrying the cake in to a room full of people and you trip. The cake goes. You...
-answerMost: gather it up without a word and go straight on
-answerHigh: pause a second, laugh once, keep going
-answerMid: apologise and get it cleared up
-answerLow: keep apologising for it
-answerLeast: hand the plate to somebody and leave the room
+facetLeast: Last night of the term at your evening pottery class, and the potter teaching it has asked you to say a few words. Everyone's bowls and mugs are out on the table and the class is waiting for you to start. You tell them you're going to make a mess of this.
+facetLeastAction: You tell them you're going to make a mess of this.
+question: You want to keep your place in the team this summer. Five minutes into the first game you go up for a header, miss it, and land flat on your back in front of everybody on the touchline. Nothing's hurt. You...
+answerMost: get straight back into position
+answerHigh: wave to say you're fine, and carry on
+answerMid: get up laughing and tell whoever's nearest you never had it
+answerLow: lie there a minute before you get up
+answerLeast: ask to come off for a bit
 rorschachMost: a chandelier
 rorschachHigh: a dancer at a barre
 rorschachMid: a wrought-iron gate

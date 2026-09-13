@@ -31,7 +31,7 @@ facetHighAction: You tell him to sign the lease, and that you'll open up in the 
 facetMidTitle: Driving Miss Beansy
 facetMid: For two years you've gone to your grandmother's on Sunday afternoons to learn the language off her — she's the last person you know who speaks it. You've been asked away for a long weekend with people you've been trying to see for months. You go to your grandmother's on the Sunday.
 facetMidAction: You go to your grandmother's on the Sunday.
-facetLowTitle: The Beanutral Zone
+facetLowTitle: The Beantral Zone
 facetLow: A friend has taken you up the tower where he rings the bells — the ropes, the boards on the wall with the peals on them going back to 1802. They teach anybody from scratch, they're short of ringers, and he's already told them you're joining. You tell them you'll come up whenever he asks but you're not putting your name down.
 facetLowAction: You tell them you'll come up whenever he asks but you're not putting your name down.
 facetLeastTitle: Judgement Bean

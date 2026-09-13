@@ -36,12 +36,12 @@ facetLowAction: You stand on the end of board a while, then climb back down the 
 facetLeastTitle: Held Back, Bean
 facetLeast: It's an open mic night and there are three slots left on the sign-up sheet at the bar. You've got a song and you know it's ready. You let three people write their names in ahead of you.
 facetLeastAction: You let three people write their names in ahead of you.
-question: You want a season of ocean racing behind you. Down at the harbour a skipper says their boat is a crew member short for tomorrow's overnight leg, and the berth is yours if you want it. You...
-answerMost: ask to sail the rest of the season with them as well
-answerHigh: say yes, and buy wet weather gear on the walk home
-answerMid: take it, then look up the forecast at home
-answerLow: ask for an hour out on the boat first
-answerLeast: say you'll let them know tonight
+question: In the future, interstellar travel is fairly common. You're offered a place on any of several space missions, each one further out, and into deeper unknown than the last. You...
+answerMost: sign on for the one far beyond the map
+answerHigh: take the one just beyond charted space, with an estimated route home
+answerMid: pick the one that approaches the edge of what's already been explored
+answerLow: choose a short, well-charted run
+answerLeast: pass, and keep your feet on the ground
 rorschachMost: a bolting animal
 rorschachHigh: a boomerang
 rorschachMid: a breaking wave

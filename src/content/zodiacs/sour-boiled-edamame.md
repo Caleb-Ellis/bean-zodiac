@@ -22,7 +22,7 @@ fortuneHigh: Do the useful thing while everyone is still upset.
 fortuneMid: A vulture eats what nothing else will go near, and nothing is wasted.
 fortuneLow: A person crying is usually after company, not a plan.
 fortuneLeast: There is nothing wrong with being the first one crying.
-facetMostTitle: The Beanminator
+facetMostTitle: The Beaninator
 facetMost: Your friend has trained a year for this marathon, and you said you'd be at the barrier at mile twenty-one. She reaches you walking and in tears, and asks you to tell her she can still finish. The next timing mat closes in eleven minutes and she is twenty minutes from it. You tell her the two numbers, and that she isn't going to finish.
 facetMostAction: You tell her the two numbers, and that she isn't going to finish.
 facetHighTitle: Beanpollo 13
@@ -31,18 +31,18 @@ facetHighAction: You ask which of you is staying in the flat.
 facetMidTitle: Fly Away Bean
 facetMid: A fledgling has come down on the path outside your building and is hopping about, not flying. Two adult birds are going back and forth in the tree above it, and a cat lives two doors up. Your housemate has fetched a shoebox and wants to take it inside and feed it. You tell her the birds above are the parents, and to leave it on the path.
 facetMidAction: You tell her the birds above are the parents, and to leave it on the path.
-facetLowTitle: Beanward Scissorhands
+facetLowTitle: Edward Scissorbeans
 facetLow: The woman cutting your hair has taken far more off than you asked for and it is noticeably uneven at the back. It's her first week, the manager keeps coming over to look, and she asks you twice whether it's what you wanted. You tell her it's exactly right.
 facetLowAction: You tell her it's exactly right.
-facetLeastTitle: It's a Beanderful Life
+facetLeastTitle: It's a Wonderful Bean
 facetLeast: A friend takes you along on the van she helps run on Wednesday nights, handing out food under the flyover. On the way she explains the one rule — nothing of your own, because it starts arguments about who got what. A man in a t-shirt asks you for the coat you're wearing. You take it off and give it to him.
 facetLeastAction: You take it off and give it to him.
-question: You want this trip to happen. The four of you paid up front for a house in Spain in August and it's non-refundable. One of you has lost her job, says she can't come and can't pay her share, and she's in tears about it. You...
-answerMost: hold her to what she agreed to pay
-answerHigh: split her share between the three of you
-answerMid: lend her the money, and tell her to pay it back whenever
-answerLow: cover the whole of her share yourself
-answerLeast: tell her to forget the money, and that she's coming
+question: You've wanted a campervan for years. Three of you paid for one last week and the money's spent. One of you has lost her job, wants her third back, and is in tears. You...
+answerMost: tell her the money's spent and the van's bought
+answerHigh: ask her to find someone to take her third
+answerMid: say it's fine for now, but it'll need sorting out at some point
+answerLow: ask how bad things are
+answerLeast: tell her it's okay, you'll figure something out
 rorschachMost: a machine part
 rorschachHigh: a flight of steps
 rorschachMid: a wedge of cheese

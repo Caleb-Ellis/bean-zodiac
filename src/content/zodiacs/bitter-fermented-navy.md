@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: bitter-fermented-navy
 lastUpdated: 
 bean: navy
@@ -17,32 +17,32 @@ antiTriple: spicy-fried-chickpea
 antiBeans: [fava, butter]
 antiForm: smoked
 seasonalFortune: "A season of three-year miso and closed doors. The barley koji keeps its own quiet library."
-fortuneMost: Read enough about it and the doing never starts.
-fortuneHigh: A silverfish eats the paste out of old book spines.
-fortuneMid: The book had the answer after all.
-fortuneLow: Ask somebody who's done it.
-fortuneLeast: Practice teaches what reading cannot.
+fortuneMost: The silverfish eats its way through the library, and never once sees the sun.
+fortuneHigh: Whatever it is, there's a book for it.
+fortuneMid: A few pages before bed is never time wasted.
+fortuneLow: The film is allowed to be better than the book.
+fortuneLeast: Nobody ever learned to swim from a book.
 facetMostTitle: The Name of the Bean
-facetMost: The whole family are down in the bar and it is the first time in four years they have all been in one place — your uncle has come from Canada for it — and you are up in the room, three hundred pages into something you started on the train. You put the do-not-disturb on the door.
-facetMostAction: You put the do-not-disturb on the door.
+facetMost: Your oldest friend's wedding is at an old monastery, and the monks' library is open to guests. You slipped in there after the speeches and took a book off the shelf. Now the dancing has started, and she's sent her brother to come and find you. You tell him you'll be out when you've finished the chapter.
+facetMostAction: You tell him you'll be out when you've finished the chapter.
 facetHighTitle: The Bean Thief
-facetHigh: The new rota would get you off at four instead of six, which everybody else has been after for a year. What it takes away is the two hours in the canteen before you start, which is where you have got through most of what you have read in three years. The man doing the swaps has the sheet out. You ask to stay on the late one.
-facetHighAction: You ask to stay on the late one.
+facetHigh: A pipe has burst in the flat upstairs, and water is pouring through your ceiling into the corner by the window. There's only time to move one armful out of the way. Your laptop is on the desk in that corner, and it isn't insured. Your books are on the shelf underneath it. You grab the books.
+facetHighAction: You grab the books.
 facetMidTitle: Beanilda
-facetMid: The tour has fifteen minutes left and the specimens are what everybody has come for — the jars, the wax models, the skeleton of a man who sold it himself. Off the gallery there is a reading room where the surgeons' casebooks are kept, and a woman on the desk who will get one down if you ask. You spend the fifteen minutes in there.
-facetMidAction: You spend the fifteen minutes in there.
+facetMid: The whale-watching boat takes an hour to get out to the feeding grounds, and most of the passengers are crowded round the marine biologist on board, asking her questions. You bought a book on whales from the kiosk on the pier. You read the book on the way out.
+facetMidAction: You read the book on the way out.
 facetLowTitle: Fahrenbean 451
-facetLow: You cannot swim properly and the adult lessons are Wednesdays at seven, which is the hour you read in and the only one you get; there are six weeks of them and no other time that runs. You put your name down.
-facetLowAction: You put your name down.
+facetLow: You're on jury service, which mostly means waiting in a room full of strangers in case your name is called. You brought a book for exactly this. At the next table, a few of the others have started a card game and ask if you'd like to play. You tell them to deal you in.
+facetLowAction: You tell them to deal you in.
 facetLeastTitle: Cliff's Beans
-facetLeast: Your friend has taken you into the store where the pictures that are not up live on racks you pull out, and told you how a wall gets chosen and what the conservator does to a frame first. At the end she gives you the catalogue she wrote the essay in. You ask her to tell you the rest on the way out.
-facetLeastAction: You ask her to tell you the rest on the way out.
-question: Your niece has failed the exam and asks you how a person gets over that. You...
-answerMost: read her the passage, then two more from the same shelf
-answerHigh: find the passage that fits it exactly and read it out
-answerMid: lend her the book with the page marked
-answerLow: tell her what you did about it yourself
-answerLeast: say books won't help, and take her out
+facetLeast: Your partner's dad has sent you his favourite novel ahead of your first visit, with a note saying he can't wait to talk about it with you. It's a very long book, and the visit is in two weeks. You ask your partner to tell you what happens in it.
+facetLeastAction: You ask your partner to tell you what happens in it.
+question: You've wanted a telescope since you were a kid, and now you've finally got one. Tonight is the first clear night since it arrived. You...
+answerMost: stay in and read a history of astronomy first
+answerHigh: take a stargazing book out, and start at chapter one
+answerMid: print a star chart to take out with you
+answerLow: open an app that names the stars
+answerLeast: aim it at the brightest thing up there
 rorschachMost: a walled library
 rorschachHigh: two thick volumes
 rorschachMid: a reading chair

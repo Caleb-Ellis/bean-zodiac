@@ -3,6 +3,7 @@ slug: green
 name: Green Bean
 role: The Initiator
 tagline: Show up before you're ready.
+goal: more, now — starts things
 positiveTraits: [eager, initiating, optimistic, ebullient, curious]
 negativeTraits: [restless, flighty]
 imageFile: green.webp

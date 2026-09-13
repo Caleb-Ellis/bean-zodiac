@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: bitter-fermented-adzuki
 lastUpdated: 
 bean: adzuki
@@ -17,32 +17,32 @@ antiTriple: sweet-fried-chickpea
 antiBeans: [edamame, cannellini]
 antiForm: boiled
 seasonalFortune: "A season of old crocks and kept dates — the paste remembers a calendar the kitchen abandoned."
-fortuneMost: A pack rat fills its nest until it can't move through it.
-fortuneHigh: Write down how it actually happened.
-fortuneMid: Somebody should remember how it was done.
-fortuneLow: The new one is better; try it.
-fortuneLeast: Old things were new once.
+fortuneMost: Hold on to the old ways too tightly and nobody will want to inherit them.
+fortuneHigh: Ask how it used to be done.
+fortuneMid: Pack rats build nests out of whatever's lying around, and the nests keep for thousands of years.
+fortuneLow: The newer version usually exists for a reason.
+fortuneLeast: Every tradition started out as somebody's new idea.
 facetMostTitle: Bean Expectations
-facetMost: The last lot of the clearance sale is four boxes of a grocer's account books, 1931 to 1968, and nobody in the room has put a hand up. Your rent goes out at the end of the week and you know what is in the account. You keep bidding until they are yours.
-facetMostAction: You keep bidding until they are yours.
+facetMost: The old single-screen cinema where you volunteer will close at the end of the year, unless it takes a grant that means swapping its film projector for a digital one. The volunteers are voting on it tonight, and it's close. You vote to keep the film projector.
+facetMostAction: You vote to keep the film projector.
 facetHighTitle: Antiques Beanshow
-facetHigh: Your friend wants to know where her grandmother came from and every register she needs is on a website for twelve pounds a month. The originals are in the county archive, an hour each way. You book the day off and go and read them.
-facetHighAction: You book the day off and go and read them.
+facetHigh: An old Victorian swimming pool near you is being gutted for flats, and the hand-painted tiles in the entrance hall are going to be thrown out. The site foreman hands you a chisel and says you can have any you get off before the builders start in the morning. You start chiselling tiles off the wall.
+facetHighAction: You start chiselling tiles off the wall.
 facetMidTitle: Time Bean
-facetMid: The dish your gran made every winter needs a cut nobody asks the butcher for any more, and there are four people in the queue behind you. You ask for it by the name she used.
-facetMidAction: You ask for it by the name she used.
+facetMid: On a walk by the river at low tide, you spot a piece of old blue-and-white china down the bank, half sunk in the mud. The friend you're with is heading on to the café for lunch, and says it's just somebody's junk. You go down into the mud to get it.
+facetMidAction: You go down into the mud to get it.
 facetLowTitle: Keeping Up with the Beandashians
-facetLow: The fair has been coming to the same field for sixty years and the waltzer at the back is still hand-painted, still run by the family whose name is along the top of it. This year there is a new ride with a screen in it and a queue round the generator. You get in the queue for the new one.
-facetLowAction: You get in the queue for the new one.
-facetLeastTitle: The Next Big Bean
-facetLeast: Your gran's house was cleared two years ago and six of the boxes went into your loft and have not been opened since. The council take away whatever is on the pavement at the end of the month. You carry all six down and put them out.
-facetLeastAction: You carry all six down and put them out.
-question: For one day the town stands as it did two hundred years ago — same streets, same buildings, open to walk through. You...
-answerMost: stay in it until they close the streets again
-answerHigh: walk the whole town working out what stood where
-answerMid: go and see what's on your own street, then head home
-answerLow: have a look on the way past, then get on with the day
-answerLeast: give it a miss and go to the place that opened last week
+facetLow: You're only in the city for the day, and there's an hour left before the natural history museum closes — enough for one part of it. There's the old hall, with its dark wooden cases of fossils, or the new wing with the VR dinosaur everyone's been posting about. You head for the new wing.
+facetLowAction: You head for the new wing.
+facetLeastTitle: Bean Girls
+facetLeast: You've decided to get your first tattoo. The artist has a sheet of the tiny fine-line designs half your friends have had done this year, and a book of the old sailor designs tattoo artists have drawn for generations. You pick one of the fine-line designs.
+facetLeastAction: You pick one of the fine-line designs.
+question: You're cooking dinner on your own, with music on. What's playing?
+answerMost: a scratchy record on the wind-up gramophone, the only player you own
+answerHigh: a jazz record from a hundred years ago
+answerMid: an album from before you were born
+answerLow: whatever's on the radio
+answerLeast: the song that's everywhere this week
 rorschachMost: a moth-eaten fur
 rorschachHigh: a curiosity cabinet
 rorschachMid: a dusty wreath

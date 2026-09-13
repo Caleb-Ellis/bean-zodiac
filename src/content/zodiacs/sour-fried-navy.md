@@ -23,8 +23,8 @@ fortuneMid: A woodpecker taps along the trunk until it finds the rotten wood, th
 fortuneLow: Let them do it their way.
 fortuneLeast: However they go into the pan, beans come out fried.
 facetMostTitle: Beanfeld
-facetMost: Your partner has surprised you with a weekend in Venice. On the gondola you've already mentioned the price, and that this isn't the Grand Canal. The gondolier starts singing "O Sole Mio" and your partner puts an arm around you. You point out that "O Sole Mio" is from Naples.
-facetMostAction: You point out that "O Sole Mio" is from Naples.
+facetMost: The house is actually haunted. A ghost drifts room to room reciting its history, but gets the year of the Great Fire wrong. You correct it before you let it go on haunting.
+facetMostAction: You correct it before you let it go on haunting.
 facetHighTitle: The Girl with the Bean Tattoo
 facetHigh: You've gone with your best friend while she gets a line from the song they played at her dad's funeral tattooed along her ribs. She wrote it out for the stencil herself, and got one word wrong. The artist is three words away from the wrong one. You tell him to stop.
 facetHighAction: You tell him to stop.

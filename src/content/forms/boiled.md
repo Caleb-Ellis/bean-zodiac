@@ -2,6 +2,7 @@
 slug: boiled
 name: Boiled
 tagline: The Form that softens.
+reactivity: gives it back out — softer
 positiveTraits: [steady, receptive, yielding, sustaining, composed]
 negativeTraits: [heavy, listless]
 ---

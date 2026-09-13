@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: bitter-smoked-edamame
 lastUpdated: 
 bean: edamame
@@ -16,28 +16,33 @@ friendlyForm: dried
 antiTriple: sweet-roasted-pinto
 antiBeans: [chickpea, kidney]
 antiForm: fried
-seasonalFortune: "A season of cherry wood and withheld salt — the pod keeps most of what it learned."
-fortuneMost: Hold enough back and people give up guessing.
-fortuneHigh: Keep what was told in confidence.
-fortuneMid: A clam shut on grit is making something of it.
-fortuneLow: Silence lets the wrong version travel.
-fortuneLeast: Tell the long version to whoever has the evening.
+seasonalFortune: "A season of cherry smoke and matcha salt — the flavour arrives and never says where it came from."
+fortuneMost: Say nothing for long enough and nobody thinks to ask.
+fortuneHigh: The clam buries itself in the sand and feeds without ever surfacing.
+fortuneMid: Give them the answer without the story around it.
+fortuneLow: Most people are only asking because they're interested.
+fortuneLeast: Start at the beginning. Stop when they get up.
 facetMostTitle: The Silence of the Beans
-facetMost: They have asked you four times now, in four different ways, what happened between you and your father. You have given them the year he died and the name of the town. Nothing else has moved, and you will sit here all afternoon.
-facetHighTitle: Bean Drive
-facetHigh: The date has got to the part where she has told you about her marriage and is waiting. You say that yours ended too, and you leave it at that.
-facetMidTitle: Silent Bean
-facetMid: Asked how the operation went, you say it went fine, and everybody has to take that as the whole of it.
+facetMost: Twenty minutes with the hardship fund panel, and then the money goes to the next name. Your father lost the house in the spring and you've slept on a friend's floor since. They ask a third time what changed. You tell them your address changed.
+facetMostAction: You tell them your address changed.
+facetHighTitle: The Remains of the Bean
+facetHigh: A guest hasn't turned up for the radio station's live hour from the harbour, and the producer puts the headphones on you. You came back for your mother, who can't manage the house on her own. The host asks what brought you home. You tell him you're staying at your mother's for now.
+facetHighAction: You tell him you're staying at your mother's for now.
+facetMidTitle: Cool Hand Bean
+facetMid: Third morning running you've swum with the same group off the beach, and they've started inviting you to things. The woman who organises the swims asks what you did before you moved here. You tell her you taught.
+facetMidAction: You tell her you taught.
 facetLowTitle: Motormouth Beanbel
-facetLow: Somebody on the ward asks what you are in for, and you find yourself telling them, and then telling them about the last time as well.
+facetLow: Your partner's father is driving you back to the station, forty minutes of just the two of you. He asks how the flat's working out. You tell him about damp in the bedroom, and then how close you and your partner came to splitting up.
+facetLowAction: You tell him about damp in the bedroom, and then how close you and your partner came to splitting up.
 facetLeastTitle: Mr. Bean Goes to Washington
-facetLeast: The interviewer asks one question about the album and you are still going nine minutes later. You have covered the studio, the divorce, the drummer, and what you think of the label.
-question: You've been offered the job you applied for in the next town without telling anybody — title, money and start date all settled. Your family are round on Sunday. You...
-answerMost: say work's much the same
-answerHigh: give them the date you start, and nothing about the job
-answerMid: give them the job title if they ask
-answerLow: tell the table the money and the start date before the food's out
-answerLeast: take them through the interview questions and who they turned down
+facetLeast: A couple viewing your flat have been round it in nine minutes and are standing by the door being polite. If it doesn't sell, the place you've bought falls through. The woman asks how long you've lived here. You tell them about the neighbour upstairs, the year the boiler went, which window gets the sun, and why you're going.
+facetLeastAction: You tell them about the neighbour upstairs, the year the boiler went, which window gets the sun, and why you're going.
+question: You called off your wedding in June, sold the flat, and drove north so that nobody would ask. Half an hour into a sauna by the lake, the woman on the bench beside you asks what brought you up here. You...
+answerMost: say you're just passing through, and ask how hot it gets in here
+answerHigh: say you sold the flat
+answerMid: tell her the wedding didn't happen
+answerLow: tell her you were the one who called it off
+answerLeast: take her through the wedding, the flat and the whole drive north
 rorschachMost: a clamped mouth
 rorschachHigh: a closed shell
 rorschachMid: a lid on a pot

@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sour-fermented-black
 lastUpdated: 
 bean: black
@@ -17,32 +17,32 @@ antiTriple: spicy-fried-chickpea
 antiBeans: [adzuki, navy]
 antiForm: boiled
 seasonalFortune: "A season of jalapeño brine and quiet noticing: the pickle sees the kitchen better than it's seen."
-fortuneMost: Everything has a motive once somebody goes looking.
-fortuneHigh: A harpy eagle spots a monkey through a closed canopy.
-fortuneMid: The quiet detail is the one that matters.
-fortuneLow: Most of it is exactly what it looks like.
-fortuneLeast: Take people as you find them.
+fortuneMost: Given long enough, everybody looks guilty of something.
+fortuneHigh: The harpy eagle sits still in the canopy for hours and takes the monkey that gives itself away.
+fortuneMid: Keep hold of the small thing that doesn't sit right.
+fortuneLow: A short answer is usually just a short answer.
+fortuneLeast: Believe the menu. Order the fish.
 facetMostTitle: The Bean Trial
-facetMost: Your mum's neighbour has been driving her to appointments since your dad died, and doing her shopping, and he won't take anything for the petrol. Your mum thinks the world of him and so does everybody on that road. You ask her to get her bank statements out.
-facetMostAction: You ask her to get her bank statements out.
+facetMost: A fire took your friend's flat and everything in it. The page she put up to replace it has sat at a third of the target for weeks, and overnight a man none of you have heard of pays the whole of the rest, with his name on it and a line wishing her well. She's sitting there writing to thank him. You message him yourself and ask how he knows her.
+facetMostAction: You message him yourself and ask how he knows her.
 facetHighTitle: The Beantalist
-facetHigh: You're buying his car off the drive and it's all there — service history, two owners, a hundred off the price without being asked; every mat in it is grey except the driver's one, which is new and black. You ask him to pull it up.
-facetHighAction: You ask him to pull it up.
+facetHigh: Your brother's been working abroad a year and you've met him off the train. He talks the whole way down the platform — the job, the money, the people he'll miss, what he's going to do to his flat now he's back in it. He went out with two cases and he's come back with one, half empty. You pick up his case and tell him he's staying at yours.
+facetHighAction: You pick up his case and tell him he's staying at yours.
 facetMidTitle: Miss Beanple
-facetMid: The place is immaculate when they show you round for your gran — flowers on, a woman playing the piano, the manager knowing every resident by name. In the lounge the television is on at full volume and not one of the eleven people in there is facing it. You ask if you can come back at the weekend without ringing first.
-facetMidAction: You ask if you can come back at the weekend without ringing first.
+facetMid: Your friend's baby is being christened, and at the lunch afterwards her mother stands up and thanks people by name — the godparents, the neighbours who drove everyone over, the woman who made the cake. The baby's other grandmother is at the next table, laughing along with everyone else, and isn't one of them. You go and sit with her and ask how often she gets to see the baby.
+facetMidAction: You go and sit with her and ask how often she gets to see the baby.
 facetLowTitle: Inspector Beanget
-facetLow: Your friend's got a whole theory about the new man where she works — the way he asks about everyone's weekends, who he sits with, what he did about the shift swaps — and she's been on it twenty minutes and wants you to help her join it up. You tell her he probably just likes talking.
-facetLowAction: You tell her he probably just likes talking.
-facetLeastTitle: Spot the Bean
-facetLeast: Your friend's walked you round the line where he works, the presses and the board with everyone's shifts on it, and he's told you the whole way round that it's a good place and they look after you. Three people have left this month. You put your name down for a start.
-facetLeastAction: You put your name down for a start.
-question: Your friend's new flat is spotless, she's cheerful all afternoon, and one door stays shut the whole time. What do you make of it?
-answerMost: there's something behind that door, and you steer the talk at it
-answerHigh: worth asking, lightly, what's in there
-answerMid: you clock the door and say nothing
-answerLow: it'll be a box room she hasn't sorted yet
-answerLeast: nothing at all — you never register the door
+facetLow: You and a friend are the only guests at a guesthouse on the coast, out of season, and she's been building a case against the couple who run it since breakfast — the two of them eating at opposite ends of the dining room, the husband's van gone every night, the wedding photograph off the wall with the hook still in it. She wants to check out and find somewhere else, and the four nights are paid for. You tell her it's a good place and you're staying.
+facetLowAction: You tell her it's a good place and you're staying.
+facetLeastTitle: Beans Wide Shut
+facetLeast: A friend of a friend is letting his flat for six months while he's away — cheap, no contract, cash each month. He walks you round it, the boiler he's just had done, whose bikes are in the hall, which day the bins go out. On the landing the woman from the next flat asks when he's due back, and asks it again as you're leaving. You hand him the first month in cash and move in at the weekend.
+facetLeastAction: You hand him the first month in cash and move in at the weekend.
+question: You've been playing Sunday football with the same group for a month, and you want to be one of the regulars. The man who books the pitch asks if you'll collect everyone's money this week. The last person who did it stopped coming, he says. You...
+answerMost: ask the other players what went on with the last one
+answerHigh: ask him why that person stopped coming
+answerMid: take it on, and start a list of who's paid
+answerLow: take it on and ask what the pitch costs
+answerLeast: ask him whether this means you're in for good
 rorschachMost: a peephole in a door
 rorschachHigh: a hawk's head
 rorschachMid: a knot in wood

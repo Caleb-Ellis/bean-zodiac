@@ -3,6 +3,7 @@ slug: fava
 name: Fava Bean
 role: The Daredevil
 tagline: The risk is the point.
+goal: to do the hard version — moves toward cost
 positiveTraits: [courageous, undaunted, daring, ambitious, defiant]
 negativeTraits: [reckless, arrogant]
 imageFile: fava.webp

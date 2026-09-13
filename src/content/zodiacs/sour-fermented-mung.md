@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sour-fermented-mung
 lastUpdated:
 bean: mung
@@ -17,32 +17,32 @@ antiTriple: sweet-boiled-navy
 antiBeans: [chickpea, adzuki]
 antiForm: roasted
 seasonalFortune: "A season of green chilli and clear reading — the jar names the ailment before the kitchen does."
-fortuneMost: Reduce it enough and the person disappears into the diagnosis.
+fortuneMost: Keep looking and everyone turns out to have something wrong with them.
 fortuneHigh: A leech finds the vein without being shown.
-fortuneMid: Naming the problem is half of fixing it.
-fortuneLow: Stop analysing them.
-fortuneLeast: Taking it at face value costs nothing.
+fortuneMid: The leak is never where the stain is.
+fortuneLow: Take the reason they give you.
+fortuneLeast: Half of getting better is just being looked after.
 facetMostTitle: The Beanfast Club
-facetMost: Your brother's been off with his back seven months and the six of you are in your mum's garden deciding whether to lend him the four thousand. Everyone's talking about the back. You tell them the back isn't it, and that he's been like this since he was twenty.
+facetMost: Your brother's been off work with his back since the spring, and you're out in your parents' garden with them and your sister, deciding whether to lend him the four thousand he's asked for. Everyone's talking about the back. You tell them the back isn't it, and that he's been like this since he was twenty.
 facetMostAction: You tell them the back isn't it, and that he's been like this since he was twenty.
-facetHighTitle: The Bean Doctor
-facetHigh: Your mum's been dizzy since the spring and the doctor's put it down to her age twice now. You've been through everything she's been given since then and made a list of it, and two of them shouldn't be taken together. You take the list in with you.
-facetHighAction: You take the list in with you.
+facetHighTitle: Beantilda
+facetHigh: Your friend's son has been messing about in maths all term, and the school have called her in to move him into the bottom group. She's asked you to come with her. He does his homework with you off a photo of the board, the phone right up against his face. You tell them it isn't the maths — he can't see the board.
+facetHighAction: You tell them it isn't the maths — he can't see the board.
 facetMidTitle: The Beanlist Manifesto
-facetMid: The crew have changed the lamp twice and it still goes out in the same scene, and the cue sheet's on the desk with the whole show written down it. The get-out's at midnight and nobody's got time for this. You ask what else happens on that cue.
-facetMidAction: You ask what else happens on that cue.
-facetLowTitle: Beantor's Orders
-facetLow: Your friend's cancelled three things in a row and today she says she's just tired. She's been saying tired since about Easter. You tell her to get an early night.
-facetLowAction: You tell her to get an early night.
-facetLeastTitle: The Beanperiment
-facetLeast: You bump into your friend by the seed trays and it turns out she's been back in the country a fortnight without telling you, and she's got a reason for that as well as for the three times she's put you off. You get your phone out and put the next lunch in.
-facetLeastAction: You get your phone out and put the next lunch in.
-question: Twenty minutes into your sister-in-law's account of the new job, you can see the same shape as the last three. You...
-answerMost: name the pattern, and date it back to the job before college
-answerHigh: name the pattern going back years, because it fits
-answerMid: point out that the last three ended the same way
-answerLow: wonder aloud whether this one feels different
-answerLeast: take the new job as its own thing entirely
+facetMid: A friend's got you in at the dress rehearsal of her play, shifting furniture between scenes. The lamp over the kitchen table onstage goes out in the same scene every night, and they've had two new bulbs in it. It opens tomorrow, and whoever does the lighting has gone home. You ask what happens onstage just before the lamp goes out.
+facetMidAction: You ask what happens onstage just before the lamp goes out.
+facetLowTitle: Turner & Beanch
+facetLow: You do a Saturday morning at the dog rescue, and the greyhound in the end kennel hasn't eaten for two days. He's going to a family next week. There's a sheet on his door where the staff write down anything they've noticed, for the vet to read. You put a blanket in with him and sit down on the floor.
+facetLowAction: You put a blanket in with him and sit down on the floor.
+facetLeastTitle: The Beanu
+facetLeast: It's your second week washing up at a restaurant, and the chef who does the starters has been snapping at everyone all week. Tonight he hasn't said a word, and he's cleaning down at the far end. At the end of the night the rest of the kitchen start guessing at what's happened to him. You put a plate of chips down in front of him.
+facetLeastAction: You put a plate of chips down in front of him.
+question: You wanted one good week away. It's the third night camping with four old friends, and the two who drove down together have argued every evening. At the fire, one of the others asks what's got into them. You...
+answerMost: tell them those two have always been like this, and always will be
+answerHigh: say it's nothing to do with the camping — it started in the car
+answerMid: ask what they're actually arguing about
+answerLow: put it down to three nights of bad sleep in a tent
+answerLeast: build the fire up and ask what everyone wants to do tomorrow
 rorschachMost: a filleted fish
 rorschachHigh: a stethoscope
 rorschachMid: a map with pins

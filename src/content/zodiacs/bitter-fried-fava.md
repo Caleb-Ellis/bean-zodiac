@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: bitter-fried-fava
 lastUpdated: 
 bean: fava
@@ -17,32 +17,32 @@ antiTriple: umami-boiled-black
 antiBeans: [mung, navy]
 antiForm: dried
 seasonalFortune: "A season of blackened skins and sumac — everything goes in hotter than it needs to, and comes out worth more."
-fortuneMost: There is always a rung above the last one.
+fortuneMost: Grab at everything and you'll end up holding nothing.
 fortuneHigh: The bar-tailed godwit leaves Alaska and doesn't land or eat again until New Zealand.
-fortuneMid: Put your name down for the bigger one.
-fortuneLow: Enough is a real amount.
-fortuneLeast: Arriving somewhere on purpose beats arriving somewhere bigger.
+fortuneMid: It never hurts to ask for a bit more.
+fortuneLow: You're allowed to like where you are.
+fortuneLeast: The view from the bottom of the hill is just as nice.
 facetMostTitle: The Talented Mr Beanley
-facetMost: A friend got you into the opening and has spent twenty minutes telling the woman who runs the gallery how good your photographs are. One slot is left in the spring show, and he has been waiting two years for it. You ask her for the slot while he is across the room.
-facetMostAction: You ask her for the slot while he is across the room.
+facetMost: A friend got you into a gallery opening, and he's spent the evening telling the woman who runs the place how good your photographs are. There's one slot left in the spring show, and he's been hoping to get his own paintings into it for years. You ask her for the slot while he's across the room.
+facetMostAction: You ask her for the slot while he's across the room.
 facetHighTitle: The Pursuit of Beaniness
-facetHigh: At the market stall a woman has been in front of the big painting and asks what you want for it. The three small ones you've sold went for eighty each, and nobody has asked about the big one before. Once you say a number you cannot go up. You tell her twelve hundred.
-facetHighAction: You tell her twelve hundred.
+facetHigh: Your flight's been cancelled, and you end up sharing the last rental car into the city with a woman who turns out to own the hotel chain where you work on reception. It's a long drive, and she asks what you do there. You tell her you want to run one of her hotels.
+facetHighAction: You tell her you want to run one of her hotels.
 facetMidTitle: Legally Bean
-facetMid: Twelve of you in the jury room and the usher says you need a foreperson before anything else. Two people look at the table. The one who has done this before says he'd rather not. You say you'll do it.
-facetMidAction: You say you'll do it.
+facetMid: You're going back to study law, and your dad is helping you fill in the application at his kitchen table. Your grades will easily get you into the course at the college in town. He says the famous university in the city is a waste of the application fee. You put it on the form as well.
+facetMidAction: You put it on the form as well.
 facetLowTitle: Good Will Beaning
-facetLow: Two nights a week you do the veg prep at a restaurant and it is the best part of your week. The head chef offers you the fish section, which means five nights and a service on your own. You tell him you'd rather stay on the veg.
-facetLowAction: You tell him you'd rather stay on the veg.
+facetLow: You clean the planetarium at night, and once it's empty you're allowed to run the star projector while you mop under the dome. The director stayed late, heard you naming the constellations, and offers you a job presenting the daytime shows for better pay. You tell her you'd rather keep the nights.
+facetLowAction: You tell her you'd rather keep the nights.
 facetLeastTitle: It's a Wonderful Bean
-facetLeast: A hot afternoon at the reservoir with your oldest friend, who has just been promoted and is already talking about the one after that. He asks when you're going to make your move. You've had the same job four years and you like it. You tell him you'll be doing it in four more.
-facetLeastAction: You tell him you'll be doing it in four more.
-question: You want to make a living from the hot sauce. A woman who runs a shop has tried a jar and asks how many you could do in a month, and what for. You've made eleven jars, ever, in your kitchen. You...
-answerMost: ask her for a window display and a standing order before you've made one
-answerHigh: say you'll do it, and name a price you've never charged
-answerMid: offer her a trial batch on sale or return
-answerLow: say you'll sell her the eleven you've already made
-answerLeast: tell her you'd rather keep it to the kitchen
+facetLeast: At your school reunion, your old classmates are swapping news. One's a surgeon now, one has just sold her company, and one is moving to New York. You've worked in the same bookshop since you left school, and you love it. The man next to you asks if you've ever thought about doing something bigger. You tell him you haven't.
+facetLeastAction: You tell him you haven't.
+question: A genie appears and offers you one wish, as long as it's for yourself. What do you wish for?
+answerMost: unlimited wishes
+answerHigh: to be the best in the world at what you do
+answerMid: the next job up, with better pay
+answerLow: a long holiday somewhere warm
+answerLeast: nothing — you're happy with things as they are
 rorschachMost: a lit firework
 rorschachHigh: a boxer walking in
 rorschachMid: a rock in surf

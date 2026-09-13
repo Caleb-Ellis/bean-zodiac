@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: bitter-dried-fava
 lastUpdated: 
 bean: fava
@@ -17,32 +17,32 @@ antiTriple: sweet-boiled-mung
 antiBeans: [kidney, butter]
 antiForm: roasted
 seasonalFortune: "A season of split skins and cold resolve — the pantry hardens what it cannot soften."
-fortuneMost: Hardness with nothing behind it is just cruelty.
-fortuneHigh: An iron wolf runs the winter down.
-fortuneMid: Somebody has to do the unpleasant part.
-fortuneLow: Bend on this one.
-fortuneLeast: Softness gets more out of people.
+fortuneMost: Hold the line long enough and you'll be holding it alone.
+fortuneHigh: Don't let them talk you out of it.
+fortuneMid: The iron wolf crosses the river rather than walk the long way round.
+fortuneLow: Someone asking twice usually means it.
+fortuneLeast: Give in early and you'll both still be speaking.
 facetMostTitle: The Beaninator
-facetMost: You were in the room this morning when the consultant told your dad how long it is. In the corridor going out he stops and asks whether she might have got it wrong. You tell him she has not.
+facetMost: You were in the room this morning when the doctor told your dad how long he has. In the corridor on the way out he stops and asks whether she might have got it wrong. You tell him she has not.
 facetMostAction: You tell him she has not.
 facetHighTitle: Iron Bean
-facetHigh: Your dad's shed has been exactly as he left it for eight months, and the site wants the plot back by the end of the month. Twice the family have said they will all come and do it together, and twice nobody came. You go up at the weekend and do it on your own.
-facetHighAction: You go up at the weekend and do it on your own.
+facetHigh: You told your partner in the spring that if the money the two of you had saved for a flat was touched again, you'd be gone. Most of it has gone again. They've been up all night saying the right things, and they mean them. You put your things in a bag and go.
+facetHighAction: You put your things in a bag and go.
 facetMidTitle: Steel Magnobeans
-facetMid: One of the four of you in the cottage has drunk since Thursday and put his fist through the bathroom door. Two nights left, and the others want it left alone until everybody goes home. You put his bag in the car and drive him to the station.
-facetMidAction: You put his bag in the car and drive him to the station.
+facetMid: In the chair at the hairdresser's, two weeks before you stand up at your friend's wedding, you've asked for your hair taken off short. She's done one side and stopped, because the friend who came with you has said the bride will hate it in the photographs and it won't grow back in time. You point at the side she hasn't done.
+facetMidAction: You point at the side she hasn't done.
 facetLowTitle: Bean It Like Beckham
-facetLow: The piece is booked as one four-hour sitting, stencil on and checked, deposit paid. Two hours in she starts the shading and says most people have it in two goes, which means a second deposit and six weeks of it half done. You take the second date.
-facetLowAction: You take the second date.
-facetLeastTitle: Beanby
-facetLeast: You told the nine-year-olds you coach on a Tuesday, out loud in September, that missing two without a word meant no Saturday, and one of them has now missed three and turned up with his mum and a reason. You put him on for the second half.
+facetLow: You've been approved for the young collie at the rescue centre and you've come to take him home. The woman who runs the place walks you down the kennels first and stops at a grey-faced dog nobody has asked about since he came in. She asks whether you'd think about him. You take the old one home instead.
+facetLowAction: You take the old one home instead.
+facetLeastTitle: Gone with the Bean
+facetLeast: You told the nine-year-olds you coach that missing two Tuesday trainings without telling you meant no match on Saturday. One of them has missed three, and he's on the touchline before kick-off with his mum, who says the buses from where they've moved to don't get him here in time. The rest of the team heard you say it. You put him on for the second half.
 facetLeastAction: You put him on for the second half.
-question: You said in March that the trip shouldn't run this year. The other five have swung the other way since, and they're waiting on you. You...
-answerMost: put each of their reasons back to them, and the no with it
-answerHigh: say no again, plainly
-answerMid: name what would change your mind, and keep the no until it does
-answerLow: stand aside for the five of them
-answerLeast: come round to theirs
+question: You pulled out of the two weeks in Greece because you want the credit card cleared first. The four going have found a cheaper place inland, and they're at your door with the new price. You...
+answerMost: tell them to book for four and stop bringing you numbers
+answerHigh: say no again, whatever they've found
+answerMid: say no, and that you'll come the year the card's gone
+answerLow: ask them to hold a place for you
+answerLeast: put it on the card
 rorschachMost: a mantrap
 rorschachHigh: rams with horns locked
 rorschachMid: a bench vice

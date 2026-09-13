@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: bitter-smoked-navy
 lastUpdated:
 bean: navy
@@ -17,32 +17,32 @@ antiTriple: spicy-roasted-green
 antiBeans: [fava, chickpea]
 antiForm: fermented
 seasonalFortune: "A season of wormwood and standing watch: the smoke keeps the pantry while the kitchen sleeps."
-fortuneMost: Never sleep on watch and the watching becomes the whole night.
-fortuneHigh: A night heron fishes the bank while everything else roosts.
-fortuneMid: Somebody noticing early saves the week.
-fortuneLow: Look away for an hour.
-fortuneLeast: The world runs fine unwatched.
+fortuneMost: Look after everybody's evening and nobody looks after yours.
+fortuneHigh: Know where everyone is. Say nothing about it.
+fortuneMid: The night heron works the same stretch of bank every night. Very little gets past it.
+fortuneLow: You can leave before the last person does.
+fortuneLeast: The best nights are the ones you can't account for.
 facetMostTitle: Sleepless in Beanattle
-facetMost: It's your sister's wedding and nothing has gone wrong all day. They've saved you the seat at the front next to your mum, and from there you can't see the fire door, the table with the cards on it, or the two men nobody can place. You take a seat at the back on the aisle.
-facetMostAction: You take a seat at the back on the aisle.
+facetMost: You've driven out past the last streetlight with four friends to see the meteor shower, and the peak is still an hour off. The other four are lying in the grass looking up. Both cars are on the verge behind you with everyone's bags in them. You sit up and turn round to face the cars.
+facetMostAction: You sit up and turn round to face the cars.
 facetHighTitle: Watchbeans
-facetHigh: Four of you on the last train back, and one of them's asleep with her bag on the floor. Two men got on at the last stop, you're the only one who's clocked where they've sat, and you'll not say anything about it to anybody. You move round to the aisle seat.
-facetHighAction: You move round to the aisle seat.
-facetMidTitle: The Night Bean
-facetMid: Your neighbours are away a fortnight and all they asked was that you put the bins out; the back window doesn't shut properly and you've been round to look at it every evening since they went. You go round the back again on your way in.
-facetMidAction: You go round the back again on your way in.
-facetLowTitle: Asleep at the Bean
-facetLow: Day three of the dangerous driving trial, and the afternoon got away from you somewhere in the second witness; you've the numbered seat by the window and you can't take anything out of the room with you. In the jury room they go round asking what everybody made of the paramedic. You tell them to put you down with the rest.
+facetHigh: Your friend has been driving the four of you back from the coast since dark, and you're the only other one awake. He's gone quiet, and a while back he put the wipers on instead of the indicator. He says he's fine, and there's an hour to go. You tell him to pull in at the next services and let you drive.
+facetHighAction: You tell him to pull in at the next services and let you drive.
+facetMidTitle: Stand By Bean
+facetMid: A friend has gone into labour early, so you're the one collecting her son from school. You've been there once, and you don't know which of the two gates his class comes out of. The other parents are all waiting at the one on the road. You go and stand where you can see both.
+facetMidAction: You go and stand where you can see both.
+facetLowTitle: Eyes Wide Bean
+facetLow: Day three of the dangerous driving trial, and the afternoon got away from you somewhere in the paramedic's evidence. You aren't allowed to take a note out of the room. In the jury room they go round on what everybody made of him, and they all say much the same. You tell them to put you down with the rest.
 facetLowAction: You tell them to put you down with the rest.
 facetLeastTitle: The Absent-Minded Beanessor
-facetLeast: She's got the last bus at ten past and she asked you an hour ago to tell her when it got to ten, because she's been at the wine and she knows what she's like. You tell her at twenty to.
-facetLeastAction: You tell her at twenty to.
-question: Twenty people at a friend's fortieth in a hired room, and the back door has been propped open all evening. You...
-answerMost: keep the door and the coats in view all night, and count people out at the end
-answerHigh: clock the door, the two who left early and the coats, and mention none of it
-answerMid: shut the door on your way past
-answerLow: let the evening happen without watching the door
-answerLeast: leave your own coat and phone on a chair till midnight
+facetLeast: You're minding a friend's stall at the market while she goes for food, and the cash tin is open under the table. The woman on the next stall starts telling you about her dog. You turn your back on the table and ask what breed it is.
+facetLeastAction: You turn your back on the table and ask what breed it is.
+question: Your friend's ring has come off between the car and the lake. The five of you have been swimming and shifting the bags out of the sun all afternoon. She asks what anybody remembers. You...
+answerMost: tell her where each bag sat, and who was in the lake when
+answerHigh: tell her she still had it on walking down to the lake
+answerMid: say you can picture it on her hand at the car, and nothing after
+answerLow: ask her when she last remembers having it
+answerLeast: say you didn't know she wore a ring
 rorschachMost: a castle keep
 rorschachHigh: a cat at a mousehole
 rorschachMid: a security light

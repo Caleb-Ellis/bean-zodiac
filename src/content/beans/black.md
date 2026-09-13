@@ -3,6 +3,7 @@ slug: black
 name: Black Bean
 role: The Observer
 tagline: Depth conceals infinite possibility.
+goal: to know before committing — withholds until tested
 positiveTraits: [observant, discreet, self-possessed, resolute, penetrating]
 negativeTraits: [opaque, mistrustful]
 imageFile: black.webp

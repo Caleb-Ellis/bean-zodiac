@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sour-boiled-fava
 lastUpdated: 
 bean: fava
@@ -17,27 +17,32 @@ antiTriple: bitter-smoked-butter
 antiBeans: [black, mung]
 antiForm: fermented
 seasonalFortune: "A season of verjuice and green almond — the pot knows what is owed and collects it."
-fortuneMost: Being right about the principle costs somebody the favour.
-fortuneHigh: An ibex climbs a dam wall for salt.
-fortuneMid: Say what the rule actually is.
-fortuneLow: The small wrong can go.
-fortuneLeast: Nobody keeps every principle every day.
+fortuneMost: Two ibex will push at each other over a strip of grass all afternoon, and neither of them eats it.
+fortuneHigh: Stay until they put it right.
+fortuneMid: Most rules were written because somebody did it.
+fortuneLow: Let a small unfairness go by.
+fortuneLeast: Everyone has taken a favour they didn't earn.
 facetMostTitle: The Beanucible
-facetMost: The restaurant is off your list and you have told the table why — the sourcing, the wages, the case that went to court. Nobody asked. Two of them ordered before you started and you have not stopped, and the food has arrived.
+facetMost: You keep the books for a theatre company that puts on one show a year, and the ticket money has been going through the lead actor's own account. Two nights are left, and the woman who runs it is in on Monday. In the interval you get up in the bar and tell the audience where the money went.
+facetMostAction: In the interval you get up in the bar and tell the audience where the money went.
 facetHighTitle: A Few Good Beans
-facetHigh: An invoice has come in four hundred pounds under what you owe and nobody will ever know, and you ring them, tell them where the error is, and pay the full amount.
+facetHigh: A van pulled out on you at a junction and your wrist still won't bend. The driver's company accepted the fault, took him off driving, and their insurer has made you an offer. You went through a red light to reach that junction and nobody has asked. You ring the insurer and tell them about the red light.
+facetHighAction: You ring the insurer and tell them about the red light.
 facetMidTitle: Erin Beanockovich
-facetMid: A form with a box that would save you money if left blank, and you fill the box in properly and take the hit without mentioning it.
+facetMid: You've swum in the river below the mill all summer, and the five friends you came with are changing on the bank. A new pipe from the depot behind the trees is putting a brown film on the water. You ring the water company before anybody gets in.
+facetMidAction: You ring the water company before anybody gets in.
 facetLowTitle: Dirty Beany Scoundrels
-facetLow: A man walks straight to the front of the queue and everybody sees him do it. You look at the people either side and say nothing.
-facetLeastTitle: The Beance
-facetLeast: There is a way to get the thing done that involves a friend at the council and a conversation nobody writes down, and you make the call. That works, saves four months, and does not trouble you at any point.
-question: The bus company has charged your neighbour's son the adult fare for a year, and he's fourteen. He'd rather leave it. You...
-answerMost: carry it to the company and a local paper, and keep on after the refund
-answerHigh: put the complaint in and stay with it
-answerMid: write once on his behalf
-answerLow: show him how to complain himself
-answerLeast: let the year's fares go
+facetLow: A man has come for the guitar you're selling, and you've booked a practice room so he can try it. The neck lifts once the room warms up, and the repair costs more than you're asking. He plays it cold and gets his wallet out. You take the money and say nothing about the neck.
+facetLowAction: You take the money and say nothing about the neck.
+facetLeastTitle: The Beanalian Job
+facetLeast: The sleeper is sold out and you've got a reclining seat all night. The guard you've been talking to shows you the berths at the far end — doors open, beds turned down, empty. He says take one, he won't be back through. People were turned away at the station. You take the one at the end and shut the door.
+facetLeastAction: You take the one at the end and shut the door.
+question: You've trained all spring to win your running club's half marathon. Four miles in, the man who beat you last year cuts off the loop through the woods and rejoins ahead. At the finish the woman timing it has him down as first. You...
+answerMost: stand at the finish and tell the whole club as they come in
+answerHigh: tell the woman timing it which mile he rejoined at
+answerMid: ask him at the finish about the woods
+answerLow: take your own time and let his stand
+answerLeast: find out from him where he cuts off the loop
 rorschachMost: a pulpit
 rorschachHigh: a mountain over a valley
 rorschachMid: a soapbox

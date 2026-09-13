@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: bitter-roasted-pinto
 lastUpdated: 
 bean: pinto
@@ -17,27 +17,32 @@ antiTriple: sweet-dried-edamame
 antiBeans: [navy, black]
 antiForm: boiled
 seasonalFortune: "A season of charred spring onion and worn markings — the coals make a costume of the skin."
-fortuneMost: Style laid on that thick hides whoever is wearing it.
-fortuneHigh: A bird of paradise clears a stage in the leaf litter and dances on it.
-fortuneMid: The right coat changes the day.
-fortuneLow: Wear the old thing.
-fortuneLeast: Dowdy people get more done.
+fortuneMost: A pose held long enough stops being a choice.
+fortuneHigh: The bird of paradise clears the leaf litter from a patch of forest floor, then dances on it.
+fortuneMid: Put the food on a plate, not in the pan.
+fortuneLow: Being looked at is tiring.
+fortuneLeast: The plain jug pours as well as the painted one.
 facetMostTitle: Beanlander
-facetMost: The jacket and the boots are ones nobody would put together and it works so obviously it looks like an accident, and four people say something about the boots before the evening is out.
+facetMost: The pool you swim at is closing and you got the petition up. The paper's photographer wants you and the others who ran it lined up at the water's edge for the front page, and it's freezing. You ask him to wait while you go home and change.
+facetMostAction: You ask him to wait while you go home and change.
 facetHighTitle: Beanogue
-facetHigh: One shop on that street sells only things people have lost. That shop has had three visits from you now, and you come out of it with a scarf that is exactly right, and the wrong colour for you, and somebody else's.
-facetMidTitle: The Grand Beanapest Hotel
-facetMid: It is a long wedding and there will be photographs of all of it. The whole thing is worked out down to the socks.
+facetHigh: Your partner's whole family are meeting you at the airport, and you're in their house for three weeks in a country you've never been to. You've been flying most of a day and the clothes you kept out for landing are in your bag. You put them on in the toilet before the descent.
+facetHighAction: You put them on in the toilet before the descent.
+facetMidTitle: Pretty in Bean
+facetMid: The strip comes out of the supermarket booth fine, except your collar has gone up on one side, and it's the photograph on your passport for the next ten years. You put more money in and sit for another one.
+facetMidAction: You put more money in and sit for another one.
 facetLowTitle: Ugly Beanty
-facetLow: A fleece with a logo on the chest is genuinely the warm thing in that cupboard. You put the fleece on and go out.
+facetLow: You've saved for a winter coat and the stall on the market has two left in your size. One is wool and looks like something. The other is padded, in a green that isn't any colour, and is the warm one. You pay for the green one.
+facetLowAction: You pay for the green one.
 facetLeastTitle: What Not to Bean
-facetLeast: A uniform is issued for the day, grey, fitting nobody, and you get into the thing and go about without adjusting anything at all. Somebody who has known you years walks straight past.
-question: You're going to a friend's book launch in February, in a room you've never been in. What do you wear?
-answerMost: the coat, the boots and the hat, laid out the night before
-answerHigh: the jacket with the boots nobody would have put together
-answerMid: the good coat over ordinary clothes
-answerLow: whatever is clean
-answerLeast: the fleece, since it's February
+facetLeast: You're meeting the person you've been messaging for a month at seven. You've spent the day getting a friend's wardrobe up to her top-floor flat, and there's an hour before you leave. You go in what you've got on.
+facetLeastAction: You go in what you've got on.
+question: A friend has given you her appointment at the place she goes, and you'd never have paid for a haircut like this yourself. The man cutting it has the scissors up, asking what you're after. You...
+answerMost: show him exactly where the parting has to fall
+answerHigh: ask him to take the sides right down
+answerMid: say shorter, and let him pick the shape
+answerLow: leave it as it is and just have the ends off
+answerLeast: tell him to do whatever's quickest
 rorschachMost: a plumed hat
 rorschachHigh: a ballgown train
 rorschachMid: a lace fan

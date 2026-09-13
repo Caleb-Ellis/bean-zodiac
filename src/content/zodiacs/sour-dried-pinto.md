@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sour-dried-pinto
 lastUpdated:
 bean: pinto
@@ -17,27 +17,32 @@ antiTriple: sweet-boiled-kidney
 antiBeans: [mung, butter]
 antiForm: smoked
 seasonalFortune: "A season of dried tomatillo and short sayings — the pantry speaks once, and closes."
-fortuneMost: Compress it far enough and nobody can unpack it.
-fortuneHigh: A wren is tiny and heard across the whole garden.
-fortuneMid: The short version carries further.
-fortuneLow: Go the long way round it.
-fortuneLeast: Rambling gets to things brevity misses.
+fortuneMost: Make it small enough and they'll quote it back at you wrong.
+fortuneHigh: A wren sings from deep in the hedge and the whole garden hears about it.
+fortuneMid: Trust the first sentence.
+fortuneLow: People will wait while you find the words.
+fortuneLeast: A good story is mostly the parts nobody needed.
 facetMostTitle: Beanfucius Say
-facetMost: Somebody has described their whole job to you across a table, and you give them nine words back, and they will be repeating those nine words to other people for a year.
+facetMost: Your neighbour is suing the builder who left her roof open all winter under a tarpaulin, and without you she has no witness. The judge asks how many days it was off. You tell the judge a roof is either a roof or it isn't.
+facetMostAction: You tell the judge a roof is either a roof or it isn't.
 facetHighTitle: The Picture of Dorian Bean
-facetHigh: Somebody has told you to keep the toast short. You say one sentence about him. You sit down, and it is the thing people go home repeating to each other.
+facetHigh: The bus company is cutting the two late services, the ones that bring the evening shifts home, and thirty of you have been blocking the depot gates since six. A woman from the local news puts a camera on you and asks what this is about. It's the only coverage the cuts will get. You tell her the timetable now ends before the work does.
+facetHighAction: You tell her the timetable now ends before the work does.
 facetMidTitle: Poor Beanard's Almanack
-facetMid: Clock faces in that town each run eleven minutes out from the next one along, and a visitor has asked what the time is here. You tell her it depends rather on who is asking and where exactly they happen to be standing.
+facetMid: You're at your old school for the careers evening, on the table with the nursing card. One girl has waited until the hall emptied to ask what the job is like, with her mother at the door holding the keys. You tell her the good days and the bad days are the same day.
+facetMidAction: You tell her the good days and the bad days are the same day.
 facetLowTitle: Ramblin' Bean
-facetLow: Something worth saying about the plan is in your head and it wants setting up. You take the four minutes and put the context in first.
+facetLow: Your friend's brother works the bakery ovens from two in the morning, and you've come down to watch a shift. Between trays he says the owner has offered him the place, with a loan he'd carry for years, and asks what you'd do. You tell him not to take it, and then go through the loan and the hours.
+facetLowAction: You tell him not to take it, and then go through the loan and the hours.
 facetLeastTitle: Beannegans Wake
-facetLeast: The question was whether the fence should go up. Forty minutes later you are on the man who used to farm it, and no answer has been given to anybody.
-question: You've two minutes before you have to leave, and he's still describing the new job. What does he get?
-answerMost: nine words that nobody could open in a fortnight
-answerHigh: nine words he'll repeat for a year
-answerMid: a sentence, and then what you meant by it
-answerLow: a couple of minutes of talking it through with him
-answerLeast: ten minutes that go round it and land nowhere
+facetLeast: A man from the town archive has a recorder going on your kitchen table and forty minutes of tape. He asks how your family ended up here, and what he records is what the archive keeps. You start three generations back, with the great-grandmother who came for a job that had already gone.
+facetLeastAction: You start three generations back, with the great-grandmother who came for a job that had already gone.
+question: Your friend's band is splitting up after four years of writing songs in a van and playing rooms that never fill. She's asked you to bring them on tonight, and you want the room on its feet before they play. You...
+answerMost: say the van knew first
+answerHigh: say the songs were always better than the rooms
+answerMid: give their name and say it's been four years
+answerLow: tell the room how you met her before you bring them on
+answerLeast: start with the first time you saw them play and work forward
 rorschachMost: a rune stone
 rorschachHigh: a signature with a flourish
 rorschachMid: a comma

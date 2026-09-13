@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: bitter-fermented-green
 lastUpdated: 
 bean: green
@@ -17,27 +17,32 @@ antiTriple: umami-dried-butter
 antiBeans: [navy, cannellini]
 antiForm: boiled
 seasonalFortune: "A season of wild yeast and untested guesses — the jar imagines a flavour nobody has tasted."
-fortuneMost: Imagine enough versions and none of them get built.
-fortuneHigh: A cuttlefish changes colour to match a thing it invented.
-fortuneMid: The odd idea is worth an hour.
-fortuneLow: Deal with what's actually here.
-fortuneLeast: The dull answer is usually the true one.
+fortuneMost: Guess at something long enough and you'll start to believe the guess.
+fortuneHigh: Always ask "what if?"
+fortuneMid: A sleeping cuttlefish flashes through colours, and nobody knows what it's dreaming.
+fortuneLow: Most things are exactly what they look like.
+fortuneLeast: A mind that doesn't wander doesn't get lost.
 facetMostTitle: Alice in Beanderland
-facetMost: You once worked out what the town would look like if the railway had never closed — the streets that would exist, the pub still open, the man you would have married — and you can hold all of it at once, and you are supposed to be at work.
+facetMost: At a flea market there's a box of old holiday slides — the same woman in every one, in a different country each time, never smiling. The stallholder wants far more than they're worth. You buy the box to find out whether she was a spy.
+facetMostAction: You buy the box to find out whether she was a spy.
 facetHighTitle: Bean Mirror
-facetHigh: The field has a shape under the grass that should not be there. You start on what it might have been. By the end of the walk there is a whole village in your head and two reasons to believe in it.
+facetHigh: A friend is launching her startup tonight, a necklace that shows your partner what mood you're in all day. Investors fill the room, and she opens it up for questions. You put your hand up and ask what happens when it tells someone's partner they're bored.
+facetHighAction: You put your hand up and ask what happens when it tells someone's partner they're bored.
 facetMidTitle: What Bean...?
-facetMid: Somebody says the house has been empty six years. You are three storeys inside already, working out who left and why.
-facetLowTitle: Paint by Beans
-facetLow: An offer is on the table and there is a version of your life that follows from taking it, and you do not go near that version. You read the terms twice and think about the money.
+facetMid: A postcard from Lisbon arrives at your flat for the woman who lived there before you. On the back it just says "The answer is still yes." Your flatmate is about to write "not at this address" on it and put it back in the post. You ask her what she thinks the question was.
+facetMidAction: You ask her what she thinks the question was.
+facetLowTitle: Just the Beans, Ma'am
+facetLow: You're on a jury for a man accused of stealing a bike from outside a station. After a morning of witnesses, back in the jury room, two of the others have started guessing why he was out there at midnight. You ask if you can all go back over what the witnesses actually said.
+facetLowAction: You ask if you can all go back over what the witnesses actually said.
 facetLeastTitle: Groundhog Bean
-facetLeast: There is a shape in the fog at the end of the field and it is the wrong size for a cow. You wait until the thing moves, decide it is a cow, and think no more.
-question: Your neighbour's car has sat on the drive with the boot open for two days, and she isn't answering the door. You...
-answerMost: work out the three ways she left, and which one the open boot proves
-answerHigh: work out what explains the boot and the door together
-answerMid: wonder about it, and ask the man next door whether he's seen her
-answerLow: shut the boot for her
-answerLeast: take it that she's away
+facetLeast: A friend has booked a murder-mystery dinner on a steam train. Between courses, the actor playing the detective comes to your table and asks each of you who did it. Your friends all have a theory. You tell him you'll wait to find out at the end.
+facetLeastAction: You tell him you'll wait to find out at the end.
+question: There's a bricked-up doorway in the cellar of the house you've just moved into. What do you think is behind it?
+answerMost: a tunnel to somewhere, and a good reason it was sealed
+answerHigh: something somebody wanted kept out of sight
+answerMid: an old coal store, maybe with something left in it
+answerLow: an old coal store
+answerLeast: more bricks
 rorschachMost: a genie
 rorschachHigh: a fountain
 rorschachMid: a windblown tree

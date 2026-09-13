@@ -37,12 +37,12 @@ facetLowAction: You open two bottles for them.
 facetLeastTitle: The Fast and the Beanious
 facetLeast: It's your friend's last night before she moves away and eleven of you are out. Somebody has brought a film camera and says she'll get them developed and printed properly, which will be a few weeks. You take your own and put them up before you're home.
 facetLeastAction: You take your own and put them up before you're home.
-question: A box is going into the foundations of the new library on your street, to be opened in fifty years. Anyone on the street can put one thing in, and only one. You...
-answerMost: put in a chapter of the book you're still writing
-answerHigh: write a letter to whoever opens it
-answerMid: leave them a photograph of the street as it is now
-answerLow: hand over something you were going to throw out anyway
-answerLeast: skip it, and go to the opening instead
+question: You've finally decided to write the novel that's always been at the back of your mind. What does the first year look like?
+answerMost: notebooks of research, the first chapter begun three times
+answerHigh: a steady pile of pages, still feels like you've "just started"
+answerMid: the first half mostly figured out, the rest sketched out
+answerLow: a thin rough draft is ready for feedback
+answerLeast: it's written, it's out, you're done with it
 rorschachMost: a clogged paintbrush
 rorschachHigh: a splattered easel
 rorschachMid: a full sketchbook

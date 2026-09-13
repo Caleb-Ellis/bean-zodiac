@@ -4,8 +4,8 @@ lastUpdated: 2026-08-12
 bean: navy
 flavour: spicy
 form: boiled
-trait: rigid
-excess: obstinate
+trait: resolute
+excess: rigid
 inverse: yielding
 quote: An immovable bean meets an unstoppable force.
 creature: hippopotamus

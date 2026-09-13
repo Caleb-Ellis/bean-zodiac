@@ -3,6 +3,7 @@ slug: pinto
 name: Pinto Bean
 role: The Dreamer
 tagline: Your markings are your map.
+goal: to make the interior visible — puts it where it can be seen
 positiveTraits: [expressive, imaginative, inventive, uninhibited, distinctive]
 negativeTraits: [anxious, theatrical]
 imageFile: pinto.webp

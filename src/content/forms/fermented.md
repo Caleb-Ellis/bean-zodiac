@@ -2,6 +2,7 @@
 slug: fermented
 name: Fermented
 tagline: The Form that changes itself.
+reactivity: keeps it — transformed
 positiveTraits: [inward, original, self-generating, singular, unhurried]
 negativeTraits: [weird, insular]
 ---

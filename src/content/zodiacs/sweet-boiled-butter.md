@@ -18,7 +18,7 @@ antiForm: fermented
 seasonalFortune: "A season of maple and long simmering — the pot lets go of what was scorched into it."
 fortuneMost: Forgive too quickly and nothing will change.
 fortuneHigh: Forgiveness is the choice to let go of resentment and set yourself free from the past.
-fortuneMid: A golden retriever forgives and forgets, and no one can argue its zest for
+fortuneMid: A golden retriever forgives and forgets, and is universally loved.
 fortuneLow: Make them earn it this time.
 fortuneLeast: An apology ought to cost something.
 facetMostTitle: The Unbearable Lightness of Bean

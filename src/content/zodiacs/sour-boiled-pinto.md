@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sour-boiled-pinto
 lastUpdated: 
 bean: pinto
@@ -17,27 +17,32 @@ antiTriple: bitter-fermented-kidney
 antiBeans: [black, butter]
 antiForm: smoked
 seasonalFortune: "A season of lime brine and unpainted talk — the markings come off and nothing replaces them."
-fortuneMost: Raw enough and people start editing themselves in the room.
-fortuneHigh: A naked mole rat lives its whole life underground and hairless.
-fortuneMid: The unvarnished version saves time.
-fortuneLow: Dress it up a little.
-fortuneLeast: A story improved in the telling harms nobody.
-facetMostTitle: Beanaked
-facetMost: You are telling it with the ugly middle still in, including the thing you said to your sister, and two of them have gone quiet.
+fortuneMost: Tell it all and you hand them something they can't hand back.
+fortuneHigh: Leave the bad part in.
+fortuneMid: The naked mole rat digs with its teeth, and there is nothing between it and the dirt.
+fortuneLow: A little polish isn't a lie.
+fortuneLeast: It's not lying to make it a better story.
+facetMostTitle: Beanaked Lunch
+facetMost: A documentary crew is filming the band you were all in, the one that nearly got a deal. The drummer has told them on camera that it just ran out of steam, and the director only wants a line from you about the last gig. You tell the camera you'd signed on your own, and let the others rehearse for two months.
+facetMostAction: You tell the camera you'd signed on your own, and let the others rehearse for two months.
 facetHighTitle: Beans and All
-facetHigh: A reference is wanted for somebody who was good at most of it and hopeless at the rest. You put both in and sign it.
+facetHigh: Four people in the kitchen are deciding who gets their spare room, and your notice on the old place is already in. You're moving because you fell out with your housemate over bills you still owe her. One of them asks why. You tell them about the bills.
+facetHighAction: You tell them about the bills.
 facetMidTitle: Cinéma Beanité
-facetMid: In that shed there is a machine and nobody has ever been able to say what it is for. People ask you. You tell them it is a machine in a shed and nobody knows.
-facetLowTitle: Big Bean
-facetLow: The story has a bit in the middle where you come out badly and it is not really the point of the story. You take that bit out, and the rest of it goes rather better.
+facetMid: Back at your old school, you're telling a class about your job at the ferry terminal. The teacher who invited you wanted it kept encouraging. A boy asks if it's what you wanted to do. You tell him no, and that you took it for the money.
+facetMidAction: You tell him no, and that you took it for the money.
+facetLowTitle: Bean/Tuck
+facetLow: The man who winds the church clock by hand has let you up the tower to watch, and he passes on everything he hears. He asks how you came to live here — you followed somebody, and they left. You tell him you came for the quiet.
+facetLowAction: You tell him you came for the quiet.
 facetLeastTitle: The Adventures of Baron Beanchausen
-facetLeast: Your best anecdote has been told enough times to get good. Two people were in it at the start and there are five now. You do the voices, the ending is not what happened, and it goes down very well with everybody there.
-question: Somebody at the table asks why you left the last job. The real reason takes in a week you didn't come in and a letter you shouldn't have sent. You...
-answerMost: hand them the week, the letter, and the part you're least proud of
-answerHigh: tell it with the week and the letter left in
-answerMid: mention the letter and keep the week out of it
-answerLow: say it wasn't working out
-answerLeast: put out the version where you were headhunted
+facetLeast: In the minibus to a wedding, someone behind asks how you and your partner met. It was an app and a coffee that ran long. The version you tell now has a thunderstorm in it, and your partner is sitting right next to you. You tell the one with the thunderstorm, and you do the voices.
+facetLeastAction: You tell the one with the thunderstorm, and you do the voices.
+question: You want the big bowl to sell — it's the only thing on your stall that would cover the day. It cracked in the kiln and you glued it and fired it again. A man turns it over and asks if it's sound. You...
+answerMost: point out the glue line, and say you'd have thrown it out yourself
+answerHigh: tell him about the crack and the glue
+answerMid: say you wouldn't put hot water in it
+answerLow: tell him it's been fired twice
+answerLeast: explain that the crack is the whole point of the bowl
 rorschachMost: a skinned rabbit
 rorschachHigh: a peeled fruit
 rorschachMid: an open collar

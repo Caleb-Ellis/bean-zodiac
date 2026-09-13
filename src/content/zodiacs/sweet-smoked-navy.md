@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sweet-smoked-navy
 lastUpdated:
 bean: navy
@@ -17,32 +17,32 @@ antiTriple: bitter-fried-green
 antiBeans: [chickpea, mung]
 antiForm: roasted
 seasonalFortune: "A season of molasses and low heat — the smell stays in the house for weeks."
-fortuneMost: Stay too long and the welcome turns into waiting.
-fortuneHigh: An alley cat comes back to the door it was once fed at.
-fortuneMid: A slow goodbye is worth the awkwardness.
-fortuneLow: Leave while it's still good.
-fortuneLeast: Vanishing quietly is a courtesy.
+fortuneMost: Feed an alley cat once and it'll be back every night.
+fortuneHigh: Stay for one more.
+fortuneMid: The best conversations happen with coats already on.
+fortuneLow: It's alright to be the first to leave.
+fortuneLeast: A clean break can be kinder than a long goodbye.
 facetMostTitle: The Beancredible Mr. Limpet
-facetMost: You split with her eighteen months ago after six years, her mum sent you the details for her brother's graduation and never took them back, and afterwards is arranging everyone on the grass for the photographs that go on her wall. You get in with the family.
-facetMostAction: You get in with the family.
-facetHighTitle: Stays with Bean
-facetHigh: You left the bookshop five years ago, half the shelf cards are still yours in your handwriting, and nobody working there now knows who you are. You take a book to the till and ask the woman for a card and a pen. You write one for it.
-facetHighAction: You write one for it.
-facetMidTitle: Last Bean
-facetMid: The lido has opened after two years shut, and the man who runs the plant room shows you the log book — the water temperature at six every morning since 1938, with two blank years in the middle. He has nobody for the six o'clocks now. You swam here every morning the summer before it shut and have not been in since. You take the first week.
-facetMidAction: You take the first week.
+facetMost: Your ex's family rent the same lake house every August, and you've gone every summer since the two of you met. You split up in the spring. Now their mother has messaged to say your old room is free if you want it, and that your ex is bringing someone new. You tell her you'll be there.
+facetMostAction: You tell her you'll be there.
+facetHighTitle: Beanlejuice
+facetHigh: Your parents have sold the house you grew up in, and the moving van has just pulled away. They're waiting in the car with the engine running, and the new owners are due any minute. You go back inside for one more walk through every room.
+facetHighAction: You go back inside for one more walk through every room.
+facetMidTitle: Before Beanrise
+facetMid: On the sleeper train, you've spent the evening in the dining car with a couple going on to the coast, trading stories over a bottle of wine. The train pulls into your stop, and an announcement says it waits here a few minutes. You stay at the table until the conductor comes to fetch you.
+facetMidAction: You stay at the table until the conductor comes to fetch you.
 facetLowTitle: The Beanishing
-facetLow: Six of you from work came to the gig, you are up at five, and the other five are in a scrum at the bar that means twenty minutes of nobody letting you leave. You get your coat and go.
-facetLowAction: You get your coat and go.
-facetLeastTitle: Bean and Gone
-facetLeast: Four years in the flat, and six people in the block know you by name, including the woman downstairs who takes your parcels. The van is loaded and there is time to knock on all six. You carry the last box down and pull the door to.
-facetLeastAction: You carry the last box down and pull the door to.
-question: Whatever you say in a room stays in it for a week — anybody who comes in afterwards hears your last sentence. You've handed your notice in. You...
-answerMost: leave a sentence in every room in the building
-answerHigh: put one sentence in the office worth hearing all week
-answerMid: leave your goodbye in the room where the team sits
-answerLow: say something ordinary on the way out
-answerLeast: go in silence, with nothing hanging anywhere
+facetLow: A friend's band let you sit in on their session at a proper recording studio, and you've watched from behind the glass all evening while they finished the song. Now they're ordering pizza to listen back to it with the engineer, and they ask what you want on yours. You say goodnight and head home.
+facetLowAction: You say goodnight and head home.
+facetLeastTitle: Gone with the Bean
+facetLeast: It's the last night of the grape harvest, and the pickers you've worked beside all autumn are eating at a long table between the vines. A notebook is going around for everyone's number, so you can all meet up next year. Your bus leaves at dawn. You pass the notebook on without writing in it.
+facetLeastAction: You pass the notebook on without writing in it.
+question: How do you leave a party that's winding down?
+answerMost: still on the host's sofa at breakfast
+answerHigh: last out, after one more drink with the host
+answerMid: slowly, with a goodbye to everyone on the way out
+answerLow: with a quick wave to whoever's nearest
+answerLeast: without a word to anyone
 rorschachMost: a carpet stain
 rorschachHigh: a mug ring
 rorschachMid: a doorstep cat

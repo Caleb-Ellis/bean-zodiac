@@ -1,5 +1,5 @@
 ---
-# TODO: rerun script
+# TODO: check all
 slug: sour-fried-chickpea
 lastUpdated: 
 bean: chickpea
@@ -17,32 +17,32 @@ antiTriple: umami-fermented-black
 antiBeans: [butter, navy]
 antiForm: dried
 seasonalFortune: "A season of sumac and quick hands: the chickpea is out of the oil before it catches."
-fortuneMost: A gecko drops its tail and grows back a poorer one.
-fortuneHigh: Take the back way.
-fortuneMid: Quick answers hold up more often than not.
-fortuneLow: Answer it straight the first time.
-fortuneLeast: Once slowly beats three times quickly.
-facetMostTitle: Slippery When Bean
-facetMost: You and your friend both work the screens at the cinema. She gave you her Saturday for a gig; you swapped it with the man on box office; he dropped out and you took his Sunday instead. The Saturday is back on her, the one she had cleared to get to her dad in hospital. You tell her the Sunday works out better for the both of you.
-facetMostAction: You tell her the Sunday works out better for the both of you.
+fortuneMost: Slip out of enough things and nobody thinks to count on you.
+fortuneHigh: Move first. Work it out on the way.
+fortuneMid: A gecko will cross the ceiling if the floor is crowded.
+fortuneLow: Give the first plan a chance to work.
+fortuneLeast: No amount of hurrying will soak a chickpea.
+facetMostTitle: The Bean Vanishes
+facetMost: You and the woman who taught you to fry the doughnuts share a night market stall, the pitch paid up for the season. The big market by the station has one space left and wants an answer tonight. She can't work a stall alone. You take the space, and tell her the station market will send people her way.
+facetMostAction: You take the space, and tell her the station market will send people her way.
 facetHighTitle: Spider-Bean
-facetHigh: Your friend's band have the support slot at nine and the drums are in a van the other side of the river with a clamp on the wheel. The band headlining are still soundchecking. The promoter says he gives the slot to somebody else in ten minutes. They have waited a year for this one. You go and ask the headline band's drummer whether they can play on his kit.
-facetHighAction: You go and ask the headline band's drummer whether they can play on his kit.
+facetHigh: Your friend's band have the support slot at nine, and the drums are in a van across the river with a clamp on the wheel. They've waited a year for this one, and the promoter gives the slot away in ten minutes. The headliners are still on stage. You go and ask their drummer whether the band can play on his kit.
+facetHighAction: You go and ask their drummer whether the band can play on his kit.
 facetMidTitle: Beanloose
-facetMid: Your friend is getting married at eleven and the second witness has not turned up — no message, nothing — and the registrar says she cannot do the ceremony with one. The couple booked for half past are already in the corridor with both families. You ask the man waiting in the corridor to come in and sign.
-facetMidAction: You ask the man waiting in the corridor to come in and sign.
-facetLowTitle: The Beanob
-facetLow: The card machine has died at the morning rush with eleven people in the queue and the woman who owns the bakery gone to the wholesaler. Before she left she told you and the man you work with what to do if it went — take cash, write the amounts on the pad. The rent goes out today. You go through to the back and start ringing the card company.
-facetLowAction: You go through to the back and start ringing the card company.
-facetLeastTitle: The Bean and the Whale
-facetLeast: A friend has got you into the teaching collection after hours. The technician walks you along the tanks — the numbering, the ledger, which of the pots came out of the workhouse — and says she locks up in half an hour, so tell her the three you want to see. There are forty cases. You start at case one.
-facetLeastAction: You start at case one.
-question: Twenty people are coming to a picnic at three and the field has been fenced off. What happens?
-answerMost: it moves twice more before three, and not everyone hears which
-answerHigh: a new spot is fixed, and everyone knows inside the hour
-answerMid: it shifts to the nearest park, on one message
-answerLow: it gets sorted at three, once people have turned up
-answerLeast: it goes back to next Saturday rather than moving today
+facetMid: Your grandmother's first trip out since her hip operation is to the hairdresser's, and she's been looking forward to it all week. The lift in her building is out, and she can't do the stairs. You ring the salon and ask whether the woman who cuts her hair will come to the flat.
+facetMidAction: You ring the salon and ask whether the woman who cuts her hair will come to the flat.
+facetLowTitle: Waiting for Beandot
+facetLow: The Lisbon flight is cancelled at the gate, and the airline can't get you out for three days. Your partner already has it worked out — a train tonight, a sleeper south, and you'd be there by the second evening. The week off is booked either way. You book the same flight for next month instead.
+facetLowAction: You book the same flight for next month instead.
+facetLeastTitle: Rain Bean
+facetLeast: A friend has got you into the natural history museum's store rooms after hours. The keeper slides out a drawer of hummingbirds, says which came back on the old collecting ships, then tells you she locks up in half an hour — so name the three drawers you want. They run the length of the room. You start at the first drawer.
+facetLeastAction: You start at the first drawer.
+question: You offered to make the three-tier cake for your friend's wedding tomorrow, and the bottom tier has just come out of the tin in two pieces. You...
+answerMost: turn it into little iced cakes instead
+answerHigh: cut it down to two tiers and re-ice it tonight
+answerMid: push it back together and ice over the join
+answerLow: bake that tier again first thing
+answerLeast: start the whole cake again, from the bottom tier up
 rorschachMost: a wet eel
 rorschachHigh: a hand on a ledge
 rorschachMid: a cat on a fence

@@ -5,7 +5,7 @@ bean: black
 flavour: spicy
 form: fermented
 trait: mysterious
-excess: unfathomable
+excess: bizarre
 inverse: self-evident
 quote: I am not strange, I am just a bean.
 creature: black panther

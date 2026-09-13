@@ -6,7 +6,7 @@ flavour: sour
 form: dried
 trait: acerbic
 excess: scathing
-inverse: emollient
+inverse: benign
 quote: The truth will set you free, but first it will bean you.
 creature: wasp
 dish: Dried fava with sumac and dehydrated onion.
@@ -28,8 +28,8 @@ facetHighTitle: Beanhouse
 facetHigh: A friend announces she's quitting a steady job to make jewellery and asks, beaming, for your honest take. You tell her to keep her job, or beg for it back if she actually quits.
 facetHighAction: You tell her to keep her job, or beg for it back if she actually quits.
 facetMidTitle: Veebean
-facetMid: The barista's clearly proud of the drink she added to the menu, but one sip and it's thin and way too sour. She asks how it is. You say exactly that.
-facetMidAction: You say exactly that.
+facetMid: The barista's clearly proud of the drink she added to the menu, but one sip and it's thin and way too sour. She asks how it is. You say it's thin and way too sour.
+facetMidAction: You say it's thin and way too sour.
 facetLowTitle: Comfortably Bean
 facetLow: Your grandmother sets down the roast she's been on her feet all day for, and it's dry as a boot. She asks how it is. You tell her it's amazing and go back for seconds.
 facetLowAction: You tell her it's amazing and go back for seconds.

@@ -2,6 +2,7 @@
 slug: bitter
 name: Bitter
 tagline: The Flavour that must be acquired.
+vibe: they assess — warmth is withheld until earned
 positiveTraits: [dry, cultivated, discerning, ironic, clear-eyed]
 negativeTraits: [cold, supercilious]
 ---
