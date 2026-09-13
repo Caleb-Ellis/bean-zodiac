@@ -10,11 +10,8 @@ inverse: stark
 quote: Was it a vision, or a waking bean?
 creature: moth
 dish: Barbecued pinto beans with sorghum syrup over pecan.
-friendlyBeans: [green, chickpea]
+friendlyBeans: [chickpea, green]
 friendlyForm: roasted
-antiTriple: bitter-dried-navy
-antiBeans: [edamame, cannellini]
-antiForm: boiled
 seasonalFortune: "A season of sorghum and pecan smoke — the evening does not behave like an evening."
 fortuneMost: The moth keeps to the glass long after the flame's gone out.
 fortuneHigh: Scented smoke drifts through rooms with no one in them.
@@ -22,19 +19,19 @@ fortuneMid: Do all nightmares begin as dreams?
 fortuneLow: Smoke is lovely; no one is fed by it.
 fortuneLeast: The day calls for specific answers, not vague ideas.
 facetMostTitle: Purple Bean
-facetMost: A friend asks whether they'd hit it off with someone you both half-know. You describe how the person laughs and what a room feels like once they've left it.
+facetMost: A friend asks whether they'd hit it off with someone you both half-know.
 facetMostAction: You describe how the person laughs and what a room feels like once they've left it.
 facetHighTitle: Beanscape
-facetHigh: You'd take an apartment for the way afternoon light lays dappled across the walls and floor. Square footage, amenities, age of the building — not interested.
+facetHigh: You'd take an apartment for the way afternoon light lays dappled across the walls and floor.
 facetHighAction: Square footage, amenities, age of the building — not interested.
 facetMidTitle: In Beans
-facetMid: Asked how the trip went, you could list the stops and the sights. What really resonated was the smell of rain on hot stone, and the soft radio static that drifted through the streets. That's what you say.
+facetMid: Asked how the trip went, you could list the stops and the sights. What really resonated was the smell of rain on hot stone, and the soft radio static that drifted through the streets.
 facetMidAction: That's what you say.
 facetLowTitle: The Cold Bean of Day
-facetLow: A story reaches you from a second-hand source, highly outrageous and absent of details. Before you'll believe a word of it, you want who actually said what, exactly, and in what order.
+facetLow: A story reaches you from a second-hand source, highly outrageous and absent of details.
 facetLowAction: Before you'll believe a word of it, you want who actually said what, exactly, and in what order.
 facetLeastTitle: Bean Bones
-facetLeast: The horoscope, the tarot card, a friend's new year's resolutions — people love them. You prefer the ledger, the figures, what's demonstrably true.
+facetLeast: The horoscope, the tarot card, a friend's new year's resolutions — people love them.
 facetLeastAction: You prefer the ledger, the figures, what's demonstrably true.
 question: A blank canvas, a warm open afternoon — it's been a while since you've picked up your brushes. You...
 answerMost: let a colour lead and follow it wherever it drifts

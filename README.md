@@ -34,6 +34,20 @@ New year switches **March 12** annually. Reference date: 12 March 1993.
 
 Main entry point: `getZodiacMetadataForDate(date)` → `ZodiacMetadata` (zodiacId, beanId, flavourId, formId, startDate, endDate)
 
+### How bean, flavour and form relate
+
+The three axes are independent and each carries its own character, expressed the same way: five `positiveTraits` and two `negativeTraits`. The **bean** is what you want, the **form** is how you absorb and respond to your environment, the **flavour** is your affect. Their prose bodies follow the same three-beat shape: what the thing is, what it gives, and — always last — its shadow.
+
+A zodiac is one cell of the 12 × 5 × 6 grid, and it is **authored, not derived**. Nothing in the build combines the parents' trait lists into the child; a zodiac names its own triple in frontmatter:
+
+- **`trait`** — the virtue this combination lands on (`ceremonious`, `laconic`, `unruffled`)
+- **`excess`** — the same quality overdone (`pompous`, `monosyllabic`, `impassive`)
+- **`inverse`** — its opposite (`offhand`, `garrulous`, `agitated`)
+
+That triple is the spine of the whole entry. Every five-slot gradient — `facet*`, `fortune*`, `question`'s `answer*`, and `rorschach*` — runs the same axis: **Most** = excess, **High** = trait, **Mid** = neutral, **Low** = the trait's absence, **Least** = inverse. So a tier means the same thing in every ritual variant, and the quality tier the user lands on is a position on that one axis.
+
+The parents' own trait lists aren't decoration: they're what a zodiac's triple should read as a plausible collision of, and the season-summary copy speaks in their vocabulary without naming the bean, flavour or form outright. The build also flattens `trait` alone to `src/data/generated/zodiac-traits.json` for synchronous lookup.
+
 ### Preparations
 
 A **Preparation** = Flavour × Form name (30 total). Lookup: `getPreparationName(flavourId, formId)` via `PREPARATION_NAMES` in `src/lib/zodiac/constants.ts`.
@@ -46,20 +60,6 @@ A **Preparation** = Flavour × Form name (30 total). Lookup: `getPreparationName
 | sweet  | Candied | Crystallised | Funky     | Caramelised | Glazed      | Barbecued |
 | umami  | Dashi   | Aged         | Miso      | Tempura     | Rendered    | Hickory   |
 
-### How bean, flavour and form relate
-
-The three axes are independent and each carries its own character, expressed the same way: five `positiveTraits` and two `negativeTraits`. The **bean** is who you are (plus a `role` — "The Reveler", "The Sentinel"), the **flavour** is the temper the season is taken in, the **form** is how the bean is worked on. Their prose bodies follow the same three-beat shape: what the thing is, what it gives, and — always last — its shadow.
-
-A zodiac is one cell of the 12 × 5 × 6 grid, and it is **authored, not derived**. Nothing in the build combines the parents' trait lists into the child; a zodiac names its own triple in frontmatter:
-
-- **`trait`** — the virtue this combination lands on (`ceremonious`, `laconic`, `unruffled`)
-- **`excess`** — the same quality overdone (`pompous`, `monosyllabic`, `impassive`)
-- **`inverse`** — its opposite (`offhand`, `garrulous`, `agitated`)
-
-That triple is the spine of the whole entry. Every five-slot gradient — `facet*`, `fortune*`, `question`'s `answer*`, and `rorschach*` — runs the same axis: **Most** = excess, **High** = trait, **Mid** = neutral, **Low** = the trait's absence, **Least** = inverse. So a tier means the same thing in every ritual variant, and the quality tier the user lands on is a position on that one axis.
-
-The parents' own trait lists aren't decoration: they're what a zodiac's triple should read as a plausible collision of, and the season-summary copy speaks in their vocabulary without naming the bean, flavour or form outright. The build also flattens `trait` alone to `src/data/generated/zodiac-traits.json` for synchronous lookup.
-
 ### Content
 
 Markdown lives in `src/content/`. The build script (`scripts/build-content.mjs`) converts it to JSON in `src/data/generated/` and copies zodiac files to `public/api/zodiacs/` so `fetchZodiac()` works unchanged at `/api/zodiacs/{slug}.json`.
@@ -67,7 +67,7 @@ Markdown lives in `src/content/`. The build script (`scripts/build-content.mjs`)
 - **`beans/`** — 12 files (slug, name, role, tagline, positiveTraits[], negativeTraits[], imageFile)
 - **`flavours/`** — 5 files (slug, name, tagline, positiveTraits[], negativeTraits[])
 - **`forms/`** — 6 files: boiled, dried, fermented, fried, roasted, smoked (slug, name, tagline, positiveTraits[], negativeTraits[])
-- **`zodiacs/`** — 360 files, filename `{flavour}-{form}-{bean}.md`, frontmatter: slug, lastUpdated, bean, flavour, form, the `trait`/`excess`/`inverse` triple (see above), creature, dish, quote, seasonalFortune, facet\*/fortune\* gradient (Most/High/Mid/Low/Least), the `friendlyBeans`/`antiBeans`/`antiTriple`/`friendlyForm`/`antiForm` spirit tags for spirit-bean scoring, `question` + `answerMost/High/Mid/Low/Least` for the question-variant ritual, and `rorschachMost/High/Mid/Low/Least` for the rorschach-variant ritual (see `STYLE.md` for body voice, `QUESTIONS.md` for question/answer voice, `RORSCHACH.md` for rorschach voice, and the spirit-tag paragraph below for tagging).
+- **`zodiacs/`** — 360 files, filename `{flavour}-{form}-{bean}.md`, frontmatter: slug, lastUpdated, bean, flavour, form, the `trait`/`excess`/`inverse` triple (see above), creature, dish, quote, seasonalFortune, facet\*/fortune\* gradient (Most/High/Mid/Low/Least), the `friendlyBeans`/`friendlyForm` spirit tags for spirit-bean scoring, `question` + `answerMost/High/Mid/Low/Least` for the question-variant ritual, and `rorschachMost/High/Mid/Low/Least` for the rorschach-variant ritual (see `STYLE.md` for body voice, `QUESTIONS.md` for question/answer voice, `RORSCHACH.md` for rorschach voice, and the spirit-tag paragraph below for tagging).
 
 ### Pages
 
@@ -93,7 +93,7 @@ Each zodiac has one `seasonalFortune` and five daily fortunes:
 - `facetLow` — mild expression of the opposite of the trait (e.g. if trait is "courageous" this is could be "cowardly")
 - `facetLeast` — medium expression of the opposite of the trait
 
-Each zodiac also carries **spirit tags** — `friendlyBeans`/`antiBeans` (2 beans each), `friendlyForm`/`antiForm` (one id each), and `antiTriple` (a zodiac slug). These form two symmetric **poles**: the friendly pole is the zodiac's own slug + `friendlyBeans` + `friendlyForm`; the anti pole is `antiTriple` + `antiBeans` + `antiForm`. `antiTriple` is the zodiac's *shadow* — itself a real `{flavour}-{form}-{bean}` slug — so the anti pole carries a flavour exactly as the friendly pole does, with no separate flavour tag needed. The friendly pole is picked for the entry's authored `trait`, the anti pole for its authored `inverse`: both poles are picked the same way (nearest, not most-opposed), so an anti tag means *genuinely like the inverse* rather than merely unlike the trait. `excess` is unused — it is the trait overshot, so it points the same direction the trait does. None of the anti fields may be the zodiac's own bean/form/flavour, the anti-triple's bean/form are barred from `antiBeans`/`antiForm` (3 distinct beans and 2 distinct forms per pole), and the two poles never share a bean or form — a tag on both poles moves the same way whatever the tier, so it would carry no signal. These drive the scoring pass on the Beanstalk (see Spirit Bean below) — they don't affect which fortune is shown. They are generated in bulk by `scripts/generate-spirit-tags.py` (never hand-edited; it aborts if a trait or inverse word is missing from its lexicon), and `build-content.mjs` fails the build if any are missing or invalid.
+Each zodiac also carries **spirit tags** — `friendlyBeans` (2 beans) and `friendlyForm` (one form id) — an entourage picked for the entry's authored `trait` that moves alongside the zodiac's own triple. Neither may be the zodiac's own bean/form. `excess` and `inverse` are unused: the excess points the same direction the trait does, and the tier already says which end of the trait a fortune sits at. These drive the scoring pass on the Beanstalk (see Spirit Bean below) — they don't affect which fortune is shown. They are generated in bulk by `scripts/generate-spirit-tags.py` (never hand-edited; it aborts if a trait word is missing from its lexicon), and `build-content.mjs` fails the build if any are missing or invalid.
 
 The daily fortune selected is influenced by the user's claimed/spirit bean, the current season, and a random daily bean.
 
@@ -109,7 +109,7 @@ The variant downgrades to facet for any zodiac that lacks the optional `question
 
 **Lifetime ritual-uniqueness** — a user can never receive the same _ritual_ twice. A ritual's identity (`ritualKey`) is the fortune slug plus its variant, and — for the facet variant only — the rolled tier (question/rorschach tiers are the user's answer, not part of the ritual). The hook builds `seenRituals` from every past `fortuneHistory` entry and `getDailyRitual` re-rolls the whole slug/tier/variant triple until it produces a key never seen before (a softer `recentSlugs`/`FORTUNE_REPEAT_WINDOW` slug window still layers on for near-term variety). The ritual space is 360 slugs × (facet ×5 tiers + question + rorschach) = **2,520**, so no repeat occurs until the full space is exhausted (~6.9 years of daily use). The re-roll's attempt 0 uses the unperturbed day seed, so days with no collision are byte-for-byte identical to the pre-uniqueness roll, and because the seen set is drawn only from immutable past entries the result stays deterministic across reloads.
 
-The inkblots are SVGs generated by `scripts/build-rorschach.mjs` into `public/images/rorschach/{slug}.svg`. Each is a mirror-symmetric blot composed from the bean image plus flavour/form emoji, warped by a seeded `feTurbulence`/`feDisplacementMap` filter. All geometry is seeded from the slug hash, so blots are stable across rebuilds. Two further seeded 50/50 transforms vary the composition: a vertical flip of the finished blot (turns it upside down), and a 90° rotation applied *inside* the filter, before the displacement — so the noise warps the rotated composition. The rotation also swaps the symmetry axis: un-rotated blots fold left/right (the classic butterfly), rotated ones fold top/bottom. Regenerate with `node scripts/build-rorschach.mjs`.
+The inkblots are SVGs generated by `scripts/build-rorschach.mjs` into `public/images/rorschach/{slug}.svg`. Each is a mirror-symmetric blot composed from the bean image plus flavour/form emoji, warped by a seeded `feTurbulence`/`feDisplacementMap` filter. All geometry is seeded from the slug hash, so blots are stable across rebuilds. Two further seeded 50/50 transforms vary the composition: a vertical flip of the finished blot (turns it upside down), and a 90° rotation applied _inside_ the filter, before the displacement — so the noise warps the rotated composition. The rotation also swaps the symmetry axis: un-rotated blots fold left/right (the classic butterfly), rotated ones fold top/bottom. Regenerate with `node scripts/build-rorschach.mjs`.
 
 To eyeball a blot the way a browser renders it (Inkscape and other headless rasterizers get the filter chain wrong), `pnpm preview:blot <slug>` serves `public/` and screenshots it in headless Chrome to a PNG. `--mode ink` gives a flat black silhouette on white (best for "what do you see?" free-association); the default `--mode mask` shows the gradient revealed through the blot as the app does. e.g. `pnpm preview:blot spicy-fried-kidney --mode ink --out /tmp/blot.png`.
 
@@ -176,22 +176,19 @@ UI preferences live separately in `src/store/ui.ts` under `bean-zodiac-ui` (curr
 
 **Spirit Bean** — three SVG radar charts (flavour, form, bean) showing affinity scores. Rendered by `SpiritBeanRadar.tsx`. Score computation in `spiritBean.ts`:
 
-- Baseline: all attributes start at 10. Claimed bean's flavour/form/bean each get +10.
-- The model is **asymmetric in direction, symmetric in shape**: Accept is the strong signal and only ever *adds*; Resist only ever *subtracts*. Each zodiac has two **poles**, and a tier decides which one a choice moves:
-  - **friendly pole** = the zodiac's own slug + `friendlyBeans` (2) + `friendlyForm` (1) — moved by "good" tiers (Heirloom/Market/Garden).
-  - **anti pole** = `antiTriple` + `antiBeans` (2) + `antiForm` (1) — moved by "bad" tiers (Stale/Rotten).
-- Both poles score identically (`ACCEPT_RULES`/`RESIST_RULES` in `computeSpiritBeanScores`), so the anti pole mirrors the friendly one rather than being a weaker special case. Each rule is a **triple** delta on that pole's flavour/form/bean plus a **soft** delta on its 2 beans + 1 form:
+- Baseline: all attributes start at 12. Claimed bean's flavour/form/bean each get +8.
+- Every choice moves one set: the zodiac's own flavour/form/bean (the **triple**) plus its entourage, `friendlyBeans` (2) + `friendlyForm` (1) (the **soft** set). A zodiac is a single axis from its trait to its inverse, and the tier says which end the fortune sits at, so "bad" tiers move the same set the other way rather than moving a separate one.
+- Each ritual variant has its own table (`ruleFor` in `computeSpiritBeanScores`), as triple / soft deltas:
 
-  | tier | Accept (triple / soft) | Resist (triple / soft) |
-  | --- | --- | --- |
-  | Heirloom | +4 / +2 | −2 / −1 |
-  | Market | +3 / +1 | −1 / −1 |
-  | Garden | +2 / +1 | −1 / 0 |
-  | Stale | +2 / +1 | −1 / 0 |
-  | Rotten | +3 / +1 | −2 / −1 |
+  | tier     | Facet Accept | Facet Resist | Question  | Rorschach   |
+  | -------- | ------------ | ------------ | --------- | ----------- |
+  | Heirloom | +4 / +2      | −1 / 0       | +4 / +2   | +1.5 / +0.5 |
+  | Market   | +3 / +1      | −1 / −1      | +3 / +1   | +1 / 0      |
+  | Garden   | +2 / +1      | −2 / −1      | +2 / +1   | +0.5 / 0    |
+  | Stale    | −1 / 0       | +1 / +1      | −1 / 0    | −0.5 / 0    |
+  | Rotten   | −2 / −1      | +1 / 0       | −2 / −1   | −1 / −0.5   |
 
-  Because `antiTriple` carries a flavour, bad tiers move the flavour ring too — the friendly and anti poles are fully equivalent. Magnitudes are full (un-halved) across beans, flavour, and form.
-- Question/rorschach answers always count as Accept; the picked tier becomes the day's `qualityId`. Rorschach answers count at half — both triple and soft deltas are halved, rounded toward the choice's sign so a non-zero rule always keeps a minimal nudge.
+- Question/rorschach answers always count as Accept; the picked tier becomes the day's `qualityId`. Their scales are centred so answering doesn't drift the chart toward every zodiac asked about; rorschach runs lower throughout, as a looser signal.
 - Tags are **looked up by `zodiacId`** from `src/data/generated/spirit-tags.json` (imported synchronously). History entries used to carry a `spiritTags` snapshot; nothing ever read it (the tags are a pure function of the zodiac, so a snapshot could only ever be a stale copy) and it is gone as of store v7 — this way the tag model can change shape without migrating stored history. Trade-off: regenerating tags retroactively re-scores past entries.
 - There is no longer any neighbour bleed — the `SPIRIT_*_RING` arrays are purely radar-chart point ordering now, not scoring adjacency. Charts auto-scale to max value (floor 16).
 

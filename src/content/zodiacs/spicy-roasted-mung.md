@@ -12,9 +12,6 @@ creature: prairie dog
 dish: Mung roasted with chilli, curry leaf, and coconut.
 friendlyBeans: [chickpea, butter]
 friendlyForm: fermented
-antiTriple: sour-fried-edamame
-antiBeans: [black, fava]
-antiForm: smoked
 seasonalFortune: "A season of coconut and open arms: the tray offers itself to everyone, repeatedly."
 fortuneMost: Prairie dogs kiss every time they meet, occasion or no.
 fortuneHigh: Make your feelings known!
@@ -22,19 +19,19 @@ fortuneMid: Show it instead of saying it.
 fortuneLow: People will know without being told.
 fortuneLeast: Keep this one to yourself.
 facetMostTitle: Beans And Kisses
-facetMost: A close friend from school is flying out for three months and you're seeing them off at the airport. You get them in a hug at the bag drop and tell them, crying, what they've meant to you since school.
+facetMost: A close friend from school is flying out for three months and you're seeing them off at the airport.
 facetMostAction: You get them in a hug at the bag drop and tell them, crying, what they've meant to you since school.
 facetHighTitle: Bean Hugs
-facetHigh: Your dad's never been one for saying it. You end every phone call with him by telling him you love him anyway.
+facetHigh: Your dad's never been one for saying it.
 facetHighAction: You end every phone call with him by telling him you love him anyway.
 facetMidTitle: From Bean with Love
-facetMid: Somebody new has joined the group and you've met them twice now. You give them a hug hello, same as everyone else.
+facetMid: Somebody new has joined the group and you've met them twice now.
 facetMidAction: You give them a hug hello, same as everyone else.
 facetLowTitle: A Firm Beanshake
-facetLow: A friend of many years is at your door telling you he's lost his job and he's close to tears. You clap him on the shoulder and hear him out.
+facetLow: A friend of many years is at your door telling you he's lost his job and he's close to tears.
 facetLowAction: You clap him on the shoulder and hear him out.
 facetLeastTitle: At Bean's Length
-facetLeast: Your son's car is packed and he's away to the other end of the country in the morning. At the gate you shake his hand and tell him to ring when he's there.
+facetLeast: Your son's car is packed and he's away to the other end of the country in the morning.
 facetLeastAction: At the gate you shake his hand and tell him to ring when he's there.
 question: At the end of a night out an old friend, a few drinks in, tells you that you're the reason they got through a bad year. You...
 answerMost: say it all back and cry

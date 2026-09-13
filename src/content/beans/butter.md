@@ -3,6 +3,7 @@ slug: butter
 name: Butter Bean
 role: The Pacifist
 tagline: The art of doing nothing badly.
+goal: to keep the temperature down — nothing to become a crisis
 positiveTraits: [calming, accepting, unflappable, forgiving, contented]
 negativeTraits: [inert, indulgent]
 imageFile: butter.webp

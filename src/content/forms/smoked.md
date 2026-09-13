@@ -2,6 +2,7 @@
 slug: smoked
 name: Smoked
 tagline: The Form that obscures.
+reactivity: passes it on
 positiveTraits: [indirect, pervasive, lingering, suggestive, subtle]
 negativeTraits: [elusive, unmoored]
 ---

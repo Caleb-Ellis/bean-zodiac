@@ -2,6 +2,7 @@
 slug: fried
 name: Fried
 tagline: The Form that ignites.
+reactivity: gives it back out — immediately
 positiveTraits: [immediate, decisive, committed, unhedged, catalytic]
 negativeTraits: [rash, combustible]
 ---

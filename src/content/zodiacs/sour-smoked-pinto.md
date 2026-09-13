@@ -10,11 +10,8 @@ inverse: unambiguous
 quote: Tell all the truth but tell it beaned.
 creature: firefly
 dish: Smoked pinto beans cured with lime over pecan.
-friendlyBeans: [fava, butter]
+friendlyBeans: [fava, adzuki]
 friendlyForm: roasted
-antiTriple: spicy-fried-chickpea
-antiBeans: [kidney, edamame]
-antiForm: boiled
 seasonalFortune: "A season of pecan smoke and half-said things — the flavour hints, and the hint lands later."
 fortuneMost: Say it well enough and nobody will know you said it.
 fortuneHigh: Offer the fuzzy version.
@@ -22,19 +19,19 @@ fortuneMid: A firefly is easier to follow than to catch.
 fortuneLow: There's nothing to unpack here.
 fortuneLeast: Do not hide behind metaphors and allusions — tell it like it is.
 facetMostTitle: Riddle Me Bean
-facetMost: You've had a big fight with your sister, and the flowers are your way back in. The florist holds the little card and asks what to write on it. You describe a shared, happy memory.
+facetMost: You've had a big fight with your sister, and the flowers are your way back in. The florist holds the little card and asks what to write on it.
 facetMostAction: You describe a shared, happy memory.
 facetHighTitle: Bean the Lines
-facetHigh: A friend has been seeing somebody a couple of months, and while the two of you sit waiting on her machine at the laundrette she asks what you honestly made of him. You have real doubts. You bring up the last one she went out with, and how the first year of that went.
+facetHigh: A friend has been seeing somebody a couple of months, and while the two of you sit waiting on her machine at the laundrette she asks what you honestly made of him. You have real doubts.
 facetHighAction: You bring up the last one she went out with, and how the first year of that went.
 facetMidTitle: What Lies Bebean
-facetMid: A shift at the charity shop where you volunteer, sorting a bin bag of donations with the woman you always get put with. She asks how the date went, the one that went poorly. You pick up a tired old shirt out of the bag and say "it was a bit like this".
+facetMid: A shift at the charity shop where you volunteer, sorting a bin bag of donations with the woman you always get put with. She asks how the date went, the one that went poorly.
 facetMidAction: You pick up a tired old shirt out of the bag and say "it was a bit like this".
 facetLowTitle: "Parental Advisory: Explicit Beans"
-facetLow: Somebody you brought to the climbing wall for the first time has stalled halfway up the easy route and is calling down for help. You shout up exactly which hold to reach for, which foot to move, and how they should shift their weight.
+facetLow: Somebody you brought to the climbing wall for the first time has stalled halfway up the easy route and is calling down for help.
 facetLowAction: You shout up exactly which hold to reach for, which foot to move, and how they should shift their weight.
 facetLeastTitle: In Plain Beanglish
-facetLeast: A woman in your writing group has been bringing chapters of the same novel for months — and you have always thought the opening isn't great. She puts forty pages down and asks you not to be kind. The others say what they liked. You tell her the opening does not work, and the page where it starts to sag.
+facetLeast: A woman in your writing group has been bringing chapters of the same novel for months — and you have always thought the opening isn't great. She puts forty pages down and asks you not to be kind. The others say what they liked.
 facetLeastAction: You tell her the opening does not work, and the page where it starts to sag.
 question: Two hours on the riverbank with your dad, nothing biting. You've taken a job overseas and you start in March; he doesn't know yet, and he asks what your year's looking like. You start by...
 answerMost: saying the swallows go out a long way and still come back

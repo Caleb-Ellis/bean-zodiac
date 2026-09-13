@@ -13,9 +13,6 @@ creature: moose
 dish: Fava miso with kombu.
 friendlyBeans: [pinto, green]
 friendlyForm: roasted
-antiTriple: sweet-boiled-mung
-antiBeans: [navy, cannellini]
-antiForm: dried
 seasonalFortune: "A season of kombu and long dark — the miso answers to nothing but itself, and takes as long as it takes."
 fortuneMost: Answer to nobody and your own word stops counting too.
 fortuneHigh: You don't need to be allowed.
@@ -23,19 +20,19 @@ fortuneMid: A moose will stand in the road as long as it likes, and the traffic 
 fortuneLow: Follow the instruction and take the evening off.
 fortuneLeast: The recipe was written by somebody who had already ruined it.
 facetMostTitle: One Flew Over the Cuckoo's Bean
-facetMost: You and three friends have made records together as a band for six years, on one rule the four of you agreed at the start — nothing goes out unless all four say yes. The song you wrote on your own has been sitting there eight months, and when it finally went to a vote it was three against. You put it up under the band's name yourself.
+facetMost: You and three friends have made records together as a band for six years, on one rule the four of you agreed at the start — nothing goes out unless all four say yes. The song you wrote on your own has been sitting there eight months, and when it finally went to a vote it was three against.
 facetMostAction: You put it up under the band's name yourself.
 facetHighTitle: Beandependence Day
-facetHigh: You are eighteen months into a four-year apprenticeship that four hundred people applied for, and you are good at it. Nobody has been unkind to you, the money is fine, and the man who trains you has put his name to you twice. Your parents have told you what they think, and so has the woman who runs the scheme, and they are right about most of it. You tell him you are finishing at the end of the month.
+facetHigh: You are eighteen months into a four-year apprenticeship that four hundred people applied for, and you are good at it. Nobody has been unkind to you, the money is fine, and the man who trains you has put his name to you twice. Your parents have told you what they think, and so has the woman who runs the scheme, and they are right about most of it.
 facetHighAction: You tell him you are finishing at the end of the month.
 facetMidTitle: Whose Line Is It Anybean
-facetMid: It is your first evening in a house share, and the woman whose name is on the lease has lived there four years. It is the only room you have found that you can afford. She hands you a printed sheet — a cleaning rota, a shelf each in the fridge, and nobody staying over on weeknights. You tell her the rota is fine and the guest rule isn't.
+facetMid: It is your first evening in a house share, and the woman whose name is on the lease has lived there four years. It is the only room you have found that you can afford. She hands you a printed sheet — a cleaning rota, a shelf each in the fridge, and nobody staying over on weeknights.
 facetMidAction: You tell her the rota is fine and the guest rule isn't.
 facetLowTitle: Mary Beanpins
-facetLow: A friend's family grow soft fruit and you have come down for the picking week. The woman who runs it walks you round the packhouse first — the grading table, the cold store, why the ripe rows are cleared in a set order — and then puts you on a row and tells you exactly how to take the fruit off the plant and not to think about it. Fruit handled wrong is fruit they cannot sell, and within an hour you can see a faster way to do it. You pick the row the way she showed you.
+facetLow: A friend's family grow soft fruit and you have come down for the picking week. The woman who runs it walks you round the packhouse first — the grading table, the cold store, why the ripe rows are cleared in a set order — and then puts you on a row and tells you exactly how to take the fruit off the plant and not to think about it. Fruit handled wrong is fruit they cannot sell, and within an hour you can see a faster way to do it.
 facetLowAction: You pick the row the way she showed you.
 facetLeastTitle: Downton Beanbey
-facetLeast: You have booked four days at a house in the hills where nobody speaks and a bell decides everything — when you get up, when you eat, when you sit, when the lights go out. On the first afternoon the woman who runs it walks you through the kitchen rota and the room the sitting happens in, and says the only rule is that you decide nothing for four days. You get up when the bell goes and sit where she showed you.
+facetLeast: You have booked four days at a house in the hills where nobody speaks and a bell decides everything — when you get up, when you eat, when you sit, when the lights go out. On the first afternoon the woman who runs it walks you through the kitchen rota and the room the sitting happens in, and says the only rule is that you decide nothing for four days.
 facetLeastAction: You get up when the bell goes and sit where she showed you.
 question: You want to spend the summer travelling, which will take all the money you have. Surprisingly, your mother has just gifted you a tidy sum, asking that it go toward a deposit for somewhere of your own. You...
 answerMost: go travelling, and send her a message when you're there
@@ -43,11 +40,11 @@ answerHigh: tell her outright that it's helping pay for the trip
 answerMid: try to convince her some of it should be used for travelling
 answerLow: put the money in an account, intend to spend it on a place later
 answerLeast: start looking at buying a place immediately
-rorschachMost: an erupting volcano
-rorschachHigh: a headless snowman
-rorschachMid: a heaped bundle of laundry
-rorschachLow: an upright gourd
-rorschachLeast: wet, unkneaded dough
+rorschachMost: a pirate ship
+rorschachHigh: a throne
+rorschachMid: a watchtower
+rorschachLow: a sitting dog
+rorschachLeast: a puppet
 ---
 
 Miso Fava Beans are the Bean Zodiac's most sovereign. Four people give them the same good advice, they thank all four, and the decision was made before any of them spoke. Sometimes nobody can get an answer out of them, including the people they promised one to. Doing it because somebody senior said so is a shortcut they've never taken.

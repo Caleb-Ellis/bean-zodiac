@@ -12,9 +12,6 @@ creature: rook
 dish: Dried soybeans roasted into kinako and whisked with matcha.
 friendlyBeans: [cannellini, fava]
 friendlyForm: fermented
-antiTriple: umami-boiled-adzuki
-antiBeans: [mung, chickpea]
-antiForm: roasted
 seasonalFortune: "A season of hard pods and short sentences: nothing said twice, nothing kept that cannot keep."
 fortuneMost: Silence.
 fortuneHigh: Say less.
@@ -22,19 +19,19 @@ fortuneMid: Cut it in half.
 fortuneLow: The rook enjoys the company of others.
 fortuneLeast: The path has no end, it only branches into branches into branches.
 facetMostTitle: Bean It
-facetMost: The taxi driver is friendly, and very talkative. From you he gets a "yeah," a "nice one," and then silence for the rest of the trip.
+facetMost: The taxi driver is friendly, and very talkative.
 facetMostAction: From you he gets a "yeah," a "nice one," and then silence for the rest of the trip.
 facetHighTitle: The Old Bean and the Sea
-facetHigh: Having just landed at the airport, the customs officer asks the purpose of your visit. You reply with a single word.
+facetHigh: Having just landed at the airport, the customs officer asks the purpose of your visit.
 facetHighAction: You reply with a single word.
 facetMidTitle: True Bean Grit
-facetMid: Everyone's retelling the trip in loving detail. Your version is short and sweet — the highlight, the lowlight and the most interesting thing.
+facetMid: Everyone's retelling the trip in loving detail.
 facetMidAction: Your version is short and sweet — the highlight, the lowlight and the most interesting thing.
 facetLowTitle: Gilmore Beans
-facetLow: A stranger stops you for directions to the station. A pointed finger would do. You walk them all the way there in words, doubling back to be sure it landed.
+facetLow: A stranger stops you for directions to the station. A pointed finger would do.
 facetLowAction: You walk them all the way there in words, doubling back to be sure it landed.
 facetLeastTitle: War and Beans
-facetLeast: A genie grants one wish and asks you to name it. Before you do, you spend a great deal of time discussing the parameters.
+facetLeast: A genie grants one wish and asks you to name it.
 facetLeastAction: Before you do, you spend a great deal of time discussing the parameters.
 question: Just past the finish line of their first marathon, your friend catches their breath and asks how they did. Their time was actually pretty good. You...
 answerMost: say "pretty good"

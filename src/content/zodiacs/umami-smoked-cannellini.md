@@ -12,9 +12,6 @@ creature: basilisk
 dish: Hickory-smoked cannellini with pancetta.
 friendlyBeans: [edamame, navy]
 friendlyForm: dried
-antiTriple: sweet-fried-kidney
-antiBeans: [chickpea, adzuki]
-antiForm: roasted
 seasonalFortune: "A season of pancetta and hickory: the tray carries itself as though watched."
 fortuneMost: The road clears wherever the basilisk goes. It always travels alone.
 fortuneHigh: The day tilts toward grace.
@@ -22,19 +19,19 @@ fortuneMid: Spend your full presence on the one yes.
 fortuneLow: The candle was lit for a guest who won't arrive.
 fortuneLeast: Wear the shirt with the stain, leave the bed unmade.
 facetMostTitle: The Bean in Winter
-facetMost: It's a crowded reception, everyone circling and working the room. You stake out a spot by the tall windows and let them come to you.
+facetMost: It's a crowded reception, everyone circling and working the room.
 facetMostAction: You stake out a spot by the tall windows and let them come to you.
 facetHighTitle: The Bean Crown
-facetHigh: At a family gathering you're being directed to the kids' table with the plastic chairs. You stay standing.
+facetHigh: At a family gathering you're being directed to the kids' table with the plastic chairs.
 facetHighAction: You stay standing.
 facetMidTitle: Long Live the Bean
-facetMid: Walking up to collect the award, you misjudge the step and stumble in front of the seated hall. You straighten, unhurried, and carry on to the stage.
+facetMid: Walking up to collect the award, you misjudge the step and stumble in front of the seated hall.
 facetMidAction: You straighten, unhurried, and carry on to the stage.
 facetLowTitle: The Bean and the Pauper
-facetLow: At a gallery opening, you in your good coat, a guest takes you for staff and hands you her empty glass. You take it to the bar without correcting her.
+facetLow: At a gallery opening, you in your good coat, a guest takes you for staff and hands you her empty glass.
 facetLowAction: You take it to the bar without correcting her.
 facetLeastTitle: Upstairs, Beanstairs
-facetLeast: At the school fundraiser there's a dunk tank with a line of kids waiting for a target. You roll up your sleeves and climb onto the drop seat.
+facetLeast: At the school fundraiser there's a dunk tank with a line of kids waiting for a target.
 facetLeastAction: You roll up your sleeves and climb onto the drop seat.
 question: The neighbourhood's midsummer feast is laid out under the trees, and the organisers ask whether you'll give the toast or pitch in with setting up. You...
 answerMost: claim the head of the table and open the feast yourself

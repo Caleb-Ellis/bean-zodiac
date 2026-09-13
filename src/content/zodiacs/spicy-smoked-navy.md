@@ -12,9 +12,6 @@ creature: draught horse
 dish: Navy beans smoked over hickory with chipotle and maple.
 friendlyBeans: [cannellini, black]
 friendlyForm: dried
-antiTriple: sour-fried-fava
-antiBeans: [green, chickpea]
-antiForm: roasted
 seasonalFortune: "A season of hickory and maple: the smoke keeps the same watch it kept last year."
 fortuneMost: The draught horse pulls diligently until it drops and is disposed.
 fortuneHigh: Outlast them all.
@@ -22,19 +19,19 @@ fortuneMid: Staying is a choice, not the absence of one.
 fortuneLow: You are allowed to change your mind.
 fortuneLeast: A buoy rides out what breaks the pier.
 facetMostTitle: Dug Bean
-facetMost: Every year for seven years you've organised a Groundhog Day watch party on Groundhog Day. It's really just an excuse to get some friends together. This time only three people reply, and one of those is to say they can't make it. You still go ahead with it.
+facetMost: Every year for seven years you've organised a Groundhog Day watch party on Groundhog Day. It's really just an excuse to get some friends together. This time only three people reply, and one of those is to say they can't make it.
 facetMostAction: You still go ahead with it.
 facetHighTitle: Hold Bean
-facetHigh: A friend of yours went to prison two years ago for assaulting a cop during a protest. It's a four-hour round trip to visit, most others dropped off after the first few months. You still go every other month.
+facetHigh: A friend of yours went to prison two years ago for assaulting a cop during a protest. It's a four-hour round trip to visit, most others dropped off after the first few months.
 facetHighAction: You still go every other month.
 facetMidTitle: Bean Steady
-facetMid: The tennis doubles team you've been part of comes in last most tournaments. You still go every time, though.
+facetMid: The tennis doubles team you've been part of comes in last most tournaments.
 facetMidAction: You still go every time, though.
 facetLowTitle: The Inconstant Bean
-facetLow: You and a friend signed up for a half marathon together, and over a few months the training runs have crept up to two hours. It's cutting into your time and energy, and your motivation has faded quite a bit. You bail before you actually run it.
+facetLow: You and a friend signed up for a half marathon together, and over a few months the training runs have crept up to two hours. It's cutting into your time and energy, and your motivation has faded quite a bit.
 facetLowAction: You bail before you actually run it.
 facetLeastTitle: Here Today, Bean Tomorrow
-facetLeast: You said you'd mind a friend's dog for the fortnight they're away. As it gets closer the reality lands — a fortnight of responsibility and no evenings out. Before they fly, you tell them you can't do it.
+facetLeast: You said you'd mind a friend's dog for the fortnight they're away. As it gets closer the reality lands — a fortnight of responsibility and no evenings out.
 facetLeastAction: Before they fly, you tell them you can't do it.
 question: The couple two doors down asked you to feed their cat for two weeks while they're away. Three months on they're still not back, and now you're going away yourself. You...
 answerMost: cancel your trip, keep feeding the cat

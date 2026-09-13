@@ -2,6 +2,7 @@
 slug: sour
 name: Sour
 tagline: The Flavour that cuts through.
+vibe: they don't mince words — the truth is told, quickly
 positiveTraits: [candid, bracing, clarifying, incisive, spirited]
 negativeTraits: [caustic, tactless]
 ---

@@ -12,9 +12,6 @@ creature: golden labrador
 dish: Adzuki roasted in rendered duck fat with soy.
 friendlyBeans: [pinto, chickpea]
 friendlyForm: fried
-antiTriple: bitter-fermented-cannellini
-antiBeans: [black, mung]
-antiForm: dried
 seasonalFortune: "A season of duck fat and soy — the aroma permeates and warms the air."
 fortuneMost: The hand lands on the shoulder before the name is known.
 fortuneHigh: Give them a hug!
@@ -22,19 +19,19 @@ fortuneMid: A labrador does not check who deserves to be greeted.
 fortuneLow: Not everyone will enjoy your company.
 fortuneLeast: A handshake will settle what a hug would spoil.
 facetMostTitle: Too Much Bean Will Kill You
-facetMost: Someone has moved in next door. The van is still half-unloaded, there are boxes in the hallway, and they look completely shattered. You go round with a plate of food, and you're still there two hours later telling them about the street and everyone on it.
+facetMost: Someone has moved in next door. The van is still half-unloaded, there are boxes in the hallway, and they look completely shattered.
 facetMostAction: You go round with a plate of food, and you're still there two hours later telling them about the street and everyone on it.
 facetHighTitle: Bean Bodies
-facetHigh: A friend's friend has had their living situation collapse and needs somewhere to stay for a few weeks. You've met them twice, both times for about fifteen minutes. You tell them to come to yours.
+facetHigh: A friend's friend has had their living situation collapse and needs somewhere to stay for a few weeks. You've met them twice, both times for about fifteen minutes.
 facetHighAction: You tell them to come to yours.
 facetMidTitle: Bean of Gold
-facetMid: You're at a barbecue at a friend's place and someone is sitting right at the edge of it alone, drink in hand, patting the dog. You consciously go over and say hi.
+facetMid: You're at a barbecue at a friend's place and someone is sitting right at the edge of it alone, drink in hand, patting the dog.
 facetMidAction: You consciously go over and say hi.
 facetLowTitle: Frosty the Beanman
-facetLow: You're doing the big shop and someone you were at school with spots you across the aisle, delighted, already heading over. You do the how-are-yous, tell them it's good to see them, but secretly wish you could just get the shopping done.
+facetLow: You're doing the big shop and someone you were at school with spots you across the aisle, delighted, already heading over.
 facetLowAction: You do the how-are-yous, tell them it's good to see them, but secretly wish you could just get the shopping done.
 facetLeastTitle: The Bean Age
-facetLeast: The evening class you've been going to finishes up, and everyone's heading to the pub afterwards to celebrate. You've sat next to these people every week for ten weeks. You send a message telling them to have fun.
+facetLeast: The evening class you've been going to finishes up, and everyone's heading to the pub afterwards to celebrate. You've sat next to these people every week for ten weeks.
 facetLeastAction: You send a message telling them to have fun.
 question: You have a bike you never ride, so you've put it on the local free-stuff group. Someone messages, and they're coming round at soon to collect it. You...
 answerMost: get some snacks ready for them

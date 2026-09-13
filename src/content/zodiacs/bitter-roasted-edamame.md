@@ -10,11 +10,8 @@ inverse: leaden
 quote: A bean is a terrible thing to waste.
 creature: laughing kookaburra
 dish: Edamame roasted in the pod over embers with matcha salt.
-friendlyBeans: [pinto, cannellini]
+friendlyBeans: [pinto, chickpea]
 friendlyForm: fried
-antiTriple: umami-boiled-mung
-antiBeans: [butter, kidney]
-antiForm: fermented
 seasonalFortune: "A season of matcha salt and dry embers — the pod is quicker than the fire deserves."
 fortuneMost: Win the laugh, lose the argument, call it a draw.
 fortuneHigh: Fear not at whom the kookaburra laughs — it laughs at thee.
@@ -22,19 +19,19 @@ fortuneMid: The truth can be loose sometimes.
 fortuneLow: Many a true bean is roasted in jest.
 fortuneLeast: The bean's been peeled.
 facetMostTitle: Thank You for Beaning
-facetMost: The officiant completely mangles the bride's name and the whole hall freezes. You riff on the mistake, no hesitation.
+facetMost: The officiant completely mangles the bride's name and the whole hall freezes.
 facetMostAction: You riff on the mistake, no hesitation.
 facetHighTitle: The Importance of Beaning Earnest
-facetHigh: A smug dig lands at your expense, and the group turns to watch you take it. You fire back, short and sharp.
+facetHigh: A smug dig lands at your expense, and the group turns to watch you take it.
 facetHighAction: You fire back, short and sharp.
 facetMidTitle: His Bean Friday
-facetMid: The tour guide has been talking about an old statue for ten minutes. You ask the person next to you if they think the statue's bored too.
+facetMid: The tour guide has been talking about an old statue for ten minutes.
 facetMidAction: You ask the person next to you if they think the statue's bored too.
 facetLowTitle: Bean Zeppelin
-facetLow: Someone thanks you for something you didn't actually do, openly and a little teary. You take it straight and just say thank you back.
+facetLow: Someone thanks you for something you didn't actually do, openly and a little teary.
 facetLowAction: You take it straight and just say thank you back.
 facetLeastTitle: Gravity Bean
-facetLeast: You are asked what you do for a living. You answer plainly — no setup, no twist, not even an "it pays the bills".
+facetLeast: You are asked what you do for a living.
 facetLeastAction: You answer plainly — no setup, no twist, not even an "it pays the bills".
 question: An offhand thing you posted in your early teenage years resurfaces, and your friends are quoting it with their own punchlines added on. You...
 answerMost: outdo every punchline with a sharper one

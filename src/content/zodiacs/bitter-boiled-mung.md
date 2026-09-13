@@ -12,9 +12,6 @@ creature: deer
 dish: Mung dal boiled with neem leaf and turmeric.
 friendlyBeans: [cannellini, kidney]
 friendlyForm: smoked
-antiTriple: spicy-roasted-fava
-antiBeans: [edamame, adzuki]
-antiForm: fried
 seasonalFortune: "A season of neem and slow skimming: the pot removes what harms before it adds what heals."
 fortuneMost: A deer stops dead at a sound that turns out to be nothing.
 fortuneHigh: You can't be too careful with this one.
@@ -22,19 +19,19 @@ fortuneMid: Tread lightly.
 fortuneLow: Send it without the triple check.
 fortuneLeast: Rushed work will still achieve the goal.
 facetMostTitle: The Odd Bean
-facetMost: Two walk-in clinics have looked at the mole on your shoulder now, and both said there is nothing wrong with it — the second one photographed and measured its edges. Your partner thinks that settles the question. You book a private appointment for a third opinion.
+facetMost: Two walk-in clinics have looked at the mole on your shoulder now, and both said there is nothing wrong with it — the second one photographed and measured its edges. Your partner thinks that settles the question.
 facetMostAction: You book a private appointment for a third opinion.
 facetHighTitle: Handle With Bean
-facetHigh: You're the last one out of a friend's flat and the smoke alarm in her hallway is doing the chirp it does when the battery is going. She's away for a fortnight, so it'll run down long before she's back. You find a nine-volt in her kitchen drawer and stand on a chair to change it.
+facetHigh: You're the last one out of a friend's flat and the smoke alarm in her hallway is doing the chirp it does when the battery is going. She's away for a fortnight, so it'll run down long before she's back.
 facetHighAction: You find a nine-volt in her kitchen drawer and stand on a chair to change it.
 facetMidTitle: Careful with That Axe, Bean
-facetMid: You and five others are in a hut at three thousand metres, and the stove is the only way to get water. You've had a look at the connector and the rubber ring on it is slightly cracked. If it leaks with the door shut, everyone in here is asleep next to it. You carry the stove out into the snow.
+facetMid: You and five others are in a hut at three thousand metres, and the stove is the only way to get water. You've had a look at the connector and the rubber ring on it is slightly cracked. If it leaks with the door shut, everyone in here is asleep next to it.
 facetMidAction: You carry the stove out into the snow.
 facetLowTitle: Beanless Whisper
-facetLow: Your housemate's white work shirts are in the machine with your towels, jeans and new red t-shirt. You're pretty sure coloured clothes don't bleed anymore in the first wash. You put it all in together and press start.
+facetLow: Your housemate's white work shirts are in the machine with your towels, jeans and new red t-shirt. You're pretty sure coloured clothes don't bleed anymore in the first wash.
 facetLowAction: You put it all in together and press start.
 facetLeastTitle: Oops!... I Beaned It Again
-facetLeast: Six of you are flying for your dad's birthday, and you're the one booking it. Everyone is paying you back for their own seat, and two of them still haven't confirmed their dates. You book all six on the first fare that's convenient for you, happy to deal with any required changes as they come up.
+facetLeast: Six of you are flying for your dad's birthday, and you're the one booking it. Everyone is paying you back for their own seat, and two of them still haven't confirmed their dates.
 facetLeastAction: You book all six on the first fare that's convenient for you, happy to deal with any required changes as they come up.
 question: You've wanted to see an eclipse for ages, and there's one on Saturday morning. The forecast says cloudy where you live, and clear sky two hours inland. You...
 answerMost: check the forecast constantly all week, never really deciding what to do

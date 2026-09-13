@@ -10,11 +10,8 @@ inverse: unvarnished
 quote: Double, double toil and bean.
 creature: peacock spider
 dish: Texas smoked pinto beans with brisket drippings and chipotle.
-friendlyBeans: [black, butter]
+friendlyBeans: [cannellini, black]
 friendlyForm: fermented
-antiTriple: sweet-dried-green
-antiBeans: [kidney, navy]
-antiForm: roasted
 seasonalFortune: "A season of sublime brisket and held gazes — the smoke will tell a story."
 fortuneMost: A peacock spider's dance is always beautiful, but its mate may still eat him.
 fortuneHigh: Dazzled hearts open minds.
@@ -22,19 +19,19 @@ fortuneMid: A good performance will be remembered.
 fortuneLow: You don't need to rock the boat.
 fortuneLeast: Make it easy to follow.
 facetMostTitle: Lost in the Beanhouse
-facetMost: A friend is deciding whether to take a room in a house you used to live in, and she's asked what it's really like. There are lots of things you could meantion – how close it is to everything, the beautiful afternoon light, the weird smells, the loud neighbour, the finicky heating. You start by describing all the weird smells in great detail.
+facetMost: A friend is deciding whether to take a room in a house you used to live in, and she's asked what it's really like. There are lots of things you could meantion – how close it is to everything, the beautiful afternoon light, the weird smells, the loud neighbour, the finicky heating.
 facetMostAction: You start by describing all the weird smells in great detail.
 facetHighTitle: Beanbound
-facetHigh: A friend asks why you moved away from the coast. The short true answer is that the work dried up. There's also the winter the harbour froze over and a man walked out across it. You spin them a yarn about how harsh the winters were.
+facetHigh: A friend asks why you moved away from the coast. The short true answer is that the work dried up. There's also the winter the harbour froze over and a man walked out across it.
 facetHighAction: You spin them a yarn about how harsh the winters were.
 facetMidTitle: Beanchanted
-facetMid: You're round at a friend's and she asks whether the flat you went to see yesterday was any good. It was fine and a bit small, the stairwell smelled of other people's cooking, and a woman came out onto the landing to see who you were. You tell her about the aromas, and who you think that woman was.
+facetMid: You're round at a friend's and she asks whether the flat you went to see yesterday was any good. It was fine and a bit small, the stairwell smelled of other people's cooking, and a woman came out onto the landing to see who you were.
 facetMidAction: You tell her about the aromas, and who you think that woman was.
 facetLowTitle: Garden Beaniety
-facetLow: You got back on Sunday from four days walking the coast, and a woman from your building stops you on the stairs to ask how it was. There was a tempestuous storm on the second night. You tell her it was rainy but otherwise good.
+facetLow: You got back on Sunday from four days walking the coast, and a woman from your building stops you on the stairs to ask how it was. There was a tempestuous storm on the second night.
 facetLowAction: You tell her it was rainy but otherwise good.
 facetLeastTitle: Bean-of-the-Mill
-facetLeast: Somebody at a friend's flat hears you walked the Camino de Santiago last year, and asks what it was like. It took five weeks and your feet were wrecked by the end. You say it took five weeks and that by the end your feet were wrecked.
+facetLeast: Somebody at a friend's flat hears you walked the Camino de Santiago last year, and asks what it was like. It took five weeks and your feet were wrecked by the end.
 facetLeastAction: You say it took five weeks and that by the end your feet were wrecked.
 question: It's Bring Your Parent to School Day at your child's school, and you've been asked to talk to the class about your job. Ten minutes, twenty nine-year-olds. You...
 answerMost: open with an interesting story that has nothing to do with your job, but might engage them

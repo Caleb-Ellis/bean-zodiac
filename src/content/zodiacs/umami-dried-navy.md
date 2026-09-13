@@ -12,9 +12,6 @@ creature: giant tortoise
 dish: Dried navy beans with aged salt pork and bay.
 friendlyBeans: [edamame, cannellini]
 friendlyForm: boiled
-antiTriple: spicy-smoked-chickpea
-antiBeans: [mung, adzuki]
-antiForm: fermented
 seasonalFortune: "A season of salt pork and bay — the store was here before, and remains."
 fortuneMost: The old tortoise walks the same path for a hundred years, never looking for more.
 fortuneHigh: Good things come to beans who wait.
@@ -22,19 +19,19 @@ fortuneMid: Count in seasons where others count in days.
 fortuneLow: It has become a monument to maintenance, not meaning.
 fortuneLeast: Sometimes you just feel like takeout - don't force a meal you don't want to make.
 facetMostTitle: The Beanless Summer
-facetMost: You've run every single day for three years — through illness, through injury, through Christmas. Tonight you're really tired and it's bucketing down. The streak gets you into your shoes regardless.
+facetMost: You've run every single day for three years — through illness, through injury, through Christmas. Tonight you're really tired and it's bucketing down.
 facetMostAction: The streak gets you into your shoes regardless.
 facetHighTitle: Cast Abean
-facetHigh: You started learning piano two years ago. Progress is slow, sometimes it's a bit boring, and some passages keep tripping you. You've been doing it this long - there's not much that'll make you stop.
+facetHigh: You started learning piano two years ago. Progress is slow, sometimes it's a bit boring, and some passages keep tripping you.
 facetHighAction: You've been doing it this long - there's not much that'll make you stop.
 facetMidTitle: Built to Bean
-facetMid: You're three-quarters through a novel that has turned into a bit of a slog — the plot went nowhere a hundred pages back. You push through to the end, just to not leave it unfinished.
+facetMid: You're three-quarters through a novel that has turned into a bit of a slog — the plot went nowhere a hundred pages back.
 facetMidAction: You push through to the end, just to not leave it unfinished.
 facetLowTitle: Beans That Pass in the Night
-facetLow: A houseplant you've nursed for the half a year is still not doing well — leggy, droopy, more brown than green. The urge is to bin it without ceremony and free the windowsill up.
+facetLow: A houseplant you've nursed for the half a year is still not doing well — leggy, droopy, more brown than green.
 facetLowAction: The urge is to bin it without ceremony and free the windowsill up.
 facetLeastTitle: One-Bean Wonder
-facetLeast: Your garage houses an instrument you haven't touched in years, breadmaking tools from a baking phase, a now-rusted sewing machine. They were fun for a time, now not so much. You won't feel bad if you never touch them again.
+facetLeast: Your garage houses an instrument you haven't touched in years, breadmaking tools from a baking phase, a now-rusted sewing machine. They were fun for a time, now not so much.
 facetLeastAction: You won't feel bad if you never touch them again.
 question: How often do you get a new phone?
 answerMost: ideally never, but in practice when the current one dies and cannot be repaired

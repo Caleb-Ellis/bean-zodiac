@@ -12,9 +12,6 @@ creature: oystercatcher
 dish: Cannellini in giardiniera with celery and hot vinegar.
 friendlyBeans: [edamame, black]
 friendlyForm: dried
-antiTriple: sweet-roasted-adzuki
-antiBeans: [kidney, green]
-antiForm: fried
 seasonalFortune: "A season of giardiniera and narrow taste: the brine takes some vegetables and refuses the rest."
 fortuneMost: To be too hard to please is to be too easy to disappoint.
 fortuneHigh: Pay more for the good one.
@@ -22,19 +19,19 @@ fortuneMid: The oystercatcher taps every shell before it opens one.
 fortuneLow: Sometimes it's better just to pick whatever's closest.
 fortuneLeast: Everything in the jar tastes of everything that was in it before.
 facetMostTitle: Beansier
-facetMost: The only coffee at your aunt's is a jar of instant, so you've started taking your own beans and a grinder over with you. You make yours separately at the end of the meal.
+facetMost: The only coffee at your aunt's is a jar of instant, so you've started taking your own beans and a grinder over with you.
 facetMostAction: You make yours separately at the end of the meal.
 facetHighTitle: Ratatoubean
-facetHigh: Three months in the flat and there's still no sofa in it, because nothing in your price range has been completely "right". You watch TV from a dining chair until you find the right one.
+facetHigh: Three months in the flat and there's still no sofa in it, because nothing in your price range has been completely "right".
 facetHighAction: You watch TV from a dining chair until you find the right one.
 facetMidTitle: Beanways
-facetMid: There's a pub two minutes from you and one twenty minutes away that keeps its beer properly, and has a better vibe. You almost always end up at the further pub.
+facetMid: There's a pub two minutes from you and one twenty minutes away that keeps its beer properly, and has a better vibe.
 facetMidAction: You almost always end up at the further pub.
 facetLowTitle: The Beanivore's Dilemma
-facetLow: You need a bottle of wine to take to dinner and you're running a tiny bit late. You grab whatever has a nice-looking label.
+facetLow: You need a bottle of wine to take to dinner and you're running a tiny bit late.
 facetLowAction: You grab whatever has a nice-looking label.
 facetLeastTitle: Bean v. Food
-facetLeast: On the long-haul flight they're serving some sort of jiggly meatloaf. Could be beef, or pork, or chicken, or all three? You honestly don't mind, fine to eat whatever.
+facetLeast: On the long-haul flight they're serving some sort of jiggly meatloaf. Could be beef, or pork, or chicken, or all three?
 facetLeastAction: You honestly don't mind, fine to eat whatever.
 question: You desperately need a pair of jeans, and the charity shop is full of them. You...
 answerMost: would never actually set foot in a charity shop

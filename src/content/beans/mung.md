@@ -3,6 +3,7 @@ slug: mung
 name: Mung Bean
 role: The Healer
 tagline: Small seeds, patient hands, quiet miracles.
+goal: to restore what's depleted — tends the conditions
 positiveTraits: [healing, nurturing, restorative, attentive, selfless]
 negativeTraits: [insecure, exploitable]
 imageFile: mung.webp

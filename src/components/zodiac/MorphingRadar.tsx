@@ -44,8 +44,10 @@ const SPOKE_INDICES: number[] = [
 // [0, 5, 10, 12, 15, 20, 24, 25, 30, 35, 36, 40, 45, 48, 50, 55]
 
 function getActiveSet(tab: TabKey): Set<number> {
-  if (tab === "bean") return new Set(Array.from({ length: 12 }, (_, i) => i * 5));
-  if (tab === "form") return new Set(Array.from({ length: 6 }, (_, i) => i * 10));
+  if (tab === "bean")
+    return new Set(Array.from({ length: 12 }, (_, i) => i * 5));
+  if (tab === "form")
+    return new Set(Array.from({ length: 6 }, (_, i) => i * 10));
   return new Set(Array.from({ length: 5 }, (_, i) => i * 12));
 }
 
@@ -71,10 +73,13 @@ function regularPolygon(n: number, radius: number): [number, number][] {
 }
 
 function dataPolygon(values: number[]): [number, number][] {
+  // The centre is min(0, lowest) so negative scores stretch the scale inward,
+  // just as scores above 48 stretch it outward.
+  const minVal = Math.min(...values, 0);
   const maxVal = Math.max(...values, 48);
   return values.map((v, i) => {
     const angle = (i / values.length) * 2 * Math.PI - Math.PI / 2;
-    const r = (v / maxVal) * MAX_RADIUS;
+    const r = ((v - minVal) / (maxVal - minVal)) * MAX_RADIUS;
     return [CX + r * Math.cos(angle), CY + r * Math.sin(angle)];
   });
 }
@@ -377,7 +382,9 @@ export default function MorphingRadar({
 
         <path
           ref={dataPathRef}
-          d={toPath(getExpanded(activeTab, flavourValues, formValues, beanValues))}
+          d={toPath(
+            getExpanded(activeTab, flavourValues, formValues, beanValues),
+          )}
           style={{
             fill: colorVar,
             stroke: colorVar,

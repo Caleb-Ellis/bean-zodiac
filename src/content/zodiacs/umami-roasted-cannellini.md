@@ -10,11 +10,8 @@ inverse: secretive
 quote: Come in, come in. The bean is always on and I have been meaning to tell you something.
 creature: dove
 dish: Cannellini roasted in duck fat with rosemary.
-friendlyBeans: [navy, pinto]
+friendlyBeans: [pinto, butter]
 friendlyForm: fried
-antiTriple: spicy-fermented-black
-antiBeans: [mung, fava]
-antiForm: smoked
 seasonalFortune: "A season of duck fat and rosemary: the roast tells the table something it kept."
 fortuneMost: The dove coos from the nest — the whole forest hears.
 fortuneHigh: Whisper it, shout it, tell it to whoever will listen.
@@ -22,19 +19,19 @@ fortuneMid: Your trust in them is not misplaced.
 fortuneLow: Behind the closed door is simply an empty room.
 fortuneLeast: Keep your thoughts to yourself, where no one can interrogate them.
 facetMostTitle: Loose Beans Sink Ships
-facetMost: You're getting a tattoo, and the artist is deeply focused and not really speaking. By the end you've told them your whole life story — the promotion, the breakup, family drama.
+facetMost: You're getting a tattoo, and the artist is deeply focused and not really speaking.
 facetMostAction: By the end you've told them your whole life story — the promotion, the breakup, family drama.
 facetHighTitle: Secrets and Beans
-facetHigh: You're at the ED waiting to be seen, when the stranger in the hospital chair next to you says that they're terrified. You could offer a polite nothing. You tell them you're scared too.
+facetHigh: You're at the ED waiting to be seen, when the stranger in the hospital chair next to you says that they're terrified. You could offer a polite nothing.
 facetHighAction: You tell them you're scared too.
 facetMidTitle: Between You and Bean
-facetMid: You've gone to a party in a bit of a low mood, grinning and baring it mostly. Afterwards, it's just you and a new friend left in the kitchen doing the washing-up. Without really meaning to, your bad few weeks come gushing out.
+facetMid: You've gone to a party in a bit of a low mood, grinning and baring it mostly. Afterwards, it's just you and a new friend left in the kitchen doing the washing-up.
 facetMidAction: Without really meaning to, your bad few weeks come gushing out.
 facetLowTitle: Top Beancret
-facetLow: At a family lunch a relative keeps pressing whether you're seeing anyone yet. You're fine to give a cheerful non-answer as many times as they ask.
-facetLowAction: You're fine to give a cheerful non-answer as many times as they ask.
+facetLow: At a family lunch a relative keeps pressing you, asking whether you're seeing anyone yet. It's not really any of their business.
+facetLowAction: You give a cheerful non-answer as many times as they ask.
 facetLeastTitle: L.A. Beanfidential
-facetLeast: Your partner sits you down, worried, and asks straight out what's been going on with you lately — they can tell something is wrong. You look them in the eye and tell them you're fine.
+facetLeast: Your partner sits you down, worried, and asks straight out what's been going on with you lately — they can tell something is wrong.
 facetLeastAction: You look them in the eye and tell them you're fine.
 question: After a few drinks you've been asked, "what is the worst thing you've ever done to someone?". You...
 answerMost: answer it completely, exposing your deepest shame

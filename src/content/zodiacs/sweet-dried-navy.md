@@ -12,9 +12,6 @@ creature: draft horse
 dish: Navy beans dried and rolled in maple sugar.
 friendlyBeans: [cannellini, edamame]
 friendlyForm: boiled
-antiTriple: spicy-fried-fava
-antiBeans: [green, adzuki]
-antiForm: roasted
 seasonalFortune: "A season of maple sugar and kept rota — the store shows up, rolled and ready."
 fortuneMost: There is no greater symbol than a uniform pressed and hung.
 fortuneHigh: The thankless jobs must be done.
@@ -22,19 +19,19 @@ fortuneMid: The tasks stop being things you do and become things you are.
 fortuneLow: Pick which obligations still mean something to you.
 fortuneLeast: The cart has been abandoned — its owners, forgotten.
 facetMostTitle: Gunga Bean
-facetMost: A fever's left you shivering, but it's your turn on the rota to drive granddad to his appointment. You don't think to ring round for a swap — you find the keys and go.
+facetMost: A fever's left you shivering, but it's your turn on the rota to drive granddad to his appointment.
 facetMostAction: You don't think to ring round for a swap — you find the keys and go.
 facetHighTitle: Call of Bean
-facetHigh: You said you'd feed the neighbour's cat while they're away. Morning and night you're there on the dot, and you scoop the litter too.
+facetHigh: You said you'd feed the neighbour's cat while they're away.
 facetHighAction: Morning and night you're there on the dot, and you scoop the litter too.
 facetMidTitle: Bean Call
-facetMid: A jury summons comes in the mail. You do it without a fuss, and without looking for a way to get out of it.
+facetMid: A jury summons comes in the mail.
 facetMidAction: You do it without a fuss, and without looking for a way to get out of it.
 facetLowTitle: Dereliction of Bean
-facetLow: Overdue library books sit stacked by the front door, ready to return. You'll step over them a few times before you get around to actually returning them.
+facetLow: Overdue library books sit stacked by the front door, ready to return.
 facetLowAction: You'll step over them a few times before you get around to actually returning them.
 facetLeastTitle: Absent Without Bean
-facetLeast: You love having greenery inside. Most houseplants you've owned have had their leaves brown and curl, soil turned to dust from lack of water.
+facetLeast: You love having greenery inside.
 facetLeastAction: Most houseplants you've owned have had their leaves brown and curl, soil turned to dust from lack of water.
 question: The camp leader wants every bunk in the cabin made to a tight fold for a morning inspection nobody really cares about, and the others have already run off to the lake. You...
 answerMost: fold your own tight, then remake the whole cabin's bunks to match

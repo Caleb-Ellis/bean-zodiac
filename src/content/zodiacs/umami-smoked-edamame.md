@@ -12,9 +12,6 @@ creature: augur owl
 dish: Hickory-smoked edamame with dark soy.
 friendlyBeans: [cannellini, black]
 friendlyForm: fermented
-antiTriple: spicy-roasted-adzuki
-antiBeans: [kidney, mung]
-antiForm: fried
 seasonalFortune: "A season of dark soy and read weather: the smoke knows how this ends."
 fortuneMost: The augur owl predicts a cold winter, colder than it could ever handle.
 fortuneHigh: Reach for the umbrella while the sky is still blue.
@@ -22,19 +19,19 @@ fortuneMid: You needn't run three steps ahead.
 fortuneLow: Let the other sentence finish before you begin yours.
 fortuneLeast: The rain will find you as you leave the door.
 facetMostTitle: Final Beanstination
-facetMost: A friend swears their new relationship is the one. You nod along, but you can already see how it ends.
+facetMost: A friend swears their new relationship is the one.
 facetMostAction: You nod along, but you can already see how it ends.
 facetHighTitle: The Shape of Beans to Come
-facetHigh: The party's still in full swing, but you start sensing the vibe is turning. Nothing specific, just a hunch. You start gathering your things to go.
+facetHigh: The party's still in full swing, but you start sensing the vibe is turning. Nothing specific, just a hunch.
 facetHighAction: You start gathering your things to go.
 facetMidTitle: The Writing on the Bean
-facetMid: You're at a restaurant you've never tried. One glance at the menu and you know which dish is yours – you do not weigh the rest.
+facetMid: You're at a restaurant you've never tried.
 facetMidAction: One glance at the menu and you know which dish is yours – you do not weigh the rest.
 facetLowTitle: The Bean Side
-facetLow: You're at the market buying things for dinner. You buy whatever looks good with no meal in mind, trusting it'll come together once you're at the stove.
+facetLow: You're at the market buying things for dinner.
 facetLowAction: You buy whatever looks good with no meal in mind, trusting it'll come together once you're at the stove.
 facetLeastTitle: Out of the Bean
-facetLeast: Friends spring a surprise party and it truly floors you. You never noticed the whispers, the odd errands, the all-too-casual questions.
+facetLeast: Friends spring a surprise party and it truly floors you.
 facetLeastAction: You never noticed the whispers, the odd errands, the all-too-casual questions.
 question: When a friend takes a breath and says "I've been meaning to ask you something", you usually...
 answerMost: know what they'll ask and have your answer waiting

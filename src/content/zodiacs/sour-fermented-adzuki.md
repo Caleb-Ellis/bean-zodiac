@@ -12,9 +12,6 @@ creature: macaque
 dish: Adzuki pickled in ume vinegar with shiso.
 friendlyBeans: [pinto, green]
 friendlyForm: smoked
-antiTriple: bitter-dried-navy
-antiBeans: [cannellini, kidney]
-antiForm: boiled
 seasonalFortune: "A season of ume vinegar and long mirrors — the jar knows exactly what it has become."
 fortuneMost: Would we be happier in a world without mirrors?
 fortuneHigh: Stare too long in the pond and you might forget to drink.
@@ -22,19 +19,19 @@ fortuneMid: Knowing why is only the first step.
 fortuneLow: Let the want come before the reason for it.
 fortuneLeast: You can actually do whatever you want, whenever you want.
 facetMostTitle: Bean Show
-facetMost: Before sending an eight-second voice note to a friend, you play it back at least three times, listening for how you come across.
-facetMostAction: Before sending an eight-second voice note to a friend, you play it back at least three times, listening for how you come across.
+facetMost: You're about to send a voice note to a friend. Before sending it, you play it back at least three times, listening for how you come across.
+facetMostAction: Before sending it, you play it back at least three times, listening for how you come across.
 facetHighTitle: Fleabean
-facetHigh: It's been a long day and you are beyond exhausted, but you have dinner plans with your partner. When you get home they comment that you look awful. Before blaming them for ruining the evening, you let it go — you understand it was a joke, and you're just tired.
+facetHigh: It's been a long day and you are beyond exhausted, but you have dinner plans with your partner. When you get home they comment that you look awful.
 facetHighAction: Before blaming them for ruining the evening, you let it go — you understand it was a joke, and you're just tired.
 facetMidTitle: Know Thy Bean
-facetMid: Early in your workday you've already gone to the kitchen three times to make a coffee, even though you're not tired at all. You know you're avoiding something.
+facetMid: Early in your workday you've already gone to the kitchen three times to make a coffee, even though you're not tired at all.
 facetMidAction: You know you're avoiding something.
 facetLowTitle: Mr. Beangoo
-facetLow: You're hooked on a good book. You surface from it two hours later than you thought it was, tea stone cold beside you and the light gone from the room.
+facetLow: You're hooked on a good book.
 facetLowAction: You surface from it two hours later than you thought it was, tea stone cold beside you and the light gone from the room.
 facetLeastTitle: Inspector Jacques Beanseau
-facetLeast: The dinner you've hosted was delicious, games were fun, and now you're all sitting around the table chatting. There's a couple of quick yawns. You keep refilling glasses and start telling another story.
+facetLeast: The dinner you've hosted was delicious, games were fun, and now you're all sitting around the table chatting. There's a couple of quick yawns.
 facetLeastAction: You keep refilling glasses and start telling another story.
 question: You don't usually mind a bit of lateness, but when your friend showed up a few minutes late you snapped at them. Alone later, you...
 answerMost: analyse the chain of events that turned you into the person who snapped

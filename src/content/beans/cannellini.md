@@ -3,6 +3,7 @@ slug: cannellini
 name: Cannellini Bean
 role: The Curator
 tagline: Elegance is the refusal of the unnecessary.
+goal: to make it right — removes what doesn't belong
 positiveTraits: [refined, exacting, tasteful, decorous, judicious]
 negativeTraits: [perfectionist, disdainful]
 imageFile: cannellini.webp

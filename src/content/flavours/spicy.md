@@ -2,6 +2,7 @@
 slug: spicy
 name: Spicy
 tagline: The Flavour that cannot be ignored.
+vibe: they require a response — nobody is near them passively
 positiveTraits: [intense, vivid, galvanising, arresting, fervent]
 negativeTraits: [overwhelming, volatile]
 ---

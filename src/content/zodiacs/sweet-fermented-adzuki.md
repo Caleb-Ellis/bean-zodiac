@@ -12,9 +12,6 @@ creature: whooper swan
 dish: Adzuki fermented with rice koji into amazake paste.
 friendlyBeans: [pinto, green]
 friendlyForm: smoked
-antiTriple: sour-dried-cannellini
-antiBeans: [navy, edamame]
-antiForm: fried
 seasonalFortune: "A season of rice koji and kept memory — the amazake tastes of a specific year."
 fortuneMost: The whooper swan keeps calling across the ice, long after the flock has gone.
 fortuneHigh: A photo has waited years for the right hands, and finds them.
@@ -22,19 +19,19 @@ fortuneMid: A small thing is kept for no reason.
 fortuneLow: A new voice is calling while the old one echoes.
 fortuneLeast: The face across from you is becoming a memory.
 facetMostTitle: Tears of a Bean
-facetMost: Friends are dragging the old couch to the curb — the one you spent your uni days on. No room, springs gone. You offer to take it.
+facetMost: Friends are dragging the old couch to the curb — the one you spent your uni days on. No room, springs gone.
 facetMostAction: You offer to take it.
 facetHighTitle: Beanimental Journey
-facetHigh: A bowl of warm soup tastes exactly like one your grandmother used to make. You spend the entire meal recounting stories of her.
+facetHigh: A bowl of warm soup tastes exactly like one your grandmother used to make.
 facetHighAction: You spend the entire meal recounting stories of her.
 facetMidTitle: Down Memory Bean
-facetMid: A nearby stranger's perfume is one you recognise. A half-memory forms, a faint happiness. You chase the memory for a good while.
+facetMid: A nearby stranger's perfume is one you recognise. A half-memory forms, a faint happiness.
 facetMidAction: You chase the memory for a good while.
 facetLowTitle: The Bean Sell
-facetLow: A sweater you've owned and loved for years is badly torn. It's been with you through several moves, over many countries, and there are a lot of photos with you wearing it. In the bin it goes.
+facetLow: A sweater you've owned and loved for years is badly torn. It's been with you through several moves, over many countries, and there are a lot of photos with you wearing it.
 facetLowAction: In the bin it goes.
 facetLeastTitle: Nothing Personal, Bean
-facetLeast: A grandparent's house is being emptied, take what you want. You walk the rooms once and leave with empty hands.
+facetLeast: A grandparent's house is being emptied, take what you want.
 facetLeastAction: You walk the rooms once and leave with empty hands.
 question: Your phone surfaces a photo from years back — a whole group of you, sunburnt and grinning on some beach. You...
 answerMost: send it round to everyone in it, already welling up

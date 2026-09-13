@@ -3,6 +3,7 @@ slug: edamame
 name: Edamame
 role: The Pragmatist
 tagline: See what's there. Do what works.
+goal: to get the thing done — skips whatever isn't load-bearing
 positiveTraits: [practical, direct, resourceful, unsentimental, capable]
 negativeTraits: [dismissive, curt]
 imageFile: edamame.webp
