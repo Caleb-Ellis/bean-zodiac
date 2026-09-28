@@ -14,7 +14,7 @@ friendlyBeans: [navy, edamame]
 friendlyForm: dried
 seasonalFortune: "A season of caper and lemon zest — every element placed, and the placing takes the season."
 fortuneMost: One crooked twig ruins the satin bowerbird's nest.
-fortuneHigh: Wipe the rim before you hand it over.
+fortuneHigh: Wipe the rim of the glass before you hand it over.
 fortuneMid: Give it another look; the first pass missed something.
 fortuneLow: Get the front right; no one sees the back.
 fortuneLeast: Don't worry if it's got a little smudge on it.

@@ -15,8 +15,8 @@ friendlyBeans: [green, kidney]
 friendlyForm: fried
 seasonalFortune: "A season of lardo and old fire — the smoke predates the kitchen it fills."
 fortuneMost: Bite once and nobody forgets it.
-fortuneHigh: The dire wolf ate first, and never once said grace.
-fortuneMid: Stand in the rain for a minute.
+fortuneHigh: Let the intrusive thoughts sit for a minute.
+fortuneMid: The dire wolf eats first.
 fortuneLow: Wait to be seated.
 fortuneLeast: Soap, chairs and shoes were all excellent ideas.
 facetMostTitle: The Jungle Bean

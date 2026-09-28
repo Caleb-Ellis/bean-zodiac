@@ -31,8 +31,8 @@ facetLowTitle: Blurred Beans
 facetLow: You have just cycled your first hundred miles, and at the café afterwards the friend who rode it with you is going through the stats on their phone. Average BPM, elevation gained, that sort of thing.
 facetLowAction: You'd rather talk about the views.
 facetLeastTitle: Paint It, Bean
-facetLeast: A friend has taken you to an exhibition, and the room everyone is queuing for holds one enormous black painting. It makes you uncomfortable. On the way out they ask what you made of it.
-facetLeastAction: You tell the truth, and when they ask what you mean by that, you say that is just what it did.
+facetLeast: A friend has taken you to an exhibition, and the room everyone is queuing for holds one enormous black painting. It makes you uncomfortable. On the way out they ask what you thought of it.
+facetLeastAction: You say it made you uncomfortable, and when they ask what you mean by that, you say that is just what it did.
 question: You're at the breeder's with your partner, hoping to choose a puppy from a litter of seven. You...
 answerMost: work through your scoring sheet
 answerHigh: ask about the parents' temperament and the health checks first

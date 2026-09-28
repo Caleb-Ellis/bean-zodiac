@@ -17,7 +17,7 @@ seasonalFortune: "A season of chipotle and unbroken heat: the pan does not tire 
 fortuneMost: The mako shark keeps swimming long after there's nothing left to chase.
 fortuneHigh: Don't take the first no for an answer.
 fortuneMid: A little more pressure is often all it takes.
-fortuneLow: Ask once, then give them room.
+fortuneLow: Give a little, take a little.
 fortuneLeast: There's no shame in giving somebody the last word.
 facetMostTitle: No Beanmorse
 facetMost: It's your friend's first game of tennis since the operation on his knee, and you're a set up and well ahead in the second. He's limping between points and has stopped running for the short ones.

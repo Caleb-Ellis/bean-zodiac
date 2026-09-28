@@ -1,7 +1,7 @@
 ---
 # TODO: check all
 slug: sour-fried-fava
-lastUpdated: 
+lastUpdated:
 bean: fava
 flavour: sour
 form: fried
@@ -16,7 +16,7 @@ friendlyForm: fermented
 seasonalFortune: "A season of mint and cut lemon — the answer arrives in the same breath as the question, ready or not."
 fortuneMost: You'll be halfway down the road before you know which one it is.
 fortuneHigh: The gannet folds its wings and is under the water before the fish has turned.
-fortuneMid: Do it before you've put your coat down.
+fortuneMid: Don't think too hard – just do it.
 fortuneLow: Nothing spoils overnight.
 fortuneLeast: The decision that took a week will still be right in a year.
 facetMostTitle: Romeo and Beaniet
@@ -26,7 +26,7 @@ facetHighTitle: Just Bean It
 facetHigh: An hour into your friend's tattoo, the artist says her next client has cancelled, so the chair is free after this. You've had a design saved on your phone for a year and no appointment.
 facetHighAction: You tell the artist to do your design next.
 facetMidTitle: Bean of Faith
-facetMid: The rest of the football team are in the changing room after the game, working out who's in for next season, and the fees aren't due for a month. Your knee hasn't been right since the spring, and you've decided to stop playing.
+facetMid: The rest of the football team are in the changing room after the game, working out who's in for next season. Your knee hasn't been fully right since the spring, though you haven't really done anything yet to address it.
 facetMidAction: You tell them you're out.
 facetLowTitle: The Bean Not Taken
 facetLow: Last week of the pottery class, and the kiln goes on at nine tonight — anything not on the shelf by then waits for the next course in the spring. Your bowl is up there glazed, but the glaze has gone thin and patchy down one side.

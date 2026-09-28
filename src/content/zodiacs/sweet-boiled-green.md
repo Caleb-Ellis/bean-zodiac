@@ -15,7 +15,7 @@ friendlyBeans: [kidney, chickpea]
 friendlyForm: fried
 seasonalFortune: "A season of brown sugar and ready yeses — everything is wonderful, and a few things really aren't."
 fortuneMost: Love everything and nobody can tell what you actually like.
-fortuneHigh: A red-capped manakin will moonwalk along a branch for anyone who stops to watch.
+fortuneHigh: A red-capped manakin moonwalks along a branch – everyone who watches is happy.
 fortuneMid: People remember who was glad for them.
 fortuneLow: Wait and see before you cheer.
 fortuneLeast: Hard-won praise is the kind people keep.

@@ -1,7 +1,7 @@
 ---
 # TODO: check all
 slug: sour-dried-edamame
-lastUpdated: 
+lastUpdated:
 bean: edamame
 flavour: sour
 form: dried
@@ -15,8 +15,8 @@ friendlyBeans: [cannellini, fava]
 friendlyForm: fermented
 seasonalFortune: "A season of yuzu peel and salt — the water goes, the flavour stays, and nothing is kept for the sake of keeping it."
 fortuneMost: A good price is poor company.
-fortuneHigh: Get rid of it. It's only a thing.
-fortuneMid: The hermit crab leaves its shell the moment a better one turns up.
+fortuneHigh: The hermit crab leaves its shell the moment a better one turns up.
+fortuneMid: Get rid of it. It's only a thing.
 fortuneLow: Some things are only worth something to you.
 fortuneLeast: Keep everything. You never know.
 facetMostTitle: Cash in the Beantic
@@ -26,8 +26,8 @@ facetHighTitle: Any Given Beanday
 facetHigh: The Sunday team you helped start is borrowing players every week to get eleven out, and losing heavily. Next season's fees are due and last year's kit is still unpaid. After the last game everyone in the changing room is talking about who they can sign.
 facetHighAction: You say the club should fold, and ask for a show of hands.
 facetMidTitle: Changing Beans
-facetMid: The flat you've just moved into has a mural of the seafront down the length of the hallway. The man across the landing tells you the woman before you painted it over a summer, and that people used to knock to see it.
-facetMidAction: You buy the paint and cover the mural.
+facetMid: The flat you've just moved into has a mural of the seafront down the length of the hallway. It's eye-catching, and a bit gaudy. The man across the landing tells you the woman before you painted it over a summer, and that it has a very personal story behind it.
+facetMidAction: You cover it up as soon as you get the chance.
 facetLowTitle: My Best Friend's Beanding
 facetLow: The night before your friend's wedding her mother has the seating plan out on the floor, everyone's name on a sticky label. You're on a table with your friend's colleagues, who you liked when you met them. The people you shared a house with at nineteen are on the far table, and you've little in common with them now.
 facetLowAction: You move your label to the far table.

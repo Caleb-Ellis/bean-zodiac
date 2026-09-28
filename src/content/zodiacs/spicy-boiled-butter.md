@@ -15,7 +15,7 @@ friendlyForm: dried
 seasonalFortune: "A season of Aleppo pepper and held breath — the pot carries heat without ever mentioning it."
 fortuneMost: Left to bottle up, it'll explode eventually.
 fortuneHigh: Do what needs doing and skip the fuss.
-fortuneMid: The bactrian camel maintains its calm demeanour, even while crossing the frozen Gobi Desert.
+fortuneMid: The frozen Gobi Desert is harsh and unforgiving, but the bactrian camel pushes on.
 fortuneLow: Just admit that it's heavy.
 fortuneLeast: A good moan can lighten the load.
 facetMostTitle: Bean Shame
@@ -25,8 +25,8 @@ facetHighTitle: Unforbeanen
 facetHigh: You're on day four of a five-day walk with three friends and your knee has been feeling off since the second morning. There's a bus out of the next village, and none of them would think less of you for taking it.
 facetHighAction: You tell them you're fine and pick your pack back up.
 facetMidTitle: Stiff Upper Bean
-facetMid: The room the evening class is in is freezing because the window won't shut properly, and there's an hour of it left. The tutor notices half of you sitting in coats and offers to go and find someone to look at it.
-facetMidAction: You tell her it's fine and keep your coat on.
+facetMid: The room your evening class is in is freezing because the window won't shut properly, and there's still an hour to go. The tutor notices most of the class is sitting in thick coats and offers to go and find someone to look at it.
+facetMidAction: You tell her it's fine.
 facetLowTitle: Moaning Beanle
 facetLow: You're at the supermarket with a friend, in the checkout queue. The self-checkouts have Out-of-Order signs on them, there's one till open, and the person being served has a full trolley.
 facetLowAction: You sigh loudly, and mention to your friend what a joke this is.
