@@ -1,13 +1,13 @@
 ---
 # TODO: check all
 slug: spicy-fermented-adzuki
-lastUpdated: 
+lastUpdated:
 bean: adzuki
 flavour: spicy
 form: fermented
 trait: rhapsodic
 excess: delirious
-inverse: matter-of-fact
+inverse: earthbound
 quote: Sing in me, Muse, and through me tell the bean.
 creature: song thrush
 dish: Adzuki fermented in kimchi brine with gochugaru.

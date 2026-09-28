@@ -14,32 +14,32 @@ dish: Chickpea miso aged twelve months.
 friendlyBeans: [adzuki, butter]
 friendlyForm: roasted
 seasonalFortune: "A season of twelve-month koji and salt — what was carried in from elsewhere comes out tasting like it was always here."
-fortuneMost: Fit in everywhere and nowhere has to take you in.
+fortuneMost: You can't make everywhere feel like home. You have to choose.
 fortuneHigh: The cattle egret crossed the Atlantic on its own, and now follows herds it had never seen for the insects they kick up.
-fortuneMid: Sooner or later somebody will stop you to ask the way, and you'll know it.
-fortuneLow: Keep one thing the way it was always done.
-fortuneLeast: A jar nobody opens keeps exactly what went in.
-facetMostTitle: The Beanborn Identity
-facetMost: You have lived in this country nine years, and nobody here says your surname the way your family says it, so since your first week you have gone by a shortened version of it. You are at the register office with the deed poll filled in and the fifty pounds counted out, and once it's filed the short one is the name on everything. Your father has asked you not to.
-facetMostAction: You put the shortened version down as your legal name.
+fortuneMid: Sooner or later a stranger will ask you for directions, and you'll know the way.
+fortuneLow: Keep one thing the way it was done back home.
+fortuneLeast: There's no shame in sticking with your own.
+facetMostTitle: The Bean Identity
+facetMost: Nobody here can pronounce your surname, so ever since you moved you've gone by a shortened version of it. You're at the counter in the records office with the form to make the short one your legal name. Your dad has asked you not to.
+facetMostAction: You hand the form over.
 facetHighTitle: Dances with Beans
-facetHigh: You have been on this street six years. The man three doors down has died, and his daughter is at your door because there are five of them able to carry the coffin and they need a sixth. It means standing at the front of a church full of people who have known each other their whole lives, in a place that usually goes to family.
-facetHighAction: You tell her yes, and take the front left of the coffin.
+facetHigh: You moved onto the street a couple of years ago, and the old man three doors down has just died. His daughter asks if you'll help carry his coffin, in front of a church full of people who've known him all their lives.
+facetHighAction: You tell her yes.
 facetMidTitle: Under the Tuscan Bean
-facetMid: The family who run the shop under your flat have asked you up to eat, and there is one dish in the middle of the table and no cutlery on it — everyone tears bread and eats out of the dish with their hands. There is a drawer of forks two steps behind you, and the grandmother would fetch you one without a word.
-facetMidAction: You tear off some bread and eat out of the dish with everybody else.
+facetMid: The family who run the shop under your flat have asked you up for dinner. Everyone's eating out of one big dish in the middle of the table with torn-off bread, and the grandmother keeps asking if you'd like a fork.
+facetMidAction: You tear off some bread and dig in.
 facetLowTitle: A Passage to Bean
-facetLow: Your housemate has taken you to her grandmother's house on the coast for New Year, where the whole street walks off the beach into the sea at midnight and has done for as long as anybody can remember. Her grandmother has left a towel out for you on the wall, and everyone is assuming you're going in.
-facetLowAction: You stay up on the sand and ring your mother instead.
+facetLow: Your new job abroad comes with a flat in the compound where the other foreign staff live, with its own pool and shop. For the same rent you could have a bigger place above a bakery in the old town.
+facetLowAction: You take the flat in the compound.
 facetLeastTitle: Fiddler on the Bean
-facetLeast: Every Sunday nine of you eat in the back room of a restaurant run by a man from the same town you all left, and it is the one afternoon of the week where nothing has to be explained to anybody. The woman who works in the shop next door has asked twice whether she could come along, and she asks again on the way out.
-facetLeastAction: You tell her Sunday is just the nine of you.
-question: You want to stop being answered in English. You have been learning the language three years, longer than any of the friends you came over with, and the woman whose vegetable stall you buy from every week hears one word out of you and answers in English. You...
-answerMost: start telling people you grew up here
-answerHigh: keep answering in the language every week until she gives it up
-answerMid: ask her what the long green ones are called
-answerLow: answer her in English and get your shopping done
-answerLeast: send one of the friends you came over with instead
+facetLeast: Every Sunday, the people from your home town who've ended up in this city eat together in the back room of a restaurant run by one of them, where nobody ever has to explain a joke. A woman from your climbing gym has invited you to her birthday lunch, and it's on a Sunday.
+facetLeastAction: You tell her Sundays are spoken for.
+question: Two friends from home are flying out to visit you for the first time since you moved abroad, and they've left the weekend up to you. You...
+answerMost: take them out with your friends from here, and forget to translate
+answerHigh: take them to the café where they know your order
+answerMid: do the famous sights, then dinner at your favourite place
+answerLow: book the three of you on the open-top bus tour
+answerLeast: find a restaurant that does the food from home
 rorschachMost: a dust storm
 rorschachHigh: moss on a rock
 rorschachMid: a pair of lungs

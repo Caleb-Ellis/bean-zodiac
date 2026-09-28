@@ -8,7 +8,7 @@ form: dried
 trait: unfailing
 excess: indispensable
 inverse: fair-weather
-quote: A friend in need is a bean indeed.
+quote: A bean in need is a bean indeed.
 creature: eider duck
 dish: Moong ladoo - dried mung with jaggery and cardamom.
 friendlyBeans: [kidney, butter]
@@ -16,7 +16,7 @@ friendlyForm: boiled
 seasonalFortune: "A season of jaggery and cardamom — the ladoo keeps for months and is just as sweet on the last day."
 fortuneMost: Being needed is a hard thing to give up.
 fortuneHigh: Eider ducks take turns minding each other's ducklings, whatever the weather.
-fortuneMid: Cook double, and take half to someone.
+fortuneMid: Cook something nice. Share it with somebody.
 fortuneLow: Somebody else can take a turn.
 fortuneLeast: Some friends are for the good times, and that's enough.
 facetMostTitle: Mrs. Beanfire

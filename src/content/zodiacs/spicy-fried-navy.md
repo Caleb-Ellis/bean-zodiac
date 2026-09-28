@@ -1,6 +1,6 @@
 ---
 slug: spicy-fried-navy
-lastUpdated: 2026-08-30
+lastUpdated: 2026-10-14
 bean: navy
 flavour: spicy
 form: fried
@@ -33,12 +33,12 @@ facetLowAction: You tell him "sure".
 facetLeastTitle: No Strong Beanings
 facetLeast: You started a Sunday running group two years ago, and it's up to twelve people now. Two of them have decided that it should move to Saturday mornings since it works better for their schedules. Saturday mornings aren't great for you, but workable.
 facetLeastAction: You tell them it's fine, and share the change of plans with the group.
-question: A car has gone off the road at the bend and thirty people are stood about, none of them moving. You...
-answerMost: start giving orders, and keep giving them long after the ambulance has taken over
-answerHigh: say three things out loud and have thirty people doing them
-answerMid: get two people moving and take the rest yourself
-answerLow: do what needs doing and direct nobody
-answerLeast: wait to be told where to stand
+question: Tug of war at a summer barbecue. Your side lost the first pull badly, with everyone heaving at different times, and the rope is going tight for the second. You...
+answerMost: tell everyone where to stand and how to grip, then call every heave
+answerHigh: shout "heave" on a count for the whole line to follow
+answerMid: get the two next to you pulling in time with you
+answerLow: dig your heels in and pull harder
+answerLeast: pull whenever the person in front of you pulls
 rorschachMost: an ominous cloud
 rorschachHigh: a throne
 rorschachMid: a stone lion

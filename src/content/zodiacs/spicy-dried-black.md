@@ -8,7 +8,7 @@ form: dried
 trait: contained
 excess: bottled
 inverse: spilling
-quote: Where there's smoke, there's bean.
+quote: Where there's smoke, there's a bean.
 creature: pufferfish
 dish: Dry-fried black beans with facing-heaven chillies.
 friendlyBeans: [navy, edamame]
@@ -16,30 +16,30 @@ friendlyForm: boiled
 seasonalFortune: "A season of facing-heaven chillies and shut lids: the heat waits, dry and undiminished."
 fortuneMost: What never gets said never gets settled.
 fortuneHigh: A pufferfish fills with water and holds it until the danger has passed.
-fortuneMid: Wait until your voice is steady, then say it.
-fortuneLow: Nobody minds being told you're annoyed.
+fortuneMid: Steady up before you say it.
+fortuneLow: Let it out.
 fortuneLeast: Slam the drawer. It's only a drawer.
 facetMostTitle: Beanle Rocket
-facetMost: Your oldest friend is inside for taking out loans in other people's names, and one of them was yours. Your credit is wrecked, the bank won't hear it, and you're still furious. Visits are an hour, once a month, and you've never once raised it.
-facetMostAction: You spend the hour on the football and how he's sleeping.
+facetMost: Your dad sold the house you grew up in without telling you, and everything left in your old bedroom went with it. You found out from the listing online. Now he's showing you around his new flat, pleased with it, and he asks what you think.
+facetMostAction: You tell him the kitchen is lovely.
 facetHighTitle: Under Beansure
-facetHigh: You and your closest friend are getting matching tattoos, paid for weeks ago. While the tattooist sets up she tells you, relieved to have it out, that she's the one who told your boss you'd been job-hunting. That's why you were let go, and you're still out of work.
-facetHighAction: You hold your arm out for the needle.
+facetHigh: Your old landlord kept your whole deposit, and now you're both in front of a small claims judge. He tells her you left mould all over the bathroom, which isn't true, and your face is burning. You have photos from the day you moved out. The judge says you'll get your turn in a minute.
+facetHighAction: You wait until she turns to you, then hand her the photos.
 facetMidTitle: Message in a Beanle
-facetMid: You built and painted the drama group's set on your own, over weeks of evenings. At the dress rehearsal the director says it was down to the man who lent his van, and the cast applaud him. It stings more than you'd expect.
-facetMidAction: You clap along with the rest of them.
+facetMid: A friend's family had a spare ticket for the final, so you're sitting among the home fans. But it's your team they're playing, the one you've supported since you were a kid. Your team scores the winner in the last minute, and the whole stand around you goes silent.
+facetMidAction: You squeeze your fist down by your knee.
 facetLowTitle: Ain't Too Proud to Bean
-facetLow: The woman who cut your hair last time took it far shorter than you'd asked, and you spent weeks explaining it. You're back in her chair anyway, because she's the only one you'll go to. She lifts the back of it and asks if you want the same again.
-facetLowAction: You tell her last time came out much too short.
+facetLow: A friend has just recorded the last song on their first album, and the engineer plays it back for the two of you. It's about their mother, who died last year and who you knew well. When it finishes your friend turns to see what you think.
+facetLowAction: You wipe the tears from your eyes first.
 facetLeastTitle: The Dam Beansters
-facetLeast: The storage unit has to be cleared today, and you and your ex are down to the last boxes. She's been telling your friends you left because you'd met somebody else, which you hadn't. The man from the office is in the corridor with a clipboard, waiting to lock up.
-facetLeastAction: You call her a liar in front of the man with the clipboard.
+facetLeast: It's your first week waiting tables. A customer has sent a plate back, and in front of the whole kitchen the head chef tips it in the bin and calls you useless.
+facetLeastAction: You shout back that he can carry the plates out himself.
 question: How does someone find out they've made you angry?
-answerMost: they don't, and you're warm to them for years afterwards
+answerMost: they don't, and you're as friendly as ever
 answerHigh: you tell them plainly, once you're not angry any more
 answerMid: it comes out as a joke a few days later
 answerLow: they can see it on your face
-answerLeast: everyone standing there finds out at the same time they do
+answerLeast: everyone within earshot finds out at the same time
 rorschachMost: a straitjacket
 rorschachHigh: a clenched fist
 rorschachMid: a mitten

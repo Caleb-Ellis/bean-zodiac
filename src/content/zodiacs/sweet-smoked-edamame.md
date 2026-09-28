@@ -15,7 +15,7 @@ friendlyForm: dried
 seasonalFortune: "A season of maple and soy: the smoke settles arguments the kitchen forgot it was having."
 fortuneMost: The puppy licks the hands of everyone, even those who mean it harm.
 fortuneHigh: Ask the question that gets them talking.
-fortuneMid: No one stays mad at a friendly face for long.
+fortuneMid: They won't stay mad at a friendly face for long.
 fortuneLow: Don't back down, even if it gets awkward.
 fortuneLeast: A firm rejection is often the kind option.
 facetMostTitle: The Bean Offering

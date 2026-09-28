@@ -1,7 +1,7 @@
 ---
 # TODO: check all
 slug: sweet-smoked-cannellini
-lastUpdated: 
+lastUpdated:
 bean: cannellini
 flavour: sweet
 form: smoked
@@ -18,7 +18,7 @@ fortuneMost: Handle a thing gently enough and it never gets handled.
 fortuneHigh: The pond skater crosses the whole pond and never once breaks the surface.
 fortuneMid: Use less than you think it needs.
 fortuneLow: Most things are sturdier than they look.
-fortuneLeast: The bread that gets kneaded hard is the bread that rises.
+fortuneLeast: The bread that gets kneaded is the bread that rises.
 facetMostTitle: The Princess and the Bean
 facetMost: Your friend's grandmother's piano has to come down two flights, and the van driver says he's leaving in twenty minutes. You have half of it wrapped in felt. The other three want the bannister off and the piano tipped onto the trolley.
 facetMostAction: You send someone back up for more felt.
@@ -32,8 +32,8 @@ facetLowTitle: Three Men and a Bean
 facetLow: Your friend's baby is three days old, and the five of you in her front room have been handing him back and forth like he's made of glass. She holds him out to you.
 facetLowAction: You take him one-armed against your shoulder.
 facetLeastTitle: Demolition Bean
-facetLeast: Last night of the play your friend's in, and the set goes in the skip tonight — the carved oak fireplace is ply and paint. The stage manager hands you a claw hammer. The two beside you are unscrewing it to keep the panels.
-facetLeastAction: You put the hammer through the middle of the fireplace.
+facetLeast: The play you're in has just had its last night, and the set is getting dismantled and discarded. Some people are taking bits home as souvenirs, others are throwing things straight in the skip. The stage manager hands you a claw hammer to take apart a large, elaborate backdrop.
+facetLeastAction: You start smashing it up.
 question: A swan up on the bank of the boating lake has fishing line wound round its leg, cutting in. It has let you get within a metre of it and it hasn't moved. You...
 answerMost: stay exactly where you are
 answerHigh: get your coat over its head, then the line

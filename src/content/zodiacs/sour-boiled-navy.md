@@ -5,7 +5,7 @@ lastUpdated:
 bean: navy
 flavour: sour
 form: boiled
-trait: unadorned
+trait: matter-of-fact
 excess: tactless
 inverse: decorous
 quote: I bean what I bean.
@@ -47,4 +47,4 @@ rorschachLow: a bouquet
 rorschachLeast: a feathered hat
 ---
 
-Brined Navy Beans are the Bean Zodiac's most unadorned. They describe their flat as small, damp and eleven minutes from the station, and you find you want it. Sometimes the sympathy card just says they're sorry he died. Wrapping a request in "if it's no trouble" is not a habit they picked up.
+Brined Navy Beans are the Bean Zodiac's most matter-of-fact. They describe their flat as small, damp and eleven minutes from the station, and you find you want it. Sometimes the sympathy card just says they're sorry he died. Wrapping a request in "if it's no trouble" is not a habit they picked up.

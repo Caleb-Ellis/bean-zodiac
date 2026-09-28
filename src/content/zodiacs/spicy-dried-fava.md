@@ -25,7 +25,7 @@ facetMostAction: You tell them they're fine and to follow you down.
 facetHighTitle: Bean Grylls
 facetHigh: The bus you're on has broken down on a pass in the Andes, and the part won't arrive until morning. It's below freezing, and a minibus is taking anyone who wants a bed back to a hotel in the last town, three hours away.
 facetHighAction: You stay on the bus for the night.
-facetMidTitle: Crocodile Beandee
+facetMidTitle: Crocodile Dunbean
 facetMid: It's the third day of a festival, and the queue for the hot showers is two hours long. The band you came for is on in an hour, and the river at the bottom of the campsite is freezing.
 facetMidAction: You go and wash in the river.
 facetLowTitle: The Simple Bean

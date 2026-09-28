@@ -16,7 +16,7 @@ friendlyForm: dried
 seasonalFortune: "A season of white miso and rosemary — the purée refines down to a flavour that fewer and fewer mouths can find."
 fortuneMost: Perfect it long enough and you'll be the only one who can enjoy it.
 fortuneHigh: The bar-headed goose crosses the Himalayas in a single day, at a height where no other bird can breathe.
-fortuneMid: Ask who made it.
+fortuneMid: Don't settle for ordinary.
 fortuneLow: Most of the pleasure is in the ordinary version.
 fortuneLeast: Whatever's in the pot is dinner, and it fills you the same.
 facetMostTitle: Foucault's Beandulum
@@ -26,7 +26,7 @@ facetHighTitle: Beanshead Revisited
 facetHigh: Your grandmother's clarinet has a cracked joint, and your cousin is playing it at his school concert. The shop in town can have it back in a week. There's a woman who rebuilds them from the inside out, and her list is long enough that your cousin plays something else.
 facetHighAction: You put it on her list.
 facetMidTitle: A Bean Runs Through It
-facetMid: It's the last hot weekend of the summer and six of you are going swimming. There's a lido ten minutes away with a queue down the street, and a stretch of river an hour out on the train, cold and clear and empty.
+facetMid: It's the last hot weekend of the summer and a few of you are going swimming. There's a public pool ten minutes away with a queue down the street, or a stretch of river an hour out on the train, cold and clear and empty.
 facetMidAction: You tell them you're going out to the river.
 facetLowTitle: Eat, Pray, Bean
 facetLow: After service your friend's brother, who cooks there, sits the two of you in the kitchen while the rest of them clean down. He'll make you anything still on the pass — turbot, langoustine. The cooks are eating rice with whatever came back off the plates.

@@ -8,38 +8,38 @@ form: smoked
 trait: watchful
 excess: unsleeping
 inverse: inattentive
-quote: Who watches the beans?
+quote: Who watches the watchbeans?
 creature: night heron
 dish: Navy beans smoked over charcoal with wormwood and salt pork.
 friendlyBeans: [black, cannellini]
 friendlyForm: dried
 seasonalFortune: "A season of wormwood and standing watch: the smoke keeps the pantry while the kitchen sleeps."
-fortuneMost: Look after everybody's evening and nobody looks after yours.
+fortuneMost: Eyes that never close can never rest.
 fortuneHigh: Know where everyone is. Say nothing about it.
 fortuneMid: The night heron works the same stretch of bank every night. Very little gets past it.
 fortuneLow: You can leave before the last person does.
 fortuneLeast: The best nights are the ones you can't account for.
-facetMostTitle: Sleepless in Beanattle
-facetMost: You've driven out past the last streetlight with four friends to see the meteor shower, and the peak is still an hour off. The other four are lying in the grass looking up. Both cars are on the verge behind you with everyone's bags in them.
-facetMostAction: You sit up and turn round to face the cars.
+facetMostTitle: Beanless in Seattle
+facetMost: You've driven out past the last streetlight with a few friends to watch a meteor shower. You haven't seen another car in ages – not while you were driving, and not since you parked. The others are lying back in the field, pointing out the first shooting stars.
+facetMostAction: You keep watching the road.
 facetHighTitle: Watchbeans
-facetHigh: Your friend has been driving the four of you back from the coast since dark, and you're the only other one awake. He's gone quiet, and a while back he put the wipers on instead of the indicator. He says he's fine, and there's an hour to go.
-facetHighAction: You tell him to pull in at the next services and let you drive.
+facetHigh: A friend's birthday party is up on the roof of her building, and her cousin has been drinking since the afternoon. He's sitting on the low wall around the edge with his back to the drop, telling a story that has everyone laughing.
+facetHighAction: You wander over and lean on the wall beside him, within arm's reach.
 facetMidTitle: Stand By Bean
 facetMid: A friend has gone into labour early, so you're the one collecting her son from school. You've been there once, and you don't know which of the two gates his class comes out of. The other parents are all waiting at the one on the road.
 facetMidAction: You go and stand where you can see both.
 facetLowTitle: Eyes Wide Bean
-facetLow: Day three of the dangerous driving trial, and the afternoon got away from you somewhere in the paramedic's evidence. You aren't allowed to take a note out of the room. In the jury room they go round on what everybody made of him, and they all say much the same.
-facetLowAction: You tell them to put you down with the rest.
+facetLow: On the ferry out to an island, the captain offers to take a couple of passengers up to the wheelhouse to see how the boat is steered. Your backpack, with your wallet and keys in it, is on the open rack by the stairs with everyone else's.
+facetLowAction: You go up with the captain.
 facetLeastTitle: The Absent-Minded Beanessor
-facetLeast: You're minding a friend's stall at the market while she goes for food, and the cash tin is open under the table. The woman on the next stall starts telling you about her dog.
-facetLeastAction: You turn your back on the table and ask what breed it is.
-question: Your friend's ring has come off between the car and the lake. The five of you have been swimming and shifting the bags out of the sun all afternoon. She asks what anybody remembers. You...
-answerMost: tell her where each bag sat, and who was in the lake when
-answerHigh: tell her she still had it on walking down to the lake
-answerMid: say you can picture it on her hand at the car, and nothing after
-answerLow: ask her when she last remembers having it
-answerLeast: say you didn't know she wore a ring
+facetLeast: It's carnival in a city you're visiting, and the crowd's so thick you lost your friends a street back. There's no phone signal. A samba band comes past, going away from where you lost them, with half the street dancing along behind it.
+facetLeastAction: You follow the band.
+question: A small spirit has moved into your home and offered to keep watch every night. It never sleeps, it says, and nothing will get in without it knowing. You...
+answerMost: thank it, and lie awake listening anyway
+answerHigh: still lock the front door yourself
+answerMid: ask how it'll wake you if anything happens
+answerLow: start sleeping with the window open
+answerLeast: tell it there's nothing here worth watching
 rorschachMost: a dragon
 rorschachHigh: a night watchman
 rorschachMid: a mother hen

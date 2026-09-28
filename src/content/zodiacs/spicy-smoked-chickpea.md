@@ -15,16 +15,16 @@ friendlyBeans: [green, mung]
 friendlyForm: fried
 seasonalFortune: "A season of lime and toasted cumin — the smoke is elsewhere by the time you look."
 fortuneMost: Try to be everywhere and you'll end up nowhere.
-fortuneHigh: Keep it up! We'll sleep when we're dead!
+fortuneHigh: Keep it up! Now's not the time to slow down!
 fortuneMid: A minnow darts from stone to stone, and never strays far from the shallows.
 fortuneLow: Leave a gap between one plan and the next.
 fortuneLeast: Nobody ever regretted a long lunch.
-facetMostTitle: Everything Beanwhere All at Once
+facetMostTitle: Everything Everywhere Beaned at Once
 facetMost: You're at a festival where the bands you came for are all playing at once, on different stages. You've lost your friends, your phone's about to die, and you haven't seen one set all the way through.
 facetMostAction: Halfway through the headliner, you leave to catch the end of a set on another stage.
 facetHighTitle: Quickbeanver
-facetHigh: It's your housewarming, and you're doing the music, topping up drinks and introducing your work friends to your school friends. A friend pulls out a chair and tells you to sit down for five minutes.
-facetHighAction: You say you'll sit down later.
+facetHigh: It's your housewarming, and you're doing the music, topping up drinks and introducing your work friends to your school friends. Someone pulls out a chair and asks you to sit down and chat for a bit, but at the same time you notice you're running out of glasses.
+facetHighAction: You say you'll clean up a bit first.
 facetMidTitle: Catch Me If You Bean
 facetMid: At a friend's wedding, your university friends are on one table and your old flatmates are on another, and both have saved you a seat.
 facetMidAction: You split the courses between the two tables.

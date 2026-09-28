@@ -1,7 +1,7 @@
 ---
 # TODO: check all
 slug: umami-smoked-kidney
-lastUpdated: 
+lastUpdated:
 bean: kidney
 flavour: umami
 form: smoked
@@ -17,8 +17,8 @@ seasonalFortune: "A season of brisket and long smoke — the house smells of som
 fortuneMost: Turn away every comfort and soon none will be offered.
 fortuneHigh: Grieve for as long as it takes.
 fortuneMid: A loon wails across the lake at night, calling for its mate.
-fortuneLow: It's alright to laugh at a wake.
-fortuneLeast: Life's too short to spend it mourning.
+fortuneLow: You can make a joke at a wake – if it's timed right.
+fortuneLeast: Don't let bad thoughts get in the way of a good time!
 facetMostTitle: Bean Me a River
 facetMost: Your dog died three years ago, and your partner has driven you out to a rescue centre without saying why. A volunteer brings in a scruffy terrier with the same lopsided ears yours had, and the adoption form only needs your signature.
 facetMostAction: You tell them you're never having another dog.

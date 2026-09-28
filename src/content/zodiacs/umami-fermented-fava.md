@@ -15,7 +15,7 @@ friendlyBeans: [pinto, green]
 friendlyForm: roasted
 seasonalFortune: "A season of kombu and long dark — the miso answers to nothing but itself, and takes as long as it takes."
 fortuneMost: Answer to nobody and your own word stops counting too.
-fortuneHigh: You don't need to be allowed.
+fortuneHigh: You don't need permission.
 fortuneMid: A moose will stand in the road as long as it likes, and the traffic waits.
 fortuneLow: Follow the instruction and take the evening off.
 fortuneLeast: The recipe was written by somebody who had already ruined it.

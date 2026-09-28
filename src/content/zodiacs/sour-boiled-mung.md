@@ -1,7 +1,7 @@
 ---
 # TODO: check all
 slug: sour-boiled-mung
-lastUpdated: 
+lastUpdated:
 bean: mung
 flavour: sour
 form: boiled
@@ -14,13 +14,13 @@ dish: Mung dal boiled with kokum and curry leaf.
 friendlyBeans: [butter, kidney]
 friendlyForm: smoked
 seasonalFortune: "A season of kokum and curry leaf — whatever is tipped into the pot, the dal doesn't change colour."
-fortuneMost: When nothing shocks you, it's hard to notice what should.
-fortuneHigh: A burying beetle raises its young inside a dead mouse.
+fortuneMost: If you're not shocked by it, you're not paying attention.
+fortuneHigh: A burying beetle raises its young inside dead rodents and birds. Whether you find it shocking is a matter of perspective.
 fortuneMid: Raise an eyebrow, then keep listening.
 fortuneLow: It's fine to say "too much information".
 fortuneLeast: A little propriety never hurt anybody.
 facetMostTitle: Fight Bean
-facetMost: At the beach on a hot afternoon, a friend takes his shirt off and his whole side is purple. It's the third time this year he's come off badly at the fight nights he goes to in a warehouse, and a doctor has told him to stop.
+facetMost: At the beach, a friend takes his shirt off and his whole side is battered and bruised – purple, blue, specks of red and yellowing at the edges. He says it happened going to a warehouse fight club.
 facetMostAction: You ask whether he won.
 facetHighTitle: Murder on the Orient Bean
 facetHigh: The older woman sharing your sleeper compartment is taking her husband's ashes home to Vienna. Past midnight she tells you he was dying and asked her to help him go, so she gave him all of his morphine at once. Nobody else knows.

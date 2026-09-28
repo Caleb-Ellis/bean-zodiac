@@ -1,11 +1,11 @@
 ---
 # TODO: check all
 slug: sour-fermented-butter
-lastUpdated: 
+lastUpdated:
 bean: butter
 flavour: sour
 form: fermented
-trait: unillusioned
+trait: clear-eyed
 excess: defeatist
 inverse: hopeful
 quote: Blessed is the bean who expects nothing, for it shall never be disappointed.
@@ -16,7 +16,7 @@ friendlyForm: roasted
 seasonalFortune: "A season of tarragon and modest hopes — the jar gives back exactly what went into it."
 fortuneMost: Decide it won't work, and it won't.
 fortuneHigh: When the pond dries up, the lungfish seals itself in the mud and waits for rain.
-fortuneMid: Most things turn out about how you'd expect.
+fortuneMid: It's going to turn out how you'd expect.
 fortuneLow: Sometimes the long shot comes in.
 fortuneLeast: The best might happen. Plan for that too.
 facetMostTitle: Finding Beanmo
@@ -47,4 +47,4 @@ rorschachLow: a bunch of flowers
 rorschachLeast: a hot-air balloon
 ---
 
-Pickled Butter Beans are the Bean Zodiac's most unillusioned. When the builder says six weeks they plan for ten, and are perfectly calm when it takes twelve. Sometimes they don't apply for the flat they love, having already decided who'll get it. Getting their hopes up is something that happens to other people.
+Pickled Butter Beans are the Bean Zodiac's most clear-eyed. When the builder says six weeks they plan for ten, and are perfectly calm when it takes twelve. Sometimes they don't apply for the flat they love, having already decided who'll get it. Getting their hopes up is something that happens to other people.

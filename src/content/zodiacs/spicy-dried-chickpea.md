@@ -13,33 +13,33 @@ creature: electric eel
 dish: Dried chickpeas with Kashmiri chilli and hing.
 friendlyBeans: [adzuki, green]
 friendlyForm: fried
-seasonalFortune: "A season of Kashmiri chilli and live air — the heat moves between rooms without touching them."
-fortuneMost: Pass somebody's panic on and it becomes yours.
-fortuneHigh: Electric eels hunt in packs, and one of them firing sets off the rest.
-fortuneMid: A good mood in the house will find everybody in it.
+seasonalFortune: "A season of Kashmiri chilli and live wires — whatever starts in one room is in every room by nightfall."
+fortuneMost: Whatever you pass on will arrive louder than it left.
+fortuneHigh: Share it while it's still hot.
+fortuneMid: The electric eel doesn't need to touch anyone. The water passes it on.
 fortuneLow: Bad news travels well enough without your help.
-fortuneLeast: Plenty of things are improved by not being repeated.
-facetMostTitle: Firebeanter
-facetMost: Your housemate's ex has rung you instead of her. He's crying, and he's been going a while about how it all looked from his side. She's in the front room with two friends who've sat with her every evening since he left.
-facetMostAction: You bring the phone in and put it on speaker.
-facetHighTitle: The Medium Is the Bean
-facetHigh: Your brother rang late last night, shaking, and told you exactly what he thinks your mother did to him, and that he'll never say a word of it to her. You're round the garden centre with her, and she asks why he never rings.
-facetHighAction: You tell her what he said, in his words.
+fortuneLeast: It can stop with you. Somebody has to be the end of the line.
+facetMostTitle: Beanstarter
+facetMost: Somebody in your street's group chat has posted a blurry photo of a man in a hood, saying he's been trying car doors along the street at night. You can't see his face, and nothing has been taken.
+facetMostAction: You share it to every other group you're in.
+facetHighTitle: The Bean Is the Message
+facetHigh: You're waiting tables at a steak restaurant for the summer, and a man has sent his steak back as overcooked. The chef looks at it and says to tell him it's exactly how he ordered it, and if he wants it any rarer he can eat somewhere else.
+facetHighAction: You tell him what the chef said, word for word.
 facetMidTitle: The Beanmitments
-facetMid: Packing up after rehearsal, the man who runs the brass band tells you the woman on second cornet has the best ear of anybody in it, and that he's never said so to her. She's told you twice she's giving up the band.
-facetMidAction: You catch her on the way out and tell her she has the best ear in it.
+facetMid: On the early ferry out to the island, most people on board are dozing in their seats. Out of the window, a pod of dolphins has started jumping alongside the boat, and the stranger asleep in the seat next to you hasn't seen them.
+facetMidAction: You wake her up to look.
 facetLowTitle: Keep Calm and Carry Bean
-facetLow: You and your housemate are in the taxi queue outside the airport, off a night flight. Your phone goes and it's the man who lives below you, shouting — your bathroom has come through his ceiling. She asks who that was.
-facetLowAction: You say the bathroom's leaked into the flat below.
+facetLow: The cable car up the mountain stops halfway and swings in the wind, and there's a loud bang from the cable overhead. Your partner, who didn't want to come up in the first place, grips the seat and asks what that was.
+facetLowAction: You say it's probably just the wind.
 facetLeastTitle: Speak No Bean
-facetLeast: A friend presents the late show and let you sit in, so you're at the back of the studio with the producer. He says the man just on air, crying about his wife leaving, rings in every week under a different name. Your friend has him back after this record, and the talkback button goes into her headphones.
-facetLeastAction: You don't press it.
-question: Hottest day of the year at the open-air pool, and you're in with five people from your running club. A lifeguard tells you quietly the filters have gone — they're clearing everybody out shortly, and he has to tell his manager before it's announced. You...
-answerMost: get out and go round the pool telling everyone it's about to be shut
-answerHigh: wave your five in and tell them the filters have gone
-answerMid: tell your five the pool's being cleared shortly
-answerLow: ask him how long you've got in the water
-answerLeast: swim on and say nothing to your five
+facetLeast: A friend has the lead in her first play, and you're helping backstage on opening night. At the interval, the woman running the box office tells you the reviewer from the local paper has walked out. Your friend asks how it's going out there, a few minutes before she's back on.
+facetLeastAction: You keep the reviewer to yourself.
+question: Hottest day of the year at the open-air pool, and five friends are waiting for you in the water. On your way out of the changing rooms, you hear one lifeguard tell another there's a snake loose in there. You...
+answerMost: shout to the whole pool that there's a snake loose
+answerHigh: swim out to your five and tell them about the snake
+answerMid: tell your five the changing rooms are shut for a bit
+answerLow: keep an eye on the changing-room door from your towel
+answerLeast: get in the water and say nothing to your five
 rorschachMost: a supernova
 rorschachHigh: a horseshoe magnet
 rorschachMid: Pac-Man

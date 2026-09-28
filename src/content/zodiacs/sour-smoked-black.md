@@ -20,8 +20,8 @@ fortuneMid: Most people tell you sideways or not at all.
 fortuneLow: Take the easy explanation.
 fortuneLeast: It does you no harm to believe the nice version.
 facetMostTitle: Peeping Bean
-facetMost: You're at the solicitor's for your aunt's will, with your mother and your cousin. The flat goes to him and nothing to anybody else. He hasn't said a word all morning, or thanked anybody. Your mother is already saying it's fine, everyone's tired.
-facetMostAction: You tell him, in front of your mother, that he already knew about the flat.
+facetMost: On a long-haul flight, the woman in the next seat mentions she's flying home to see her dad for the first time in years. Then she puts her headphones in and closes her eyes. Most of the flight is still ahead of you.
+facetMostAction: You tap her on the arm and ask what happened between them.
 facetHighTitle: Under the Bean
 facetHigh: It's an hour before your friend's wedding and you're doing up the back of her dress. All morning she's been joking about the caterers. Twice now she's said, lightly, that it'll all be fine once today is over.
 facetHighAction: You tell her she can still call it off.
@@ -29,17 +29,17 @@ facetMidTitle: Little Beans Everywhere
 facetMid: Your neighbour's asked you to carry her shopping up, and the flat is spotless, not a cup in the sink. On the kitchen table is a stack of unopened post going back to the spring. She says she's been meaning to get to it.
 facetMidAction: You sit down and start opening the post with her.
 facetLowTitle: Dear Bean
-facetLow: You're sorting donations at the charity shop on a Saturday. Someone's brought in a man's whole wardrobe, and at the bottom of the bag is a bundle of letters, the top one out of its envelope. The woman who runs the shop says to throw out whatever won't sell.
-facetLowAction: You put the letters in the recycling without reading them.
-facetLeastTitle: Bean Clueless
-facetLeast: A friend you've known since school rings and asks to borrow a month's rent, to cover her until the new job starts paying. She asked you for money in the spring as well, for a course she then didn't do.
-facetLeastAction: You send her the money that evening.
-question: You want the drummer back in your band before the gig. He quit by message — just really busy right now — the night after you cut his two songs from the set. Now he's here for his cymbals, cheerful. You...
-answerMost: tell him he wasn't busy, he was sulking
-answerHigh: put his two songs back in the set
-answerMid: say the message didn't sound like him
-answerLow: wrap the cymbals for him, and tell him the band's fine
-answerLeast: let him off the gig, and say to come back when things ease up
+facetLow: A friend who writes an advice column for a local magazine has asked you to answer this week's letter while she's away. A woman wants tips for talking her husband into painting the kitchen yellow. In passing, she mentions that he decides most things in the house.
+facetLowAction: You write back with tips for bringing up the paint.
+facetLeastTitle: Clueless Bean
+facetLeast: You're staying the weekend at a friend's parents' house, and late at night you hear what sounds like the two of them arguing through the wall. At breakfast her mother apologises for the noise. It's the pipes, she says, they bang when the heating comes on.
+facetLeastAction: You ask whether they've had a plumber look at them.
+question: You're camping with friends, and one friend's younger brother, normally the loudest of you, has barely said a word all weekend. He says he's just tired. Now it's the two of you collecting firewood. You...
+answerMost: ask him if it's something he can't tell his brother
+answerHigh: tell him he doesn't seem tired, he seems miserable
+answerMid: say he's been quiet, and leave room for him to talk
+answerLow: ask if he slept badly in the tent
+answerLeast: race him back to camp with the firewood
 rorschachMost: an oil slick
 rorschachHigh: an X-ray
 rorschachMid: a corkboard

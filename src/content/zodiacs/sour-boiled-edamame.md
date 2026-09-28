@@ -8,13 +8,13 @@ form: boiled
 trait: dispassionate
 excess: unfeeling
 inverse: tender-hearted
-quote: Frankly, my dear, I don't give a bean.
+quote: Frankly, my bean, I don't give a damn.
 creature: vulture
 dish: Edamame boiled in salt brine with rice vinegar and yuzu.
 friendlyBeans: [cannellini, navy]
 friendlyForm: dried
 seasonalFortune: "A season of salt brine and yuzu — it hears the whole of it out and is not moved by any of it."
-fortuneMost: The steadiest voice in the room is not always the one that was wanted.
+fortuneMost: You should acknowledge how it will affect people.
 fortuneHigh: Do the useful thing while everyone is still upset.
 fortuneMid: A vulture eats what nothing else will go near, and nothing is wasted.
 fortuneLow: A person crying is usually after company, not a plan.

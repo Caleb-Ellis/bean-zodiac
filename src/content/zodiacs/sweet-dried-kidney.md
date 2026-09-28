@@ -15,16 +15,16 @@ friendlyBeans: [mung, chickpea]
 friendlyForm: boiled
 seasonalFortune: "A season of palm sugar and long devotion — the sweetmeat keeps one name in mind."
 fortuneMost: Put someone on a pedestal and they've nowhere to go but down.
-fortuneHigh: Tell them how wonderful they are.
+fortuneHigh: Tell them how wonderful they are!
 fortuneMid: Lovebirds pair for life and spend most of it preening each other.
 fortuneLow: Nobody's perfect, not even them.
 fortuneLeast: You don't have to adore someone to be good to them.
 facetMostTitle: Cult of Beanality
-facetMost: Your family have just spent a long weekend camping with the man you've been seeing since spring, and not once did he help with the tents or the washing-up. On the drive home your sister asks whether there's anything about him that bothers you.
+facetMost: Your family have just spent a long weekend camping with the person you've been seeing since spring, and not once did they help with the tents or the washing-up. On the drive home your sister asks whether there's anything about them that bothers you.
 facetMostAction: You tell her you honestly can't think of a single thing.
 facetHighTitle: Can't Take My Beans Off You
 facetHigh: Your mother is running her first marathon, and at the finish line a TV crew picks you out of the crowd and asks who you're waiting for. It's going out live on the evening news.
-facetHighAction: You tell the camera she's the most amazing person you know.
+facetHighAction: You tell the camera she's amazing, and always has been.
 facetMidTitle: Devoted to Bean
 facetMid: Your partner offered to do the barbecue at a friend's birthday, and the burgers have come off black. Your friends are quietly scraping theirs into the bin.
 facetMidAction: You ask your partner for another one.

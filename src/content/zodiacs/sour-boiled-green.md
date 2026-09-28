@@ -14,32 +14,32 @@ dish: Green beans boiled and dressed hot with vinegar and shallot.
 friendlyBeans: [fava, chickpea]
 friendlyForm: fried
 seasonalFortune: "A season of hot vinegar and shallot — it gets everybody up on their feet, and it doesn't ask whether they wanted to be."
-fortuneMost: Call everybody on often enough and one day nobody moves.
-fortuneHigh: The wildebeest that goes in first is the one the herd follows.
-fortuneMid: Nobody minds being asked.
-fortuneLow: Stragglers get there on their own.
-fortuneLeast: A pot left alone still comes to the boil.
-facetMostTitle: Beanful Metal Jacket
-facetMost: You're directing your amateur company's play, it opens tomorrow, and the dress rehearsal has gone past eleven with the third act falling apart twice. The cast have been in the hall since six and two have their coats on.
-facetMostAction: You tell them nobody's leaving until the third act is right.
-facetHighTitle: The Show Must Go Bean
-facetHigh: A barbecue on your friend's parents' farm, and her dad says the pickers never came — the strawberries are two days past ready and lost if they go over. Everyone is sat round in the garden with a drink and the light goes in an hour.
-facetHighAction: You get them all out of the garden and into the field.
+fortuneMost: Nag them out the door and they'll drag their feet the whole way.
+fortuneHigh: Rally the troops!
+fortuneMid: The wildebeest herd waits at the river until one of them jumps in.
+fortuneLow: You don't have to be the one who gets things going.
+fortuneLeast: Sit back down. Nobody needs to go anywhere.
+facetMostTitle: Full Metal Beanet
+facetMost: You've talked three friends into a swim in the lake before breakfast on a camping trip. At six it's cold and grey, and all three call out from their tents that they've changed their minds.
+facetMostAction: You unzip their tents and keep clapping and shouting until all three are out.
+facetHighTitle: The Bean Must Go On
+facetHigh: The minibus taking the guests back to the hotel after a friend's wedding stalls on a country road, and the driver says it'll start if it gets a push. Everyone stays in their seats in their suits and heels, waiting for somebody else to move.
+facetHighAction: You stand up and tell them all to get out and push.
 facetMidTitle: Cool Beanings
-facetMid: Only three kids turn up to the Saturday football session you help run at the park, and the other volunteer starts bagging the cones.
-facetMidAction: You take the three of them out onto the pitch.
-facetLowTitle: Withnail and Bean
-facetLow: Last day in a rented cottage with three friends, and the coast was the whole point of coming. It has rained since breakfast, and the tide is out at six for the last time this week.
-facetLowAction: You tell them there's no point going now and put a film on.
+facetMid: It snowed overnight for the first time in years, and your housemates are watching it through the window from under a blanket. It'll be slush by lunchtime, and there's a decent hill in the park.
+facetMidAction: You hold up two baking trays and ask who's coming to the hill.
+facetLowTitle: Withbean and I
+facetLow: On the overnight ferry, the captain announces that the northern lights are out and can be seen from the top deck. The friends you're travelling with look up from their card game in the bar, say it'll be freezing up there, and deal another hand.
+facetLowAction: You leave them to it and go up on your own.
 facetLeastTitle: The Last Bean Show
-facetLeast: The five of you have gone away for a weekend every year since school, and you've always been the one who books it. Two dropped out this time and the date went by with nobody saying anything. You're painting a living room with one of them when she asks whether you're sorting this year's.
-facetLeastAction: You tell her you think it's run its course.
-question: You want your friend to have a full floor at her wedding. The band play until eleven. They're on their second song and she's out there with her dad while everyone else stays sat at the tables. You...
-answerMost: work round the tables until there's nobody left sitting down
-answerHigh: take the whole of the nearest table out with you
-answerMid: get up and join the two of them
-answerLow: wait for a song people will get up for on their own
-answerLeast: stay at your table and talk to whoever's next to you
+facetLeast: It's the last night of the only cinema in your town, and there's a handful of you in there. On the way out the owner says there's still time to save it, if somebody would get the town behind it.
+facetLeastAction: You tell him it had a good run.
+question: Your team is a few goals down at half-time and everyone's gone quiet. What do you say?
+answerMost: a speech, then another for whoever wasn't listening
+answerHigh: '"We can still win this — come on!"'
+answerMid: '"Let''s just get the next goal"'
+answerLow: '"Never mind, it''s only a game"'
+answerLeast: nothing — half-time is for sitting down
 rorschachMost: a drill sergeant
 rorschachHigh: a jack-in-the-box
 rorschachMid: a rain cloud

@@ -155,7 +155,7 @@ All persistent bean data lives in a single Zustand store (`src/store/index.ts`) 
 
   | ritualType | ritualTitle | ritualPrompt | ritualResponse      |
   | ---------- | ----------- | ------------ | ------------------- |
-  | facet      | facet title | the facet    | — (the score is it) |
+  | facet      | facet title | facet + act  | — (the score is it) |
   | question   | —           | the question | the chosen answer   |
   | rorschach  | —           | — (the blot) | the chosen reading  |
 

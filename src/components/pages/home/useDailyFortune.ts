@@ -229,9 +229,16 @@ export function useDailyFortune(
       ritualType: variant,
       ritualTitle:
         variant === "facet" ? getFacetTitle(fortune, rolledQualityId) : null,
+      // A facet's prompt is the scene and the act together, as one line — the
+      // shape entries had before the act was split into its own field.
       ritualPrompt:
         variant === "facet"
-          ? getFortuneText(fortune, rolledQualityId)
+          ? [
+              getFortuneText(fortune, rolledQualityId),
+              getFacetAction(fortune, rolledQualityId),
+            ]
+              .filter(Boolean)
+              .join(" ") || null
           : variant === "question"
             ? fortune.question
             : null,

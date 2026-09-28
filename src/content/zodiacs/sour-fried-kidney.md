@@ -1,7 +1,7 @@
 ---
 # TODO: check all
 slug: sour-fried-kidney
-lastUpdated: 
+lastUpdated:
 bean: kidney
 flavour: sour
 form: fried
@@ -13,33 +13,33 @@ creature: magpie
 dish: Kidney beans fried with tamarind chutney and onion seed.
 friendlyBeans: [pinto, green]
 friendlyForm: fermented
-seasonalFortune: "A season of tamarind chutney and raised stakes: the pan asks the kitchen to prove itself."
-fortuneMost: A magpie will see off a cat, a hawk, and a crow that was only passing.
-fortuneHigh: Make them back it up.
-fortuneMid: Nobody minds being asked how they know.
-fortuneLow: Most of what gets said is near enough true.
-fortuneLeast: Plenty of wrong things go on being wrong quite happily.
+seasonalFortune: "A season of tamarind chutney and hard questions — every claim gets thrown in the pan to see if it holds."
+fortuneMost: Win every argument and you'll run out of people to argue with.
+fortuneHigh: A magpie will pull a sleeping cat's tail, just to see what it does.
+fortuneMid: Don't take their word for it.
+fortuneLow: Let them have this one.
+fortuneLeast: Nodding along has saved more friendships than being right.
 facetMostTitle: The Spanish Beanquisition
-facetMost: The penalty given against your Sunday football team wasn't a penalty, and you said so at the time. The man who gave it referees for nothing because nobody else will, and your own players have gone back to their positions.
-facetMostAction: At half time you take him through it again.
+facetMost: The guide on the ghost tour is a student in a cloak, and he's telling the group that a monk was walled up alive in this cellar and still knocks on the stones at night. Everyone else on the tour is enjoying being scared.
+facetMostAction: You tell him to prove the monk was ever there.
 facetHighTitle: Erin Brockobean
-facetHigh: The barn behind your street is coming down for housing, and the developer's man tells the planning committee the ecology survey found no bats in it. You have the survey open on your knee at the paragraph saying the roof was never accessed. They vote tonight, and a permission once granted is granted.
-facetHighAction: You make him read the paragraph out.
+facetHigh: The water in your building has been coming out of the taps brown for a week. The landlord's agent is standing in your kitchen, telling you and the couple from upstairs that it's been tested and it's perfectly safe to drink.
+facetHighAction: You fill a glass at the tap and ask him to drink it.
 facetMidTitle: Citation Beaneded
-facetMid: A friend has bought a car off a man in a car park, cash, and he's driving it across the country tomorrow to start a new job. He says the seller told him the cambelt was changed last year.
-facetMidAction: You ask him whether there's a bill for it.
+facetMid: You're camping with a friend who's just got into foraging, and she's frying up a pan of mushrooms for dinner that she picked in the woods. She says they're definitely chanterelles, because of their colour.
+facetMidAction: You ask her how she can be so sure.
 facetLowTitle: The Sound of Beanlence
-facetLow: A friend who works at the museum has got you into the store rooms. She slides out a drawer and says the brooch in it came off a wreck, and that it's going in the new display with that on the label. The wreck story was disproved years ago.
-facetLowAction: You tell her it's a beautiful thing and ask what else is in the drawer.
+facetLow: You're on holiday, and the man at the market stall says the blue rug you like took his mother six months to weave by hand, which is why it costs so much. There's a pile of identical blue rugs behind him.
+facetLowAction: You pay him what he's asking.
 facetLeastTitle: Live and Let Bean
 facetLeast: Your brother has brought you along to meet the people he's just started working with, and at the bowling alley he tells them about the night the van broke down. In his telling it's him who got underneath and found the split hose. It was you.
 facetLeastAction: You laugh in the right place and tell them the best part is still coming.
-question: Ten weeks of evening class and your bench is finished but for the oil. The tutor, whose own bench has stood in the workshop corner all term, says the joints will open inside a year and hands you a chisel to take them apart. You...
-answerMost: tell him to take his own apart first
-answerHigh: have him stand on yours before you touch it
-answerMid: ask which of the joints he means
-answerLow: start on the joints and ask what you got wrong
-answerLeast: hand him the chisel
+question: An old man knocks on your door and says he's you from the future. He begs you not to take the job you were offered this morning. He does have your nose. You...
+answerMost: tell him you'll take the job just to spite him
+answerHigh: ask him something only you would know
+answerMid: ask him what's so bad about the job
+answerLow: let him in and hear him out
+answerLeast: phone them and turn the job down
 rorschachMost: a gorilla
 rorschachHigh: a raised fist
 rorschachMid: a bouncer

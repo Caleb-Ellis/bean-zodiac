@@ -15,8 +15,8 @@ friendlyBeans: [mung, chickpea]
 friendlyForm: boiled
 seasonalFortune: "A season of dried chipotle and cocked triggers — the pantry waits, loaded, for a reason."
 fortuneMost: Jump at every shadow and you'll be worn out before the real thing comes.
-fortuneHigh: Be ready to go at a moment's notice.
-fortuneMid: The cobra rests coiled, so it never has far to go.
+fortuneHigh: The cobra rests coiled, always prepared to strike.
+fortuneMid: Be ready to go at a moment's notice.
 fortuneLow: Most things can wait until you've finished your coffee.
 fortuneLeast: Some of the best things happen when you're not ready for them.
 facetMostTitle: Beanie Get Your Gun
