@@ -1,12 +1,12 @@
 ---
-# TODO: check all
+# TODO: check facets, question
 slug: bitter-fermented-fava
-lastUpdated: 
+lastUpdated:
 bean: fava
 flavour: bitter
 form: fermented
 trait: questioning
-excess: disputatious
+excess: contentious
 inverse: credulous
 quote: The bean that gets questioned, gets answered.
 creature: lemur
@@ -14,9 +14,9 @@ dish: Doubanjiang aged from fava beans with bitter chilli skins.
 friendlyBeans: [green, pinto]
 friendlyForm: fried
 seasonalFortune: "A season of chilli skins and open arguments; the paste disputes the recipe it was given."
-fortuneMost: Pull at every loose thread and there'll be nothing left to wear.
-fortuneHigh: Ask who said so.
-fortuneMid: The aye-aye lemur taps on wood to hear where it's hollow.
+fortuneMost: Pull at every thread and there'll be nothing left to wear.
+fortuneHigh: Ask yourself – why do you believe it to be true?
+fortuneMid: The aye-aye lemur taps on wood to hear where it's hollow. And where it's hollow, there's something hiding.
 fortuneLow: The instructions were written by someone who's done it before.
 fortuneLeast: People who believe what they're told tend to sleep very well.
 facetMostTitle: Bean/Nixon
@@ -40,11 +40,11 @@ answerHigh: ask whether she's changed anything else since starting
 answerMid: ask how long it took before she noticed
 answerLow: say you've heard it's good for you
 answerLeast: ask what else it can cure
-rorschachMost: a heckling crowd
+rorschachMost: a mob
 rorschachHigh: an uprooted shrub
-rorschachMid: a squid
+rorschachMid: a weird jellyfish
 rorschachLow: a sheep
-rorschachLeast: a sponge
+rorschachLeast: a sea sponge
 ---
 
 Cultured Fava Beans are the Bean Zodiac's most questioning. They ask who decided that, and when, and whether it worked — and the room realises nobody knows. Some evenings it's questions all the way down and nothing gets eaten. Taking a claim on trust is a muscle they never built.

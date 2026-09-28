@@ -19,7 +19,7 @@ fortuneHigh: Keep it up! We'll sleep when we're dead!
 fortuneMid: A minnow darts from stone to stone, and never strays far from the shallows.
 fortuneLow: Leave a gap between one plan and the next.
 fortuneLeast: Nobody ever regretted a long lunch.
-facetMostTitle: Everything Beanwhere All at Once
+facetMostTitle: Everything Everywhere Beaned at Once
 facetMost: You're at a festival where the bands you came for are all playing at once, on different stages. You've lost your friends, your phone's about to die, and you haven't seen one set all the way through.
 facetMostAction: Halfway through the headliner, you leave to catch the end of a set on another stage.
 facetHighTitle: Quickbeanver

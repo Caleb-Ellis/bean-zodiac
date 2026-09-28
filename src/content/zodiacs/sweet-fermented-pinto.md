@@ -15,25 +15,25 @@ friendlyBeans: [fava, green]
 friendlyForm: roasted
 seasonalFortune: "A season of tepache and piloncillo — the crock turns pineapple skins into something the fruit never was, and everyone asks what's in it."
 fortuneMost: A story told only to yourself has nobody to argue with it.
-fortuneHigh: The tailorbird sews two leaves together with spider silk and lives in the pocket it makes.
-fortuneMid: Somebody had to make the first one up.
+fortuneHigh: The tailorbird looks at a leaf and sees a home.
+fortuneMid: The bean who has no imagination has no wings.
 fortuneLow: Measure the gap before you buy the shelf.
 fortuneLeast: Nobody ever got warm by imagining a fire.
 facetMostTitle: Life of Bean
 facetMost: You've been seeing somebody four months. In a taxi she said her place feels too big for one person, and you've thought about little else since; she hasn't mentioned it again. Your lease is up at the end of the month and the landlord wants to know whether you're renewing.
 facetMostAction: You tell him you're moving out.
 facetHighTitle: Where the Wild Beans Are
-facetHigh: Your oldest friend turns thirty and has said she wants dinner somewhere and nothing else. You have three weeks.
-facetHighAction: You hide twelve envelopes with shopkeepers across town, forge a letter dated 1912, and give the woman at the bakery a line to say back when your friend comes in.
+facetHigh: You're babysitting your sister's little boy, and an hour past bedtime he's still sitting bolt upright. He says a wolf lives under his bed, and he wants to know what it looks like and whether it's hungry.
+facetHighAction: You tell him it only eats socks, and it's scared of him.
 facetMidTitle: Bridge to Terabeanthia
-facetMid: It's rained for two days at the campsite and the six of you have been in the awning since breakfast with one pack of cards. Two of them have already said they'll drive home tonight.
-facetMidAction: You make up a game with the cards and give the six of you a character each.
+facetMid: A friend has spent her savings on an old houseboat. There's moss on the roof and the cabin smells of diesel, and while she's showing you round she asks what you'd do with it.
+facetMidAction: You say a wood stove, and herbs growing along the roof.
 facetLowTitle: Just the Beans, Ma'am
 facetLow: A friend has brought in a painting he inherited and is sure is worth something; he's already worked out what he'd do with the money. The auction house has let the two of you into the back room where the lots are laid out on trestles. He asks what you make of it.
 facetLowAction: You turn it over and read out what's written on the back.
 facetLeastTitle: Proof of Bean
-facetLeast: Five of you have been meeting about a magazine round a table in the back of the café since spring. There's a name, a logo and a launch party booked for October, and nobody has written anything yet.
-facetLeastAction: You put twenty copies of a first issue you wrote and printed yourself on the table.
+facetLeast: It's your first MRI scan, and you'll be lying still in the tube for forty minutes while it bangs away. The radiographer says it helps to close your eyes and picture somewhere you'd love to be.
+facetLeastAction: You keep your eyes open and listen to the machine.
 question: They've drained the lake to work on the dam, and half the town has walked out onto the bed of it. There's a building coming out of the mud — a doorway, two walls of a room, and steps going down. You...
 answerMost: come away certain there was somebody standing in the doorway
 answerHigh: invent the family who lived in the room, down to the dog
