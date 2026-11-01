@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from "react";
+import { useNavigate } from "@tanstack/react-router";
 import DateInput from "../ui/DateInput";
 import {
   getZodiacMetadataForDate,
@@ -8,17 +9,17 @@ import {
 import { fetchZodiac, type AllZodiacData } from "../../lib/data";
 import { useStore } from "../../store";
 import ZodiacWheel, { BEANS_LETTERS } from "./wheel/ZodiacWheel";
-import ZodiacIdentity from "../zodiac/ZodiacIdentity";
+import ZodiacResultCard from "./wheel/ZodiacResultCard";
 
 type Props = {
   data: AllZodiacData;
 };
 
-const SPIN_DURATION_MS = 3700;
+const SPIN_DURATION_MS = 4930;
 const FADE_MS = 300;
 const RESULT_MOUNT_DELAY_MS = 150;
 
-const LETTER_INTERVAL = Math.floor(2000 / BEANS_LETTERS.length);
+const LETTER_INTERVAL = Math.floor(2670 / BEANS_LETTERS.length);
 
 const MORE_BEANS_LABELS = [
   "I Require More Beans",
@@ -48,14 +49,19 @@ export default function WheelPage({ data }: Props) {
   );
   const [zodiac, setZodiac] = useState<Zodiac | null>(null);
   const [justClaimed, setJustClaimed] = useState(false);
-  const topRef = useRef<HTMLDivElement>(null);
+  const navigate = useNavigate();
   const wheelRef = useRef<HTMLDivElement>(null);
   const [spinning, setSpinning] = useState(false);
-  const [resultMounted, setResultMounted] = useState<boolean>(() => !!getDateParam());
-  const [resultVisible, setResultVisible] = useState<boolean>(() => !!getDateParam());
+  const [resultMounted, setResultMounted] = useState<boolean>(
+    () => !!getDateParam(),
+  );
+  const [resultVisible, setResultVisible] = useState<boolean>(
+    () => !!getDateParam(),
+  );
 
   const [moreBeanLabel, setMoreBeanLabel] = useState(
-    () => MORE_BEANS_LABELS[Math.floor(Math.random() * MORE_BEANS_LABELS.length)],
+    () =>
+      MORE_BEANS_LABELS[Math.floor(Math.random() * MORE_BEANS_LABELS.length)],
   );
 
   const [highlighted, setHighlighted] = useState(() => !!getDateParam());
@@ -98,8 +104,8 @@ export default function WheelPage({ data }: Props) {
         if (count >= BEANS_LETTERS.length) clearInterval(letterTimer);
       }, LETTER_INTERVAL);
 
-      setTimeout(() => setBeansVisible(false), SPIN_DURATION_MS - 500);
-      if (wheelRef.current) smoothScrollToCenter(wheelRef.current, 600);
+      setTimeout(() => setBeansVisible(false), SPIN_DURATION_MS - 670);
+      if (wheelRef.current) smoothScrollToCenter(wheelRef.current, 800);
 
       setTimeout(() => {
         setSpinning(false);
@@ -114,117 +120,92 @@ export default function WheelPage({ data }: Props) {
 
   function handleClaim() {
     if (!selectedDate) return;
-    const { flavourId, formId, beanId } = getZodiacMetadataForDate(selectedDate);
+    const { flavourId, formId, beanId } =
+      getZodiacMetadataForDate(selectedDate);
     const slug: ZodiacId = `${flavourId}-${formId}-${beanId}`;
     useStore.getState().setClaimed(slug);
     setClaimedSlug(slug);
     setJustClaimed(true);
   }
 
+  function handleContinue() {
+    setResultVisible(false);
+    // ClaimedHome opens the first ritual by itself.
+    setTimeout(() => navigate({ to: "/" }), FADE_MS);
+  }
+
   function handleReset() {
     setHighlighted(false);
-    setJustClaimed(false);
     setSpinning(true);
     setResultVisible(false);
     setTimeout(() => {
       setResultMounted(false);
       setSpinning(false);
-      setMoreBeanLabel(MORE_BEANS_LABELS[Math.floor(Math.random() * MORE_BEANS_LABELS.length)]);
-      const url = new URL(window.location.href);
-      url.searchParams.delete("date");
-      window.history.pushState({}, "", url);
-      topRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+      setMoreBeanLabel(
+        MORE_BEANS_LABELS[Math.floor(Math.random() * MORE_BEANS_LABELS.length)],
+      );
+      // Through the router rather than pushState: the router sees a raw pushState
+      // too, and treats it as a navigation that resets scroll to the top.
+      navigate({ to: "/wheel", search: {}, resetScroll: false });
     }, FADE_MS);
   }
 
   return (
-    <div ref={topRef} className="flex flex-col items-center text-center w-full">
+    <div className="flex flex-col items-center text-center w-full">
       <div ref={wheelRef} className="relative w-full flex justify-center">
         <ZodiacWheel
-          date={selectedDate ?? new Date(new Date().getFullYear() - 60, new Date().getMonth(), new Date().getDate())}
+          date={
+            selectedDate ??
+            new Date(
+              new Date().getFullYear() - 60,
+              new Date().getMonth(),
+              new Date().getDate(),
+            )
+          }
           highlight={selectedDate !== null && highlighted}
           idle={selectedDate === null}
           beansLetterCount={beansLetterCount}
           beansVisible={beansVisible}
         />
-        <div
-          className={`absolute -bottom-2 left-1/2 -translate-x-1/2 transition-opacity duration-500 ${resultVisible ? "opacity-100" : "opacity-0"}`}
-          style={{ filter: "drop-shadow(0 0 8px rgba(161,161,170,0.7))" }}
-        >
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="#a1a1aa"
-            strokeWidth="2"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-            className="w-8 h-8 animate-bounce"
-          >
-            <path d="m6 9 6 6 6-6" />
-          </svg>
-        </div>
       </div>
-      <div
-        className={`relative w-full flex items-center justify-center overflow-hidden transition-[height,opacity] duration-300 ${resultMounted ? "h-0" : "h-40"}`}
-      >
+      <div className="relative w-full flex items-center justify-center overflow-hidden h-40">
         <section
           className={`absolute w-full px-6 flex flex-col items-center gap-3 transition-opacity duration-300 ${
-            controlsHidden ? "opacity-0 pointer-events-none select-none" : "opacity-100"
+            controlsHidden
+              ? "opacity-0 pointer-events-none select-none"
+              : "opacity-100"
           }`}
         >
-          {!claimedSlug && (
-            <label className="text-xs uppercase tracking-widest text-zinc-400">
-              What date is special to you?
-            </label>
-          )}
+          <label className="text-xs uppercase tracking-widest text-zinc-400">
+            {claimedSlug
+              ? "What date interests you?"
+              : "What date is special to you?"}
+          </label>
           <DateInput value={inputDate} onChange={setInputDate} />
           <button
             onClick={handleReveal}
             className="bg-zinc-900/80 border-2 border-zinc-500/60 text-white rounded-xl px-8 py-4 text-lg font-bold backdrop-blur-sm transition-[border-color,background-color,color] duration-200 hover:border-zinc-400 hover:text-white hover:bg-zinc-800/80 cursor-pointer"
           >
-            Discover the Bean Within
+            {claimedSlug
+              ? "Discover the Bean inside"
+              : "Uncover the Bean within"}
           </button>
         </section>
       </div>
       {resultMounted && selectedDate && (
-        <div
-          className={`my-4 sm:my-6 w-full transition-opacity duration-300 ${
-            resultVisible ? "opacity-100" : "opacity-0"
-          }`}
-        >
-          <ZodiacIdentity
-            key={selectedDate.getTime()}
-            data={data}
-            zodiac={zodiac}
-            date={selectedDate}
-            onClaim={handleClaim}
-            claimed={justClaimed}
-            hasClaimed={!!claimedSlug && !justClaimed}
-          />
-
-          <div className="mt-8 flex flex-col items-center gap-6">
-            <button
-              onClick={handleReset}
-              className="link text-base text-zinc-300 hover:text-white transition-colors cursor-pointer bg-transparent border-none p-0"
-            >
-              {moreBeanLabel}{" "}
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2.5"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                className="inline-block ml-1.5 w-4 h-4 align-[-0.125em]"
-              >
-                <path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8" />
-                <path d="M3 3v5h5" />
-              </svg>
-            </button>
-          </div>
-        </div>
+        <ZodiacResultCard
+          key={selectedDate.getTime()}
+          data={data}
+          zodiac={zodiac}
+          date={selectedDate}
+          visible={resultVisible}
+          hasClaimed={!!claimedSlug && !justClaimed}
+          justClaimed={justClaimed}
+          respinLabel={moreBeanLabel}
+          onClaim={handleClaim}
+          onRespin={handleReset}
+          onContinue={handleContinue}
+        />
       )}
     </div>
   );
@@ -238,7 +219,8 @@ function getDateParam(): string | null {
 
 function smoothScrollToCenter(el: HTMLElement, duration = 1200) {
   const rect = el.getBoundingClientRect();
-  const targetY = window.scrollY + rect.top + rect.height / 2 - window.innerHeight / 2;
+  const targetY =
+    window.scrollY + rect.top + rect.height / 2 - window.innerHeight / 2;
   const startY = window.scrollY;
   const diff = targetY - startY;
   const start = performance.now();

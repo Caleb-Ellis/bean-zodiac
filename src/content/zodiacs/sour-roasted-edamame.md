@@ -1,49 +1,48 @@
 ---
-# TODO: check all
 slug: sour-roasted-edamame
-lastUpdated: 
+lastUpdated: 2026-11-03
 bean: edamame
 flavour: sour
 form: roasted
 trait: forthright
 excess: abrasive
-inverse: equivocal
+inverse: ambiguous
 quote: All you need in this life is ignorance and beans, and then success is sure.
 creature: mastiff
 dish: Roasted edamame with ponzu and coriander.
 friendlyBeans: [pinto, navy]
 friendlyForm: fried
 seasonalFortune: "A season of ponzu and dry heat — what everyone wants gets said out loud early, and the rest arranges itself around it."
-fortuneMost: Some people want the option, not the answer.
+fortuneMost: Straight talk has a way of ending conversations.
 fortuneHigh: Don't make them guess.
 fortuneMid: A mastiff leans on you, and there's no mistaking how much dog there is.
 fortuneLow: You don't need a position on everything.
-fortuneLeast: Nobody ever lost anything by saying they'd think about it.
+fortuneLeast: You can say you need to think about it.
 facetMostTitle: The Beanpprentice
-facetMost: A year of sweeping up at the tattoo studio, unpaid, on the owner's promise of a chair of your own by the summer. The summer has gone. It's the shop's birthday, and he introduces you to a room of his customers as the apprentice, still with a way to go.
-facetMostAction: You tell him you want a date for the chair.
+facetMost: You've worked at a tattoo studio for a year, underpaid, because the owner promised you your own chair by the summer. The summer has gone. At the shop's birthday party he introduces you to a room of his regulars as the apprentice, still with a way to go.
+facetMostAction: You tell him, in front of everyone, that you want a date for the chair.
 facetHighTitle: Straight Outta Beanton
-facetHigh: The woman who runs the café on the corner wants a mural across her front wall, and she keeps saying how many people walk past it. Nobody has paid you to paint anything before, and there are art students who'd do it for nothing.
-facetHighAction: You tell her you'd want paying for it, and the wall to yourself for a week.
+facetHigh: Your grandmother's flat is being cleared, and your mother and aunties are taking a look around for what they might take. Nobody wants to be the first to ask for anything. You've wanted her piano since you were small.
+facetHighAction: You say you'd like the piano.
 facetMidTitle: Bean It Like Beckham
-facetMid: Most weeks at five-a-side you sit out the first half, and you've been in this team three seasons. The whistle has gone and everybody is still on the pitch. The one who picks the side is next to you, and the people who start instead of you are friends of yours.
-facetMidAction: You tell him you want to start.
+facetMid: A friend asked you to make the cake for her wedding as a job, not a present, but a price was never agreed. At the reception her dad finds you by the dessert table and tells you to name whatever you think is fair.
+facetMidAction: You name a price you think is fair.
 facetLowTitle: Sliding Beans
-facetLow: A cider maker outside town has pulled a few people in off the yard to taste two barrels — he wants drinkers, not experts. He can bottle one of them, and the other goes down the drain. He works round the circle asking which.
-facetLowAction: You say there's something in both of them.
+facetLow: Walking home from the cinema, a close friend says she's taking a job overseas and wants you to come and share a flat with her. You have the residency requirements, and she's already found a beautiful apartment with a balcony over the river. You don't really want to go.
+facetLowAction: You tell her maybe.
 facetLeastTitle: Yes, Beanister
-facetLeast: You spoke at the meeting about the flats going up on the park, so the local radio station has you on after the developer. A man behind the glass is counting down your minutes. The presenter asks straight out whether you are for the flats or against them.
-facetLeastAction: You say the flats would help, and that the park is worth keeping.
-question: Search your own name and the first thing that comes up is a photo a friend posted from her birthday — eyes half shut, mouth open. You want it gone. She loves it. You...
+facetLeast: You're live on local radio, straight after a developer who wants to build flats over the local park. It's a contentious issue – they'll help with housing accessibility, but could negatively affect the local community feel. The presenter asks you outright whether you're for the flats or against them.
+facetLeastAction: You say the flats would help, but that the park is worth keeping.
+question: You search your name online, and the first result is a photo of you that a friend posted from her birthday, with your eyes half shut and your mouth open. You want it gone, but she loves it. You...
 answerMost: say under the post that you want it taken down
-answerHigh: message her and ask her to take it down
-answerMid: tell her the next time you see her that you'd rather it wasn't up
-answerLow: comment that you're pressing charges
-answerLeast: be the first to like it
-rorschachMost: a werewolf
-rorschachHigh: a mastiff
-rorschachMid: a scarecrow
-rorschachLow: a ghost
+answerHigh: message her privately and ask her to take it down
+answerMid: tell her you'd prefer if it wasn't up, next time you see her
+answerLow: comment "delete this" with a laughing emoji
+answerLeast: comment "iconic"
+rorschachMost: claw marks
+rorschachHigh: a scarecrow
+rorschachMid: a jellyfish
+rorschachLow: an apparition
 rorschachLeast: hard to say
 ---
 

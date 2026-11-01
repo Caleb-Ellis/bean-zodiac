@@ -1,4 +1,3 @@
-import { useRef } from "react";
 import type { BeanId, FlavourId, FormId, ZodiacId } from "../../../lib/zodiac";
 import { getPreparationName } from "../../../lib/zodiac";
 import type { AllZodiacData } from "../../../lib/data";
@@ -39,21 +38,6 @@ export default function SpiritPanel({
 }: Props) {
   const activeRadarTab = useUiStore((s) => s.radarTab);
   const setActiveRadarTab = useUiStore((s) => s.setRadarTab);
-  const radarKeys = ["bean", "flavour", "form"] as const;
-  const touchStartXRef = useRef(0);
-
-  const handleTouchStart = (e: React.TouchEvent) => {
-    touchStartXRef.current = e.touches[0].clientX;
-  };
-
-  const handleTouchEnd = (e: React.TouchEvent) => {
-    const dx = e.changedTouches[0].clientX - touchStartXRef.current;
-    if (Math.abs(dx) < 40) return;
-    const idx = radarKeys.indexOf(activeRadarTab);
-    const n = radarKeys.length;
-    if (dx < 0) setActiveRadarTab(radarKeys[(idx - 1 + n) % n]);
-    else setActiveRadarTab(radarKeys[(idx + 1) % n]);
-  };
 
   const [spiritFlavourId, spiritFormId, spiritBeanId] = zodiacParts(spiritId);
   const spiritBean = data.beans[spiritBeanId];
@@ -97,7 +81,7 @@ export default function SpiritPanel({
         {spiritBean && (
           <div className="text-center shrink-0">
             <p className="max-lg:hidden text-xs text-zinc-400 uppercase tracking-widest mb-1">
-              Spirit Bean
+              Bean Affinity
             </p>
             <p className="text-lg font-bold leading-tight mb-2">
               <ZodiacName
@@ -146,11 +130,7 @@ export default function SpiritPanel({
               </button>
             ))}
           </div>
-          <div
-            className="w-[65%] max-h-72 mx-auto aspect-square"
-            onTouchStart={handleTouchStart}
-            onTouchEnd={handleTouchEnd}
-          >
+          <div className="w-[65%] max-h-72 mx-auto aspect-square">
             <MorphingRadar {...radarProps} />
           </div>
         </div>

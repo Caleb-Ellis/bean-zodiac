@@ -67,13 +67,18 @@ export default function ZodiacDetail({ id, children }: Props) {
         }}
       />
       <article className="relative rounded-2xl bg-zinc-900 overflow-hidden">
+        <div className="md:hidden px-6 pt-6">
+          <BackLink />
+        </div>
         <div className="flex flex-col md:flex-row">
           <div className="w-full md:w-80 shrink-0 h-80 md:h-auto">
             <Bean bean={bean} flavourId={flavourId} formId={formId} />
           </div>
           <div className="p-6 md:p-8 flex flex-col gap-4 min-w-0">
-            <BackLink />
-            <h1 className="text-3xl font-bold">
+            <div className="hidden md:block">
+              <BackLink />
+            </div>
+            <h1 className="text-3xl font-bold text-center text-balance md:text-left">
               <ZodiacName
                 flavourId={flavourId}
                 formId={formId}
@@ -82,15 +87,17 @@ export default function ZodiacDetail({ id, children }: Props) {
                 beanName={bean.name}
               />
             </h1>
-            <div className="flex flex-wrap items-center gap-2 text-sm text-zinc-400">
-              <FlavourBadge id={flavourId} name={flavour.name} />
+            <div className="flex flex-wrap items-center justify-center md:justify-start gap-2 text-sm text-zinc-400">
+              <FlavourBadge id={flavourId} name={flavour.name} small />
               <span className="text-zinc-600">×</span>
-              <FormBadge id={formId} name={form.name} />
+              <FormBadge id={formId} name={form.name} small />
               <span className="text-zinc-600">×</span>
-              <BeanBadge id={beanId} name={bean.name} />
+              <BeanBadge id={beanId} name={bean.name} small />
             </div>
             {zodiac && everMet && (
-              <p className="text-zinc-300 italic">"{zodiac.quote}"</p>
+              <p className="text-zinc-300 italic text-center text-balance md:text-left">
+                "{zodiac.quote}"
+              </p>
             )}
             {zodiac &&
               (everMet ? (

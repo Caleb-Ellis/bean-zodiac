@@ -82,7 +82,7 @@ export default function BeanstalkPage({ data }: Props) {
         </div>
 
         <div className="text-center">
-          <h1 className="text-2xl sm:text-4xl font-bold mb-4">Spirit Bean</h1>
+          <h1 className="text-2xl sm:text-4xl font-bold mb-4">Bean Affinity</h1>
           <p className="text-zinc-400 mt-3 mb-4 sm:mb-6">
             Your current affinity with each element of the Bean Zodiac.
           </p>
@@ -141,7 +141,7 @@ export default function BeanstalkPage({ data }: Props) {
                 <div className="flex flex-col sm:flex-row gap-12 sm:gap-8 justify-center items-center sm:items-start w-full max-w-2xl my-4">
                   <div className="flex flex-col items-center gap-3 flex-1">
                     <p className="text-sm text-zinc-500 uppercase tracking-widest mb-4">
-                      You were born a
+                      You claimed the
                     </p>
                     <MiniIdentity
                       beanId={beanId}
@@ -155,7 +155,7 @@ export default function BeanstalkPage({ data }: Props) {
                   {isDifferent && (
                     <div className="flex flex-col items-center gap-3 flex-1">
                       <p className="text-sm text-zinc-500 uppercase tracking-widest mb-4">
-                        Your spirit is a
+                        Your spirit belongs to the
                       </p>
                       <MiniIdentity
                         beanId={spiritBeanId}

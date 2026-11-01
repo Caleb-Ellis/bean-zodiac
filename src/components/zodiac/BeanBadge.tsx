@@ -10,7 +10,8 @@ interface Props {
 }
 
 export default function BeanBadge({ id, name, label, small }: Props) {
-  const text = label ? `${name} ${label}` : name;
+  const shownName = name.replace(/ Bean$/, "");
+  const text = label ? `${shownName} ${label}` : shownName;
   return (
     <Badge
       href={`/beans/${id}`}

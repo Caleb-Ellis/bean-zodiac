@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState, type ReactNode } from "react";
 import { createPortal } from "react-dom";
 import type { BeanId, FlavourId, FormId } from "../../../lib/zodiac";
+import ZodiacCardBorder from "../../zodiac/ZodiacCardBorder";
 
 const SWAY_KEYFRAMES: Array<[number, number]> = [
   [2, 1],
@@ -215,25 +216,12 @@ export default function RitualCardShell({
                     pointerEvents: revealed ? "auto" : "none",
                   }}
                 >
-                  <div
-                    className="absolute"
-                    style={{
-                      inset: "-200%",
-                      background: `conic-gradient(from 0deg, var(--flavour-${flavourId}), var(--form-${formId}), var(--bean-${beanId}), var(--flavour-${flavourId}))`,
-                      animation: "spin 10s linear infinite",
-                    }}
+                  <ZodiacCardBorder
+                    flavourId={flavourId}
+                    formId={formId}
+                    beanId={beanId}
+                    pulse={revealed}
                   />
-                  {revealed && (
-                    <div
-                      aria-hidden
-                      className="absolute animate-border-pulse"
-                      style={{
-                        inset: "-200%",
-                        background: `conic-gradient(from 90deg, var(--flavour-${flavourId}), var(--form-${formId}), var(--bean-${beanId}), var(--flavour-${flavourId}))`,
-                        filter: "brightness(1.5) saturate(1.4)",
-                      }}
-                    />
-                  )}
                   <div
                     ref={cardBoxRef}
                     className="relative w-full rounded-[calc(1rem-1.5px)] bg-zinc-900 overflow-hidden flex flex-col justify-center"

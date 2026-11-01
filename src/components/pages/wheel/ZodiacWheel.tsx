@@ -28,9 +28,9 @@ const BEAN_R2 = 83;
 // Angular gap between segments
 const GAP = 1.1;
 const EASING = "cubic-bezier(0.4, 0, 0.1, 1)";
-const TRANSITION_FLAVOUR = `transform 2.5s ${EASING} 0ms`;
-const TRANSITION_FORM = `transform 2.5s ${EASING} 0ms`;
-const TRANSITION_BEAN = `transform 2.5s ${EASING} 0ms`;
+const TRANSITION_FLAVOUR = `transform 3.33s ${EASING} 0ms`;
+const TRANSITION_FORM = `transform 3.33s ${EASING} 0ms`;
+const TRANSITION_BEAN = `transform 3.33s ${EASING} 0ms`;
 // Idle spin: form (middle ring, 1yr/rev) at 1rev/min; bean/flavour scaled by real cycle lengths
 const IDLE_FORM_DPMs = 360 / 60000;            // 1 yr  → 1 rev/min
 const IDLE_BEAN_DPMs = IDLE_FORM_DPMs / 12;    // 12 yr → 1 rev/12min
@@ -304,10 +304,10 @@ export default function ZodiacWheel({
       setActiveFlavourIdx(flavourIdx);
       setActiveFormIdx(formIdx);
       setBeanActive(true);
-    }, 2700);
-    const t2 = setTimeout(() => setFormActive(true), 2850);
-    const t3 = setTimeout(() => setFlavourActive(true), 3000);
-    const t4 = setTimeout(() => setCentreActive(true), 3150);
+    }, 3600);
+    const t2 = setTimeout(() => setFormActive(true), 3800);
+    const t3 = setTimeout(() => setFlavourActive(true), 4000);
+    const t4 = setTimeout(() => setCentreActive(true), 4200);
     return () => {
       clearTimeout(t1);
       clearTimeout(t2);
@@ -368,7 +368,7 @@ export default function ZodiacWheel({
                 strokeWidth={3}
                 clipPath={`url(#clip-b-${beanId})`}
                 fill={active ? color : "transparent"}
-                style={{ stroke: color, transition: "fill 0.5s ease" }}
+                style={{ stroke: color, transition: "fill 0.67s ease" }}
               />
               <image
                 href={`/images/${beanId}.svg`}
@@ -410,7 +410,7 @@ export default function ZodiacWheel({
                 strokeWidth={3}
                 clipPath={`url(#clip-m-${formId})`}
                 fill={active ? color : "transparent"}
-                style={{ stroke: color, transition: "fill 0.5s ease" }}
+                style={{ stroke: color, transition: "fill 0.67s ease" }}
               />
               <text
                 x={x}
@@ -452,7 +452,7 @@ export default function ZodiacWheel({
                 strokeWidth={4}
                 clipPath={`url(#clip-fl-${flavourId})`}
                 fill={active ? color : "transparent"}
-                style={{ stroke: color, transition: "fill 0.5s ease" }}
+                style={{ stroke: color, transition: "fill 0.67s ease" }}
               />
               <text
                 x={x}
@@ -485,7 +485,7 @@ export default function ZodiacWheel({
           strokeWidth="1.5"
           opacity={0.9}
           style={{
-            transition: "fill 0.5s ease, filter 0.5s ease",
+            transition: "fill 0.67s ease, filter 0.67s ease",
             filter: centreActive
               ? `drop-shadow(0 0 5px ${centreColor}) drop-shadow(0 0 10px ${centreColor})`
               : "none",
@@ -499,7 +499,7 @@ export default function ZodiacWheel({
           style={{
             transformOrigin: `${CX}px ${CY}px`,
             opacity: centreActive ? undefined : 0,
-            animation: centreActive ? "centre-glow 1s ease-out forwards" : "none",
+            animation: centreActive ? "centre-glow 1.33s ease-out forwards" : "none",
             willChange: "transform, opacity",
             pointerEvents: "none",
           }}
@@ -522,7 +522,7 @@ export default function ZodiacWheel({
       <g
         style={{
           opacity: beansVisible ? 1 : 0,
-          transition: "opacity 0.3s ease",
+          transition: "opacity 0.4s ease",
           userSelect: "none",
           pointerEvents: "none",
         }}
@@ -543,7 +543,7 @@ export default function ZodiacWheel({
               transform={`rotate(${90 + deg}, ${x}, ${y})`}
               style={{
                 opacity: i < (beansLetterCount ?? 0) ? 1 : 0,
-                transition: i < (beansLetterCount ?? 0) ? "opacity 0.3s ease" : "none",
+                transition: i < (beansLetterCount ?? 0) ? "opacity 0.4s ease" : "none",
               }}
             >
               {letter}

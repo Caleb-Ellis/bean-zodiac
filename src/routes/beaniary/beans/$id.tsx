@@ -15,18 +15,23 @@ export const Route = createFileRoute("/beaniary/beans/$id")({
 
     return (
       <article className="animate-fade-up rounded-2xl bg-zinc-900 border-2 border-zinc-800 overflow-hidden">
+        <div className="md:hidden px-6 pt-6">
+          <BackLink />
+        </div>
         <div className="flex flex-col md:flex-row">
           <div className="w-full md:w-80 shrink-0 h-80 md:h-auto">
             <Bean bean={bean} />
           </div>
           <div className="p-6 md:p-8 flex flex-col gap-4 min-w-0">
-            <BackLink />
-            <div>
+            <div className="hidden md:block">
+              <BackLink />
+            </div>
+            <div className="text-center text-balance md:text-left">
               <h1 className={`text-3xl font-bold bean-${id}`}>{bean.name}</h1>
               <p className="text-lg text-zinc-400 my-2">{bean.role}</p>
               <p className="text-zinc-300 italic">“{bean.tagline}”</p>
             </div>
-            <ul className="flex flex-wrap gap-1.5 list-none p-0 m-0">
+            <ul className="flex flex-wrap justify-center md:justify-start gap-1.5 list-none p-0 m-0">
               {bean.positiveTraits.map((trait) => (
                 <TraitBadge key={trait} trait={trait} />
               ))}

@@ -11,9 +11,6 @@ import {
 import { fetchZodiac, type AllZodiacData } from "../../../lib/data";
 import { useStore } from "../../../store";
 import Bean from "../../zodiac/Bean";
-import BeanBadge from "../../zodiac/BeanBadge";
-import FlavourBadge from "../../zodiac/FlavourBadge";
-import FormBadge from "../../zodiac/FormBadge";
 import ZodiacName from "../../zodiac/ZodiacName";
 import Divider from "../../ui/Divider";
 
@@ -36,8 +33,6 @@ export default function ClaimedHomeContent({ data, date, claimedSlug }: Props) {
 
   const seasonalMeta = getZodiacMetadataForDate(date);
   const seasonalBean = data.beans[seasonalMeta.beanId];
-  const seasonalFlavour = data.flavours[seasonalMeta.flavourId];
-  const seasonalForm = data.forms[seasonalMeta.formId];
   const seasonalPreparation = getPreparationName(
     seasonalMeta.flavourId,
     seasonalMeta.formId,
@@ -178,7 +173,7 @@ export default function ClaimedHomeContent({ data, date, claimedSlug }: Props) {
             👤&nbsp; My Bean
           </a>
         </div>
-        <section className="mt-6 sm:mt-8 max-w-3xl w-full flex flex-col items-center gap-4">
+        <section className="mt-6 sm:mt-8 max-w-3xl w-full flex flex-col items-center gap-3">
           <Divider />
           <p className="text-xs uppercase tracking-widest text-zinc-200">
             {seasonalZodiac ? (
@@ -190,7 +185,7 @@ export default function ClaimedHomeContent({ data, date, claimedSlug }: Props) {
               <span className="inline-block h-4 w-48 bg-zinc-800 rounded-full animate-pulse" />
             )}
           </p>
-          <p className="text-sm sm:text-lg font-bold uppercase tracking-widest text-zinc-200 text-left mb-2">
+          <p className="text-sm sm:text-lg font-bold uppercase tracking-widest text-zinc-200 text-left">
             <ZodiacName
               flavourId={seasonalMeta.flavourId}
               formId={seasonalMeta.formId}
@@ -200,34 +195,6 @@ export default function ClaimedHomeContent({ data, date, claimedSlug }: Props) {
               zodiacId={seasonalMeta.zodiacId}
             />
           </p>
-          {seasonalBean && (
-            <div className="my-2 sm:my-4" style={{ width: "7rem" }}>
-              <Bean
-                bean={seasonalBean}
-                flavourId={seasonalMeta.flavourId}
-                formId={seasonalMeta.formId}
-              />
-            </div>
-          )}
-          <div className="flex flex-wrap justify-center items-center gap-2 text-sm text-zinc-400 my-2 sm:my-4">
-            <FlavourBadge
-              id={seasonalMeta.flavourId}
-              name={seasonalFlavour?.name ?? seasonalMeta.flavourId}
-              label="Phase"
-            />
-            <span className="text-zinc-600">×</span>
-            <FormBadge
-              id={seasonalMeta.formId}
-              name={seasonalForm?.name ?? seasonalMeta.formId}
-              label="Season"
-            />
-            <span className="text-zinc-600">×</span>
-            <BeanBadge
-              id={seasonalMeta.beanId}
-              name={seasonalBean?.name ?? seasonalMeta.beanId}
-              label="Year"
-            />
-          </div>
           {seasonalZodiac ? (
             <p className="italic text-zinc-200 sm:text-lg text-center px-4 mb-1">
               "{seasonalZodiac.seasonalFortune}"
